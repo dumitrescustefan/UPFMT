@@ -125,10 +125,18 @@ def eval_parsing(network, ds, config, log_output, train=False):
                    ds.num_dev_examples - ds.num_dev_sequences)
 
 
-def learn_sequence(network, ds, seq, config):
+def correct_sequence(seq):
+    seq2 = []
+    for iSrc in range(len(seq)):
+        parts = seq[iSrc].split("\t")
+        if "_" not in parts[6]:
+            seq2.append(seq[iSrc])
+    return seq2
+
+def learn_sequence(network, ds, seq_original, config):
+    seq = correct_sequence(seq_original)
     batch_x = ds.encode_input(seq, False, config.use_morphology)
-    prediction_y, prediction_y_labels, aux_prediction_y, aux_prediction_y_labels, upos, xpos, attrs = network.predict(
-        batch_x, False)
+    prediction_y, prediction_y_labels, aux_prediction_y, aux_prediction_y_labels, upos, xpos, attrs = network.predict(batch_x, False)
     errors = 0
     # loss=0
     gold_heads = []
@@ -319,7 +327,8 @@ if __name__=='__main__':
         display_help()
     else:
         if sys.argv[1] == "--train" and len(sys.argv) == 5:
-            os.mkdir(os.path.dirname(sys.argv[4]))
+            if not os.path.isdir(os.path.dirname(sys.argv[4])):
+                os.mkdir(os.path.dirname(sys.argv[4]))
             do_train(sys.argv[2], sys.argv[3], None, sys.argv[4], 5)
         else:
             if (sys.argv[1] == "--test" and len(sys.argv) == 4):

@@ -66,24 +66,25 @@ class Dataset:
                     parts = line.split("\t")                  
                     if "-" not in parts[0]:
                         if (len(parts) != 1):
-                            word = parts[1].lower()
-                            upos = parts[3]
-                            xpos = parts[4]
-                            attrs = parts[5]
-                            label = parts[7]
-                            if word not in trainableWE:
-                                trainableWE[word] = 1
-                            if upos not in self.upos2int:
-                                self.upos2int[upos] = len(self.upos2int)
-                                self.upos_list.append(upos)
-                            if attrs not in self.attrs2int:
-                                self.attrs2int[attrs] = len(self.attrs2int)
-                                self.attrs_list.append(attrs)
-                            if xpos not in self.xpos2int:
-                                self.xpos_list.append(xpos)
-                                self.xpos2int[xpos] = len(self.xpos2int)
-                            if label not in self.label2int:
-                                self.label2int[label] = len(self.label2int)                                
+                            if "_" not in parts[6]:
+                                word = parts[1].lower()
+                                upos = parts[3]
+                                xpos = parts[4]
+                                attrs = parts[5]
+                                label = parts[7]
+                                if word not in trainableWE:
+                                    trainableWE[word] = 1
+                                if upos not in self.upos2int:
+                                    self.upos2int[upos] = len(self.upos2int)
+                                    self.upos_list.append(upos)
+                                if attrs not in self.attrs2int:
+                                    self.attrs2int[attrs] = len(self.attrs2int)
+                                    self.attrs_list.append(attrs)
+                                if xpos not in self.xpos2int:
+                                    self.xpos_list.append(xpos)
+                                    self.xpos2int[xpos] = len(self.xpos2int)
+                                if label not in self.label2int:
+                                    self.label2int[label] = len(self.label2int)                                
                         else:
                             self.num_train_sequences = self.num_train_sequences + 1
 
@@ -97,7 +98,7 @@ class Dataset:
                         print("Read", self.num_dev_examples, "train examples")
                     parts = line.split("\t")
                     if (len(parts) != 1):
-                        if "-" not in parts[0]:
+                        if "-" not in parts[0] and "_" not in parts[6]:
                             word = parts[1].lower()
                             if word not in trainableWE:
                                 trainableWE[word] = 1
