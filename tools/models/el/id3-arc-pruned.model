@@ -1,0 +1,6801 @@
+4980
+ff_0:</s>
+ff_1:DET_Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_2:DET
+ff_3:</s>
+ff_4:X_Foreign=Yes
+ff_5:X
+ff_6:</s>
+ff_7:NULL
+ff_8:</s>
+ff_9:NULL
+ff_10:</s>
+ff_11:NULL
+ff_12:</s>
+ff_13:NULL
+ff_14:</s>
+ff_15:NULL
+ff_16:</s>
+ff_17:NULL
+ff_18:</s>
+ff_19:NULL
+ff_20:</s>
+ff_21:NULL
+ff_1:X_Foreign=Yes
+ff_2:X
+ff_4:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_5:VERB
+ff_7:DET_Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_9:X_Foreign=Yes
+ff_15:X_Foreign=Yes
+ff_17:DET_Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_0:από
+ff_1:ADP__
+ff_2:ADP
+ff_0:την
+ff_1:DET_Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_6:από
+ff_7:ADP__
+ff_14:την
+ff_15:DET_Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_16:την
+ff_17:DET_Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_0:με
+ff_6:με
+ff_9:NUM_NumType=Card
+ff_15:NUM_NumType=Card
+ff_16:με
+ff_17:ADP__
+ff_1:NUM_NumType=Card
+ff_2:NUM
+ff_1:ADV__
+ff_2:ADV
+ff_6:,
+ff_7:PUNCT__
+ff_8:,
+ff_9:PUNCT__
+ff_0:,
+ff_1:PUNCT__
+ff_2:PUNCT
+ff_4:ADV__
+ff_5:ADV
+ff_0:η
+ff_6:η
+ff_16:η
+ff_4:NOUN_Case=Acc|Gender=Neut|Number=Plur
+ff_5:NOUN
+ff_1:NOUN_Case=Acc|Gender=Neut|Number=Plur
+ff_2:NOUN
+ff_0:στα
+ff_1:ADP_Case=Acc|Gender=Neut|Number=Plur
+ff_9:NOUN_Case=Gen|Gender=Fem|Number=Sing
+ff_14:στα
+ff_15:ADP_Case=Acc|Gender=Neut|Number=Plur
+ff_16:στα
+ff_17:ADP_Case=Acc|Gender=Neut|Number=Plur
+ff_0:της
+ff_1:DET_Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_4:NOUN_Case=Gen|Gender=Fem|Number=Sing
+ff_1:NOUN_Case=Gen|Gender=Fem|Number=Sing
+ff_6:της
+ff_7:DET_Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_16:της
+ff_17:DET_Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_0:των
+ff_1:DET_Case=Gen|Definite=Def|Gender=Fem|Number=Plur|PronType=Art
+ff_4:NUM_NumType=Card
+ff_5:NUM
+ff_6:των
+ff_7:DET_Case=Gen|Definite=Def|Gender=Fem|Number=Plur|PronType=Art
+ff_16:των
+ff_17:DET_Case=Gen|Definite=Def|Gender=Fem|Number=Plur|PronType=Art
+ff_0:του
+ff_1:DET_Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art
+ff_6:του
+ff_7:DET_Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art
+ff_17:X_Foreign=Yes
+ff_0:.
+ff_1:DET_Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art
+ff_4:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_7:DET_Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art
+ff_9:NOUN_Case=Gen|Gender=Masc|Number=Sing
+ff_15:NOUN_Case=Gen|Gender=Masc|Number=Sing
+ff_17:DET_Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art
+ff_1:DET_Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art
+ff_4:NOUN_Case=Gen|Gender=Masc|Number=Sing
+ff_11:X_Foreign=Yes
+ff_12:.
+ff_13:PUNCT__
+ff_19:X_Foreign=Yes
+ff_21:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_1:NOUN_Case=Gen|Gender=Masc|Number=Sing
+ff_7:DET_Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art
+ff_8:του
+ff_9:DET_Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art
+ff_0:ο
+ff_1:DET_Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art
+ff_6:ο
+ff_7:DET_Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art
+ff_16:ο
+ff_17:DET_Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art
+ff_0:στο
+ff_1:ADP_Case=Acc|Gender=Neut|Number=Sing
+ff_4:NOUN_Case=Acc|Gender=Neut|Number=Sing
+ff_1:NUM_Case=Acc|Gender=Neut|Number=Sing|NumType=Ord
+ff_1:NOUN_Case=Acc|Gender=Neut|Number=Sing
+ff_6:στο
+ff_7:ADP_Case=Acc|Gender=Neut|Number=Sing
+ff_9:NUM_Case=Acc|Gender=Neut|Number=Sing|NumType=Ord
+ff_15:NUM_Case=Acc|Gender=Neut|Number=Sing|NumType=Ord
+ff_16:στο
+ff_17:ADP_Case=Acc|Gender=Neut|Number=Sing
+ff_4:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_0:ωστόσο
+ff_1:CCONJ__
+ff_2:CCONJ
+ff_0:οι
+ff_1:DET_Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art
+ff_4:ADJ_Case=Nom|Gender=Masc|Number=Plur
+ff_5:ADJ
+ff_10:,
+ff_11:PUNCT__
+ff_13:NUM_NumType=Card
+ff_18:ωστόσο
+ff_19:CCONJ__
+ff_21:X_Foreign=Yes
+ff_1:ADJ_Case=Nom|Gender=Masc|Number=Plur
+ff_2:ADJ
+ff_6:οι
+ff_7:DET_Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art
+ff_8:οι
+ff_9:DET_Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art
+ff_1:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_2:VERB
+ff_14:ωστόσο
+ff_15:CCONJ__
+ff_0:τον
+ff_1:DET_Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art
+ff_8:τον
+ff_9:DET_Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art
+ff_14:τον
+ff_15:DET_Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art
+ff_8:στο
+ff_9:ADP_Case=Acc|Gender=Neut|Number=Sing
+ff_17:NUM_Case=Acc|Gender=Neut|Number=Sing|NumType=Ord
+ff_11:NOUN_Case=Acc|Gender=Neut|Number=Sing
+ff_21:NOUN_Case=Acc|Gender=Neut|Number=Sing
+ff_8:η
+ff_9:DET_Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_0:δύο
+ff_1:NUM_Case=Acc|Gender=Neut|Number=Plur|NumType=Card
+ff_6:δύο
+ff_7:NUM_Case=Acc|Gender=Neut|Number=Plur|NumType=Card
+ff_8:δύο
+ff_9:NUM_Case=Acc|Gender=Neut|Number=Plur|NumType=Card
+ff_0:τους
+ff_1:DET_Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art
+ff_14:τους
+ff_15:DET_Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art
+ff_0:(
+ff_6:(
+ff_8:)
+ff_0:)
+ff_0:και
+ff_6:και
+ff_7:CCONJ__
+ff_16:και
+ff_17:CCONJ__
+ff_4:CCONJ__
+ff_5:CCONJ
+ff_11:CCONJ__
+ff_8:με
+ff_9:ADP__
+ff_0:το
+ff_6:το
+ff_8:το
+ff_9:DET_Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art
+ff_0:για
+ff_6:για
+ff_8:την
+ff_9:DET_Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_16:για
+ff_1:NUM_Case=Nom|Gender=Masc|Number=Plur|NumType=Card
+ff_4:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Pass
+ff_9:NUM_Case=Nom|Gender=Masc|Number=Plur|NumType=Card
+ff_14:δύο
+ff_15:NUM_Case=Nom|Gender=Masc|Number=Plur|NumType=Card
+ff_17:DET_Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art
+ff_0:θα
+ff_1:PART__
+ff_2:PART
+ff_0:στις
+ff_1:ADP_Case=Acc|Gender=Fem|Number=Plur
+ff_6:στις
+ff_7:ADP_Case=Acc|Gender=Fem|Number=Plur
+ff_16:στις
+ff_17:ADP_Case=Acc|Gender=Fem|Number=Plur
+ff_0:«
+ff_6:«
+ff_8:»
+ff_0:»
+ff_4:PROPN_Case=Acc|Gender=Masc|Number=Plur
+ff_5:PROPN
+ff_1:PROPN_Case=Acc|Gender=Masc|Number=Plur
+ff_2:PROPN
+ff_9:NOUN_Case=Acc|Gender=Masc|Number=Plur
+ff_14:με
+ff_15:ADP__
+ff_17:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_0:να
+ff_4:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_11:NOUN_Case=Acc|Gender=Fem|Number=Sing
+ff_13:NOUN_Case=Acc|Gender=Fem|Number=Sing
+ff_1:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_6:να
+ff_7:PART__
+ff_9:NOUN_Case=Acc|Gender=Fem|Number=Sing
+ff_15:NOUN_Case=Acc|Gender=Fem|Number=Sing
+ff_16:να
+ff_17:PART__
+ff_1:NOUN_Case=Acc|Gender=Fem|Number=Sing
+ff_7:NOUN_Case=Acc|Gender=Fem|Number=Sing
+ff_4:NOUN_Case=Acc|Gender=Fem|Number=Sing
+ff_8:και
+ff_9:CCONJ__
+ff_4:NOUN_Case=Acc|Gender=Masc|Number=Plur
+ff_1:ADJ_Case=Acc|Gender=Masc|Number=Plur
+ff_1:NOUN_Case=Acc|Gender=Masc|Number=Plur
+ff_9:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_17:ADJ_Case=Acc|Gender=Masc|Number=Plur
+ff_9:NOUN_Case=Gen|Gender=Neut|Number=Plur
+ff_15:NOUN_Case=Gen|Gender=Neut|Number=Plur
+ff_1:NUM_Case=Gen|Gender=Neut|Number=Plur|NumType=Card
+ff_4:NOUN_Case=Gen|Gender=Neut|Number=Plur
+ff_1:NOUN_Case=Gen|Gender=Neut|Number=Plur
+ff_7:NUM_Case=Gen|Gender=Neut|Number=Plur|NumType=Card
+ff_9:NUM_Case=Gen|Gender=Neut|Number=Plur|NumType=Card
+ff_1:ADP_Case=Acc|Gender=Masc|Number=Sing
+ff_4:NOUN_Case=Acc|Gender=Masc|Number=Sing
+ff_1:PROPN_Case=Acc|Gender=Neut|Number=Sing
+ff_4:NOUN_Case=Nom|Gender=Masc|Number=Sing
+ff_1:NOUN_Case=Nom|Gender=Masc|Number=Sing
+ff_4:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_9:PROPN_Case=Nom|Gender=Masc|Number=Sing
+ff_15:PROPN_Case=Nom|Gender=Masc|Number=Sing
+ff_1:PROPN_Case=Nom|Gender=Masc|Number=Sing
+ff_0:κατά
+ff_0:τη
+ff_6:κατά
+ff_8:τη
+ff_14:τη
+ff_16:κατά
+ff_1:NOUN_Case=Acc|Gender=Masc|Number=Sing
+ff_7:DET_Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art
+ff_9:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_15:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_16:το
+ff_17:DET_Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art
+ff_0:μέσω
+ff_4:PRON_Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Rel
+ff_5:PRON
+ff_1:PRON_Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Rel
+ff_2:PRON
+ff_6:μέσω
+ff_14:του
+ff_15:DET_Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art
+ff_16:μέσω
+ff_4:PROPN_Case=Nom|Gender=Masc|Number=Sing
+ff_11:PRON_Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Rel
+ff_13:NOUN_Case=Acc|Gender=Neut|Number=Sing
+ff_19:PROPN_Case=Nom|Gender=Masc|Number=Sing
+ff_21:NOUN_Case=Acc|Gender=Fem|Number=Plur
+ff_8:ο
+ff_9:DET_Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art
+ff_1:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_7:PRON_Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Rel
+ff_9:NOUN_Case=Acc|Gender=Neut|Number=Sing
+ff_17:NOUN_Case=Acc|Gender=Fem|Number=Plur
+ff_0:τις
+ff_1:DET_Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art
+ff_4:NOUN_Case=Acc|Gender=Fem|Number=Plur
+ff_1:NOUN_Case=Acc|Gender=Fem|Number=Plur
+ff_6:τις
+ff_7:DET_Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art
+ff_8:τις
+ff_9:DET_Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art
+ff_15:PRON_Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_16:του
+ff_17:PRON_Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_1:PRON_Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_0:στη
+ff_1:ADP_Case=Acc|Gender=Fem|Number=Sing
+ff_9:PROPN_Case=Acc|Gender=Fem|Number=Sing
+ff_14:στη
+ff_15:ADP_Case=Acc|Gender=Fem|Number=Sing
+ff_16:στη
+ff_17:ADP_Case=Acc|Gender=Fem|Number=Sing
+ff_1:PROPN_Case=Acc|Gender=Fem|Number=Sing
+ff_4:ADJ_Case=Acc|Gender=Neut|Number=Plur
+ff_0:τα
+ff_1:DET_Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art
+ff_1:ADJ_Case=Acc|Gender=Neut|Number=Plur
+ff_4:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_14:τα
+ff_15:DET_Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art
+ff_16:τα
+ff_17:DET_Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art
+ff_9:PROPN_Case=Gen|Gender=Neut|Number=Plur
+ff_15:PROPN_Case=Gen|Gender=Neut|Number=Plur
+ff_17:DET_Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art
+ff_1:PROPN_Case=Gen|Gender=Neut|Number=Plur
+ff_16:από
+ff_10:και
+ff_19:ADV__
+ff_21:ADV__
+ff_7:NUM_NumType=Card
+ff_1:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_15:ADV__
+ff_17:ADV__
+ff_1:ADJ_Case=Acc|Gender=Neut|Number=Sing
+ff_9:ADJ_Case=Acc|Gender=Neut|Number=Sing
+ff_15:ADJ_Case=Acc|Gender=Neut|Number=Sing
+ff_4:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_1:VERB_Aspect=Imp|VerbForm=Conv|Voice=Act
+ff_4:VERB_Aspect=Imp|VerbForm=Conv|Voice=Act
+ff_6:την
+ff_7:DET_Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_9:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_15:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_0:που
+ff_1:PRON_Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Rel
+ff_11:NOUN_Case=Acc|Gender=Masc|Number=Plur
+ff_13:NOUN_Case=Acc|Gender=Masc|Number=Plur
+ff_1:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_6:που
+ff_7:PRON_Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Rel
+ff_9:ADV__
+ff_16:που
+ff_17:PRON_Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Rel
+ff_7:NOUN_Case=Acc|Gender=Masc|Number=Plur
+ff_0:στους
+ff_1:ADP_Case=Acc|Gender=Masc|Number=Plur
+ff_6:στους
+ff_7:ADP_Case=Acc|Gender=Masc|Number=Plur
+ff_9:PROPN_Case=Gen|Gender=Fem|Number=Sing
+ff_15:ADJ_Case=Acc|Gender=Masc|Number=Plur
+ff_4:PROPN_Case=Gen|Gender=Fem|Number=Sing
+ff_11:PROPN_Case=Nom|Gender=Masc|Number=Sing
+ff_19:VERB_Aspect=Imp|VerbForm=Conv|Voice=Act
+ff_1:ADJ_Case=Gen|Gender=Fem|Number=Sing
+ff_1:PROPN_Case=Gen|Gender=Fem|Number=Sing
+ff_9:ADJ_Case=Gen|Gender=Fem|Number=Sing
+ff_15:ADJ_Case=Gen|Gender=Fem|Number=Sing
+ff_0:ένα
+ff_1:DET_Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art
+ff_14:ένα
+ff_15:DET_Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art
+ff_17:NOUN_Case=Gen|Gender=Neut|Number=Plur
+ff_0:μεταξύ
+ff_11:PROPN_Case=Gen|Gender=Neut|Number=Sing
+ff_13:PROPN_Case=Gen|Gender=Neut|Number=Sing
+ff_1:DET_Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Art
+ff_6:μεταξύ
+ff_14:των
+ff_15:DET_Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Art
+ff_17:DET_Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Art
+ff_7:PROPN_Case=Gen|Gender=Neut|Number=Sing
+ff_9:PROPN_Case=Gen|Gender=Neut|Number=Sing
+ff_4:PROPN_Case=Gen|Gender=Neut|Number=Sing
+ff_1:PROPN_Case=Gen|Gender=Neut|Number=Sing
+ff_1:DET_Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art
+ff_3:οποίο
+ff_4:PRON_Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Rel
+ff_13:NOUN_Case=Nom|Gender=Neut|Number=Plur
+ff_18:οποίο
+ff_19:PRON_Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Rel
+ff_20:οποίο
+ff_21:PRON_Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Rel
+ff_0:οποίο
+ff_1:PRON_Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Rel
+ff_7:DET_Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art
+ff_9:DET_Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art
+ff_9:NOUN_Case=Nom|Gender=Neut|Number=Plur
+ff_14:οποίο
+ff_15:PRON_Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Rel
+ff_16:οποίο
+ff_17:PRON_Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Rel
+ff_0:"
+ff_4:NOUN_Case=Nom|Gender=Neut|Number=Plur
+ff_1:NOUN_Case=Nom|Gender=Neut|Number=Plur
+ff_6:"
+ff_8:"
+ff_15:PROPN_Case=Gen|Gender=Masc|Number=Sing
+ff_17:PROPN_Case=Gen|Gender=Masc|Number=Sing
+ff_4:PROPN_Case=Gen|Gender=Masc|Number=Sing
+ff_1:PROPN_Case=Gen|Gender=Masc|Number=Sing
+ff_3:σημεία
+ff_0:σημεία
+ff_11:NOUN_Case=Nom|Gender=Fem|Number=Plur
+ff_13:NOUN_Case=Nom|Gender=Fem|Number=Plur
+ff_15:ADJ_Case=Acc|Gender=Neut|Number=Plur
+ff_17:ADJ_Case=Acc|Gender=Neut|Number=Plur
+ff_10:σημεία
+ff_11:NOUN_Case=Acc|Gender=Neut|Number=Plur
+ff_19:NOUN_Case=Nom|Gender=Masc|Number=Plur
+ff_21:NOUN_Case=Nom|Gender=Masc|Number=Plur
+ff_1:NOUN_Case=Nom|Gender=Masc|Number=Plur
+ff_7:NOUN_Case=Nom|Gender=Fem|Number=Plur
+ff_9:NOUN_Case=Nom|Gender=Fem|Number=Plur
+ff_4:NOUN_Case=Nom|Gender=Fem|Number=Plur
+ff_1:ADJ_Case=Nom|Gender=Fem|Number=Plur
+ff_1:NOUN_Case=Nom|Gender=Fem|Number=Plur
+ff_4:NOUN_Case=Nom|Gender=Masc|Number=Plur
+ff_9:ADJ_Case=Nom|Gender=Fem|Number=Plur
+ff_15:ADJ_Case=Nom|Gender=Fem|Number=Plur
+ff_4:NOUN_Case=Nom|Gender=Fem|Number=Sing
+ff_1:NOUN_Case=Nom|Gender=Fem|Number=Sing
+ff_9:PRON_Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_0::
+ff_0:σε
+ff_0:άλλες
+ff_1:PRON_Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Ind
+ff_6:σε
+ff_8:άλλες
+ff_9:PRON_Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Ind
+ff_14:άλλες
+ff_15:PRON_Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Ind
+ff_16:σε
+ff_11:NOUN_Case=Acc|Gender=Fem|Number=Plur
+ff_19:NOUN_Case=Nom|Gender=Masc|Number=Sing
+ff_21:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_9:ADJ_Case=Acc|Gender=Masc|Number=Plur
+ff_0:-
+ff_3:φορές
+ff_10:-
+ff_12:-
+ff_18:φορές
+ff_19:NOUN_Case=Acc|Gender=Fem|Number=Plur
+ff_20:μέτρα
+ff_21:NOUN_Case=Acc|Gender=Neut|Number=Plur
+ff_0:φορές
+ff_7:PRON_Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Ind
+ff_6:-
+ff_8:-
+ff_14:φορές
+ff_15:NOUN_Case=Acc|Gender=Fem|Number=Plur
+ff_16:μέτρα
+ff_17:NOUN_Case=Acc|Gender=Neut|Number=Plur
+ff_3:μέτρα
+ff_0:μέτρα
+ff_6:τα
+ff_7:DET_Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art
+ff_15:NUM_Case=Acc|Gender=Neut|Number=Plur|NumType=Card
+ff_4:NOUN_Case=Nom|Gender=Neut|Number=Sing
+ff_1:NOUN_Case=Nom|Gender=Neut|Number=Sing
+ff_17:DET_Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art
+ff_8:μέτρα
+ff_9:NOUN_Case=Acc|Gender=Neut|Number=Plur
+ff_15:NOUN_Case=Nom|Gender=Neut|Number=Sing
+ff_17:NOUN_Case=Nom|Gender=Neut|Number=Sing
+ff_11:NOUN_Case=Acc|Gender=Masc|Number=Sing
+ff_13:NOUN_Case=Acc|Gender=Masc|Number=Sing
+ff_7:NOUN_Case=Acc|Gender=Masc|Number=Sing
+ff_9:NOUN_Case=Acc|Gender=Masc|Number=Sing
+ff_19:NOUN_Case=Nom|Gender=Neut|Number=Plur
+ff_21:NOUN_Case=Nom|Gender=Fem|Number=Plur
+ff_1:ADJ_Case=Nom|Gender=Neut|Number=Plur
+ff_11:ADV__
+ff_13:NOUN_Case=Gen|Gender=Neut|Number=Plur
+ff_19:NOUN_Case=Gen|Gender=Neut|Number=Plur
+ff_7:ADJ_Case=Nom|Gender=Neut|Number=Plur
+ff_17:ADJ_Case=Nom|Gender=Neut|Number=Plur
+ff_7:ADV__
+ff_17:NUM_NumType=Card
+ff_8:από
+ff_0:αλλά
+ff_3:και
+ff_12:και
+ff_13:CCONJ__
+ff_6:αλλά
+ff_8:αλλά
+ff_0:όπως
+ff_7:NOUN_Case=Nom|Gender=Masc|Number=Plur
+ff_15:NOUN_Case=Nom|Gender=Neut|Number=Plur
+ff_17:NOUN_Case=Nom|Gender=Neut|Number=Plur
+ff_3:μεγάλη
+ff_4:ADJ_Case=Nom|Gender=Fem|Number=Sing
+ff_9:PROPN_Case=Gen|Gender=Masc|Number=Sing
+ff_0:ήταν
+ff_1:AUX_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_2:AUX
+ff_1:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_9:NOUN_Case=Nom|Gender=Neut|Number=Sing
+ff_17:NOUN_Case=Acc|Gender=Fem|Number=Sing
+ff_0:στην
+ff_1:ADJ_Case=Acc|Gender=Fem|Number=Sing
+ff_6:στην
+ff_7:ADP_Case=Acc|Gender=Fem|Number=Sing
+ff_15:ADJ_Case=Acc|Gender=Fem|Number=Sing
+ff_17:ADJ_Case=Acc|Gender=Fem|Number=Sing
+ff_8:της
+ff_9:DET_Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_9:NOUN_Case=Nom|Gender=Masc|Number=Sing
+ff_15:NOUN_Case=Nom|Gender=Masc|Number=Sing
+ff_13:NOUN_Case=Gen|Gender=Fem|Number=Sing
+ff_19:NOUN_Case=Gen|Gender=Fem|Number=Sing
+ff_21:NOUN_Case=Acc|Gender=Masc|Number=Sing
+ff_1:ADJ_Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing
+ff_14:ο
+ff_15:DET_Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art
+ff_17:ADJ_Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing
+ff_15:NOUN_Case=Gen|Gender=Fem|Number=Sing
+ff_17:NOUN_Case=Acc|Gender=Masc|Number=Sing
+ff_8:τους
+ff_9:DET_Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art
+ff_9:NOUN_Case=Gen|Gender=Masc|Number=Plur
+ff_15:NOUN_Case=Gen|Gender=Masc|Number=Plur
+ff_1:DET_Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art
+ff_4:NOUN_Case=Gen|Gender=Masc|Number=Plur
+ff_1:NOUN_Case=Gen|Gender=Masc|Number=Plur
+ff_7:DET_Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art
+ff_17:DET_Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art
+ff_4:PROPN_Case=Acc|Gender=Fem|Number=Sing
+ff_6:στη
+ff_8:στη
+ff_9:ADP_Case=Acc|Gender=Fem|Number=Sing
+ff_3:διάρκεια
+ff_11:NOUN_Case=Gen|Gender=Masc|Number=Plur
+ff_13:NOUN_Case=Gen|Gender=Masc|Number=Plur
+ff_0:διάρκεια
+ff_14:κατά
+ff_17:NOUN_Case=Gen|Gender=Fem|Number=Plur
+ff_1:NOUN_Case=Gen|Gender=Fem|Number=Plur
+ff_7:NOUN_Case=Gen|Gender=Masc|Number=Plur
+ff_4:NOUN_Case=Gen|Gender=Fem|Number=Plur
+ff_14:μέλη
+ff_15:NOUN_Case=Acc|Gender=Neut|Number=Plur
+ff_16:μέλη
+ff_3:μέλη
+ff_0:μέλη
+ff_17:NOUN_Case=Gen|Gender=Fem|Number=Sing
+ff_17:ADJ_Case=Gen|Gender=Fem|Number=Sing
+ff_0:πέντε
+ff_1:NUM_Case=Nom|Gender=Neut|Number=Plur|NumType=Card
+ff_3:άτομα
+ff_18:διάρκεια
+ff_19:NOUN_Case=Acc|Gender=Fem|Number=Sing
+ff_21:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_0:άτομα
+ff_6:πέντε
+ff_7:NUM_Case=Nom|Gender=Neut|Number=Plur|NumType=Card
+ff_8:πέντε
+ff_9:NUM_Case=Nom|Gender=Neut|Number=Plur|NumType=Card
+ff_3:ζωή
+ff_0:ζωή
+ff_6:τη
+ff_9:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_15:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_16:τη
+ff_1:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_4:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_0:ενώ
+ff_0:άλλα
+ff_1:PRON_Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Ind
+ff_3:άλλα
+ff_4:PRON_Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Ind
+ff_1:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_8:άλλα
+ff_9:PRON_Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Ind
+ff_14:ενώ
+ff_16:ενώ
+ff_1:DET_Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art
+ff_19:PROPN_Case=Acc|Gender=Fem|Number=Sing
+ff_7:DET_Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art
+ff_9:DET_Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art
+ff_11:PROPN_Case=Gen|Gender=Fem|Number=Sing
+ff_13:PROPN_Case=Gen|Gender=Fem|Number=Sing
+ff_17:NUM_Case=Acc|Gender=Neut|Number=Plur|NumType=Card
+ff_7:PROPN_Case=Gen|Gender=Fem|Number=Sing
+ff_0:όταν
+ff_1:SCONJ__
+ff_2:SCONJ
+ff_9:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_15:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_16:οι
+ff_4:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_3:οποίοι
+ff_4:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Rel
+ff_12:,
+ff_18:οποίοι
+ff_19:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Rel
+ff_21:NOUN_Case=Acc|Gender=Fem|Number=Sing
+ff_0:οποίοι
+ff_1:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Rel
+ff_1:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_14:οποίοι
+ff_15:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Rel
+ff_8:των
+ff_9:DET_Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art
+ff_14:όταν
+ff_15:SCONJ__
+ff_9:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_15:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_16:στους
+ff_17:ADP_Case=Acc|Gender=Masc|Number=Plur
+ff_8:αποτέλεσμα
+ff_17:NOUN_Case=Acc|Gender=Neut|Number=Sing
+ff_3:αποτέλεσμα
+ff_0:αποτέλεσμα
+ff_9:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Act
+ff_4:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Act
+ff_1:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Act
+ff_6:άτομα
+ff_7:NOUN_Case=Nom|Gender=Neut|Number=Plur
+ff_9:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Pass
+ff_14:να
+ff_15:PART__
+ff_16:ζωή
+ff_4:NUM_Case=Nom|Gender=Neut|Number=Plur|NumType=Card
+ff_6:άλλα
+ff_7:PRON_Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Ind
+ff_1:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Pass
+ff_8:να
+ff_9:PART__
+ff_15:NUM_Case=Nom|Gender=Neut|Number=Plur|NumType=Card
+ff_17:NUM_Case=Nom|Gender=Neut|Number=Plur|NumType=Card
+ff_11:NOUN_Case=Nom|Gender=Masc|Number=Plur
+ff_18:κυβέρνησης
+ff_3:κυβέρνησης
+ff_0:κυβέρνησης
+ff_14:της
+ff_15:DET_Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_9:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_17:PROPN_Case=Nom|Gender=Masc|Number=Sing
+ff_0:αλ
+ff_6:αλ
+ff_7:X_Foreign=Yes
+ff_8:αλ
+ff_3:οποίος
+ff_4:PRON_Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Rel
+ff_18:οποίος
+ff_19:PRON_Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Rel
+ff_20:οποίος
+ff_21:PRON_Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Rel
+ff_0:οποίος
+ff_1:PRON_Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Rel
+ff_14:οποίος
+ff_15:PRON_Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Rel
+ff_16:οποίος
+ff_17:PRON_Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Rel
+ff_9:PROPN_Case=Nom|Gender=Fem|Number=Sing
+ff_15:PROPN_Case=Nom|Gender=Fem|Number=Sing
+ff_16:στην
+ff_4:PROPN_Case=Nom|Gender=Fem|Number=Sing
+ff_1:PROPN_Case=Nom|Gender=Fem|Number=Sing
+ff_9:DET_Case=Gen|Definite=Def|Gender=Fem|Number=Plur|PronType=Art
+ff_0:ότι
+ff_14:ότι
+ff_16:ότι
+ff_17:SCONJ__
+ff_6:τους
+ff_7:DET_Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art
+ff_16:τους
+ff_17:DET_Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art
+ff_7:PROPN_Case=Gen|Gender=Masc|Number=Sing
+ff_1:ADJ_Case=Gen|Gender=Masc|Number=Sing
+ff_15:ADJ_Case=Gen|Gender=Masc|Number=Sing
+ff_17:ADJ_Case=Gen|Gender=Masc|Number=Sing
+ff_21:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_8:κοντά
+ff_14:κοντά
+ff_0:κοντά
+ff_3:κοντά
+ff_8:πόλης
+ff_14:πόλης
+ff_3:πόλης
+ff_0:πόλης
+ff_1:NUM_Case=Acc|Gender=Fem|Number=Sing|NumType=Ord
+ff_9:ADJ_Case=Acc|Gender=Fem|Number=Sing
+ff_15:NUM_Case=Acc|Gender=Fem|Number=Sing|NumType=Ord
+ff_17:NUM_Case=Acc|Gender=Fem|Number=Sing|NumType=Ord
+ff_1:PRON_Case=Gen|Gender=Fem|Number=Plur|Person=3|PronType=Prs
+ff_9:NOUN_Case=Nom|Gender=Fem|Number=Sing
+ff_14:αλλά
+ff_17:PRON_Case=Gen|Gender=Fem|Number=Plur|Person=3|PronType=Prs
+ff_9:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_15:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_4:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_1:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_0:μέχρι
+ff_6:μέχρι
+ff_8:μέχρι
+ff_18:πολίτες
+ff_19:NOUN_Case=Acc|Gender=Masc|Number=Plur
+ff_20:πολίτες
+ff_21:NOUN_Case=Acc|Gender=Masc|Number=Plur
+ff_3:πολίτες
+ff_0:πολίτες
+ff_7:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Rel
+ff_15:ADJ_Case=Nom|Gender=Masc|Number=Plur
+ff_17:ADJ_Case=Nom|Gender=Masc|Number=Plur
+ff_1:ADJ_Case=Nom|Gender=Fem|Number=Sing
+ff_3:πόλη
+ff_0:πόλη
+ff_7:ADJ_Case=Nom|Gender=Fem|Number=Sing
+ff_14:η
+ff_15:DET_Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_0:είναι
+ff_1:AUX_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_6:ότι
+ff_7:SCONJ__
+ff_14:«
+ff_15:PUNCT__
+ff_16:είναι
+ff_17:AUX_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_0:μια
+ff_1:DET_Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+ff_14:μια
+ff_15:DET_Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+ff_16:μια
+ff_17:DET_Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+ff_1:ADJ_Case=Nom|Gender=Neut|Number=Sing
+ff_4:VERB_Aspect=Perf|VerbForm=Inf|Voice=Pass
+ff_7:NOUN_Case=Nom|Gender=Neut|Number=Sing
+ff_15:NOUN_Case=Nom|Gender=Fem|Number=Plur
+ff_4:ADJ_Case=Nom|Gender=Neut|Number=Sing
+ff_0:έχουν
+ff_0:καθώς
+ff_3:περιοχή
+ff_18:καθώς
+ff_19:SCONJ__
+ff_0:περιοχή
+ff_8:στην
+ff_14:καθώς
+ff_1:ADJ_Case=Acc|Gender=Fem|Number=Plur
+ff_9:ADJ_Case=Acc|Gender=Fem|Number=Plur
+ff_15:ADJ_Case=Acc|Gender=Fem|Number=Plur
+ff_16:τις
+ff_17:DET_Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art
+ff_7:ADJ_Case=Nom|Gender=Fem|Number=Plur
+ff_17:ADJ_Case=Nom|Gender=Fem|Number=Plur
+ff_1:DET_Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art
+ff_11:NOUN_Case=Nom|Gender=Neut|Number=Plur
+ff_19:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_20:»
+ff_21:PUNCT__
+ff_7:DET_Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art
+ff_9:DET_Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art
+ff_0:πολλοί
+ff_13:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Act
+ff_6:πολλοί
+ff_7:ADJ_Case=Nom|Gender=Masc|Number=Plur
+ff_8:πολλοί
+ff_9:ADJ_Case=Nom|Gender=Masc|Number=Plur
+ff_15:NOUN_Case=Nom|Gender=Masc|Number=Plur
+ff_17:NOUN_Case=Nom|Gender=Masc|Number=Plur
+ff_6:μια
+ff_7:DET_Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+ff_8:χώρα
+ff_14:χώρα
+ff_3:χώρα
+ff_0:χώρα
+ff_7:NOUN_Case=Gen|Gender=Fem|Number=Sing
+ff_19:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_21:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_3:δυνάμεις
+ff_10:ότι
+ff_11:SCONJ__
+ff_12:»
+ff_18:«
+ff_19:PUNCT__
+ff_21:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Act
+ff_0:δυνάμεις
+ff_17:DET_Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art
+ff_17:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Act
+ff_14:ομάδες
+ff_16:ομάδες
+ff_3:ομάδες
+ff_0:ομάδες
+ff_9:ADJ_Case=Gen|Gender=Masc|Number=Sing
+ff_11:NOUN_Case=Gen|Gender=Fem|Number=Sing
+ff_9:NOUN_Case=Nom|Gender=Masc|Number=Plur
+ff_15:NOUN_Case=Acc|Gender=Masc|Number=Plur
+ff_17:PROPN_Case=Acc|Gender=Masc|Number=Plur
+ff_17:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_1:ADJ_Case=Nom|Gender=Masc|Number=Sing
+ff_3:ανέφερε
+ff_15:ADJ_Case=Nom|Gender=Masc|Number=Sing
+ff_1:ADJ_Case=Gen|Gender=Neut|Number=Plur
+ff_7:DET_Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Art
+ff_9:ADJ_Case=Gen|Gender=Neut|Number=Plur
+ff_15:ADJ_Case=Gen|Gender=Neut|Number=Plur
+ff_4:VERB_Aspect=Perf|VerbForm=Inf|Voice=Act
+ff_0:έχει
+ff_1:VERB_Aspect=Perf|VerbForm=Inf|Voice=Act
+ff_7:ADJ_Case=Acc|Gender=Fem|Number=Plur
+ff_17:ADJ_Case=Acc|Gender=Fem|Number=Plur
+ff_0:σύμφωνα
+ff_6:οποίες
+ff_7:PRON_Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Rel
+ff_8:οποίες
+ff_9:PRON_Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Rel
+ff_3:οποίες
+ff_4:PRON_Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Rel
+ff_0:οποίες
+ff_1:PRON_Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Rel
+ff_3:σύμφωνα
+ff_14:τις
+ff_15:DET_Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art
+ff_8:ασφάλειας
+ff_14:ασφάλειας
+ff_0:ασφάλειας
+ff_14:σύμφωνα
+ff_0:ανθρώπους
+ff_0:μετά
+ff_6:μετά
+ff_4:PROPN_Case=Nom|Gender=Masc|Number=Plur
+ff_11:PROPN_Case=Nom|Gender=Masc|Number=Plur
+ff_12:απειλή
+ff_19:VERB_Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+ff_21:VERB_Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+ff_1:PROPN_Case=Nom|Gender=Masc|Number=Plur
+ff_1:VERB_Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+ff_3:απειλή
+ff_0:απειλή
+ff_7:NOUN_Case=Acc|Gender=Fem|Number=Plur
+ff_14:,
+ff_9:PROPN_Case=Gen|Gender=Masc|Number=Plur
+ff_15:PROPN_Case=Gen|Gender=Masc|Number=Plur
+ff_4:PROPN_Case=Gen|Gender=Masc|Number=Plur
+ff_19:NUM_NumType=Card
+ff_1:PROPN_Case=Gen|Gender=Masc|Number=Plur
+ff_13:NOUN_Case=Nom|Gender=Fem|Number=Sing
+ff_18:απειλή
+ff_19:NOUN_Case=Nom|Gender=Fem|Number=Sing
+ff_20:ότι
+ff_21:SCONJ__
+ff_9:ADJ_Case=Nom|Gender=Fem|Number=Sing
+ff_15:ADJ_Case=Nom|Gender=Fem|Number=Sing
+ff_8:απειλή
+ff_14:απειλή
+ff_15:NOUN_Case=Nom|Gender=Fem|Number=Sing
+ff_10:ενώ
+ff_12:υπάρχει
+ff_13:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_21:NUM_NumType=Card
+ff_9:ADJ_Case=Nom|Gender=Neut|Number=Sing
+ff_15:ADJ_Case=Nom|Gender=Neut|Number=Sing
+ff_6:ενώ
+ff_8:υπάρχει
+ff_3:υπάρχει
+ff_0:δεν
+ff_0:υπάρχει
+ff_14:δεν
+ff_16:δεν
+ff_1:PRON_Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind
+ff_7:PRON_Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind
+ff_17:PRON_Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind
+ff_11:NOUN_Case=Nom|Gender=Fem|Number=Sing
+ff_19:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_0:μεγαλύτερο
+ff_1:ADJ_Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing
+ff_14:το
+ff_15:DET_Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art
+ff_16:μεγαλύτερο
+ff_17:ADJ_Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing
+ff_19:NOUN_Case=Nom|Gender=Neut|Number=Sing
+ff_20:απειλή
+ff_16:απειλή
+ff_15:DET_Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art
+ff_11:NOUN_Case=Gen|Gender=Neut|Number=Plur
+ff_7:NOUN_Case=Gen|Gender=Neut|Number=Plur
+ff_12:άποψη
+ff_18:ενώ
+ff_8:άποψη
+ff_3:άποψη
+ff_0:αυτή
+ff_1:PRON_Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Dem
+ff_0:άποψη
+ff_14:αυτή
+ff_15:PRON_Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Dem
+ff_16:αυτή
+ff_17:PRON_Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Dem
+ff_13:NOUN_Case=Acc|Gender=Neut|Number=Plur
+ff_9:ADJ_Case=Nom|Gender=Neut|Number=Plur
+ff_15:ADJ_Case=Nom|Gender=Neut|Number=Plur
+ff_1:ADJ_Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing
+ff_7:NOUN_Case=Acc|Gender=Neut|Number=Plur
+ff_7:ADJ_Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing
+ff_9:ADJ_Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing
+ff_4:ADJ_Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing
+ff_9:ADJ_Case=Acc|Gender=Neut|Number=Plur
+ff_11:ADJ_Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing
+ff_13:ADJ_Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing
+ff_1:PRON_Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Dem
+ff_4:ADJ_Case=Nom|Gender=Neut|Number=Plur
+ff_7:PRON_Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Dem
+ff_8:τα
+ff_15:DET_Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art
+ff_17:PRON_Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Dem
+ff_1:AUX_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_0:πιο
+ff_3:τότε
+ff_0:τότε
+ff_9:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_15:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_10:που
+ff_21:PROPN_Case=Acc|Gender=Fem|Number=Sing
+ff_1:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_17:PROPN_Case=Acc|Gender=Fem|Number=Sing
+ff_1:NUM_Case=Gen|Gender=Fem|Number=Sing|NumType=Ord
+ff_15:NUM_Case=Gen|Gender=Fem|Number=Sing|NumType=Ord
+ff_17:NUM_Case=Gen|Gender=Fem|Number=Sing|NumType=Ord
+ff_4:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_7:PROPN_Case=Acc|Gender=Masc|Number=Plur
+ff_9:PROPN_Case=Acc|Gender=Masc|Number=Plur
+ff_19:NUM_Case=Nom|Gender=Neut|Number=Plur|NumType=Card
+ff_21:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass
+ff_4:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass
+ff_1:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass
+ff_8:θα
+ff_17:NOUN_Case=Nom|Gender=Fem|Number=Sing
+ff_11:PROPN_Case=Nom|Gender=Fem|Number=Sing
+ff_21:PROPN_Case=Nom|Gender=Fem|Number=Sing
+ff_11:NOUN_Case=Gen|Gender=Neut|Number=Sing
+ff_13:NOUN_Abbr=Yes
+ff_19:NOUN_Abbr=Yes
+ff_21:NOUN_Case=Gen|Gender=Neut|Number=Sing
+ff_7:NOUN_Case=Gen|Gender=Neut|Number=Sing
+ff_9:NOUN_Abbr=Yes
+ff_15:NOUN_Abbr=Yes
+ff_17:NOUN_Case=Gen|Gender=Neut|Number=Sing
+ff_1:NOUN_Case=Gen|Gender=Neut|Number=Sing
+ff_7:PRON_Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_9:PRON_Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_10:της
+ff_11:PRON_Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_12:της
+ff_13:PRON_Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_1:PRON_Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_4:NOUN_Case=Gen|Gender=Neut|Number=Sing
+ff_4:NOUN_Abbr=Yes
+ff_1:NOUN_Abbr=Yes
+ff_17:PROPN_Case=Gen|Gender=Fem|Number=Sing
+ff_11:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_7:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_14:θα
+ff_17:NOUN_Abbr=Yes
+ff_8:μέλη
+ff_1:PRON_Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Ind
+ff_14:άλλα
+ff_15:PRON_Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Ind
+ff_16:άλλα
+ff_17:PRON_Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Ind
+ff_9:DET_Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art
+ff_11:PROPN_Case=Acc|Gender=Fem|Number=Sing
+ff_13:PROPN_Case=Acc|Gender=Fem|Number=Sing
+ff_15:NOUN_Case=Acc|Gender=Neut|Number=Sing
+ff_7:PROPN_Case=Acc|Gender=Fem|Number=Sing
+ff_0:ως
+ff_11:NOUN_Case=Gen|Gender=Fem|Number=Plur
+ff_13:NOUN_Case=Gen|Gender=Fem|Number=Plur
+ff_6:ως
+ff_16:ως
+ff_7:NOUN_Case=Gen|Gender=Fem|Number=Plur
+ff_9:NOUN_Case=Gen|Gender=Fem|Number=Plur
+ff_8:βρίσκονται
+ff_14:βρίσκονται
+ff_15:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_1:PRON_Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Rel
+ff_3:βρίσκονται
+ff_0:βρίσκονται
+ff_7:PRON_Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Rel
+ff_17:PRON_Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Rel
+ff_18:βουλευτές
+ff_21:ADJ_Case=Nom|Gender=Neut|Number=Sing
+ff_3:βουλευτές
+ff_0:βουλευτές
+ff_15:PROPN_Case=Acc|Gender=Masc|Number=Plur
+ff_3:σχέδιο
+ff_0:σχέδιο
+ff_0:επίσης
+ff_16:κοντά
+ff_3:βάση
+ff_0:βάση
+ff_7:NOUN_Case=Acc|Gender=Neut|Number=Sing
+ff_11:NOUN_Case=Nom|Gender=Masc|Number=Sing
+ff_18:επίσης
+ff_20:αποτελεί
+ff_3:αποτελεί
+ff_3:επιτυχία
+ff_0:επιτυχία
+ff_0:αποτελεί
+ff_17:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass
+ff_9:NOUN_Case=Gen|Gender=Neut|Number=Sing
+ff_15:NOUN_Case=Gen|Gender=Neut|Number=Sing
+ff_15:DET_Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art
+ff_17:DET_Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art
+ff_9:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act
+ff_16:θα
+ff_0:εάν
+ff_4:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act
+ff_1:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act
+ff_6:εάν
+ff_3:έγινε
+ff_8:δηλώσεις
+ff_9:NOUN_Case=Acc|Gender=Fem|Number=Plur
+ff_14:δηλώσεις
+ff_3:δηλώσεις
+ff_0:δηλώσεις
+ff_0:στον
+ff_1:PROPN_Case=Acc|Gender=Masc|Number=Sing
+ff_6:στον
+ff_7:ADP_Case=Acc|Gender=Masc|Number=Sing
+ff_15:PROPN_Case=Acc|Gender=Masc|Number=Sing
+ff_14:που
+ff_16:περιοχή
+ff_3:συμφωνία
+ff_0:συμφωνία
+ff_7:ADJ_Case=Gen|Gender=Masc|Number=Sing
+ff_17:PRON_Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_6:τον
+ff_16:τον
+ff_3:σημείο
+ff_8:βρίσκεται
+ff_13:X_Foreign=Yes
+ff_17:NOUN_Case=Gen|Gender=Masc|Number=Sing
+ff_19:NOUN_Case=Gen|Gender=Fem|Number=Plur
+ff_21:NOUN_Case=Gen|Gender=Fem|Number=Plur
+ff_3:βρίσκεται
+ff_0:βρίσκεται
+ff_7:PRON_Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Rel
+ff_15:PROPN_Case=Gen|Gender=Fem|Number=Sing
+ff_15:NOUN_Case=Gen|Gender=Fem|Number=Plur
+ff_1:ADJ_Case=Gen|Gender=Fem|Number=Plur
+ff_9:ADJ_Case=Gen|Gender=Fem|Number=Plur
+ff_15:ADJ_Case=Gen|Gender=Fem|Number=Plur
+ff_14:στο
+ff_15:ADP_Case=Acc|Gender=Neut|Number=Sing
+ff_14:χώρο
+ff_15:NOUN_Case=Acc|Gender=Masc|Number=Sing
+ff_16:χώρο
+ff_3:χώρο
+ff_1:ADJ_Case=Acc|Gender=Masc|Number=Sing
+ff_0:χώρο
+ff_15:ADJ_Case=Acc|Gender=Masc|Number=Sing
+ff_1:NOUN_Case=Voc|Gender=Fem|Number=Sing
+ff_4:NOUN_Case=Voc|Gender=Fem|Number=Sing
+ff_4:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_7:NOUN_Case=Voc|Gender=Fem|Number=Sing
+ff_9:NOUN_Case=Voc|Gender=Fem|Number=Sing
+ff_6:αυτή
+ff_7:PRON_Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Dem
+ff_0:ακόμα
+ff_17:ADJ_Case=Acc|Gender=Neut|Number=Sing
+ff_0:προς
+ff_6:προς
+ff_9:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act
+ff_15:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+ff_17:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+ff_1:PRON_Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Rel
+ff_4:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+ff_1:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+ff_7:PRON_Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Rel
+ff_17:PRON_Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Rel
+ff_4:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act
+ff_1:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act
+ff_14:αρχή
+ff_16:αρχή
+ff_3:αρχή
+ff_0:αρχή
+ff_7:ADJ_Case=Acc|Gender=Masc|Number=Sing
+ff_8:συνεργασίας
+ff_14:συνεργασίας
+ff_17:ADJ_Case=Acc|Gender=Masc|Number=Sing
+ff_3:συνεργασίας
+ff_0:συνεργασίας
+ff_0:μέσα
+ff_6:χώρο
+ff_8:χώρο
+ff_10:ασφάλειας
+ff_21:NOUN_Case=Gen|Gender=Fem|Number=Sing
+ff_0:έναν
+ff_1:DET_Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
+ff_3:μέσα
+ff_14:έναν
+ff_15:DET_Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
+ff_6:ασφάλειας
+ff_3:ασφάλειας
+ff_3:κράτη
+ff_0:κράτη
+ff_17:DET_Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art
+ff_14:μέσα
+ff_16:κράτη
+ff_9:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass
+ff_9:DET_Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art
+ff_0:ώστε
+ff_6:ώστε
+ff_1:PRON_Case=Gen|Gender=Neut|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_6:στα
+ff_7:ADP_Case=Acc|Gender=Neut|Number=Plur
+ff_9:PRON_Case=Gen|Gender=Neut|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_4:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_1:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_16:συνεργασία
+ff_3:συνεργασία
+ff_0:συνεργασία
+ff_0:κάποια
+ff_0:διεθνή
+ff_6:κάποια
+ff_7:PRON_Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Ind
+ff_16:,
+ff_17:PUNCT__
+ff_3:οποία
+ff_4:PRON_Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Rel
+ff_0:οποία
+ff_1:PRON_Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Rel
+ff_6:οποία
+ff_7:PRON_Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Rel
+ff_14:είναι
+ff_15:AUX_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_15:NOUN__
+ff_16:σχετικά
+ff_4:NOUN__
+ff_1:NOUN__
+ff_0:σχετικά
+ff_3:σχετικά
+ff_17:ADJ_Case=Gen|Gender=Fem|Number=Plur
+ff_4:PRON_Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Rel
+ff_14:οποία
+ff_15:PRON_Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Rel
+ff_16:θέμα
+ff_3:θέμα
+ff_0:θέμα
+ff_8:μας
+ff_9:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs
+ff_0:μας
+ff_1:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs
+ff_8:σε
+ff_3:χρόνια
+ff_18:χρόνια
+ff_19:NOUN_Case=Acc|Gender=Neut|Number=Plur
+ff_20:χρόνια
+ff_0:χρόνια
+ff_14:χρόνια
+ff_16:χρόνια
+ff_11:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act
+ff_18:.
+ff_21:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act
+ff_3:πρέπει
+ff_7:NOUN_Abbr=Yes
+ff_16:όχι
+ff_8:μια
+ff_9:DET_Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+ff_3:όχι
+ff_4:PART__
+ff_5:PART
+ff_0:όχι
+ff_14:και
+ff_15:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_14:όχι
+ff_0:ή
+ff_6:ή
+ff_8:ή
+ff_3:σύμβαση
+ff_0:άλλη
+ff_0:σύμβαση
+ff_14:άλλη
+ff_15:PRON_Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind
+ff_17:ADJ_Case=Nom|Gender=Fem|Number=Sing
+ff_17:NOUN__
+ff_8:μπορεί
+ff_14:μπορεί
+ff_3:μπορεί
+ff_1:DET_Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+ff_3:αίτηση
+ff_10:οποίες
+ff_11:PRON_Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Rel
+ff_13:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass
+ff_18:αίτηση
+ff_20:αίτηση
+ff_21:NOUN_Case=Nom|Gender=Fem|Number=Sing
+ff_0:αίτηση
+ff_7:DET_Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+ff_9:DET_Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+ff_0:μπορεί
+ff_14:αίτηση
+ff_16:αίτηση
+ff_3:μπορούμε
+ff_0:κι
+ff_3:έτσι
+ff_13:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act
+ff_18:έτσι
+ff_20:έτσι
+ff_0:έτσι
+ff_6:κι
+ff_8:κι
+ff_0:μπορούμε
+ff_14:έτσι
+ff_16:έτσι
+ff_0:γιατί
+ff_3:σύστημα
+ff_0:σύστημα
+ff_6:γιατί
+ff_8:στιγμή
+ff_14:σύστημα
+ff_3:στιγμή
+ff_0:στιγμή
+ff_7:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs
+ff_9:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs
+ff_4:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs
+ff_1:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs
+ff_3:πολλοί
+ff_18:,
+ff_0:αυτό
+ff_1:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Dem
+ff_14:αυτό
+ff_15:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Dem
+ff_16:αυτό
+ff_17:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Dem
+ff_0:μην
+ff_8:δικαιώματα
+ff_16:μην
+ff_3:δικαιώματα
+ff_0:δικαιώματα
+ff_8:πολιτών
+ff_3:πολιτών
+ff_0:πολιτών
+ff_14:μόνο
+ff_17:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+ff_3:μόνο
+ff_0:μόνο
+ff_7:ADJ_Case=Acc|Gender=Fem|Number=Sing
+ff_8:δικαιωμάτων
+ff_3:δικαιωμάτων
+ff_0:δικαιωμάτων
+ff_4:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+ff_1:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+ff_0:κ.
+ff_8:κ.
+ff_14:κ.
+ff_16:στον
+ff_17:ADP_Case=Acc|Gender=Masc|Number=Sing
+ff_17:ADJ_Case=Gen|Gender=Neut|Number=Plur
+ff_21:NOUN_Case=Nom|Gender=Masc|Number=Sing
+ff_15:AUX_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_8:μου
+ff_9:PRON_Case=Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs
+ff_14:μου
+ff_15:PRON_Case=Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs
+ff_0:μου
+ff_1:PRON_Case=Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs
+ff_16:κ.
+ff_0:πρέπει
+ff_16:σύστημα
+ff_9:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_7:ADJ_Case=Acc|Gender=Neut|Number=Plur
+ff_4:ADJ_Case=Acc|Gender=Fem|Number=Plur
+ff_0:εδώ
+ff_1:DET_Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art
+ff_3:πρόβλημα
+ff_0:πρόβλημα
+ff_6:ένα
+ff_7:DET_Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art
+ff_16:ένα
+ff_17:DET_Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art
+ff_9:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_4:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_1:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_16:αυτούς
+ff_17:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Dem
+ff_3:αυτούς
+ff_4:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Dem
+ff_0:αυτούς
+ff_1:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Dem
+ff_8:έχουν
+ff_14:μέτρα
+ff_3:έχουν
+ff_0:χωρίς
+ff_8:πρόγραμμα
+ff_14:χωρίς
+ff_1:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Ind
+ff_3:πρόγραμμα
+ff_0:πρόγραμμα
+ff_7:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Ind
+ff_16:περισσότερο
+ff_17:ADV_Degree=Cmp
+ff_3:περισσότερο
+ff_4:ADV_Degree=Cmp
+ff_0:περισσότερο
+ff_1:ADV_Degree=Cmp
+ff_6:ακόμα
+ff_8:ακόμα
+ff_14:δικαιωμάτων
+ff_0:πως
+ff_6:πως
+ff_8:είναι
+ff_9:AUX_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_3:λόγο
+ff_0:λόγο
+ff_8:αυτό
+ff_9:PRON_Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Dem
+ff_1:PRON_Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Dem
+ff_0:μεγάλη
+ff_8:μεγάλη
+ff_14:μεγάλη
+ff_8:σχετικά
+ff_10:ζήτημα
+ff_12:ζήτημα
+ff_6:ζήτημα
+ff_8:ζήτημα
+ff_3:ζήτημα
+ff_0:ζήτημα
+ff_1:PRON_Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs
+ff_4:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+ff_1:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+ff_14:αφορά
+ff_0:όσον
+ff_3:αφορά
+ff_0:αφορά
+ff_6:όσον
+ff_16:όσον
+ff_0:ευρωπαϊκό
+ff_14:ευρωπαϊκό
+ff_16:ευρωπαϊκό
+ff_6:στιγμή
+ff_0:όλους
+ff_14:όλους
+ff_16:όλους
+ff_0:αυτά
+ff_1:PRON_Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Dem
+ff_6:αυτά
+ff_7:PRON_Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Dem
+ff_16:αυτά
+ff_17:PRON_Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Dem
+ff_0:διότι
+ff_6:διότι
+ff_15:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_15:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act
+ff_1:PRON_Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs
+ff_9:PRON_Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs
+ff_12:συνεργασία
+ff_8:συνεργασία
+ff_1:PRON_Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Ind,Rel
+ff_8:τομέα
+ff_15:PRON_Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Ind,Rel
+ff_17:PRON_Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Ind,Rel
+ff_3:τομέα
+ff_0:αυτόν
+ff_0:τομέα
+ff_14:αυτόν
+ff_15:PRON_Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Dem
+ff_16:αυτόν
+ff_17:PRON_Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Dem
+ff_1:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind,Rel
+ff_4:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind,Rel
+ff_9:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_15:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind,Rel
+ff_1:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_8:πρέπει
+ff_17:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act
+ff_14:αυτά
+ff_15:PRON_Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Dem
+ff_3:συνέχεια
+ff_0:συνέχεια
+ff_0:αυτών
+ff_1:PRON_Case=Gen|Gender=Neut|Number=Plur|Person=3|PronType=Dem
+ff_6:αυτών
+ff_7:PRON_Case=Gen|Gender=Neut|Number=Plur|Person=3|PronType=Dem
+ff_9:PROPN_Case=Acc|Gender=Masc|Number=Sing
+ff_17:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_15:PROPN_Case=Acc|Gender=Fem|Number=Sing
+ff_4:PROPN_Case=Acc|Gender=Masc|Number=Sing
+ff_17:PROPN_Case=Acc|Gender=Masc|Number=Sing
+ff_19:NOUN_Case=Acc|Gender=Masc|Number=Sing
+ff_17:VERB_Aspect=Perf|VerbForm=Inf|Voice=Pass
+ff_3:νησιού
+ff_0:νησιού
+ff_0:σήμερα
+ff_1:VERB_Aspect=Perf|VerbForm=Inf|Voice=Pass
+ff_14:σήμερα
+ff_16:έχει
+ff_17:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_13:NOUN_Case=Acc|Gender=Fem|Number=Plur
+ff_16:προς
+ff_3:έχει
+ff_17:ADJ_Case=Nom|Gender=Neut|Number=Sing
+ff_11:NOUN_Case=Nom|Gender=Neut|Number=Sing
+ff_8:μία
+ff_9:NUM_Case=Nom|Gender=Fem|Number=Sing|NumType=Card
+ff_14:μία
+ff_15:NUM_Case=Nom|Gender=Fem|Number=Sing|NumType=Card
+ff_3:μία
+ff_4:NUM_Case=Nom|Gender=Fem|Number=Sing|NumType=Card
+ff_0:μία
+ff_1:NUM_Case=Nom|Gender=Fem|Number=Sing|NumType=Card
+ff_0:κάθε
+ff_1:PRON_Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Ind
+ff_14:κάθε
+ff_15:PRON_Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Ind
+ff_16:κάθε
+ff_17:PRON_Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Ind
+ff_1:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs
+ff_4:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_8:στις
+ff_9:ADP_Case=Acc|Gender=Fem|Number=Plur
+ff_8:οποίων
+ff_9:PRON_Case=Gen|Gender=Fem|Number=Plur|Person=3|PronType=Rel
+ff_3:οποίων
+ff_4:PRON_Case=Gen|Gender=Fem|Number=Plur|Person=3|PronType=Rel
+ff_0:οποίων
+ff_1:PRON_Case=Gen|Gender=Fem|Number=Plur|Person=3|PronType=Rel
+ff_9:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_18:οποία
+ff_19:PRON_Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Rel
+ff_21:VERB_Aspect=Imp|VerbForm=Conv|Voice=Act
+ff_17:VERB_Aspect=Imp|VerbForm=Conv|Voice=Act
+ff_8:ρόλο
+ff_14:ρόλο
+ff_0:σημαντικό
+ff_3:ρόλο
+ff_0:ρόλο
+ff_6:σημαντικό
+ff_16:σημαντικό
+ff_15:DET_Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art
+ff_16:σήμερα
+ff_8:ένα
+ff_9:NUM_Case=Acc|Gender=Neut|Number=Sing|NumType=Card
+ff_15:NUM_Case=Acc|Gender=Neut|Number=Sing|NumType=Card
+ff_17:NUM_Case=Acc|Gender=Neut|Number=Sing|NumType=Card
+ff_3:ένα
+ff_4:NUM_Case=Acc|Gender=Neut|Number=Sing|NumType=Card
+ff_1:NUM_Case=Acc|Gender=Neut|Number=Sing|NumType=Card
+ff_9:VERB_Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+ff_10:από
+ff_11:ADP__
+ff_18:τα
+ff_19:DET_Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art
+ff_21:PROPN_Case=Gen|Gender=Fem|Number=Sing
+ff_6:πιο
+ff_8:πιο
+ff_14:σε
+ff_4:VERB_Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+ff_13:ADV__
+ff_1:VERB_Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+ff_21:ADJ_Case=Acc|Gender=Neut|Number=Plur
+ff_15:PRON_Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_8:αυτής
+ff_9:PRON_Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Dem
+ff_14:αυτής
+ff_15:PRON_Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Dem
+ff_0:αυτής
+ff_1:PRON_Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Dem
+ff_16:κυρίως
+ff_0:κυρίως
+ff_0:λόγω
+ff_6:λόγω
+ff_8:έγινε
+ff_17:PRON_Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_1:PRON_Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_21:NUM_Case=Acc|Gender=Masc|Number=Sing|NumType=Ord
+ff_0:έγινε
+ff_17:NUM_Case=Acc|Gender=Masc|Number=Sing|NumType=Ord
+ff_4:NUM_Case=Acc|Gender=Masc|Number=Sing|NumType=Ord
+ff_1:NUM_Case=Acc|Gender=Masc|Number=Sing|NumType=Ord
+ff_0:ενός
+ff_1:DET_Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
+ff_6:ενός
+ff_7:DET_Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
+ff_16:ενός
+ff_17:DET_Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
+ff_17:PRON_Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Rel
+ff_16:δύο
+ff_1:NUM_Case=Gen|Gender=Masc|Number=Sing|NumType=Ord
+ff_15:NUM_Case=Gen|Gender=Masc|Number=Sing|NumType=Ord
+ff_17:NUM_Case=Gen|Gender=Masc|Number=Sing|NumType=Ord
+ff_6:καθώς
+ff_8:καθώς
+ff_20:πλέον
+ff_16:πλέον
+ff_0:πλέον
+ff_8:ανάπτυξη
+ff_14:ανάπτυξη
+ff_3:ανάπτυξη
+ff_0:ανάπτυξη
+ff_3:θέση
+ff_0:θέση
+ff_0:μιας
+ff_1:DET_Case=Gen|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+ff_6:μιας
+ff_7:DET_Case=Gen|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+ff_8:μιας
+ff_9:DET_Case=Gen|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+ff_0:όπου
+ff_14:όπου
+ff_1:NUM_Case=Nom|Gender=Fem|Number=Plur|NumType=Card
+ff_7:NUM_Case=Nom|Gender=Fem|Number=Plur|NumType=Card
+ff_17:NUM_Case=Nom|Gender=Fem|Number=Plur|NumType=Card
+ff_11:VERB_Aspect=Imp|VerbForm=Conv|Voice=Act
+ff_9:VERB_Aspect=Perf|VerbForm=Inf|Voice=Act
+ff_15:VERB_Aspect=Perf|VerbForm=Inf|Voice=Act
+ff_0:σημαντική
+ff_6:σημαντική
+ff_16:σημαντική
+ff_6:όχι
+ff_8:όχι
+ff_6:μόνο
+ff_14:για
+ff_1:NOUN_Case=Voc|Gender=Masc|Number=Sing
+ff_4:NOUN_Case=Voc|Gender=Masc|Number=Sing
+ff_3:ήθελα
+ff_7:NOUN_Case=Voc|Gender=Masc|Number=Sing
+ff_9:NOUN_Case=Voc|Gender=Masc|Number=Sing
+ff_4:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act
+ff_1:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act
+ff_9:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_9:NUM_Case=Acc|Gender=Fem|Number=Sing|NumType=Ord
+ff_15:NUM_Case=Nom|Gender=Fem|Number=Plur|NumType=Card
+ff_4:PRON_Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind
+ff_8:διαδικασίες
+ff_3:διαδικασίες
+ff_0:διαδικασίες
+ff_3:άλλη
+ff_11:VERB_Aspect=Perf|VerbForm=Inf|Voice=Act
+ff_13:VERB_Aspect=Perf|VerbForm=Inf|Voice=Act
+ff_8:όλα
+ff_14:όλα
+ff_0:όλα
+ff_7:VERB_Aspect=Perf|VerbForm=Inf|Voice=Act
+ff_1:PRON_Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Ind,Rel
+ff_3:όλα
+ff_7:PRON_Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Ind,Rel
+ff_8:έκθεση
+ff_14:έχει
+ff_3:έκθεση
+ff_0:πρώτη
+ff_6:ακόμη
+ff_8:ακόμη
+ff_0:ακόμη
+ff_3:πρώτη
+ff_4:NUM_Case=Acc|Gender=Fem|Number=Sing|NumType=Ord
+ff_0:έκθεση
+ff_14:από
+ff_16:πρώτη
+ff_14:ως
+ff_0:αυτού
+ff_1:PRON_Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Dem
+ff_6:αυτού
+ff_7:PRON_Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Dem
+ff_16:αυτού
+ff_17:PRON_Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Dem
+ff_3:προβλήματα
+ff_0:προβλήματα
+ff_17:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_1:PRON_Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Rel
+ff_7:PRON_Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Rel
+ff_17:PRON_Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Rel
+ff_3:θέλω
+ff_0:θέλω
+ff_9:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act
+ff_15:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act
+ff_14:μας
+ff_15:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs
+ff_14:στην
+ff_16:μας
+ff_17:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs
+ff_1:PRON_Case=Gen|Gender=Fem|Number=Plur|Person=3|PronType=Dem
+ff_7:PRON_Case=Gen|Gender=Fem|Number=Plur|Person=3|PronType=Dem
+ff_9:DET_Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Art
+ff_16:αυτών
+ff_17:PRON_Case=Gen|Gender=Fem|Number=Plur|Person=3|PronType=Dem
+ff_3:πρόκειται
+ff_14:έκθεση
+ff_6:μία
+ff_16:τροπολογίες
+ff_0:τροπολογίες
+ff_4:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Rel
+ff_10:οποίο
+ff_11:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Rel
+ff_13:VERB_Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+ff_19:VERB_Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+ff_21:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Rel
+ff_1:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Rel
+ff_6:οποίο
+ff_7:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Rel
+ff_15:VERB_Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+ff_17:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Rel
+ff_0:τελευταία
+ff_16:τελευταία
+ff_3:κάνουμε
+ff_1:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+ff_9:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+ff_1:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Rel
+ff_7:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Rel
+ff_8:που
+ff_9:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Rel
+ff_17:NOUN_Case=Voc|Gender=Fem|Number=Plur
+ff_4:NOUN_Case=Voc|Gender=Fem|Number=Plur
+ff_1:NOUN_Case=Voc|Gender=Fem|Number=Plur
+ff_15:NOUN_Case=Voc|Gender=Masc|Number=Plur
+ff_17:NOUN_Case=Voc|Gender=Masc|Number=Plur
+ff_4:NOUN_Case=Voc|Gender=Masc|Number=Plur
+ff_1:NOUN_Case=Voc|Gender=Masc|Number=Plur
+ff_0:σας
+ff_1:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs
+ff_8:πρόκειται
+ff_14:σας
+ff_15:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs
+ff_16:εδώ
+ff_10:λόγο
+ff_19:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act
+ff_20:λόγο
+ff_1:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Int
+ff_9:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Int
+ff_15:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Int
+ff_0:πρόκειται
+ff_6:λόγο
+ff_16:λόγο
+ff_8:τροπολογίες
+ff_14:τροπολογίες
+ff_3:τροπολογίες
+ff_15:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_9:PRON_Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Rel
+ff_3:ομάδα
+ff_11:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_13:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_0:ομάδα
+ff_16:μία
+ff_17:DET_Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+ff_7:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_8:συνάδελφοι
+ff_14:συνάδελφοι
+ff_17:PRON_Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Rel
+ff_3:συνάδελφοι
+ff_0:συνάδελφοι
+ff_9:ADJ_Case=Gen|Gender=Masc|Number=Plur
+ff_15:ADJ_Case=Gen|Gender=Masc|Number=Plur
+ff_4:ADJ_Case=Gen|Gender=Masc|Number=Plur
+ff_1:ADJ_Case=Gen|Gender=Masc|Number=Plur
+ff_17:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Rel
+ff_0:ευρωπαϊκού
+ff_1:ADJ_Case=Gen|Gender=Neut|Number=Sing
+ff_14:ευρωπαϊκού
+ff_15:ADJ_Case=Gen|Gender=Neut|Number=Sing
+ff_16:ευρωπαϊκού
+ff_17:ADJ_Case=Gen|Gender=Neut|Number=Sing
+ff_7:ADJ_Case=Gen|Gender=Neut|Number=Plur
+ff_15:DET_Case=Gen|Definite=Def|Gender=Fem|Number=Plur|PronType=Art
+ff_1:DET_Case=Gen|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art
+ff_0:τόσο
+ff_4:ADJ_Case=Gen|Gender=Neut|Number=Sing
+ff_10:ενός
+ff_11:DET_Case=Gen|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art
+ff_13:NOUN_Case=Nom|Gender=Neut|Number=Sing
+ff_19:ADJ_Case=Gen|Gender=Neut|Number=Sing
+ff_20:όπως
+ff_6:τόσο
+ff_8:τόσο
+ff_7:DET_Case=Gen|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art
+ff_16:όπως
+ff_15:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act
+ff_7:NOUN_Case=Nom|Gender=Fem|Number=Sing
+ff_15:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_12:οποίο
+ff_13:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Rel
+ff_13:ADJ_Case=Nom|Gender=Neut|Number=Sing
+ff_19:ADJ_Case=Nom|Gender=Neut|Number=Sing
+ff_8:οποίο
+ff_9:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Rel
+ff_3:τουλάχιστον
+ff_0:τουλάχιστον
+ff_16:τουλάχιστον
+ff_17:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs
+ff_1:PRON_Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind
+ff_7:PRON_Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind
+ff_17:PRON_Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind
+ff_15:PRON_Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Rel
+ff_16:συνάδελφοι
+ff_1:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind
+ff_7:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind
+ff_9:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind
+ff_1:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Ind
+ff_15:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Ind
+ff_17:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Ind
+ff_4:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Rel
+ff_15:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Rel
+ff_16:επίσης
+ff_1:PRON_Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Dem
+ff_15:PRON_Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Dem
+ff_9:PRON_Case=Gen|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_1:PRON_Case=Gen|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_4:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Pass
+ff_4:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_1:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_0:γι'
+ff_3:αυτό
+ff_4:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Dem
+ff_6:γι'
+ff_8:γι'
+ff_8:μέλλον
+ff_1:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem
+ff_7:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem
+ff_14:οι
+ff_15:DET_Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art
+ff_17:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem
+ff_3:μέλλον
+ff_0:μέλλον
+ff_0:κάνουμε
+ff_8:μαζί
+ff_17:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+ff_0:μαζί
+ff_3:μαζί
+ff_1:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs
+ff_17:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs
+ff_8:αυτές
+ff_9:PRON_Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Dem
+ff_17:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_3:αυτές
+ff_4:PRON_Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Dem
+ff_0:αυτές
+ff_1:PRON_Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Dem
+ff_0:εμείς
+ff_11:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act
+ff_3:εμείς
+ff_4:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs
+ff_7:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act
+ff_14:εμείς
+ff_15:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs
+ff_16:εμείς
+ff_17:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs
+ff_3:πιστεύω
+ff_0:πιστεύω
+ff_10:σήμερα
+ff_12:σήμερα
+ff_6:σήμερα
+ff_8:σήμερα
+ff_3:σήμερα
+ff_0:υπέρ
+ff_6:υπέρ
+ff_14:αυτών
+ff_15:PRON_Case=Gen|Gender=Fem|Number=Plur|Person=3|PronType=Dem
+ff_0:κύριε
+ff_14:κύριε
+ff_15:NOUN_Case=Voc|Gender=Masc|Number=Sing
+ff_0:επειδή
+ff_6:αυτό
+ff_7:PRON_Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Dem
+ff_17:PRON_Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Dem
+ff_4:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act
+ff_1:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs
+ff_1:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act
+ff_14:όπως
+ff_17:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs
+ff_14:επειδή
+ff_16:πολύ
+ff_0:πολύ
+ff_1:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs
+ff_1:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Pass
+ff_8:τρόπο
+ff_14:τρόπο
+ff_3:τρόπο
+ff_0:τρόπο
+ff_4:PRON_Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel
+ff_11:PRON_Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel
+ff_19:NOUN__
+ff_21:NOUN__
+ff_1:PRON_Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel
+ff_7:PRON_Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel
+ff_10:μέσα
+ff_12:μέσα
+ff_14:σχετικά
+ff_6:μέσα
+ff_8:μέσα
+ff_8:σας
+ff_9:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=2|Poss=Yes|PronType=Prs
+ff_1:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=2|Poss=Yes|PronType=Prs
+ff_3:ελπίζω
+ff_0:ελπίζω
+ff_9:ADJ_Case=Acc|Gender=Masc|Number=Sing
+ff_9:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs
+ff_16:σχέση
+ff_3:σχέση
+ff_0:σχέση
+ff_3:μας
+ff_4:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs
+ff_8:μεταξύ
+ff_15:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Act
+ff_9:NUM_Case=Acc|Gender=Masc|Number=Sing|NumType=Ord
+ff_15:NUM_Case=Acc|Gender=Masc|Number=Sing|NumType=Ord
+ff_0:όλοι
+ff_14:όλοι
+ff_17:NOUN_Case=Voc|Gender=Masc|Number=Sing
+ff_1:PRON_Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Ind
+ff_7:PRON_Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Ind
+ff_9:PRON_Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Ind
+ff_14:ζωή
+ff_4:ADJ_Case=Gen|Gender=Fem|Number=Plur
+ff_4:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Ind
+ff_4:ADJ_Case=Nom|Gender=Fem|Number=Plur
+ff_0:όλες
+ff_3:προσπάθειες
+ff_0:προσπάθειες
+ff_6:όλες
+ff_15:DET_Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art
+ff_9:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Dem
+ff_16:τέλος
+ff_0:τέλος
+ff_9:AUX_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_14:προσπάθειες
+ff_16:προσπάθειες
+ff_17:NOUN_Case=Nom|Gender=Fem|Number=Plur
+ff_3:πλευρά
+ff_0:πλευρά
+ff_16:άλλη
+ff_1:ADJ_Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing
+ff_8:σύστημα
+ff_14:μεγαλύτερο
+ff_15:ADJ_Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing
+ff_17:ADJ_Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing
+ff_14:επίσης
+ff_9:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Pass
+ff_15:PRON_Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs
+ff_17:PRON_Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs
+ff_0:ίδιο
+ff_8:ίδιο
+ff_11:NOUN_Case=Voc|Gender=Masc|Number=Sing
+ff_21:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+ff_0:ορισμένα
+ff_6:ορισμένα
+ff_16:ορισμένα
+ff_10:οποία
+ff_11:PRON_Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Rel
+ff_12:μέτρα
+ff_8:μεταφορών
+ff_3:μεταφορών
+ff_0:μεταφορών
+ff_14:ακόμα
+ff_7:ADJ_Case=Gen|Gender=Fem|Number=Sing
+ff_14:έχουν
+ff_6:όλα
+ff_15:PRON_Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Dem
+ff_14:μάλιστα
+ff_0:μάλιστα
+ff_14:εργασίας
+ff_16:εργασίας
+ff_0:εργασίας
+ff_6:οποίος
+ff_7:PRON_Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Rel
+ff_13:PRON_Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Rel
+ff_20:,
+ff_9:PRON_Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Rel
+ff_14:εάν
+ff_16:εάν
+ff_17:NOUN_Case=Gen|Gender=Masc|Number=Plur
+ff_14:μεταξύ
+ff_3:μεταξύ
+ff_8:στον
+ff_9:ADP_Case=Acc|Gender=Masc|Number=Sing
+ff_1:PRON_Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind,Rel
+ff_7:PRON_Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind,Rel
+ff_15:ADV_Degree=Cmp
+ff_8:χωρών
+ff_14:χωρών
+ff_3:χωρών
+ff_0:χωρών
+ff_6::
+ff_0:περισσότερα
+ff_1:ADJ_Case=Acc|Degree=Cmp|Gender=Neut|Number=Plur
+ff_6:περισσότερα
+ff_7:ADJ_Case=Acc|Degree=Cmp|Gender=Neut|Number=Plur
+ff_8:περισσότερα
+ff_9:ADJ_Case=Acc|Degree=Cmp|Gender=Neut|Number=Plur
+ff_14:ή
+ff_17:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_1:PRON_Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Ind
+ff_17:PRON_Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Ind
+ff_4:VERB_Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+ff_3:παράδειγμα
+ff_0:παράδειγμα
+ff_15:PROPN_Case=Gen|Gender=Neut|Number=Sing
+ff_3:δύο
+ff_4:NUM_Case=Nom|Gender=Masc|Number=Plur|NumType=Card
+ff_18:παράδειγμα
+ff_19:NOUN_Case=Acc|Gender=Neut|Number=Sing
+ff_20:κάτι
+ff_21:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Ind
+ff_3:κάτι
+ff_0:κάτι
+ff_9:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+ff_15:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+ff_4:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+ff_1:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+ff_16:ακόμα
+ff_3:υπάρχουν
+ff_0:υπάρχουν
+ff_0:όλο
+ff_3:περισσότερες
+ff_4:ADJ_Case=Nom|Degree=Cmp|Gender=Fem|Number=Plur
+ff_10:περισσότερες
+ff_11:ADJ_Case=Nom|Degree=Cmp|Gender=Fem|Number=Plur
+ff_19:NOUN_Case=Nom|Gender=Fem|Number=Plur
+ff_20:περισσότερες
+ff_21:ADJ_Case=Nom|Degree=Cmp|Gender=Fem|Number=Plur
+ff_0:περισσότερες
+ff_1:ADJ_Case=Nom|Degree=Cmp|Gender=Fem|Number=Plur
+ff_6:όλο
+ff_16:όλο
+ff_6:περισσότερες
+ff_7:ADJ_Case=Nom|Degree=Cmp|Gender=Fem|Number=Plur
+ff_16:περισσότερες
+ff_17:ADJ_Case=Nom|Degree=Cmp|Gender=Fem|Number=Plur
+ff_12:περισσότερες
+ff_13:ADJ_Case=Nom|Degree=Cmp|Gender=Fem|Number=Plur
+ff_18:περισσότερες
+ff_19:ADJ_Case=Nom|Degree=Cmp|Gender=Fem|Number=Plur
+ff_8:περισσότερες
+ff_9:ADJ_Case=Nom|Degree=Cmp|Gender=Fem|Number=Plur
+ff_14:περισσότερες
+ff_15:ADJ_Case=Nom|Degree=Cmp|Gender=Fem|Number=Plur
+ff_3:χώρες
+ff_0:χώρες
+ff_6:χώρες
+ff_17:AUX_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_8:θέση
+ff_8:μπορούν
+ff_16:τομέα
+ff_3:μπορούν
+ff_0:φυσικά
+ff_3:φυσικά
+ff_0:μπορούν
+ff_14:φυσικά
+ff_8:συνθήκες
+ff_14:συνθήκες
+ff_3:συνθήκες
+ff_0:συνθήκες
+ff_10:αυτό
+ff_11:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Dem
+ff_12:αυτό
+ff_13:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Dem
+ff_7:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Dem
+ff_13:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Dem
+ff_9:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Dem
+ff_16:μόνο
+ff_14:κανόνες
+ff_16:κανόνες
+ff_17:NOUN_Case=Acc|Gender=Masc|Number=Plur
+ff_3:κανόνες
+ff_0:κανόνες
+ff_8:ενός
+ff_9:DET_Case=Gen|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art
+ff_16:έκθεση
+ff_8:πρώτη
+ff_14:πρώτη
+ff_1:PRON_Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem
+ff_3:κατάσταση
+ff_4:PRON_Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Rel
+ff_11:PRON_Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Rel
+ff_12:οποία
+ff_13:PRON_Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Rel
+ff_8:οποία
+ff_9:PRON_Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Rel
+ff_14:μεταφορών
+ff_8:επίσης
+ff_16:αλλά
+ff_0:υπό
+ff_14:υπό
+ff_8:μπορούμε
+ff_9:NUM_Case=Gen|Gender=Masc|Number=Plur|NumType=Card
+ff_15:NUM_Case=Gen|Gender=Masc|Number=Plur|NumType=Card
+ff_4:NUM_Case=Gen|Gender=Masc|Number=Plur|NumType=Card
+ff_1:NUM_Case=Gen|Gender=Masc|Number=Plur|NumType=Card
+ff_17:ADJ_Case=Nom|Gender=Masc|Number=Sing
+ff_19:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_8:μετά
+ff_14:"
+ff_16:συμφωνία
+ff_3:μετά
+ff_1:NUM_Case=Acc|Gender=Fem|Number=Plur|NumType=Card
+ff_15:NUM_Case=Acc|Gender=Fem|Number=Plur|NumType=Card
+ff_17:NUM_Case=Acc|Gender=Fem|Number=Plur|NumType=Card
+ff_7:ADJ_Case=Gen|Gender=Fem|Number=Plur
+ff_15:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass
+ff_3:δηλαδή
+ff_0:δηλαδή
+ff_6:δηλαδή
+ff_9:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_1:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_4:NUM_Case=Gen|Gender=Fem|Number=Sing|NumType=Ord
+ff_4:PROPN_Case=Acc|Gender=Neut|Number=Sing
+ff_4:ADJ_Case=Acc|Gender=Masc|Number=Plur
+ff_16:καθώς
+ff_10:συμφωνία
+ff_12:συμφωνία
+ff_6:συμφωνία
+ff_8:συμφωνία
+ff_12:αύξηση
+ff_18:αύξηση
+ff_12:"
+ff_18:"
+ff_8:αύξηση
+ff_14:αύξηση
+ff_1:NUM_Case=Acc|Gender=Masc|Number=Plur|NumType=Card
+ff_15:NUM_Case=Acc|Gender=Masc|Number=Plur|NumType=Card
+ff_17:NUM_Case=Acc|Gender=Masc|Number=Plur|NumType=Card
+ff_10:μέτρων
+ff_12:μέτρων
+ff_6:μέτρων
+ff_8:μέτρων
+ff_3:μέτρων
+ff_0:μέτρων
+ff_3:αύξηση
+ff_0:αύξηση
+ff_8:χρόνο
+ff_3:χρόνο
+ff_0:χρόνο
+ff_8:αυτά
+ff_9:PRON_Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Dem
+ff_13:PROPN_Case=Acc|Gender=Neut|Number=Sing
+ff_18:μέλη
+ff_20:μέλη
+ff_21:NOUN_Case=Nom|Gender=Neut|Number=Plur
+ff_9:PROPN_Case=Acc|Gender=Neut|Number=Sing
+ff_3:αυτά
+ff_4:PRON_Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Dem
+ff_19:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act
+ff_3:δήλωσε
+ff_9:ADJ_Case=Nom|Gender=Masc|Number=Sing
+ff_4:ADJ_Case=Nom|Gender=Masc|Number=Sing
+ff_6:μεγάλη
+ff_11:NUM_NumType=Card
+ff_17:ADJ_Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing
+ff_1:ADJ_Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing
+ff_3:μεγαλύτερο
+ff_4:ADJ_Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing
+ff_21:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_11:ADV_Degree=Cmp
+ff_7:NUM_Case=Acc|Gender=Fem|Number=Plur|NumType=Card
+ff_9:PROPN_Case=Acc|Gender=Fem|Number=Plur
+ff_15:PROPN_Case=Acc|Gender=Fem|Number=Plur
+ff_4:PROPN_Case=Acc|Gender=Fem|Number=Plur
+ff_1:PROPN_Case=Acc|Gender=Fem|Number=Plur
+ff_14:στις
+ff_15:ADP_Case=Acc|Gender=Fem|Number=Plur
+ff_4:PRON_Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Rel
+ff_0:αν
+ff_3:αν
+ff_4:SCONJ__
+ff_5:SCONJ
+ff_6:αν
+ff_18:οποίες
+ff_19:PRON_Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Rel
+ff_14:οποίες
+ff_15:PRON_Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Rel
+ff_15:ADP_Case=Acc|Gender=Masc|Number=Sing
+ff_0:πραγματικά
+ff_8:πραγματικά
+ff_14:πραγματικά
+ff_4:ADJ_Case=Gen|Gender=Fem|Number=Sing
+ff_10:μεταξύ
+ff_13:ADJ_Case=Gen|Gender=Fem|Number=Sing
+ff_19:ADJ_Case=Gen|Gender=Fem|Number=Sing
+ff_20:μεταξύ
+ff_21:ADP__
+ff_16:μεταξύ
+ff_20:σημεία
+ff_10:περιοχή
+ff_12:περιοχή
+ff_6:περιοχή
+ff_8:περιοχή
+ff_0:είχε
+ff_9:NUM_Case=Acc|Gender=Fem|Number=Plur|NumType=Card
+ff_9:NOUN__
+ff_10:ασφαλείας
+ff_13:NOUN_Case=Gen|Gender=Masc|Number=Sing
+ff_19:NOUN_Case=Gen|Gender=Masc|Number=Sing
+ff_20:ασφαλείας
+ff_3:γεγονός
+ff_0:γεγονός
+ff_12:βόρεια
+ff_8:βόρεια
+ff_0:βόρεια
+ff_3:βόρεια
+ff_16:βόρεια
+ff_10:"
+ff_18:γεγονός
+ff_6:ασφαλείας
+ff_16:ασφαλείας
+ff_0:ασφαλείας
+ff_1:VERB_Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+ff_15:VERB_Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+ff_0:πολιτικών
+ff_8:πολιτικών
+ff_14:πολιτικών
+ff_0:εκτός
+ff_6:εκτός
+ff_3:κάποια
+ff_9:VERB_Aspect=Imp|VerbForm=Conv|Voice=Act
+ff_7:NOUN__
+ff_14:βόρεια
+ff_9:VERB_Aspect=Perf|VerbForm=Inf|Voice=Pass
+ff_15:VERB_Aspect=Perf|VerbForm=Inf|Voice=Pass
+ff_9:ADV_Degree=Cmp
+ff_8:τύπου
+ff_14:τύπου
+ff_1:PRON_Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Dem
+ff_3:τύπου
+ff_0:τύπου
+ff_7:PRON_Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Dem
+ff_9:PRON_Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Dem
+ff_8:σχέσεις
+ff_3:σχέσεις
+ff_0:σχέσεις
+ff_16:χωρών
+ff_1:NUM_Case=Gen|Gender=Fem|Number=Plur|NumType=Card
+ff_9:NUM_Case=Gen|Gender=Fem|Number=Plur|NumType=Card
+ff_12:κατάσταση
+ff_20:οποίες
+ff_21:PRON_Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Rel
+ff_8:κατάσταση
+ff_16:οποίες
+ff_0:κατάσταση
+ff_10:πόλη
+ff_18:πλευρά
+ff_20:πλευρά
+ff_8:νησιού
+ff_18:όταν
+ff_14:πόλη
+ff_16:πόλη
+ff_3:ενώ
+ff_11:NOUN__
+ff_13:NOUN__
+ff_4:PROPN_Case=Nom|Gender=Neut|Number=Sing
+ff_11:PROPN_Case=Nom|Gender=Neut|Number=Sing
+ff_1:PROPN_Case=Nom|Gender=Neut|Number=Sing
+ff_17:DET_Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
+ff_4:VERB_Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+ff_1:VERB_Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+ff_7:DET_Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art
+ff_17:DET_Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art
+ff_9:ADJ_Case=Nom|Degree=Sup|Gender=Neut|Number=Plur
+ff_4:ADJ_Case=Nom|Degree=Sup|Gender=Neut|Number=Plur
+ff_1:ADJ_Case=Nom|Degree=Sup|Gender=Neut|Number=Plur
+ff_15:PRON_Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Rel
+ff_16:ήταν
+ff_17:AUX_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_6:έτσι
+ff_8:λόγω
+ff_15:PRON_Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Ind
+ff_4:PRON_Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Ind
+ff_6:πολύ
+ff_8:άλλο
+ff_9:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Ind
+ff_14:άλλο
+ff_15:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Ind
+ff_3:άλλο
+ff_0:άλλο
+ff_3:λόγω
+ff_4:ADP__
+ff_5:ADP
+ff_11:NOUN_Case=Gen|Gender=Masc|Number=Sing
+ff_7:NOUN_Case=Gen|Gender=Masc|Number=Sing
+ff_1:ADJ_Case=Nom|Degree=Cmp|Gender=Neut|Number=Plur
+ff_3:περισσότερα
+ff_4:ADJ_Case=Nom|Degree=Cmp|Gender=Neut|Number=Plur
+ff_16:είχε
+ff_17:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_6:χωρίς
+ff_8:χωρίς
+ff_7:PROPN_Case=Acc|Gender=Neut|Number=Sing
+ff_21:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_8:για
+ff_12:πόλη
+ff_21:NOUN_Case=Nom|Gender=Neut|Number=Sing
+ff_6:πόλη
+ff_8:πόλη
+ff_15:PROPN_Case=Nom|Gender=Neut|Number=Sing
+ff_17:PROPN_Case=Nom|Gender=Neut|Number=Sing
+ff_9:ADJ_Case=Gen|Gender=Neut|Number=Sing
+ff_3:τρεις
+ff_4:NUM_Case=Nom|Gender=Fem|Number=Plur|NumType=Card
+ff_10:τρεις
+ff_11:NUM_Case=Nom|Gender=Fem|Number=Plur|NumType=Card
+ff_20:τρεις
+ff_21:NUM_Case=Nom|Gender=Fem|Number=Plur|NumType=Card
+ff_0:τρεις
+ff_8:μόνο
+ff_6:τρεις
+ff_16:τρεις
+ff_17:PROPN_Case=Nom|Gender=Fem|Number=Sing
+ff_15:DET_Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art
+ff_14:κάποια
+ff_15:PRON_Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Ind
+ff_16:κάποια
+ff_17:PRON_Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Ind
+ff_9:NUM_Case=Nom|Gender=Fem|Number=Plur|NumType=Card
+ff_11:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=2|VerbForm=Fin|Voice=Act
+ff_21:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=2|VerbForm=Fin|Voice=Act
+ff_4:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=2|VerbForm=Fin|Voice=Act
+ff_1:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=2|VerbForm=Fin|Voice=Act
+ff_4:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_8:πολύ
+ff_6:κάθε
+ff_7:PRON_Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Ind
+ff_8:κάθε
+ff_9:PRON_Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Ind
+ff_15:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=2|VerbForm=Fin|Voice=Pass
+ff_17:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=2|VerbForm=Fin|Voice=Pass
+ff_4:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=2|VerbForm=Fin|Voice=Pass
+ff_1:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=2|VerbForm=Fin|Voice=Pass
+ff_14:περιοχή
+ff_1:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_17:NOUN_Case=Nom|Gender=Masc|Number=Sing
+ff_0:πριν
+ff_6:πριν
+ff_16:πριν
+ff_1:PRON_Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+ff_17:PRON_Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+ff_11:ADJ_Case=Gen|Gender=Fem|Number=Sing
+ff_18:έκθεση
+ff_3:τομείς
+ff_0:τομείς
+ff_0:όσο
+ff_6:όσο
+ff_8:όσο
+ff_1:PRON_Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Int
+ff_0:λοιπόν
+ff_7:PRON_Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Int
+ff_0:;
+ff_3:μεταρρύθμιση
+ff_3:εκπαίδευση
+ff_0:εκπαίδευση
+ff_10:εκπαίδευση
+ff_6:πολιτική
+ff_8:πολιτική
+ff_3:πολιτική
+ff_0:πολιτική
+ff_11:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Pass
+ff_21:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Pass
+ff_8:στους
+ff_9:ADP_Case=Acc|Gender=Masc|Number=Plur
+ff_3:δυνατόν
+ff_10:δυνατόν
+ff_12:δυνατόν
+ff_0:δυνατόν
+ff_16:όσο
+ff_6:δυνατόν
+ff_8:δυνατόν
+ff_14:μέσω
+ff_6:εργασίας
+ff_8:εργασίας
+ff_10:στις
+ff_11:ADP_Case=Acc|Gender=Fem|Number=Plur
+ff_19:ADJ_Case=Acc|Gender=Fem|Number=Plur
+ff_21:ADJ_Case=Acc|Gender=Fem|Number=Plur
+ff_8:απασχόλησης
+ff_14:απασχόλησης
+ff_0:απασχόλησης
+ff_10:στοιχεία
+ff_12:στοιχεία
+ff_6:στοιχεία
+ff_8:στοιχεία
+ff_3:στοιχεία
+ff_0:στοιχεία
+ff_8:προς
+ff_3:αγορά
+ff_13:VERB_Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+ff_18:με
+ff_19:ADP__
+ff_20:με
+ff_6:αγορά
+ff_8:αγορά
+ff_0:αγορά
+ff_4:VERB_Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+ff_9:VERB_Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+ff_3:όπως
+ff_6:όπως
+ff_8:ευρωπαϊκό
+ff_7:VERB_Aspect=Perf|Case=Acc|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass
+ff_9:VERB_Aspect=Perf|Case=Acc|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass
+ff_4:VERB_Aspect=Perf|Case=Acc|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass
+ff_11:ADJ_Case=Acc|Gender=Fem|Number=Plur
+ff_18:όπως
+ff_1:VERB_Aspect=Perf|Case=Acc|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass
+ff_11:VERB_Aspect=Perf|Case=Acc|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass
+ff_13:VERB_Aspect=Perf|Case=Acc|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass
+ff_17:ADJ_Case=Gen|Gender=Masc|Number=Plur
+ff_7:NOUN_Case=Nom|Gender=Masc|Number=Sing
+ff_8:ειδικά
+ff_17:PRON_Case=Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs
+ff_0:ειδικά
+ff_3:ειδικά
+ff_7:ADJ_Case=Nom|Gender=Neut|Number=Sing
+ff_3:ευρωπαϊκό
+ff_0:σημαντικά
+ff_3:σημαντικά
+ff_0:ευρωπαϊκής
+ff_8:ευρωπαϊκής
+ff_14:ευρωπαϊκής
+ff_4:ADJ_Case=Acc|Gender=Neut|Number=Sing
+ff_7:ADJ_Case=Acc|Gender=Neut|Number=Sing
+ff_20:αφορά
+ff_8:εκπαίδευσης
+ff_14:εκπαίδευσης
+ff_0:εκπαίδευσης
+ff_13:NOUN_Case=Gen|Gender=Neut|Number=Sing
+ff_9:PRON_Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Dem
+ff_16:σημαντικά
+ff_0:ούτε
+ff_6:ούτε
+ff_10:ομάδα
+ff_14:πολιτική
+ff_16:πολιτική
+ff_8:πλαίσιο
+ff_14:πλαίσιο
+ff_3:πλαίσιο
+ff_0:πλαίσιο
+ff_13:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_8:ως
+ff_3:έχουμε
+ff_10:απειλή
+ff_18:τώρα
+ff_11:DET_Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_13:DET_Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_0:τώρα
+ff_6:τουλάχιστον
+ff_8:έχει
+ff_8:σημαντική
+ff_14:σημαντική
+ff_3:σημαντική
+ff_0:περαιτέρω
+ff_6:περαιτέρω
+ff_16:περαιτέρω
+ff_4:ADJ_Case=Acc|Gender=Fem|Number=Sing
+ff_0:!
+ff_9:NOUN_Case=Voc|Gender=Masc|Number=Plur
+ff_16:κύριε
+ff_20:συζήτηση
+ff_3:συζήτηση
+ff_10:δικαιώματα
+ff_12:δικαιώματα
+ff_0:συζήτηση
+ff_6:δικαιώματα
+ff_15:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Pass
+ff_8:αφορά
+ff_4:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Ind,Rel
+ff_11:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Ind,Rel
+ff_18:δικαιώματα
+ff_21:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Ind,Rel
+ff_1:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Ind,Rel
+ff_7:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Ind,Rel
+ff_14:δικαιώματα
+ff_17:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Ind,Rel
+ff_0:ανθρώπινα
+ff_14:ανθρώπινα
+ff_3:απόφαση
+ff_0:απόφαση
+ff_8:καθεστώς
+ff_3:καθεστώς
+ff_0:καθεστώς
+ff_8:χώρας
+ff_14:χώρας
+ff_3:χώρας
+ff_0:χώρας
+ff_6:αυτής
+ff_7:PRON_Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Dem
+ff_16:αυτής
+ff_17:PRON_Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Dem
+ff_0:προκειμένου
+ff_6:προκειμένου
+ff_3:διαδικασία
+ff_0:διαδικασία
+ff_20:ρόλο
+ff_16:ρόλο
+ff_4:ADJ_Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing
+ff_10:μεγαλύτερο
+ff_11:ADJ_Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing
+ff_12:μεγαλύτερο
+ff_13:ADJ_Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing
+ff_6:μεγαλύτερο
+ff_7:ADJ_Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing
+ff_8:μεγαλύτερο
+ff_9:ADJ_Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing
+ff_1:NUM_Case=Nom|Gender=Neut|Number=Plur|NumType=Ord
+ff_9:NUM_Case=Nom|Gender=Neut|Number=Plur|NumType=Ord
+ff_15:NUM_Case=Nom|Gender=Neut|Number=Plur|NumType=Ord
+ff_0:ήδη
+ff_21:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_0:είχαν
+ff_8:είχαν
+ff_14:είχαν
+ff_15:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_18:προσπάθειες
+ff_8:διαδικασίας
+ff_3:διαδικασίας
+ff_0:διαδικασίας
+ff_3:κριτήρια
+ff_0:κριτήρια
+ff_9:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+ff_15:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+ff_3:κυβέρνηση
+ff_0:κυβέρνηση
+ff_6:οικονομικών
+ff_8:οικονομικών
+ff_3:οικονομικών
+ff_10:των
+ff_11:DET_Case=Gen|Definite=Def|Gender=Fem|Number=Plur|PronType=Art
+ff_18:πολιτικών
+ff_19:ADJ_Case=Gen|Gender=Fem|Number=Plur
+ff_20:πολιτικών
+ff_21:ADJ_Case=Gen|Gender=Fem|Number=Plur
+ff_0:οικονομικών
+ff_3:πολιτικών
+ff_16:πολιτικών
+ff_9:VERB_Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+ff_16:μου
+ff_1:VERB_Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+ff_8:περαιτέρω
+ff_14:περαιτέρω
+ff_15:VERB_Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+ff_17:VERB_Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+ff_0:εν
+ff_4:NOUN_Case=Dat|Gender=Masc|Number=Sing
+ff_12:λόγω
+ff_13:NOUN_Case=Dat|Gender=Masc|Number=Sing
+ff_18:λόγω
+ff_19:NOUN_Case=Dat|Gender=Masc|Number=Sing
+ff_20:της
+ff_21:DET_Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_1:NOUN_Case=Dat|Gender=Masc|Number=Sing
+ff_6:εν
+ff_8:εν
+ff_9:NOUN_Case=Dat|Gender=Masc|Number=Sing
+ff_14:λόγω
+ff_15:NOUN_Case=Dat|Gender=Masc|Number=Sing
+ff_14:ζήτημα
+ff_8:πριν
+ff_14:πριν
+ff_3:πριν
+ff_9:PRON_Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem
+ff_14:αυτές
+ff_15:PRON_Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem
+ff_1:PRON_Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem
+ff_1:AUX_Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_8:ελευθερία
+ff_14:ελευθερία
+ff_3:ελευθερία
+ff_0:ελευθερία
+ff_10:μόνο
+ff_12:μόνο
+ff_0:νέου
+ff_8:νέου
+ff_14:νέου
+ff_1:ADJ_Case=Acc|Degree=Cmp|Gender=Fem|Number=Plur
+ff_7:ADJ_Case=Acc|Degree=Cmp|Gender=Fem|Number=Plur
+ff_9:ADJ_Case=Acc|Degree=Cmp|Gender=Fem|Number=Plur
+ff_4:ADJ_Case=Acc|Degree=Cmp|Gender=Fem|Number=Plur
+ff_11:ADJ_Case=Acc|Degree=Cmp|Gender=Fem|Number=Plur
+ff_13:ADJ_Case=Acc|Gender=Fem|Number=Plur
+ff_21:ADJ_Case=Acc|Degree=Cmp|Gender=Fem|Number=Plur
+ff_13:ADJ_Case=Acc|Degree=Cmp|Gender=Fem|Number=Plur
+ff_17:ADJ_Case=Acc|Degree=Cmp|Gender=Fem|Number=Plur
+ff_4:PRON_Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Dem
+ff_0:εκ
+ff_14:εκ
+ff_16:εκ
+ff_11:PRON_Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Dem
+ff_21:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_14:μέτρων
+ff_1:ADJ_Case=Gen|Degree=Cmp|Gender=Neut|Number=Plur
+ff_7:ADJ_Case=Gen|Degree=Cmp|Gender=Neut|Number=Plur
+ff_17:ADJ_Case=Gen|Degree=Cmp|Gender=Neut|Number=Plur
+ff_8:εκπαίδευση
+ff_10:με
+ff_18:τις
+ff_19:DET_Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art
+ff_20:τις
+ff_21:DET_Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art
+ff_14:εκεί
+ff_0:εκεί
+ff_14:κατάσταση
+ff_16:κατάσταση
+ff_16:δικαιωμάτων
+ff_11:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_7:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_11:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_13:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_7:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_8:σημαντικό
+ff_3:προσφέρει
+ff_8:γίνεται
+ff_4:PRON_Case=Gen|Gender=Neut|Number=Plur|Person=3|PronType=Rel
+ff_12:πλευρά
+ff_1:PRON_Case=Gen|Gender=Neut|Number=Plur|Person=3|PronType=Rel
+ff_0:γίνεται
+ff_8:πλευρά
+ff_3:γίνεται
+ff_6:οποίων
+ff_7:PRON_Case=Gen|Gender=Neut|Number=Plur|Person=3|PronType=Rel
+ff_9:PRON_Case=Gen|Gender=Neut|Number=Plur|Person=3|PronType=Rel
+ff_8:σχέση
+ff_14:σχέση
+ff_10:δηλαδή
+ff_12:δηλαδή
+ff_8:δηλαδή
+ff_0:νέα
+ff_8:νέα
+ff_14:νέα
+ff_20:μπορούν
+ff_8:εκεί
+ff_21:NOUN_Case=Gen|Gender=Neut|Number=Plur
+ff_14:άποψη
+ff_16:άποψη
+ff_0:δική
+ff_16:δική
+ff_8:αρχές
+ff_3:αρχές
+ff_0:αρχές
+ff_10:χρόνο
+ff_19:PROPN_Case=Nom|Gender=Fem|Number=Sing
+ff_16:δικαιώματα
+ff_8:ανθρώπινα
+ff_3:κοινοβούλιο
+ff_0:κοινοβούλιο
+ff_6:πολιτικών
+ff_1:VERB_Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass
+ff_10:οι
+ff_11:DET_Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art
+ff_13:VERB_Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass
+ff_19:VERB_Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass
+ff_20:οι
+ff_21:DET_Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art
+ff_4:VERB_Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass
+ff_9:VERB_Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass
+ff_15:VERB_Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass
+ff_18:λοιπόν
+ff_3:λοιπόν
+ff_0:κανείς
+ff_1:PRON_Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind
+ff_14:βρίσκεται
+ff_12:μέσω
+ff_13:NOUN_Case=Dat|Gender=Neut|Number=Sing
+ff_8:μέσω
+ff_9:NOUN_Case=Dat|Gender=Neut|Number=Sing
+ff_3:μέσω
+ff_4:NOUN_Case=Dat|Gender=Neut|Number=Sing
+ff_1:NOUN_Case=Dat|Gender=Neut|Number=Sing
+ff_16:εν
+ff_9:PRON_Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Rel
+ff_0:τελικά
+ff_10:πως
+ff_3:θεωρώ
+ff_16:μέτρων
+ff_10:εβδομάδες
+ff_12:εβδομάδες
+ff_6:εβδομάδες
+ff_8:εβδομάδες
+ff_3:εβδομάδες
+ff_0:εβδομάδες
+ff_14:μετά
+ff_15:DET_Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+ff_3:άλλων
+ff_4:PRON_Case=Gen|Gender=Neut|Number=Plur|Person=3|PronType=Ind
+ff_0:άλλων
+ff_1:PRON_Case=Gen|Gender=Neut|Number=Plur|Person=3|PronType=Ind
+ff_6:όπου
+ff_14:άλλων
+ff_15:PRON_Case=Gen|Gender=Neut|Number=Plur|Person=3|PronType=Ind
+ff_16:νέα
+ff_0:μεγάλο
+ff_14:μεγάλο
+ff_16:μεγάλο
+ff_15:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_3:νέου
+ff_6:εκ
+ff_8:εκ
+ff_17:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act
+ff_20:έχει
+ff_8:κριτήρια
+ff_10:μιας
+ff_11:DET_Case=Gen|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+ff_20:μιας
+ff_21:DET_Case=Gen|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+ff_16:μιας
+ff_17:DET_Case=Gen|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+ff_9:DET_Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art
+ff_9:PRON_Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_15:PRON_Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_1:ADJ_Case=Acc|Degree=Sup|Gender=Masc|Number=Plur
+ff_7:ADJ_Case=Acc|Degree=Sup|Gender=Masc|Number=Plur
+ff_17:ADJ_Case=Acc|Degree=Sup|Gender=Masc|Number=Plur
+ff_3:ως
+ff_19:PROPN_Case=Nom|Gender=Masc|Number=Plur
+ff_21:PROPN_Case=Nom|Gender=Masc|Number=Plur
+ff_10:υπηρεσιών
+ff_12:υπηρεσιών
+ff_6:υπηρεσιών
+ff_8:υπηρεσιών
+ff_0:υπηρεσιών
+ff_3:υπηρεσιών
+ff_7:ADJ_Case=Gen|Gender=Neut|Number=Sing
+ff_16:"
+ff_0:ανέφερε
+ff_10:χώρα
+ff_12:χώρα
+ff_1:PRON_Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_15:PRON_Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_16:ήδη
+ff_6:χώρα
+ff_8:άλλη
+ff_1:PRON_Case=Gen|Gender=Neut|Number=Plur|Person=3|PronType=Ind,Rel
+ff_7:PRON_Case=Gen|Gender=Neut|Number=Plur|Person=3|PronType=Ind,Rel
+ff_17:PRON_Case=Gen|Gender=Neut|Number=Plur|Person=3|PronType=Ind,Rel
+ff_20:"
+ff_6:άλλο
+ff_7:PRON_Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Ind
+ff_14:τουλάχιστον
+ff_18:λόγο
+ff_14:αγορά
+ff_16:ή
+ff_0:μόλις
+ff_14:μόλις
+ff_16:μόλις
+ff_11:ADJ_Case=Acc|Gender=Masc|Number=Plur
+ff_14:σημαντικό
+ff_14:)
+ff_16:(
+ff_6:εδώ
+ff_3:απασχόλησης
+ff_10:εργασίας
+ff_20:εργασίας
+ff_1:ADJ_Case=Gen|Degree=Cmp|Gender=Masc|Number=Plur
+ff_7:ADJ_Case=Gen|Degree=Cmp|Gender=Masc|Number=Plur
+ff_9:ADJ_Case=Gen|Degree=Cmp|Gender=Masc|Number=Plur
+ff_8:χώρες
+ff_8:κατά
+ff_21:NOUN_Case=Gen|Gender=Masc|Number=Sing
+ff_21:ADJ_Case=Nom|Gender=Fem|Number=Sing
+ff_9:DET_Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art
+ff_12:προσπάθειες
+ff_1:ADJ_Case=Nom|Degree=Cmp|Gender=Masc|Number=Plur
+ff_9:ADJ_Case=Nom|Degree=Cmp|Gender=Masc|Number=Plur
+ff_15:ADJ_Case=Nom|Degree=Cmp|Gender=Masc|Number=Plur
+ff_8:προσπάθειες
+ff_15:PROPN_Case=Nom|Gender=Masc|Number=Plur
+ff_17:PROPN_Case=Nom|Gender=Masc|Number=Plur
+ff_10::
+ff_12:κοντά
+ff_4:ADJ_Case=Gen|Gender=Masc|Number=Sing
+ff_1:PROPN_Case=Nom|Gender=Neut|Number=Plur
+ff_11:NOUN_Abbr=Yes
+ff_19:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_7:PROPN_Case=Nom|Gender=Neut|Number=Plur
+ff_9:PROPN_Case=Nom|Gender=Neut|Number=Plur
+ff_20:κοντά
+ff_7:NUM_Case=Gen|Gender=Masc|Number=Plur|NumType=Card
+ff_8:ήταν
+ff_14:ήταν
+ff_17:NUM_Case=Gen|Gender=Masc|Number=Plur|NumType=Card
+ff_3:ήταν
+ff_4:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Rel
+ff_18:οποίων
+ff_19:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Rel
+ff_20:και
+ff_21:CCONJ__
+ff_1:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Rel
+ff_14:οποίων
+ff_15:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Rel
+ff_7:NUM_Case=Nom|Gender=Masc|Number=Plur|NumType=Card
+ff_8:τρεις
+ff_8:κάνει
+ff_15:ADJ_Case=Acc|Degree=Cmp|Gender=Fem|Number=Plur
+ff_3:κάνει
+ff_0:κάνει
+ff_14:είχε
+ff_11:PROPN_Case=Gen|Gender=Masc|Number=Plur
+ff_13:PROPN_Case=Gen|Gender=Masc|Number=Plur
+ff_7:PROPN_Case=Gen|Gender=Masc|Number=Plur
+ff_20:έκθεση
+ff_15:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_16:ολομέλεια
+ff_3:ολομέλεια
+ff_4:NOUN_Case=Dat|Gender=Fem|Number=Sing
+ff_1:NOUN_Case=Dat|Gender=Fem|Number=Sing
+ff_0:ολομέλεια
+ff_15:NOUN_Case=Dat|Gender=Fem|Number=Sing
+ff_14:θέμα
+ff_15:ADJ_Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing
+ff_16:βοήθεια
+ff_3:βοήθεια
+ff_0:βοήθεια
+ff_19:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_12:μπορεί
+ff_15:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind
+ff_13:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act
+ff_7:PROPN_Case=Nom|Gender=Fem|Number=Sing
+ff_8:πρόβλημα
+ff_14:πρόβλημα
+ff_14:κυρίως
+ff_14:στον
+ff_14:ώστε
+ff_8:υγείας
+ff_14:υγείας
+ff_3:υγείας
+ff_0:υγείας
+ff_0:όμως
+ff_10:ή
+ff_18:κάποια
+ff_19:PRON_Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Ind
+ff_20:κάποια
+ff_21:PRON_Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Ind
+ff_1:PRON_Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+ff_17:PRON_Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+ff_6:μόλις
+ff_19:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_3:εδώ
+ff_0:δημόσιες
+ff_6:δημόσιες
+ff_16:δημόσιες
+ff_1:VERB_Aspect=Perf|Case=Acc|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass
+ff_15:VERB_Aspect=Perf|Case=Acc|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass
+ff_17:VERB_Aspect=Perf|Case=Acc|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass
+ff_21:PROPN_Case=Acc|Gender=Neut|Number=Sing
+ff_19:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Act
+ff_18:την
+ff_19:DET_Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_21:NOUN_Case=Gen|Gender=Masc|Number=Plur
+ff_18:βοήθεια
+ff_20:τώρα
+ff_16:τώρα
+ff_3:τι
+ff_4:PRON_Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Int
+ff_10:για
+ff_12:γίνει
+ff_18:γίνει
+ff_19:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass
+ff_20:για
+ff_0:τι
+ff_3:γίνει
+ff_8:γίνει
+ff_14:γίνει
+ff_0:γίνει
+ff_6:τι
+ff_16:τι
+ff_17:PRON_Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Int
+ff_17:PROPN_Case=Acc|Gender=Neut|Number=Sing
+ff_16:μέχρι
+ff_16:εκεί
+ff_20:πλαίσιο
+ff_4:NUM_Case=Acc|Gender=Fem|Number=Plur|NumType=Sets
+ff_11:NUM_Case=Acc|Gender=Fem|Number=Plur|NumType=Sets
+ff_13:NUM_Case=Acc|Gender=Fem|Number=Plur|NumType=Sets
+ff_1:NUM_Case=Acc|Gender=Fem|Number=Plur|NumType=Sets
+ff_7:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Ind
+ff_9:NUM_Case=Acc|Gender=Masc|Number=Plur|NumType=Card
+ff_7:NUM_Case=Acc|Gender=Fem|Number=Plur|NumType=Sets
+ff_9:NUM_Case=Acc|Gender=Fem|Number=Plur|NumType=Sets
+ff_20:οποίων
+ff_21:PRON_Case=Gen|Gender=Fem|Number=Plur|Person=3|PronType=Rel
+ff_16:οποίων
+ff_17:PRON_Case=Gen|Gender=Fem|Number=Plur|Person=3|PronType=Rel
+ff_6:άλλων
+ff_7:PRON_Case=Gen|Gender=Neut|Number=Plur|Person=3|PronType=Ind
+ff_16:άλλων
+ff_17:PRON_Case=Gen|Gender=Neut|Number=Plur|Person=3|PronType=Ind
+ff_3:υπηρεσίες
+ff_0:υπηρεσίες
+ff_18:υπηρεσίες
+ff_11:ADJ_Case=Nom|Gender=Fem|Number=Sing
+ff_13:ADJ_Case=Nom|Gender=Fem|Number=Sing
+ff_9:VERB_Aspect=Perf|Case=Acc|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass
+ff_14:-
+ff_16:-
+ff_18:είναι
+ff_19:AUX_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_18:και
+ff_7:NUM_Case=Gen|Gender=Fem|Number=Sing|NumType=Ord
+ff_9:NUM_Case=Gen|Gender=Fem|Number=Sing|NumType=Ord
+ff_14:δηλαδή
+ff_14:όλο
+ff_12:πριν
+ff_0:αυτήν
+ff_14:αυτήν
+ff_16:αυτήν
+ff_16:»
+ff_16:υπέρ
+ff_10:«
+ff_21:NOUN_Abbr=Yes
+ff_16:«
+ff_10:τους
+ff_11:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_12:τους
+ff_13:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_7:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_7:ADJ_Case=Gen|Gender=Masc|Number=Plur
+ff_11:ADJ_Case=Gen|Gender=Fem|Number=Plur
+ff_4:NUM_Case=Gen|Gender=Neut|Number=Plur|NumType=Card
+ff_11:ADJ_Case=Gen|Gender=Masc|Number=Plur
+ff_13:ADJ_Case=Gen|Gender=Masc|Number=Plur
+ff_10:έκθεση
+ff_13:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_8:ευρώ
+ff_15:VERB_Aspect=Imp|VerbForm=Conv|Voice=Act
+ff_3:ευρώ
+ff_0:ευρώ
+ff_14:υπηρεσιών
+ff_19:ADJ_Case=Nom|Gender=Masc|Number=Sing
+ff_21:ADJ_Case=Nom|Gender=Masc|Number=Sing
+ff_7:PROPN_Case=Nom|Gender=Masc|Number=Sing
+ff_6:υπό
+ff_8:δυνάμεις
+ff_14:δυνάμεις
+ff_16:υπό
+ff_9:DET_Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
+ff_21:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_1:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs
+ff_8:ομάδες
+ff_15:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs
+ff_1:NUM_Case=Nom|Gender=Fem|Number=Sing|NumType=Ord
+ff_15:NUM_Case=Nom|Gender=Fem|Number=Sing|NumType=Ord
+ff_17:NUM_Case=Nom|Gender=Fem|Number=Sing|NumType=Ord
+ff_7:PROPN_Case=Nom|Gender=Masc|Number=Plur
+ff_1:NUM_Case=Nom|Gender=Fem|Number=Plur|NumType=Sets
+ff_7:NUM_Case=Nom|Gender=Fem|Number=Plur|NumType=Sets
+ff_9:NUM_Case=Nom|Gender=Fem|Number=Plur|NumType=Sets
+ff_17:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs
+ff_12:ασφάλειας
+ff_8:προβλήματα
+ff_14:προβλήματα
+ff_3:αριθμός
+ff_0:αριθμός
+ff_4:ADJ_Case=Acc|Gender=Masc|Number=Sing
+ff_10:στο
+ff_11:ADP_Case=Acc|Gender=Neut|Number=Sing
+ff_19:ADJ_Case=Acc|Gender=Masc|Number=Sing
+ff_21:ADJ_Case=Acc|Gender=Masc|Number=Sing
+ff_8:άτομα
+ff_3:εκατομμύρια
+ff_12:εκατομμύρια
+ff_18:εκατομμύρια
+ff_20:από
+ff_0:εκατομμύρια
+ff_8:εκατομμύρια
+ff_14:εκατομμύρια
+ff_3:είναι
+ff_4:ADJ_Case=Nom|Degree=Cmp|Gender=Masc|Number=Plur
+ff_21:ADJ_Case=Nom|Degree=Cmp|Gender=Masc|Number=Plur
+ff_17:ADJ_Case=Nom|Degree=Cmp|Gender=Masc|Number=Plur
+ff_3:εργασίας
+ff_6:εκατομμύρια
+ff_6:αυτούς
+ff_7:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Dem
+ff_8:αυτούς
+ff_11:ADJ_Case=Nom|Gender=Masc|Number=Plur
+ff_12:σχέση
+ff_18:αφορά
+ff_16:αύξηση
+ff_16:αφορά
+ff_14:όσον
+ff_8:βοήθεια
+ff_14:βοήθεια
+ff_12:άτομα
+ff_18:άτομα
+ff_4:PROPN_Case=Acc|Gender=Neut|Number=Plur
+ff_20:σχέση
+ff_1:PROPN_Case=Acc|Gender=Neut|Number=Plur
+ff_14:άτομα
+ff_9:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_4:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_1:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_4:VERB_Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act
+ff_1:PRON_Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs
+ff_1:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs
+ff_15:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs
+ff_4:PRON_Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs
+ff_1:PRON_Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs
+ff_1:ADJ_Case=Voc|Gender=Masc|Number=Sing
+ff_7:ADJ_Case=Voc|Gender=Masc|Number=Sing
+ff_1:ADJ_Case=Voc|Gender=Masc|Number=Plur
+ff_9:ADJ_Case=Voc|Gender=Masc|Number=Plur
+ff_15:ADJ_Case=Voc|Gender=Masc|Number=Plur
+ff_3:εισηγητή
+ff_0:εισηγητή
+ff_3:επίσης
+ff_4:PRON_Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Dem
+ff_16:τόσο
+ff_3:είχαν
+ff_6:επειδή
+ff_16:επειδή
+ff_12:έκθεση
+ff_6:έναν
+ff_7:DET_Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
+ff_6:έκθεση
+ff_8:εδώ
+ff_14:εδώ
+ff_13:ADJ_Case=Acc|Gender=Masc|Number=Sing
+ff_3:προτάσεις
+ff_0:προτάσεις
+ff_16:οδηγίας
+ff_0:οδηγίας
+ff_1:NUM_Case=Acc|Gender=Masc|Number=Sing|NumType=Card
+ff_9:NUM_Case=Acc|Gender=Masc|Number=Sing|NumType=Card
+ff_15:NUM_Case=Acc|Gender=Masc|Number=Sing|NumType=Card
+ff_6:χρόνο
+ff_20:θέμα
+ff_8:έναν
+ff_13:ADJ_Case=Acc|Gender=Fem|Number=Sing
+ff_20:την
+ff_21:DET_Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_13:NOUN_Case=Nom|Gender=Masc|Number=Sing
+ff_18:μετά
+ff_8:ελπίζω
+ff_1:PRON_Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Rel
+ff_15:PRON_Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Rel
+ff_17:PRON_Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Rel
+ff_11:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_13:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_7:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_9:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_12:πρέπει
+ff_19:PRON_Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Rel
+ff_20:επιτροπή
+ff_1:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_16:επιτροπή
+ff_3:επιτροπή
+ff_0:επιτροπή
+ff_7:PRON_Case=Gen|Gender=Fem|Number=Plur|Person=3|PronType=Rel
+ff_8:προτάσεις
+ff_3:αποτελούν
+ff_3:τώρα
+ff_12:τώρα
+ff_20:των
+ff_21:DET_Case=Gen|Definite=Def|Gender=Fem|Number=Plur|PronType=Art
+ff_8:τώρα
+ff_14:τώρα
+ff_10:ένα
+ff_11:DET_Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art
+ff_13:ADJ_Case=Acc|Gender=Neut|Number=Sing
+ff_19:ADJ_Case=Acc|Gender=Neut|Number=Sing
+ff_20:ένα
+ff_21:DET_Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art
+ff_6:θέματα
+ff_8:θέματα
+ff_3:θέματα
+ff_0:θέματα
+ff_14:ορισμένα
+ff_18:έχουν
+ff_20:ήδη
+ff_0:σημείο
+ff_6:δεν
+ff_10:σημείο
+ff_8:βάση
+ff_14:βάση
+ff_3:πρόταση
+ff_0:πρόταση
+ff_10:πρόταση
+ff_8:αποτελούν
+ff_0:αποτελούν
+ff_3:βάρος
+ff_0:βάρος
+ff_0:ιδίως
+ff_14:ιδίως
+ff_8:υγεία
+ff_14:υγεία
+ff_3:υγεία
+ff_0:υγεία
+ff_18:δηλώσεις
+ff_0:ίδια
+ff_14:ίδια
+ff_16:ίδια
+ff_15:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Pass
+ff_19:NOUN_Case=Gen|Gender=Neut|Number=Sing
+ff_6:ειδικά
+ff_16:ειδικά
+ff_18:αυτό
+ff_19:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Dem
+ff_0:πολλά
+ff_7:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_12:δηλώσεις
+ff_19:PRON_Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Ind,Rel
+ff_3:πολλά
+ff_15:PRON_Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Ind,Rel
+ff_8:κάνουμε
+ff_0:εξαιτίας
+ff_6:εξαιτίας
+ff_6:αρχές
+ff_14:μέλλον
+ff_16:μέλλον
+ff_10:βρίσκεται
+ff_11:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_20:βρίσκεται
+ff_8:αρχή
+ff_8:απόφαση
+ff_16:υπόψη
+ff_0:υπόψη
+ff_8:εφαρμογή
+ff_14:εφαρμογή
+ff_3:εφαρμογή
+ff_0:εφαρμογή
+ff_10:βάρος
+ff_12:βάρος
+ff_6:βάρος
+ff_8:βάρος
+ff_8:αυτόν
+ff_16:παράδειγμα
+ff_8:τομείς
+ff_8:πολιτικής
+ff_3:πολιτικής
+ff_0:πολιτικής
+ff_10:σε
+ff_18:ένα
+ff_19:DET_Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art
+ff_21:ADJ_Case=Acc|Gender=Neut|Number=Sing
+ff_16:έναν
+ff_6:περιβάλλον
+ff_8:περιβάλλον
+ff_3:περιβάλλον
+ff_0:περιβάλλον
+ff_8:πολίτες
+ff_14:πολίτες
+ff_16:πιο
+ff_15:PRON_Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem
+ff_3:δική
+ff_10:όπου
+ff_17:DET_Case=Gen|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art
+ff_9:PRON_Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Dem
+ff_18:κανόνες
+ff_20:κανόνες
+ff_8:κυρίως
+ff_7:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act
+ff_3:κυρίως
+ff_14:σημεία
+ff_16:σημεία
+ff_20:στο
+ff_21:ADP_Case=Acc|Gender=Neut|Number=Sing
+ff_9:PRON_Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Ind
+ff_17:VERB_Aspect=Perf|VerbForm=Inf|Voice=Act
+ff_8:επιτροπή
+ff_10:κριτήρια
+ff_12:κριτήρια
+ff_6:κριτήρια
+ff_10:τροπολογίες
+ff_16:βάση
+ff_8:σημεία
+ff_14:τελικά
+ff_18:πρόγραμμα
+ff_20:πρόγραμμα
+ff_18:πρόεδρος
+ff_20:πρόεδρος
+ff_3:πρόεδρος
+ff_0:πρόεδρος
+ff_12:γεγονός
+ff_8:γεγονός
+ff_14:πρόγραμμα
+ff_0:νέο
+ff_10:στα
+ff_11:ADP_Case=Acc|Gender=Neut|Number=Plur
+ff_20:στα
+ff_21:ADP_Case=Acc|Gender=Neut|Number=Plur
+ff_10:πρόγραμμα
+ff_3:ανθρώπους
+ff_10:πρόεδρος
+ff_18:αποτελεί
+ff_1:PRON_Case=Gen|Gender=Fem|Number=Plur|Person=3|PronType=Ind
+ff_8:άλλων
+ff_9:PRON_Case=Gen|Gender=Fem|Number=Plur|Person=3|PronType=Ind
+ff_16:πρόγραμμα
+ff_16:μεγάλη
+ff_8:δυνατότητα
+ff_3:δυνατότητα
+ff_0:δυνατότητα
+ff_12:τομέα
+ff_16:χώρα
+ff_3:θέσεις
+ff_0:θέσεις
+ff_14:βάρος
+ff_0:νέων
+ff_14:νέων
+ff_16:νέων
+ff_18:αποτελούν
+ff_20:αποτελούν
+ff_0:εναντίον
+ff_10:οποίων
+ff_11:PRON_Case=Gen|Gender=Neut|Number=Plur|Person=3|PronType=Rel
+ff_6:εναντίον
+ff_16:εναντίον
+ff_14:σημαντικά
+ff_10:δηλώσεις
+ff_18:βάρος
+ff_20:βάρος
+ff_16:βάρος
+ff_16:νέου
+ff_14:κυβέρνηση
+ff_16:κυβέρνηση
+ff_8:νέο
+ff_14:νέο
+ff_14:πως
+ff_13:PROPN_Case=Nom|Gender=Masc|Number=Sing
+ff_17:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_3:ίδια
+ff_10:ίδια
+ff_19:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_8:χρόνια
+ff_1:ADJ_Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing
+ff_17:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Pass
+ff_4:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Pass
+ff_1:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Pass
+ff_13:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_18:αν
+ff_20:καθώς
+ff_8:τελευταία
+ff_14:τελευταία
+ff_14:αν
+ff_6:επίσης
+ff_1:NUM_Case=Nom|Gender=Masc|Number=Sing|NumType=Ord
+ff_10:χρόνια
+ff_12:χρόνια
+ff_6:χρόνια
+ff_15:NOUN_Case=Voc|Gender=Fem|Number=Sing
+ff_9:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Rel
+ff_3:πιο
+ff_20:άποψη
+ff_3:όλο
+ff_8:όλο
+ff_12:μέλη
+ff_0:·
+ff_0:πρώην
+ff_6:πρώην
+ff_14:κυβέρνησης
+ff_16:κυβέρνησης
+ff_7:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Rel
+ff_9:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Rel
+ff_18:δύο
+ff_19:NUM_Case=Nom|Gender=Masc|Number=Plur|NumType=Card
+ff_21:VERB_Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+ff_17:VERB_Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+ff_10:πολιτών
+ff_12:πολιτών
+ff_6:πολιτών
+ff_10:κατάσταση
+ff_10:πιο
+ff_12:πιο
+ff_0:μη
+ff_19:ADJ_Case=Nom|Gender=Fem|Number=Plur
+ff_21:ADJ_Case=Nom|Gender=Fem|Number=Plur
+ff_6:μη
+ff_8:μη
+ff_12:·
+ff_10:ακόμη
+ff_20:το
+ff_21:DET_Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art
+ff_16:χωρίς
+ff_8:ιδίως
+ff_3:ιδίως
+ff_20:αυτό
+ff_21:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Dem
+ff_16:σχέσεις
+ff_6:πρέπει
+ff_6:θα
+ff_8:διεθνή
+ff_14:διεθνή
+ff_14:πολιτών
+ff_4:VERB_Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+ff_1:VERB_Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+ff_8:πόλεμο
+ff_14:πόλεμο
+ff_3:πόλεμο
+ff_11:VERB_Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+ff_13:VERB_Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+ff_0:πόλεμο
+ff_7:VERB_Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+ff_9:VERB_Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+ff_8:κράτη
+ff_14:κράτη
+ff_8:διαδικασία
+ff_16:διαδικασίες
+ff_8:ήδη
+ff_16:έχουν
+ff_16:πολίτες
+ff_14:διαδικασία
+ff_0:ιδιαίτερα
+ff_14:ιδιαίτερα
+ff_14:πρέπει
+ff_10:μας
+ff_11:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs
+ff_12:μας
+ff_13:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs
+ff_6:μας
+ff_7:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs
+ff_3:κανείς
+ff_4:PRON_Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind
+ff_14:κανείς
+ff_15:PRON_Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind
+ff_16:κανείς
+ff_17:PRON_Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind
+ff_20:σύμφωνα
+ff_12:είναι
+ff_10:ακόμα
+ff_12:ακόμα
+ff_8:αυτού
+ff_14:αυτού
+ff_15:PRON_Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Dem
+ff_9:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem
+ff_4:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem
+ff_11:ADJ_Case=Nom|Degree=Cmp|Gender=Neut|Number=Plur
+ff_13:ADJ_Case=Nom|Degree=Cmp|Gender=Neut|Number=Plur
+ff_7:ADJ_Case=Nom|Degree=Cmp|Gender=Neut|Number=Plur
+ff_9:ADJ_Case=Nom|Degree=Cmp|Gender=Neut|Number=Plur
+ff_3:υπηρεσία
+ff_0:υπηρεσία
+ff_19:PRON_Case=Gen|Gender=Neut|Number=Plur|Person=3|PronType=Rel
+ff_15:PRON_Case=Gen|Gender=Neut|Number=Plur|Person=3|PronType=Rel
+ff_15:ADJ_Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing
+ff_19:ADJ_Case=Acc|Gender=Masc|Number=Plur
+ff_21:ADJ_Case=Acc|Gender=Masc|Number=Plur
+ff_15:NUM_Case=Acc|Gender=Fem|Number=Plur|NumType=Sets
+ff_17:NUM_Case=Acc|Gender=Fem|Number=Plur|NumType=Sets
+ff_16:πόλης
+ff_4:PRON_Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Dem
+ff_3:που
+ff_14:»
+ff_14:περισσότερα
+ff_15:ADJ_Case=Nom|Degree=Cmp|Gender=Neut|Number=Plur
+ff_16:περισσότερα
+ff_17:ADJ_Case=Nom|Degree=Cmp|Gender=Neut|Number=Plur
+ff_1:AUX_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_15:AUX_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_8:τουλάχιστον
+ff_15:ADJ_Case=Gen|Degree=Cmp|Gender=Neut|Number=Plur
+ff_1:AUX_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_1:ADJ_Case=Gen|Degree=Sup|Gender=Fem|Number=Sing
+ff_9:ADJ_Case=Gen|Degree=Sup|Gender=Fem|Number=Sing
+ff_15:AUX_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_17:AUX_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_1:AUX_Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_6:συνάδελφοι
+ff_8:επιτροπής
+ff_14:επιτροπής
+ff_3:επιτροπής
+ff_18:ότι
+ff_0:επιτροπής
+ff_12:έκθεσης
+ff_18:το
+ff_19:DET_Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art
+ff_8:έκθεσης
+ff_3:έκθεσης
+ff_0:έκθεσης
+ff_3:έπρεπε
+ff_14:προκειμένου
+ff_0:έπρεπε
+ff_14:θέματα
+ff_4:PRON_Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Rel
+ff_11:PRON_Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Rel
+ff_8:στα
+ff_9:ADP_Case=Acc|Gender=Neut|Number=Plur
+ff_4:NUM_Case=Acc|Gender=Neut|Number=Plur|NumType=Card
+ff_14:στους
+ff_15:ADP_Case=Acc|Gender=Masc|Number=Plur
+ff_16:υγεία
+ff_6:πλέον
+ff_8:πλέον
+ff_16:μεταφορών
+ff_1:NUM_Case=Nom|Gender=Neut|Number=Sing|NumType=Ord
+ff_9:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_15:NUM_Case=Nom|Gender=Neut|Number=Sing|NumType=Ord
+ff_17:NUM_Case=Nom|Gender=Neut|Number=Sing|NumType=Ord
+ff_4:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_10:θέμα
+ff_1:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_3:είχε
+ff_16:πολιτικής
+ff_10:αυτές
+ff_11:PRON_Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Dem
+ff_9:PRON_Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind
+ff_3:άλλες
+ff_4:PRON_Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind
+ff_19:ADJ_Case=Acc|Gender=Neut|Number=Plur
+ff_16:υγείας
+ff_13:ADV_Degree=Cmp
+ff_6:σχετικά
+ff_7:ADV_Degree=Cmp
+ff_20:αύξηση
+ff_7:ADJ_Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing
+ff_9:ADJ_Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing
+ff_11:ADJ_Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing
+ff_13:ADJ_Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing
+ff_0:απ'
+ff_3:ότι
+ff_6:απ'
+ff_8:απ'
+ff_1:NUM_Case=Nom|Gender=Neut|Number=Sing|NumType=Card
+ff_4:NUM_Case=Nom|Gender=Neut|Number=Sing|NumType=Card
+ff_10:μπορούν
+ff_12:μπορούν
+ff_14:εβδομάδες
+ff_10:πριν
+ff_6:μπορούν
+ff_9:PRON_Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Rel
+ff_10:σύμφωνα
+ff_6:σύμφωνα
+ff_13:PRON_Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Rel
+ff_14:ήδη
+ff_19:NOUN_Case=Dat|Gender=Neut|Number=Sing
+ff_20:κυβέρνηση
+ff_15:NOUN_Case=Dat|Gender=Neut|Number=Sing
+ff_15:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_6:τομείς
+ff_8:αυτών
+ff_9:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Dem
+ff_15:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Dem
+ff_1:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Dem
+ff_8::
+ff_14:προς
+ff_21:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_10:έκθεσης
+ff_9:ADJ_Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing
+ff_15:ADJ_Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing
+ff_1:ADJ_Case=Gen|Degree=Cmp|Gender=Fem|Number=Sing
+ff_15:ADJ_Case=Gen|Degree=Cmp|Gender=Fem|Number=Sing
+ff_16:περιβάλλον
+ff_17:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Pass
+ff_14:όλες
+ff_14:προτάσεις
+ff_8:πρόταση
+ff_14:στιγμή
+ff_16:στιγμή
+ff_8:αυτή
+ff_9:PRON_Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem
+ff_7:PRON_Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem
+ff_17:PRON_Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem
+ff_16:ακόμη
+ff_1:ADJ_Case=Acc|Degree=Sup|Gender=Fem|Number=Plur
+ff_7:ADJ_Case=Acc|Degree=Sup|Gender=Fem|Number=Plur
+ff_9:ADJ_Case=Acc|Degree=Sup|Gender=Fem|Number=Plur
+ff_4:PRON_Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Ind
+ff_16:εφαρμογή
+ff_0:είμαστε
+ff_14:είμαστε
+ff_15:AUX_Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_16:άλλο
+ff_16:έκθεσης
+ff_16:διαδικασία
+ff_11:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_13:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_7:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_16:προτάσεις
+ff_3:όσο
+ff_10:όσο
+ff_12:όσο
+ff_19:PRON_Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Rel
+ff_21:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_15:PRON_Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Rel
+ff_17:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_9:PRON_Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+ff_8:περισσότερο
+ff_17:PRON_Case=Gen|Gender=Neut|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_8:ζωή
+ff_15:PRON_Case=Gen|Gender=Neut|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_14:τρεις
+ff_15:PRON_Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs
+ff_17:PRON_Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs
+ff_3:όσον
+ff_18:όσον
+ff_20:όσον
+ff_6:ιδιαίτερα
+ff_8:ιδιαίτερα
+ff_8:αριθμός
+ff_0:κοινή
+ff_16:κοινή
+ff_9:PRON_Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Rel
+ff_3:ίδιο
+ff_18:ίδιο
+ff_20:ίδιο
+ff_14:ίδιο
+ff_16:ίδιο
+ff_3:οδηγία
+ff_0:οδηγία
+ff_14:γιατί
+ff_16:γιατί
+ff_15:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs
+ff_10:οδηγών
+ff_12:οδηγών
+ff_6:οδηγών
+ff_8:οδηγών
+ff_3:οδηγών
+ff_10:συνθήκες
+ff_0:οδηγών
+ff_14:καθεστώς
+ff_14:οδηγών
+ff_3:σημαντικό
+ff_6:πολλά
+ff_16:πολλά
+ff_16:εκπαίδευση
+ff_3:εκπαίδευσης
+ff_17:PRON_Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Dem
+ff_18:πλαίσιο
+ff_12:τροπολογίες
+ff_6:τροπολογίες
+ff_14:επιτροπή
+ff_8:εισηγητή
+ff_14:θέση
+ff_16:προσφέρει
+ff_0:προσφέρει
+ff_0:συνεπώς
+ff_14:συνεπώς
+ff_16:συνεπώς
+ff_9:PRON_Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Dem
+ff_14:εισηγητή
+ff_8:αξιολόγηση
+ff_14:αξιολόγηση
+ff_3:αξιολόγηση
+ff_0:αξιολόγηση
+ff_8:οδηγίας
+ff_14:οδηγίας
+ff_3:οδηγίας
+ff_6:όλους
+ff_7:ADJ_Case=Acc|Gender=Masc|Number=Plur
+ff_15:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs
+ff_16:διότι
+ff_11:NUM_Case=Acc|Gender=Fem|Number=Plur|NumType=Card
+ff_21:NUM_Case=Acc|Gender=Fem|Number=Plur|NumType=Card
+ff_13:VERB_Aspect=Imp|VerbForm=Conv|Voice=Act
+ff_18:εδώ
+ff_20:εδώ
+ff_6:κάτι
+ff_8:κάτι
+ff_6:αποτελεί
+ff_8:αποτελεί
+ff_10:αποτελεί
+ff_12:αποτελεί
+ff_14:πλέον
+ff_0:έχουμε
+ff_14:έχουμε
+ff_18:μια
+ff_19:DET_Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+ff_21:ADJ_Case=Acc|Gender=Fem|Number=Sing
+ff_6:κύριε
+ff_8:κύριε
+ff_16:σας
+ff_17:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=2|Poss=Yes|PronType=Prs
+ff_17:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs
+ff_4:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs
+ff_1:ADJ_Case=Dat|Gender=Fem|Number=Sing
+ff_9:ADJ_Case=Dat|Gender=Fem|Number=Sing
+ff_14:εν
+ff_15:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=2|Poss=Yes|PronType=Prs
+ff_3:όμως
+ff_9:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act
+ff_15:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs
+ff_20:ασφάλειας
+ff_16:ασφάλειας
+ff_6:όταν
+ff_16:όταν
+ff_14:πολιτικής
+ff_10:προτάσεις
+ff_12:προτάσεις
+ff_6:προτάσεις
+ff_15:PRON_Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Dem
+ff_17:PRON_Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Dem
+ff_9:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs
+ff_14:ευρώ
+ff_10:επιτυχία
+ff_18:πριν
+ff_16:όλα
+ff_15:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+ff_14:διότι
+ff_9:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+ff_16:ευρώ
+ff_9:PRON_Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Rel
+ff_15:DET_Case=Gen|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+ff_4:PRON_Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Rel
+ff_10:κυβέρνηση
+ff_19:PROPN_Case=Gen|Gender=Masc|Number=Sing
+ff_21:NOUN_Case=Dat|Gender=Neut|Number=Sing
+ff_6:κυβέρνηση
+ff_17:NOUN_Case=Dat|Gender=Neut|Number=Sing
+ff_7:PRON_Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_18:ευρώ
+ff_18:η
+ff_19:DET_Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_20:η
+ff_21:DET_Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_17:PRON_Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs
+ff_1:NUM_Case=Gen|Gender=Fem|Number=Plur|NumType=Sets
+ff_8:.
+ff_9:NUM_Case=Nom|Gender=Neut|Number=Sing|NumType=Ord
+ff_15:ADJ_Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing
+ff_17:ADJ_Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing
+ff_9:ADJ_Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing
+ff_10:υπηρεσίες
+ff_12:υπηρεσίες
+ff_6:υπηρεσίες
+ff_8:υπηρεσίες
+ff_14:υπηρεσίες
+ff_8:κανόνες
+ff_14:κάνει
+ff_7:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Int
+ff_4:PROPN_Case=Gen|Gender=Neut|Number=Plur
+ff_10:αφορά
+ff_19:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs
+ff_20:πρέπει
+ff_9:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=2|VerbForm=Fin|Voice=Act
+ff_15:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=2|VerbForm=Fin|Voice=Act
+ff_17:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=2|VerbForm=Fin|Voice=Act
+ff_16:διεθνή
+ff_6:νέα
+ff_9:VERB_Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+ff_1:VERB_Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+ff_4:VERB_Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+ff_21:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_1:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Ind,Rel
+ff_15:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Ind,Rel
+ff_9:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs
+ff_8:θέμα
+ff_8:πολλά
+ff_14:πολλά
+ff_3:αυτή
+ff_4:PRON_Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Dem
+ff_3:ευρωπαϊκή
+ff_0:ευρωπαϊκή
+ff_6:ευρωπαϊκή
+ff_8:ευρωπαϊκή
+ff_4:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_16:είμαστε
+ff_17:AUX_Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_1:AUX_Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_10:το
+ff_11:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+ff_12:το
+ff_13:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+ff_17:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Int
+ff_7:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+ff_3:το
+ff_4:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+ff_17:ADJ_Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing
+ff_15:ADJ_Case=Dat|Gender=Fem|Number=Sing
+ff_14:μιας
+ff_16:διαδικασίας
+ff_14:υπέρ
+ff_7:NOUN_Case=Voc|Gender=Masc|Number=Plur
+ff_8:είμαστε
+ff_3:είμαστε
+ff_4:ADJ_Case=Gen|Gender=Neut|Number=Plur
+ff_4:PRON_Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Int
+ff_7:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs
+ff_11:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs
+ff_13:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs
+ff_1:VERB_Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act
+ff_7:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_9:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_3:εκτός
+ff_6:αυτές
+ff_7:PRON_Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Dem
+ff_16:αυτές
+ff_15:PRON_Case=Gen|Gender=Fem|Number=Plur|Person=3|PronType=Rel
+ff_18:σχέσεις
+ff_14:σχέσεις
+ff_13:PROPN_Case=Nom|Gender=Neut|Number=Sing
+ff_7:PROPN_Case=Nom|Gender=Neut|Number=Sing
+ff_9:PROPN_Case=Nom|Gender=Neut|Number=Sing
+ff_13:PROPN_Case=Nom|Gender=Fem|Number=Sing
+ff_19:PRON_Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Rel
+ff_20:οποία
+ff_21:PRON_Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Rel
+ff_15:PRON_Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Rel
+ff_16:οποία
+ff_14:μην
+ff_10:πλευρά
+ff_10:σχετικά
+ff_12:σχετικά
+ff_8:σχέδιο
+ff_14:σχέδιο
+ff_9:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act
+ff_4:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act
+ff_1:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act
+ff_20:σχετικά
+ff_6:διαδικασία
+ff_14:περισσότερο
+ff_9:NUM_Case=Acc|Gender=Neut|Number=Plur|NumType=Ord
+ff_4:NUM_Case=Acc|Gender=Neut|Number=Plur|NumType=Ord
+ff_1:NUM_Case=Acc|Gender=Neut|Number=Plur|NumType=Ord
+ff_10:αυτά
+ff_11:PRON_Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Dem
+ff_14:συμφωνία
+ff_9:PRON_Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Dem
+ff_7:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Pass
+ff_16:θέσεις
+ff_4:PRON_Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Dem
+ff_0:ένας
+ff_1:DET_Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
+ff_1:PRON_Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem
+ff_6:ένας
+ff_7:DET_Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
+ff_15:PRON_Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem
+ff_17:PRON_Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem
+ff_16:πλαίσιο
+ff_6:μαζί
+ff_14:διαδικασίας
+ff_8:τέλος
+ff_15:PRON_Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+ff_3:τέλος
+ff_8:έχουμε
+ff_17:PRON_Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel
+ff_10:οδηγία
+ff_12:οδηγία
+ff_6:κοινή
+ff_6:οδηγία
+ff_8:οδηγία
+ff_11:PROPN_Case=Acc|Gender=Masc|Number=Sing
+ff_13:PROPN_Case=Acc|Gender=Masc|Number=Sing
+ff_7:PROPN_Case=Acc|Gender=Masc|Number=Sing
+ff_16:θέση
+ff_8:κοινή
+ff_14:κοινή
+ff_19:ADJ_Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing
+ff_21:ADJ_Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing
+ff_15:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Ind,Rel
+ff_8:έπρεπε
+ff_15:VERB_Aspect=Perf|Case=Acc|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass
+ff_1:ADJ_Case=Gen|Degree=Sup|Gender=Masc|Number=Plur
+ff_9:ADJ_Case=Gen|Degree=Sup|Gender=Masc|Number=Plur
+ff_8:προγράμματος
+ff_3:προγράμματος
+ff_0:προγράμματος
+ff_14:χώρες
+ff_20:στις
+ff_21:ADP_Case=Acc|Gender=Fem|Number=Plur
+ff_8:υπό
+ff_13:ADJ_Case=Nom|Gender=Masc|Number=Plur
+ff_15:PRON_Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Dem
+ff_14::
+ff_6:δηλώσεις
+ff_9:PRON_Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Ind
+ff_20:δηλώσεις
+ff_16:δηλώσεις
+ff_10:σχέδιο
+ff_12:σχέδιο
+ff_6:σχέδιο
+ff_6:ευρώ
+ff_10:ευρώ
+ff_12:ευρώ
+ff_1:NUM_Case=Acc|Gender=Fem|Number=Plur|NumType=Ord
+ff_9:NUM_Case=Acc|Gender=Fem|Number=Plur|NumType=Ord
+ff_15:NUM_Case=Acc|Gender=Fem|Number=Plur|NumType=Ord
+ff_15:ADJ_Case=Acc|Degree=Sup|Gender=Fem|Number=Plur
+ff_4:ADJ_Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing
+ff_7:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Act
+ff_15:NUM_Case=Gen|Gender=Neut|Number=Plur|NumType=Card
+ff_11:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_14:ούτε
+ff_16:ούτε
+ff_7:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_12:θέση
+ff_8:όλους
+ff_3:όλους
+ff_6:όλοι
+ff_16:όλοι
+ff_3:πολύ
+ff_0:πολλές
+ff_6:πολλές
+ff_16:πολλές
+ff_11:PROPN_Case=Gen|Gender=Masc|Number=Sing
+ff_13:PROPN_Case=Gen|Gender=Masc|Number=Sing
+ff_1:NUM_Case=Nom|Gender=Fem|Number=Plur|NumType=Ord
+ff_15:NUM_Case=Nom|Gender=Fem|Number=Plur|NumType=Ord
+ff_16:λόγω
+ff_6:έχει
+ff_16:εισηγητή
+ff_11:PRON_Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Rel
+ff_11:DET_Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art
+ff_21:DET_Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art
+ff_8:συμβάσεων
+ff_14:συμβάσεων
+ff_3:συμβάσεων
+ff_0:συμβάσεων
+ff_17:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Ind
+ff_8:σύμβαση
+ff_14:σύμβαση
+ff_7:VERB_Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+ff_16:φυσικά
+ff_1:ADJ_Case=Gen|Degree=Cmp|Gender=Fem|Number=Plur
+ff_7:ADJ_Case=Gen|Degree=Cmp|Gender=Fem|Number=Plur
+ff_9:ADJ_Case=Gen|Degree=Cmp|Gender=Fem|Number=Plur
+ff_12:απασχόλησης
+ff_18:για
+ff_14:όμως
+ff_16:όμως
+ff_6:άλλες
+ff_4:PRON_Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Ind
+ff_16:άλλες
+ff_17:PRON_Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Ind
+ff_15:NUM_Case=Nom|Gender=Masc|Number=Sing|NumType=Ord
+ff_17:NUM_Case=Nom|Gender=Masc|Number=Sing|NumType=Ord
+ff_12:σημαντικό
+ff_18:άλλο
+ff_19:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Ind
+ff_20:άλλο
+ff_3:όλοι
+ff_1:ADJ_Case=Nom|Degree=Sup|Gender=Fem|Number=Plur
+ff_9:ADJ_Case=Nom|Degree=Sup|Gender=Fem|Number=Plur
+ff_15:ADJ_Case=Nom|Degree=Sup|Gender=Fem|Number=Plur
+ff_20:σε
+ff_17:NUM_Case=Gen|Gender=Fem|Number=Plur|NumType=Card
+ff_4:NUM_Case=Gen|Gender=Fem|Number=Plur|NumType=Card
+ff_11:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass
+ff_7:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass
+ff_8:βουλευτές
+ff_7:ADJ_Case=Gen|Degree=Cmp|Gender=Fem|Number=Sing
+ff_9:ADJ_Case=Gen|Degree=Cmp|Gender=Fem|Number=Sing
+ff_18:κριτήρια
+ff_20:κριτήρια
+ff_14:οικονομικών
+ff_16:οικονομικών
+ff_8:συμβάσεις
+ff_3:συμβάσεις
+ff_0:συμβάσεις
+ff_8:δημόσιες
+ff_12:αφορά
+ff_6:αφορά
+ff_15:PRON_Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Ind
+ff_17:PRON_Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Ind
+ff_4:PRON_Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Ind
+ff_16:σύμβαση
+ff_16:απόφαση
+ff_7:PRON_Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem
+ff_17:PRON_Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem
+ff_7:ADJ_Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing
+ff_9:ADJ_Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing
+ff_8:ανθρώπους
+ff_14:κανονισμού
+ff_16:κανονισμού
+ff_0:κανονισμού
+ff_8:επιχειρήσεις
+ff_14:επιχειρήσεις
+ff_3:επιχειρήσεις
+ff_0:επιχειρήσεις
+ff_12:σύμφωνα
+ff_7:ADJ_Case=Nom|Gender=Masc|Number=Sing
+ff_8:σύμφωνα
+ff_12:κανόνες
+ff_20:δηλαδή
+ff_16:δηλαδή
+ff_8:αυτήν
+ff_14:εξαιτίας
+ff_16:αν
+ff_14:πρόταση
+ff_16:πρόταση
+ff_11:ADJ_Case=Nom|Gender=Fem|Number=Plur
+ff_13:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Pass
+ff_19:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Pass
+ff_21:PRON_Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Rel
+ff_16:τρόπο
+ff_10:χώρες
+ff_12:χώρες
+ff_16:επιχειρήσεις
+ff_21:ADJ_Case=Gen|Gender=Fem|Number=Sing
+ff_7:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Dem
+ff_3:οδηγούς
+ff_0:οδηγούς
+ff_10:οποίοι
+ff_11:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Rel
+ff_18:επιχειρήσεις
+ff_20:επιχειρήσεις
+ff_6:οποίοι
+ff_8:οδηγούς
+ff_3:κανονισμού
+ff_16:οδηγούς
+ff_8:εκτός
+ff_6:εφαρμογή
+ff_14:τομέα
+ff_14:αποτελούν
+ff_19:PRON_Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel
+ff_15:PRON_Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel
+ff_15:ADJ_Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing
+ff_16:εκτός
+ff_8:οδήγησης
+ff_14:οδήγησης
+ff_0:οδήγησης
+ff_10:θέση
+ff_8:θέσεις
+ff_8:μεγάλο
+ff_14:αριθμός
+ff_16:οδήγησης
+ff_10:εφαρμογή
+ff_12:εφαρμογή
+ff_16:χώρες
+ff_14:οδηγούς
+ff_8:κανονισμού
+ff_12:είχε
+ff_13:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_18:αξιολόγηση
+ff_20:αξιολόγηση
+ff_8:είχε
+ff_16:αξιολόγηση
+ff_16:πραγματικά
+ff_14:θέσεις
+ff_8:ομάδα
+ff_3:αυτού
+ff_21:PRON_Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Rel
+ff_6:αξιολόγηση
+ff_14:λόγο
+ff_3:αυτήν
+ff_0:θεωρώ
+ff_16:πρέπει
+ff_7:PRON_Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind
+ff_9:PRON_Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind
+ff_10:μια
+ff_11:DET_Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+ff_12:κοινοβουλίου
+ff_8:κοινοβουλίου
+ff_3:κοινοβουλίου
+ff_0:κοινοβουλίου
+ff_17:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Rel
+ff_1:AUX_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_15:AUX_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_17:AUX_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_11:NUM_Case=Gen|Gender=Fem|Number=Sing|NumType=Ord
+ff_21:NUM_Case=Gen|Gender=Fem|Number=Sing|NumType=Ord
+ff_20:ομάδες
+ff_11:PRON_Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Rel
+ff_13:ADJ_Case=Nom|Gender=Fem|Number=Plur
+ff_18:βάση
+ff_14:εναντίον
+ff_20:κράτη
+ff_9:PRON_Case=Gen|Gender=Neut|Number=Plur|Person=3|PronType=Ind
+ff_14:προέδρου
+ff_16:προέδρου
+ff_3:προέδρου
+ff_0:προέδρου
+ff_12:μεταρρύθμιση
+ff_8:μεταρρύθμιση
+ff_0:μεταρρύθμιση
+ff_11:PRON_Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Rel
+ff_21:PRON_Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Rel
+ff_11:PRON_Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem
+ff_21:VERB_Aspect=Perf|VerbForm=Inf|Voice=Pass
+ff_8:ασφαλείας
+ff_3:συνεπώς
+ff_3:πολιτείες
+ff_0:πολιτείες
+ff_18:πολιτείες
+ff_20:πολιτείες
+ff_18:βόρεια
+ff_19:ADJ_Case=Nom|Gender=Fem|Number=Sing
+ff_20:διάρκεια
+ff_17:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_16:πως
+ff_12:πολιτείες
+ff_20:οποίοι
+ff_21:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Rel
+ff_8:πολιτείες
+ff_16:οποίοι
+ff_13:NOUN_Case=Nom|Gender=Masc|Number=Plur
+ff_18:περιβάλλον
+ff_21:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act
+ff_6:κυρίως
+ff_4:NUM_Case=Acc|Gender=Masc|Number=Plur|NumType=Card
+ff_0:είτε
+ff_14:είτε
+ff_10:τις
+ff_11:DET_Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art
+ff_12:περιβάλλον
+ff_6:είτε
+ff_10:επιχειρήσεις
+ff_12:αρχές
+ff_18:αρχές
+ff_6:επιχειρήσεις
+ff_14:αρχές
+ff_14:δημόσιες
+ff_14:υπόψη
+ff_11:ADJ_Case=Acc|Gender=Neut|Number=Plur
+ff_13:ADJ_Case=Acc|Gender=Neut|Number=Plur
+ff_10:στην
+ff_11:ADP_Case=Acc|Gender=Fem|Number=Sing
+ff_19:ADJ_Case=Acc|Gender=Fem|Number=Sing
+ff_0:τέτοιο
+ff_8:τέτοιο
+ff_14:τέτοιο
+ff_14:περιβάλλον
+ff_16:δυνατόν
+ff_9:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+ff_11:PRON_Case=Gen|Gender=Fem|Number=Plur|Person=3|PronType=Rel
+ff_14:δυνατότητα
+ff_15:PRON_Case=Gen|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_1:ADJ_Case=Acc|Degree=Sup|Gender=Neut|Number=Sing
+ff_7:ADJ_Case=Acc|Degree=Sup|Gender=Neut|Number=Sing
+ff_9:ADJ_Case=Acc|Degree=Sup|Gender=Neut|Number=Sing
+ff_4:ADJ_Case=Acc|Degree=Sup|Gender=Neut|Number=Sing
+ff_19:ADJ_Case=Acc|Degree=Sup|Gender=Neut|Number=Sing
+ff_21:ADJ_Case=Acc|Degree=Sup|Gender=Neut|Number=Sing
+ff_15:ADJ_Case=Acc|Degree=Sup|Gender=Neut|Number=Sing
+ff_17:ADJ_Case=Acc|Degree=Sup|Gender=Neut|Number=Sing
+ff_8:ορισμένα
+ff_10:όμως
+ff_18:σημεία
+ff_18:πρέπει
+ff_6:συμβάσεις
+ff_16:υπηρεσίες
+ff_6:σημαντικά
+ff_8:σημαντικά
+ff_10:συμβάσεις
+ff_12:συμβάσεις
+ff_0:ήθελα
+ff_20:υπηρεσιών
+ff_16:υπηρεσιών
+ff_19:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_9:PRON_Case=Gen|Gender=Fem|Number=Plur|Person=3|PronType=Prs
+ff_15:PRON_Case=Gen|Gender=Fem|Number=Plur|Person=3|PronType=Prs
+ff_3:τους
+ff_4:PRON_Case=Gen|Gender=Fem|Number=Plur|Person=3|PronType=Prs
+ff_6:αρχή
+ff_8:ούτε
+ff_8:ίδια
+ff_10:περιβάλλον
+ff_15:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem
+ff_16:ανάπτυξη
+ff_17:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs
+ff_14:δική
+ff_4:PRON_Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem
+ff_17:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+ff_11:ADJ_Case=Nom|Gender=Neut|Number=Plur
+ff_13:ADJ_Case=Nom|Gender=Neut|Number=Plur
+ff_7:PRON_Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Rel
+ff_6:κατάσταση
+ff_16:τύπου
+ff_21:VERB_Aspect=Perf|VerbForm=Inf|Voice=Act
+ff_4:NUM_Case=Nom|Gender=Fem|Number=Sing|NumType=Ord
+ff_20:θέσεις
+ff_10:ελευθερία
+ff_12:ελευθερία
+ff_6:ελευθερία
+ff_16:ελευθερία
+ff_1:NUM_Case=Nom|Gender=Masc|Number=Sing|NumType=Card
+ff_4:NUM_Case=Nom|Gender=Masc|Number=Sing|NumType=Card
+ff_7:NUM_Case=Nom|Gender=Masc|Number=Sing|NumType=Card
+ff_8:εναντίον
+ff_20:κυρίως
+ff_16:ένας
+ff_17:DET_Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
+ff_13:PRON_Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Dem
+ff_19:PRON_Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Dem
+ff_21:PRON_Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel
+ff_19:ADJ_Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing
+ff_21:ADJ_Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing
+ff_4:ADJ_Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing
+ff_11:ADJ_Case=Gen|Gender=Neut|Number=Plur
+ff_13:ADJ_Case=Gen|Gender=Neut|Number=Plur
+ff_1:PRON_Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Ind,Rel
+ff_15:PRON_Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Ind,Rel
+ff_17:PRON_Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Ind,Rel
+ff_18:θέση
+ff_10:την
+ff_11:DET_Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_16:είχαν
+ff_17:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_9:NUM_Case=Gen|Gender=Masc|Number=Sing|NumType=Ord
+ff_16:συζήτηση
+ff_10:αποτέλεσμα
+ff_12:αποτέλεσμα
+ff_6:αποτέλεσμα
+ff_10:άτομα
+ff_1:NUM_Case=Acc|Gender=Fem|Number=Sing|NumType=Card
+ff_4:NUM_Case=Acc|Gender=Fem|Number=Sing|NumType=Card
+ff_13:NUM_Case=Nom|Gender=Fem|Number=Plur|NumType=Card
+ff_16:όπου
+ff_10:πέντε
+ff_20:πέντε
+ff_3:πέντε
+ff_16:πέντε
+ff_8:όλες
+ff_10:όλες
+ff_12:όλες
+ff_3:όλες
+ff_11:ADJ_Case=Acc|Gender=Fem|Number=Sing
+ff_12:οικονομικών
+ff_18:οικονομικών
+ff_19:ADJ_Case=Gen|Gender=Neut|Number=Plur
+ff_10:σύμβαση
+ff_12:σύμβαση
+ff_6:σύμβαση
+ff_14:κάτι
+ff_3:τέτοιο
+ff_16:πολλοί
+ff_12:ακόμη
+ff_3:πολλές
+ff_10:αύξηση
+ff_9:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Ind
+ff_6:αύξηση
+ff_15:PRON_Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs
+ff_4:ADJ_Case=Nom|Degree=Sup|Gender=Neut|Number=Sing
+ff_1:ADJ_Case=Nom|Degree=Sup|Gender=Neut|Number=Sing
+ff_13:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_19:PRON_Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Int
+ff_21:ADJ_Case=Nom|Degree=Sup|Gender=Neut|Number=Sing
+ff_15:PRON_Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Int
+ff_17:ADJ_Case=Nom|Degree=Sup|Gender=Neut|Number=Sing
+ff_15:PROPN_Case=Acc|Gender=Neut|Number=Sing
+ff_18:αυτή
+ff_19:PRON_Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem
+ff_10:συμβάσεων
+ff_12:συμβάσεων
+ff_6:συμβάσεων
+ff_16:καθεστώς
+ff_12:;
+ff_18:;
+ff_1:PRON_Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Int
+ff_8:τι
+ff_9:PRON_Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Int
+ff_14:τι
+ff_15:PRON_Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Int
+ff_14:συμβάσεις
+ff_16:συμβάσεις
+ff_20:μια
+ff_21:DET_Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+ff_1:PRON_Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs
+ff_15:PRON_Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs
+ff_17:PRON_Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs
+ff_16:όλες
+ff_6:ιδίως
+ff_14:κριτήρια
+ff_20:στην
+ff_21:ADP_Case=Acc|Gender=Fem|Number=Sing
+ff_14:πιο
+ff_18:σύμβαση
+ff_9:PRON_Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Ind
+ff_16:είτε
+ff_4:PRON_Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Ind
+ff_1:PRON_Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Ind
+ff_8:είτε
+ff_1:VERB_Aspect=Perf|Case=Gen|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass
+ff_15:VERB_Aspect=Perf|Case=Gen|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass
+ff_11:ADJ_Case=Gen|Gender=Neut|Number=Sing
+ff_13:ADJ_Case=Gen|Gender=Neut|Number=Sing
+ff_14:μπορούν
+ff_14:απόφαση
+ff_1:NUM_Case=Nom|Gender=Fem|Number=Sing|NumType=Mult
+ff_14:πρώην
+ff_9:NUM_Case=Nom|Gender=Masc|Number=Sing|NumType=Ord
+ff_1:PRON_Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_15:PRON_Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_17:PRON_Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_10:προσπάθειες
+ff_15:NUM_Case=Nom|Gender=Fem|Number=Sing|NumType=Mult
+ff_6:προσπάθειες
+ff_9:PRON_Case=Gen|Gender=Neut|Number=Plur|Person=3|PronType=Dem
+ff_15:PRON_Case=Gen|Gender=Neut|Number=Plur|Person=3|PronType=Dem
+ff_10:όταν
+ff_11:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Act
+ff_9:DET_Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
+ff_1:NUM_Case=Acc|Gender=Masc|Number=Sing|NumType=Mult
+ff_9:NUM_Case=Acc|Gender=Masc|Number=Sing|NumType=Mult
+ff_15:NUM_Case=Acc|Gender=Masc|Number=Sing|NumType=Mult
+ff_1:ADJ_Case=Nom|Degree=Sup|Gender=Masc|Number=Plur
+ff_13:VERB_Aspect=Perf|VerbForm=Inf|Voice=Pass
+ff_20:σχέδιο
+ff_7:ADJ_Case=Nom|Degree=Sup|Gender=Masc|Number=Plur
+ff_9:ADJ_Case=Nom|Degree=Sup|Gender=Masc|Number=Plur
+ff_16:σχέδιο
+ff_14:αυτούς
+ff_15:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Dem
+ff_6:ρόλο
+ff_11:NUM_Case=Nom|Gender=Masc|Number=Sing|NumType=Card
+ff_13:NUM_Case=Nom|Gender=Masc|Number=Sing|NumType=Card
+ff_9:NUM_Case=Nom|Gender=Masc|Number=Sing|NumType=Card
+ff_15:NUM_Case=Nom|Gender=Masc|Number=Sing|NumType=Card
+ff_16:φορές
+ff_10:εκατομμύρια
+ff_20:εκατομμύρια
+ff_16:εκατομμύρια
+ff_21:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act
+ff_8:επιτυχία
+ff_14:προγράμματος
+ff_16:επιτυχία
+ff_10:αξιολόγηση
+ff_12:αξιολόγηση
+ff_10:προγράμματος
+ff_12:προγράμματος
+ff_6:προγράμματος
+ff_6:κανείς
+ff_9:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Ind,Rel
+ff_3:ωστόσο
+ff_6:ωστόσο
+ff_16:αποτελεί
+ff_12:εκπαίδευση
+ff_16:τέτοιο
+ff_6:εκπαίδευση
+ff_3:της
+ff_4:DET_Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_5:DET
+ff_19:ADJ_Case=Nom|Gender=Masc|Number=Plur
+ff_21:ADJ_Case=Nom|Gender=Masc|Number=Plur
+ff_10:κράτη
+ff_9:ADJ_Case=Acc|Degree=Cmp|Gender=Masc|Number=Plur
+ff_15:ADJ_Case=Acc|Degree=Cmp|Gender=Masc|Number=Plur
+ff_4:ADJ_Case=Acc|Degree=Cmp|Gender=Masc|Number=Plur
+ff_1:ADJ_Case=Acc|Degree=Cmp|Gender=Masc|Number=Plur
+ff_14:δυνατόν
+ff_12:ήταν
+ff_13:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_14:πολλές
+ff_16:μετά
+ff_12:!
+ff_20:έχουν
+ff_7:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act
+ff_18:ακόμη
+ff_15:VERB_Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+ff_17:VERB_Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+ff_12:ως
+ff_6:νέων
+ff_8:νέων
+ff_16:ιδίως
+ff_18:διότι
+ff_7:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_12:κάνει
+ff_16:χρόνο
+ff_10:ως
+ff_14:ειδικά
+ff_14:τόσο
+ff_13:ADJ_Case=Acc|Gender=Masc|Number=Plur
+ff_15:ADJ_Case=Acc|Degree=Cmp|Gender=Neut|Number=Plur
+ff_4:ADJ_Case=Acc|Degree=Cmp|Gender=Neut|Number=Plur
+ff_3:μεγάλο
+ff_18:μεγάλο
+ff_20:μεγάλο
+ff_3:τόσο
+ff_10:τόσο
+ff_12:τόσο
+ff_11:ADJ_Case=Gen|Degree=Cmp|Gender=Neut|Number=Sing
+ff_13:ADJ_Case=Gen|Degree=Cmp|Gender=Neut|Number=Sing
+ff_7:ADJ_Case=Gen|Degree=Cmp|Gender=Neut|Number=Sing
+ff_9:ADJ_Case=Gen|Degree=Cmp|Gender=Neut|Number=Sing
+ff_1:ADJ_Case=Gen|Degree=Cmp|Gender=Neut|Number=Sing
+ff_4:ADJ_Case=Gen|Degree=Cmp|Gender=Neut|Number=Sing
+ff_16:προγράμματος
+ff_8:πολλές
+ff_14:αποτελεί
+ff_16:ευρωπαϊκής
+ff_14:συνεργασία
+ff_18:τομέα
+ff_6:κράτη
+ff_10:τα
+ff_11:DET_Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art
+ff_12:τα
+ff_13:DET_Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art
+ff_16:ανθρώπους
+ff_14:ευρωπαϊκή
+ff_16:ευρωπαϊκή
+ff_10:πολιτικής
+ff_12:πολιτικής
+ff_6:πολιτικής
+ff_13:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_19:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_9:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs
+ff_15:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Rel
+ff_10:άλλο
+ff_11:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Ind
+ff_12:άλλο
+ff_13:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Ind
+ff_10:άποψη
+ff_6:άποψη
+ff_16:προβλήματα
+ff_12:σημεία
+ff_6:σημεία
+ff_4:PRON_Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Ind
+ff_9:NOUN_Case=Dat|Gender=Fem|Number=Sing
+ff_16:έχουμε
+ff_20:βάση
+ff_12:σχέσεις
+ff_11:NUM_Case=Acc|Gender=Neut|Number=Sing|NumType=Card
+ff_12:ένα
+ff_13:NUM_Case=Acc|Gender=Neut|Number=Sing|NumType=Card
+ff_7:NUM_Case=Acc|Gender=Neut|Number=Sing|NumType=Card
+ff_21:ADV_Degree=Cmp
+ff_17:PRON_Case=Gen|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_3:ορισμένα
+ff_3:τα
+ff_4:PRON_Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs
+ff_10:να
+ff_11:PART__
+ff_19:PRON_Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs
+ff_20:τα
+ff_21:PRON_Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs
+ff_6:υπάρχουν
+ff_8:υπάρχουν
+ff_10:υπάρχουν
+ff_12:υπάρχουν
+ff_14:μπορούμε
+ff_6:κάνουμε
+ff_1:PRON_Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Int
+ff_15:PRON_Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Int
+ff_14:υπάρχουν
+ff_8:όπως
+ff_10:σας
+ff_11:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs
+ff_12:σας
+ff_13:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs
+ff_17:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind
+ff_6:σας
+ff_7:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs
+ff_3:σας
+ff_4:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind
+ff_17:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Ind
+ff_4:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Ind
+ff_1:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Ind
+ff_1:ADV_Degree=Sup
+ff_15:ADV_Degree=Sup
+ff_8:συζήτηση
+ff_20:γίνει
+ff_7:VERB_Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass
+ff_6:μεταρρύθμιση
+ff_10:εάν
+ff_7:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+ff_16:σύμφωνα
+ff_4:NUM_Case=Nom|Gender=Neut|Number=Sing|NumType=Ord
+ff_4:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_1:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_10:έχουν
+ff_6:βουλευτές
+ff_8:φορές
+ff_14:χρόνο
+ff_6:συζήτηση
+ff_10:μία
+ff_11:NUM_Case=Acc|Gender=Fem|Number=Sing|NumType=Card
+ff_20:μία
+ff_21:NUM_Case=Acc|Gender=Fem|Number=Sing|NumType=Card
+ff_7:NUM_Case=Acc|Gender=Fem|Number=Sing|NumType=Card
+ff_17:NUM_Case=Acc|Gender=Fem|Number=Sing|NumType=Card
+ff_16:ώστε
+ff_7:NUM_Case=Nom|Gender=Neut|Number=Sing|NumType=Ord
+ff_18:σύμφωνα
+ff_11:PRON_Case=Gen|Gender=Neut|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_13:PRON_Case=Gen|Gender=Neut|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_6:μέλη
+ff_7:PRON_Case=Gen|Gender=Neut|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_6:εμείς
+ff_7:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs
+ff_7:PRON_Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Ind
+ff_14:έκθεσης
+ff_3:συνέλευση
+ff_0:συνέλευση
+ff_6:συνέλευση
+ff_14:συζήτηση
+ff_8:συνέλευση
+ff_14:βουλευτές
+ff_1:ADJ_Case=Nom|Degree=Sup|Gender=Fem|Number=Sing
+ff_15:ADJ_Case=Nom|Degree=Sup|Gender=Fem|Number=Sing
+ff_17:ADJ_Case=Nom|Degree=Sup|Gender=Fem|Number=Sing
+ff_6:τώρα
+ff_14:μέχρι
+ff_11:ADP_Case=Acc|Gender=Masc|Number=Sing
+ff_21:ADP_Case=Acc|Gender=Masc|Number=Sing
+ff_14:έπρεπε
+ff_15:ADJ_Case=Nom|Degree=Sup|Gender=Neut|Number=Sing
+ff_12:βρίσκονται
+ff_18:βρίσκονται
+ff_1:PRON_Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind,Rel
+ff_7:PRON_Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind,Rel
+ff_17:PRON_Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind,Rel
+ff_17:NOUN_Case=Voc|Gender=Fem|Number=Sing
+ff_16:αποτέλεσμα
+ff_0:τούτο
+ff_6:τούτο
+ff_8:κατάρτιση
+ff_3:κατάρτιση
+ff_0:κατάρτιση
+ff_13:ADJ_Case=Gen|Gender=Fem|Number=Plur
+ff_16:κατάρτιση
+ff_18:όμως
+ff_18:επιτροπή
+ff_17:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act
+ff_1:PRON_Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+ff_17:PRON_Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+ff_11:PRON_Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Ind
+ff_10:οδήγησης
+ff_12:οδήγησης
+ff_6:οδήγησης
+ff_17:NUM_Case=Nom|Gender=Fem|Number=Sing|NumType=Card
+ff_11:PRON_Case=Gen|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_20:τους
+ff_21:PRON_Case=Gen|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_7:PRON_Case=Gen|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_10:κατάρτιση
+ff_18:σήμερα
+ff_12:έχουν
+ff_19:PRON_Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Dem
+ff_21:PRON_Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Dem
+ff_6:κατάρτιση
+ff_12:κατάρτιση
+ff_18:χώρα
+ff_7:NUM_Case=Gen|Gender=Fem|Number=Plur|NumType=Card
+ff_14:οδηγία
+ff_16:δυνατότητα
+ff_3:οδήγησης
+ff_9:PRON_Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind
+ff_14:όσο
+ff_16:μάλιστα
+ff_3:μάλιστα
+ff_4:PROPN_Case=Gen|Gender=Fem|Number=Plur
+ff_1:PROPN_Case=Gen|Gender=Fem|Number=Plur
+ff_10:τη
+ff_10:(
+ff_12:)
+ff_18:περιοχή
+ff_14:εκτός
+ff_18:είχαν
+ff_19:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_20:είχαν
+ff_11:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_11:VERB_Aspect=Perf|Case=Acc|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass
+ff_13:VERB_Aspect=Perf|Case=Acc|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass
+ff_7:VERB_Aspect=Perf|Case=Acc|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass
+ff_4:VERB_Aspect=Perf|Case=Acc|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass
+ff_6:αριθμός
+ff_16:αριθμός
+ff_12:βάση
+ff_18:συνέχεια
+ff_9:PRON_Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel
+ff_10:έτσι
+ff_21:VERB_Aspect=Perf|Case=Acc|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass
+ff_15:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_14:τότε
+ff_16:τότε
+ff_10:τότε
+ff_18:δυνάμεις
+ff_15:ADJ_Case=Voc|Gender=Masc|Number=Sing
+ff_17:ADJ_Case=Voc|Gender=Masc|Number=Sing
+ff_18:διαδικασία
+ff_11:AUX_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_18:πραγματικά
+ff_8:σημείο
+ff_18:αλλά
+ff_13:VERB_Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+ff_19:VERB_Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+ff_15:VERB_Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+ff_15:AUX_Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_17:AUX_Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_15:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act
+ff_17:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act
+ff_6:τρόπο
+ff_12:τρόπο
+ff_18:συμφωνία
+ff_6:αυτόν
+ff_7:PRON_Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Dem
+ff_8:διάρκεια
+ff_14:διάρκεια
+ff_15:NUM_Case=Acc|Gender=Fem|Number=Sing|NumType=Card
+ff_17:ADJ_Case=Gen|Degree=Sup|Gender=Masc|Number=Plur
+ff_8:υπηρεσία
+ff_18:μπορούν
+ff_14:υπηρεσία
+ff_16:υπηρεσία
+ff_14:στοιχεία
+ff_6:τέτοιο
+ff_6:κ.
+ff_11:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_7:NUM_Case=Acc|Gender=Masc|Number=Plur|NumType=Card
+ff_13:PRON_Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs
+ff_19:PRON_Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs
+ff_9:PRON_Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs
+ff_3:τελευταία
+ff_14:διαδικασίες
+ff_9:PRON_Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs
+ff_16:ζήτημα
+ff_14:πλευρά
+ff_17:NUM_Case=Acc|Gender=Masc|Number=Sing|NumType=Card
+ff_10:διαδικασία
+ff_12:διαδικασία
+ff_20:ιδίως
+ff_11:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_13:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_7:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_13:PRON_Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Dem
+ff_13:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_20:τρόπο
+ff_9:PRON_Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Ind,Rel
+ff_10:τέτοιο
+ff_12:τέτοιο
+ff_10:αλλά
+ff_10:απόφαση
+ff_3:μια
+ff_12:μια
+ff_13:NUM_Case=Acc|Gender=Fem|Number=Sing|NumType=Card
+ff_19:NUM_Case=Acc|Gender=Fem|Number=Sing|NumType=Card
+ff_9:NUM_Case=Acc|Gender=Fem|Number=Sing|NumType=Card
+ff_11:DET_Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+ff_12:νέα
+ff_18:νέα
+ff_3:νέα
+ff_10:σημαντικά
+ff_12:σημαντικά
+ff_10:πολλά
+ff_12:ελπίζω
+ff_13:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_18:ελπίζω
+ff_19:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_20:πολλά
+ff_21:ADJ_Case=Nom|Gender=Neut|Number=Plur
+ff_14:ελπίζω
+ff_14:επιτυχία
+ff_7:PRON_Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs
+ff_12:σύστημα
+ff_18:σύστημα
+ff_12:θέματα
+ff_18:θέματα
+ff_10:εκπαίδευσης
+ff_20:εκπαίδευσης
+ff_6:εκπαίδευσης
+ff_16:εκπαίδευσης
+ff_9:NUM_Case=Nom|Gender=Fem|Number=Sing|NumType=Ord
+ff_10:μετά
+ff_20:μετά
+ff_1:PRON_Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Ind
+ff_7:PRON_Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Ind
+ff_9:PRON_Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Ind
+ff_19:ADJ_Case=Gen|Gender=Masc|Number=Plur
+ff_20::
+ff_16::
+ff_20:λόγω
+ff_21:NOUN_Case=Dat|Gender=Masc|Number=Sing
+ff_17:NOUN_Case=Dat|Gender=Masc|Number=Sing
+ff_14:ομάδα
+ff_8:ανέφερε
+ff_14:ανέφερε
+ff_10:παράδειγμα
+ff_20:παράδειγμα
+ff_18:της
+ff_19:DET_Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_8:παράδειγμα
+ff_14:παράδειγμα
+ff_8:μόλις
+ff_10:σχέση
+ff_12:χρόνο
+ff_17:ADJ_Case=Gen|Degree=Cmp|Gender=Fem|Number=Plur
+ff_3:αλλά
+ff_6:σχέση
+ff_1:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Int
+ff_7:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Int
+ff_9:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Int
+ff_17:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind,Rel
+ff_6:δική
+ff_8:ένας
+ff_9:DET_Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
+ff_18:κανείς
+ff_19:PRON_Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind
+ff_7:ADJ_Case=Nom|Degree=Sup|Gender=Neut|Number=Plur
+ff_17:ADJ_Case=Acc|Degree=Cmp|Gender=Masc|Number=Plur
+ff_17:NUM_Case=Nom|Gender=Masc|Number=Plur|NumType=Card
+ff_10:ο
+ff_11:DET_Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art
+ff_16:πρώην
+ff_10:πόλεμο
+ff_11:PRON_Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Dem
+ff_20:στοιχεία
+ff_16:στοιχεία
+ff_17:PRON_Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_17:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_14:πέντε
+ff_13:ADJ_Case=Nom|Gender=Masc|Number=Sing
+ff_20:υγείας
+ff_10:του
+ff_11:PRON_Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_12:του
+ff_13:PRON_Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_1:PRON_Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Ind,Rel
+ff_7:PRON_Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Ind,Rel
+ff_11:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_20:περιοχή
+ff_7:PRON_Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem
+ff_11:PROPN_Case=Acc|Gender=Neut|Number=Sing
+ff_20:που
+ff_9:PROPN_Case=Nom|Gender=Masc|Number=Plur
+ff_18:τέλος
+ff_14:τέλος
+ff_12:χώρο
+ff_19:VERB_Aspect=Perf|Case=Acc|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass
+ff_21:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_18:όπου
+ff_20:μάλιστα
+ff_10:αυτών
+ff_11:PRON_Case=Gen|Gender=Neut|Number=Plur|Person=3|PronType=Dem
+ff_12:αυτών
+ff_13:PRON_Case=Gen|Gender=Neut|Number=Plur|Person=3|PronType=Dem
+ff_4:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs
+ff_13:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs
+ff_18:τους
+ff_19:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs
+ff_3:αυτών
+ff_4:PRON_Case=Gen|Gender=Neut|Number=Plur|Person=3|PronType=Dem
+ff_3:ή
+ff_8:(
+ff_8:συνέχεια
+ff_11:ADJ_Case=Acc|Degree=Cmp|Gender=Masc|Number=Plur
+ff_13:ADJ_Case=Acc|Degree=Cmp|Gender=Masc|Number=Plur
+ff_7:ADJ_Case=Acc|Degree=Cmp|Gender=Masc|Number=Plur
+ff_13:PROPN_Case=Acc|Gender=Masc|Number=Plur
+ff_19:PROPN_Case=Acc|Gender=Masc|Number=Plur
+ff_6:όμως
+ff_17:VERB_Aspect=Perf|Case=Gen|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass
+ff_9:AUX_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_12:κάτι
+ff_13:PRON_Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Ind
+ff_1:SYM__
+ff_2:SYM
+ff_15:SYM__
+ff_17:PROPN_Case=Gen|Gender=Masc|Number=Plur
+ff_8:τότε
+ff_17:ADV_Degree=Sup
+ff_4:PRON_Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Rel
+ff_13:PROPN_Case=Nom|Gender=Masc|Number=Plur
+ff_19:PRON_Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Rel
+ff_21:PRON_Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Rel
+ff_1:PRON_Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Rel
+ff_15:PRON_Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Rel
+ff_17:PRON_Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Rel
+ff_11:ADJ_Case=Nom|Gender=Neut|Number=Sing
+ff_16:κάτι
+ff_18:πρόβλημα
+ff_20:πρόβλημα
+ff_19:PROPN_Case=Gen|Gender=Fem|Number=Sing
+ff_18:γίνεται
+ff_20:γίνεται
+ff_20:όμως
+ff_18:μπορεί
+ff_21:NUM_Case=Nom|Gender=Masc|Number=Plur|NumType=Ord
+ff_8:υπέρ
+ff_4:NUM_Case=Nom|Gender=Masc|Number=Plur|NumType=Ord
+ff_1:NUM_Case=Nom|Gender=Masc|Number=Plur|NumType=Ord
+ff_14:γεγονός
+ff_4:PROPN_Case=Nom|Gender=Fem|Number=Plur
+ff_1:PROPN_Case=Nom|Gender=Fem|Number=Plur
+ff_12:μία
+ff_14:ένας
+ff_15:DET_Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
+ff_10:οποίος
+ff_11:PRON_Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Rel
+ff_3:ένας
+ff_9:PROPN_Case=Gen|Gender=Fem|Number=Plur
+ff_15:PROPN_Case=Gen|Gender=Fem|Number=Plur
+ff_12:χώρας
+ff_18:τρεις
+ff_19:NUM_Case=Acc|Gender=Masc|Number=Plur|NumType=Card
+ff_21:NUM_Case=Acc|Gender=Masc|Number=Plur|NumType=Card
+ff_11:PROPN_Case=Acc|Gender=Fem|Number=Plur
+ff_7:PROPN_Case=Acc|Gender=Fem|Number=Plur
+ff_4:NUM_Case=Nom|Gender=Masc|Number=Sing|NumType=Ord
+ff_15:NUM_Case=Nom|Gender=Masc|Number=Plur|NumType=Ord
+ff_4:NUM_Case=Gen|Gender=Fem|Number=Plur|NumType=Sets
+ff_11:NUM_Case=Gen|Gender=Fem|Number=Plur|NumType=Sets
+ff_13:NUM_Case=Gen|Gender=Fem|Number=Plur|NumType=Sets
+ff_7:NUM_Case=Gen|Gender=Fem|Number=Plur|NumType=Sets
+ff_9:NUM_Case=Gen|Gender=Fem|Number=Plur|NumType=Sets
+ff_20:ενώ
+ff_7:NUM_Case=Nom|Gender=Masc|Number=Sing|NumType=Ord
+ff_15:NUM_Case=Gen|Gender=Fem|Number=Plur|NumType=Card
+ff_10:τομέα
+ff_6:τομέα
+ff_18:χώρες
+ff_12:εκτός
+ff_4:VERB_Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+ff_18:δηλαδή
+ff_18:δυνατόν
+ff_10:νέων
+ff_12:νέων
+ff_6:διάρκεια
+ff_12:πέντε
+ff_13:NUM_Case=Acc|Gender=Masc|Number=Plur|NumType=Card
+ff_18:πέντε
+ff_14:συνέχεια
+ff_1:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Ind,Rel
+ff_15:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Ind,Rel
+ff_17:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Ind,Rel
+ff_10:αρχή
+ff_20:προβλήματα
+ff_4:VERB_Aspect=Perf|Case=Gen|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+ff_11:VERB_Aspect=Perf|Case=Gen|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+ff_13:VERB_Aspect=Perf|Case=Gen|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+ff_1:VERB_Aspect=Perf|Case=Gen|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+ff_3:νέων
+ff_14:μη
+ff_7:VERB_Aspect=Perf|Case=Gen|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+ff_9:VERB_Aspect=Perf|Case=Gen|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+ff_6:ήταν
+ff_7:AUX_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_19:VERB_Aspect=Perf|Case=Gen|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+ff_15:VERB_Aspect=Perf|Case=Gen|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+ff_11:VERB_Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+ff_7:VERB_Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+ff_18:αρχή
+ff_20:φορές
+ff_6:διαδικασίες
+ff_10:επειδή
+ff_10:επιτροπή
+ff_16:αλ
+ff_18:προσφέρει
+ff_20:προσφέρει
+ff_16:απ'
+ff_20:περισσότερα
+ff_21:ADJ_Case=Acc|Degree=Cmp|Gender=Neut|Number=Plur
+ff_20:πολιτική
+ff_10:άλλων
+ff_11:PRON_Case=Gen|Gender=Neut|Number=Plur|Person=3|PronType=Ind
+ff_12::
+ff_7:PRON_Case=Gen|Gender=Fem|Number=Plur|Person=3|PronType=Ind
+ff_10:είχαν
+ff_12:είχαν
+ff_6:είχαν
+ff_7:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_13:PRON_Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Rel
+ff_18:πολλοί
+ff_14:πολλοί
+ff_16:δυνάμεις
+ff_18:κυβέρνηση
+ff_10:ήταν
+ff_11:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_13:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_7:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_12:ασφαλείας
+ff_14:ασφαλείας
+ff_20:αρχές
+ff_16:αρχές
+ff_9:PRON_Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem
+ff_18:σχετικά
+ff_10:αρχές
+ff_10:πλαίσιο
+ff_8:κυβέρνησης
+ff_15:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs
+ff_16:χώρας
+ff_21:DET_Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art
+ff_11:ADJ_Case=Acc|Gender=Neut|Number=Sing
+ff_16:πολιτών
+ff_20:είναι
+ff_10:αν
+ff_16:πρόβλημα
+ff_12:διάρκεια
+ff_20:άτομα
+ff_11:ADJ_Case=Gen|Gender=Masc|Number=Sing
+ff_13:ADJ_Case=Gen|Gender=Masc|Number=Sing
+ff_18:τότε
+ff_12:ήδη
+ff_3:ήδη
+ff_17:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_9:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=2|VerbForm=Fin|Voice=Pass
+ff_15:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_8:κάποια
+ff_15:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_16:θέματα
+ff_16:μεταρρύθμιση
+ff_16:τομείς
+ff_14:μεταρρύθμιση
+ff_1:VERB_Aspect=Perf|Case=Nom|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass
+ff_4:VERB_Aspect=Perf|Case=Nom|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass
+ff_3:εκεί
+ff_8:ήθελα
+ff_14:ήθελα
+ff_7:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_9:PRON_Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs
+ff_4:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs
+ff_1:NUM_Case=Acc|Gender=Neut|Number=Sing|NumType=Mult
+ff_9:NUM_Case=Acc|Gender=Neut|Number=Sing|NumType=Mult
+ff_15:NUM_Case=Acc|Gender=Neut|Number=Sing|NumType=Mult
+ff_14:ολομέλεια
+ff_8:ολομέλεια
+ff_17:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_19:ADV_Degree=Cmp
+ff_6:ολομέλεια
+ff_10:σημαντικό
+ff_20:σημαντικό
+ff_21:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_18:τελευταία
+ff_21:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_4:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs
+ff_18:γιατί
+ff_1:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_12:δύο
+ff_19:DET_Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art
+ff_17:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Pass
+ff_19:DET_Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+ff_4:PRON_Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem
+ff_11:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Rel
+ff_21:PRON_Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Rel
+ff_12:έχει
+ff_20:θέση
+ff_9:VERB_Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+ff_1:VERB_Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+ff_7:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+ff_17:VERB_Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+ff_18:αυτές
+ff_19:PRON_Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Dem
+ff_8:υπόψη
+ff_1:ADJ_Case=Acc|Degree=Sup|Gender=Neut|Number=Plur
+ff_15:ADJ_Case=Acc|Degree=Sup|Gender=Neut|Number=Plur
+ff_17:ADJ_Case=Acc|Degree=Sup|Gender=Neut|Number=Plur
+ff_11:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_18:πρόταση
+ff_17:ADJ_Case=Gen|Degree=Cmp|Gender=Fem|Number=Sing
+ff_20:βρίσκονται
+ff_17:PROPN_Case=Gen|Gender=Neut|Number=Sing
+ff_19:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Rel
+ff_21:PROPN_Case=Nom|Gender=Masc|Number=Sing
+ff_18:πρόκειται
+ff_20:πρόκειται
+ff_15:PRON_Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Ind,Rel
+ff_14:νησιού
+ff_18:κατάσταση
+ff_6:μεγάλο
+ff_10:πολλές
+ff_20:πολλές
+ff_12:αυτά
+ff_13:PRON_Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Dem
+ff_15:NUM_Case=Nom|Gender=Neut|Number=Sing|NumType=Card
+ff_17:NUM_Case=Nom|Gender=Neut|Number=Sing|NumType=Card
+ff_16:εξαιτίας
+ff_6:τύπου
+ff_10:τύπου
+ff_12:τύπου
+ff_3:ασφαλείας
+ff_10:μέλλον
+ff_12:μέλλον
+ff_6:μέλλον
+ff_10:συνέχεια
+ff_8:κυβέρνηση
+ff_12:αγορά
+ff_11:ADJ_Case=Nom|Degree=Cmp|Gender=Masc|Number=Plur
+ff_7:ADJ_Case=Nom|Degree=Cmp|Gender=Masc|Number=Plur
+ff_3:έναν
+ff_12:έναν
+ff_18:έναν
+ff_19:NUM_Case=Acc|Gender=Neut|Number=Sing|NumType=Card
+ff_3:μιας
+ff_21:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+ff_11:NUM_Case=Acc|Gender=Neut|Number=Plur|NumType=Card
+ff_13:NUM_Case=Acc|Gender=Neut|Number=Plur|NumType=Card
+ff_10:περισσότερα
+ff_11:ADJ_Case=Acc|Degree=Cmp|Gender=Neut|Number=Plur
+ff_12:περισσότερα
+ff_13:ADJ_Case=Acc|Degree=Cmp|Gender=Neut|Number=Plur
+ff_19:DET_Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art
+ff_8:όμως
+ff_17:ADJ_Case=Acc|Degree=Sup|Gender=Fem|Number=Plur
+ff_9:VERB_Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+ff_4:VERB_Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+ff_1:VERB_Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+ff_3:μη
+ff_16:οδηγών
+ff_16:βουλευτές
+ff_17:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs
+ff_6:αυτήν
+ff_11:DET_Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art
+ff_18:ιδιαίτερα
+ff_10:μέσω
+ff_16:νησιού
+ff_16:συνέχεια
+ff_17:VERB_Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+ff_16:μέσα
+ff_11:PRON_Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Rel
+ff_7:PRON_Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Rel
+ff_7:VERB_Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+ff_15:ADJ_Case=Gen|Degree=Sup|Gender=Fem|Number=Sing
+ff_17:ADJ_Case=Gen|Degree=Sup|Gender=Fem|Number=Sing
+ff_10:πόλης
+ff_12:πόλης
+ff_6:πόλης
+ff_17:PROPN_Case=Gen|Gender=Neut|Number=Plur
+ff_21:PROPN_Case=Gen|Gender=Masc|Number=Sing
+ff_20:υπάρχουν
+ff_13:PROPN_Case=Gen|Gender=Fem|Number=Plur
+ff_18:ομάδα
+ff_6:έχουν
+ff_10:μέλη
+ff_7:ADJ_Case=Gen|Degree=Sup|Gender=Masc|Number=Plur
+ff_11:DET_Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art
+ff_21:DET_Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art
+ff_17:PRON_Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Ind,Rel
+ff_9:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_4:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_1:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_10:όπως
+ff_16:εβδομάδες
+ff_10:δικαιωμάτων
+ff_20:δικαιωμάτων
+ff_6:δικαιωμάτων
+ff_14:ακόμη
+ff_17:PRON_Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Ind
+ff_14:συνέλευση
+ff_16:υπάρχουν
+ff_8:πρόεδρος
+ff_12:ρόλο
+ff_14:τούτο
+ff_1:PRON_Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Int
+ff_15:PRON_Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Int
+ff_17:ADJ_Case=Acc|Degree=Cmp|Gender=Neut|Number=Plur
+ff_8:εμείς
+ff_9:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs
+ff_6:είναι
+ff_7:AUX_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_13:VERB_Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act
+ff_9:PRON_Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Ind,Rel
+ff_8:ένωση
+ff_3:ένωση
+ff_0:ένωση
+ff_16:νέο
+ff_18:τύπου
+ff_21:ADJ_Case=Gen|Gender=Neut|Number=Plur
+ff_14:ένωση
+ff_12:πολλές
+ff_13:PRON_Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Ind
+ff_17:NOUN_Case=Dat|Gender=Fem|Number=Sing
+ff_7:ADJ_Case=Dat|Gender=Fem|Number=Sing
+ff_16:τελικά
+ff_14:ανθρώπους
+ff_3:αυτόν
+ff_10:τελευταία
+ff_19:ADJ_Case=Acc|Degree=Cmp|Gender=Fem|Number=Plur
+ff_21:PROPN_Case=Acc|Gender=Masc|Number=Sing
+ff_10:γιατί
+ff_9:NUM_Case=Nom|Gender=Fem|Number=Plur|NumType=Ord
+ff_20:χώρες
+ff_15:PRON_Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind
+ff_16:ανθρώπινα
+ff_11:DET_Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art
+ff_21:DET_Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art
+ff_16:αγορά
+ff_12:έπρεπε
+ff_21:PROPN_Case=Acc|Gender=Neut|Number=Plur
+ff_17:PROPN_Case=Acc|Gender=Neut|Number=Plur
+ff_15:PROPN_Case=Acc|Gender=Neut|Number=Plur
+ff_14:μαζί
+ff_7:VERB_Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+ff_16:κι
+ff_18:πόλεμο
+ff_20:πόλεμο
+ff_8:ένωσης
+ff_14:ένωσης
+ff_3:ένωσης
+ff_0:ένωσης
+ff_8:ευρωπαϊκού
+ff_11:PROPN_Case=Acc|Gender=Masc|Number=Plur
+ff_20:διαδικασία
+ff_11:DET_Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art
+ff_13:NUM_Case=Gen|Gender=Neut|Number=Sing|NumType=Ord
+ff_9:NUM_Case=Gen|Gender=Neut|Number=Sing|NumType=Ord
+ff_4:NUM_Case=Gen|Gender=Neut|Number=Sing|NumType=Ord
+ff_1:NUM_Case=Gen|Gender=Neut|Number=Sing|NumType=Ord
+ff_8:τελικά
+ff_18:κάνει
+ff_20:πρόταση
+ff_10:κυβέρνησης
+ff_12:κυβέρνησης
+ff_6:κυβέρνησης
+ff_18:πολιτική
+ff_18:ζωή
+ff_20:ζωή
+ff_4:NUM_Case=Nom|Gender=Fem|Number=Plur|NumType=Sets
+ff_11:NUM_Case=Nom|Gender=Fem|Number=Plur|NumType=Sets
+ff_13:NUM_Case=Nom|Gender=Fem|Number=Plur|NumType=Sets
+ff_10:πολίτες
+ff_20:χρόνο
+ff_9:ADJ_Case=Voc|Gender=Masc|Number=Sing
+ff_20:ζήτημα
+ff_20:μπορούμε
+ff_14:πολύ
+ff_1:VERB_Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+ff_15:VERB_Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+ff_17:VERB_Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+ff_9:VERB_Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Pass
+ff_11:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs
+ff_7:PRON_Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs
+ff_4:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Int
+ff_16:μαζί
+ff_10:πολιτική
+ff_12:πολιτική
+ff_12:κυβέρνηση
+ff_20:δυνάμεις
+ff_12:συνθήκες
+ff_3:του
+ff_4:PRON_Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_20:έγινε
+ff_1:DET_Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art
+ff_9:DET_Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art
+ff_15:DET_Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art
+ff_4:PROPN_Case=Nom|Gender=Neut|Number=Plur
+ff_9:VERB_Aspect=Perf|Case=Nom|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass
+ff_15:VERB_Aspect=Perf|Case=Nom|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass
+ff_19:DET_Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
+ff_20:έναν
+ff_21:DET_Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
+ff_11:PROPN_Case=Acc|Gender=Neut|Number=Plur
+ff_13:PRON_Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Rel
+ff_9:PRON_Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Rel
+ff_17:NUM_Case=Gen|Gender=Neut|Number=Plur|NumType=Card
+ff_10:τώρα
+ff_21:VERB_Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_19:VERB_Aspect=Perf|VerbForm=Inf|Voice=Pass
+ff_10:συνεργασία
+ff_14:αλ
+ff_6:συνεργασία
+ff_16:διάρκεια
+ff_9:PRON_Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_20:ως
+ff_20:δήλωσε
+ff_10:μέχρι
+ff_18:που
+ff_0:δήλωσε
+ff_4:NUM_Case=Acc|Gender=Neut|Number=Sing|NumType=Ord
+ff_20:όταν
+ff_18:πόλη
+ff_20:στιγμή
+ff_15:VERB_Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+ff_6:θέμα
+ff_18:υπάρχουν
+ff_12:πρόγραμμα
+ff_6:πρόγραμμα
+ff_6:θέση
+ff_16:μπορεί
+ff_6:απειλή
+ff_9:PRON_Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Ind,Rel
+ff_16:)
+ff_12:ή
+ff_18:ομάδες
+ff_10:καθεστώς
+ff_7:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_12:συζήτηση
+ff_18:συζήτηση
+ff_20:βουλευτές
+ff_10:διαδικασίες
+ff_3:εναντίον
+ff_10:εναντίον
+ff_20:εναντίον
+ff_19:NUM_Case=Nom|Gender=Fem|Number=Sing|NumType=Ord
+ff_11:DET_Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_4:PRON_Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Dem
+ff_18:αυτού
+ff_19:PRON_Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Dem
+ff_20:αυτού
+ff_21:PRON_Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Dem
+ff_1:PRON_Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Ind
+ff_9:PRON_Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Ind
+ff_15:PRON_Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Ind
+ff_6:απόφαση
+ff_12:βουλευτές
+ff_7:PRON_Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Ind,Rel
+ff_18:ούτε
+ff_20:ούτε
+ff_8:αίτηση
+ff_9:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=1|PronType=Prs
+ff_13:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=1|PronType=Prs
+ff_15:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=1|PronType=Prs
+ff_19:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=1|PronType=Prs
+ff_1:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=1|PronType=Prs
+ff_4:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=1|PronType=Prs
+ff_1:NUM_Case=Gen|Gender=Fem|Number=Plur|NumType=Ord
+ff_7:NUM_Case=Gen|Gender=Fem|Number=Plur|NumType=Ord
+ff_9:NUM_Case=Gen|Gender=Fem|Number=Plur|NumType=Ord
+ff_13:NOUN_Case=Dat|Gender=Fem|Number=Sing
+ff_19:NOUN_Case=Dat|Gender=Fem|Number=Sing
+ff_1:DET_Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_7:DET_Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_17:DET_Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_1:ADJ_Case=Gen|Degree=Cmp|Gender=Masc|Number=Sing
+ff_7:ADJ_Case=Gen|Degree=Cmp|Gender=Masc|Number=Sing
+ff_17:ADJ_Case=Gen|Degree=Cmp|Gender=Masc|Number=Sing
+ff_9:VERB_Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_11:DET_Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art
+31
+det
+nsubj
+nmod
+case
+obl
+nummod
+advmod
+punct
+orphan
+obj
+cc
+conj
+aux
+amod
+acl:relcl
+advcl
+xcomp
+parataxis
+cop
+mark
+appos
+acl
+ccomp
+iobj
+vocative
+csubj
+compound
+dep
+fixed
+expl
+discourse
+1787
+26 2 996
+8 3 266
+57 -8 4
+208 5 33
+870 -7 6
+1239 -7 7
+1 8 31
+1255 -13 9
+1286 -7 10
+1084 -13 11
+341 -7 12
+321 13 16
+869 -7 14
+1192 -7 15
+4 -7 -7
+261 -13 17
+1020 -13 18
+629 -13 19
+1532 -13 20
+11 21 -13
+937 -13 22
+1121 -13 23
+1710 -13 24
+1909 -13 25
+3123 -13 26
+1067 27 29
+1207 -7 28
+4 -7 -7
+604 30 -7
+1945 -7 -7
+3160 -7 32
+1176 -7 -13
+51 34 88
+500 35 45
+202 -9 36
+98 -7 37
+1084 -9 38
+1168 -9 39
+1576 -9 40
+321 41 42
+4 -7 -7
+229 43 44
+4 -9 -7
+932 -7 -7
+746 -20 46
+2262 -17 47
+341 48 57
+348 -5 49
+2002 -11 50
+3012 -7 51
+1590 52 53
+1 -7 -7
+1 54 -7
+4 55 -7
+12 56 -7
+50 -7 -7
+1296 58 60
+1 -11 59
+2002 -28 -7
+1 61 82
+98 62 65
+4 63 -7
+50 64 -7
+11 -7 -7
+604 66 67
+4 -7 -7
+4576 -7 68
+4 69 80
+1067 70 71
+50 -7 -7
+321 72 73
+50 -7 -7
+629 -7 74
+811 75 76
+50 -7 -7
+1020 77 78
+50 -7 -7
+229 79 -7
+50 -7 -7
+1192 -7 81
+1168 -7 -7
+2638 83 84
+937 -20 -7
+2240 85 86
+12 -7 -7
+229 87 -7
+1000 -7 -7
+133 89 111
+182 -11 90
+494 -11 91
+2723 92 95
+98 -11 -11
+261 94 -11
+3287 -11 -7
+321 96 98
+869 -7 97
+132 -11 -11
+2886 -20 99
+4477 -11 -11
+4 101 -11
+12 102 -11
+706 -20 103
+932 104 105
+580 -20 -11
+25 106 107
+1 -20 -11
+580 108 -11
+261 -11 109
+341 -11 110
+98 -11 -11
+599 112 120
+1402 -20 -20
+261 -20 -7
+1 115 117
+579 -7 116
+1168 -11 -20
+1219 118 -20
+321 119 -20
+4 -20 -20
+281 121 188
+348 122 133
+1079 123 124
+341 -5 -10
+1601 -10 125
+824 126 127
+229 -5 -10
+1573 128 129
+1608 -24 -10
+1785 -10 130
+1611 -10 131
+1286 -3 132
+2044 -3 -2
+1706 -2 134
+1609 135 143
+932 -10 -10
+1532 -30 137
+3591 -30 138
+4 139 -10
+131 -10 140
+1067 -10 141
+1084 -10 142
+2216 -10 -10
+1 144 154
+261 145 146
+2833 -24 -17
+1623 -24 147
+1548 148 150
+604 -2 149
+741 -2 -10
+1286 -10 151
+1332 -10 152
+1234 -10 153
+1300 -10 -2
+2555 -2 155
+1421 -2 156
+2234 157 159
+34 -10 -10
+261 -10 -10
+2833 -24 160
+1775 161 162
+321 -24 -24
+91 -24 163
+1269 164 166
+341 -10 165
+2888 -24 -24
+1623 167 172
+1084 -10 168
+1067 -10 169
+2218 -10 170
+1710 -10 171
+1532 -24 -24
+700 -24 173
+895 -2 174
+75 -24 175
+98 176 178
+155 -10 177
+2243 -2 -24
+25 -2 179
+341 -2 180
+349 -2 181
+2243 -2 182
+2218 183 184
+11 -30 -10
+321 185 -10
+174 186 187
+12 -24 -10
+1155 -10 -10
+152 189 201
+1 190 195
+342 191 192
+811 -13 -16
+841 -17 193
+131 -17 194
+604 -17 -13
+230 196 197
+11 -16 -13
+335 198 -13
+741 199 -13
+4 200 -13
+12 -13 -13
+33 202 223
+196 203 209
+341 -4 204
+1767 -4 205
+3540 -4 206
+1020 207 -20
+4 208 -20
+12 -20 -20
+937 -20 210
+1 211 217
+1020 -20 212
+1067 -20 213
+1286 -20 214
+1404 -20 215
+1532 -20 216
+1084 -4 -4
+1297 218 222
+202 -4 219
+604 -4 220
+4 221 -20
+741 -20 -4
+2044 -20 -4
+67 224 249
+430 -2 225
+260 226 230
+1 227 -9
+4 228 -2
+811 -2 229
+25 -2 -17
+408 -2 231
+435 232 234
+261 -10 233
+25 -17 -2
+425 -2 235
+473 236 237
+706 -17 -2
+961 -7 238
+66 239 241
+343 -5 240
+98 -10 -10
+2904 -17 242
+271 243 245
+1020 -17 244
+98 -10 -10
+1404 -10 246
+98 247 -10
+239 248 -10
+2419 -10 -10
+146 250 262
+245 -17 -17
+1 -22 -10
+229 -2 253
+2994 254 255
+12 -2 -10
+145 256 259
+1 257 -2
+1121 -2 258
+629 -2 -17
+2523 -9 260
+98 261 -17
+514 -17 -17
+509 -19 263
+1 264 -1
+23 -10 265
+316 -5 -17
+152 267 469
+184 268 273
+7 -16 269
+867 270 272
+15 271 -16
+17 -12 -16
+1380 -16 -12
+53 274 320
+154 275 284
+55 276 278
+335 -12 277
+179 -16 -18
+293 279 280
+98 -16 -12
+342 -16 281
+3876 -16 282
+15 283 -12
+17 -12 -16
+52 285 314
+619 286 290
+676 -23 287
+1272 -12 288
+2906 289 -16
+4 -12 -16
+342 291 292
+343 -12 -16
+15 293 299
+1168 -16 294
+479 -22 295
+1021 -16 296
+9 -12 297
+16 -12 298
+336 -16 -16
+54 300 302
+336 -16 301
+226 -16 -18
+1018 303 304
+293 -15 -12
+226 -16 305
+336 306 309
+2796 -12 307
+1076 -12 308
+1372 -12 -16
+531 -12 -12
+9 -16 -23
+1021 -23 312
+321 -16 313
+681 -16 -12
+461 315 319
+1770 -16 316
+613 -12 317
+226 -16 318
+296 -16 -18
+179 -18 -23
+1168 321 334
+729 -16 322
+37 -16 323
+54 -16 324
+530 -22 325
+531 -23 326
+2453 -23 327
+3613 -23 328
+1130 329 330
+7 -26 -23
+2969 331 332
+1 -23 -26
+742 333 -26
+938 -23 -26
+234 335 393
+341 336 342
+224 -23 337
+17 338 -26
+336 -26 339
+1 340 -26
+337 -26 341
+633 -26 -23
+321 343 364
+1021 344 346
+28 -26 345
+670 -26 -23
+335 347 348
+154 -12 -23
+512 349 350
+17 -26 -18
+1076 -26 351
+701 -26 352
+9 353 360
+336 -23 354
+613 -23 355
+1 356 -26
+651 -26 357
+881 -26 358
+923 -26 359
+2217 -26 -23
+352 -23 361
+938 362 -26
+4 363 -23
+15 -23 -23
+1895 -17 365
+937 -23 -23
+235 -23 -26
+238 368 380
+1 369 377
+773 370 371
+98 -9 -23
+1776 -12 372
+2845 373 374
+604 -12 -23
+2960 -26 375
+232 376 -23
+4 -23 -26
+1113 -18 378
+701 379 -23
+932 -23 -26
+1288 -7 381
+2550 -17 382
+3526 -22 383
+44 -26 384
+706 -26 385
+2911 -26 386
+4576 -26 387
+1392 -16 388
+1855 -16 389
+16 390 391
+1067 -16 -23
+352 392 -23
+1 -16 -23
+728 394 413
+341 395 398
+4 -26 396
+17 -23 397
+15 -26 -16
+1337 -21 399
+741 400 401
+613 -26 -23
+25 402 404
+512 -23 403
+17 -26 -26
+17 -23 405
+937 406 407
+1017 -23 -26
+321 408 412
+336 -26 409
+502 -26 410
+633 -26 411
+2118 -26 -23
+640 -26 -23
+729 414 422
+1314 415 416
+341 -26 -23
+247 -26 417
+527 -23 418
+916 -23 419
+335 420 -16
+1017 -16 -16
+1223 -23 -16
+37 423 428
+15 424 426
+427 -23 425
+4 -16 -22
+511 427 -16
+1 -22 -16
+634 429 442
+341 -26 430
+321 431 434
+125 -16 432
+70 -23 433
+3822 -23 -26
+3265 -26 435
+706 436 437
+4 -26 -16
+491 438 441
+1 439 -12
+229 -21 440
+261 -16 -23
+772 -26 -23
+342 -16 443
+491 444 450
+635 -23 445
+633 -23 446
+12 447 -23
+247 -23 448
+1076 -23 449
+1130 -23 -16
+17 451 461
+1286 -23 -23
+9 453 457
+12 454 -17
+604 -16 455
+151 -12 456
+336 -12 -23
+335 -26 458
+293 -16 459
+229 -16 460
+240 -16 -23
+1122 462 463
+4 -15 -9
+247 -15 464
+295 -12 465
+237 -26 466
+341 -26 467
+321 -26 468
+938 -26 -23
+37 470 514
+51 471 472
+50 -7 -9
+49 473 477
+881 -6 474
+267 -6 475
+25 -9 476
+261 -9 -5
+208 -7 478
+133 -11 479
+981 -17 480
+338 -9 481
+462 -9 482
+2268 -9 483
+2273 -9 484
+546 -3 485
+2165 -3 486
+2266 -3 487
+4361 -3 488
+1192 489 490
+1 -9 -5
+2367 491 492
+36 -9 -5
+1388 493 494
+159 -5 -5
+4668 495 496
+78 -3 -5
+1162 497 498
+324 -3 -5
+2756 -5 -5
+9 -5 -3
+1333 501 502
+47 -3 -5
+834 503 504
+176 -3 -5
+1025 505 506
+826 -3 -5
+198 507 509
+17 508 -5
+239 -3 -5
+54 510 511
+197 -9 -5
+1157 512 -5
+321 513 -5
+271 -9 -5
+51 515 537
+728 516 518
+677 -20 -20
+4 -23 -7
+2002 -28 519
+1084 520 523
+16 -7 -7
+1 -10 522
+9 -12 -16
+604 524 529
+353 -20 525
+625 -10 526
+1296 -11 527
+500 -9 528
+2112 -9 -7
+1067 530 534
+461 -9 531
+184 -11 532
+52 533 -7
+15 -7 -7
+233 -26 535
+117 -2 536
+399 -2 -7
+239 538 612
+516 539 543
+932 540 541
+1383 -9 -5
+70 542 -5
+1020 -5 -5
+226 544 551
+184 545 546
+28 -5 -12
+4 547 549
+190 -9 548
+738 -18 -5
+9 -5 550
+321 -5 -3
+199 552 569
+1 -10 -10
+1532 -24 554
+321 -10 555
+1070 -10 556
+604 -10 557
+1084 -10 558
+15 559 -5
+98 560 562
+4 561 -5
+198 -5 -5
+131 563 564
+198 -5 -10
+25 -5 565
+579 -5 566
+261 -5 567
+1020 -5 -10
+1226 -5 -10
+491 570 574
+39 -10 571
+16 572 -5
+4 -17 573
+11 -5 -10
+52 575 576
+17 -16 -5
+1226 -5 577
+47 578 579
+229 -16 -23
+1168 -18 580
+313 581 582
+70 -9 -5
+341 583 584
+1 -5 -10
+1 585 -10
+25 -5 586
+2222 587 588
+1084 -10 -5
+41 589 602
+321 590 594
+984 591 592
+3689 -10 -10
+70 593 -10
+9 -10 -10
+295 595 596
+1286 -10 -5
+741 597 598
+363 -10 -5
+1255 -5 599
+3128 -5 600
+651 601 -10
+98 -10 -5
+3017 -17 603
+1251 604 607
+355 -17 605
+1286 606 -10
+7 -17 -10
+236 608 609
+98 -5 -10
+697 610 -10
+17 611 -10
+344 -10 -5
+27 613 618
+202 -9 614
+44 615 616
+7 -2 -9
+923 617 -2
+1 -2 -12
+117 -2 619
+126 620 626
+619 621 622
+224 -23 -16
+1192 623 624
+7 -5 -9
+48 625 -5
+9 -5 -6
+53 627 671
+133 628 631
+1532 -7 629
+932 630 -11
+2723 -7 -11
+55 632 648
+226 -5 -5
+48 -6 -5
+52 635 643
+67 636 640
+124 637 638
+321 -17 -5
+98 -5 639
+425 -9 -25
+15 -12 641
+23 -25 642
+4 -6 -16
+410 -17 644
+124 645 646
+154 -5 -5
+15 -23 647
+408 -18 -9
+154 649 650
+482 -5 -12
+146 651 653
+235 -12 652
+427 -26 -16
+473 654 657
+321 655 656
+15 -23 -2
+17 -23 -9
+619 -16 658
+226 659 661
+98 -9 660
+67 -5 -9
+1286 662 663
+1 -25 -12
+67 664 668
+435 665 666
+98 -2 -9
+131 -2 667
+419 -9 -5
+1 669 670
+161 -5 -12
+15 -9 -2
+147 672 677
+1265 -9 673
+1294 -9 674
+932 675 676
+67 -2 -2
+2273 -9 -2
+399 678 686
+54 -5 679
+732 -26 680
+1286 -10 681
+48 682 683
+98 -6 -2
+70 684 -2
+25 685 -2
+7 -2 -2
+729 687 694
+728 688 692
+341 -26 689
+227 -2 690
+229 -16 691
+273 -26 -23
+1314 693 -16
+17 -23 -23
+7 695 800
+1527 696 697
+1422 -5 -25
+300 698 706
+814 699 701
+98 700 -10
+16 -10 -10
+459 -5 702
+213 -5 703
+224 -5 704
+100 -5 705
+226 -5 -10
+66 707 714
+1119 -5 708
+171 -5 709
+240 -10 -10
+355 -5 711
+468 -5 712
+44 713 -10
+1 -5 -10
+124 715 727
+627 -5 716
+229 717 718
+4 -17 -18
+54 -5 719
+341 720 721
+339 -10 -5
+1084 722 723
+12 -17 -10
+741 -17 724
+339 725 -10
+321 726 -10
+4 -10 -10
+1143 -5 728
+246 729 731
+17 -10 -10
+261 -5 -10
+271 732 737
+16 -10 733
+1093 734 735
+9 -10 -17
+341 -10 736
+629 -10 -5
+67 738 763
+1065 -25 739
+523 740 745
+25 -17 741
+70 742 -2
+341 -2 743
+261 -2 744
+430 -2 -17
+78 746 747
+12 -5 -10
+17 748 760
+1008 -10 749
+1121 -25 750
+260 751 753
+25 752 -2
+16 -17 -2
+296 -9 754
+501 755 756
+12 -9 -2
+937 757 759
+435 -2 758
+12 -5 -2
+337 -2 -2
+1138 -23 761
+337 -18 762
+634 -26 -2
+355 764 765
+320 -10 -17
+316 -5 766
+17 767 794
+48 768 771
+12 769 -10
+102 -2 770
+321 -2 -6
+12 772 784
+514 773 774
+98 -5 -17
+337 -5 775
+23 776 778
+16 -9 777
+70 -2 -10
+989 -17 779
+25 -5 780
+222 -10 781
+235 -10 782
+245 -10 783
+295 -10 -2
+341 -17 785
+223 786 787
+213 -5 -2
+49 -10 788
+321 789 791
+245 790 -10
+16 -17 -10
+629 -17 792
+245 -10 793
+601 -10 -2
+146 795 799
+9 796 797
+732 -23 -26
+54 -16 798
+145 -2 -23
+9 -2 -5
+408 801 802
+28 -17 -2
+516 803 807
+49 -12 804
+1625 -9 805
+29 806 -5
+131 -3 -5
+184 808 844
+599 -20 809
+133 -11 810
+226 811 812
+4 -5 -12
+300 813 815
+17 -5 814
+4 -10 -16
+66 816 817
+71 -5 -10
+1056 -5 818
+888 819 820
+1 -6 -10
+1138 -12 821
+336 -12 822
+98 823 824
+223 -5 -12
+186 825 829
+281 826 828
+9 -2 827
+4 -9 -10
+811 -5 -2
+23 -5 830
+159 -10 831
+176 -10 832
+48 -9 833
+856 834 835
+932 -9 -2
+2893 -2 836
+1721 -2 837
+208 -12 838
+17 839 841
+4 -2 -2
+25 -12 -2
+9 -12 -12
+1 843 -2
+435 -2 -12
+212 845 849
+48 846 848
+464 -9 847
+1067 -5 -6
+146 -9 -5
+435 850 855
+634 -26 851
+976 -10 852
+981 853 854
+11 -17 -2
+1010 -17 -2
+1032 856 858
+249 -9 857
+923 -12 -5
+491 859 889
+981 860 873
+194 861 863
+48 -6 862
+25 -5 -9
+226 864 866
+1 865 -5
+17 -5 -3
+866 -17 867
+321 868 869
+124 -17 -5
+67 870 872
+25 -17 871
+522 -17 -5
+16 -5 -17
+146 874 876
+320 -10 875
+321 -16 -17
+133 -11 877
+300 -10 878
+2645 -3 879
+337 880 882
+48 -2 881
+202 -2 -10
+66 -5 -5
+1 -9 -10
+159 -10 885
+473 -2 886
+15 887 -5
+1 888 -5
+4 -2 -5
+1118 -5 890
+361 891 892
+48 -6 -5
+1143 893 895
+25 894 -5
+195 -5 -5
+48 896 906
+194 897 900
+98 898 899
+4 -6 -2
+321 -2 -6
+1052 901 902
+44 -6 -10
+11 903 -10
+339 -10 904
+261 -9 905
+301 -9 -2
+425 -2 907
+473 908 912
+651 -2 -2
+235 -10 910
+261 -26 911
+865 -17 -2
+233 913 916
+321 -23 -23
+67 -16 915
+1017 -23 -26
+430 917 918
+321 -9 -2
+67 919 957
+260 -2 920
+459 921 922
+4 -5 -9
+1527 -25 923
+25 924 926
+17 925 -5
+9 -10 -17
+3129 -5 927
+1797 928 932
+741 -10 -10
+131 -5 930
+98 931 -10
+1 -5 -10
+248 933 934
+311 -12 -10
+2055 935 936
+98 -5 -10
+275 937 945
+984 938 939
+1020 -10 -17
+519 -10 940
+12 941 -5
+127 -5 942
+160 -5 943
+131 944 -10
+339 -5 -10
+3192 946 947
+1 -17 -10
+2325 -5 948
+4576 -5 949
+754 950 953
+202 -5 951
+604 952 -10
+1 -10 -10
+2033 954 955
+16 -5 -10
+236 956 -10
+261 -5 -10
+345 958 964
+15 959 -5
+49 -5 960
+4 961 963
+131 962 -10
+1 -5 -10
+198 -5 -10
+146 965 976
+145 -2 966
+604 -2 967
+102 -5 968
+341 -2 969
+619 -23 970
+1020 -10 971
+4 972 -9
+15 -10 -10
+70 -10 974
+620 -10 975
+1842 -10 -9
+9 977 979
+131 -10 -10
+13 -10 -5
+87 -3 980
+133 -11 981
+765 -2 982
+1192 -5 983
+157 984 985
+98 -10 -10
+1601 -10 986
+469 -10 987
+1300 -10 988
+1 989 995
+679 -10 990
+258 -10 991
+20 992 -10
+421 -10 993
+23 994 -2
+4 -10 -10
+202 -10 -2
+3 997 1011
+7 998 -9
+1278 999 1002
+65 -1 1000
+12 -1 -1
+86 -1 -9
+259 1003 1006
+114 1004 -1
+12 1005 -1
+4 -1 -1
+472 1007 -1
+1 -1 1008
+4 1009 -1
+12 1010 -1
+97 -1 -1
+33 1012 1017
+7 1013 -12
+210 1014 -4
+299 1015 -4
+4 1016 -4
+11 -4 -4
+146 1018 1092
+7 1019 1033
+138 1020 1024
+3536 -12 1021
+8 -14 1022
+1 1023 -2
+9 -14 -16
+1147 -22 1025
+1800 1026 1027
+368 -3 -14
+1062 1028 -14
+4 1029 -14
+1 1030 -14
+65 1031 -14
+8 1032 -14
+11 -14 -14
+184 1034 1036
+299 -14 1035
+428 -14 -12
+53 1037 1062
+138 1038 1041
+804 1039 1040
+15 -21 -16
+137 -18 -12
+1148 -15 1042
+55 1043 1048
+5 -14 -14
+11 -21 -9
+241 1046 1047
+38 -21 -15
+724 -3 -14
+1130 1049 1052
+9 1050 1051
+65 -14 -21
+39 -21 -22
+154 -12 -12
+77 -14 -12
+102 -14 1055
+403 -15 1056
+65 1057 1061
+2162 1058 1059
+122 -22 -15
+249 -12 1060
+428 -15 -21
+15 -12 -22
+15 1063 1076
+65 -14 -14
+336 -15 1065
+190 -9 1066
+431 -2 1067
+806 -2 1068
+674 1069 -14
+122 -9 -14
+79 -22 1071
+137 1072 1073
+147 -12 -2
+9 1074 1075
+87 -14 -2
+221 -2 -14
+353 -15 1077
+9 -14 -14
+337 1079 1080
+4 -15 -3
+429 1081 1082
+4 -26 -16
+241 1083 1084
+1 -16 -14
+322 -14 -22
+720 1086 1088
+1 -16 1087
+17 -26 -9
+399 1089 1090
+4 -12 -2
+36 -9 1091
+1307 -7 -14
+57 -8 1093
+152 1094 1232
+353 1095 1114
+491 1096 1101
+15 1097 1098
+1 -22 -16
+651 -16 1099
+4 1100 -15
+122 -15 -22
+678 -16 1102
+59 -26 1103
+2369 -9 1104
+249 -16 1105
+1220 1106 1107
+9 -16 -15
+2821 1108 1109
+1 -15 -16
+466 1110 1111
+224 -16 -15
+2095 1112 -15
+15 1113 -15
+1 -15 -15
+53 1115 1156
+336 1116 1126
+831 -15 1117
+138 1118 1119
+9 -21 -16
+65 1120 1124
+1770 1121 1122
+1 -16 -22
+52 1123 -16
+1122 -16 -22
+5 -22 1125
+4 -18 -12
+619 1127 1130
+296 -16 -16
+65 1129 -16
+4 -22 -16
+15 1131 1144
+55 1132 1135
+1 1133 1134
+65 -22 -15
+4 -9 -18
+241 -12 -12
+295 -15 -21
+238 1138 1139
+1 -26 -15
+1076 1140 1141
+17 -18 -22
+52 1142 -12
+9 1143 -12
+86 -12 -16
+154 1145 1147
+55 -18 1146
+244 -21 -12
+635 1148 1149
+1 -21 -22
+1081 -12 1150
+555 1151 1152
+1 -22 -18
+1287 1153 1154
+9 -22 -18
+59 -12 1155
+137 -12 -15
+184 -12 1157
+65 1158 1200
+1136 -15 1159
+1602 -15 1160
+817 -15 1161
+234 1162 1173
+259 1163 1166
+1 1164 -2
+15 1165 -22
+235 -22 -26
+244 -22 -22
+1317 -16 1168
+55 -26 1169
+322 -26 1170
+401 -26 1171
+1879 -26 1172
+3209 -26 -22
+16 -22 1174
+729 1175 1179
+2067 1176 1177
+4 -21 -16
+12 1178 -26
+626 -26 -22
+434 1180 1184
+669 -26 1181
+12 1182 -16
+37 -16 1183
+224 -16 -22
+635 1185 1191
+1189 -15 1186
+9 1187 1189
+7 1188 -22
+1 -9 -22
+17 -16 1190
+194 -16 -22
+491 1192 1195
+7 -22 -22
+1 -26 -15
+11 -22 -15
+37 1196 1197
+244 -15 -22
+77 -22 1198
+625 -22 1199
+1240 -22 -15
+744 1201 1208
+233 1202 1204
+522 -22 1203
+625 -22 -26
+4 1205 -22
+728 -26 1206
+729 -16 1207
+7 -26 -16
+234 1209 1215
+1085 -26 1210
+801 -16 1211
+29 -9 1212
+220 -9 1213
+476 -26 1214
+743 -26 -22
+279 -22 -22
+15 1217 -15
+1736 -15 -22
+512 1219 1220
+1 -15 -18
+86 1221 1222
+7 -22 -26
+335 1223 1225
+5 -15 1224
+677 -26 -16
+17 1226 1228
+729 -16 1227
+224 -16 -22
+731 -23 1229
+728 -22 1230
+87 -22 1231
+691 -22 -16
+133 1233 1238
+2065 -29 1234
+132 1235 1236
+65 -7 -11
+580 1237 -11
+299 -20 -11
+51 1239 1370
+978 1240 1250
+8 1241 1248
+317 -7 1242
+299 -4 1243
+122 1244 1246
+4 1245 -4
+12 -4 -4
+241 1247 -4
+4 -4 -4
+434 1249 -7
+12 -7 -14
+65 1251 1336
+500 1252 1253
+9 -9 -9
+2002 1254 1256
+7 1255 -28
+241 -7 -28
+8 1257 1304
+2112 -4 1258
+1 1259 1288
+244 1260 1261
+4 -7 -11
+77 -4 1262
+252 -4 1263
+626 -4 1264
+1800 -11 1265
+472 1266 1267
+4 -7 -7
+959 -4 1268
+1061 -4 1269
+241 1270 1274
+4 1271 1273
+12 1272 -7
+50 -7 -7
+1504 -7 -7
+537 -4 1275
+64 1276 1277
+1242 -14 -7
+20 1278 -14
+104 -14 1279
+747 -14 1280
+1882 -14 1281
+4 1282 -7
+122 -14 1283
+434 -7 1284
+12 1285 -7
+299 -14 1286
+257 -7 1287
+259 -7 -7
+1668 1289 1291
+122 -14 1290
+434 -7 -11
+2348 1292 1293
+241 -14 -14
+3144 1294 1295
+259 -14 -14
+922 -14 1296
+2099 -14 1297
+1009 -7 1298
+407 -14 1299
+3012 -14 1300
+2240 1301 1302
+434 -7 -14
+122 1303 -7
+4 -7 -7
+243 1305 1306
+1177 -11 -12
+15 1307 1331
+1142 -21 1308
+234 1309 1310
+241 -11 -7
+977 1311 1312
+1144 -14 -7
+191 1313 1314
+553 -7 -14
+295 1315 1317
+7 1316 -14
+431 -14 -7
+244 -14 1318
+723 -14 1319
+1639 -14 1320
+2971 -14 1321
+3509 -14 1322
+7 1323 1329
+594 -14 1324
+235 1325 -7
+747 -14 1326
+434 1327 1328
+230 -14 -7
+2356 -14 -7
+122 1330 -7
+476 -14 -7
+1 -7 -7
+52 -28 1333
+122 -7 -14
+9 -12 1335
+50 -7 -12
+7 1337 1359
+279 1338 1346
+1144 -14 1339
+1668 -11 1340
+3535 -11 1341
+1729 -4 1342
+20 1343 -4
+1715 -4 1344
+2041 -4 1345
+2480 -4 -7
+1668 1347 1349
+138 1348 -11
+914 -11 -7
+4142 -7 -7
+348 1351 1352
+59 -29 -7
+480 -14 1353
+1103 -14 1354
+221 1355 1357
+922 -14 1356
+2150 -14 -7
+2850 -14 1358
+5 -7 -7
+184 1360 1362
+4 -12 -12
+5 -11 -12
+2002 -28 1363
+16 -7 1364
+17 1365 1366
+15 -21 -14
+59 1367 1369
+4 1368 -12
+9 -7 -21
+690 -12 -7
+49 1371 1392
+86 1372 1376
+7 1373 1375
+48 -6 1374
+561 -12 -27
+37 -6 -12
+52 1377 1381
+1 1378 1379
+9 -16 -6
+77 -15 1380
+235 -9 -21
+8 1382 1385
+4104 -12 1383
+960 1384 -6
+12 -6 -6
+183 1386 1388
+5 -12 1387
+1 -17 -6
+1960 -6 -6
+28 -9 1390
+5 -2 1391
+224 -2 -6
+509 -19 1393
+184 1394 1417
+599 -20 1395
+138 -12 -12
+15 -12 1397
+102 -3 1398
+185 -12 1399
+89 -12 1400
+336 -12 -2
+281 1402 1405
+4 -12 1403
+15 1404 -12
+65 -1 -22
+845 -21 1406
+314 1407 1409
+1 -21 1408
+241 -12 -3
+1526 1410 1412
+259 -3 1411
+77 -3 -12
+446 -3 1413
+1699 -3 1414
+4523 -3 1415
+1188 1416 -12
+28 -9 -12
+53 1418 1541
+16 1419 1421
+208 -31 1420
+558 -3 -12
+55 1422 1450
+259 1423 1424
+52 -21 -3
+730 -12 1425
+154 -12 1426
+409 -3 1427
+226 -3 1428
+279 1429 1431
+95 -16 1430
+17 -21 -25
+281 -1 1432
+1617 -25 1433
+434 -21 1434
+38 -21 1435
+2046 -21 1436
+2821 -21 1437
+124 -3 1438
+217 -3 1439
+313 -3 1440
+428 -3 1441
+1143 -21 -21
+221 -21 1443
+67 1444 1447
+5 -21 1445
+29 -21 1446
+236 -21 -3
+5 -3 1448
+299 -3 1449
+944 -3 -21
+226 1451 1461
+124 -3 -3
+15 -12 1453
+122 -21 1454
+1013 -21 1455
+17 -3 1456
+65 1457 -3
+12 1458 -12
+47 -3 1459
+9 1460 -12
+77 -12 -3
+1177 -12 1462
+17 1463 1490
+473 1464 1466
+472 -12 1465
+407 -12 -15
+518 -12 -12
+1 1468 1488
+260 1469 1470
+235 -15 -21
+244 1471 1472
+9 -9 -3
+9 1473 1487
+4 1474 -12
+65 1475 1483
+95 1476 1477
+259 -21 -3
+235 -3 1478
+431 -3 1479
+223 -21 1480
+15 -12 1481
+124 -12 1482
+550 -12 -21
+66 -3 1484
+221 1485 -12
+52 1486 -12
+67 -21 -12
+355 -9 -21
+78 -3 1489
+241 -15 -12
+185 1491 1492
+65 -15 -16
+15 1493 1511
+1130 1494 1509
+2096 1495 1496
+257 -9 -3
+259 -21 1497
+257 1498 1499
+669 -3 -21
+505 -9 1500
+23 1501 1502
+5 -12 -21
+4 1503 1508
+260 -21 1504
+85 -21 1505
+241 1506 -12
+1 1507 -21
+44 -21 -12
+260 -12 -21
+1 1510 -12
+65 -3 -15
+1 1512 1536
+948 -21 1513
+4054 -21 1514
+81 1515 1516
+77 -12 -3
+1143 1517 1518
+4 -3 -21
+12 1519 -3
+161 -3 1520
+314 -3 1521
+436 1522 1523
+5 -3 -12
+110 1524 1525
+70 -3 -12
+472 1526 1529
+4 1527 -21
+67 1528 -21
+506 -21 -12
+295 -21 1530
+430 -21 1531
+620 -21 1532
+122 1533 1535
+52 1534 -21
+374 -21 -12
+651 -12 -12
+259 -2 1537
+52 1538 -21
+221 -21 1539
+651 -21 1540
+70 -21 -12
+208 1542 1552
+228 -13 1543
+207 -13 1544
+1 1545 1546
+4 -13 -7
+3160 1547 1550
+1815 -14 1548
+12 1549 -7
+4 -14 -7
+1817 1551 -7
+1176 -12 -7
+281 1553 1631
+895 1554 1560
+8 1555 1558
+1183 -2 1556
+2356 1557 -1
+241 -1 -1
+37 1559 -9
+11 -1 -3
+1233 1561 1570
+65 1562 1568
+472 1563 -1
+8 1564 -2
+1279 -2 1565
+1330 -1 1566
+4 1567 -1
+11 -1 -1
+37 -3 1569
+7 -2 -5
+1738 -1 1571
+348 -2 1572
+8 1573 1614
+1706 1574 1576
+3893 -1 1575
+20 -2 -1
+1321 1577 1578
+59 -3 -1
+896 -1 1579
+1348 1580 1581
+59 -3 -1
+1 1582 1596
+1972 1583 1585
+4 1584 -2
+106 -1 -1
+3608 -1 1586
+1719 1587 1588
+65 -1 -14
+1739 -1 1589
+407 1590 1591
+4 -1 -2
+1173 -24 1592
+2243 -2 1593
+4206 -2 1594
+2460 -1 1595
+4032 -1 -3
+1234 -1 1597
+1292 -1 1598
+3328 -1 1599
+1905 -1 1600
+1470 1601 1606
+3263 -1 1602
+2380 -3 1603
+2412 -3 1604
+3025 -3 1605
+4 -3 -3
+1565 1607 1608
+4 -3 -3
+914 -10 1609
+2555 -2 1610
+744 1611 1612
+1155 -24 -3
+1385 1613 -3
+12 -3 -3
+37 1615 1623
+60 -3 1616
+252 -9 1617
+1292 -1 1618
+1348 -3 -3
+36 -3 1620
+138 -1 1621
+1 -1 1622
+7 -1 -3
+138 -2 1624
+7 1625 1626
+434 -2 -1
+85 -1 1627
+27 -2 1628
+116 -2 1629
+147 -2 1630
+193 -2 -3
+599 1632 1637
+59 1633 1635
+1 -7 1634
+675 -20 -20
+7 1636 -9
+1219 -7 -20
+1257 -27 1638
+27 1639 1645
+221 1640 1641
+7 -18 -3
+65 1642 -2
+64 -9 1643
+70 -2 -2
+530 -9 -2
+138 1646 1663
+37 1647 1650
+316 -12 1648
+336 -9 1649
+961 -7 -3
+1527 -25 1651
+430 -2 1652
+473 1653 1654
+559 -26 -2
+408 1655 1656
+12 -2 -9
+117 -2 1657
+435 -3 -3
+147 -2 1659
+355 1660 1661
+17 -26 -2
+382 -21 1662
+828 -10 -3
+399 1664 1665
+959 -9 -2
+430 1666 1670
+491 -21 1667
+1138 1668 1669
+17 -15 -22
+860 -9 -2
+260 1671 1677
+16 1672 1673
+5 -12 -3
+15 1674 1675
+299 -9 -2
+104 -15 1676
+9 -2 -12
+491 1678 1689
+2003 -21 1679
+15 1680 1681
+553 -21 -3
+299 -3 1682
+295 -21 1683
+11 1684 -9
+425 -9 1685
+4 1686 -12
+5 -12 1687
+40 -12 1688
+154 -12 -3
+353 -15 1690
+7 -3 -3
+59 1692 1696
+961 1693 1694
+3048 -24 -7
+3171 -24 1695
+910 -21 -3
+16 1697 1730
+1143 1698 1701
+434 1699 -3
+11 1700 -31
+230 -3 -3
+65 1702 1722
+300 1703 1705
+64 -9 1704
+244 -12 -3
+426 -9 1706
+592 -2 1707
+4773 -2 1708
+1301 1709 1711
+67 -3 1710
+122 -3 -3
+1528 1712 1714
+4 1713 -3
+1 -3 -3
+1065 1715 1716
+12 -3 -3
+2616 1717 1718
+252 -12 -3
+961 1719 1720
+299 -28 -3
+959 1721 -3
+370 -12 -3
+4 1723 1729
+961 1724 1725
+5 -27 -3
+5 1726 -3
+12 1727 -3
+1 1728 -3
+23 -3 -3
+12 -3 -28
+239 1731 1733
+37 -5 1732
+1 -18 -21
+54 -24 1734
+117 -21 1735
+765 -2 1736
+961 -2 -3
+147 -2 1738
+473 1739 1740
+1 -15 -22
+515 1741 1749
+3944 -9 1742
+431 1743 1745
+9 -3 1744
+1 -7 -9
+2018 -10 1746
+928 -9 1747
+407 1748 -3
+1 -3 -9
+408 1750 1751
+4 -2 -9
+345 1752 1756
+355 -12 1753
+2961 -21 1754
+67 1755 -9
+101 -9 -3
+23 1757 1764
+65 1758 1761
+176 -12 1759
+54 -21 1760
+102 -21 -3
+116 -2 1762
+111 1763 -3
+4 -10 -3
+1412 1765 1767
+36 -3 1766
+70 -12 -3
+2130 1768 1769
+9 -3 -10
+435 -15 1770
+817 -15 1771
+1897 -9 1772
+4142 -9 1773
+46 1774 1776
+303 -9 1775
+311 -9 -3
+750 1777 1778
+363 -9 -3
+340 1779 1780
+482 -9 -3
+220 1781 1782
+15 -3 -12
+469 1783 1784
+244 -12 -3
+272 1785 1786
+122 -12 -3
+44 1787 -3
+15 -3 -12

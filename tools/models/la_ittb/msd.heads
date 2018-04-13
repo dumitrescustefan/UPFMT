@@ -1,0 +1,985 @@
+ADV	_
+ADP	AdpType=Prep
+NOUN	Case=Acc	Degree=Pos	Gender=Masc	Number=Sing
+VERB	Case=Gen	Degree=Pos	Number=Sing	VerbForm=Ger	Voice=Act
+PUNCT	_
+DET	Case=Nom	Degree=Pos	Gender=Neut	Number=Sing	PronType=Ind
+NOUN	Case=Nom	Degree=Pos	Gender=Neut	Number=Sing
+NOUN	Case=Abl	Degree=Pos	Gender=Masc	Number=Sing
+VERB	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+NOUN	Case=Abl	Degree=Pos	Gender=Neut	Number=Sing
+NOUN	Case=Acc	Degree=Pos	Gender=Fem	Number=Plur
+VERB	Mood=Ind	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Abl	Degree=Pos	Gender=Masc	Number=Sing	PronType=Dem,Prs
+PRON	Case=Abl	Degree=Pos	Gender=Masc	Number=Sing	PronType=Rel
+NOUN	Case=Nom	Degree=Pos	Gender=Masc	Number=Sing
+CCONJ	_
+DET	Case=Nom	Degree=Pos	Gender=Masc	Number=Sing	Poss=Yes	PronType=Prs
+NOUN	Case=Abl	Degree=Pos	Gender=Masc	Number=Plur
+NOUN	Case=Acc	Degree=Pos	Gender=Neut	Number=Sing
+VERB	Case=Nom	Degree=Pos	Gender=Masc	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+PRON	Case=Acc	Degree=Pos	Gender=Masc	Number=Sing	PronType=Dem
+PRON	Case=Nom	Degree=Pos	Gender=Masc	Number=Sing	PronType=Rel
+NOUN	Case=Abl	Degree=Pos	Gender=Fem	Number=Plur
+ADJ	Case=Abl	Degree=Pos	Gender=Fem	Number=Plur
+VERB	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Pass
+PRON	Case=Abl	Degree=Pos	Gender=Fem	Number=Plur	PronType=Rel
+PRON	Case=Nom	Degree=Pos	Gender=Neut	Number=Sing	PronType=Ind
+AUX	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+NOUN	Case=Nom	Degree=Pos	Gender=Fem	Number=Sing
+VERB	Case=Nom	Degree=Pos	Gender=Neut	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+NOUN	Case=Acc	Degree=Pos	Gender=Fem	Number=Sing
+NOUN	Case=Gen	Degree=Pos	Gender=Fem	Number=Sing
+ADJ	Case=Loc	Degree=Pos	Number=Sing
+PRON	Case=Abl	Degree=Pos	Gender=Fem	Number=Plur	PronType=Dem
+AUX	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Pass
+ADJ	Case=Nom	Degree=Pos	Gender=Fem	Number=Sing
+ADJ	Case=Nom	Degree=Pos	Gender=Neut	Number=Sing
+PRON	Case=Acc	Degree=Pos	Gender=Neut	Number=Sing	PronType=Ind,Rel
+SCONJ	_
+ADJ	Case=Acc	Degree=Pos	Gender=Neut	Number=Sing
+NOUN	Case=Abl	Degree=Pos	Gender=Fem	Number=Sing
+PRON	Case=Acc	Degree=Pos	Gender=Neut	Number=Sing	PronType=Rel
+PRON	Case=Nom	Degree=Pos	Gender=Neut	Number=Sing	PronType=Rel
+PRON	Case=Abl	Degree=Pos	Gender=Neut	Number=Sing	PronType=Rel
+DET	Case=Abl	Degree=Pos	Gender=Neut	Number=Sing	PronType=Ind
+PRON	Case=Abl	Degree=Pos	Gender=Masc	Number=Plur	PronType=Prs
+VERB	Aspect=Perf	Case=Abl	Degree=Pos	Gender=Neut	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+PRON	Case=Nom	Degree=Pos	Gender=Fem	Number=Sing	PronType=Rel
+PROPN	Case=Dat	Degree=Pos	Gender=Masc	Number=Sing
+VERB	Aspect=Perf	Case=Nom	Degree=Pos	Gender=Fem	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+PRON	Case=Abl	Degree=Pos	Gender=Masc	Number=Sing	PronType=Ind
+VERB	Case=Abl	Degree=Pos	Gender=Masc	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+VERB	Mood=Sub	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+NOUN	Case=Gen	Degree=Pos	Gender=Neut	Number=Sing
+PRON	Case=Acc	Degree=Pos	Gender=Neut	Number=Sing	PronType=Dem
+VERB	Case=Loc	Degree=Pos	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+PRON	Case=Acc	Degree=Pos	Gender=Neut	Number=Sing	PronType=Dem,Prs
+VERB	Case=Acc	Degree=Pos	Number=Sing	VerbForm=Ger	Voice=Act
+VERB	Mood=Ind	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	VerbType=Mod	Voice=Act
+PROPN	Case=Nom	Degree=Pos	Gender=Masc	Number=Sing
+NOUN	Case=Nom	Degree=Pos	Gender=Neut	Number=Plur
+VERB	Tense=Pres	VerbForm=Inf	Voice=Pass
+PROPN	Case=Abl	Degree=Pos	Gender=Masc	Number=Sing
+VERB	Aspect=Perf	Case=Nom	Degree=Pos	Gender=Fem	Number=Plur	Tense=Past	VerbForm=Part	Voice=Pass
+NOUN	Case=Nom	Degree=Pos	Gender=Fem	Number=Plur
+VERB	Mood=Ind	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Pass
+NOUN	Case=Acc	Degree=Pos	Gender=Neut	Number=Plur
+VERB	Aspect=Perf	Case=Acc	Degree=Pos	Gender=Neut	Number=Plur	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	VerbType=Mod	Voice=Act
+PROPN	Case=Acc	Degree=Pos	Gender=Masc	Number=Sing
+ADJ	Case=Acc	Degree=Pos	Gender=Masc	Number=Sing
+PRON	Case=Gen	Degree=Pos	Gender=Masc	Number=Sing	PronType=Dem,Prs
+PRON	Case=Acc	Degree=Pos	Gender=Neut	Number=Plur	PronType=Ind
+ADJ	Case=Nom	Degree=Pos	Gender=Fem	Number=Sing	NumType=Ord
+VERB	Tense=Pres	VerbForm=Inf	Voice=Act
+VERB	Mood=Ind	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin	VerbType=Mod	Voice=Act
+PRON	Case=Nom	Degree=Pos	Gender=Neut	Number=Sing	PronType=Ind,Int
+PRON	Case=Loc	Degree=Pos	Number=Sing	PronType=Int,Rel
+PRON	Case=Nom	Degree=Pos	Gender=Neut	Number=Plur	PronType=Ind
+PRON	Case=Acc	Degree=Pos	Gender=Neut	Number=Plur	PronType=Prs	Reflex=Yes
+VERB	Mood=Sub	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Acc	Degree=Pos	Gender=Masc	Number=Sing	PronType=Dem,Prs
+VERB	Aspect=Perf	Case=Abl	Degree=Pos	Gender=Neut	Number=Plur	Tense=Past	VerbForm=Part	Voice=Pass
+NOUN	Case=Gen	Degree=Pos	Gender=Neut	Number=Plur
+ADJ	Case=Gen	Degree=Pos	Gender=Neut	Number=Plur
+ADJ	Case=Dat	Degree=Pos	Gender=Fem	Number=Sing
+NOUN	Case=Dat	Degree=Pos	Gender=Fem	Number=Sing
+VERB	Mood=Ind	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+ADJ	Case=Nom	Degree=Cmp	Gender=Neut	Number=Plur
+VERB	Aspect=Perf	Case=Nom	Degree=Pos	Gender=Neut	Number=Plur	Tense=Past	VerbForm=Part	Voice=Pass
+DET	Case=Acc	Degree=Pos	Gender=Fem	Number=Plur	PronType=Ind
+PRON	Case=Abl	Degree=Pos	Gender=Fem	Number=Plur	PronType=Ind
+VERB	Aspect=Perf	Case=Acc	Degree=Pos	Gender=Fem	Number=Plur	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=1	Tense=Past	VerbForm=Fin	Voice=Act
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=1	Tense=Past	VerbForm=Fin	Voice=Act
+NOUN	Case=Nom	Degree=Pos	Gender=Masc	Number=Plur
+DET	Case=Abl	Degree=Pos	Gender=Fem	Number=Plur	Poss=Yes	PronType=Prs
+PRON	Case=Nom	Degree=Pos	Gender=Masc	Number=Plur	PronType=Rel
+VERB	Aspect=Imp	Mood=Sub	Number=Sing	Person=3	Tense=Imp	VerbForm=Fin	Voice=Act
+NOUN	Case=Gen	Degree=Pos	Gender=Masc	Number=Sing
+PRON	Case=Acc	Degree=Pos	Gender=Fem	Number=Sing	PronType=Dem,Prs
+PRON	Case=Dat	Degree=Pos	Gender=Masc	Number=Sing	PronType=Prs	Reflex=Yes
+PRON	Case=Abl	Degree=Pos	Gender=Fem	Number=Sing	PronType=Dem
+ADJ	Case=Nom	Degree=Pos	Gender=Masc	Number=Sing
+PRON	Case=Acc	Degree=Pos	Gender=Fem	Number=Sing	PronType=Rel
+NOUN	Case=Dat	Degree=Pos	Gender=Masc	Number=Sing
+ADJ	Case=Acc	Degree=Pos	Gender=Masc	Number=Plur
+PRON	Case=Acc	Degree=Pos	Gender=Masc	Number=Plur	PronType=Ind
+NOUN	Case=Acc	Degree=Pos	Gender=Masc	Number=Plur
+NOUN	Case=Abl	Degree=Cmp	Gender=Neut	Number=Plur
+NOUN	Case=Abl	Degree=Pos	Gender=Neut	Number=Plur
+PRON	Case=Nom	Degree=Pos	Gender=Neut	Number=Plur	PronType=Rel
+AUX	Mood=Ind	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+ADJ	Case=Nom	Degree=Pos	Gender=Fem	Number=Plur
+NUM	Case=Acc	Degree=Pos	Gender=Fem	Number=Sing	NumType=Card
+DET	Case=Gen	Degree=Pos	Gender=Neut	Number=Plur	PronType=Ind
+PRON	Case=Nom	Degree=Pos	Gender=Fem	Number=Plur	PronType=Rel
+NOUN	Case=Dat	Degree=Pos	Gender=Fem	Number=Plur
+PRON	Case=Dat	Degree=Pos	Gender=Fem	Number=Plur	PronType=Ind
+ADJ	Case=Acc	Degree=Pos	Gender=Fem	Number=Plur
+ADJ	_
+DET	Case=Abl	Degree=Pos	Gender=Fem	Number=Sing	Poss=Yes	PronType=Prs
+PRON	Case=Dat	Degree=Pos	Gender=Masc	Number=Sing	PronType=Dem,Prs
+PRON	Case=Nom	Gender=Neut	Number=Sing	PronType=Neg
+VERB	Mood=Sub	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	VerbType=Mod	Voice=Act
+VERB	Aspect=Perf	Case=Nom	Degree=Pos	Gender=Neut	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+ADJ	Case=Nom	Degree=Pos	Gender=Masc	Number=Plur
+AUX	Mood=Ind	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Abl	Degree=Pos	Gender=Fem	Number=Sing	PronType=Rel
+PRON	Case=Acc	Degree=Pos	Gender=Masc	Number=Plur	PronType=Prs
+PRON	Case=Abl	Degree=Pos	Gender=Fem	Number=Sing	PronType=Ind
+VERB	Mood=Ind	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin	Voice=Pass
+VERB	Aspect=Perf	Mood=Sub	Number=Sing	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+VERB	Aspect=Perf	Case=Nom	Degree=Pos	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+PRON	Case=Acc	Degree=Pos	Gender=Masc	Number=Sing	PronType=Rel
+NOUN	Case=Acc	Gender=Neut	Number=Sing
+PRON	Case=Nom	Degree=Pos	Gender=Fem	Number=Plur	PronType=Ind
+PRON	Case=Gen	Degree=Pos	Gender=Masc	Number=Sing	PronType=Dem
+ADJ	Case=Abl	Degree=Pos	Gender=Fem	Number=Sing
+DET	Case=Acc	Degree=Pos	Gender=Neut	Number=Plur	PronType=Ind
+PRON	Case=Acc	Degree=Pos	Gender=Neut	Number=Plur	PronType=Rel
+ADJ	Case=Acc	Degree=Pos	Gender=Neut	Number=Plur
+AUX	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	Tense=Fut	VerbForm=Fin	Voice=Act
+NOUN	Case=Nom	Degree=Cmp	Gender=Masc	Number=Sing
+PRON	Case=Abl	Degree=Pos	Gender=Neut	Number=Sing	PronType=Ind
+NUM	Case=Abl	Degree=Pos	Gender=Neut	Number=Sing	NumType=Card
+ADJ	Case=Acc	Degree=Cmp	Gender=Neut	Number=Plur
+VERB	Case=Acc	Degree=Pos	Gender=Neut	Number=Plur	VerbForm=Gdv	Voice=Pass
+PRON	Case=Acc	Degree=Pos	Gender=Neut	Number=Plur	PronType=Dem
+NUM	Case=Acc	Degree=Pos	Gender=Neut	Number=Sing	NumType=Card
+DET	Case=Acc	Degree=Pos	Gender=Neut	Number=Sing	Poss=Yes	PronType=Prs
+ADJ	Case=Acc	Degree=Pos	Gender=Fem	Number=Sing
+ADJ	Case=Acc	Degree=Cmp	Gender=Fem	Number=Sing
+VERB	Case=Abl	Degree=Pos	Number=Sing	VerbForm=Ger	Voice=Act
+PRON	Case=Abl	Degree=Pos	Gender=Neut	Number=Plur	PronType=Rel
+ADJ	Case=Nom	Degree=Pos	Gender=Neut	Number=Plur
+AUX	Mood=Sub	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+AUX	Mood=Ind	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Pass
+VERB	Aspect=Imp	Mood=Sub	Number=Plur	Person=1	Tense=Imp	VerbForm=Fin	VerbType=Mod	Voice=Act
+PRON	Case=Dat	Degree=Pos	Gender=Fem	Number=Sing	PronType=Dem,Prs
+VERB	Aspect=Imp	Mood=Sub	Number=Plur	Person=1	Tense=Imp	VerbForm=Fin	Voice=Act
+PRON	Case=Dat	Degree=Pos	Gender=Masc	Number=Plur	PronType=Dem
+VERB	Mood=Ind	Number=Plur	Person=3	Tense=Fut	VerbForm=Fin	Voice=Act
+X	Abbr=Yes
+AUX	Mood=Ind	Number=Sing	Person=3	Tense=Fut	VerbForm=Fin	Voice=Act
+NUM	Case=Nom	Degree=Pos	Gender=Masc	Number=Sing	NumType=Card
+NUM	Case=Nom	Degree=Pos	Gender=Neut	Number=Sing	NumType=Card
+PRON	Case=Abl	Degree=Pos	Gender=Neut	Number=Plur	PronType=Dem
+VERB	Aspect=Perf	Case=Acc	Degree=Pos	Gender=Neut	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+NOUN	Case=Gen	Degree=Pos	Gender=Fem	Number=Plur
+PRON	Case=Gen	Degree=Pos	Gender=Fem	Number=Plur	PronType=Rel
+ADJ	Case=Gen	Degree=Pos	Gender=Fem	Number=Sing
+VERB	Aspect=Perf	Case=Loc	Degree=Pos	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+ADJ	Case=Loc	Degree=Cmp	Number=Sing
+PRON	Case=Nom	Degree=Pos	Gender=Masc	Number=Sing	PronType=Ind
+VERB	Mood=Ind	Number=Sing	Person=3	Tense=Fut	VerbForm=Fin	Voice=Pass
+VERB	Aspect=Imp	Mood=Sub	Number=Plur	Person=3	Tense=Imp	VerbForm=Fin	Voice=Pass
+PRON	Case=Nom	Degree=Pos	Gender=Neut	Number=Sing	PronType=Dem,Prs
+VERB	Case=Nom	Gender=Neut	Number=Sing
+PRON	Case=Acc	Degree=Pos	Gender=Neut	Number=Sing	PronType=Ind
+ADJ	Case=Abl	Degree=Cmp	Gender=Neut	Number=Plur
+PRON	Case=Acc	Gender=Neut	Number=Sing	PronType=Neg
+PRON	Case=Gen	Degree=Pos	Gender=Neut	Number=Plur	PronType=Dem
+ADJ	Case=Acc	Degree=Cmp	Gender=Neut	Number=Sing
+ADJ	Case=Nom	Degree=Cmp	Gender=Neut	Number=Sing
+AUX	Tense=Pres	VerbForm=Inf	Voice=Act
+PRON	Case=Dat	Degree=Pos	Gender=Neut	Number=Sing	PronType=Ind
+PRON	Case=Gen	Degree=Pos	Gender=Neut	Number=Plur	PronType=Dem,Prs
+VERB	Aspect=Perf	Case=Gen	Degree=Pos	Gender=Neut	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+DET	Case=Acc	Degree=Pos	Gender=Masc	Number=Sing	PronType=Ind
+PRON	Case=Abl	Degree=Pos	Gender=Neut	Number=Plur	PronType=Ind
+ADJ	Case=Acc	Degree=Cmp	Gender=Neut	Number=Sing	NumType=Ord
+ADJ	Case=Nom	Degree=Cmp	Gender=Neut	Number=Sing	NumType=Ord
+ADJ	Case=Gen	Degree=Cmp	Gender=Neut	Number=Sing
+VERB	Aspect=Imp	Mood=Sub	Number=Sing	Person=3	Tense=Imp	VerbForm=Fin	Voice=Pass
+DET	Case=Nom	Degree=Pos	Gender=Neut	Number=Plur	PronType=Ind
+VERB	Mood=Sub	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Pass
+PRON	Case=Nom	Degree=Pos	Gender=Fem	Number=Sing	PronType=Dem,Prs
+AUX	Mood=Sub	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Nom	Degree=Pos	Gender=Neut	Number=Sing	PronType=Ind,Rel
+PRON	Case=Nom	Degree=Pos	Gender=Neut	Number=Plur	PronType=Dem,Prs
+NUM	Case=Gen	Degree=Pos	Gender=Neut	Number=Sing	NumType=Card
+ADJ	Case=Dat	Degree=Pos	Gender=Fem	Number=Plur
+NUM	Case=Dat	Degree=Pos	Gender=Masc	Number=Sing	NumType=Card
+PRON	Case=Nom	Degree=Pos	Gender=Fem	Number=Sing	PronType=Ind
+PRON	Case=Gen	Degree=Pos	Gender=Neut	Number=Sing	PronType=Ind
+VERB	Aspect=Imp	Mood=Sub	Number=Sing	Person=3	Tense=Imp	VerbForm=Fin	VerbType=Mod	Voice=Act
+PRON	Case=Gen	Degree=Pos	Gender=Neut	Number=Sing	PronType=Rel
+DET	Case=Abl	Degree=Pos	Gender=Masc	Number=Plur	PronType=Ind
+VERB	Case=Abl	Degree=Pos	Gender=Masc	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Pass
+ADJ	Case=Abl	Degree=Pos	Gender=Neut	Number=Plur
+PRON	Case=Abl	Degree=Pos	Gender=Neut	Number=Sing	PronType=Dem,Prs
+VERB	Mood=Sub	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Dat	Degree=Pos	Gender=Masc	Number=Plur	PronType=Prs
+VERB	Mood=Sub	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Pass
+PRON	Case=Abl	Degree=Pos	Gender=Fem	Number=Sing	PronType=Dem,Prs
+AUX	Mood=Sub	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Pass
+ADJ	Case=Gen	Degree=Pos	Gender=Fem	Number=Plur
+VERB	Mood=Ind	Number=Sing	Person=3	Tense=Fut	VerbForm=Fin	Voice=Act
+ADJ	Case=Gen	Degree=Pos	Gender=Neut	Number=Sing
+PRON	Case=Nom	Degree=Pos	Gender=Neut	Number=Sing	PronType=Dem
+NUM	Case=Abl	Degree=Pos	Gender=Masc	Number=Sing	NumType=Card
+PRON	Case=Gen	Degree=Pos	Gender=Fem	Number=Sing	PronType=Dem,Prs
+VERB	Case=Nom	Degree=Pos	Gender=Neut	Number=Sing
+NUM	Case=Gen	Degree=Pos	Gender=Neut	Number=Plur	NumType=Card
+ADJ	Case=Acc	Degree=Pos	Gender=Neut	Number=Sing	NumType=Ord
+ADJ	Case=Acc	Degree=Pos	Gender=Masc	Number=Sing	NumType=Ord
+ADJ	Case=Abl	Degree=Pos	Gender=Masc	Number=Sing	NumType=Ord
+PRON	Case=Nom	Degree=Pos	Gender=Masc	Number=Sing	PronType=Dem,Prs
+ADJ	Case=Nom	Degree=Cmp	Gender=Fem	Number=Sing	NumType=Ord
+PRON	Case=Acc	Degree=Pos	Gender=Fem	Number=Sing	PronType=Dem
+PROPN	Case=Gen	Degree=Pos	Gender=Masc	Number=Sing
+VERB	Aspect=Perf	Case=Gen	Degree=Pos	Gender=Neut	Number=Plur	Tense=Past	VerbForm=Part	Voice=Pass
+DET	Case=Acc	Degree=Pos	Gender=Masc	Number=Sing	Poss=Yes	PronType=Prs
+DET	Case=Abl	Degree=Pos	Gender=Neut	Number=Plur	Poss=Yes	PronType=Prs
+NUM	Case=Dat	Degree=Pos	Gender=Fem	Number=Sing	NumType=Card
+NOUN	Case=Nom	Gender=Neut	Number=Sing
+PRON	Case=Dat	Degree=Pos	Gender=Neut	Number=Sing	PronType=Dem,Prs
+VERB	Mood=Sub	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	VerbType=Mod	Voice=Act
+PRON	Case=Acc	Degree=Pos	Gender=Neut	Number=Plur	PronType=Dem,Prs
+VERB	Aspect=Perf	Case=Acc	Degree=Pos	Gender=Fem	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+PRON	Case=Abl	Degree=Pos	Gender=Neut	Number=Sing	PronType=Dem
+ADJ	Case=Abl	Degree=Pos	Gender=Masc	Number=Sing
+DET	Case=Dat	Degree=Pos	Gender=Fem	Number=Plur	PronType=Ind
+PRON	Case=Dat	Degree=Pos	Gender=Fem	Number=Plur	PronType=Dem,Prs
+VERB	Aspect=Perf	Case=Dat	Degree=Pos	Gender=Fem	Number=Plur	Tense=Past	VerbForm=Part	Voice=Pass
+PRON	Case=Gen	Degree=Pos	Gender=Neut	Number=Sing	PronType=Dem,Prs
+VERB	Case=Acc	Degree=Pos	Gender=Masc	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+NUM	NumForm=Digit
+NOUN	Case=Gen	Degree=Pos	Gender=Masc	Number=Plur
+DET	Case=Acc	Degree=Pos	Gender=Fem	Number=Sing	Poss=Yes	PronType=Prs
+VERB	Case=Acc	Degree=Pos	Gender=Neut	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+ADJ	Case=Nom	Degree=Pos	Gender=Neut	Number=Sing	NumType=Ord
+PRON	Case=Gen	Degree=Pos	Gender=Neut	Number=Plur	PronType=Rel
+PRON	Case=Acc	Degree=Pos	Gender=Neut	Number=Sing	PronType=Prs	Reflex=Yes
+PRON	Case=Acc	Degree=Pos	Gender=Fem	Number=Sing	PronType=Ind
+ADJ	Case=Loc	Degree=Sup	Number=Sing
+PROPN	Case=Gen	Degree=Pos	Gender=Neut	Number=Plur
+NOUN	Case=Dat	Degree=Pos	Gender=Neut	Number=Sing
+NOUN	Case=Gen	Gender=Neut	Number=Sing
+PROPN	Case=Gen	Degree=Pos	Gender=Masc	Number=Plur
+PRON	Case=Gen	Degree=Pos	Gender=Neut	Number=Sing	PronType=Prs	Reflex=Yes
+PRON	Case=Nom	Degree=Pos	Gender=Fem	Number=Sing	PronType=Dem
+PRON	Case=Dat	Degree=Pos	Gender=Neut	Number=Plur	PronType=Ind
+PRON	Case=Loc	Degree=Pos	Number=Sing	PronType=Dem
+VERB	Case=Dat	Degree=Pos	Gender=Masc	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Act
+PRON	Case=Acc	Degree=Pos	Gender=Masc	Number=Sing	PronType=Prs	Reflex=Yes
+VERB	Case=Dat	Degree=Pos	Gender=Fem	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+DET	Case=Nom	Degree=Pos	Gender=Fem	Number=Sing	Poss=Yes	PronType=Prs
+DET	Case=Nom	Degree=Pos	Gender=Neut	Number=Sing	Poss=Yes	PronType=Prs
+DET	Case=Dat	Degree=Pos	Gender=Fem	Number=Sing	Poss=Yes	PronType=Prs
+PRON	Case=Nom	Degree=Pos	Gender=Masc	Number=Sing	PronType=Neg
+PRON	Case=Dat	Degree=Pos	Gender=Fem	Number=Sing	PronType=Ind
+DET	Case=Gen	Degree=Pos	Gender=Fem	Number=Sing	Poss=Yes	PronType=Prs
+PRON	Case=Acc	Degree=Pos	Gender=Fem	Number=Sing	PronType=Prs	Reflex=Yes
+PRON	Case=Gen	Degree=Pos	Gender=Fem	Number=Sing	PronType=Ind
+PRON	Case=Dat	Degree=Pos	Gender=Neut	Number=Sing	PronType=Prs	Reflex=Yes
+VERB	Aspect=Perf	Case=Abl	Degree=Pos	Gender=Fem	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+DET	Case=Abl	Degree=Pos	Gender=Neut	Number=Plur	PronType=Ind
+ADJ	Case=Gen	Degree=Pos	Gender=Masc	Number=Sing
+VERB	Aspect=Perf	Case=Abl	Degree=Pos	Gender=Fem	Number=Plur	Tense=Past	VerbForm=Part	Voice=Pass
+PROPN	Case=Nom	Degree=Pos	Gender=Fem	Number=Sing
+ADJ	Case=Abl	Degree=Pos	Gender=Fem	Number=Sing	NumType=Ord
+PROPN	_
+DET	Case=Gen	Degree=Pos	Gender=Neut	Number=Sing	PronType=Ind
+AUX	Mood=Ind	Number=Sing	Person=3	Tense=Fut	VerbForm=Fin	Voice=Pass
+ADJ	Case=Nom	Degree=Sup	Gender=Masc	Number=Sing
+PROPN	Case=Gen	Degree=Pos	Gender=Fem	Number=Sing
+PRON	Case=Nom	Degree=Pos	Gender=Masc	Number=Sing	PronType=Prs
+VERB	Mood=Ind	Number=Sing	Person=1	Tense=Fut	VerbForm=Fin	Voice=Act
+PRON	Case=Dat	Degree=Pos	Gender=Masc	Number=Sing	PronType=Prs
+DET	Case=Acc	Degree=Pos	Gender=Neut	Number=Sing	PronType=Ind
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+ADJ	Case=Dat	Degree=Pos	Gender=Neut	Number=Sing
+NUM	Case=Gen	Degree=Pos	Gender=Masc	Number=Sing	NumType=Card
+ADJ	Case=Nom	Degree=Sup	Gender=Neut	Number=Sing
+PRON	Case=Gen	Degree=Pos	Gender=Neut	Number=Plur	PronType=Ind
+ADJ	Case=Nom	Degree=Cmp	Gender=Fem	Number=Sing
+ADJ	Case=Abl	Degree=Pos	Gender=Neut	Number=Sing
+NOUN	Case=Nom	Degree=Cmp	Gender=Neut	Number=Sing
+NUM	Case=Acc	Degree=Pos	Gender=Masc	Number=Sing	NumType=Card
+NUM	Case=Nom	Degree=Pos	Gender=Neut	Number=Plur	NumType=Card
+PRON	Case=Dat	Degree=Pos	Gender=Masc	Number=Sing	PronType=Rel
+ADJ	Case=Nom	Degree=Cmp	Gender=Masc	Number=Plur
+PRON	Case=Dat	Degree=Pos	Gender=Masc	Number=Sing	PronType=Ind
+PRON	Case=Gen	Degree=Pos	Gender=Masc	Number=Plur	PronType=Dem,Prs
+ADJ	Case=Acc	Degree=Cmp	Gender=Masc	Number=Plur
+ADJ	Case=Gen	Degree=Pos	Gender=Neut	Number=Sing	NumType=Ord
+ADJ	Case=Abl	Degree=Cmp	Gender=Masc	Number=Plur
+DET	Case=Nom	Degree=Pos	Gender=Masc	Number=Plur	PronType=Ind
+PRON	Case=Acc	Degree=Pos	Gender=Masc	Number=Plur	PronType=Prs	Reflex=Yes
+NOUN	Case=Abl	Degree=Cmp	Gender=Masc	Number=Plur
+PRON	Case=Abl	Degree=Pos	Gender=Masc	Number=Plur	PronType=Rel
+VERB	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	VerbType=Mod	Voice=Pass
+ADJ	Case=Nom	Degree=Pos	Gender=Masc	Number=Sing	NumType=Ord
+PRON	Case=Dat	Degree=Pos	Gender=Fem	Number=Sing	PronType=Rel
+ADJ	Case=Acc	Degree=Sup	Gender=Neut	Number=Sing
+ADJ	Case=Gen	Degree=Pos	Gender=Masc	Number=Sing	NumType=Ord
+PRON	Case=Gen	Degree=Pos	Gender=Masc	Number=Sing	PronType=Ind
+VERB	Case=Abl	Degree=Pos	Gender=Neut	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Act
+VERB	Aspect=Imp	Mood=Sub	Number=Plur	Person=3	Tense=Imp	VerbForm=Fin	VerbType=Mod	Voice=Act
+PRON	Case=Abl	Degree=Pos	Gender=Masc	Number=Plur	PronType=Prs	Reflex=Yes
+DET	Case=Nom	Degree=Pos	Gender=Fem	Number=Plur	PronType=Ind
+NOUN	Case=Nom	Degree=Cmp	Gender=Neut	Number=Plur
+PRON	Case=Nom	Degree=Pos	Gender=Neut	Number=Plur	PronType=Dem
+ADJ	Case=Abl	Degree=Cmp	Gender=Fem	Number=Sing
+PRON	Case=Nom	Degree=Pos	Gender=Masc	Number=Sing	PronType=Dem
+DET	Case=Gen	Degree=Pos	Gender=Fem	Number=Plur	PronType=Ind
+NUM	Case=Dat	Degree=Pos	Gender=Neut	Number=Sing	NumType=Card
+PRON	Case=Gen	Degree=Pos	Gender=Neut	Number=Sing	PronType=Dem
+VERB	Mood=Ind	Number=Plur	Person=3	Tense=Fut	VerbForm=Fin	Voice=Pass
+AUX	Aspect=Imp	Mood=Sub	Number=Plur	Person=3	Tense=Imp	VerbForm=Fin	Voice=Act
+VERB	Case=Acc	Degree=Pos	Gender=Fem	Number=Sing	VerbForm=Gdv	Voice=Pass
+PRON	Case=Dat	Degree=Pos	Gender=Neut	Number=Sing	PronType=Ind,Rel
+NOUN	Case=Dat	Degree=Pos	Gender=Neut	Number=Plur
+VERB	Aspect=Perf	Case=Dat	Degree=Pos	Gender=Neut	Number=Plur	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Mood=Ind	Number=Plur	Person=3	Tense=Fut	VerbForm=Fin	VerbType=Mod	Voice=Act
+VERB	Case=Nom	Degree=Pos	Gender=Fem	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+NUM	Case=Acc	Degree=Pos	Gender=Neut	Number=Plur	NumType=Card
+ADJ	Case=Loc	Degree=Pos	Number=Sing	NumType=Ord
+NUM	Case=Nom	Degree=Pos	Gender=Masc	Number=Plur	NumType=Card
+VERB	Case=Gen	Degree=Pos	Gender=Masc	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Pass
+NUM	Case=Nom	Degree=Pos	Gender=Fem	Number=Sing	NumType=Card
+AUX	Mood=Ind	Number=Plur	Person=3	Tense=Fut	VerbForm=Fin	Voice=Act
+NUM	Case=Acc	Degree=Pos	Gender=Masc	Number=Plur	NumType=Card
+PRON	Case=Dat	Degree=Pos	Gender=Neut	Number=Sing	PronType=Dem
+VERB	Aspect=Perf	Case=Dat	Degree=Pos	Gender=Neut	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Case=Acc	Degree=Pos	Gender=Neut	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Pass
+DET	Case=Gen	Degree=Pos	Gender=Neut	Number=Sing	Poss=Yes	PronType=Prs
+PRON	Case=Abl	Degree=Pos	Gender=Masc	Number=Sing	PronType=Dem
+ADJ	Case=Dat	Degree=Cmp	Gender=Neut	Number=Plur
+NOUN	Case=Loc	Degree=Pos	Number=Sing
+VERB	Case=Gen	Degree=Pos	Gender=Fem	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Act
+VERB	Tense=Pres	VerbForm=Inf	VerbType=Mod	Voice=Act
+ADJ	Case=Nom	Degree=Sup	Gender=Fem	Number=Sing
+PRON	Case=Gen	Degree=Pos	Gender=Neut	Number=Plur	PronType=Ind,Rel
+VERB	Tense=Pres	VerbForm=Inf	VerbType=Mod	Voice=Pass
+AUX	Tense=Pres	VerbForm=Inf	Voice=Pass
+VERB	Mood=Imp	Number=Sing	Person=2	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Nom	Degree=Pos	Gender=Masc	Number=Plur	PronType=Ind
+PRON	Case=Acc	Degree=Pos	Gender=Masc	Number=Sing	PronType=Prs
+VERB	Case=Nom	Degree=Pos	Gender=Masc	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Pass
+VERB	Aspect=Imp	Mood=Sub	Number=Plur	Person=3	Tense=Imp	VerbForm=Fin	Voice=Act
+DET	Case=Acc	Degree=Pos	Gender=Masc	Number=Plur	PronType=Ind
+PRON	Case=Acc	Degree=Pos	Gender=Masc	Number=Plur	PronType=Rel
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Person=3	Tense=Imp	VerbForm=Fin	Voice=Act
+VERB	Aspect=Perf	Case=Acc	Degree=Pos	Gender=Masc	Number=Plur	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Case=Nom	Degree=Pos	Gender=Masc	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Act
+VERB	Case=Gen	Degree=Pos	Number=Sing	VerbForm=Ger	Voice=Pass
+PROPN	Case=Abl	Degree=Pos	Gender=Fem	Number=Sing
+PROPN	Case=Nom	Degree=Pos	Gender=Masc	Number=Plur
+NOUN	Case=Voc	Degree=Pos	Gender=Masc	Number=Sing
+AUX	Mood=Ind	Number=Plur	Person=2	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Dat	Degree=Pos	Gender=Fem	Number=Sing	PronType=Dem
+ADJ	Case=Acc	Degree=Pos	Gender=Neut	Number=Plur	NumType=Ord
+DET	Case=Abl	Degree=Pos	Gender=Masc	Number=Plur	Poss=Yes	PronType=Prs
+DET	Case=Abl	Degree=Pos	Gender=Masc	Number=Sing	Poss=Yes	PronType=Prs
+VERB	Case=Nom	Degree=Pos	Gender=Neut	Number=Sing	VerbForm=Gdv	Voice=Pass
+PRON	Case=Gen	Degree=Pos	Gender=Fem	Number=Sing	PronType=Dem
+PRON	Case=Abl	Degree=Pos	Gender=Neut	Number=Plur	PronType=Dem,Prs
+DET	Case=Nom	Degree=Pos	Gender=Masc	Number=Sing	PronType=Ind
+VERB	Case=Gen	Degree=Pos	Gender=Neut	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+AUX	Aspect=Imp	Mood=Sub	Number=Sing	Person=3	Tense=Imp	VerbForm=Fin	Voice=Act
+DET	Case=Abl	Degree=Pos	Gender=Fem	Number=Sing	PronType=Ind
+ADJ	Case=Abl	Degree=Pos	Gender=Masc	Number=Plur
+ADJ	Case=Acc	Degree=Sup	Gender=Fem	Number=Sing
+VERB	Aspect=Perf	Case=Acc	Degree=Pos	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Case=Acc	Degree=Pos	Gender=Masc	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Act
+ADJ	Case=Loc	Degree=Cmp	Number=Sing	NumType=Ord
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Tense=Imp	VerbForm=Fin	Voice=Act
+PRON	Case=Acc	Degree=Pos	Gender=Masc	Number=Plur	PronType=Dem,Prs
+AUX	Mood=Sub	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Pass
+AUX	Aspect=Perf	Mood=Sub	Number=Sing	Person=3	Tense=Pqp	VerbForm=Fin	Voice=Act
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+PRON	Case=Acc	Degree=Pos	Gender=Masc	Number=Sing	PronType=Ind
+ADJ	Case=Gen	Degree=Sup	Gender=Masc	Number=Plur
+VERB	Aspect=Perf	Case=Nom	Degree=Pos	Gender=Masc	Number=Plur	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Aspect=Perf	Case=Gen	Degree=Pos	Gender=Fem	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+PRON	Case=Acc	Degree=Pos	Gender=Masc	Number=Plur	PronType=Dem
+ADJ	Case=Abl	Degree=Pos	Gender=Neut	Number=Sing	NumType=Ord
+VERB	Case=Abl	Degree=Pos	Gender=Neut	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=3	Tense=Past	VerbForm=Fin	VerbType=Mod	Voice=Act
+VERB	Case=Gen	Degree=Pos	Gender=Neut	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Act
+VERB	Case=Nom	Degree=Pos	Gender=Neut	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Act
+VERB	Case=Acc	Degree=Pos	Gender=Fem	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+PRON	Case=Abl	Degree=Pos	Gender=Neut	Number=Sing	PronType=Prs	Reflex=Yes
+PRON	Case=Loc	Degree=Pos	Number=Sing	PronType=Ind
+PRON	Case=Abl	Degree=Pos	Gender=Neut	Number=Plur	PronType=Prs	Reflex=Yes
+PRON	Case=Dat	Degree=Pos	Gender=Neut	Number=Plur	PronType=Dem,Prs
+DET	Case=Dat	Degree=Pos	Gender=Neut	Number=Plur	PronType=Ind
+ADJ	Case=Nom	Degree=Cmp	Gender=Neut	Number=Plur	NumType=Ord
+VERB	Case=Nom	Degree=Pos	Gender=Fem	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Act
+PRON	Case=Acc	Degree=Pos	Gender=Fem	Number=Plur	PronType=Dem,Prs
+VERB	Case=Acc	Degree=Pos	Gender=Fem	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Act
+VERB	Case=Nom	Degree=Pos	Gender=Fem	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Pass
+AUX	Aspect=Perf	Case=Nom	Degree=Pos	Gender=Fem	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+PRON	Case=Abl	Degree=Pos	Gender=Masc	Number=Sing	PronType=Prs
+PROPN	Case=Acc	Degree=Pos	Gender=Masc	Number=Plur
+VERB	Case=Gen	Degree=Pos	Gender=Masc	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+DET	Case=Nom	Degree=Pos	Gender=Fem	Number=Sing	PronType=Ind
+PRON	Case=Abl	Degree=Pos	Gender=Masc	Number=Sing	PronType=Prs	Reflex=Yes
+NOUN	Case=Abl	Gender=Neut	Number=Sing
+PRON	Case=Acc	Degree=Pos	Gender=Fem	Number=Sing	PronType=Ind,Rel
+AUX	Case=Nom	Degree=Pos	Gender=Masc	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+NUM	Case=Abl	Degree=Pos	Gender=Neut	Number=Plur	NumType=Card
+VERB	Aspect=Perf	Case=Dat	Degree=Pos	Gender=Fem	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+NOUN	Case=Loc	Degree=Sup	Number=Sing
+PRON	Case=Gen	Degree=Pos	Gender=Fem	Number=Plur	PronType=Ind
+NOUN	Case=Nom	Degree=Cmp	Gender=Fem	Number=Sing
+NOUN	Case=Nom	Degree=Sup	Gender=Neut	Number=Sing
+NOUN	Case=Nom	Degree=Sup	Gender=Masc	Number=Sing
+PRON	Case=Acc	Degree=Pos	Gender=Fem	Number=Plur	PronType=Ind
+PRON	Case=Gen	Degree=Pos	Gender=Fem	Number=Sing	PronType=Rel
+ADJ	Case=Dat	Degree=Pos	Gender=Neut	Number=Plur
+PRON	Case=Gen	Degree=Pos	Gender=Masc	Number=Sing	PronType=Prs	Reflex=Yes
+ADJ	Case=Acc	Degree=Cmp	Gender=Fem	Number=Plur
+AUX	Aspect=Perf	Case=Acc	Degree=Pos	Gender=Neut	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+DET	Case=Abl	Degree=Pos	Gender=Neut	Number=Sing	Poss=Yes	PronType=Prs
+DET	Case=Gen	Degree=Pos	Gender=Masc	Number=Sing	PronType=Ind
+PRON	Case=Nom	Degree=Pos	Gender=Masc	Number=Sing	PronType=Ind,Rel
+PRON	Case=Acc	Degree=Pos	Gender=Fem	Number=Plur	PronType=Dem
+NUM	Case=Acc	Degree=Pos	Gender=Fem	Number=Plur	NumType=Card
+ADJ	Case=Dat	Degree=Pos	Gender=Neut	Number=Plur	NumType=Dist
+DET	Case=Abl	Degree=Pos	Gender=Fem	Number=Plur	PronType=Ind
+PRON	Case=Gen	Degree=Pos	Gender=Fem	Number=Plur	PronType=Dem,Prs
+PRON	Case=Abl	Degree=Pos	Gender=Fem	Number=Sing	PronType=Ind,Rel
+VERB	Aspect=Perf	Case=Abl	Degree=Pos	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+ADJ	Case=Acc	Degree=Sup	Gender=Masc	Number=Sing
+VERB	Case=Gen	Degree=Pos	Gender=Fem	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+ADJ	Case=Gen	Degree=Pos	Gender=Fem	Number=Plur	NumType=Ord
+ADJ	Case=Gen	Degree=Pos	Gender=Fem	Number=Sing	NumType=Ord
+ADJ	Case=Nom	Degree=Sup	Gender=Fem	Number=Plur
+ADJ	Case=Dat	Degree=Cmp	Gender=Masc	Number=Plur
+PRON	PronType=Int,Rel
+PRON	Case=Abl	Degree=Pos	Gender=Masc	Number=Plur	PronType=Dem
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	Tense=Pqp	VerbForm=Fin	Voice=Act
+AUX	Aspect=Imp	Mood=Ind	Number=Plur	Person=3	Tense=Imp	VerbForm=Fin	Voice=Act
+NOUN	Case=Dat	Degree=Pos	Gender=Masc	Number=Plur
+VERB	Case=Nom	Degree=Pos	Gender=Masc	Number=Sing	VerbForm=Gdv	Voice=Pass
+PRON	Case=Acc	Degree=Pos	Gender=Fem	Number=Plur	PronType=Prs	Reflex=Yes
+VERB	Aspect=Perf	Tense=Past	VerbForm=Inf	Voice=Act
+DET	Case=Gen	Degree=Pos	Gender=Masc	Number=Sing	Poss=Yes	PronType=Prs
+PRON	Case=Abl	Degree=Pos	Gender=Fem	Number=Plur	PronType=Dem,Prs
+ADJ	Case=Abl	Degree=Cmp	Gender=Masc	Number=Sing
+PRON	Case=Abl	Degree=Pos	Gender=Fem	Number=Plur	PronType=Prs	Reflex=Yes
+ADJ	Case=Gen	Degree=Cmp	Gender=Neut	Number=Plur
+DET	Case=Nom	Degree=Pos	Gender=Neut	Number=Plur	Poss=Yes	PronType=Prs
+VERB	Case=Acc	Degree=Pos	Number=Sing	VerbForm=Ger	Voice=Pass
+ADJ	Case=Gen	Degree=Pos	Gender=Masc	Number=Plur	NumType=Ord
+VERB	Mood=Ind	Number=Sing	Person=3	Tense=Fut	VerbForm=Fin	VerbType=Mod	Voice=Act
+VERB	Case=Loc	Degree=Pos	Number=Sing
+ADJ	Case=Gen	Degree=Cmp	Gender=Fem	Number=Sing
+PRON	Case=Nom	Degree=Pos	Gender=Neut	Number=Sing	PronType=Int,Rel
+VERB	Aspect=Perf	Case=Gen	Degree=Pos	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+ADJ	Case=Gen	Degree=Pos	Gender=Neut	Number=Plur	NumType=Dist
+NUM	Case=Abl	Degree=Pos	Gender=Fem	Number=Sing	NumType=Card
+ADJ	Case=Gen	Degree=Sup	Gender=Neut	Number=Plur
+ADJ	Case=Gen	Degree=Pos	Gender=Masc	Number=Plur	NumType=Dist
+VERB	Aspect=Perf	Case=Gen	Degree=Pos	Gender=Masc	Number=Plur	Tense=Past	VerbForm=Part	Voice=Pass
+PRON	Case=Abl	Degree=Pos	Gender=Fem	Number=Sing	PronType=Prs	Reflex=Yes
+VERB	Aspect=Perf	Case=Gen	Degree=Pos	Gender=Fem	Number=Plur	Tense=Past	VerbForm=Part	Voice=Pass
+ADJ	Case=Nom	Degree=Cmp	Gender=Fem	Number=Plur
+PRON	Case=Acc	Degree=Pos	Gender=Fem	Number=Plur	PronType=Rel
+VERB	Mood=Ind	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Nom	Degree=Pos	Gender=Fem	Number=Plur	PronType=Dem,Prs
+PRON	Case=Abl	Degree=Pos	Gender=Masc	Number=Sing	PronType=Ind,Rel
+PRON	Case=Nom	Degree=Pos	Gender=Neut	Number=Plur	PronType=Ind,Rel
+VERB	Case=Abl	Degree=Pos	Gender=Masc	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Act
+DET	Case=Acc	Degree=Pos	Gender=Neut	Number=Plur	Poss=Yes	PronType=Prs
+PRON	Case=Abl	Degree=Pos	Gender=Neut	Number=Plur	PronType=Ind,Rel
+VERB	Case=Dat	Degree=Pos	Gender=Masc	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+ADJ	Case=Abl	Degree=Sup	Gender=Fem	Number=Sing
+PRON	Case=Nom	Degree=Pos	Gender=Masc	Number=Sing	PronType=Ind,Int
+VERB	Case=Nom	Degree=Pos	Gender=Masc	Number=Sing	Tense=Pres	VerbForm=Part	VerbType=Mod	Voice=Act
+INTJ	_
+VERB	Case=Abl	Degree=Pos	Number=Sing	VerbForm=Ger	Voice=Pass
+DET	Case=Acc	Degree=Pos	Number=Sing	PronType=Ind
+VERB	Case=Nom	Degree=Pos	Gender=Masc	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Pass
+ADJ	Case=Abl	Degree=Pos	Gender=Neut	Number=Plur	NumType=Ord
+ADJ	Case=Abl	Degree=Cmp	Gender=Neut	Number=Sing
+PRON	Case=Gen	Degree=Pos	Gender=Masc	Number=Sing	PronType=Rel
+PRON	Case=Dat	Degree=Pos	Gender=Masc	Number=Plur	PronType=Ind
+AUX	Aspect=Imp	Mood=Sub	Number=Sing	Person=3	Tense=Imp	VerbForm=Fin	Voice=Pass
+DET	Case=Acc	Degree=Pos	Gender=Fem	Number=Sing	PronType=Ind
+PRON	Case=Dat	Degree=Pos	Gender=Neut	Number=Plur	PronType=Dem
+DET	Case=Nom	Degree=Pos	Gender=Fem	Number=Plur	Poss=Yes	PronType=Prs
+VERB	Case=Abl	Degree=Pos	Gender=Fem	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+PRON	Case=Gen	Degree=Pos	Gender=Fem	Number=Sing	PronType=Prs	Reflex=Yes
+VERB	Mood=Sub	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin	Voice=Pass
+AUX	Mood=Ind	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Nom	Degree=Pos	Gender=Fem	Number=Sing	PronType=Int,Rel
+PRON	Case=Acc	Degree=Pos	Gender=Neut	Number=Sing	PronType=Int,Rel
+DET	Case=Gen	Degree=Pos	Gender=Fem	Number=Sing	PronType=Ind
+NOUN	Case=Nom	Degree=Sup	Gender=Fem	Number=Sing
+VERB	Case=Gen	Degree=Pos	Gender=Masc	Number=Plur	Tense=Pres	VerbForm=Part	VerbType=Mod	Voice=Act
+NUM	NumType=Card
+PRON	Case=Nom	Degree=Pos	Gender=Fem	Number=Plur	PronType=Dem
+VERB	Case=Acc	Degree=Pos	Gender=Neut	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Act
+VERB	Case=Abl	Degree=Pos	Gender=Masc	Number=Sing	Tense=Pres	VerbForm=Part	VerbType=Mod	Voice=Act
+ADJ	Case=Acc	Degree=Sup	Gender=Neut	Number=Plur
+VERB	Case=Gen	Degree=Pos	Gender=Neut	Number=Plur	VerbForm=Gdv	Voice=Pass
+ADJ	Case=Acc	Degree=Pos	Gender=Neut	Number=Plur	NumType=Dist
+VERB	Mood=Ind	Number=Plur	Person=1	Tense=Fut	VerbForm=Fin	Voice=Act
+PRON	Case=Dat	Degree=Pos	Gender=Masc	Number=Sing	PronType=Ind,Rel
+ADJ	Case=Nom	Degree=Pos	Gender=Fem	Number=Plur	NumType=Ord
+PRON	Case=Gen	Degree=Pos	Gender=Masc	Number=Plur	PronType=Ind
+VERB	Case=Gen	Degree=Pos	Gender=Masc	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Act
+NUM	Gender=Fem	NumType=Card
+PRON	Case=Nom	Degree=Pos	Gender=Masc	Number=Plur	PronType=Prs
+NOUN	Case=Gen	Degree=Cmp	Gender=Masc	Number=Sing
+NOUN	Case=Acc	Degree=Cmp	Gender=Masc	Number=Sing
+VERB	Mood=Sub	Number=Sing	Person=2	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Mood=Ind	Number=Sing	Person=1	Tense=Fut	VerbForm=Fin	Voice=Pass
+PRON	Case=Gen	Degree=Pos	Gender=Masc	Number=Sing	PronType=Prs
+VERB	Aspect=Perf	Case=Abl	Degree=Pos	Gender=Masc	Number=Plur	Tense=Past	VerbForm=Part	Voice=Pass
+ADJ	Case=Gen	Degree=Pos	Gender=Masc	Number=Plur
+DET	Case=Acc	Degree=Pos	Gender=Masc	Number=Plur	Poss=Yes	PronType=Prs
+ADJ	Case=Gen	Degree=Cmp	Gender=Neut	Number=Sing	NumType=Ord
+AUX	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+PRON	Case=Abl	Degree=Pos	Gender=Masc	Number=Plur	PronType=Ind
+DET	Case=Dat	Degree=Pos	Gender=Neut	Number=Sing	PronType=Ind
+DET	Case=Dat	Degree=Pos	Gender=Masc	Number=Sing	Poss=Yes	PronType=Prs
+VERB	Aspect=Imp	Mood=Sub	Number=Sing	Person=1	Tense=Imp	VerbForm=Fin	Voice=Act
+ADJ	Case=Gen	Degree=Sup	Gender=Masc	Number=Sing
+DET	Case=Acc	Degree=Pos	Gender=Fem	Number=Plur	Poss=Yes	PronType=Prs
+VERB	Case=Nom	Degree=Pos	Gender=Fem	Number=Sing	VerbForm=Gdv	Voice=Pass
+ADJ	Case=Dat	Degree=Cmp	Gender=Neut	Number=Plur	NumType=Ord
+ADJ	Case=Abl	Degree=Pos	Gender=Fem	Number=Plur	NumType=Ord
+ADJ	Case=Acc	Degree=Sup	Gender=Masc	Number=Plur
+ADJ	Case=Nom	Degree=Cmp	Gender=Fem	Number=Plur	NumType=Ord
+PRON	Case=Loc	Degree=Pos	Number=Sing	PronType=Ind,Rel
+VERB	Mood=Ind	Number=Plur	Person=1	Tense=Fut	VerbForm=Fin	Voice=Pass
+PRON	Case=Abl	Degree=Pos	Gender=Neut	Number=Sing	PronType=Ind,Int
+VERB	Case=Gen	Degree=Pos	Gender=Neut	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Pass
+ADJ	Case=Acc	Degree=Pos	Gender=Fem	Number=Plur	NumType=Ord
+PRON	Case=Dat	Degree=Pos	Gender=Fem	Number=Plur	PronType=Prs	Reflex=Yes
+ADJ	Case=Nom	Degree=Cmp	Gender=Masc	Number=Sing
+DET	Case=Gen	Degree=Pos	Gender=Fem	Number=Plur	Poss=Yes	PronType=Prs
+NOUN	Gender=Neut
+VERB	Aspect=Perf	Case=Acc	Degree=Cmp	Gender=Neut	Number=Plur	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Aspect=Perf	Case=Acc	Degree=Sup	Gender=Neut	Number=Plur	Tense=Past	VerbForm=Part	Voice=Pass
+ADJ	Case=Abl	Degree=Sup	Gender=Neut	Number=Plur
+ADJ	Case=Nom	Degree=Pos	Gender=Fem	Number=Plur	NumType=Dist
+VERB	Case=Abl	Degree=Pos	Gender=Neut	Number=Plur	VerbForm=Gdv	Voice=Pass
+AUX	Case=Nom	Degree=Pos	Gender=Fem	Number=Sing	VerbForm=Gdv	Voice=Pass
+PRON	Case=Acc	Degree=Pos	Gender=Neut	Number=Plur	PronType=Ind,Rel
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Tense=Imp	VerbForm=Fin	Voice=Pass
+ADJ	Case=Nom	Degree=Sup	Gender=Neut	Number=Plur
+NOUN	Case=Nom	Degree=Sup	Gender=Neut	Number=Plur
+PRON	Case=Dat	Degree=Pos	Gender=Neut	Number=Plur	PronType=Rel
+ADJ	Case=Nom	Degree=Pos	Gender=Neut	Number=Plur	NumType=Ord
+PRON	Case=Gen	Degree=Pos	Gender=Neut	Number=Plur	PronType=Prs	Reflex=Yes
+VERB	Aspect=Perf	Case=Gen	Degree=Pos	Gender=Fem	Number=Sing	Tense=Past	VerbForm=Part	VerbType=Mod	Voice=Pass
+ADJ	Case=Acc	Degree=Pos	Gender=Fem	Number=Plur	NumType=Dist
+VERB	Aspect=Perf	Case=Nom	Degree=Pos	Gender=Neut	Number=Sing	Tense=Past	VerbForm=Part	VerbType=Mod	Voice=Pass
+AUX	Aspect=Perf	Case=Nom	Degree=Pos	Gender=Neut	Number=Plur	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Case=Dat	Degree=Pos	Gender=Neut	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Act
+ADJ	Case=Dat	Degree=Pos	Gender=Neut	Number=Sing	NumType=Ord
+VERB	Case=Dat	Degree=Pos	Gender=Neut	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+PRON	Case=Dat	Degree=Pos	Gender=Neut	Number=Sing	PronType=Rel
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Fin	VerbType=Mod	Voice=Act
+VERB	Case=Acc	Degree=Pos	Gender=Masc	Number=Sing	Tense=Pres	VerbForm=Part	VerbType=Mod	Voice=Act
+VERB	Case=Gen	Degree=Pos	Gender=Masc	Number=Sing	Tense=Pres	VerbForm=Part	VerbType=Mod	Voice=Act
+PRON	Case=Nom	Degree=Pos	Gender=Neut	Number=Plur	PronType=Ind,Int
+VERB	Case=Dat	Degree=Pos	Gender=Masc	Number=Sing	Tense=Pres	VerbForm=Part	VerbType=Mod	Voice=Act
+VERB	Case=Gen	Degree=Pos	Number=Sing	VerbForm=Ger	VerbType=Mod	Voice=Act
+VERB	Mood=Ind	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin	VerbType=Mod	Voice=Act
+VERB	Mood=Sub	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin	Voice=Pass
+VERB	Mood=Ind	Number=Sing	Person=2	Tense=Pres	VerbForm=Fin	VerbType=Mod	Voice=Act
+VERB	Aspect=Perf	Case=Nom	Degree=Pos	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	VerbType=Mod	Voice=Pass
+VERB	Aspect=Perf	Case=Nom	Degree=Pos	Gender=Neut	Number=Plur	Tense=Past	VerbForm=Part	VerbType=Mod	Voice=Pass
+DET	Case=Dat	Degree=Pos	Gender=Neut	Number=Sing	Poss=Yes	PronType=Prs
+VERB	Case=Abl	Degree=Pos	Number=Sing	VerbForm=Ger	VerbType=Mod	Voice=Act
+NOUN	Case=Gen	Degree=Cmp	Gender=Fem	Number=Sing
+VERB	Mood=Ind	Number=Sing	Person=2	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=2	Tense=Past	VerbForm=Fin	Voice=Act
+VERB	Aspect=Perf	Case=Gen	Degree=Pos	Gender=Neut	Number=Sing	Tense=Past	VerbForm=Part	VerbType=Mod	Voice=Pass
+VERB	Aspect=Imp	Mood=Sub	Number=Plur	Person=1	Tense=Imp	VerbForm=Fin	Voice=Pass
+NUM	Case=Gen	Degree=Pos	Gender=Fem	Number=Sing	NumType=Card
+NUM	Case=Nom	Degree=Pos	Gender=Fem	Number=Plur	NumType=Card
+DET	Case=Abl	Degree=Pos	Gender=Masc	Number=Sing	PronType=Ind
+VERB	Aspect=Perf	Case=Gen	Degree=Pos	Gender=Neut	Number=Plur	Tense=Past	VerbForm=Part	VerbType=Mod	Voice=Pass
+VERB	Case=Gen	Degree=Pos	Gender=Fem	Number=Sing	Tense=Pres	VerbForm=Part	VerbType=Mod	Voice=Act
+VERB	Aspect=Perf	Case=Acc	Degree=Pos	Gender=Fem	Number=Sing	Tense=Past	VerbForm=Part	VerbType=Mod	Voice=Pass
+ADJ	Case=Nom	Degree=Pos	Gender=Neut	Number=Sing	NumType=Dist
+ADJ	Case=Abl	Degree=Pos	Gender=Neut	Number=Plur	NumType=Dist
+VERB	Aspect=Perf	Case=Acc	Degree=Pos	Gender=Neut	Number=Sing	Tense=Past	VerbForm=Part	VerbType=Mod	Voice=Pass
+VERB	Aspect=Perf	Case=Acc	Degree=Pos	Gender=Neut	Number=Plur	Tense=Past	VerbForm=Part	VerbType=Mod	Voice=Pass
+VERB	Case=Nom	Degree=Pos	Gender=Fem	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Pass
+VERB	Case=Acc	Degree=Pos	Gender=Fem	Number=Sing	Tense=Fut	VerbForm=Part	Voice=Act
+ADJ	Case=Acc	Degree=Cmp	Gender=Masc	Number=Sing
+VERB	Aspect=Perf	Case=Abl	Degree=Pos	Gender=Neut	Number=Sing	Tense=Past	VerbForm=Part	VerbType=Mod	Voice=Pass
+ADJ	Case=Dat	Degree=Pos	Gender=Neut	Number=Plur	NumType=Ord
+ADJ	Case=Dat	Degree=Sup	Gender=Masc	Number=Sing
+ADJ	Case=Dat	Degree=Pos	Gender=Masc	Number=Sing
+PRON	Case=Acc	Degree=Pos	Gender=Masc	Number=Sing	PronType=Ind,Rel
+VERB	Case=Nom	Degree=Pos	Gender=Fem	Number=Sing	Tense=Pres	VerbForm=Part	VerbType=Mod	Voice=Act
+VERB	Case=Acc	Degree=Pos	Number=Sing	VerbForm=Ger	VerbType=Mod	Voice=Act
+VERB	Aspect=Perf	Tense=Past	VerbForm=Inf	VerbType=Mod	Voice=Act
+PRON	Case=Dat	Degree=Pos	Gender=Neut	Number=Plur	PronType=Prs	Reflex=Yes
+PRON	Case=Dat	Degree=Pos	Gender=Fem	Number=Sing	PronType=Prs	Reflex=Yes
+DET	Case=Gen	Degree=Pos	Gender=Masc	Number=Plur	Poss=Yes	PronType=Prs
+NOUN	Case=Acc	Degree=Cmp	Gender=Neut	Number=Plur
+VERB	Aspect=Perf	Case=Abl	Degree=Pos	Gender=Fem	Number=Plur	Tense=Past	VerbForm=Part	VerbType=Mod	Voice=Pass
+PROPN	Case=Dat	Degree=Pos	Gender=Fem	Number=Sing
+ADJ	Case=Dat	Degree=Pos	Gender=Fem	Number=Sing	NumType=Ord
+VERB	Mood=Sub	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	VerbType=Mod	Voice=Pass
+VERB	Case=Acc	Degree=Pos	Gender=Neut	Number=Sing	VerbForm=Gdv	Voice=Pass
+VERB	Case=Gen	Degree=Pos	Gender=Neut	Number=Sing	VerbForm=Gdv	Voice=Pass
+PRON	Case=Nom	Degree=Pos	Gender=Fem	Number=Plur	PronType=Ind,Rel
+PRON	Case=Gen	Degree=Pos	Gender=Fem	Number=Plur	PronType=Dem
+NOUN	Case=Acc	Degree=Sup	Gender=Fem	Number=Sing
+VERB	Case=Nom	Degree=Pos	Gender=Neut	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Pass
+VERB	Aspect=Perf	Case=Nom	Degree=Cmp	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	VerbType=Mod	Voice=Pass
+VERB	Case=Nom	Degree=Pos	Gender=Fem	Number=Sing
+VERB	Case=Acc	Degree=Pos	Gender=Fem	Number=Sing
+VERB	Case=Gen	Degree=Pos	Gender=Fem	Number=Sing
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=1	Tense=Imp	VerbForm=Fin	Voice=Pass
+ADJ	Case=Acc	Degree=Pos	Gender=Masc	Number=Plur	NumType=Dist
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	Tense=Fut	VerbForm=Fin	Voice=Act
+VERB	Case=Dat	Degree=Pos	Gender=Masc	Number=Plur	Tense=Pres	VerbForm=Part	VerbType=Mod	Voice=Act
+PROPN	Case=Abl	Degree=Pos	Gender=Fem	Number=Plur
+VERB	Mood=Imp	Number=Plur	Person=2	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Case=Nom	Degree=Pos	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+VERB	Case=Gen	Degree=Pos	Gender=Fem	Number=Sing	VerbForm=Gdv	Voice=Pass
+DET	Case=Dat	Degree=Pos	Gender=Masc	Number=Plur	PronType=Ind
+PRON	Case=Nom	Degree=Pos	Gender=Masc	Number=Sing	PronType=Int,Rel
+ADJ	Case=Dat	Degree=Cmp	Gender=Neut	Number=Sing
+PRON	Case=Dat	Degree=Pos	Gender=Masc	Number=Sing	PronType=Ind,Int
+PRON	Case=Abl	Degree=Pos	Gender=Masc	Number=Sing	PronType=Ind,Int
+ADJ	Case=Nom	Degree=Cmp	Gender=Masc	Number=Sing	NumType=Ord
+PRON	Case=Dat	Degree=Pos	Gender=Masc	Number=Sing	PronType=Dem
+NOUN	Case=Gen	Degree=Sup	Gender=Fem	Number=Plur
+DET	Case=Gen	Degree=Pos	Number=Plur	PronType=Ind
+DET	Case=Nom	Degree=Pos	Gender=Masc	Number=Plur	Poss=Yes	PronType=Prs
+VERB	Mood=Sub	Number=Plur	Person=2	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Mood=Ind	Number=Sing	Person=2	Tense=Fut	VerbForm=Fin	Voice=Act
+NUM	Gender=Neut	NumType=Card
+VERB	Case=Abl	Degree=Pos	Gender=Neut	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Pass
+NOUN	Case=Gen	Degree=Sup	Gender=Fem	Number=Sing
+NOUN	Case=Acc	Degree=Sup	Gender=Neut	Number=Sing
+NOUN	Case=Loc	Degree=Cmp	Number=Sing
+PRON	Case=Nom	Degree=Pos	Gender=Masc	Number=Plur	PronType=Dem,Prs
+PRON	Case=Dat	Degree=Pos	Gender=Fem	Number=Plur	PronType=Rel
+PRON	Case=Dat	Degree=Pos	Gender=Masc	Number=Plur	PronType=Rel
+NOUN	Case=Acc	Degree=Sup	Gender=Masc	Number=Sing
+VERB	Case=Acc	Degree=Sup	Gender=Fem	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+VERB	Case=Gen	Degree=Pos	Gender=Neut	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Pass
+VERB	Mood=Ind	Number=Sing	Person=1	Tense=Fut	VerbForm=Fin	VerbType=Mod	Voice=Act
+VERB	Case=Nom	Degree=Cmp	Gender=Fem	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+ADJ	Case=Abl	Degree=Pos	Gender=Fem	Number=Plur	NumType=Dist
+VERB	Aspect=Perf	Case=Dat	Degree=Pos	Gender=Masc	Number=Plur	Tense=Past	VerbForm=Part	Voice=Pass
+AUX	Mood=Ind	Number=Sing	Person=1	Tense=Fut	VerbForm=Fin	Voice=Act
+VERB	Case=Acc	Degree=Pos	Gender=Masc	Number=Plur	VerbForm=Gdv	Voice=Pass
+ADJ	Case=Acc	Degree=Pos	Gender=Fem	Number=Sing	NumType=Ord
+PRON	Case=Nom	Degree=Pos	Gender=Masc	Number=Plur	PronType=Dem
+VERB	Case=Dat	Degree=Pos	Gender=Fem	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Pass
+VERB	Aspect=Perf	Case=Acc	Degree=Pos	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	VerbType=Mod	Voice=Pass
+VERB	Mood=Ind	Number=Sing	Person=2	Tense=Fut	VerbForm=Fin	Voice=Pass
+VERB	Mood=Imp	Number=Plur	Person=2	Tense=Pres	VerbForm=Fin	VerbType=Mod	Voice=Act
+PRON	Case=Loc	Number=Sing	PronType=Neg
+PRON	Case=Acc	Degree=Pos	Gender=Neut	Number=Sing	PronType=Ind,Int
+ADJ	Case=Dat	Degree=Pos	Gender=Masc	Number=Plur
+DET	Case=Gen	Degree=Pos	Gender=Masc	Number=Plur	PronType=Ind
+NOUN	Case=Abl	Degree=Cmp	Gender=Fem	Number=Plur
+VERB	Case=Nom	Degree=Pos	Gender=Neut	Number=Sing	Tense=Pres	VerbForm=Part	VerbType=Mod	Voice=Act
+AUX	Mood=Ind	Number=Sing	Person=2	Tense=Pres	VerbForm=Fin	Voice=Act
+NOUN	Case=Acc	Degree=Sup	Gender=Neut	Number=Plur
+VERB	Case=Acc	Degree=Pos	Gender=Neut	Number=Sing
+VERB	Case=Abl	Degree=Pos	Gender=Neut	Number=Sing
+NUM	Case=Dat	Degree=Pos	Gender=Neut	Number=Plur	NumType=Card
+NUM	Case=Dat	Degree=Pos	Gender=Masc	Number=Plur	NumType=Card
+NUM	Case=Dat	Degree=Pos	Gender=Fem	Number=Plur	NumType=Card
+AUX	Case=Abl	Degree=Pos	Gender=Fem	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+DET	Case=Dat	Degree=Pos	Gender=Fem	Number=Plur	Poss=Yes	PronType=Prs
+PRON	Case=Abl	Degree=Pos	Gender=Neut	Number=Sing	PronType=Neg
+NOUN	Case=Acc	Degree=Cmp	Gender=Fem	Number=Sing
+VERB	Case=Abl	Degree=Pos	Gender=Fem	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Act
+ADJ	Case=Acc	Degree=Cmp	Gender=Masc	Number=Sing	NumType=Ord
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=3	Tense=Pqp	VerbForm=Fin	Voice=Act
+DET	Case=Abl	Degree=Pos	Number=Sing	PronType=Ind
+NOUN	_
+PRON	Case=Abl	Degree=Pos	Gender=Neut	Number=Sing	PronType=Ind,Rel
+AUX	Case=Gen	Degree=Pos	Number=Sing	VerbForm=Ger	Voice=Act
+NOUN	Case=Acc	Degree=Cmp	Gender=Fem	Number=Plur
+PRON	Case=Gen	Degree=Pos	Gender=Neut	Number=Sing	PronType=Ind,Rel
+AUX	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Tense=Imp	VerbForm=Fin	Voice=Act
+PRON	Case=Nom	Degree=Pos	Gender=Masc	Number=Plur	PronType=Ind,Rel
+PRON	Case=Gen	Degree=Pos	Gender=Fem	Number=Sing	PronType=Ind,Rel
+AUX	Aspect=Perf	Tense=Past	VerbForm=Inf	Voice=Act
+AUX	Case=Nom	Degree=Pos	Gender=Neut	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Act
+DET	Case=Dat	Degree=Pos	Gender=Fem	Number=Sing	PronType=Ind
+NOUN	Case=Gen	Degree=Cmp	Gender=Neut	Number=Plur
+PRON	Case=Gen	Degree=Pos	Gender=Masc	Number=Plur	PronType=Dem
+AUX	Mood=Imp	Number=Sing	Person=2	Tense=Fut	VerbForm=Fin	Voice=Act
+PRON	Case=Loc	Degree=Pos	Number=Sing	PronType=Dem,Prs
+PRON	Case=Acc	Degree=Pos	Gender=Neut	Number=Plur	PronType=Int,Rel
+NOUN	Case=Acc	Degree=Cmp	Gender=Neut	Number=Sing
+VERB	Case=Gen	Degree=Pos	Gender=Masc	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Pass
+AUX	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	Tense=Pqp	VerbForm=Fin	Voice=Act
+DET	Case=Gen	Degree=Pos	Gender=Neut	Number=Plur	Poss=Yes	PronType=Prs
+VERB	Case=Acc	Degree=Pos	Gender=Masc	Number=Sing	Tense=Fut	VerbForm=Part	Voice=Act
+PRON	Case=Loc	Degree=Pos	Number=Sing	PronType=Rel
+VERB	Aspect=Perf	Case=Abl	Degree=Pos	Number=Plur	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Mood=Sub	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	VerbType=Mod	Voice=Pass
+VERB	Aspect=Perf	Case=Nom	Degree=Pos	Gender=Fem	Number=Sing	Tense=Past	VerbForm=Part	VerbType=Mod	Voice=Pass
+ADJ	Case=Acc	Degree=Cmp	Gender=Fem	Number=Sing	NumType=Ord
+ADJ	Case=Abl	Degree=Pos	Gender=Masc	Number=Plur	NumType=Ord
+VERB	Case=Abl	Degree=Pos	Gender=Masc	Number=Plur	VerbForm=Gdv	Voice=Pass
+VERB	Case=Nom	Degree=Pos	Gender=Neut	Number=Sing	VerbType=Mod
+ADJ	Case=Abl	Degree=Cmp	Gender=Neut	Number=Plur	NumType=Ord
+VERB	Case=Dat	Degree=Pos	Gender=Fem	Number=Sing	VerbForm=Gdv	Voice=Pass
+ADJ	Case=Abl	Degree=Cmp	Gender=Fem	Number=Plur	NumType=Ord
+AUX	Aspect=Perf	Mood=Ind	Number=Plur	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+VERB	Case=Abl	Degree=Pos	Gender=Fem	Number=Sing	VerbForm=Gdv	Voice=Pass
+VERB	Case=Abl	Degree=Pos	Gender=Fem	Number=Sing
+PRON	Case=Acc	Degree=Pos	Gender=Neut	Number=Sing	PronType=Neg
+PRON	Case=Acc	Degree=Pos	Gender=Fem	Number=Plur	PronType=Int,Rel
+VERB	Aspect=Perf	Mood=Sub	Number=Sing	Person=3	Tense=Past	VerbForm=Fin	VerbType=Mod	Voice=Act
+VERB	Aspect=Perf	Case=Nom	Degree=Sup	Gender=Neut	Number=Plur	Tense=Past	VerbForm=Part	Voice=Pass
+NOUN	Degree=Pos	Gender=Fem
+VERB	Case=Acc	Degree=Pos	Gender=Fem	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Pass
+VERB	Case=Acc	Degree=Pos	Gender=Masc	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Pass
+AUX	Aspect=Perf	Mood=Sub	Number=Sing	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+VERB	Case=Abl	Degree=Pos	Gender=Masc	Number=Sing
+AUX	Tense=Fut	VerbForm=Inf	Voice=Act
+ADJ	Case=Abl	Degree=Cmp	Gender=Neut	Number=Sing	NumType=Ord
+VERB	Case=Abl	Degree=Pos	Gender=Neut	Number=Sing	VerbForm=Part	Voice=Pass
+VERB	Case=Gen	Degree=Pos	Gender=Fem	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Pass
+X	Abbr=Yes	Gender=Fem
+VERB	Aspect=Perf	Mood=Sub	Number=Plur	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+VERB	Aspect=Perf	Mood=Sub	Number=Sing	Person=3	Tense=Pqp	VerbForm=Fin	Voice=Act
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Person=3	Tense=Imp	VerbForm=Fin	Voice=Pass
+PRON	Case=Nom	Degree=Pos	Gender=Fem	Number=Sing	PronType=Ind,Rel
+AUX	Case=Abl	Degree=Pos	Gender=Masc	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+VERB	Case=Loc	Degree=Cmp	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+VERB	Case=Loc	Degree=Pos	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Pass
+VERB	Case=Abl	Degree=Pos	Gender=Neut	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Pass
+ADJ	Case=Nom	Degree=Pos	Gender=Masc	Number=Plur	NumType=Ord
+PRON	Case=Gen	Degree=Pos	Gender=Masc	Number=Plur	PronType=Rel
+VERB	Case=Nom	Degree=Sup	Gender=Neut	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+VERB	Case=Nom	Degree=Pos	Gender=Neut	Number=Plur	VerbForm=Gdv	Voice=Pass
+ADJ	Case=Acc	Degree=Cmp	Gender=Neut	Number=Plur	NumType=Ord
+AUX	Aspect=Perf	Case=Nom	Degree=Pos	Gender=Fem	Number=Plur	Tense=Past	VerbForm=Part	Voice=Pass
+PRON	Case=Gen	Degree=Pos	Gender=Masc	Number=Plur	PronType=Ind,Rel
+VERB	Mood=Imp	Number=Sing	Person=2	Tense=Pres	VerbForm=Fin	Voice=Pass
+NOUN	Case=Gen	Degree=Sup	Gender=Masc	Number=Sing
+AUX	Aspect=Perf	Case=Acc	Degree=Pos	Gender=Fem	Number=Plur	Tense=Past	VerbForm=Part	Voice=Pass
+ADJ	Case=Gen	Degree=Pos	Gender=Neut	Number=Plur	NumType=Ord
+ADJ	Case=Nom	Degree=Sup	Gender=Masc	Number=Plur
+PRON	Case=Acc	Degree=Pos	Gender=Masc	Number=Sing	PronType=Int,Rel
+PRON	Case=Nom	Degree=Pos	Number=Sing	PronType=Ind
+ADJ	Case=Nom	Degree=Pos	Number=Sing
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Tense=Imp	VerbForm=Fin	VerbType=Mod	Voice=Act
+VERB	Aspect=Perf	Mood=Sub	Number=Plur	Person=3	Tense=Pqp	VerbForm=Fin	Voice=Act
+X	Abbr=Yes	Number=Plur	Person=2
+VERB	Aspect=Perf	Case=Dat	Degree=Pos	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+PRON	Case=Acc	Degree=Pos	Gender=Fem	Number=Sing	PronType=Int,Rel
+ADJ	Case=Nom	Degree=Pos	Gender=Neut	Number=Plur	NumType=Dist
+PRON	Case=Abl	Degree=Pos	Gender=Masc	Number=Plur	PronType=Dem,Prs
+VERB	Case=Acc	Degree=Pos	Gender=Fem	Number=Plur	Tense=Pres	VerbForm=Part	VerbType=Mod	Voice=Act
+VERB	Case=Nom	Degree=Pos	Gender=Fem	Number=Plur	Tense=Pres	VerbForm=Part	VerbType=Mod	Voice=Act
+NOUN	Case=Abl	Degree=Sup	Gender=Masc	Number=Sing
+DET	Case=Nom	Degree=Pos	Number=Sing	PronType=Ind
+VERB	Case=Dat	Degree=Pos	Gender=Fem	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Act
+PROPN	Case=Abl	Degree=Pos	Gender=Masc	Number=Plur
+AUX	Case=Nom	Degree=Pos	Gender=Fem	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Act
+ADJ	Case=Dat	Degree=Sup	Gender=Neut	Number=Plur
+PRON	Case=Nom	Degree=Pos	Gender=Fem	Number=Plur	PronType=Int,Rel
+NUM	Case=Abl	Degree=Pos	Gender=Fem	Number=Plur	NumType=Card
+VERB	Case=Acc	Degree=Pos	Gender=Fem	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Pass
+AUX	Aspect=Perf	Case=Gen	Degree=Pos	Gender=Neut	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+AUX	Mood=Ind	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin	Voice=Pass
+AUX	Case=Abl	Degree=Pos	Gender=Fem	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Act
+VERB	Tense=Fut	VerbForm=Inf	Voice=Act
+PRON	PronType=Neg
+VERB	Case=Nom	Degree=Pos	Gender=Masc	Number=Plur	Tense=Pres	VerbForm=Part	VerbType=Mod	Voice=Act
+NOUN	Case=Abl	Degree=Cmp	Gender=Fem	Number=Sing
+PRON	Case=Dat	Degree=Pos	Gender=Fem	Number=Plur	PronType=Dem
+NOUN	Case=Abl	Degree=Cmp	Gender=Neut	Number=Sing
+VERB	Case=Abl	Degree=Pos	Gender=Fem	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Pass
+PRON	Case=Gen	Degree=Pos	Gender=Neut	Number=Plur	PronType=Int,Rel
+AUX	Aspect=Perf	Mood=Sub	Number=Plur	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+ADJ	Case=Gen	Degree=Sup	Gender=Neut	Number=Sing
+NOUN	Case=Gen	Degree=Cmp	Gender=Neut	Number=Sing
+NOUN	Case=Acc	Degree=Sup	Gender=Fem	Number=Plur
+PRON	Case=Dat	Degree=Pos	Gender=Masc	Number=Plur	PronType=Dem,Prs
+ADJ	Case=Dat	Degree=Cmp	Gender=Fem	Number=Plur
+PROPN	Case=Nom	Degree=Pos	Gender=Neut	Number=Sing
+PRON	Case=Acc	Degree=Pos	Number=Plur	PronType=Prs	Reflex=Yes
+VERB	Case=Acc	Degree=Pos	Gender=Fem	Number=Plur	VerbForm=Gdv	Voice=Pass
+VERB	Mood=Ind	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	VerbType=Mod	Voice=Pass
+ADJ	Case=Gen	Degree=Cmp	Gender=Masc	Number=Plur
+VERB	Aspect=Perf	Case=Nom	Degree=Cmp	Gender=Masc	Number=Plur	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	Tense=Fut	VerbForm=Fin	VerbType=Mod	Voice=Act
+PRON	Case=Abl	Degree=Pos	Gender=Masc	Number=Plur	PronType=Ind,Rel
+AUX	Aspect=Perf	Case=Nom	Degree=Pos	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Case=Abl	Degree=Pos	Gender=Fem	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Pass
+ADJ	Case=Abl	Degree=Cmp	Gender=Fem	Number=Plur
+NOUN	Case=Gen	Degree=Cmp	Gender=Fem	Number=Plur
+NOUN	Case=Abl	Degree=Cmp	Gender=Masc	Number=Sing
+PRON	Case=Gen	Degree=Pos	Gender=Fem	Number=Sing	PronType=Int,Rel
+ADJ	Case=Gen	Degree=Cmp	Gender=Fem	Number=Plur
+VERB	Aspect=Perf	Mood=Sub	Number=Plur	Person=1	Tense=Past	VerbForm=Fin	Voice=Act
+AUX	Mood=Ind	Number=Plur	Person=3	Tense=Fut	VerbForm=Fin	Voice=Pass
+AUX	Aspect=Perf	Case=Nom	Degree=Pos	Gender=Masc	Number=Plur	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Aspect=Perf	Mood=Sub	Number=Plur	Person=1	Tense=Pqp	VerbForm=Fin	Voice=Act
+VERB	Aspect=Perf	Case=Voc	Degree=Pos	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Case=Nom	Degree=Cmp	Gender=Neut	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+VERB	Case=Abl	Degree=Pos	Gender=Neut	Number=Plur	Tense=Fut	VerbForm=Part	Voice=Act
+NOUN	Case=Abl	Degree=Sup	Gender=Neut	Number=Sing
+PRON	PronType=Dem,Ind
+ADJ	Case=Acc	Degree=Sup	Gender=Fem	Number=Plur
+PRON	Case=Gen	Degree=Pos	Gender=Fem	Number=Plur	PronType=Prs	Reflex=Yes
+AUX	Aspect=Perf	Mood=Sub	Number=Plur	Person=3	Tense=Pqp	VerbForm=Fin	Voice=Act
+NUM	Case=Gen	Degree=Pos	Gender=Fem	Number=Plur	NumType=Card
+VERB	Case=Nom	Degree=Cmp	Gender=Masc	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+ADJ	Case=Dat	Degree=Cmp	Gender=Masc	Number=Sing
+PRON	Case=Dat	Degree=Pos	Gender=Neut	Number=Plur	PronType=Ind,Rel
+ADJ	Case=Loc	Degree=Pos	Number=Sing	NumType=Dist
+VERB	Case=Abl	Degree=Pos	Gender=Fem	Number=Plur	VerbForm=Gdv	Voice=Pass
+AUX	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Tense=Imp	VerbForm=Fin	Voice=Pass
+ADJ	Case=Gen	Degree=Sup	Gender=Fem	Number=Sing
+VERB	Case=Acc	Gender=Neut	Number=Sing
+VERB	Aspect=Perf	Case=Acc	Degree=Cmp	Gender=Fem	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+ADJ	Case=Voc	Degree=Pos	Gender=Masc	Number=Sing
+PRON	Case=Abl	Degree=Pos	Number=Plur	PronType=Rel
+VERB	Aspect=Perf	Case=Acc	Degree=Sup	Gender=Neut	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+ADJ	Case=Abl	Degree=Sup	Gender=Fem	Number=Plur
+PRON	Case=Dat	Degree=Pos	Gender=Masc	Number=Plur	PronType=Prs	Reflex=Yes
+ADJ	Case=Abl	Degree=Sup	Gender=Neut	Number=Sing
+PROPN	Case=Acc	Degree=Pos	Gender=Fem	Number=Sing
+VERB	Case=Dat	Degree=Pos	Gender=Masc	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Pass
+VERB	Aspect=Perf	Case=Acc	Degree=Cmp	Gender=Neut	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+PRON	Case=Loc	Degree=Pos	Number=Sing	PronType=Ind,Int
+NOUN	Case=Nom	Degree=Sup	Gender=Masc	Number=Plur
+VERB	Case=Loc	Degree=Cmp	Number=Sing
+VERB	Case=Abl	Degree=Cmp	Gender=Masc	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+VERB	Aspect=Perf	Case=Abl	Degree=Cmp	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+AUX	Case=Nom	Degree=Pos	Gender=Fem	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+VERB	Case=Nom	Degree=Pos	Gender=Neut	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Pass
+VERB	Aspect=Perf	Case=Abl	Degree=Pos	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	VerbType=Mod	Voice=Pass
+VERB	Mood=Sub	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+ADJ	Case=Gen	Degree=Cmp	Gender=Neut	Number=Plur	NumType=Ord
+VERB	Case=Dat	Degree=Pos	Number=Sing	VerbForm=Ger	Voice=Act
+VERB	Aspect=Perf	Case=Nom	Degree=Pos	Gender=Fem	Number=Plur	Tense=Past	VerbForm=Part	VerbType=Mod	Voice=Pass
+VERB	Aspect=Perf	Case=Dat	Degree=Pos	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	VerbType=Mod	Voice=Pass
+VERB	Aspect=Perf	Case=Gen	Degree=Pos	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	VerbType=Mod	Voice=Pass
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=1	Tense=Past	VerbForm=Fin	VerbType=Mod	Voice=Act
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=2	Tense=Fut	VerbForm=Fin	Voice=Act
+ADJ	Case=Abl	Degree=Sup	Gender=Masc	Number=Sing
+X	Abbr=Yes	Degree=Sup	Number=Plur	Person=3
+ADJ	Case=Gen	Degree=Cmp	Gender=Masc	Number=Sing
+NOUN	Case=Abl	Degree=Sup	Gender=Neut	Number=Plur
+NOUN	Case=Nom	Degree=Sup	Gender=Fem	Number=Plur
+VERB	Case=Nom	Degree=Pos	Gender=Masc	Number=Plur
+DET	Case=Dat	Degree=Pos	Gender=Masc	Number=Sing	PronType=Ind
+NOUN	Case=Gen	Degree=Cmp	Gender=Masc	Number=Plur
+ADJ	Case=Dat	Degree=Pos	Gender=Masc	Number=Sing	NumType=Ord
+PRON	Degree=Pos	Gender=Masc	PronType=Dem
+NOUN	Case=Abl	Degree=Sup	Gender=Fem	Number=Plur
+AUX	Mood=Sub	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+ADJ	Case=Gen	Degree=Pos	Number=Sing	NumType=Ord
+VERB	Case=Abl	Degree=Pos	Gender=Masc	Number=Sing	Tense=Fut	VerbForm=Part	Voice=Act
+NOUN	Case=Dat	Degree=Cmp	Gender=Fem	Number=Plur
+NOUN	Case=Dat	Degree=Cmp	Gender=Fem	Number=Sing
+NOUN	Case=Dat	Degree=Cmp	Gender=Neut	Number=Plur
+AUX	Aspect=Perf	Case=Nom	Degree=Pos	Gender=Neut	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Case=Acc	Degree=Pos	Gender=Masc	Number=Plur	Tense=Fut	VerbForm=Part	Voice=Act
+DET	Case=Dat	Degree=Pos	Gender=Neut	Number=Plur	Poss=Yes	PronType=Prs
+PRON	Case=Abl	Degree=Pos	Gender=Fem	Number=Sing	PronType=Int,Rel
+ADJ	Case=Abl	Degree=Cmp	Gender=Masc	Number=Plur	NumType=Ord
+X	Abbr=Yes	Degree=Cmp	Gender=Neut
+VERB	Mood=Sub	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin	VerbType=Mod	Voice=Act
+VERB	Case=Acc	Degree=Pos	Gender=Neut	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Pass
+AUX	Aspect=Perf	Mood=Ind	Number=Plur	Person=3	Tense=Fut	VerbForm=Fin	Voice=Act
+VERB	Mood=Ind	Number=Plur	Person=1	Tense=Fut	VerbForm=Fin	VerbType=Mod	Voice=Act
+DET	Case=Dat	Degree=Pos	Gender=Masc	Number=Plur	Poss=Yes	PronType=Prs
+ADJ	Case=Dat	Degree=Sup	Gender=Fem	Number=Plur
+NOUN	Case=Nom	Degree=Cmp	Gender=Fem	Number=Plur
+ADJ	Case=Acc	Degree=Cmp	Number=Sing
+VERB	Case=Nom	Degree=Pos	Gender=Fem	Number=Sing	Tense=Fut	VerbForm=Part	Voice=Act
+VERB	Aspect=Perf	Case=Nom	Degree=Cmp	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Aspect=Perf	Case=Loc	Degree=Cmp	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Case=Loc	Degree=Cmp	Number=Sing	VerbType=Mod
+AUX	Mood=Ind	Number=Plur	Person=1	Tense=Fut	VerbForm=Fin	Voice=Act
+PRON	Degree=Pos	Gender=Masc	PronType=Prs
+PRON	Case=Gen	Degree=Pos	Gender=Masc	Number=Sing	PronType=Ind,Rel
+VERB	Case=Nom	Degree=Pos	Gender=Masc	Number=Sing	Tense=Fut	VerbForm=Part	Voice=Act
+ADJ	Case=Loc	Degree=Pos	Gender=Masc	Number=Sing
+ADP	Case=Nom	Degree=Pos	Gender=Neut	Number=Sing
+NOUN	Case=Acc	Degree=Cmp	Gender=Masc	Number=Plur
+VERB	Case=Dat	Degree=Pos	Gender=Neut	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Pass
+NOUN	Case=Nom	Degree=Cmp	Gender=Masc	Number=Plur
+VERB	Mood=Ind	Number=Plur	Person=2	Tense=Pres	VerbForm=Fin	VerbType=Mod	Voice=Act
+NOUN	Case=Dat	Degree=Cmp	Gender=Neut	Number=Sing
+NOUN	Case=Gen	Degree=Sup	Gender=Neut	Number=Sing
+NUM	Case=Abl	Degree=Pos	Gender=Masc	Number=Plur	NumType=Card
+ADJ	Case=Voc	Degree=Sup	Gender=Masc	Number=Sing
+PROPN	Case=Dat	Degree=Pos	Gender=Fem	Number=Plur
+VERB	Case=Loc	Degree=Pos	Number=Sing	VerbType=Mod
+PROPN	Case=Dat	Degree=Pos	Gender=Masc	Number=Plur
+ADJ	Case=Acc	Degree=Pos	Gender=Masc	Number=Plur	NumType=Ord
+NOUN	Case=Dat	Degree=Cmp	Gender=Masc	Number=Sing
+ADJ	Case=Dat	Degree=Pos	Gender=Masc	Number=Plur	NumType=Ord
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=2	Tense=Past	VerbForm=Fin	VerbType=Mod	Voice=Act
+VERB	Mood=Ind	Number=Plur	Person=2	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Case=Abl	Degree=Pos	Gender=Masc	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Pass
+VERB	Case=Nom	Degree=Pos	Gender=Fem	Number=Plur	VerbForm=Gdv	Voice=Pass
+ADJ	Case=Abl	Degree=Pos	Gender=Masc	Number=Plur	NumType=Dist
+NOUN	Case=Dat	Degree=Cmp	Gender=Masc	Number=Plur
+NOUN	Case=Acc	Degree=Sup	Gender=Masc	Number=Plur
+AUX	Case=Nom	Degree=Pos	Gender=Masc	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Act
+ADP	_
+VERB	Case=Nom	Degree=Cmp	Gender=Neut	Number=Sing	Tense=Pres	VerbForm=Part	VerbType=Mod	Voice=Act
+PRON	Case=Acc	Degree=Pos	Gender=Masc	Number=Sing	PronType=Ind,Int
+PRON	Degree=Pos	PronType=Dem
+X	Abbr=Yes	Number=Sing	Person=3
+VERB	Case=Acc	Degree=Cmp	Gender=Neut	Number=Plur	Tense=Pres	VerbForm=Part	VerbType=Mod	Voice=Act
+PROPN	Case=Abl	Degree=Pos	Gender=Neut	Number=Sing
+PRON	Degree=Pos	Gender=Neut	PronType=Rel
+DET	Case=Acc	Degree=Sup	Gender=Fem	Number=Plur	PronType=Ind
+PRON	Degree=Pos	Gender=Fem	PronType=Rel
+NOUN	Gender=Masc
+VERB	Aspect=Imp	Mood=Sub	Number=Sing	Person=2	Tense=Imp	VerbForm=Fin	Voice=Act
+PROPN	Gender=Masc
+PRON	Case=Nom	Degree=Pos	Gender=Masc	Number=Plur	PronType=Int,Rel
+PRON	Case=Gen	Degree=Pos	Number=Plur	PronType=Prs	Reflex=Yes
+ADJ	Case=Dat	Degree=Sup	Gender=Neut	Number=Sing
+ADJ	Case=Dat	Degree=Sup	Gender=Fem	Number=Sing
+NUM	Gender=Masc	NumType=Card
+VERB	Case=Acc	Degree=Pos	Gender=Masc	Number=Plur
+AUX	Aspect=Perf	Case=Abl	Degree=Pos	Gender=Neut	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Case=Gen	Degree=Pos	Gender=Fem	Number=Plur	VerbForm=Gdv	Voice=Pass
+VERB	Aspect=Imp	Mood=Sub	Number=Sing	Person=3	Tense=Imp	VerbForm=Fin	VerbType=Mod	Voice=Pass
+DET	Case=Abl	Degree=Pos	Number=Plur	PronType=Ind
+PRON	Case=Gen	Degree=Pos	Number=Sing	PronType=Ind
+AUX	Aspect=Imp	Mood=Sub	Number=Plur	Person=3	Tense=Imp	VerbForm=Fin	Voice=Pass
+VERB	Aspect=Perf	Case=Abl	Degree=Pos	Gender=Fem	Number=Sing	Tense=Past	VerbForm=Part	VerbType=Mod	Voice=Pass
+VERB	Case=Gen	Degree=Pos	Gender=Masc	Number=Sing	Tense=Fut	VerbForm=Part	Voice=Act
+PROPN	Case=Gen	Degree=Pos	Gender=Neut	Number=Sing
+PRON	Case=Acc	Gender=Masc	Number=Sing	PronType=Neg
+PROPN	Case=Acc	Degree=Pos	Gender=Neut	Number=Sing
+PROPN	Case=Nom	Degree=Pos	Gender=Neut	Number=Plur
+PROPN	Case=Gen	Degree=Pos	Gender=Fem	Number=Plur
+ADJ	Case=Dat	Degree=Cmp	Gender=Fem	Number=Sing
+VERB	Case=Nom	Degree=Pos	Gender=Neut	Number=Sing	VerbForm=Ger	Voice=Act
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=2	Tense=Fut	VerbForm=Fin	Voice=Act
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Person=3	Tense=Imp	VerbForm=Fin	VerbType=Mod	Voice=Act
+ADV	PronType=Dem
+PRON	Case=Abl	Degree=Pos	Gender=Fem	Number=Plur	PronType=Ind,Rel
+NOUN	Case=Dat	Gender=Neut	Number=Sing
+ADJ	Case=Dat	Degree=Cmp	Gender=Neut	Number=Sing	NumType=Ord
+VERB	Case=Nom	Degree=Cmp	Gender=Fem	Number=Sing	Tense=Pres	VerbForm=Part	VerbType=Mod	Voice=Act
+VERB	Aspect=Perf	Case=Nom	Degree=Cmp	Gender=Fem	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Aspect=Perf	Case=Nom	Degree=Cmp	Gender=Fem	Number=Plur	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Case=Acc	Degree=Pos	Gender=Masc	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Pass
+PRON	Case=Gen	Degree=Pos	Gender=Masc	Number=Plur	PronType=Prs
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Tense=Imp	VerbForm=Fin	VerbType=Mod	Voice=Pass
+PRON	Case=Gen	Degree=Pos	Gender=Neut	Number=Sing	PronType=Int,Rel
+PRON	Case=Gen	Degree=Pos	Number=Sing	PronType=Dem,Prs
+PROPN	Case=Loc	Degree=Pos	Number=Sing
+NUM	Case=Acc	Degree=Pos	Gender=Neut	Number=Plur	NumType=Card	Tense=Pres
+NUM	Case=Gen	Degree=Pos	Gender=Masc	Number=Plur	NumType=Card
+VERB	Case=Gen	Degree=Pos	Gender=Fem	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Pass

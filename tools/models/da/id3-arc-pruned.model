@@ -1,0 +1,11228 @@
+5531
+ff_0:</s>
+ff_1:ADP_AdpType=Prep
+ff_2:_
+ff_3:</s>
+ff_4:NOUN_Definite=Ind|Gender=Com|Number=Sing
+ff_5:NOUN
+ff_6:</s>
+ff_7:NULL
+ff_8:</s>
+ff_9:NULL
+ff_10:</s>
+ff_11:NULL
+ff_12:</s>
+ff_13:NULL
+ff_14:</s>
+ff_15:NULL
+ff_16:</s>
+ff_17:NULL
+ff_18:</s>
+ff_19:NULL
+ff_20:</s>
+ff_21:NULL
+ff_1:NOUN_Definite=Ind|Gender=Com|Number=Sing
+ff_4:VERB_Definite=Ind|Number=Sing|Tense=Past|VerbForm=Part
+ff_5:VERB
+ff_7:ADP_AdpType=Prep
+ff_9:ADP_AdpType=Prep
+ff_0:har
+ff_1:AUX_Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_1:PROPN__
+ff_0:til
+ff_6:til
+ff_9:NOUN_Definite=Ind|Gender=Com|Number=Sing
+ff_15:NOUN_Definite=Def|Gender=Neut|Number=Sing
+ff_17:NOUN_Definite=Def|Gender=Neut|Number=Sing
+ff_0:i
+ff_4:NOUN_Definite=Def|Gender=Neut|Number=Sing
+ff_1:NOUN_Definite=Def|Gender=Neut|Number=Sing
+ff_6:i
+ff_8:i
+ff_8:går
+ff_9:VERB_Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_14:går
+ff_15:VERB_Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_16:i
+ff_17:ADP_AdpType=Prep
+ff_0:af
+ff_3:går
+ff_4:VERB_Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_11:NOUN_Definite=Ind|Gender=Com|Number=Plur
+ff_13:NOUN_Definite=Ind|Gender=Com|Number=Plur
+ff_0:at
+ff_1:SCONJ__
+ff_0:formanden
+ff_1:NOUN_Definite=Def|Gender=Com|Number=Sing
+ff_7:PROPN__
+ff_9:PROPN__
+ff_3:formanden
+ff_4:NOUN_Definite=Def|Gender=Com|Number=Sing
+ff_11:PROPN__
+ff_13:PROPN__
+ff_4:PROPN__
+ff_5:PROPN
+ff_0:går
+ff_1:VERB_Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_6:af
+ff_8:ind
+ff_9:ADV__
+ff_14:at
+ff_15:SCONJ__
+ff_16:formanden
+ff_17:NOUN_Definite=Def|Gender=Com|Number=Sing
+ff_0:ind
+ff_1:ADV__
+ff_7:NOUN_Definite=Ind|Gender=Com|Number=Plur
+ff_9:NOUN_Definite=Ind|Gender=Com|Number=Plur
+ff_4:NOUN_Definite=Ind|Gender=Com|Number=Plur
+ff_0:de
+ff_1:DET_Number=Plur|PronType=Dem
+ff_1:ADJ_Degree=Pos|Number=Plur
+ff_1:NOUN_Definite=Ind|Gender=Com|Number=Plur
+ff_3:ind
+ff_4:ADV__
+ff_5:ADV
+ff_9:ADJ_Degree=Pos|Number=Plur
+ff_14:de
+ff_15:DET_Number=Plur|PronType=Dem
+ff_16:de
+ff_17:DET_Number=Plur|PronType=Dem
+ff_0:.
+ff_1:PUNCT__
+ff_1:CCONJ__
+ff_4:ADJ_Degree=Pos|Number=Plur
+ff_5:ADJ
+ff_0:slet
+ff_6:ret
+ff_7:ADV__
+ff_8:ret
+ff_0:og
+ff_3:ret
+ff_10:slet
+ff_11:ADV__
+ff_12:.
+ff_13:PUNCT__
+ff_19:ADJ_Degree=Pos|Number=Plur
+ff_21:VERB_Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_0:ret
+ff_3:slet
+ff_6:og
+ff_7:CCONJ__
+ff_8:og
+ff_9:CCONJ__
+ff_14:og
+ff_15:CCONJ__
+ff_17:CCONJ__
+ff_3:mere
+ff_4:ADJ_Definite=Ind|Degree=Cmp|Number=Sing
+ff_0:mere
+ff_1:ADJ_Definite=Ind|Degree=Cmp|Number=Sing
+ff_14:mindre
+ff_15:ADJ_Degree=Cmp
+ff_16:mindre
+ff_17:ADJ_Degree=Cmp
+ff_0:eller
+ff_3:mindre
+ff_4:ADJ_Degree=Cmp
+ff_0:mindre
+ff_1:ADJ_Degree=Cmp
+ff_6:eller
+ff_8:eller
+ff_0:,
+ff_0:som
+ff_1:PRON_PartType=Inf
+ff_0:en
+ff_1:DET_Gender=Com|Number=Sing|PronType=Ind
+ff_3:enkelt
+ff_4:ADJ_Definite=Ind|Degree=Pos|Number=Sing
+ff_10:som
+ff_11:PRON_PartType=Inf
+ff_12:det
+ff_13:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+ff_18:enkelt
+ff_19:ADJ_Definite=Ind|Degree=Pos|Number=Sing
+ff_20:enkelt
+ff_21:ADJ_Definite=Ind|Degree=Pos|Number=Sing
+ff_0:enkelt
+ff_1:ADJ_Definite=Ind|Degree=Pos|Number=Sing
+ff_6:en
+ff_7:DET_Gender=Com|Number=Sing|PronType=Ind
+ff_8:en
+ff_9:DET_Gender=Com|Number=Sing|PronType=Ind
+ff_6:som
+ff_7:PRON_PartType=Inf
+ff_8:det
+ff_9:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+ff_14:enkelt
+ff_15:ADJ_Definite=Ind|Degree=Pos|Number=Sing
+ff_16:enkelt
+ff_17:ADJ_Definite=Ind|Degree=Pos|Number=Sing
+ff_0:det
+ff_1:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+ff_8:udlandet
+ff_9:NOUN_Definite=Def|Gender=Neut|Number=Sing
+ff_15:NOUN_Definite=Ind|Gender=Neut|Number=Plur
+ff_17:NOUN_Definite=Ind|Gender=Neut|Number=Plur
+ff_4:NOUN_Definite=Ind|Gender=Neut|Number=Plur
+ff_1:NOUN_Definite=Ind|Gender=Neut|Number=Plur
+ff_3:udlandet
+ff_19:NOUN_Definite=Ind|Gender=Com|Number=Plur
+ff_20:med
+ff_21:ADV__
+ff_0:udlandet
+ff_0:med
+ff_1:ADJ_Definite=Def|Degree=Pos|Number=Sing
+ff_4:NOUN_Definite=Ind|Gender=Neut|Number=Sing
+ff_11:NOUN_Definite=Ind|Gender=Neut|Number=Sing
+ff_18:børn
+ff_19:NOUN_Definite=Ind|Gender=Neut|Number=Plur
+ff_1:DET_Gender=Neut|Number=Sing|PronType=Dem
+ff_1:ADV_Degree=Pos
+ff_4:VERB_Definite=Def|Number=Sing|Tense=Past|VerbForm=Part
+ff_11:ADJ_Definite=Def|Degree=Pos|Number=Sing
+ff_13:VERB_Definite=Def|Number=Sing|Tense=Past|VerbForm=Part
+ff_18:det
+ff_19:DET_Gender=Neut|Number=Sing|PronType=Dem
+ff_20:det
+ff_21:DET_Gender=Neut|Number=Sing|PronType=Dem
+ff_1:VERB_Definite=Def|Number=Sing|Tense=Past|VerbForm=Part
+ff_7:ADV_Degree=Pos
+ff_9:ADV_Degree=Pos
+ff_1:NOUN_Definite=Ind|Gender=Neut|Number=Sing
+ff_7:ADJ_Definite=Def|Degree=Pos|Number=Sing
+ff_9:VERB_Definite=Def|Number=Sing|Tense=Past|VerbForm=Part
+ff_14:det
+ff_15:DET_Gender=Neut|Number=Sing|PronType=Dem
+ff_16:det
+ff_17:DET_Gender=Neut|Number=Sing|PronType=Dem
+ff_3:børn
+ff_0:børn
+ff_6:med
+ff_8:har
+ff_14:-
+ff_15:PUNCT__
+ff_16:-
+ff_17:PUNCT__
+ff_0:-
+ff_3:har
+ff_8:-
+ff_9:PUNCT__
+ff_14:selv
+ff_15:PRON_PronType=Dem
+ff_16:tre
+ff_17:NUM_NumType=Card
+ff_0:selv
+ff_1:PRON_PronType=Dem
+ff_0:tre
+ff_1:NUM_NumType=Card
+ff_0:er
+ff_0:så
+ff_6:har
+ff_7:VERB_Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_8:,
+ff_15:NOUN_Definite=Def|Gender=Com|Number=Sing
+ff_17:NOUN_Definite=Ind|Gender=Neut|Number=Sing
+ff_0:for
+ff_1:ADJ_Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing
+ff_6:for
+ff_9:ADJ_Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing
+ff_15:ADJ_Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing
+ff_16:for
+ff_0:den
+ff_1:PRON_Case=Acc|Gender=Com|Number=Sing|Person=3|PronType=Prs
+ff_3:så
+ff_6:at
+ff_7:SCONJ__
+ff_10:og
+ff_11:CCONJ__
+ff_12:,
+ff_14:den
+ff_15:PRON_Case=Acc|Gender=Com|Number=Sing|Person=3|PronType=Prs
+ff_16:den
+ff_17:PRON_Case=Acc|Gender=Com|Number=Sing|Person=3|PronType=Prs
+ff_19:NOUN_Definite=Def|Gender=Com|Number=Sing
+ff_21:NOUN_Definite=Ind|Gender=Neut|Number=Sing
+ff_0:egen
+ff_1:ADJ_Degree=Pos|Gender=Com|Number=Sing
+ff_6:egen
+ff_7:ADJ_Degree=Pos|Gender=Com|Number=Sing
+ff_9:NOUN_Definite=Ind|Gender=Neut|Number=Sing
+ff_15:NOUN_Definite=Ind|Gender=Neut|Number=Sing
+ff_16:egen
+ff_17:ADJ_Degree=Pos|Gender=Com|Number=Sing
+ff_1:PRON_Case=Nom|Gender=Com|Number=Sing|Person=3|PronType=Prs
+ff_0:på
+ff_3:år
+ff_1:ADJ_NumType=Ord
+ff_0:år
+ff_6:på
+ff_9:ADJ_NumType=Ord
+ff_15:ADJ_NumType=Ord
+ff_16:på
+ff_0:sin
+ff_1:DET_Gender=Com|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_14:sin
+ff_15:DET_Gender=Com|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_16:,
+ff_4:NUM_NumType=Card
+ff_5:NUM
+ff_3:have
+ff_4:VERB_VerbForm=Inf|Voice=Act
+ff_0:ville
+ff_1:AUX_Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act
+ff_3:mand
+ff_11:NUM_NumType=Card
+ff_18:ville
+ff_19:AUX_Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act
+ff_20:fik
+ff_21:VERB_Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act
+ff_0:mand
+ff_8:til
+ff_0:men
+ff_3:fik
+ff_4:VERB_Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act
+ff_3:lov
+ff_4:NOUN__
+ff_0:fik
+ff_1:VERB_Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act
+ff_6:men
+ff_9:VERB_Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_14:han
+ff_15:PRON_Case=Nom|Gender=Com|Number=Sing|Person=3|PronType=Prs
+ff_0:han
+ff_0:ikke
+ff_0:lov
+ff_1:NOUN__
+ff_6:det
+ff_7:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+ff_3:det
+ff_4:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+ff_5:PRON
+ff_10:men
+ff_13:VERB_Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_18:han
+ff_19:PRON_Case=Nom|Gender=Com|Number=Sing|Person=3|PronType=Prs
+ff_20:for
+ff_21:CCONJ__
+ff_4:VERB_Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_1:VERB_Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_9:ADJ_Degree=Pos
+ff_15:ADJ_Degree=Pos
+ff_17:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+ff_1:ADP_PartType=Inf
+ff_4:ADJ_Degree=Pos
+ff_1:ADJ_Degree=Pos
+ff_7:ADP_PartType=Inf
+ff_16:som
+ff_17:ADP_PartType=Inf
+ff_4:ADJ_Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing
+ff_3:ikke
+ff_10:ikke
+ff_18:år
+ff_19:NOUN_Definite=Ind|Gender=Neut|Number=Sing
+ff_20:år
+ff_3:i
+ff_4:ADP_AdpType=Prep
+ff_5:ADP
+ff_6:ikke
+ff_14:år
+ff_16:år
+ff_1:NOUN_Definite=Def|Gender=Com|Number=Plur
+ff_7:NOUN_Definite=Ind|Gender=Neut|Number=Sing
+ff_11:SCONJ__
+ff_19:NOUN_Definite=Def|Gender=Neut|Number=Sing
+ff_21:NOUN_Definite=Ind|Gender=Com|Number=Sing
+ff_17:NOUN_Definite=Ind|Gender=Com|Number=Sing
+ff_0:hun
+ff_10:nok
+ff_12:nok
+ff_13:ADV__
+ff_0:hendes
+ff_1:DET_Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_1:NOUN_Case=Gen|Definite=Def|Gender=Com|Number=Sing
+ff_6:hendes
+ff_7:DET_Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_9:NOUN_Case=Gen|Definite=Def|Gender=Com|Number=Sing
+ff_16:og
+ff_1:VERB_Definite=Ind|Number=Sing|Tense=Past|VerbForm=Part
+ff_8:stort
+ff_16:er
+ff_17:AUX_Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_0:stort
+ff_6:nok
+ff_8:nok
+ff_0:nok
+ff_3:stort
+ff_7:VERB_Definite=Ind|Number=Sing|Tense=Past|VerbForm=Part
+ff_9:VERB_Definite=Ind|Number=Sing|Tense=Past|VerbForm=Part
+ff_11:VERB_Definite=Ind|Number=Sing|Tense=Past|VerbForm=Part
+ff_13:VERB_Definite=Ind|Number=Sing|Tense=Past|VerbForm=Part
+ff_6:,
+ff_7:PUNCT__
+ff_3:til
+ff_0:kan
+ff_0:blive
+ff_1:AUX_VerbForm=Inf|Voice=Act
+ff_3:nok
+ff_8:tid
+ff_10:,
+ff_11:PUNCT__
+ff_16:blive
+ff_17:AUX_VerbForm=Inf|Voice=Act
+ff_3:tid
+ff_0:fuld
+ff_1:ADJ_Definite=Ind|Degree=Pos|Gender=Com|Number=Sing
+ff_0:tid
+ff_8:fuld
+ff_9:ADJ_Definite=Ind|Degree=Pos|Gender=Com|Number=Sing
+ff_14:fuld
+ff_15:ADJ_Definite=Ind|Degree=Pos|Gender=Com|Number=Sing
+ff_1:DET_Gender=Com|Number=Sing|PronType=Dem
+ff_3:bil
+ff_10:bil
+ff_11:NOUN_Definite=Ind|Gender=Com|Number=Sing
+ff_19:NOUN_Definite=Ind|Gender=Com|Number=Sing
+ff_21:NOUN_Definite=Def|Gender=Com|Number=Sing
+ff_0:bil
+ff_7:DET_Gender=Com|Number=Sing|PronType=Dem
+ff_17:DET_Gender=Com|Number=Sing|PronType=Dem
+ff_0:denne
+ff_9:ADJ_Definite=Def|Degree=Pos|Number=Sing
+ff_14:denne
+ff_15:DET_Gender=Com|Number=Sing|PronType=Dem
+ff_16:denne
+ff_8:biler
+ff_14:biler
+ff_15:NOUN_Definite=Ind|Gender=Com|Number=Plur
+ff_3:biler
+ff_0:andre
+ff_1:DET_Number=Plur|PronType=Ind
+ff_0:biler
+ff_15:NUM_NumType=Card
+ff_16:andre
+ff_17:DET_Number=Plur|PronType=Ind
+ff_15:PROPN__
+ff_3:siger
+ff_3:gå
+ff_13:NOUN_Definite=Ind|Gender=Neut|Number=Sing
+ff_0:gå
+ff_1:VERB_VerbForm=Inf|Voice=Act
+ff_8:med
+ff_16:kan
+ff_0:fælles
+ff_3:med
+ff_14:fælles
+ff_6:den
+ff_15:ADJ_Definite=Def|Degree=Pos|Number=Sing
+ff_8:samarbejde
+ff_14:samarbejde
+ff_3:samarbejde
+ff_0:samarbejde
+ff_1:PRON_Gender=Com|Number=Sing|PronType=Ind
+ff_3:satte
+ff_6:anden
+ff_7:PRON_Gender=Com|Number=Sing|PronType=Ind
+ff_8:anden
+ff_9:PRON_Gender=Com|Number=Sing|PronType=Ind
+ff_0:anden
+ff_4:PRON_Gender=Com|Number=Sing|PronType=Ind
+ff_3:sig
+ff_4:PRON_Case=Acc|Person=3|PronType=Prs|Reflex=Yes
+ff_0:sig
+ff_1:PRON_Case=Acc|Person=3|PronType=Prs|Reflex=Yes
+ff_8:selv
+ff_9:PRON_PronType=Dem
+ff_16:til
+ff_0:der
+ff_6:der
+ff_8:står
+ff_14:købe
+ff_15:VERB_VerbForm=Inf|Voice=Act
+ff_16:købe
+ff_17:VERB_VerbForm=Inf|Voice=Act
+ff_3:købe
+ff_1:PART_PartType=Inf
+ff_0:købe
+ff_8:hjem
+ff_15:PART_PartType=Inf
+ff_17:NOUN_Definite=Def|Gender=Com|Number=Plur
+ff_0:hjem
+ff_3:står
+ff_0:står
+ff_0:være
+ff_0:et
+ff_1:DET_Gender=Neut|Number=Sing|PronType=Ind
+ff_16:et
+ff_17:DET_Gender=Neut|Number=Sing|PronType=Ind
+ff_0:"
+ff_8:"
+ff_14:"
+ff_16:"
+ff_3:dem
+ff_4:PRON_Case=Acc|Number=Plur|Person=3|PronType=Prs
+ff_0:dem
+ff_1:PRON_Case=Acc|Number=Plur|Person=3|PronType=Prs
+ff_9:VERB_VerbForm=Inf|Voice=Act
+ff_14:,
+ff_14:kan
+ff_15:AUX_Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_20:ned
+ff_1:NOUN_Case=Gen|Definite=Def|Gender=Neut|Number=Sing
+ff_11:NOUN_Case=Gen|Definite=Def|Gender=Com|Number=Sing
+ff_13:NOUN_Case=Gen|Definite=Def|Gender=Com|Number=Sing
+ff_7:NOUN_Case=Gen|Definite=Def|Gender=Neut|Number=Sing
+ff_9:NOUN_Case=Gen|Definite=Def|Gender=Neut|Number=Sing
+ff_0:ned
+ff_7:NOUN_Case=Gen|Definite=Def|Gender=Com|Number=Sing
+ff_0:over
+ff_4:NOUN_Case=Gen|Definite=Def|Gender=Com|Number=Sing
+ff_3:ned
+ff_6:over
+ff_16:over
+ff_1:PRON_Case=Nom|Number=Plur|Person=3|PronType=Prs
+ff_3:sagde
+ff_6:-
+ff_15:PRON_Case=Nom|Number=Plur|Person=3|PronType=Prs
+ff_16:ret
+ff_17:ADV__
+ff_0:jeg
+ff_1:PRON_Case=Nom|Gender=Com|Number=Sing|Person=1|PronType=Prs
+ff_3:lære
+ff_0:må
+ff_7:PART_PartType=Inf
+ff_17:NOUN_Definite=Ind|Gender=Com|Number=Plur
+ff_0:uden
+ff_6:uden
+ff_8:den
+ff_9:PRON_Case=Acc|Gender=Com|Number=Sing|Person=3|PronType=Prs
+ff_16:at
+ff_17:PART_PartType=Inf
+ff_0:otte
+ff_3:millioner
+ff_0:millioner
+ff_6:otte
+ff_7:NUM_NumType=Card
+ff_9:NOUN_Definite=Ind|Gender=Neut|Number=Plur
+ff_16:otte
+ff_0:hvor
+ff_0:man
+ff_1:PRON_Case=Nom|Gender=Com|PronType=Ind
+ff_0:bliver
+ff_6:hvor
+ff_14:man
+ff_15:PRON_Case=Nom|Gender=Com|PronType=Ind
+ff_0:gennem
+ff_0:hele
+ff_6:gennem
+ff_8:hele
+ff_14:hele
+ff_16:gennem
+ff_8:andre
+ff_9:DET_Number=Plur|PronType=Ind
+ff_14:andre
+ff_15:DET_Number=Plur|PronType=Ind
+ff_3:blive
+ff_0:kunne
+ff_16:kunne
+ff_17:AUX_Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act
+ff_0:andet
+ff_1:PRON_Gender=Neut|Number=Sing|PronType=Ind
+ff_8:andet
+ff_9:PRON_Gender=Neut|Number=Sing|PronType=Ind
+ff_14:et
+ff_15:DET_Gender=Neut|Number=Sing|PronType=Ind
+ff_16:eller
+ff_3:gik
+ff_0:gik
+ff_6:så
+ff_9:VERB_Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act
+ff_14:jeg
+ff_15:PRON_Case=Nom|Gender=Com|Number=Sing|Person=1|PronType=Prs
+ff_16:hen
+ff_0:hen
+ff_0:om
+ff_6:om
+ff_8:kunne
+ff_9:AUX_Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act
+ff_17:PRON_Case=Nom|Number=Plur|Person=3|PronType=Prs
+ff_11:NOUN_Definite=Ind|Gender=Neut|Number=Plur
+ff_13:NOUN_Definite=Ind|Gender=Neut|Number=Plur
+ff_0:skulle
+ff_7:NOUN_Definite=Ind|Gender=Neut|Number=Plur
+ff_17:VERB_Definite=Ind|Number=Sing|Tense=Past|VerbForm=Part
+ff_4:VERB_Mood=Imp
+ff_1:VERB_Mood=Imp
+ff_8:!
+ff_7:NOUN_Definite=Ind|Gender=Com|Number=Sing
+ff_1:DET_Gender=Com|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs
+ff_9:DET_Gender=Com|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs
+ff_15:DET_Gender=Com|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs
+ff_0:!
+ff_0:hvis
+ff_3:giver
+ff_0:giver
+ff_6:hvis
+ff_0:godt
+ff_6:et
+ff_7:DET_Gender=Neut|Number=Sing|PronType=Ind
+ff_8:bil
+ff_14:godt
+ff_16:godt
+ff_17:ADJ_Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing
+ff_15:NOUN_Definite=Ind|Gender=Com|Number=Sing
+ff_14:en
+ff_15:DET_Gender=Com|Number=Sing|PronType=Ind
+ff_16:en
+ff_17:DET_Gender=Com|Number=Sing|PronType=Ind
+ff_3:drejer
+ff_9:NUM_NumType=Card
+ff_16:om
+ff_13:NOUN_Definite=Ind|Gender=Com|Number=Sing
+ff_3:område
+ff_0:område
+ff_7:DET_Gender=Neut|Number=Sing|PronType=Dem
+ff_9:DET_Gender=Neut|Number=Sing|PronType=Dem
+ff_0:skal
+ff_0:have
+ff_14:område
+ff_16:skal
+ff_0:stor
+ff_8:stor
+ff_8:som
+ff_9:ADP_PartType=Inf
+ff_0:også
+ff_8:ud
+ff_10:det
+ff_11:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+ff_0:ud
+ff_3:ud
+ff_8:af
+ff_0:hans
+ff_8:år
+ff_14:hans
+ff_15:DET_Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_0:fra
+ff_11:NOUN_Definite=Def|Gender=Com|Number=Sing
+ff_18:,
+ff_19:PUNCT__
+ff_0:sidste
+ff_0:ti
+ff_6:fra
+ff_8:ti
+ff_16:sidste
+ff_17:ADJ_Degree=Pos
+ff_0:verden
+ff_14:verden
+ff_16:verden
+ff_9:NOUN_Definite=Def|Gender=Com|Number=Sing
+ff_0:jo
+ff_6:slet
+ff_8:slet
+ff_0:noget
+ff_0:mænd
+ff_0:blevet
+ff_1:AUX_Definite=Ind|Number=Sing|Tense=Past|VerbForm=Part
+ff_14:mænd
+ff_16:blevet
+ff_17:AUX_Definite=Ind|Number=Sing|Tense=Past|VerbForm=Part
+ff_15:VERB_Definite=Def|Number=Sing|Tense=Past|VerbForm=Part
+ff_8:uger
+ff_14:uger
+ff_3:uger
+ff_0:nogle
+ff_0:uger
+ff_8:nogle
+ff_14:nogle
+ff_16:af
+ff_10:vil
+ff_11:VERB_Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_12:vil
+ff_13:VERB_Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_4:ADJ_Degree=Pos|Gender=Com|Number=Sing
+ff_6:vil
+ff_8:vil
+ff_11:ADJ_Degree=Pos|Gender=Com|Number=Sing
+ff_21:ADJ_Degree=Pos|Gender=Com|Number=Sing
+ff_8:så
+ff_3:vil
+ff_10:der
+ff_18:ikke
+ff_19:ADV__
+ff_20:væk
+ff_14:ikke
+ff_15:ADV__
+ff_16:væk
+ff_0:væk
+ff_0:vil
+ff_9:X__
+ff_10:så
+ff_12:så
+ff_1:X__
+ff_3:fået
+ff_0:vi
+ff_1:PRON_Case=Nom|Gender=Com|Number=Plur|Person=1|PronType=Prs
+ff_0:ny
+ff_14:ny
+ff_3:finde
+ff_3:partier
+ff_0:partier
+ff_6:de
+ff_7:DET_Number=Plur|PronType=Dem
+ff_0:finde
+ff_8:sig
+ff_9:PRON_Case=Acc|Person=3|PronType=Prs|Reflex=Yes
+ff_15:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+ff_16:ikke
+ff_1:NOUN_Case=Gen|Definite=Def|Gender=Com|Number=Plur
+ff_7:NOUN_Case=Gen|Definite=Def|Gender=Com|Number=Plur
+ff_17:NOUN_Case=Gen|Definite=Def|Gender=Com|Number=Plur
+ff_18:ønsker
+ff_20:ønsker
+ff_21:NOUN_Definite=Ind|Gender=Neut|Number=Plur
+ff_0:kommende
+ff_1:VERB_Tense=Pres|VerbForm=Part
+ff_16:kommende
+ff_17:VERB_Tense=Pres|VerbForm=Part
+ff_0:dels
+ff_3:dels
+ff_3:ønsker
+ff_0:ønsker
+ff_8:dels
+ff_6:dels
+ff_9:NOUN_Case=Gen|Definite=Def|Gender=Com|Number=Plur
+ff_14:på
+ff_15:ADP_AdpType=Prep
+ff_4:NOUN_Case=Gen|Definite=Def|Gender=Com|Number=Plur
+ff_10:krav
+ff_12:krav
+ff_6:krav
+ff_8:krav
+ff_3:krav
+ff_1:PRON_Number=Plur|PronType=Int,Rel
+ff_0:krav
+ff_9:VERB_VerbForm=Inf|Voice=Pass
+ff_15:PRON_Number=Plur|PronType=Int,Rel
+ff_4:VERB_VerbForm=Inf|Voice=Pass
+ff_1:VERB_VerbForm=Inf|Voice=Pass
+ff_8:1987
+ff_14:må
+ff_3:1987
+ff_0:1987
+ff_3:kom
+ff_7:NOUN_Case=Gen|Definite=Ind|Gender=Com|Number=Sing
+ff_17:NOUN_Case=Gen|Definite=Ind|Gender=Com|Number=Sing
+ff_1:NOUN_Case=Gen|Definite=Ind|Gender=Com|Number=Sing
+ff_0:først
+ff_10:uger
+ff_12:uger
+ff_0:seks
+ff_3:senere
+ff_4:ADV_Degree=Cmp
+ff_6:først
+ff_8:seks
+ff_14:seks
+ff_16:først
+ff_0:senere
+ff_1:ADV_Degree=Cmp
+ff_6:uger
+ff_8:fra
+ff_20:ser
+ff_0:mod
+ff_6:mod
+ff_8:mod
+ff_3:ser
+ff_10:selv
+ff_11:PRON_PronType=Dem
+ff_12:selv
+ff_13:PRON_PronType=Dem
+ff_0:ser
+ff_16:sig
+ff_17:PRON_Case=Acc|Person=3|PronType=Prs|Reflex=Yes
+ff_6:selv
+ff_7:PRON_PronType=Dem
+ff_9:NOUN_Definite=Def|Gender=Com|Number=Plur
+ff_4:NOUN_Definite=Def|Gender=Com|Number=Plur
+ff_3:stå
+ff_1:ADV_PartType=Inf
+ff_0:stå
+ff_3:skyldes
+ff_14:der
+ff_15:ADV_PartType=Inf
+ff_6:noget
+ff_8:noget
+ff_9:DET_Gender=Neut|Number=Sing|PronType=Ind
+ff_0:altså
+ff_8:om
+ff_3:selv
+ff_0:naturligvis
+ff_0:mest
+ff_1:ADV_Degree=Sup
+ff_8:tror
+ff_8:for
+ff_3:tror
+ff_0:tror
+ff_15:NOUN_Definite=Def|Gender=Com|Number=Plur
+ff_4:ADJ_Definite=Ind|Degree=Pos|Gender=Com|Number=Sing
+ff_0:blev
+ff_0:tæt
+ff_8:på
+ff_18:blev
+ff_3:tæt
+ff_4:ADV_Degree=Pos
+ff_0:2
+ff_6:tæt
+ff_8:2
+ff_14:2
+ff_16:tæt
+ff_17:ADV_Degree=Pos
+ff_6:her
+ff_8:her
+ff_0:her
+ff_8:ikke
+ff_16:bare
+ff_0:bare
+ff_3:sad
+ff_8:siden
+ff_10:andre
+ff_11:PRON_Number=Plur|PronType=Ind
+ff_12:andre
+ff_13:PRON_Number=Plur|PronType=Ind
+ff_14:siden
+ff_0:ved
+ff_3:siden
+ff_0:siden
+ff_6:ved
+ff_14:af
+ff_16:ved
+ff_1:PRON_Number=Plur|PronType=Dem
+ff_6:andre
+ff_7:PRON_Number=Plur|PronType=Ind
+ff_9:PRON_Number=Plur|PronType=Ind
+ff_1:PRON_Number=Plur|PronType=Ind
+ff_3:de
+ff_4:PRON_Number=Plur|PronType=Dem
+ff_0:foran
+ff_6:foran
+ff_8:foran
+ff_8:hende
+ff_14:sig
+ff_15:PRON_Case=Acc|Person=3|PronType=Prs|Reflex=Yes
+ff_3:hende
+ff_4:PRON_Case=Acc|Gender=Com|Number=Sing|Person=3|PronType=Prs
+ff_0:hende
+ff_3:skrevet
+ff_17:PROPN__
+ff_0:fire
+ff_6:fire
+ff_9:NOUN_Definite=Def|Gender=Neut|Number=Plur
+ff_15:ADJ_Degree=Pos|Number=Plur
+ff_4:NOUN_Definite=Def|Gender=Neut|Number=Plur
+ff_1:NOUN_Definite=Def|Gender=Neut|Number=Plur
+ff_0:mig
+ff_1:PRON_Case=Acc|Gender=Com|Number=Sing|Person=1|PronType=Prs
+ff_0::
+ff_14::
+ff_3:tage
+ff_0:tage
+ff_16:med
+ff_3:fortsatte
+ff_0:fortsatte
+ff_3:skriver
+ff_8:taget
+ff_3:taget
+ff_0:var
+ff_0:taget
+ff_14:var
+ff_15:AUX_Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act
+ff_8:ny
+ff_7:NOUN_Definite=Def|Gender=Com|Number=Sing
+ff_11:VERB_VerbForm=Inf|Voice=Act
+ff_13:VERB_VerbForm=Inf|Voice=Act
+ff_11:PRON_Gender=Com|Number=Sing|PronType=Ind
+ff_12:"
+ff_20:,
+ff_21:PUNCT__
+ff_7:VERB_VerbForm=Inf|Voice=Act
+ff_8:at
+ff_9:PART_PartType=Inf
+ff_3:ham
+ff_0:ham
+ff_1:PROPN_Case=Gen
+ff_0:egne
+ff_7:PROPN_Case=Gen
+ff_14:egne
+ff_3:af
+ff_10:går
+ff_12:går
+ff_10:af
+ff_11:ADP_AdpType=Prep
+ff_12:af
+ff_13:ADP_AdpType=Prep
+ff_14:resultatet
+ff_0:resultatet
+ff_3:resultatet
+ff_11:ADP_PartType=Inf
+ff_12:som
+ff_13:ADP_PartType=Inf
+ff_6:går
+ff_4:ADJ_Definite=Def|Degree=Pos|Number=Sing
+ff_8:september
+ff_14:september
+ff_3:september
+ff_0:september
+ff_3:er
+ff_6:biler
+ff_20:har
+ff_0:to
+ff_8:to
+ff_16:fra
+ff_0:bag
+ff_3:bag
+ff_8:visse
+ff_0:visse
+ff_3:visse
+ff_9:ADJ_Degree=Cmp
+ff_0:end
+ff_1:ADP__
+ff_6:end
+ff_7:ADP__
+ff_10:en
+ff_11:DET_Gender=Com|Number=Sing|PronType=Ind
+ff_13:ADJ_Degree=Cmp
+ff_19:ADJ_Degree=Cmp
+ff_20:en
+ff_21:DET_Gender=Com|Number=Sing|PronType=Ind
+ff_8:få
+ff_14:skal
+ff_16:op
+ff_0:op
+ff_3:op
+ff_3:få
+ff_0:få
+ff_8:arbejde
+ff_0:alle
+ff_6:alle
+ff_7:ADJ_Degree=Pos|Number=Plur
+ff_16:alle
+ff_17:ADJ_Degree=Pos|Number=Plur
+ff_3:arbejde
+ff_0:arbejde
+ff_0:når
+ff_3:får
+ff_11:NOUN_Definite=Def|Gender=Neut|Number=Sing
+ff_13:NOUN_Definite=Def|Gender=Neut|Number=Sing
+ff_0:får
+ff_6:når
+ff_14:hun
+ff_7:NOUN_Definite=Def|Gender=Neut|Number=Sing
+ff_0:eneste
+ff_0:danske
+ff_9:ADJ_Definite=Ind|Degree=Pos|Number=Sing
+ff_3:om
+ff_0:større
+ff_6:også
+ff_8:større
+ff_8:længe
+ff_0:inden
+ff_3:længe
+ff_0:længe
+ff_6:inden
+ff_8:inden
+ff_3:var
+ff_0:flere
+ff_1:ADJ_Degree=Cmp|Number=Plur
+ff_6:flere
+ff_7:ADJ_Degree=Cmp|Number=Plur
+ff_8:flere
+ff_9:ADJ_Degree=Cmp|Number=Plur
+ff_18:og
+ff_19:CCONJ__
+ff_20:der
+ff_21:ADV_PartType=Inf
+ff_6:bag
+ff_8:bag
+ff_16:der
+ff_17:ADV_PartType=Inf
+ff_8:set
+ff_14:set
+ff_15:VERB_Definite=Ind|Number=Sing|Tense=Past|VerbForm=Part
+ff_3:set
+ff_0:kun
+ff_0:havde
+ff_0:set
+ff_6:han
+ff_7:PRON_Case=Nom|Gender=Com|Number=Sing|Person=3|PronType=Prs
+ff_8:del
+ff_14:kun
+ff_16:havde
+ff_3:del
+ff_1:ADJ_Definite=Def|Degree=Sup
+ff_0:del
+ff_15:ADJ_Definite=Def|Degree=Sup
+ff_17:ADJ_Definite=Def|Degree=Sup
+ff_0:tilbage
+ff_3:holde
+ff_0:øjne
+ff_3:øjne
+ff_0:åbne
+ff_3:skal
+ff_14:hen
+ff_17:VERB_Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_8:mine
+ff_14:mine
+ff_3:mine
+ff_0:mine
+ff_4:CCONJ__
+ff_5:CCONJ
+ff_10:han
+ff_11:PRON_Case=Nom|Gender=Com|Number=Sing|Person=3|PronType=Prs
+ff_18:hen
+ff_0:alligevel
+ff_0:samme
+ff_0:måde
+ff_8:se
+ff_14:samme
+ff_0:almindelig
+ff_8:almindelig
+ff_3:se
+ff_0:se
+ff_16:lidt
+ff_0:lidt
+ff_18:hun
+ff_21:VERB_VerbForm=Inf|Voice=Act
+ff_0:meget
+ff_13:ADJ_Definite=Ind|Degree=Pos|Gender=Com|Number=Sing
+ff_18:en
+ff_19:DET_Gender=Com|Number=Sing|PronType=Ind
+ff_6:meget
+ff_8:meget
+ff_3:alene
+ff_10:alene
+ff_0:alene
+ff_15:NOUN_Case=Gen|Definite=Def|Gender=Com|Number=Sing
+ff_19:ADJ_Definite=Ind|Degree=Pos|Gender=Com|Number=Sing
+ff_8:kr.
+ff_14:kr.
+ff_3:kr.
+ff_0:kr.
+ff_14:dog
+ff_0:dog
+ff_14:over
+ff_0:efter
+ff_3:efter
+ff_0:byen
+ff_3:igennem
+ff_0:igennem
+ff_6:efter
+ff_18:med
+ff_19:ADP_AdpType=Prep
+ff_20:i
+ff_21:ADP_AdpType=Prep
+ff_14:med
+ff_9:NOUN_Case=Gen|Definite=Ind|Gender=Com|Number=Sing
+ff_9:PROPN_Case=Gen
+ff_15:PROPN_Case=Gen
+ff_16:mod
+ff_18:man
+ff_19:PRON_Case=Nom|Gender=Com|PronType=Ind
+ff_21:NOUN_Definite=Ind|Gender=Com|Number=Plur
+ff_0:ingen
+ff_6:ingen
+ff_8:lade
+ff_14:lade
+ff_16:ingen
+ff_3:lade
+ff_0:lade
+ff_16:del
+ff_11:ADJ_Definite=Ind|Degree=Pos|Gender=Com|Number=Sing
+ff_17:ADJ_Definite=Def|Degree=Pos|Number=Sing
+ff_7:ADJ_Definite=Ind|Degree=Pos|Gender=Com|Number=Sing
+ff_20:personer
+ff_8:danske
+ff_14:danske
+ff_3:personer
+ff_0:personer
+ff_6:godt
+ff_1:DET_Gender=Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs
+ff_7:DET_Gender=Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs
+ff_9:DET_Gender=Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs
+ff_0:lille
+ff_1:ADJ_Degree=Pos|Number=Sing
+ff_3:en
+ff_16:bag
+ff_0:sine
+ff_1:DET_Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_14:sine
+ff_15:DET_Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_6:"
+ff_0:stadig
+ff_7:ADJ_Degree=Pos
+ff_10:år
+ff_18:er
+ff_19:AUX_Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_21:VERB_Tense=Pres|VerbForm=Part
+ff_20:og
+ff_0:mange
+ff_8:mange
+ff_14:mange
+ff_4:VERB_Tense=Pres|VerbForm=Part
+ff_8:skulle
+ff_3:skulle
+ff_0:snart
+ff_8:området
+ff_16:snart
+ff_3:området
+ff_0:området
+ff_3:uden
+ff_15:VERB_Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act
+ff_4:PRON_Case=Nom|Number=Plur|Person=3|PronType=Prs
+ff_7:PRON_Case=Nom|Number=Plur|Person=3|PronType=Prs
+ff_14:er
+ff_1:DET_Gender=Com|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs|Style=Form
+ff_0:direkte
+ff_8:direkte
+ff_15:DET_Gender=Com|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs|Style=Form
+ff_17:DET_Gender=Com|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs|Style=Form
+ff_14:anden
+ff_17:PROPN_Case=Gen
+ff_3:politiet
+ff_0:politiet
+ff_3:faldt
+ff_3:hinanden
+ff_4:PRON_Number=Plur|PronType=Rcp
+ff_0:hinanden
+ff_1:PRON_Number=Plur|PronType=Rcp
+ff_8:politiet
+ff_0:hos
+ff_6:hos
+ff_8:hos
+ff_0:blot
+ff_6:var
+ff_7:VERB_Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act
+ff_8:var
+ff_0:overhovedet
+ff_10:om
+ff_12:problemer
+ff_18:at
+ff_19:SCONJ__
+ff_20:ikke
+ff_6:overhovedet
+ff_8:overhovedet
+ff_8:problemer
+ff_0:nogen
+ff_3:problemer
+ff_0:problemer
+ff_6:nogen
+ff_8:nogen
+ff_11:NOUN_Definite=Def|Gender=Com|Number=Plur
+ff_18:der
+ff_19:ADV_PartType=Inf
+ff_10:i
+ff_13:ADJ_Degree=Pos
+ff_18:den
+ff_19:DET_Gender=Com|Number=Sing|PronType=Dem
+ff_20:den
+ff_21:DET_Gender=Com|Number=Sing|PronType=Dem
+ff_6:stor
+ff_17:ADJ_Definite=Ind|Degree=Pos|Gender=Com|Number=Sing
+ff_17:NOUN_Case=Gen|Definite=Def|Gender=Com|Number=Sing
+ff_10:arbejde
+ff_3:verden
+ff_6:verden
+ff_8:verden
+ff_0:(
+ff_6:(
+ff_8:)
+ff_0:)
+ff_3:svært
+ff_6:sige
+ff_8:sige
+ff_0:svært
+ff_3:sige
+ff_0:sige
+ff_13:ADJ_Degree=Pos|Number=Plur
+ff_3:leve
+ff_0:leve
+ff_9:AUX_Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_4:AUX_Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_5:AUX
+ff_6:vi
+ff_7:PRON_Case=Nom|Gender=Com|Number=Plur|Person=1|PronType=Prs
+ff_8:vi
+ff_9:PRON_Case=Nom|Gender=Com|Number=Plur|Person=1|PronType=Prs
+ff_3:havde
+ff_8:plads
+ff_3:plads
+ff_0:plads
+ff_8:personer
+ff_14:personer
+ff_18:da
+ff_8:fire
+ff_14:fire
+ff_0:da
+ff_6:række
+ff_8:række
+ff_3:række
+ff_0:række
+ff_3:problem
+ff_10:enkelt
+ff_11:ADJ_Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing
+ff_18:kan
+ff_21:VERB_Definite=Ind|Number=Sing|Tense=Past|VerbForm=Part
+ff_0:problem
+ff_8:skabt
+ff_0:skabt
+ff_3:skabt
+ff_6:direktør
+ff_0:direktør
+ff_4:PROPN_Case=Gen
+ff_8:millioner
+ff_14:millioner
+ff_0:ca.
+ff_10:med
+ff_12:kroner
+ff_18:på
+ff_21:NUM_NumType=Card
+ff_6:ca.
+ff_8:ca.
+ff_8:kroner
+ff_0:kroner
+ff_0:10
+ff_15:X__
+ff_8:10
+ff_19:NOUN_Definite=Def|Gender=Com|Number=Plur
+ff_20:række
+ff_3:mindst
+ff_4:ADV_Degree=Sup
+ff_0:mindst
+ff_14:i
+ff_6:mindst
+ff_7:ADV_Degree=Sup
+ff_8:mindst
+ff_9:ADV_Degree=Sup
+ff_14:nye
+ff_0:nye
+ff_3:måde
+ff_0:helt
+ff_3:ny
+ff_10:på
+ff_12:ny
+ff_6:helt
+ff_8:helt
+ff_0:klart
+ff_6:klart
+ff_8:klart
+ff_3:lå
+ff_1:ADJ_Case=Gen|Degree=Cmp
+ff_9:ADJ_Case=Gen|Degree=Cmp
+ff_15:ADJ_Case=Gen|Degree=Cmp
+ff_0:økonomisk
+ff_8:økonomisk
+ff_14:økonomisk
+ff_3:fuld
+ff_0:begge
+ff_0:store
+ff_6:store
+ff_8:store
+ff_1:NOUN_Case=Gen|Definite=Def|Gender=Neut|Number=Plur
+ff_9:NOUN_Case=Gen|Definite=Def|Gender=Neut|Number=Plur
+ff_15:NOUN_Case=Gen|Definite=Def|Gender=Neut|Number=Plur
+ff_0:langt
+ff_8:langt
+ff_14:langt
+ff_0:deres
+ff_1:DET_Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_8:deres
+ff_9:DET_Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_14:deres
+ff_15:DET_Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_8:tilbage
+ff_3:tilbage
+ff_3:fald
+ff_18:fald
+ff_0:fald
+ff_14:så
+ff_14:fald
+ff_15:NOUN_Definite=Def|Gender=Neut|Number=Plur
+ff_3:mener
+ff_3:på
+ff_3:mig
+ff_4:PRON_Case=Acc|Gender=Com|Number=Sing|Person=1|PronType=Prs
+ff_6:hedder
+ff_8:hedder
+ff_3:hedder
+ff_0:hedder
+ff_17:VERB_Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act
+ff_3:ligger
+ff_11:ADJ_Degree=Pos|Number=Plur
+ff_3:stærk
+ff_10:"
+ff_21:ADJ_Definite=Ind|Degree=Pos|Gender=Com|Number=Sing
+ff_7:VERB_VerbForm=Inf|Voice=Pass
+ff_0:tyske
+ff_16:resten
+ff_3:resten
+ff_0:resten
+ff_0:under
+ff_6:under
+ff_0:økonomiske
+ff_16:økonomiske
+ff_6:nye
+ff_8:nye
+ff_7:AUX_Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_6:begge
+ff_8:begge
+ff_9:DET_Number=Plur|PronType=Dem
+ff_14:to
+ff_4:ADJ_Definite=Def|Degree=Sup
+ff_0:gamle
+ff_14:gamle
+ff_16:gamle
+ff_10:at
+ff_20:at
+ff_21:SCONJ__
+ff_0:før
+ff_14:før
+ff_16:før
+ff_17:SCONJ__
+ff_0:politiske
+ff_16:flere
+ff_17:ADJ_Degree=Cmp|Number=Plur
+ff_0:næsten
+ff_3:nogle
+ff_4:PRON_Number=Plur|PronType=Ind
+ff_18:nogle
+ff_19:PRON_Number=Plur|PronType=Ind
+ff_21:INTJ__
+ff_15:PRON_Number=Plur|PronType=Ind
+ff_17:INTJ__
+ff_1:INTJ__
+ff_8:altså
+ff_14:altså
+ff_4:INTJ__
+ff_5:INTJ
+ff_3:"
+ff_4:PUNCT__
+ff_5:PUNCT
+ff_0:måtte
+ff_0:amerikanske
+ff_14:amerikanske
+ff_0:endnu
+ff_3:gang
+ff_0:gang
+ff_6:endnu
+ff_16:endnu
+ff_9:VERB_Tense=Pres|VerbForm=Part
+ff_15:VERB_Tense=Pres|VerbForm=Part
+ff_0:min
+ff_8:min
+ff_14:min
+ff_0:tiden
+ff_6:tiden
+ff_8:får
+ff_14:bliver
+ff_1:DET_Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs
+ff_15:DET_Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs
+ff_16:egne
+ff_15:PRON_Number=Plur|PronType=Dem
+ff_17:PRON_Number=Plur|PronType=Dem
+ff_0:al
+ff_6:al
+ff_8:al
+ff_9:ADJ_Degree=Pos|Gender=Com|Number=Sing
+ff_14:)
+ff_16:(
+ff_10:ved
+ff_12:ved
+ff_0:lige
+ff_8:ved
+ff_3:lige
+ff_6:lige
+ff_8:høre
+ff_14:høre
+ff_3:høre
+ff_0:høre
+ff_14:hende
+ff_0:nu
+ff_0:heller
+ff_6:heller
+ff_8:heller
+ff_3:meget
+ff_6:før
+ff_3:kender
+ff_0:f.eks.
+ff_6:f.eks.
+ff_16:f.eks.
+ff_1:ADJ_Degree=Pos|Gender=Neut|Number=Sing
+ff_8:efter
+ff_3:været
+ff_0:været
+ff_16:har
+ff_8:sine
+ff_9:DET_Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_8:ham
+ff_16:jeg
+ff_17:PRON_Case=Nom|Gender=Com|Number=Sing|Person=1|PronType=Prs
+ff_6:se
+ff_21:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+ff_3:at
+ff_4:PART_PartType=Inf
+ff_5:PART
+ff_12:tage
+ff_19:PART_PartType=Inf
+ff_20:hende
+ff_21:PRON_Case=Acc|Gender=Com|Number=Sing|Person=3|PronType=Prs
+ff_6:blot
+ff_8:blot
+ff_8:tage
+ff_16:hende
+ff_1:DET_Gender=Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs|Style=Form
+ff_0:hel
+ff_3:elsker
+ff_0:elsker
+ff_14:dig
+ff_15:PRON_Case=Acc|Gender=Com|Number=Sing|Person=2|PronType=Prs
+ff_16:dig
+ff_17:PRON_Case=Acc|Gender=Com|Number=Sing|Person=2|PronType=Prs
+ff_0:dig
+ff_1:PRON_Case=Acc|Gender=Com|Number=Sing|Person=2|PronType=Prs
+ff_3:bliver
+ff_8:én
+ff_14:nu
+ff_0:én
+ff_3:én
+ff_3:15
+ff_8:hans
+ff_9:DET_Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_3:noget
+ff_4:PRON_Gender=Neut|Number=Sing|PronType=Ind
+ff_3:skrive
+ff_0:skrive
+ff_14:hjem
+ff_16:hjem
+ff_19:VERB_Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_8:ad
+ff_14:ad
+ff_16:han
+ff_17:PRON_Case=Nom|Gender=Com|Number=Sing|Person=3|PronType=Prs
+ff_0:ad
+ff_1:DET_Gender=Com|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs
+ff_3:mor
+ff_0:mor
+ff_7:DET_Gender=Com|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs
+ff_9:DET_Gender=Com|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs
+ff_16:direktør
+ff_3:haft
+ff_3:side
+ff_0:side
+ff_0:haft
+ff_20:mulighed
+ff_0:mulighed
+ff_3:mulighed
+ff_8:gør
+ff_3:gør
+ff_20:som
+ff_21:ADP_PartType=Inf
+ff_6:mange
+ff_16:mange
+ff_0:gør
+ff_0:fem
+ff_8:fem
+ff_14:fem
+ff_3:eksempel
+ff_0:eksempel
+ff_8:omkring
+ff_14:omkring
+ff_0:omkring
+ff_6:eksempel
+ff_16:ny
+ff_0:ja
+ff_8:mand
+ff_10:for
+ff_12:for
+ff_3:blot
+ff_8:måde
+ff_17:PRON_PartType=Inf
+ff_0:?
+ff_8:glæde
+ff_3:glæde
+ff_0:glæde
+ff_0:folk
+ff_14:folk
+ff_14:november
+ff_3:november
+ff_0:november
+ff_8:er
+ff_3:forbindelse
+ff_0:forbindelse
+ff_4:NOUN_Case=Gen|Definite=Ind|Gender=Neut|Number=Plur
+ff_13:NOUN_Case=Gen|Definite=Ind|Gender=Neut|Number=Plur
+ff_19:NOUN_Case=Gen|Definite=Ind|Gender=Neut|Number=Plur
+ff_1:NOUN_Case=Gen|Definite=Ind|Gender=Neut|Number=Plur
+ff_6:sin
+ff_7:DET_Gender=Com|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_8:sin
+ff_9:DET_Gender=Com|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_9:NOUN_Case=Gen|Definite=Ind|Gender=Neut|Number=Plur
+ff_15:NOUN_Case=Gen|Definite=Ind|Gender=Neut|Number=Plur
+ff_1:PRON_Number=Sing|PronType=Int,Rel
+ff_6:er
+ff_16:?
+ff_4:PRON_Number=Sing|PronType=Int,Rel
+ff_8:penge
+ff_3:penge
+ff_3:for
+ff_0:penge
+ff_14:hvor
+ff_8:skal
+ff_16:vi
+ff_17:PRON_Case=Nom|Gender=Com|Number=Plur|Person=1|PronType=Prs
+ff_19:PROPN__
+ff_21:PROPN__
+ff_17:VERB_Definite=Def|Number=Sing|Tense=Past|VerbForm=Part
+ff_6:økonomiske
+ff_8:økonomiske
+ff_3:økonomiske
+ff_12:politiske
+ff_13:ADJ_Definite=Def|Degree=Pos|Number=Sing
+ff_18:som
+ff_19:ADP_PartType=Inf
+ff_3:politiske
+ff_8:politiske
+ff_14:som
+ff_15:ADP_PartType=Inf
+ff_21:ADJ_Degree=Pos|Number=Plur
+ff_16:nye
+ff_0:ganske
+ff_3:findes
+ff_6:2
+ff_8:side
+ff_14:side
+ff_8:et
+ff_0:fordi
+ff_0:lære
+ff_3:mænd
+ff_8:par
+ff_3:par
+ff_0:par
+ff_6:sig
+ff_7:PRON_Case=Acc|Person=3|PronType=Prs|Reflex=Yes
+ff_14:flere
+ff_15:ADJ_Degree=Cmp|Number=Plur
+ff_0:højere
+ff_6:højere
+ff_7:ADJ_Degree=Cmp
+ff_16:højere
+ff_13:NOUN_Definite=Def|Gender=Com|Number=Sing
+ff_21:NOUN_Definite=Def|Gender=Com|Number=Plur
+ff_8:livet
+ff_16:dem
+ff_17:PRON_Case=Acc|Number=Plur|Person=3|PronType=Prs
+ff_0:livet
+ff_3:svar
+ff_0:svar
+ff_3:brug
+ff_0:brug
+ff_16:fortsatte
+ff_0:rent
+ff_6:rent
+ff_8:rent
+ff_14:om
+ff_8:eksempel
+ff_3:lave
+ff_0:lave
+ff_8:komme
+ff_15:VERB_Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_3:komme
+ff_10:millioner
+ff_12:millioner
+ff_0:komme
+ff_6:millioner
+ff_3:hjem
+ff_3:sat
+ff_0:sat
+ff_10:politiet
+ff_12:politiet
+ff_6:politiet
+ff_6:fordi
+ff_16:sagen
+ff_3:sagen
+ff_0:sagen
+ff_8:under
+ff_0:vore
+ff_1:DET_Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs|Style=Form
+ff_20:mod
+ff_6:vore
+ff_7:DET_Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs|Style=Form
+ff_16:vore
+ff_17:DET_Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs|Style=Form
+ff_3:mod
+ff_16:tale
+ff_3:tale
+ff_0:tale
+ff_6:dem
+ff_7:PRON_Case=Acc|Number=Plur|Person=3|PronType=Prs
+ff_8:dem
+ff_9:PRON_Case=Acc|Number=Plur|Person=3|PronType=Prs
+ff_12:mange
+ff_18:mange
+ff_3:mange
+ff_3:råd
+ff_10:råd
+ff_0:råd
+ff_16:sin
+ff_17:DET_Gender=Com|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_6:fundet
+ff_8:fundet
+ff_3:fundet
+ff_0:fundet
+ff_14:har
+ff_8:frem
+ff_16:blev
+ff_0:frem
+ff_0:hvad
+ff_0:sagde
+ff_6:hvad
+ff_7:PRON_Number=Sing|PronType=Int,Rel
+ff_16::
+ff_12:mand
+ff_18:mand
+ff_14:mand
+ff_0:pr.
+ff_6:pr.
+ff_8:pr.
+ff_0:måske
+ff_12:holde
+ff_8:holde
+ff_3:støtte
+ff_0:støtte
+ff_0:hvilket
+ff_1:PRON_Gender=Neut|Number=Sing|PronType=Int,Rel
+ff_0:bør
+ff_0:holde
+ff_6:hvilket
+ff_7:PRON_Gender=Neut|Number=Sing|PronType=Int,Rel
+ff_16:man
+ff_17:PRON_Case=Nom|Gender=Com|PronType=Ind
+ff_6:klar
+ff_8:klar
+ff_3:klar
+ff_0:stemme
+ff_0:klar
+ff_16:stemme
+ff_20:stemme
+ff_3:betale
+ff_3:øjeblikket
+ff_0:øjeblikket
+ff_8:egen
+ff_16:deres
+ff_17:DET_Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_3:fleste
+ff_4:ADJ_Definite=Def|Degree=Sup|Number=Plur
+ff_13:NOUN__
+ff_18:fleste
+ff_19:ADJ_Definite=Def|Degree=Sup|Number=Plur
+ff_0:fleste
+ff_1:ADJ_Definite=Def|Degree=Sup|Number=Plur
+ff_8:de
+ff_9:NOUN__
+ff_14:fleste
+ff_15:ADJ_Definite=Def|Degree=Sup|Number=Plur
+ff_10:skaffe
+ff_12:skaffe
+ff_10:da
+ff_20:problemer
+ff_6:da
+ff_16:problemer
+ff_6:skaffe
+ff_8:skaffe
+ff_3:skaffe
+ff_0:skaffe
+ff_0:mellem
+ff_6:mellem
+ff_18:svar
+ff_0:senest
+ff_6:senest
+ff_8:1992
+ff_17:ADJ_NumType=Ord
+ff_0:1992
+ff_0:hver
+ff_6:hver
+ff_8:hver
+ff_8:bruge
+ff_3:bruge
+ff_0:bruge
+ff_3:spille
+ff_0:spille
+ff_8:igen
+ff_0:igen
+ff_15:PRON_Case=Nom|Gender=Com|Number=Plur|Person=1|PronType=Prs
+ff_8:hinanden
+ff_9:PRON_Number=Plur|PronType=Rcp
+ff_3:ja
+ff_0:...
+ff_8:siger
+ff_16:...
+ff_0:siger
+ff_8:du
+ff_9:PRON_Case=Nom|Gender=Com|Number=Sing|Person=2|PronType=Prs
+ff_14:du
+ff_15:PRON_Case=Nom|Gender=Com|Number=Sing|Person=2|PronType=Prs
+ff_16:hvad
+ff_17:PRON_Number=Sing|PronType=Int,Rel
+ff_0:du
+ff_1:PRON_Case=Nom|Gender=Com|Number=Sing|Person=2|PronType=Prs
+ff_3:præsident
+ff_0:præsident
+ff_8:støtte
+ff_8:land
+ff_10:-
+ff_12:land
+ff_3:land
+ff_0:sit
+ff_1:DET_Gender=Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_0:land
+ff_9:ADJ_Degree=Pos|Gender=Neut|Number=Sing
+ff_14:sit
+ff_15:DET_Gender=Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_16:sit
+ff_17:DET_Gender=Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_3:interesse
+ff_0:interesse
+ff_8:gode
+ff_0:nemlig
+ff_3:gode
+ff_0:gode
+ff_6:nemlig
+ff_16:midt
+ff_0:midt
+ff_3:som
+ff_4:ADP_PartType=Inf
+ff_16:også
+ff_0:faktisk
+ff_7:PRON_Case=Acc|Gender=Com|Number=Sing|Person=3|PronType=Prs
+ff_7:ADJ_Definite=Ind|Degree=Pos|Number=Sing
+ff_16:hans
+ff_17:DET_Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_12:kommet
+ff_8:kommet
+ff_0:indtil
+ff_3:kommet
+ff_0:kommet
+ff_6:indtil
+ff_16:var
+ff_6:alt
+ff_8:alt
+ff_0:alt
+ff_3:opgave
+ff_0:opgave
+ff_7:DET_Gender=Com|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs
+ff_14:skulle
+ff_8:regering
+ff_14:dermed
+ff_16:dermed
+ff_3:regering
+ff_0:dermed
+ff_0:regering
+ff_6:dermed
+ff_10:dermed
+ff_20:dermed
+ff_14:hver
+ff_16:hver
+ff_8:gøre
+ff_14:gøre
+ff_14:her
+ff_11:PART_PartType=Inf
+ff_12:her
+ff_18:her
+ff_21:PART_PartType=Inf
+ff_3:gøre
+ff_0:gøre
+ff_8:indsats
+ff_14:indsats
+ff_3:indsats
+ff_0:indsats
+ff_0:aldrig
+ff_8:vand
+ff_14:vand
+ff_0:vand
+ff_3:vand
+ff_3:hvad
+ff_0:disse
+ff_8:disse
+ff_14:alle
+ff_3:unge
+ff_12::
+ff_0:unge
+ff_12:leve
+ff_0:fejl
+ff_8:leve
+ff_3:fejl
+ff_0:hverken
+ff_12:med
+ff_18:hverken
+ff_20:vil
+ff_14:hverken
+ff_16:vil
+ff_9:ADJ_Definite=Def|Degree=Sup
+ff_0:kunnet
+ff_14:del
+ff_3:hører
+ff_0:hører
+ff_6:hjemme
+ff_8:hjemme
+ff_3:hjemme
+ff_0:hjemme
+ff_3:nu
+ff_6:gav
+ff_8:gav
+ff_1:NOUN_Definite=Ind|Number=Sing
+ff_3:gav
+ff_0:gav
+ff_8:kendte
+ff_3:kendte
+ff_0:kendte
+ff_4:VERB_Number=Plur|Tense=Past|VerbForm=Part
+ff_10:hendes
+ff_11:DET_Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_1:VERB_Number=Plur|Tense=Past|VerbForm=Part
+ff_0:lokale
+ff_8:lokale
+ff_14:lokale
+ff_8:tog
+ff_16:gik
+ff_0:mens
+ff_6:mens
+ff_10:hende
+ff_11:PRON_Case=Acc|Gender=Com|Number=Sing|Person=3|PronType=Prs
+ff_12:hende
+ff_13:PRON_Case=Acc|Gender=Com|Number=Sing|Person=3|PronType=Prs
+ff_8:ned
+ff_14:sidste
+ff_6:hende
+ff_3:tog
+ff_0:tog
+ff_8:vide
+ff_8:hendes
+ff_3:sine
+ff_4:PRON_Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_1:PRON_Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_3:vide
+ff_0:vide
+ff_0:=
+ff_1:SYM__
+ff_13:NUM_NumType=Card
+ff_3:=
+ff_4:SYM__
+ff_5:SYM
+ff_6:sætte
+ff_8:sætte
+ff_3:sætte
+ff_13:NOUN_Definite=Def|Gender=Com|Number=Plur
+ff_0:sætte
+ff_7:NOUN_Definite=Def|Gender=Com|Number=Plur
+ff_6:livet
+ff_3:livet
+ff_12:gang
+ff_18:gang
+ff_8:gang
+ff_14:gang
+ff_0:100
+ff_8:100
+ff_14:100
+ff_6:to
+ff_1:PRON_Case=Nom|Gender=Com|Person=2|Polite=Form|PronType=Prs
+ff_6:10
+ff_16:senest
+ff_17:ADV_Degree=Sup
+ff_0:gerne
+ff_0:sammen
+ff_3:trak
+ff_0:dybt
+ff_3:sådan
+ff_0:både
+ff_6:både
+ff_0:derfor
+ff_9:VERB_Number=Plur|Tense=Past|VerbForm=Part
+ff_14:derfor
+ff_16:både
+ff_14:ud
+ff_10:side
+ff_12:side
+ff_3:fortæller
+ff_11:NOUN_Definite=Def|Gender=Neut|Number=Plur
+ff_13:NOUN_Definite=Def|Gender=Neut|Number=Plur
+ff_6:side
+ff_18:sammen
+ff_7:NOUN_Definite=Def|Gender=Neut|Number=Plur
+ff_3:sammen
+ff_14:ned
+ff_16:ned
+ff_6:ad
+ff_4:ADJ_Degree=Sup
+ff_0:imidlertid
+ff_3:film
+ff_0:film
+ff_0:desuden
+ff_15:ADV_Degree=Cmp
+ff_17:ADV_Degree=Cmp
+ff_8:fik
+ff_14:al
+ff_15:ADJ_Degree=Pos|Gender=Com|Number=Sing
+ff_10:give
+ff_12:give
+ff_6:hun
+ff_16:lov
+ff_17:NOUN__
+ff_6:give
+ff_8:give
+ff_3:give
+ff_0:give
+ff_8:giver
+ff_8:fri
+ff_16:ham
+ff_0:fri
+ff_10:rundt
+ff_12:rundt
+ff_0:sådan
+ff_8:sådan
+ff_14:sådan
+ff_6:rundt
+ff_8:rundt
+ff_0:rundt
+ff_8:svar
+ff_14:svar
+ff_0:private
+ff_6:private
+ff_8:private
+ff_0:forskellige
+ff_0:små
+ff_8:små
+ff_14:forskellige
+ff_16:forskellige
+ff_1:DET_Number=Plur|PronType=Ind|Style=Arch
+ff_12:meget
+ff_13:ADJ_Definite=Ind|Degree=Pos|Number=Sing
+ff_20:man
+ff_21:PRON_Case=Nom|Gender=Com|PronType=Ind
+ff_7:DET_Number=Plur|PronType=Ind|Style=Arch
+ff_9:DET_Number=Plur|PronType=Ind|Style=Arch
+ff_14:dem
+ff_15:PRON_Case=Acc|Number=Plur|Person=3|PronType=Prs
+ff_18:dem
+ff_19:PRON_Case=Acc|Number=Plur|Person=3|PronType=Prs
+ff_20:dem
+ff_21:PRON_Case=Acc|Number=Plur|Person=3|PronType=Prs
+ff_8:gennem
+ff_3:spørgsmål
+ff_10:spørgsmål
+ff_20:spørgsmål
+ff_0:spørgsmål
+ff_15:NOUN_Case=Gen|Definite=Ind|Gender=Com|Number=Sing
+ff_17:VERB_Number=Plur|Tense=Past|VerbForm=Part
+ff_19:VERB_VerbForm=Inf|Voice=Pass
+ff_21:VERB_VerbForm=Inf|Voice=Pass
+ff_15:ADV_Degree=Pos
+ff_16:end
+ff_17:ADP__
+ff_15:VERB_VerbForm=Inf|Voice=Pass
+ff_17:VERB_VerbForm=Inf|Voice=Pass
+ff_3:sag
+ff_0:sag
+ff_14:private
+ff_1:DET_Case=Gen|Gender=Com|Number=Sing|PronType=Dem
+ff_7:DET_Case=Gen|Gender=Com|Number=Sing|PronType=Dem
+ff_9:DET_Case=Gen|Gender=Com|Number=Sing|PronType=Dem
+ff_3:steg
+ff_10:den
+ff_12:den
+ff_0:steg
+ff_3:pige
+ff_16:ind
+ff_3:den
+ff_3:mente
+ff_0:mente
+ff_8:enkelt
+ff_1:X_Foreign=Yes
+ff_7:X_Foreign=Yes
+ff_9:X_Foreign=Yes
+ff_4:X_Foreign=Yes
+ff_5:X
+ff_17:X_Foreign=Yes
+ff_19:NOUN_Case=Gen|Definite=Def|Gender=Com|Number=Sing
+ff_21:NOUN_Case=Gen|Definite=Def|Gender=Com|Number=Sing
+ff_3:åbne
+ff_1:DET_Person=2|Polite=Form|Poss=Yes|PronType=Prs
+ff_7:DET_Person=2|Polite=Form|Poss=Yes|PronType=Prs
+ff_9:DET_Person=2|Polite=Form|Poss=Yes|PronType=Prs
+ff_8:bruges
+ff_3:bruges
+ff_0:bruges
+ff_16:retten
+ff_3:retten
+ff_0:retten
+ff_18:skal
+ff_0:let
+ff_10:se
+ff_12:se
+ff_6:man
+ff_7:PRON_Case=Nom|Gender=Com|PronType=Ind
+ff_6:gået
+ff_8:gået
+ff_12:er
+ff_3:gået
+ff_0:gået
+ff_8:fået
+ff_14:vi
+ff_16:rolle
+ff_3:rolle
+ff_0:rolle
+ff_8:samme
+ff_3:begge
+ff_6:ud
+ff_4:ADJ_NumType=Ord
+ff_14:helt
+ff_0:fået
+ff_14:mest
+ff_15:ADV_Degree=Sup
+ff_16:mest
+ff_10:mere
+ff_11:ADV_Degree=Cmp
+ff_12:mere
+ff_13:ADV_Degree=Cmp
+ff_6:lidt
+ff_8:lidt
+ff_18:sine
+ff_19:DET_Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_20:sine
+ff_21:DET_Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_6:mere
+ff_7:ADV_Degree=Cmp
+ff_8:mere
+ff_9:ADV_Degree=Cmp
+ff_16:sine
+ff_17:DET_Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_3:tro
+ff_6:dette
+ff_7:PRON_Gender=Neut|Number=Sing|PronType=Dem
+ff_8:dette
+ff_9:PRON_Gender=Neut|Number=Sing|PronType=Dem
+ff_0:dette
+ff_1:PRON_Gender=Neut|Number=Sing|PronType=Dem
+ff_0:enhver
+ff_8:enhver
+ff_14:enhver
+ff_16:landet
+ff_3:landet
+ff_0:landet
+ff_0:tidligere
+ff_6:tidligere
+ff_8:tidligere
+ff_3:stedet
+ff_0:stedet
+ff_8:spil
+ff_14:spil
+ff_3:spil
+ff_0:spil
+ff_0:blandt
+ff_6:andet
+ff_7:PRON_Gender=Neut|Number=Sing|PronType=Ind
+ff_3:blandt
+ff_6:blandt
+ff_8:jeg
+ff_9:PRON_Case=Nom|Gender=Com|Number=Sing|Person=1|PronType=Prs
+ff_1:PRON_Case=Acc|Gender=Com|Number=Plur|Person=1|PronType=Prs
+ff_14:små
+ff_8:otte
+ff_3:mål
+ff_0:mål
+ff_6:fem
+ff_16:fem
+ff_12:set
+ff_18:set
+ff_19:VERB_Definite=Ind|Number=Sing|Tense=Past|VerbForm=Part
+ff_3:alt
+ff_4:ADJ_Degree=Pos|Gender=Neut|Number=Sing
+ff_7:DET_Gender=Com|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs|Style=Form
+ff_3:kilde
+ff_10:kilde
+ff_0:kilde
+ff_8:blevet
+ff_9:AUX_Definite=Ind|Number=Sing|Tense=Past|VerbForm=Part
+ff_3:langt
+ff_8:været
+ff_14:været
+ff_3:ved
+ff_0:hvordan
+ff_9:DET_Gender=Com|Number=Sing|PronType=Dem
+ff_6:hvordan
+ff_16:været
+ff_3:videre
+ff_20:videre
+ff_0:videre
+ff_8:uden
+ff_16:videre
+ff_3:mennesker
+ff_0:mennesker
+ff_14:mennesker
+ff_15:X_Foreign=Yes
+ff_16:blandt
+ff_8:møder
+ff_3:møder
+ff_0:møder
+ff_16:kun
+ff_14:direktør
+ff_6:sådan
+ff_14:vil
+ff_10:hvor
+ff_20:et
+ff_21:PRON_Gender=Neut|Number=Sing|PronType=Ind
+ff_17:PRON_Gender=Neut|Number=Sing|PronType=Ind
+ff_3:et
+ff_14:blive
+ff_15:AUX_VerbForm=Inf|Voice=Act
+ff_7:PRON_Case=Nom|Gender=Com|Number=Sing|Person=1|PronType=Prs
+ff_14:mig
+ff_15:PRON_Case=Acc|Gender=Com|Number=Sing|Person=1|PronType=Prs
+ff_11:ADV_Degree=Pos
+ff_13:ADV_Degree=Pos
+ff_8:mig
+ff_9:PRON_Case=Acc|Gender=Com|Number=Sing|Person=1|PronType=Prs
+ff_16:mig
+ff_17:PRON_Case=Acc|Gender=Com|Number=Sing|Person=1|PronType=Prs
+ff_3:over
+ff_0:hvorfor
+ff_8:lige
+ff_14:hvorfor
+ff_0:3
+ff_10:efter
+ff_12:efter
+ff_6:3
+ff_8:3
+ff_12:100
+ff_20:sig
+ff_21:PRON_Case=Acc|Person=3|PronType=Prs|Reflex=Yes
+ff_14:ville
+ff_7:SYM__
+ff_9:SYM__
+ff_3:100
+ff_0:ofte
+ff_3:holdt
+ff_12:uden
+ff_8:op
+ff_6:dag
+ff_8:dag
+ff_0:dag
+ff_0:dansk
+ff_8:dansk
+ff_14:dansk
+ff_0:ellers
+ff_3:muligt
+ff_0:muligt
+ff_16:altså
+ff_3:kommer
+ff_10:ham
+ff_12:ham
+ff_0:længere
+ff_6:ham
+ff_3:liv
+ff_6:følge
+ff_7:X__
+ff_16:følge
+ff_17:X__
+ff_0:følge
+ff_4:X__
+ff_4:NOUN_Case=Gen|Definite=Ind|Gender=Neut|Number=Sing
+ff_1:NOUN_Case=Gen|Definite=Ind|Gender=Neut|Number=Sing
+ff_7:NOUN_Case=Gen|Definite=Ind|Gender=Neut|Number=Sing
+ff_9:NOUN_Case=Gen|Definite=Ind|Gender=Neut|Number=Sing
+ff_11:X__
+ff_18:har
+ff_20:.
+ff_8:sagde
+ff_14:hvad
+ff_15:PRON_Number=Sing|PronType=Int,Rel
+ff_16:hun
+ff_13:VERB_Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act
+ff_19:VERB_Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act
+ff_11:NOUN__
+ff_14:stor
+ff_12:hen
+ff_8:hen
+ff_7:NOUN__
+ff_3:hen
+ff_8:over
+ff_9:ADJ_Definite=Ind|Degree=Cmp|Number=Sing
+ff_14:mere
+ff_15:ADJ_Definite=Ind|Degree=Cmp|Number=Sing
+ff_16:så
+ff_12:bag
+ff_18:bag
+ff_14:bag
+ff_3:måneder
+ff_10:måneder
+ff_12:måneder
+ff_0:måneder
+ff_3:gamle
+ff_10:til
+ff_12:gamle
+ff_18:gamle
+ff_19:ADJ_Definite=Def|Degree=Pos|Number=Sing
+ff_20:til
+ff_6:måneder
+ff_8:måneder
+ff_8:gamle
+ff_16:må
+ff_6:deres
+ff_7:DET_Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_14:andet
+ff_16:hendes
+ff_7:ADV_PartType=Inf
+ff_6:været
+ff_7:AUX_Definite=Ind|Number=Sing|Tense=Past|VerbForm=Part
+ff_0:manden
+ff_10:et
+ff_11:DET_Gender=Neut|Number=Sing|PronType=Ind
+ff_13:ADJ_Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing
+ff_19:ADJ_Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing
+ff_21:DET_Gender=Neut|Number=Sing|PronType=Ind
+ff_8:gik
+ff_1:PRON_Case=Gen|PronType=Int,Rel
+ff_12:-
+ff_18:ud
+ff_20:ud
+ff_7:PRON_Case=Gen|PronType=Int,Rel
+ff_8:hvis
+ff_9:PRON_Case=Gen|PronType=Int,Rel
+ff_16:ud
+ff_8:haft
+ff_14:haft
+ff_14:havde
+ff_3:almindelig
+ff_12:almindelig
+ff_6:ganske
+ff_8:ganske
+ff_6:jeg
+ff_16:sammen
+ff_3:forhold
+ff_12:begyndte
+ff_18:forhold
+ff_0:forhold
+ff_8:begyndte
+ff_14:forhold
+ff_3:begyndte
+ff_0:begyndte
+ff_8:kommende
+ff_8:højere
+ff_14:vore
+ff_15:DET_Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs|Style=Form
+ff_0:din
+ff_14:din
+ff_15:DET_Gender=Com|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs
+ff_16:din
+ff_17:DET_Gender=Com|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs
+ff_6:kr.
+ff_6:igen
+ff_3:igen
+ff_8:unge
+ff_14:unge
+ff_10:begge
+ff_11:PRON_Number=Plur|PronType=Dem
+ff_12:begge
+ff_13:PRON_Number=Plur|PronType=Dem
+ff_7:PRON_Number=Plur|PronType=Dem
+ff_9:PRON_Number=Plur|PronType=Dem
+ff_18:personer
+ff_20:ben
+ff_16:ben
+ff_0:ben
+ff_16:hjemme
+ff_8:vælge
+ff_3:vælge
+ff_0:vælge
+ff_3:kone
+ff_0:kone
+ff_14:tidligere
+ff_4:PRON_Gender=Neut|Number=Sing|PronType=Dem
+ff_6:dage
+ff_8:dage
+ff_3:dage
+ff_0:dage
+ff_20:jeg
+ff_21:PRON_Case=Nom|Gender=Com|Number=Sing|Person=1|PronType=Prs
+ff_16:efter
+ff_6:min
+ff_0:ude
+ff_3:ude
+ff_13:NOUN_Case=Gen|Definite=Def|Gender=Neut|Number=Plur
+ff_18:meget
+ff_20:meget
+ff_14:meget
+ff_16:meget
+ff_4:NOUN_Case=Gen|Definite=Def|Gender=Neut|Number=Plur
+ff_3:sker
+ff_0:sker
+ff_16:procent
+ff_0:25
+ff_3:procent
+ff_0:procent
+ff_6:25
+ff_3:far
+ff_0:far
+ff_11:PRON_Number=Sing|PronType=Int,Rel
+ff_13:PRON_Number=Sing|PronType=Int,Rel
+ff_9:PRON_Number=Sing|PronType=Int,Rel
+ff_6::
+ff_8::
+ff_10::
+ff_8:ansatte
+ff_14:ansatte
+ff_15:VERB_Number=Plur|Tense=Past|VerbForm=Part
+ff_3:ansatte
+ff_0:ansatte
+ff_13:X__
+ff_19:X__
+ff_18:de
+ff_19:DET_Number=Plur|PronType=Dem
+ff_20:de
+ff_21:DET_Number=Plur|PronType=Dem
+ff_6:ellers
+ff_8:ellers
+ff_6:siden
+ff_8:ude
+ff_8:mor
+ff_6:sine
+ff_7:DET_Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_3:ben
+ff_7:VERB_Number=Plur|Tense=Past|VerbForm=Part
+ff_8:hånd
+ff_14:hånd
+ff_3:hånd
+ff_0:ene
+ff_0:hånd
+ff_1:PRON_Gender=Com|Number=Sing|PronType=Dem
+ff_4:PRON_Gender=Com|Number=Sing|PronType=Dem
+ff_8:hovedet
+ff_14:ben
+ff_3:hovedet
+ff_0:hovedet
+ff_14:bare
+ff_1:X_Abbr=Yes
+ff_17:X_Abbr=Yes
+ff_3:holdning
+ff_0:holdning
+ff_14:gode
+ff_0:trods
+ff_6:trods
+ff_8:sidder
+ff_3:sidder
+ff_0:sidder
+ff_6:dybt
+ff_8:dybt
+ff_6:nogle
+ff_14:også
+ff_3:lidt
+ff_8:mill.
+ff_3:mill.
+ff_0:mill.
+ff_16:kr.
+ff_0:50
+ff_14:til
+ff_16:50
+ff_10:gang
+ff_6:gang
+ff_16:fire
+ff_11:PRON_Case=Nom|Number=Plur|Person=3|PronType=Prs
+ff_8:amerikanske
+ff_3:folk
+ff_16:masser
+ff_0:masser
+ff_3:masser
+ff_14:måde
+ff_10:hinanden
+ff_11:PRON_Number=Plur|PronType=Rcp
+ff_12:hinanden
+ff_13:PRON_Number=Plur|PronType=Rcp
+ff_12:over
+ff_8:tre
+ff_14:tre
+ff_6:hinanden
+ff_7:PRON_Number=Plur|PronType=Rcp
+ff_10:dage
+ff_12:dage
+ff_18:kr.
+ff_20:kr.
+ff_8:bad
+ff_14:bad
+ff_3:bad
+ff_0:bad
+ff_3:steder
+ff_0:steder
+ff_7:DET_Number=Plur|PronType=Ind
+ff_8:kommer
+ff_14:kommer
+ff_0:kommer
+ff_3:hvor
+ff_3:ske
+ff_11:NOUN_Case=Gen|Definite=Def|Gender=Com|Number=Plur
+ff_13:NOUN_Case=Gen|Definite=Def|Gender=Com|Number=Plur
+ff_4:NOUN_Case=Gen|Definite=Ind|Gender=Com|Number=Plur
+ff_1:NOUN_Case=Gen|Definite=Ind|Gender=Com|Number=Plur
+ff_11:DET_Number=Plur|PronType=Dem
+ff_19:NOUN_Case=Gen|Definite=Ind|Gender=Com|Number=Plur
+ff_15:NOUN_Case=Gen|Definite=Ind|Gender=Com|Number=Plur
+ff_8:1990
+ff_3:1990
+ff_0:1990
+ff_8:alle
+ff_0:netop
+ff_20:stille
+ff_3:stille
+ff_0:stille
+ff_18:"
+ff_20:gælder
+ff_6:hele
+ff_16:gælder
+ff_3:gælder
+ff_0:gælder
+ff_3:inde
+ff_0:inde
+ff_8:blev
+ff_3:udvikling
+ff_13:VERB_Tense=Pres|VerbForm=Part
+ff_19:VERB_Tense=Pres|VerbForm=Part
+ff_0:udvikling
+ff_11:ADV_PartType=Inf
+ff_18:var
+ff_20:så
+ff_14:tæt
+ff_17:DET_Gender=Com|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs
+ff_0:god
+ff_8:god
+ff_14:god
+ff_3:samme
+ff_6:begyndte
+ff_10:end
+ff_11:ADP__
+ff_18:måneder
+ff_20:end
+ff_21:ADP__
+ff_6:tre
+ff_14:måneder
+ff_16:stor
+ff_7:ADJ_NumType=Ord
+ff_8:fortalte
+ff_3:fortalte
+ff_0:fortalte
+ff_0:særlig
+ff_8:stå
+ff_14:særlig
+ff_16:særlig
+ff_9:PRON_Case=Nom|Number=Plur|Person=3|PronType=Prs
+ff_16:når
+ff_0:ifølge
+ff_6:ifølge
+ff_16:helt
+ff_3:synes
+ff_18:også
+ff_20:støtte
+ff_10:kan
+ff_11:AUX_Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_20:tale
+ff_3:året
+ff_0:året
+ff_16:men
+ff_14:blot
+ff_16:komme
+ff_16:tid
+ff_4:NOUN_Case=Gen|Definite=Ind|Gender=Com|Number=Sing
+ff_11:NOUN_Case=Gen|Definite=Ind|Gender=Com|Number=Sing
+ff_13:NOUN_Case=Gen|Definite=Ind|Gender=Com|Number=Sing
+ff_14:eller
+ff_6:kun
+ff_8:kun
+ff_6:arbejde
+ff_8:videre
+ff_0:internationale
+ff_0:altid
+ff_14:altid
+ff_16:altid
+ff_10:problemer
+ff_6:problemer
+ff_1:ADJ_Definite=Def|Degree=Abs
+ff_9:ADJ_Definite=Def|Degree=Abs
+ff_6:kalder
+ff_3:kalder
+ff_0:kalder
+ff_17:NOUN_Definite=Def|Gender=Neut|Number=Plur
+ff_16:små
+ff_0:dagen
+ff_6:lang
+ff_8:lang
+ff_0:lang
+ff_3:dagen
+ff_14:dagen
+ff_14:alt
+ff_15:ADJ_Degree=Pos|Gender=Neut|Number=Sing
+ff_3:alle
+ff_12:god
+ff_18:god
+ff_3:god
+ff_8:holder
+ff_3:holder
+ff_0:holder
+ff_14:op
+ff_20:er
+ff_12:vej
+ff_8:vej
+ff_3:vej
+ff_0:vej
+ff_16:se
+ff_14:kunne
+ff_0:pludselig
+ff_14:pludselig
+ff_10:de
+ff_12:år
+ff_6:år
+ff_12:mig
+ff_13:PRON_Case=Acc|Gender=Com|Number=Sing|Person=1|PronType=Prs
+ff_16:går
+ff_14:tilbage
+ff_6:få
+ff_3:lang
+ff_10:lang
+ff_12:lang
+ff_10:andet
+ff_11:PRON_Gender=Neut|Number=Sing|PronType=Ind
+ff_18:af
+ff_20:andet
+ff_16:andet
+ff_8:blandt
+ff_8:april
+ff_3:april
+ff_0:april
+ff_14:1987
+ff_16:inden
+ff_20:hjem
+ff_3:vender
+ff_0:næste
+ff_6:uge
+ff_8:uge
+ff_0:uge
+ff_3:næste
+ff_14:fra
+ff_3:hele
+ff_18:hele
+ff_6:hans
+ff_0:gjort
+ff_8:stilling
+ff_3:stilling
+ff_0:stilling
+ff_3:direktør
+ff_14:brug
+ff_16:brug
+ff_8:denne
+ff_0:syv
+ff_6:syv
+ff_8:syv
+ff_0:vis
+ff_8:vis
+ff_14:vis
+ff_8:lande
+ff_3:lande
+ff_0:lande
+ff_14:disse
+ff_1:ADJ_Definite=Ind|Degree=Sup|Number=Sing
+ff_16:penge
+ff_19:PRON_Case=Acc|Gender=Com|Number=Sing|Person=3|PronType=Prs
+ff_14:50
+ff_11:ADJ_Definite=Ind|Degree=Pos|Number=Sing
+ff_3:let
+ff_4:NOUN_Definite=Ind
+ff_1:NOUN_Definite=Ind
+ff_9:NOUN_Definite=Ind
+ff_15:NOUN_Definite=Ind
+ff_0:kort
+ff_8:kort
+ff_14:kort
+ff_6:resultatet
+ff_8:fjerne
+ff_3:fjerne
+ff_0:fjerne
+ff_14:igen
+ff_0:såvel
+ff_8:såvel
+ff_14:såvel
+ff_3:såvel
+ff_12:såvel
+ff_18:såvel
+ff_20:af
+ff_14:ham
+ff_4:NOUN_Case=Gen|Definite=Def|Gender=Neut|Number=Sing
+ff_11:NOUN_Case=Gen|Definite=Def|Gender=Neut|Number=Sing
+ff_13:NOUN_Case=Gen|Definite=Def|Gender=Neut|Number=Sing
+ff_0:sad
+ff_10:syv
+ff_12:syv
+ff_0:mit
+ff_8:mit
+ff_14:mit
+ff_15:DET_Gender=Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs
+ff_3:store
+ff_0:såkaldte
+ff_14:såkaldte
+ff_0:bl.a.
+ff_14:bl.a.
+ff_16:bl.a.
+ff_8:steder
+ff_6:forskellige
+ff_0:20
+ff_8:20
+ff_14:20
+ff_14:kroner
+ff_0:2.
+ff_18:jeg
+ff_19:PRON_Case=Nom|Gender=Com|Number=Sing|Person=1|PronType=Prs
+ff_14:få
+ff_16:store
+ff_6:mine
+ff_7:DET_Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs
+ff_9:DET_Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs
+ff_18:millioner
+ff_16:nogle
+ff_4:NOUN_Gender=Com|Number=Plur
+ff_1:NOUN_Gender=Com|Number=Plur
+ff_14:gå
+ff_3:også
+ff_8:længere
+ff_14:længere
+ff_3:viste
+ff_0:hvert
+ff_4:DET_Gender=Com|Number=Sing|PronType=Ind
+ff_5:DET
+ff_8:hvert
+ff_14:hvert
+ff_15:PRON_Gender=Neut|Number=Sing|PronType=Ind
+ff_3:kort
+ff_8:før
+ff_16:mellem
+ff_14:sidder
+ff_6:samme
+ff_19:NOUN_Case=Gen|Definite=Ind|Gender=Com|Number=Sing
+ff_14:eneste
+ff_16:eneste
+ff_4:PRON_Case=Nom|Gender=Com|Number=Sing|Person=1|PronType=Prs
+ff_3:taler
+ff_8:procent
+ff_14:procent
+ff_14:10
+ff_8:ingen
+ff_11:NOUN_Case=Gen|Definite=Ind|Gender=Neut|Number=Sing
+ff_21:NOUN_Case=Gen|Definite=Ind|Gender=Neut|Number=Sing
+ff_17:NOUN_Case=Gen|Definite=Ind|Gender=Neut|Number=Sing
+ff_6:morgen
+ff_16:morgen
+ff_0:morgen
+ff_21:NOUN_Definite=Def|Gender=Neut|Number=Sing
+ff_3:kun
+ff_0:nyt
+ff_14:nyt
+ff_16:nyt
+ff_11:VERB_Tense=Pres|VerbForm=Part
+ff_7:VERB_Tense=Pres|VerbForm=Part
+ff_20:dig
+ff_21:PRON_Case=Acc|Gender=Com|Number=Sing|Person=2|PronType=Prs
+ff_3:dig
+ff_4:PRON_Case=Acc|Gender=Com|Number=Sing|Person=2|PronType=Prs
+ff_0:tro
+ff_14:os
+ff_15:PRON_Case=Acc|Gender=Com|Number=Plur|Person=1|PronType=Prs
+ff_16:os
+ff_17:PRON_Case=Acc|Gender=Com|Number=Plur|Person=1|PronType=Prs
+ff_0:os
+ff_6:seks
+ff_15:NOUN_Case=Gen|Definite=Def|Gender=Neut|Number=Sing
+ff_10:pige
+ff_19:ADV_Degree=Pos
+ff_0:pige
+ff_6:omfang
+ff_8:omfang
+ff_3:omfang
+ff_0:omfang
+ff_16:hvilket
+ff_17:PRON_Gender=Neut|Number=Sing|PronType=Int,Rel
+ff_14:blevet
+ff_15:AUX_Definite=Ind|Number=Sing|Tense=Past|VerbForm=Part
+ff_3:være
+ff_3:følge
+ff_16:politiske
+ff_12:nyt
+ff_8:nyt
+ff_16:fri
+ff_3:fri
+ff_10:også
+ff_20:også
+ff_8:end
+ff_9:ADP__
+ff_14:tiden
+ff_16:tiden
+ff_3:tiden
+ff_18:i
+ff_17:NOUN_Case=Gen|Definite=Def|Gender=Neut|Number=Sing
+ff_8:nu
+ff_16:arbejde
+ff_9:NOUN_Definite=Ind|Number=Sing
+ff_4:NOUN_Definite=Ind|Number=Sing
+ff_18:nu
+ff_20:sammen
+ff_6:netop
+ff_8:netop
+ff_12:om
+ff_10:sig
+ff_11:PRON_Case=Acc|Person=3|PronType=Prs|Reflex=Yes
+ff_12:sig
+ff_13:PRON_Case=Acc|Person=3|PronType=Prs|Reflex=Yes
+ff_8:landet
+ff_8:mellem
+ff_3:eneste
+ff_10:eneste
+ff_11:ADJ_Degree=Pos
+ff_18:plads
+ff_20:plads
+ff_14:hendes
+ff_12:sætte
+ff_0:vist
+ff_3:formand
+ff_0:formand
+ff_7:ADJ_Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing
+ff_15:NOUN_Case=Gen|Definite=Ind|Gender=Neut|Number=Sing
+ff_6:dansk
+ff_16:25
+ff_10:hjem
+ff_12:hjem
+ff_6:hjem
+ff_16:mor
+ff_20:bruges
+ff_3:nyt
+ff_8:vist
+ff_14:almindelig
+ff_3:vist
+ff_0:samtidig
+ff_12:folk
+ff_18:folk
+ff_14:være
+ff_8:folk
+ff_16:hos
+ff_8:forskellige
+ff_0:mærke
+ff_3:mærke
+ff_16:hvor
+ff_14:ved
+ff_14:noget
+ff_8:trak
+ff_0:trak
+ff_6:mig
+ff_7:PRON_Case=Acc|Gender=Com|Number=Sing|Person=1|PronType=Prs
+ff_16:her
+ff_0:30
+ff_6:30
+ff_16:30
+ff_6:procent
+ff_8:senere
+ff_0:15
+ff_6:15
+ff_8:15
+ff_10:hvordan
+ff_6:sit
+ff_7:DET_Gender=Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_14:egen
+ff_11:VERB_Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act
+ff_6:gamle
+ff_8:ske
+ff_0:ske
+ff_8:bliver
+ff_16:folk
+ff_3:succes
+ff_10:succes
+ff_18:mulighed
+ff_0:succes
+ff_7:NOUN_Case=Gen|Definite=Def|Gender=Neut|Number=Plur
+ff_8:gå
+ff_9:DET_Gender=Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_6:=
+ff_8:=
+ff_10:=
+ff_11:SYM__
+ff_12:=
+ff_13:SYM__
+ff_8:ifølge
+ff_16:siden
+ff_14:1990
+ff_4:ADJ_Degree=Cmp|Number=Plur
+ff_14:stå
+ff_16:fast
+ff_0:fast
+ff_12:på
+ff_16:næsten
+ff_3:stod
+ff_8:sit
+ff_0:taler
+ff_8:han
+ff_9:PRON_Case=Nom|Gender=Com|Number=Sing|Person=3|PronType=Prs
+ff_0:jorden
+ff_21:VERB_Number=Plur|Tense=Past|VerbForm=Part
+ff_12:fik
+ff_3:består
+ff_0:består
+ff_18:april
+ff_14:april
+ff_0:første
+ff_14:første
+ff_16:første
+ff_14:ene
+ff_17:PRON_Gender=Com|Number=Sing|PronType=Dem
+ff_6:jorden
+ff_8:jorden
+ff_3:jorden
+ff_16:samme
+ff_0:vores
+ff_1:DET_Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs
+ff_8:lille
+ff_9:ADJ_Degree=Pos|Number=Sing
+ff_14:vores
+ff_15:DET_Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs
+ff_16:vores
+ff_17:DET_Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs
+ff_6:grund
+ff_16:grund
+ff_0:grund
+ff_15:NOUN_Definite=Ind|Number=Sing
+ff_3:kvinder
+ff_0:kvinder
+ff_20:tage
+ff_10:forhold
+ff_12:forhold
+ff_6:forhold
+ff_8:forhold
+ff_8:forbindelse
+ff_14:forbindelse
+ff_10:rigtig
+ff_6:rigtig
+ff_0:rigtig
+ff_0:bedre
+ff_8:bedre
+ff_16:dels
+ff_12:havde
+ff_18:havde
+ff_8:havde
+ff_3:nogen
+ff_10:hjælp
+ff_12:hjælp
+ff_8:brug
+ff_6:hjælp
+ff_8:hjælp
+ff_3:hjælp
+ff_0:hjælp
+ff_8:?
+ff_6:gøre
+ff_16:mere
+ff_21:ADJ_Degree=Pos
+ff_20:mere
+ff_21:ADV_Degree=Cmp
+ff_3:økonomi
+ff_10:omkring
+ff_13:NOUN_Case=Gen|Definite=Ind|Gender=Com|Number=Plur
+ff_20:omkring
+ff_0:økonomi
+ff_6:omkring
+ff_9:NOUN_Case=Gen|Definite=Ind|Gender=Com|Number=Plur
+ff_16:omkring
+ff_12:har
+ff_10:hvad
+ff_3:aldrig
+ff_6:holdt
+ff_8:holdt
+ff_8:være
+ff_18:vi
+ff_19:PRON_Case=Nom|Gender=Com|Number=Plur|Person=1|PronType=Prs
+ff_21:NOUN_Definite=Ind|Number=Sing
+ff_0:holdt
+ff_17:NOUN_Definite=Ind|Number=Sing
+ff_0:seneste
+ff_8:seneste
+ff_14:seneste
+ff_10:fire
+ff_20:fire
+ff_0:vel
+ff_8:f.eks.
+ff_8:sammen
+ff_16:anden
+ff_16:være
+ff_3:rundt
+ff_8:alene
+ff_6:skete
+ff_8:skete
+ff_3:skete
+ff_0:skete
+ff_8:dengang
+ff_0:dengang
+ff_10:område
+ff_12:område
+ff_8:historie
+ff_14:historie
+ff_0:historie
+ff_6:område
+ff_8:område
+ff_3:historie
+ff_8:bor
+ff_3:bor
+ff_0:bor
+ff_16:lige
+ff_12:i
+ff_6:vores
+ff_7:DET_Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs
+ff_8:vores
+ff_9:DET_Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs
+ff_6:danske
+ff_12:arbejde
+ff_20:mindre
+ff_6:langt
+ff_16:arbejdet
+ff_0:arbejdet
+ff_3:arbejdet
+ff_3:gjorde
+ff_0:gjorde
+ff_17:NOUN_Case=Gen|Definite=Def|Gender=Neut|Number=Plur
+ff_8:have
+ff_14:døren
+ff_16:døren
+ff_0:døren
+ff_20:par
+ff_14:alene
+ff_8:sidste
+ff_3:sidste
+ff_16:igen
+ff_10:fleste
+ff_11:ADJ_Definite=Def|Degree=Sup|Number=Plur
+ff_9:VERB_Mood=Imp
+ff_14:rent
+ff_6:kort
+ff_16:kort
+ff_3:øjeblik
+ff_0:øjeblik
+ff_12:have
+ff_0:venstre
+ff_8:venstre
+ff_10:betale
+ff_12:betale
+ff_8:mulighed
+ff_6:betale
+ff_8:betale
+ff_0:betale
+ff_0:især
+ff_6:især
+ff_8:især
+ff_14:vej
+ff_3:tilfælde
+ff_0:tilfælde
+ff_3:ting
+ff_0:ting
+ff_9:AUX_VerbForm=Inf|Voice=Act
+ff_10:gå
+ff_12:gå
+ff_6:gå
+ff_16:uden
+ff_14:almindelige
+ff_16:almindelige
+ff_0:almindelige
+ff_16:vis
+ff_15:NOUN_Case=Gen|Definite=Def|Gender=Com|Number=Plur
+ff_0:bestemt
+ff_3:fra
+ff_10:fra
+ff_12:fra
+ff_10:øjeblikket
+ff_18:sig
+ff_19:PRON_Case=Acc|Person=3|PronType=Prs|Reflex=Yes
+ff_11:PROPN_Case=Gen
+ff_19:ADJ_Degree=Pos
+ff_21:PROPN_Case=Gen
+ff_6:tilbage
+ff_13:PRON_Gender=Com|PronType=Int,Rel
+ff_16:prøver
+ff_19:PRON_Gender=Com|PronType=Int,Rel
+ff_3:prøver
+ff_0:prøver
+ff_16:gøre
+ff_9:PRON_Gender=Com|PronType=Int,Rel
+ff_15:PRON_Gender=Com|PronType=Int,Rel
+ff_1:PRON_Gender=Com|PronType=Int,Rel
+ff_4:PRON_Gender=Com|PronType=Int,Rel
+ff_14:15
+ff_4:X_Abbr=Yes
+ff_15:X_Abbr=Yes
+ff_8:igennem
+ff_6:gjort
+ff_8:gjort
+ff_10:gjort
+ff_12:gjort
+ff_3:gjort
+ff_10:...
+ff_12:ikke
+ff_20:...
+ff_6:...
+ff_8:fandt
+ff_19:PRON_Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+ff_3:fandt
+ff_0:fandt
+ff_14:sted
+ff_0:sted
+ff_8:november
+ff_3:to
+ff_1:PRON_Case=Nom|Gender=Com|Number=Plur|Person=2|PronType=Prs
+ff_8:far
+ff_14:far
+ff_3:helst
+ff_10:noget
+ff_18:helst
+ff_20:helst
+ff_0:helst
+ff_14:helst
+ff_16:helst
+ff_14:mål
+ff_16:mål
+ff_8:kom
+ff_0:kom
+ff_10:uden
+ff_1:ADJ_Degree=Sup
+ff_21:AUX_Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_20:på
+ff_3:først
+ff_8:vore
+ff_9:DET_Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs|Style=Form
+ff_3:større
+ff_10:større
+ff_11:ADJ_Degree=Cmp
+ff_20:større
+ff_21:ADJ_Degree=Cmp
+ff_6:større
+ff_16:større
+ff_0:umiddelbart
+ff_16:umiddelbart
+ff_11:X_Foreign=Yes
+ff_13:X_Foreign=Yes
+ff_19:X_Foreign=Yes
+ff_21:X_Foreign=Yes
+ff_8:18
+ff_14:18
+ff_0:18
+ff_3:familien
+ff_0:familien
+ff_14:familien
+ff_16:stedet
+ff_16:nu
+ff_6:komme
+ff_8:hører
+ff_14:hører
+ff_6:1992
+ff_3:1992
+ff_3:her
+ff_14:f.eks.
+ff_3:spiller
+ff_8:elsker
+ff_14:fordi
+ff_3:os
+ff_4:PRON_Case=Acc|Gender=Com|Number=Plur|Person=1|PronType=Prs
+ff_18:lige
+ff_20:se
+ff_14:ind
+ff_20:men
+ff_6:skrive
+ff_8:skrive
+ff_0:samt
+ff_6:samt
+ff_6:én
+ff_14:række
+ff_16:række
+ff_6:film
+ff_16:film
+ff_15:PRON_PartType=Inf
+ff_16:mand
+ff_3:danske
+ff_14:store
+ff_16:millioner
+ff_14:hel
+ff_16:hel
+ff_3:givet
+ff_16:du
+ff_17:PRON_Case=Nom|Gender=Com|Number=Sing|Person=2|PronType=Prs
+ff_8:næste
+ff_14:næste
+ff_6:os
+ff_7:PRON_Case=Acc|Gender=Com|Number=Plur|Person=1|PronType=Prs
+ff_16:!
+ff_9:INTJ__
+ff_14:blandt
+ff_10:direktør
+ff_20:direktør
+ff_16:10
+ff_3:hensyn
+ff_18:pct.
+ff_20:pct.
+ff_3:pct.
+ff_0:40
+ff_0:pct.
+ff_14:40
+ff_16:40
+ff_6:fleste
+ff_7:ADJ_Definite=Def|Degree=Sup|Number=Plur
+ff_8:fleste
+ff_9:ADJ_Definite=Def|Degree=Sup|Number=Plur
+ff_7:PRON_Number=Plur|PronType=Int,Rel
+ff_17:PRON_Number=Plur|PronType=Int,Rel
+ff_6:lande
+ff_10:tage
+ff_0:nå
+ff_6:tage
+ff_3:nå
+ff_8:børn
+ff_18:dermed
+ff_8:tyske
+ff_14:tyske
+ff_0:regeringen
+ff_3:regeringen
+ff_8:fortsætter
+ff_3:fortsætter
+ff_14:økonomiske
+ff_0:fortsætter
+ff_11:DET_Gender=Com|Number=Sing|PronType=Dem
+ff_12:økonomiske
+ff_18:økonomiske
+ff_8:året
+ff_7:PRON_Gender=Com|PronType=Int,Rel
+ff_16:.
+ff_14:lille
+ff_15:ADJ_Degree=Pos|Number=Sing
+ff_7:DET_Gender=Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs|Style=Form
+ff_9:DET_Gender=Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs|Style=Form
+ff_0:1.
+ff_6:1.
+ff_8:1.
+ff_16:allerede
+ff_0:allerede
+ff_6:hvert
+ff_8:fald
+ff_16:hvert
+ff_15:NOUN__
+ff_16:lang
+ff_3:sted
+ff_19:ADJ_Degree=Pos|Gender=Com|Number=Sing
+ff_16:lande
+ff_16:hinanden
+ff_17:PRON_Number=Plur|PronType=Rcp
+ff_14:får
+ff_8:formand
+ff_3:ældre
+ff_10:når
+ff_18:ældre
+ff_20:hjælp
+ff_0:ældre
+ff_14:ældre
+ff_16:hjælp
+ff_19:NOUN_Case=Gen|Definite=Def|Gender=Neut|Number=Sing
+ff_3:viser
+ff_3:grund
+ff_6:god
+ff_16:god
+ff_21:NOUN_Definite=Def|Gender=Neut|Number=Plur
+ff_0:sæt
+ff_8:1
+ff_0:1
+ff_14:næsten
+ff_10:grund
+ff_20:grund
+ff_16:dansk
+ff_14:lidt
+ff_3:sagt
+ff_0:sagt
+ff_10:dag
+ff_12:dag
+ff_3:andet
+ff_16:enhver
+ff_8:sæt
+ff_14:sæt
+ff_3:sæt
+ff_0:ekstra
+ff_16:ekstra
+ff_18:fordi
+ff_6:gode
+ff_8:blive
+ff_12:partier
+ff_18:partier
+ff_21:NOUN_Case=Gen|Definite=Ind|Gender=Com|Number=Sing
+ff_8:partier
+ff_14:partier
+ff_16:to
+ff_12:første
+ff_18:første
+ff_8:første
+ff_14:liv
+ff_16:liv
+ff_0:liv
+ff_14:glæde
+ff_18:.
+ff_0:europæiske
+ff_8:europæiske
+ff_14:europæiske
+ff_3:midt
+ff_6:midt
+ff_14:ti
+ff_8:sker
+ff_14:sker
+ff_8:der
+ff_9:ADV_PartType=Inf
+ff_8:hospital
+ff_14:hospital
+ff_3:hospital
+ff_18:et
+ff_19:DET_Gender=Neut|Number=Sing|PronType=Ind
+ff_0:hospital
+ff_3:dansk
+ff_3:klare
+ff_10:én
+ff_19:VERB_VerbForm=Inf|Voice=Act
+ff_4:AUX_Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act
+ff_12:!
+ff_20:skaffe
+ff_16:november
+ff_0:således
+ff_3:således
+ff_10:områder
+ff_12:områder
+ff_6:områder
+ff_8:områder
+ff_3:områder
+ff_0:områder
+ff_14:gennem
+ff_6:mindre
+ff_8:mindre
+ff_18:anden
+ff_3:anden
+ff_1:ADV_Degree=Abs
+ff_14:1
+ff_16:1
+ff_10:over
+ff_0:derefter
+ff_0:halv
+ff_16:halv
+ff_8:pige
+ff_14:pige
+ff_14:højere
+ff_0:hensyn
+ff_3:års
+ff_10:års
+ff_11:NOUN_Case=Gen|Definite=Ind|Gender=Neut|Number=Plur
+ff_12:års
+ff_0:års
+ff_6:års
+ff_7:NOUN_Case=Gen|Definite=Ind|Gender=Neut|Number=Plur
+ff_8:års
+ff_21:ADJ_Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing
+ff_6:ti
+ff_18:års
+ff_14:års
+ff_0:skrevet
+ff_8:direktør
+ff_6:engang
+ff_8:engang
+ff_0:engang
+ff_14:lang
+ff_16:frem
+ff_7:PRON_Gender=Com|Number=Sing|PronType=Dem
+ff_9:PRON_Gender=Com|Number=Sing|PronType=Dem
+ff_3:frem
+ff_15:PRON_Gender=Com|Number=Sing|PronType=Ind
+ff_8:pct.
+ff_16:bliver
+ff_14:livet
+ff_16:let
+ff_8:fælles
+ff_18:far
+ff_3:lykkedes
+ff_0:lykkedes
+ff_18:lykkedes
+ff_0:spiller
+ff_16:under
+ff_14:større
+ff_8:steg
+ff_8:følge
+ff_16:noget
+ff_8:trods
+ff_16:alligevel
+ff_3:alligevel
+ff_3:trods
+ff_3:forskellige
+ff_8:kan
+ff_10:møder
+ff_12:møder
+ff_8:oktober
+ff_6:møder
+ff_3:oktober
+ff_0:oktober
+ff_0:viser
+ff_20:samarbejde
+ff_16:samarbejde
+ff_3:lægge
+ff_13:VERB_Number=Plur|Tense=Past|VerbForm=Part
+ff_19:VERB_Number=Plur|Tense=Past|VerbForm=Part
+ff_10:sker
+ff_19:VERB_Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_20:sker
+ff_17:PRON_Gender=Com|Number=Sing|PronType=Ind
+ff_6:sker
+ff_16:sker
+ff_14:dag
+ff_3:navn
+ff_18:navn
+ff_0:navn
+ff_14:navn
+ff_14:sige
+ff_6:stille
+ff_8:stille
+ff_11:PRON_Case=Nom|Gender=Com|Number=Sing|Person=1|PronType=Prs
+ff_10:har
+ff_8:regeringen
+ff_14:regeringen
+ff_16:kroner
+ff_3:første
+ff_10:første
+ff_3:halv
+ff_10:halv
+ff_18:kroner
+ff_20:halv
+ff_6:halv
+ff_8:mest
+ff_14:se
+ff_10:film
+ff_12:film
+ff_8:film
+ff_3:nej
+ff_0:lægge
+ff_6:mærke
+ff_16:mærke
+ff_8:mærke
+ff_3:vel
+ff_8:mennesker
+ff_3:før
+ff_0:lange
+ff_8:lange
+ff_14:lange
+ff_14:men
+ff_3:kroner
+ff_20:gå
+ff_0:danskerne
+ff_14:danskerne
+ff_16:danskerne
+ff_14:netop
+ff_6:næste
+ff_3:uge
+ff_14:sagen
+ff_3:børnene
+ff_0:børnene
+ff_8:kone
+ff_14:kone
+ff_8:først
+ff_14:ca.
+ff_16:ca.
+ff_8:finde
+ff_16:børn
+ff_6:fortæller
+ff_8:fortæller
+ff_0:fortæller
+ff_6:par
+ff_11:VERB_VerbForm=Inf|Voice=Pass
+ff_13:VERB_VerbForm=Inf|Voice=Pass
+ff_12:bruges
+ff_18:bruges
+ff_20::
+ff_0:spørgsmålet
+ff_14:bruges
+ff_3:spørgsmålet
+ff_10:hensyn
+ff_12:til
+ff_18:til
+ff_20:hensyn
+ff_6:hensyn
+ff_16:hensyn
+ff_16:jorden
+ff_8:hel
+ff_3:stor
+ff_10:stor
+ff_12:stor
+ff_3:især
+ff_20:var
+ff_12:få
+ff_11:ADJ_Definite=Def|Degree=Sup
+ff_7:ADJ_Definite=Def|Degree=Sup
+ff_0:bedste
+ff_14:bedste
+ff_16:danske
+ff_0:stærk
+ff_8:stærk
+ff_14:stærk
+ff_14:dengang
+ff_6:aften
+ff_8:aften
+ff_10:aften
+ff_12:aften
+ff_0:aften
+ff_3:bestemt
+ff_6:sidste
+ff_8:ekstra
+ff_14:ekstra
+ff_3:spørger
+ff_14:tid
+ff_16:aldrig
+ff_14:hvordan
+ff_3:der
+ff_18:holde
+ff_14:holde
+ff_14:1.
+ff_3:antal
+ff_0:antal
+ff_0:filmen
+ff_20:ind
+ff_16:land
+ff_18:går
+ff_10:er
+ff_18:må
+ff_10:hos
+ff_12:private
+ff_18:private
+ff_20:hos
+ff_3:private
+ff_3:godt
+ff_9:SCONJ__
+ff_3:helt
+ff_6:måske
+ff_8:måske
+ff_10:helt
+ff_20:helt
+ff_21:ADV_Degree=Pos
+ff_18:så
+ff_0:&
+ff_6:&
+ff_8:&
+ff_8:samt
+ff_0:selvfølgelig
+ff_6:selvfølgelig
+ff_3:nye
+ff_10:nye
+ff_11:DET_Gender=Neut|Number=Sing|PronType=Dem
+ff_6:allerede
+ff_8:allerede
+ff_12:inden
+ff_18:samarbejde
+ff_16:plads
+ff_3:inden
+ff_9:VERB_VerbForm=Ger
+ff_1:VERB_VerbForm=Ger
+ff_4:VERB_VerbForm=Ger
+ff_3:væk
+ff_11:ADJ_Degree=Cmp|Number=Plur
+ff_10:18
+ff_12:18
+ff_6:18
+ff_3:18
+ff_16:inde
+ff_7:X_Abbr=Yes
+ff_9:X_Abbr=Yes
+ff_6:denne
+ff_6:set
+ff_16:stort
+ff_8:både
+ff_14:både
+ff_3:både
+ff_0:mener
+ff_14:formanden
+ff_16:spil
+ff_10:både
+ff_12:både
+ff_18:glæde
+ff_20:glæde
+ff_16:glæde
+ff_18:mere
+ff_19:ADJ_Definite=Ind|Degree=Cmp|Number=Sing
+ff_21:ADJ_Definite=Ind|Degree=Cmp|Number=Sing
+ff_3:kan
+ff_3:forældre
+ff_12:forældre
+ff_18:forældre
+ff_0:forældre
+ff_8:forældre
+ff_14:forældre
+ff_18:-
+ff_10:pct.
+ff_12:pct.
+ff_6:pct.
+ff_14:én
+ff_16:én
+ff_4:VERB_Tense=Past|VerbForm=Part
+ff_1:VERB_Tense=Past|VerbForm=Part
+ff_6:mener
+ff_8:mener
+ff_18:hvad
+ff_19:PRON_Number=Sing|PronType=Int,Rel
+ff_10:mig
+ff_11:PRON_Case=Acc|Gender=Com|Number=Sing|Person=1|PronType=Prs
+ff_8:hvordan
+ff_8:sad
+ff_14:bil
+ff_16:have
+ff_10:jeg
+ff_11:AUX_Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act
+ff_14:måske
+ff_16:måske
+ff_7:AUX_Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act
+ff_14:komme
+ff_20:fra
+ff_8:ligger
+ff_0:ligger
+ff_10:morgen
+ff_20:morgen
+ff_18:bliver
+ff_20:første
+ff_3:lange
+ff_6:du
+ff_7:PRON_Case=Nom|Gender=Com|Number=Sing|Person=2|PronType=Prs
+ff_10:mennesker
+ff_12:mennesker
+ff_6:mennesker
+ff_3:vi
+ff_4:PRON_Case=Nom|Gender=Com|Number=Plur|Person=1|PronType=Prs
+ff_0:virkelig
+ff_0:klare
+ff_6:klare
+ff_16:klare
+ff_10:øjeblik
+ff_16:vej
+ff_8:væk
+ff_14:væk
+ff_8:...
+ff_20:går
+ff_4:ADJ_Definite=Def|Degree=Sup|Number=Sing
+ff_1:ADJ_Definite=Def|Degree=Sup|Number=Sing
+ff_12:ting
+ff_19:ADJ_Definite=Def|Degree=Sup|Number=Sing
+ff_21:ADJ_Definite=Def|Degree=Sup|Number=Sing
+ff_8:ting
+ff_15:ADJ_Definite=Def|Degree=Sup|Number=Sing
+ff_17:ADJ_Definite=Def|Degree=Sup|Number=Sing
+ff_10:igen
+ff_12:igen
+ff_16:filmen
+ff_3:filmen
+ff_16:gang
+ff_20:om
+ff_0:politisk
+ff_6:politisk
+ff_8:udvikling
+ff_6:hovedet
+ff_18:selv
+ff_19:PRON_PronType=Dem
+ff_8:os
+ff_9:PRON_Case=Acc|Gender=Com|Number=Plur|Person=1|PronType=Prs
+ff_18:midt
+ff_20:han
+ff_21:PRON_Case=Nom|Gender=Com|Number=Sing|Person=3|PronType=Prs
+ff_14:midt
+ff_10:kun
+ff_12:kun
+ff_20:gør
+ff_10:vores
+ff_11:DET_Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs
+ff_18:store
+ff_20:store
+ff_21:ADJ_Definite=Def|Degree=Pos|Number=Sing
+ff_6:trak
+ff_12:hospital
+ff_18:eller
+ff_20:eller
+ff_16:måtte
+ff_0:hurtigt
+ff_16:lade
+ff_10:gode
+ff_12:gode
+ff_3:dag
+ff_8:form
+ff_16:sat
+ff_3:form
+ff_0:form
+ff_18:hinanden
+ff_19:PRON_Number=Plur|PronType=Rcp
+ff_10:børn
+ff_20:alt
+ff_21:ADJ_Degree=Pos|Gender=Neut|Number=Sing
+ff_6:sammen
+ff_8:liv
+ff_16:faktisk
+ff_20:far
+ff_9:PRON_PartType=Inf
+ff_16:års
+ff_6:særlig
+ff_8:særlig
+ff_14:ofte
+ff_20:efter
+ff_6:første
+ff_14:sammen
+ff_20:mænd
+ff_16:mænd
+ff_16:længere
+ff_8:gjorde
+ff_14:gjorde
+ff_4:SCONJ__
+ff_5:SCONJ
+ff_3:stemme
+ff_10:stemme
+ff_21:VERB_Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_3:bedre
+ff_14:ude
+ff_0:største
+ff_16:største
+ff_3:største
+ff_12:komme
+ff_18:min
+ff_19:DET_Gender=Com|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs
+ff_20:største
+ff_21:ADJ_Definite=Def|Degree=Sup
+ff_3:lægger
+ff_0:lægger
+ff_14:dybt
+ff_8:spiller
+ff_18:rolle
+ff_20:rolle
+ff_14:rolle
+ff_18:stor
+ff_14:direkte
+ff_10:mindre
+ff_12:mindre
+ff_12:større
+ff_3:timer
+ff_0:timer
+ff_16:hele
+ff_18:pige
+ff_6:snart
+ff_12:giver
+ff_14:otte
+ff_8:også
+ff_10:sammen
+ff_12:sammen
+ff_6:gør
+ff_8:almindelige
+ff_12:verden
+ff_21:VERB_Definite=Def|Number=Sing|Tense=Past|VerbForm=Part
+ff_10:del
+ff_10:holdning
+ff_12:holdning
+ff_6:holdning
+ff_8:holdning
+ff_3:danskere
+ff_0:danskere
+ff_14:politiet
+ff_8:egne
+ff_3:egne
+ff_9:PRON_Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs|Style=Form
+ff_15:PRON_Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs|Style=Form
+ff_3:vore
+ff_4:PRON_Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs|Style=Form
+ff_1:PRON_Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs|Style=Form
+ff_14:par
+ff_8:2.
+ff_8:kalder
+ff_14:nogen
+ff_16:nogen
+ff_3:tager
+ff_6:dog
+ff_16:ligger
+ff_16:forhold
+ff_16:min
+ff_6:disse
+ff_10:procent
+ff_12:procent
+ff_16:selv
+ff_17:PRON_PronType=Dem
+ff_18:retten
+ff_20:fået
+ff_14:begge
+ff_10:penge
+ff_12:penge
+ff_20:masser
+ff_6:penge
+ff_0:egentlig
+ff_3:hørte
+ff_14:for
+ff_8:mål
+ff_16:mit
+ff_17:DET_Gender=Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs
+ff_7:ADJ_Degree=Sup
+ff_9:ADJ_Degree=Sup
+ff_3:højere
+ff_10:lande
+ff_10:kvinder
+ff_14:syv
+ff_14:dette
+ff_10:(
+ff_12:)
+ff_18:grund
+ff_14:grund
+ff_3:gange
+ff_0:gange
+ff_6:gerne
+ff_3:gerne
+ff_18:større
+ff_16:langt
+ff_8:godt
+ff_11:VERB_Definite=Def|Number=Sing|Tense=Past|VerbForm=Part
+ff_15:PRON_Gender=Com|Number=Sing|PronType=Dem
+ff_7:VERB_Definite=Def|Number=Sing|Tense=Past|VerbForm=Part
+ff_8:gange
+ff_14:gange
+ff_6:måtte
+ff_18:imidlertid
+ff_12:kommer
+ff_8:inde
+ff_18:sted
+ff_20:sted
+ff_16:sted
+ff_16:få
+ff_8:dagen
+ff_8:ønsker
+ff_6:mit
+ff_16:slags
+ff_3:slags
+ff_0:slags
+ff_6:fri
+ff_8:arbejdet
+ff_3:allerede
+ff_0:tør
+ff_16:alene
+ff_3:blev
+ff_16:senere
+ff_6:mest
+ff_3:ord
+ff_6:op
+ff_20:tid
+ff_8:nå
+ff_12:flere
+ff_13:ADJ_Degree=Cmp|Number=Plur
+ff_18:tid
+ff_20:op
+ff_3:flere
+ff_14:lande
+ff_8:stedet
+ff_10:meget
+ff_8:hvor
+ff_8:aldrig
+ff_14:aldrig
+ff_8:lave
+ff_16:samt
+ff_16:par
+ff_18:ved
+ff_20:mærke
+ff_6:direkte
+ff_7:ADJ_Case=Gen|Definite=Def|Degree=Pos|Number=Sing
+ff_9:ADJ_Case=Gen|Definite=Def|Degree=Pos|Number=Sing
+ff_4:ADJ_Case=Gen|Definite=Def|Degree=Pos|Number=Sing
+ff_1:ADJ_Case=Gen|Definite=Def|Degree=Pos|Number=Sing
+ff_16:overhovedet
+ff_8:man
+ff_9:PRON_Case=Nom|Gender=Com|PronType=Ind
+ff_16:hvis
+ff_8:lære
+ff_8:taler
+ff_14:taler
+ff_18:kunne
+ff_6:næsten
+ff_8:næsten
+ff_3:du
+ff_4:PRON_Case=Nom|Gender=Com|Number=Sing|Person=2|PronType=Prs
+ff_6:fremmest
+ff_16:fremmest
+ff_3:fremmest
+ff_0:fremmest
+ff_3:40
+ff_8:sted
+ff_16:bedre
+ff_1:ADJ_Case=Gen|Degree=Pos|Number=Plur
+ff_8:består
+ff_7:PRON_Case=Acc|Gender=Com|Person=2|Polite=Form|PronType=Prs
+ff_17:PRON_Case=Acc|Gender=Com|Person=2|Polite=Form|PronType=Prs
+ff_1:PRON_Case=Acc|Gender=Com|Person=2|Polite=Form|PronType=Prs
+ff_20:lægge
+ff_16:dagen
+ff_6:bedre
+ff_10:selvfølgelig
+ff_14:ellers
+ff_16:jo
+ff_14:tur
+ff_16:tur
+ff_0:tur
+ff_16:gode
+ff_6:20
+ff_3:manden
+ff_14:foran
+ff_8:resten
+ff_14:=
+ff_15:SYM__
+ff_16:=
+ff_17:SYM__
+ff_12:tid
+ff_11:ADJ_NumType=Ord
+ff_8:spørgsmålet
+ff_14:spørgsmålet
+ff_14:året
+ff_14:25
+ff_12:spørgsmålet
+ff_18:spørgsmålet
+ff_16:disse
+ff_14:engang
+ff_6:1
+ff_16:ting
+ff_3:hold
+ff_0:hold
+ff_10:30
+ff_12:30
+ff_8:30
+ff_3:30
+ff_8:hold
+ff_14:hjælp
+ff_18:sin
+ff_19:DET_Gender=Com|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_20:sin
+ff_21:DET_Gender=Com|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_10:verden
+ff_14:resten
+ff_14:inden
+ff_8:tale
+ff_6:folk
+ff_12:været
+ff_18:været
+ff_0:faldt
+ff_8:svært
+ff_6:aldrig
+ff_6:kroner
+ff_10:mellem
+ff_11:DET_Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_3:begynder
+ff_0:begynder
+ff_10:dem
+ff_11:PRON_Case=Acc|Number=Plur|Person=3|PronType=Prs
+ff_12:dem
+ff_13:PRON_Case=Acc|Number=Plur|Person=3|PronType=Prs
+ff_18:vil
+ff_16:ville
+ff_6:såvel
+ff_10:såvel
+ff_14:lave
+ff_16:lave
+ff_3:netop
+ff_14:landet
+ff_12:mulighed
+ff_19:ADJ_Degree=Cmp|Number=Plur
+ff_21:ADJ_Degree=Cmp|Number=Plur
+ff_20:viser
+ff_14:især
+ff_19:ADJ_NumType=Ord
+ff_14:bedre
+ff_20:tæt
+ff_10:mens
+ff_12:op
+ff_6:lægger
+ff_8:lægger
+ff_3:klart
+ff_18:hvordan
+ff_20:-
+ff_8:men
+ff_16:øjne
+ff_12:tiden
+ff_18:tiden
+ff_8:tiden
+ff_10:sted
+ff_8:ene
+ff_3:andre
+ff_14:rundt
+ff_16:rundt
+ff_14:endnu
+ff_6:dengang
+ff_3:dengang
+ff_18:samtidig
+ff_20:begyndte
+ff_10:kommet
+ff_6:kommet
+ff_8:altid
+ff_18:uge
+ff_20:bedre
+ff_14:uge
+ff_0:;
+ff_10:øjne
+ff_14:jo
+ff_0:øvrige
+ff_18:sådan
+ff_3:kunne
+ff_16:opgave
+ff_10:før
+ff_20:før
+ff_16:ti
+ff_16:samtidig
+ff_16:igennem
+ff_12:at
+ff_13:PART_PartType=Inf
+ff_14:selvfølgelig
+ff_8:tro
+ff_14:tro
+ff_20:året
+ff_16:året
+ff_20:omfang
+ff_14:stort
+ff_16:omfang
+ff_14:hedder
+ff_8:sat
+ff_18:altså
+ff_10:komme
+ff_16:givet
+ff_0:givet
+ff_14:1992
+ff_20:private
+ff_16:private
+ff_16:fejl
+ff_11:NOUN_Case=Gen|Definite=Ind|Gender=Com|Number=Plur
+ff_7:NOUN_Case=Gen|Definite=Ind|Gender=Com|Number=Plur
+ff_10:samarbejde
+ff_12:samarbejde
+ff_6:samarbejde
+ff_14:stadig
+ff_16:stadig
+ff_3:50
+ff_16:biler
+ff_3:disse
+ff_18:disse
+ff_19:PRON_Number=Plur|PronType=Dem
+ff_12:dig
+ff_13:PRON_Case=Acc|Gender=Com|Number=Sing|Person=2|PronType=Prs
+ff_8:dig
+ff_9:PRON_Case=Acc|Gender=Com|Number=Sing|Person=2|PronType=Prs
+ff_14:først
+ff_16:far
+ff_12:ind
+ff_18:ind
+ff_14:områder
+ff_10:eller
+ff_6:finde
+ff_8:midt
+ff_6:tid
+ff_16:kendte
+ff_6:kommer
+ff_16:alt
+ff_17:ADJ_Degree=Pos|Gender=Neut|Number=Sing
+ff_14:siger
+ff_16:direkte
+ff_3:dette
+ff_8:nemlig
+ff_10:denne
+ff_10:mærke
+ff_12:mærke
+ff_8:ser
+ff_3:længere
+ff_10:længere
+ff_12:længere
+ff_8:endnu
+ff_6:længere
+ff_3:tidligere
+ff_20:svært
+ff_8:kender
+ff_14:kender
+ff_0:kender
+ff_3:ene
+ff_10:ene
+ff_8:samtidig
+ff_7:VERB_Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_3:samtidig
+ff_12:kr.
+ff_19:NUM_NumType=Card
+ff_12:taget
+ff_20:hele
+ff_8:viser
+ff_12:mellem
+ff_3:mellem
+ff_18:klart
+ff_14:klart
+ff_14:økonomi
+ff_0:situationen
+ff_8:politisk
+ff_14:politisk
+ff_18:denne
+ff_3:behøver
+ff_3:ellers
+ff_6:del
+ff_12:del
+ff_10:ansatte
+ff_11:VERB_Number=Plur|Tense=Past|VerbForm=Part
+ff_12:ansatte
+ff_14:30
+ff_6:ansatte
+ff_18:være
+ff_19:AUX_VerbForm=Inf|Voice=Act
+ff_20:være
+ff_21:AUX_VerbForm=Inf|Voice=Act
+ff_12:landet
+ff_10:hele
+ff_18:skulle
+ff_20:skulle
+ff_10:min
+ff_11:DET_Gender=Com|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs
+ff_12:min
+ff_13:DET_Gender=Com|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs
+ff_3:bl.a.
+ff_6:bl.a.
+ff_16:fordi
+ff_18:omfang
+ff_14:omfang
+ff_14:internationale
+ff_14:nok
+ff_20:mange
+ff_16:dog
+ff_18:op
+ff_20:samtidig
+ff_8:antal
+ff_14:antal
+ff_14:visse
+ff_10:stedet
+ff_13:NOUN_Case=Gen|Definite=Ind|Gender=Neut|Number=Sing
+ff_19:NOUN_Case=Gen|Definite=Ind|Gender=Neut|Number=Sing
+ff_10:få
+ff_14:mulighed
+ff_6:små
+ff_10:lige
+ff_12:lige
+ff_12:store
+ff_18:tre
+ff_20:tre
+ff_16:løb
+ff_3:løb
+ff_0:løb
+ff_14:film
+ff_6:får
+ff_21:AUX_Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act
+ff_6:have
+ff_8:synes
+ff_0:synes
+ff_10:eksempel
+ff_20:få
+ff_10:hvis
+ff_14:arbejde
+ff_16:1.
+ff_16:høre
+ff_14:mener
+ff_16:næste
+ff_6:lange
+ff_16:lange
+ff_7:PRON_Case=Nom|Gender=Com|Number=Plur|Person=2|PronType=Prs
+ff_17:PRON_Case=Nom|Gender=Com|Number=Plur|Person=2|PronType=Prs
+ff_8:.
+ff_16:blot
+ff_18:lidt
+ff_12:omkring
+ff_3:blevet
+ff_3:omkring
+ff_16:mine
+ff_17:DET_Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs
+ff_0:derimod
+ff_17:PRON_Number=Plur|PronType=Ind
+ff_7:ADJ_Degree=Pos|Gender=Neut|Number=Sing
+ff_3:mest
+ff_10:alt
+ff_11:ADJ_Degree=Pos|Gender=Neut|Number=Sing
+ff_12:alt
+ff_13:ADJ_Degree=Pos|Gender=Neut|Number=Sing
+ff_14:frem
+ff_14:blev
+ff_18:samme
+ff_20:samme
+ff_8:råd
+ff_10:2
+ff_12:2
+ff_3:2
+ff_16:20
+ff_1:PRON_Gender=Com|Number=Sing|PronType=Int,Rel
+ff_8:helst
+ff_4:PRON_Gender=Com|Number=Sing|PronType=Int,Rel
+ff_6:holde
+ff_3:bare
+ff_14:end
+ff_15:ADP__
+ff_16:100
+ff_16:da
+ff_20:vej
+ff_0:hørte
+ff_14:have
+ff_6:mand
+ff_16:skulle
+ff_8:skrevet
+ff_7:PRON_Case=Nom|Gender=Com|Person=2|Polite=Form|PronType=Prs
+ff_0:ligesom
+ff_10:åbne
+ff_12:åbne
+ff_6:åbne
+ff_8:åbne
+ff_14:land
+ff_6:senere
+ff_16:begyndte
+ff_6:ekstra
+ff_3:1.
+ff_3:rigtig
+ff_14:rigtig
+ff_10:kr.
+ff_8:timer
+ff_0:imod
+ff_6:imod
+ff_8:imod
+ff_10:hvert
+ff_12:fald
+ff_20:hvert
+ff_12:hurtigt
+ff_8:hurtigt
+ff_3:hurtigt
+ff_0:straks
+ff_14:største
+ff_13:PROPN_Case=Gen
+ff_19:PROPN_Case=Gen
+ff_6:unge
+ff_16:unge
+ff_16:bedste
+ff_12:løb
+ff_18:løb
+ff_8:løb
+ff_14:løb
+ff_3:under
+ff_10:under
+ff_12:under
+ff_16:&
+ff_18:dagen
+ff_12:alle
+ff_18:alle
+ff_12:udlandet
+ff_18:udlandet
+ff_14:udlandet
+ff_16:tidligere
+ff_10:fordi
+ff_12:hensyn
+ff_8:hensyn
+ff_8:eneste
+ff_6:største
+ff_10:indtil
+ff_20:indtil
+ff_16:indtil
+ff_14:ting
+ff_3:dog
+ff_19:PRON_Gender=Com|Number=Sing|PronType=Ind
+ff_8:mænd
+ff_16:kvinder
+ff_18::
+ff_0:lå
+ff_17:ADJ_Definite=Ind|Degree=Cmp|Number=Sing
+ff_16:nok
+ff_16:ene
+ff_16:sæt
+ff_4:VERB_Tense=Pres
+ff_21:VERB_Tense=Pres
+ff_1:VERB_Tense=Pres
+ff_17:VERB_Tense=Pres
+ff_6:døren
+ff_8:døren
+ff_14:2.
+ff_8:derefter
+ff_14:derefter
+ff_6:succes
+ff_8:succes
+ff_14:interesse
+ff_8:bedste
+ff_8:50
+ff_8:stod
+ff_0:stod
+ff_18:nyt
+ff_18:økonomisk
+ff_6:muligt
+ff_8:muligt
+ff_16:foran
+ff_3:ingen
+ff_19:VERB_VerbForm=Ger
+ff_14:klar
+ff_6:landet
+ff_16:internationale
+ff_3:pludselig
+ff_3:måske
+ff_6:nu
+ff_8:lad
+ff_3:lad
+ff_0:lad
+ff_10:dig
+ff_11:PRON_Case=Acc|Gender=Com|Number=Sing|Person=2|PronType=Prs
+ff_16:spørgsmålet
+ff_6:dig
+ff_7:PRON_Case=Acc|Gender=Com|Number=Sing|Person=2|PronType=Prs
+ff_20:set
+ff_20:noget
+ff_14:under
+ff_6:)
+ff_3:bedste
+ff_6:bedste
+ff_19:VERB_Definite=Def|Number=Sing|Tense=Past|VerbForm=Part
+ff_10:sæt
+ff_14:hurtigt
+ff_16:hurtigt
+ff_14:politiske
+ff_10:mest
+ff_11:ADV_Degree=Sup
+ff_12:mest
+ff_13:ADV_Degree=Sup
+ff_14:mindst
+ff_16:mindst
+ff_6:vender
+ff_8:vender
+ff_10:udlandet
+ff_0:vender
+ff_6:udlandet
+ff_3:jeg
+ff_8:fremmest
+ff_10:altså
+ff_18:først
+ff_20:først
+ff_6:altså
+ff_8:må
+ff_4:PRON_PartType=Inf
+ff_20:bag
+ff_6:kendte
+ff_12:får
+ff_6:bare
+ff_10:fremmest
+ff_12:fremmest
+ff_15:ADJ_Definite=Ind|Degree=Sup|Number=Sing
+ff_17:ADJ_Definite=Ind|Degree=Sup|Number=Sing
+ff_4:ADJ_Definite=Ind|Degree=Sup|Number=Sing
+ff_16:klar
+ff_8:internationale
+ff_18:øjeblik
+ff_20:stedet
+ff_8:tæt
+ff_16:dybt
+ff_18:rundt
+ff_14:form
+ff_14:let
+ff_10:følge
+ff_12:følge
+ff_14:skrive
+ff_16:skrive
+ff_10:gået
+ff_12:gået
+ff_10:mål
+ff_12:mål
+ff_6:mål
+ff_6:form
+ff_14:kom
+ff_14:børn
+ff_1:DET_Case=Gen|Number=Plur|PronType=Ind
+ff_7:DET_Case=Gen|Number=Plur|PronType=Ind
+ff_9:DET_Case=Gen|Number=Plur|PronType=Ind
+ff_10:op
+ff_16:15
+ff_8:halv
+ff_14:halv
+ff_21:PRON_Gender=Com|Number=Sing|PronType=Ind
+ff_8:givet
+ff_14:givet
+ff_20:skal
+ff_16:tyske
+ff_16:hvorfor
+ff_1:DET_Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs
+ff_9:DET_Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs
+ff_15:DET_Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs
+ff_14:umiddelbart
+ff_15:PRON_Case=Nom|Gender=Com|Person=2|Polite=Form|PronType=Prs
+ff_6:lave
+ff_12:?
+ff_18:stedet
+ff_14:stedet
+ff_8:slags
+ff_16:straks
+ff_12:var
+ff_8:byen
+ff_14:byen
+ff_3:byen
+ff_11:VERB_Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_10:opgave
+ff_20:holde
+ff_20:leve
+ff_16:lille
+ff_17:ADJ_Degree=Pos|Number=Sing
+ff_20:have
+ff_10:finde
+ff_12:finde
+ff_3:vis
+ff_10:vis
+ff_6:sag
+ff_8:sag
+ff_10:nu
+ff_14:efter
+ff_20:måneder
+ff_16:måneder
+ff_20:altid
+ff_6:enhver
+ff_10:ligesom
+ff_6:ligesom
+ff_16:imod
+ff_3:imod
+ff_6:far
+ff_10:langt
+ff_12:langt
+ff_0:skriver
+ff_14:hold
+ff_20:procent
+ff_8:spille
+ff_10:ud
+ff_12:ud
+ff_20:hjemme
+ff_16:trods
+ff_20:ved
+ff_15:DET_Person=2|Polite=Form|Poss=Yes|PronType=Prs
+ff_0:ord
+ff_14:ord
+ff_18:børnene
+ff_19:NOUN_Definite=Def|Gender=Neut|Number=Plur
+ff_13:PRON_Gender=Neut|Number=Sing|PronType=Ind
+ff_18:uger
+ff_8:snart
+ff_3:snart
+ff_16:tilbage
+ff_7:PRON_Person=2|Polite=Form|Poss=Yes|PronType=Prs
+ff_9:PRON_Person=2|Polite=Form|Poss=Yes|PronType=Prs
+ff_4:PRON_Person=2|Polite=Form|Poss=Yes|PronType=Prs
+ff_1:PRON_Person=2|Polite=Form|Poss=Yes|PronType=Prs
+ff_3:tur
+ff_8:således
+ff_18:hendes
+ff_19:DET_Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_20:hendes
+ff_21:DET_Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_6:høre
+ff_12:morgen
+ff_8:morgen
+ff_16:fleste
+ff_17:ADJ_Definite=Def|Degree=Sup|Number=Plur
+ff_20:fleste
+ff_21:ADJ_Definite=Def|Degree=Sup|Number=Plur
+ff_16:gået
+ff_18:gode
+ff_12:ser
+ff_16:økonomi
+ff_18:ben
+ff_20:bliver
+ff_12:overhovedet
+ff_10:hovedet
+ff_12:hovedet
+ff_6:drejer
+ff_8:drejer
+ff_0:drejer
+ff_14:succes
+ff_19:SYM__
+ff_1:DET_Gender=Neut|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs
+ff_15:DET_Gender=Neut|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs
+ff_6:din
+ff_8:din
+ff_16:fået
+ff_14:steder
+ff_14:...
+ff_8:tur
+ff_16:antal
+ff_4:ADJ_Degree=Pos|Number=Sing
+ff_12:være
+ff_21:VERB_Mood=Imp
+ff_10:20
+ff_12:20
+ff_8:spørgsmål
+ff_18:nemlig
+ff_20:vis
+ff_6:vis
+ff_20:ellers
+ff_16:ellers
+ff_18:altid
+ff_12:lægge
+ff_18:lægge
+ff_8:lægge
+ff_14:lægge
+ff_14:præsident
+ff_16:præsident
+ff_20:sidder
+ff_6:være
+ff_7:AUX_VerbForm=Inf|Voice=Act
+ff_1:AUX_Tense=Pres|VerbForm=Part
+ff_9:AUX_Tense=Pres|VerbForm=Part
+ff_15:AUX_Tense=Pres|VerbForm=Part
+ff_3:svarer
+ff_8:ja
+ff_20:"
+ff_8:viste
+ff_10:bedste
+ff_12:bedste
+ff_13:ADJ_Definite=Def|Degree=Sup
+ff_0:viste
+ff_3:når
+ff_12:direktør
+ff_16:klart
+ff_8:danskere
+ff_6:sted
+ff_12:fortalte
+ff_3:altid
+ff_14:gjort
+ff_12:noget
+ff_18:noget
+ff_19:PRON_Gender=Neut|Number=Sing|PronType=Ind
+ff_12:gøre
+ff_18:nok
+ff_3:hos
+ff_12:hos
+ff_3:umiddelbart
+ff_6:umiddelbart
+ff_13:AUX_VerbForm=Inf|Voice=Act
+ff_14:lov
+ff_13:ADJ_NumType=Ord
+ff_15:DET_Case=Gen|Gender=Com|Number=Sing|PronType=Dem
+ff_14:øvrige
+ff_16:øvrige
+ff_6:altid
+ff_8:præsident
+ff_12:drejer
+ff_18:drejer
+ff_8:resultatet
+ff_14:drejer
+ff_8:tager
+ff_0:tager
+ff_6:vel
+ff_16:vel
+ff_6:igennem
+ff_11:NOUN_Definite=Ind|Number=Sing
+ff_13:NOUN_Definite=Ind|Number=Sing
+ff_7:NOUN_Definite=Ind|Number=Sing
+ff_18:små
+ff_3:små
+ff_14:støtte
+ff_15:PRON_Gender=Com|Number=Sing|PronType=Int,Rel
+ff_17:PRON_Gender=Com|Number=Sing|PronType=Int,Rel
+ff_6:inde
+ff_16:formand
+ff_10:familien
+ff_12:kan
+ff_6:familien
+ff_10:tilfælde
+ff_14:regering
+ff_14:gik
+ff_16:)
+ff_8:findes
+ff_0:findes
+ff_10:antal
+ff_6:antal
+ff_4:VERB_Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_1:VERB_Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_12:fjerne
+ff_12:tror
+ff_8:vel
+ff_19:PRON_Case=Nom|Number=Plur|Person=3|PronType=Prs
+ff_10:interesse
+ff_10:partier
+ff_14:formand
+ff_0:nej
+ff_3:måtte
+ff_6:står
+ff_14:lige
+ff_3:engang
+ff_10:engang
+ff_20:sat
+ff_18:således
+ff_17:NOUN_Case=Gen|Definite=Ind|Gender=Com|Number=Plur
+ff_10:gange
+ff_20:gange
+ff_6:gange
+ff_16:gange
+ff_18:hvor
+ff_15:PRON_Gender=Neut|Number=Sing|PronType=Dem
+ff_14:svært
+ff_8:ældre
+ff_10:danskere
+ff_12:danskere
+ff_6:danskere
+ff_6:vælge
+ff_11:NOUN_Gender=Com|Number=Plur
+ff_13:NOUN_Gender=Com|Number=Plur
+ff_7:NOUN_Gender=Com|Number=Plur
+ff_9:NOUN_Gender=Com|Number=Plur
+ff_10:sætte
+ff_12:tog
+ff_6:40
+ff_14:uden
+ff_6:spille
+ff_3:senest
+ff_12:steder
+ff_18:for
+ff_8:gælder
+ff_8:købe
+ff_18:kun
+ff_6:nyt
+ff_10:forældre
+ff_12:godt
+ff_6:forældre
+ff_6:kender
+ff_16:situationen
+ff_8:sagt
+ff_16:fælles
+ff_12:form
+ff_16:hånd
+ff_17:PRON_Case=Gen|PronType=Int,Rel
+ff_10:par
+ff_21:X__
+ff_8:hørte
+ff_6:ind
+ff_0:spørger
+ff_16:ifølge
+ff_3:almindelige
+ff_15:PRON_Case=Nom|Gender=Com|Number=Plur|Person=2|PronType=Prs
+ff_14:mærke
+ff_20:eksempel
+ff_16:eksempel
+ff_16:sidder
+ff_16:byen
+ff_3:20
+ff_18:hurtigt
+ff_8:fejl
+ff_14:fejl
+ff_14:sætte
+ff_12:stedet
+ff_6:stedet
+ff_6:sagt
+ff_14:bestemt
+ff_16:bestemt
+ff_13:VERB_Mood=Imp
+ff_14:danskere
+ff_16:tager
+ff_14:videre
+ff_8:lykkedes
+ff_9:VERB_Tense=Past|VerbForm=Part
+ff_16:dage
+ff_18:verden
+ff_10:ad
+ff_12:ad
+ff_9:DET_Gender=Com|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs|Style=Form
+ff_20:får
+ff_16:seneste
+ff_9:PRON_Gender=Com|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_3:sin
+ff_4:PRON_Gender=Com|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_1:PRON_Gender=Com|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_6:ældre
+ff_8:øvrige
+ff_10:tid
+ff_3:end
+ff_4:ADP__
+ff_10:her
+ff_10:samme
+ff_7:DET_Gender=Neut|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs
+ff_9:DET_Gender=Neut|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs
+ff_10:unge
+ff_15:ADJ_Case=Gen|Degree=Pos|Number=Plur
+ff_16:økonomisk
+ff_6:økonomi
+ff_8:økonomi
+ff_20:over
+ff_18:mennesker
+ff_20:mennesker
+ff_10:mange
+ff_16:mennesker
+ff_14:imod
+ff_8:prøver
+ff_12:de
+ff_12:skete
+ff_10:private
+ff_8:måtte
+ff_14:måtte
+ff_8:40
+ff_10:socialdemokratiet
+ff_12:socialdemokratiet
+ff_6:socialdemokratiet
+ff_8:socialdemokratiet
+ff_3:socialdemokratiet
+ff_0:socialdemokratiet
+ff_12:fået
+ff_18:formanden
+ff_20:gang
+ff_10:forbindelse
+ff_14:mill.
+ff_10:folk
+ff_16:gå
+ff_18:andre
+ff_20:selv
+ff_21:PRON_PronType=Dem
+ff_16:gjorde
+ff_15:VERB_VerbForm=Ger
+ff_15:PRON_Gender=Com|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_20:forbindelse
+ff_18:naturligvis
+ff_20:steder
+ff_14:naturligvis
+ff_16:steder
+ff_16:politisk
+ff_4:PRON_Case=Nom|Gender=Com|Number=Sing|Person=3|PronType=Prs
+ff_20:begynder
+ff_8:25
+ff_20:års
+ff_21:NOUN_Case=Gen|Definite=Ind|Gender=Neut|Number=Plur
+ff_17:NOUN_Case=Gen|Definite=Ind|Gender=Neut|Number=Plur
+ff_12:kilde
+ff_8:kilde
+ff_21:NOUN__
+ff_10:snart
+ff_10:spille
+ff_12:spille
+ff_10:rolle
+ff_12:rolle
+ff_6:rolle
+ff_8:rolle
+ff_1:ADJ_Degree=Sup|Number=Plur
+ff_7:ADJ_Degree=Sup|Number=Plur
+ff_9:ADJ_Degree=Sup|Number=Plur
+ff_12:stort
+ff_18:stort
+ff_18:dig
+ff_19:PRON_Case=Acc|Gender=Com|Number=Sing|Person=2|PronType=Prs
+ff_3:særlig
+ff_12:særlig
+ff_18:særlig
+ff_3:aften
+ff_10:lidt
+ff_14:spille
+ff_20:svar
+ff_16:svar
+ff_10:står
+ff_12:står
+ff_14:lære
+ff_10:mænd
+ff_12:mænd
+ff_6:mænd
+ff_20:rundt
+ff_6:byen
+ff_6:hverken
+ff_10:hverken
+ff_16:hverken
+ff_20:hverken
+ff_8:stemme
+ff_16:regeringen
+ff_14:ingen
+ff_10:byen
+ff_12:byen
+ff_14:jorden
+ff_12:bedre
+ff_20:arbejdet
+ff_10:retten
+ff_18:dette
+ff_19:PRON_Gender=Neut|Number=Sing|PronType=Dem
+ff_10:ind
+ff_3:døren
+ff_10:personer
+ff_18:sidste
+ff_6:personer
+ff_16:personer
+ff_14:samt
+ff_20:hvad
+ff_21:PRON_Number=Sing|PronType=Int,Rel
+ff_6:lov
+ff_8:lov
+ff_12:...
+ff_9:ADJ_Case=Gen|Degree=Pos|Number=Plur
+ff_16:kunnet
+ff_20:mente
+ff_14:mor
+ff_8:største
+ff_12:interesse
+ff_6:interesse
+ff_8:interesse
+ff_6:politiske
+ff_20:politiet
+ff_10:ret
+ff_12:ret
+ff_3:man
+ff_4:PRON_Case=Nom|Gender=Com|PronType=Ind
+ff_8:;
+ff_1:PRON_Case=Acc|Gender=Com|Number=Plur|Person=2|PronType=Prs
+ff_3:3
+ff_12:kort
+ff_18:kort
+ff_3:må
+ff_14:består
+ff_10:biler
+ff_12:biler
+ff_6:svært
+ff_6:tror
+ff_12:ingen
+ff_13:PRON_Gender=Com|Number=Sing|PronType=Ind
+ff_8:bl.a.
+ff_16:svarer
+ff_0:svarer
+ff_19:NOUN_Definite=Ind
+ff_20:viste
+ff_3:1
+ff_10:kalder
+ff_12:kalder
+ff_1:PRON_Gender=Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_7:PRON_Gender=Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_17:PRON_Gender=Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_6:stort
+ff_12:andet
+ff_12:høre
+ff_18:høre
+ff_18:ham
+ff_6:resten
+ff_14:giver
+ff_6:hen
+ff_12:tro
+ff_20:folk
+ff_14:trak
+ff_12:måde
+ff_8:svarer
+ff_16:spille
+ff_16:tilfælde
+ff_16:holdning
+ff_6:hvorfor
+ff_18:lande
+ff_17:PRON_Gender=Com|PronType=Int,Rel
+ff_6:frem
+ff_19:NOUN_Case=Gen|Definite=Def|Gender=Com|Number=Plur
+ff_21:NOUN_Case=Gen|Definite=Def|Gender=Com|Number=Plur
+ff_6:havde
+ff_6:naturligvis
+ff_14:når
+ff_14:begyndte
+ff_16:hvordan
+ff_16:give
+ff_15:NOUN_Definite=Ind|Number=Plur
+ff_17:NOUN_Definite=Ind|Number=Plur
+ff_4:NOUN_Definite=Ind|Number=Plur
+ff_1:NOUN_Definite=Ind|Number=Plur
+ff_18:side
+ff_6:kilde
+ff_10:problem
+ff_12:problem
+ff_6:problem
+ff_8:problem
+ff_3:denne
+ff_16:krav
+ff_18:senere
+ff_19:ADV_Degree=Cmp
+ff_12:kom
+ff_14:nå
+ff_16:tro
+ff_10:siden
+ff_8:kunnet
+ff_6:bør
+ff_16:bør
+ff_16:dette
+ff_17:PRON_Gender=Neut|Number=Sing|PronType=Dem
+ff_0:satte
+ff_3:øvrige
+ff_14:samtidig
+ff_8:øjeblik
+ff_16:således
+ff_6:manden
+ff_3:faktisk
+ff_10:faktisk
+ff_6:faktisk
+ff_14:eksempel
+ff_12:skriver
+ff_8:skriver
+ff_3:tre
+ff_11:PRON_Case=Nom|Gender=Com|Number=Plur|Person=1|PronType=Prs
+ff_20:ligger
+ff_6:internationale
+ff_18:kvinder
+ff_20:vand
+ff_14:arbejdet
+ff_12:forbindelse
+ff_14:skrevet
+ff_1:VERB_Case=Gen|Number=Plur|Tense=Past|VerbForm=Part
+ff_3:nemlig
+ff_16:nemlig
+ff_14:hvis
+ff_16:kommer
+ff_18:igen
+ff_6:forbindelse
+ff_10:nå
+ff_12:nå
+ff_6:nå
+ff_20:gamle
+ff_6:stadig
+ff_18:præsident
+ff_3:lille
+ff_16:sådan
+ff_12:brug
+ff_14:penge
+ff_10:regeringen
+ff_16:1987
+ff_10:ting
+ff_20:længere
+ff_8:klare
+ff_3:politisk
+ff_6:stærk
+ff_16:stærk
+ff_3:økonomisk
+ff_20:politisk
+ff_14:ligger
+ff_14:hos
+ff_17:VERB_VerbForm=Ger
+ff_10:sagen
+ff_12:sagen
+ff_6:sagen
+ff_8:sagen
+ff_1:AUX_Mood=Imp
+ff_1:PRON_Gender=Com|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs
+ff_3:min
+ff_4:PRON_Gender=Com|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs
+ff_6:måde
+ff_18:mål
+ff_20:fortsætter
+ff_16:fortsætter
+ff_14:spørgsmål
+ff_18:sit
+ff_19:DET_Gender=Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_20:sit
+ff_21:DET_Gender=Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_14:mod
+ff_14:nemlig
+ff_12:filmen
+ff_8:filmen
+ff_6:navn
+ff_8:navn
+ff_14:allerede
+ff_10:ord
+ff_12:ord
+ff_6:ord
+ff_8:ord
+ff_10:timer
+ff_12:timer
+ff_6:timer
+ff_10:mill.
+ff_12:mill.
+ff_6:mill.
+ff_8:alligevel
+ff_14:alligevel
+ff_20:nej
+ff_9:PRON_Number=Plur|PronType=Int,Rel
+ff_16:nej
+ff_14:virkelig
+ff_16:virkelig
+ff_10:hospital
+ff_6:hospital
+ff_6:lille
+ff_7:ADJ_Degree=Pos|Number=Sing
+ff_3:hver
+ff_10:man
+ff_11:PRON_Case=Nom|Gender=Com|PronType=Ind
+ff_18:brug
+ff_9:PRON_Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_15:PRON_Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_3:hans
+ff_4:PRON_Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_1:PRON_Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_20:gik
+ff_18:fjerne
+ff_14:fjerne
+ff_16:18
+ff_14:lad
+ff_7:INTJ__
+ff_6:kan
+ff_10:lægger
+ff_12:lægger
+ff_21:NOUN_Case=Gen|Definite=Ind|Gender=Com|Number=Plur
+ff_6:egne
+ff_18:ofte
+ff_12:gange
+ff_6:viser
+ff_16:viser
+ff_3:jo
+ff_10:døren
+ff_12:døren
+ff_8:stadig
+ff_16:ad
+ff_3:ad
+ff_20:ad
+ff_10:igennem
+ff_12:igennem
+ff_6:bruge
+ff_6:tro
+ff_6:holder
+ff_6:støtte
+ff_10:støtte
+ff_12:støtte
+ff_12:ønsker
+ff_6:udvikling
+ff_6:venstre
+ff_3:venstre
+ff_18:desuden
+ff_3:hvilket
+ff_4:PRON_Gender=Neut|Number=Sing|PronType=Int,Rel
+ff_6:fjerne
+ff_14:tager
+ff_16:betale
+ff_6:gik
+ff_20:succes
+ff_13:NOUN_Definite=Ind|Number=Plur
+ff_9:NOUN_Definite=Ind|Number=Plur
+ff_16:rent
+ff_10:nogen
+ff_18:nye
+ff_20:nye
+ff_3:ofte
+ff_6:ofte
+ff_6:satte
+ff_8:satte
+ff_8:da
+ff_3:da
+ff_8:indtil
+ff_20:sagde
+ff_12:sådan
+ff_12:slags
+ff_18:slags
+ff_14:slags
+ff_16:længe
+ff_12:viser
+ff_18:viser
+ff_14:viser
+ff_16:almindelig
+ff_14:aften
+ff_8:fast
+ff_14:fast
+ff_14:timer
+ff_14:pct.
+ff_16:pct.
+ff_6:spiller
+ff_14:fik
+ff_14:straks
+ff_20:ude
+ff_8:ligesom
+ff_14:ganske
+ff_14:morgen
+ff_6:stilling
+ff_3:10
+ff_18:halv
+ff_3:derfor
+ff_8:straks
+ff_10:vej
+ff_6:vej
+ff_20:side
+ff_16:side
+ff_16:børnene
+ff_14:fortsætter
+ff_6:sat
+ff_20:stort
+ff_13:PRON_Gender=Com|Number=Sing|PronType=Dem
+ff_19:PRON_Gender=Com|Number=Sing|PronType=Dem
+ff_9:VERB_Definite=Def|Gender=Com|Number=Sing|Tense=Past|VerbForm=Part
+ff_15:VERB_Definite=Def|Gender=Com|Number=Sing|Tense=Past|VerbForm=Part
+ff_1:VERB_Definite=Def|Gender=Com|Number=Sing|Tense=Past|VerbForm=Part
+ff_10:vi
+ff_12:børn
+ff_20:gerne
+ff_16:gerne
+ff_6:50
+ff_1:DET_Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs
+ff_9:DET_Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs
+ff_1:DET_Case=Gen|Gender=Com|Number=Sing|PronType=Ind
+ff_9:DET_Case=Gen|Gender=Com|Number=Sing|PronType=Ind
+ff_10:muligt
+ff_12:muligt
+ff_14:vel
+ff_12:lidt
+ff_8:rigtig
+ff_3:fem
+ff_12:ene
+ff_1:NOUN_Case=Gen
+ff_9:NOUN_Case=Gen
+ff_15:NOUN_Case=Gen
+ff_16:seks
+ff_12:fælles
+ff_3:fælles
+ff_20:lige
+ff_20:blev
+ff_14:stille
+ff_20:tiden
+ff_12:fandt
+ff_14:længe
+ff_6:børnene
+ff_12:en
+ff_10:udvikling
+ff_12:udvikling
+ff_18:politiske
+ff_20:politiske
+ff_8:øjne
+ff_14:klare
+ff_12:dansk
+ff_20:betale
+ff_10:godt
+ff_20:godt
+ff_14:øjne
+ff_20:består
+ff_16:netop
+ff_6:lære
+ff_14:hinanden
+ff_15:PRON_Number=Plur|PronType=Rcp
+ff_14:hensyn
+ff_3:rent
+ff_12:klar
+ff_18:klar
+ff_6:hold
+ff_10:lære
+ff_12:lære
+ff_6:ser
+ff_10:ser
+ff_18:måtte
+ff_3:han
+ff_16:tage
+ff_10:set
+ff_6:siger
+ff_18:mænd
+ff_21:PRON_PartType=Inf
+ff_10:samtidig
+ff_20:vide
+ff_14:dage
+ff_10:sige
+ff_12:sige
+ff_10:mand
+ff_10:uge
+ff_12:uge
+ff_12:helt
+ff_20:været
+ff_21:AUX_Definite=Ind|Number=Sing|Tense=Past|VerbForm=Part
+ff_8:situationen
+ff_3:situationen
+ff_20:udvikling
+ff_6:fast
+ff_18:måde
+ff_16:mens
+ff_13:ADJ_Degree=Pos|Gender=Com|Number=Sing
+ff_16:timer
+ff_11:PRON_Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_12:hendes
+ff_13:PRON_Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_7:PRON_Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_3:hendes
+ff_20:stod
+ff_18:siden
+ff_20:siden
+ff_6:mor
+ff_12:fortæller
+ff_3:f.eks.
+ff_3:enhver
+ff_10:alle
+ff_16:bor
+ff_6:ske
+ff_13:CCONJ__
+ff_16:;
+ff_10:tur
+ff_12:tur
+ff_6:tur
+ff_10:gennem
+ff_20:timer
+ff_16:fald
+ff_20:uden
+ff_8:lå
+ff_20:syv
+ff_16:syv
+ff_10:mindst
+ff_6:året
+ff_20:tilbage
+ff_14:senere
+ff_10:arbejdet
+ff_14:ret
+ff_16:haft
+ff_16:livet
+ff_16:set
+ff_16:navn
+ff_3:otte
+ff_8:øjeblikket
+ff_12:10
+ff_18:10
+ff_6:taler
+ff_8:let
+ff_10:sagde
+ff_12:sagde
+ff_6:sagde
+ff_6:dagen
+ff_10:egne
+ff_14:gerne
+ff_14:da
+ff_18:ny
+ff_16:al
+ff_12:spiller
+ff_15:ADJ_Degree=Sup
+ff_4:ADV_Degree=Abs
+ff_7:ADV_Degree=Abs
+ff_16:ligesom
+ff_14:holdt
+ff_20:dage
+ff_18:helt
+ff_16:satte
+ff_14:hovedet
+ff_8:bare
+ff_20:hørte
+ff_14:?
+ff_3:hvordan
+ff_14:stemme
+ff_6:plads
+ff_12:formand
+ff_16:lægge
+ff_18:netop
+ff_14:egentlig
+ff_3:morgen
+ff_18:gå
+ff_18:bl.a.
+ff_14:oktober
+ff_18:eksempel
+ff_8:tilfælde
+ff_20:prøver
+ff_10:samt
+ff_20:samt
+ff_12:sted
+ff_18:danskere
+ff_10:prøver
+ff_12:prøver
+ff_6:prøver
+ff_12:haft
+ff_16:problem
+ff_8:jo
+ff_3:dybt
+ff_10:længe
+ff_10:stort
+ff_14:krav
+ff_18:længere
+ff_10:helst
+ff_12:helst
+ff_6:helst
+ff_14:overhovedet
+ff_9:VERB_Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_15:VERB_Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_20:ofte
+ff_16:ofte
+ff_12:væk
+ff_6:købe
+ff_10:købe
+ff_12:købe
+ff_20:tur
+ff_8:retten
+ff_14:retten
+ff_18:spille
+ff_14:3
+ff_16:3
+ff_18:regering
+ff_20:regering
+ff_16:regering
+ff_14:faktisk
+ff_16:vand
+ff_6:blive
+ff_6:situationen
+ff_18:have
+ff_20:fjerne
+ff_20:dag
+ff_16:dag
+ff_20:unge
+ff_10:række
+ff_12:række
+ff_6:skriver
+ff_12:gik
+ff_18:mor
+ff_7:NOUN_Definite=Ind
+ff_11:X_Abbr=Yes
+ff_18:3
+ff_20:3
+ff_20:visse
+ff_16:visse
+ff_18:hånd
+ff_16:2
+ff_9:PRON_Gender=Neut|Number=Sing|PronType=Int,Rel
+ff_16:amerikanske
+ff_8:mente
+ff_10:anden
+ff_12:anden
+ff_10:senere
+ff_13:ADJ_Definite=Ind|Degree=Cmp|Number=Sing
+ff_14:fri
+ff_18:kalder
+ff_18:om
+ff_14:kalder
+ff_20:nyt
+ff_18:to
+ff_20:to
+ff_15:ADJ_Case=Gen|Definite=Def|Degree=Pos|Number=Sing
+ff_17:ADJ_Case=Gen|Definite=Def|Degree=Pos|Number=Sing
+ff_8:masser
+ff_14:masser
+ff_10:leve
+ff_6:leve
+ff_14:tog
+ff_19:ADJ_Definite=Def|Degree=Sup
+ff_7:VERB_VerbForm=Ger
+ff_6:tyske
+ff_4:DET_Gender=Neut|Number=Sing|PronType=Dem
+ff_10:landet
+ff_6:økonomisk
+ff_18:øvrige
+ff_6:bliver
+ff_16:pr.
+ff_6:giver
+ff_8:opgave
+ff_14:opgave
+ff_20:resten
+ff_6:ja
+ff_8:naturligvis
+ff_14:udvikling
+ff_14:tale
+ff_16:skete
+ff_16:stille
+ff_10:1987
+ff_14:betale
+ff_7:VERB_Tense=Pres
+ff_9:VERB_Tense=Pres
+ff_20:lande
+ff_14:ja
+ff_15:INTJ__
+ff_14:tage
+ff_17:NOUN_Case=Gen
+ff_20:denne
+ff_17:ADJ_Case=Gen|Degree=Pos|Number=Plur
+ff_8:begynder
+ff_12:gjorde
+ff_10:stå
+ff_12:stå
+ff_6:stå
+ff_12:holder
+ff_14:spiller
+ff_14:kommende
+ff_3:tør
+ff_11:ADJ_Definite=Ind|Degree=Cmp|Number=Sing
+ff_7:ADJ_Definite=Ind|Degree=Cmp|Number=Sing
+ff_8:tør
+ff_14:tør
+ff_14:.
+ff_12:ældre
+ff_8:børnene
+ff_20:øjne
+ff_20:lidt
+ff_18:gange
+ff_16:ansatte
+ff_10:tiden
+ff_3:internationale
+ff_16:1992
+ff_12:året
+ff_18:året
+ff_20:fortsatte
+ff_12:arbejdet
+ff_6:arbejdet
+ff_10:givet
+ff_12:givet
+ff_6:givet
+ff_6:ny
+ff_10:hans
+ff_16:gør
+ff_14:gør
+ff_15:VERB_Mood=Imp
+ff_17:VERB_Mood=Imp
+ff_10:ben
+ff_12:ben
+ff_6:ben
+ff_8:ben
+ff_18:derfor
+ff_12:tør
+ff_16:form
+ff_14:skaffe
+ff_18:bil
+ff_20:mill.
+ff_14:imidlertid
+ff_6:.
+ff_10:væk
+ff_6:væk
+ff_3:stadig
+ff_6:kom
+ff_10:fri
+ff_12:fri
+ff_10:præsident
+ff_6:præsident
+ff_10:1
+ff_3:syv
+ff_10:blive
+ff_12:blive
+ff_16:begynder
+ff_14:hvilket
+ff_15:PRON_Gender=Neut|Number=Sing|PronType=Int,Rel
+ff_10:1992
+ff_12:1992
+ff_20:hen
+ff_6:indsats
+ff_18:dog
+ff_20:kommer
+ff_20:frem
+ff_12:fortsætter
+ff_20:mål
+ff_18:par
+ff_16:uger
+ff_14:give
+ff_20:skabt
+ff_20:følge
+ff_6:skal
+ff_7:PRON_Gender=Com|Number=Sing|PronType=Int,Rel
+ff_6:derfor
+ff_10:derfor
+ff_10:frem
+ff_12:frem
+ff_20:livet
+ff_10:imod
+ff_12:imod
+ff_3:hvert
+ff_6:ønsker
+ff_12:tilbage
+ff_18:tilbage
+ff_3:gennem
+ff_12:gennem
+ff_6:kvinder
+ff_20:mand
+ff_12:nye
+ff_3:ville
+ff_18:dage
+ff_10:mod
+ff_12:mod
+ff_16:ja
+ff_12:nemlig
+ff_8:grund
+ff_20:finde
+ff_3:25
+ff_8:hun
+ff_8:bestemt
+ff_14:!
+ff_16:derimod
+ff_6:fik
+ff_0:skyldes
+ff_16:tør
+ff_4:ADJ_Degree=Sup|Number=Plur
+ff_20:fælles
+ff_16:finde
+ff_6:pludselig
+ff_6:filmen
+ff_6:blev
+ff_12:bruge
+ff_12:klare
+ff_18:klare
+ff_6:!
+ff_18:holdning
+ff_14:holdning
+ff_16:står
+ff_6:børn
+ff_20:ny
+ff_18:arbejdet
+ff_16:muligt
+ff_14:lykkedes
+ff_16:lykkedes
+ff_12:jeg
+ff_13:PRON_Case=Nom|Gender=Com|Number=Sing|Person=1|PronType=Prs
+ff_8:såkaldte
+ff_20:verden
+ff_12:sidder
+ff_16:kone
+ff_17:DET_Case=Gen|Gender=Com|Number=Sing|PronType=Dem
+ff_18:os
+ff_19:PRON_Case=Acc|Gender=Com|Number=Plur|Person=1|PronType=Prs
+ff_12:regeringen
+ff_6:regeringen
+ff_8:kvinder
+ff_6:lokale
+ff_20:nu
+ff_16:2.
+ff_18:tage
+ff_6:tilfælde
+ff_11:VERB_VerbForm=Ger
+ff_13:VERB_VerbForm=Ger
+ff_14:hørte
+ff_20:igen
+ff_18:hvorfor
+ff_14:problemer
+ff_11:PRON_Case=Nom|Gender=Com|Number=Sing|Person=2|PronType=Prs
+ff_20:måde
+ff_12:1987
+ff_6:1987
+ff_18:hjælp
+ff_16:derefter
+ff_18:vist
+ff_8:bank
+ff_0:bank
+ff_20:os
+ff_21:PRON_Case=Acc|Gender=Com|Number=Plur|Person=1|PronType=Prs
+ff_15:DET_Gender=Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs|Style=Form
+ff_20:brug
+ff_6:fuld
+ff_16:fuld
+ff_10:holde
+ff_10:vælge
+ff_12:vælge
+ff_20:god
+ff_18:bedste
+ff_8:behøver
+ff_0:behøver
+ff_16:derfor
+ff_17:PRON_Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_16:egentlig
+ff_18:ingen
+ff_20:sige
+ff_10:svar
+ff_12:svar
+ff_6:svar
+ff_20:kom
+ff_12:højere
+ff_18:højere
+ff_12:da
+ff_6:faldt
+ff_8:faldt
+ff_6:videre
+ff_20:kommet
+ff_20:dengang
+ff_8:hvorfor
+ff_20:højere
+ff_12:plads
+ff_14:plads
+ff_6:hører
+ff_16:hører
+ff_18:mig
+ff_19:PRON_Case=Acc|Gender=Com|Number=Sing|Person=1|PronType=Prs
+ff_20:mig
+ff_21:PRON_Case=Acc|Gender=Com|Number=Sing|Person=1|PronType=Prs
+ff_6:hel
+ff_21:PRON_Number=Plur|PronType=Dem
+ff_20:øjeblikket
+ff_16:øjeblikket
+ff_10:sagt
+ff_18:unge
+ff_18:gerne
+ff_3:ekstra
+ff_12:deres
+ff_13:PRON_Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_9:PRON_Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_1:PRON_Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_6:april
+ff_14:åbne
+ff_16:åbne
+ff_10:tæt
+ff_12:tæt
+ff_10:sidste
+ff_10:ja
+ff_16:spørgsmål
+ff_18:endnu
+ff_6:tale
+ff_12:øjeblik
+ff_6:øjeblik
+ff_16:politiet
+ff_16:behøver
+ff_18:vis
+ff_20:når
+ff_10:bedre
+ff_18:blandt
+ff_10:mulighed
+ff_6:ude
+ff_14:fortsatte
+ff_10:kom
+ff_11:PRON_Gender=Neut|Number=Sing|PronType=Dem
+ff_7:NOUN_Case=Gen
+ff_4:NOUN_Case=Gen
+ff_9:DET_PronType=Dem
+ff_1:DET_PronType=Dem
+ff_12:oktober
+ff_18:oktober
+ff_8:fortsatte
+ff_12:fortsatte
+ff_20:spil
+ff_3:kunnet
+ff_14:filmen
+ff_11:PRON_Case=Acc|Gender=Com|Person=2|Polite=Form|PronType=Prs
+ff_13:PRON_Case=Acc|Gender=Com|Person=2|Polite=Form|PronType=Prs
+ff_9:PRON_Case=Acc|Gender=Com|Person=2|Polite=Form|PronType=Prs
+ff_4:PRON_Case=Acc|Gender=Com|Person=2|Polite=Form|PronType=Prs
+ff_6:svarer
+ff_3:fire
+ff_4:PRON_Number=Plur|PronType=Int,Rel
+ff_3:ifølge
+ff_10:ifølge
+ff_20:ifølge
+ff_20:bl.a.
+ff_12:én
+ff_18:form
+ff_18:andet
+ff_10:danske
+ff_20:danske
+ff_20:bedste
+ff_18:20
+ff_8:egentlig
+ff_20:drejer
+ff_3:endnu
+ff_18:liv
+ff_20:haft
+ff_20:komme
+ff_8:familien
+ff_20:uger
+ff_18:mill.
+ff_10:mener
+ff_18:spørger
+ff_20:spørger
+ff_6:hurtigt
+ff_18:tilfælde
+ff_20:tilfælde
+ff_14:tilfælde
+ff_1:NOUN_Definite=Def|Number=Plur
+ff_14:skete
+ff_10:nej
+ff_12:nej
+ff_6:nej
+ff_8:nej
+ff_6:2.
+ff_10:sin
+ff_11:DET_Gender=Com|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_16:europæiske
+ff_10:fået
+ff_6:fået
+ff_10:lave
+ff_12:lave
+ff_20:gøre
+ff_4:NOUN_Definite=Def|Number=Plur
+ff_11:NOUN_Definite=Def|Number=Plur
+ff_20:steg
+ff_12:steg
+ff_20:spørgsmålet
+ff_18:gennem
+ff_16:holde
+ff_20:købe
+ff_16:ældre
+ff_14:bruge
+ff_3:tyske
+ff_14:taget
+ff_16:hold
+ff_10:klar
+ff_15:DET_Case=Gen|Number=Plur|PronType=Ind
+ff_16:området
+ff_10:store
+ff_18:nej
+ff_20:gjorde
+ff_18:dansk
+ff_20:dansk
+ff_18:ret
+ff_20:ret
+ff_20:behøver
+ff_12:sker
+ff_20:muligt
+ff_17:PRON_Case=Acc|Gender=Com|Number=Plur|Person=2|PronType=Prs
+ff_4:PRON_Case=Acc|Gender=Com|Number=Plur|Person=2|PronType=Prs
+35
+case
+obl
+aux
+nsubj
+nmod
+mark
+appos
+flat
+advcl
+obl:loc
+det
+amod
+punct
+cc
+advmod
+conj
+acl:relcl
+obj
+compound:prt
+cop
+nummod
+dep
+fixed
+ccomp
+nmod:poss
+list
+obl:tmod
+expl
+iobj
+xcomp
+discourse
+goeswith
+vocative
+parataxis
+reparandum
+5659
+91 -13 2
+25 3 3122
+26 4 135
+69 5 14
+74 -19 6
+409 7 9
+3334 -6 8
+4290 -16 -9
+374 -12 10
+147 -12 11
+226 -12 12
+314 -12 13
+80 -12 -9
+74 15 22
+544 -6 16
+858 17 21
+173 -19 18
+1582 -10 19
+283 -10 20
+1892 -10 -15
+2056 -6 -15
+217 23 24
+223 -18 -21
+660 -15 25
+180 26 30
+1 27 28
+4 -15 -12
+7 -27 29
+283 -27 -15
+65 31 32
+7 -24 -9
+858 33 39
+66 -2 -2
+4 35 36
+544 -18 -2
+9 -2 37
+191 -18 38
+1120 -18 -2
+401 40 55
+2837 -2 -2
+49 -18 42
+9 -10 -4
+1642 44 46
+24 -2 45
+4 -18 -2
+2581 47 48
+7 -4 -18
+80 -12 49
+1840 -18 50
+3964 -10 51
+711 -4 52
+45 53 -2
+81 54 -2
+9 -4 -2
+226 56 59
+4 57 -2
+227 -12 58
+209 -12 -2
+409 60 61
+35 -17 -9
+3429 -9 62
+287 -9 63
+759 -15 64
+1 65 112
+553 66 75
+39 67 -2
+23 -2 68
+9 -2 69
+55 70 71
+4 -2 -2
+12 72 -2
+45 -5 73
+15 74 -2
+820 -2 -2
+308 -16 76
+1946 -15 77
+190 -12 78
+347 -9 79
+442 -2 -2
+683 -9 81
+314 82 83
+227 -12 -2
+251 -5 84
+1928 -5 85
+548 86 87
+4 -2 -4
+4301 88 89
+163 -4 -2
+282 90 91
+40 -4 -2
+2123 92 94
+55 -5 93
+728 -5 -2
+1945 95 96
+23 -5 -2
+2500 97 99
+4 98 -2
+24 -2 -2
+3095 100 101
+81 -5 -2
+228 102 104
+794 103 -2
+4 -5 -2
+310 105 107
+49 106 -2
+200 -5 -2
+30 108 -2
+40 109 -2
+283 110 -2
+4 111 -2
+12 -2 -2
+17 113 127
+52 -6 114
+132 -19 115
+2892 -27 116
+314 117 119
+7 118 -12
+270 -12 -2
+147 120 123
+11 -2 -2
+270 -2 122
+4 -18 -2
+256 -12 124
+1599 -18 125
+3769 126 -2
+49 -2 -5
+2 -15 128
+209 -9 129
+929 -27 130
+1192 -5 131
+884 132 133
+7 -2 -5
+1224 134 -2
+12 -5 -2
+74 136 516
+8 137 326
+2056 138 140
+270 139 -6
+4 -6 -6
+293 -15 141
+898 142 158
+24 143 145
+11 144 -10
+4 -19 -19
+283 146 147
+4 -19 -19
+270 148 152
+12 149 151
+745 -10 150
+4 -15 -15
+60 -10 -19
+307 -19 -19
+3791 -15 154
+4 155 157
+705 -10 156
+49 -19 -10
+1770 -19 -10
+47 159 161
+900 -15 160
+24 -19 -19
+597 162 173
+4 163 167
+49 -19 164
+283 -19 165
+705 -19 166
+24 -19 -19
+964 -19 168
+49 -15 169
+233 -15 170
+987 -15 171
+553 -15 172
+535 -10 -10
+1582 174 180
+49 175 176
+4 -10 -19
+11 177 -19
+283 -10 178
+4 -19 179
+1639 -19 -10
+73 181 187
+443 -19 182
+4 183 186
+49 -19 184
+283 -10 185
+307 -10 -10
+422 -15 -10
+963 188 191
+283 189 -10
+4 -15 190
+784 -15 -10
+31 192 197
+283 -19 -19
+12 -15 -15
+24 -15 195
+4 196 -19
+49 -15 -19
+449 198 199
+900 -19 -10
+655 200 201
+964 -19 -10
+254 202 204
+48 -19 -19
+283 -15 -19
+2094 205 209
+4 206 207
+24 -6 -6
+24 -6 -6
+1247 -6 -15
+36 210 212
+4 211 -10
+12 -19 -10
+1892 213 215
+553 -15 214
+24 -15 -10
+543 216 218
+270 -10 217
+24 -19 -10
+1015 219 221
+49 -15 220
+270 -10 -10
+2123 222 228
+507 -6 223
+383 -10 224
+542 -10 225
+780 -10 226
+1 -15 227
+804 -10 -15
+477 229 231
+553 -10 230
+49 -10 -19
+1 232 257
+1536 -10 233
+873 234 235
+12 -15 -15
+1153 -15 236
+48 237 238
+548 -10 -12
+307 -15 239
+964 -19 240
+4 241 247
+12 242 -15
+24 -15 243
+283 -15 244
+705 -15 245
+49 -15 246
+270 -15 -15
+450 -10 248
+711 -10 249
+2878 -10 250
+1973 -15 251
+2318 252 253
+60 -15 -10
+406 254 255
+12 -15 -15
+535 -15 256
+987 -15 -15
+1775 258 260
+2615 -15 259
+4 -10 -10
+1839 261 269
+12 262 -19
+3275 -19 263
+4 264 -15
+270 -15 265
+307 -15 266
+553 -15 267
+49 -15 268
+24 -15 -15
+173 270 276
+50 -19 271
+1739 -19 272
+2657 -19 273
+4 274 -15
+49 -19 275
+283 -15 -15
+604 -19 277
+475 278 283
+270 279 280
+4 -19 -15
+283 -15 281
+4 282 -10
+24 -10 -10
+2062 284 286
+49 -15 285
+270 -10 -10
+507 287 299
+2878 -10 288
+2318 -15 289
+307 -15 290
+270 291 293
+4 292 -15
+12 -15 -15
+873 -15 294
+4 295 -15
+24 -15 296
+283 -15 297
+12 298 -15
+49 -15 -15
+436 300 301
+49 -6 -15
+542 302 305
+270 -10 -10
+4 304 -10
+24 -10 -15
+780 306 313
+450 -10 307
+49 -15 308
+711 -10 309
+908 -10 310
+24 311 -15
+4 312 -15
+12 -15 -15
+1011 -19 314
+1266 -19 315
+879 -10 316
+225 -19 317
+1347 -19 318
+2389 -19 319
+793 320 321
+24 -15 -15
+354 322 323
+873 -15 -15
+2447 324 -15
+49 325 -15
+4 -15 -15
+110 327 328
+115 -15 -16
+97 329 344
+16 330 334
+477 -19 331
+2856 -12 332
+227 -10 333
+1885 -10 -15
+686 -14 335
+12 336 341
+440 -18 337
+836 -16 338
+202 -10 339
+1340 340 -15
+4 -10 -15
+839 -10 342
+4 -15 343
+19 -19 -15
+1839 -15 345
+16 346 490
+1 347 374
+4 348 361
+415 -19 349
+270 350 353
+2000 -10 351
+3343 -19 352
+33 -15 -15
+7 354 -15
+24 -15 355
+283 356 357
+12 -15 -10
+163 -10 358
+12 359 -15
+42 -15 360
+617 -10 -10
+12 -15 -15
+283 363 364
+7 -18 -12
+270 -15 365
+56 -15 366
+249 -15 367
+911 -15 -10
+7 369 373
+2123 370 371
+33 -10 -15
+450 -10 372
+873 -4 -18
+33 -15 -19
+173 375 378
+49 -15 376
+75 -15 377
+711 -15 -19
+477 379 386
+4 380 385
+24 -15 381
+163 -10 382
+553 -10 383
+176 -15 384
+189 -15 -19
+535 -15 -10
+1011 387 388
+3101 -27 -15
+715 -15 389
+617 390 405
+605 391 393
+898 392 -10
+270 -10 -10
+780 -15 394
+73 -10 395
+898 -10 396
+12 397 -15
+7 398 -10
+475 -10 399
+270 -10 -10
+1256 -10 401
+1803 -10 402
+24 403 -15
+494 -15 404
+1015 -15 -10
+354 -18 406
+2710 -15 407
+163 408 413
+48 -15 409
+711 -15 410
+2255 -15 411
+898 412 -10
+49 -15 -10
+7 414 466
+898 415 426
+505 -10 416
+283 417 421
+56 -15 418
+465 -15 419
+4 420 -10
+12 -10 -15
+825 -10 422
+705 423 424
+4 -10 -15
+12 425 -15
+33 -10 -15
+219 -15 427
+780 -15 428
+61 -10 429
+703 -15 430
+705 -15 431
+2389 -15 432
+597 433 445
+666 -15 434
+283 435 438
+56 -10 436
+176 -10 437
+1840 -10 -15
+505 -10 -10
+733 -15 440
+1739 -15 441
+75 442 -10
+383 -15 443
+12 444 -10
+49 -15 -10
+42 -15 446
+422 -15 447
+283 -10 448
+543 -15 449
+830 -15 450
+49 451 452
+839 -15 -10
+274 -15 453
+908 -15 454
+4 455 -10
+1346 -15 456
+655 -10 457
+743 458 459
+963 -10 -15
+24 460 463
+50 -15 461
+475 -15 462
+12 -10 -10
+383 464 -10
+963 -15 465
+73 -10 -10
+669 -19 467
+1045 -19 468
+2845 -19 469
+140 -15 470
+293 -15 471
+926 -15 472
+42 -15 473
+152 -15 474
+219 -15 475
+2487 -15 476
+465 477 478
+1652 -10 -15
+282 -10 -10
+417 -15 480
+504 -15 481
+538 -15 482
+705 -15 483
+884 -15 484
+1163 -15 485
+1542 -15 486
+1745 -15 487
+2893 -15 488
+189 489 -10
+73 -15 -10
+235 491 493
+1287 -15 492
+203 -15 -19
+361 494 498
+205 495 496
+1415 -12 -15
+1 497 -15
+15 -4 -19
+209 -10 -10
+203 500 501
+7 -15 -18
+36 -17 -19
+33 503 506
+572 504 505
+2889 -10 -15
+7 -6 -4
+152 507 508
+68 -15 -19
+4 509 513
+1 510 511
+15 -18 -15
+357 -15 512
+542 -15 -10
+69 -19 514
+487 -22 515
+527 -16 -10
+8 517 1296
+92 518 530
+225 -22 519
+788 -14 520
+483 521 522
+99 -14 -14
+405 523 524
+12 -14 -24
+176 525 526
+307 -16 -14
+24 527 -14
+99 528 -14
+4 529 -14
+12 -14 -14
+29 -3 531
+52 -6 532
+272 -3 533
+2 534 548
+604 535 538
+24 -23 536
+49 -10 537
+283 -10 -6
+2878 -10 539
+254 540 545
+406 -10 541
+745 -6 542
+4 543 -6
+270 544 -6
+11 -6 -6
+36 546 -6
+270 547 -6
+4 -6 -6
+53 549 553
+1 550 -6
+4 551 -6
+49 552 -6
+12 -6 -6
+180 554 594
+2764 555 557
+1785 -15 556
+24 -12 -19
+4 558 573
+24 -15 559
+705 560 562
+1 561 -15
+12 -15 -15
+50 563 564
+49 -15 -19
+49 565 568
+565 -12 566
+1 567 -15
+11 -15 -15
+1 569 -15
+270 570 571
+12 -15 -15
+283 572 -15
+12 -15 -15
+3644 -12 574
+553 -19 575
+1655 -10 576
+1973 -12 577
+2865 -18 578
+1230 579 580
+733 -15 -18
+1423 581 582
+1 -12 -15
+535 583 584
+12 -12 -15
+1144 -12 585
+2893 -12 586
+733 587 588
+565 -12 -15
+825 -12 589
+1256 -12 590
+987 591 592
+565 -15 -12
+207 593 -15
+565 -12 -15
+746 595 638
+873 596 598
+436 597 -28
+12 -28 -28
+49 599 621
+1389 -28 600
+2263 -4 601
+1 -28 602
+2123 -28 603
+968 -28 604
+1256 -28 605
+450 -28 606
+2878 -28 607
+50 -4 608
+605 -4 609
+647 -4 610
+734 -4 611
+762 -4 612
+1352 -4 613
+2055 -4 614
+3622 -4 615
+12 616 -28
+1497 -28 617
+2318 -28 618
+3816 -28 619
+4666 -28 620
+4 -28 -28
+784 -10 622
+2656 623 624
+12 -28 -28
+931 -28 625
+436 626 -28
+705 -28 627
+825 -4 628
+858 -4 629
+2893 -4 630
+3146 -4 631
+2366 -4 632
+4 633 637
+12 634 -28
+270 -28 635
+24 -28 636
+283 -28 -28
+2865 -28 -28
+365 -3 639
+624 -3 640
+431 641 654
+2709 -29 642
+282 -29 643
+900 -29 644
+1175 -29 645
+1803 -29 646
+1739 -18 647
+4 648 652
+283 649 650
+12 -18 -18
+270 -18 651
+24 -18 -18
+661 -18 653
+964 -18 -18
+253 -4 655
+1468 656 672
+405 -18 657
+1 658 663
+283 -18 659
+4 660 661
+307 -6 -4
+647 -18 662
+1532 -18 -6
+20 664 -4
+1423 -18 665
+911 666 667
+12 -4 -6
+647 -6 668
+4 669 -6
+49 670 671
+11 -6 -6
+283 -6 -6
+409 673 677
+270 674 -30
+4 675 -30
+1 676 -30
+12 -30 -30
+347 678 684
+405 -12 679
+49 680 681
+4 -30 -30
+24 682 -30
+4 683 -30
+1 -30 -30
+726 685 691
+666 -27 686
+207 -12 687
+535 -12 688
+118 689 -15
+49 690 -15
+4 -15 -15
+489 -4 692
+436 693 712
+873 694 697
+11 695 -4
+50 -4 696
+12 -28 -28
+2656 698 699
+169 -28 -4
+407 700 702
+307 -28 701
+1497 -28 -4
+931 -4 703
+24 704 706
+4 705 -4
+12 -4 -4
+3133 -4 707
+60 708 709
+705 -28 -4
+270 710 -4
+4 711 -4
+12 -4 -4
+663 -4 713
+509 -4 714
+482 715 721
+4 716 -4
+1 717 719
+24 718 -4
+11 -4 -4
+49 720 -4
+12 -4 -4
+215 -2 722
+312 723 745
+733 -12 724
+283 725 729
+4 726 727
+12 -4 -4
+2865 -6 728
+11 -6 -6
+307 -4 730
+24 731 734
+2709 -4 732
+4 733 -6
+11 -6 -6
+705 -4 735
+2386 -4 736
+4 737 741
+270 738 740
+605 -6 739
+1 -18 -18
+1068 -6 -6
+562 -18 742
+638 -18 743
+2455 -18 744
+2615 -18 -6
+759 -15 746
+270 747 892
+1674 -4 748
+374 -12 749
+12 750 883
+147 751 752
+1 -12 -18
+1879 753 758
+132 -4 754
+330 -4 755
+23 -18 756
+81 -18 757
+167 -18 -29
+23 759 767
+406 -10 760
+2656 -4 761
+825 762 763
+1 -4 -18
+4 764 765
+1 -18 -18
+900 766 -18
+1 -18 -18
+444 -6 768
+885 -6 769
+2656 770 772
+133 771 -4
+1 -28 -4
+226 773 774
+4 -18 -12
+30 775 781
+1597 -18 776
+4 -4 777
+1739 -18 778
+825 -18 779
+1653 -18 780
+269 -4 -4
+660 782 783
+597 -15 -15
+80 784 786
+4 785 -4
+1 -12 -18
+421 -4 787
+132 788 791
+1343 -18 789
+1639 -18 790
+4 -4 -4
+1 792 840
+683 -30 793
+3211 -15 794
+2366 -4 795
+4 796 812
+81 -18 797
+2982 -4 798
+4662 -18 799
+55 -18 800
+1834 -4 801
+191 -18 802
+2959 -4 803
+5489 -4 804
+342 -18 805
+529 -18 806
+1779 -18 807
+2370 -18 808
+330 -18 809
+38 -18 810
+161 -4 811
+232 -4 -18
+964 813 814
+55 -2 -18
+406 -4 815
+1536 816 818
+81 -18 817
+167 -18 -4
+490 -4 819
+524 -4 820
+745 -4 821
+801 -4 822
+269 823 824
+191 -18 -4
+1448 -4 825
+1788 -4 826
+1834 -4 827
+2011 -4 828
+2426 -4 829
+38 -18 830
+161 -4 831
+900 832 835
+191 -4 833
+167 -18 834
+330 -18 -18
+666 836 837
+81 -4 -4
+1739 -18 838
+825 839 -18
+55 -18 -18
+160 841 849
+2366 -18 -18
+269 -4 843
+406 -4 844
+900 -4 845
+1034 -4 846
+2380 -4 847
+4 -18 848
+1141 -4 -18
+231 850 856
+900 -18 851
+269 -4 852
+825 -18 853
+1739 -18 854
+3191 -18 855
+4 -18 -4
+490 857 858
+398 -2 -29
+65 -30 859
+2914 -12 860
+330 -4 861
+3020 -4 862
+821 863 864
+4 -18 -18
+269 -29 865
+2034 866 868
+1653 -29 867
+4 -18 -18
+232 869 872
+1639 -29 870
+1739 871 -18
+812 -29 -18
+463 873 874
+4 -18 -18
+1034 -4 875
+1089 876 877
+964 -18 -4
+1599 878 879
+4 -4 -18
+1614 880 881
+118 -18 -4
+2010 -18 882
+820 -18 -18
+444 -4 -4
+964 -12 885
+226 -12 886
+463 -29 887
+734 -18 888
+132 889 890
+1853 -4 -18
+383 891 -4
+1 -18 -4
+885 -6 893
+660 894 903
+73 -10 895
+1542 -18 896
+11 897 -4
+4 898 -15
+307 -4 899
+1 900 -15
+283 -15 901
+705 -15 -15
+24 -15 -4
+683 904 907
+1068 -16 905
+4 906 -30
+49 -30 -30
+553 908 919
+1649 -2 909
+3630 -33 910
+30 -18 911
+80 -12 912
+147 -12 913
+226 -12 914
+2642 915 916
+4 -18 -18
+55 917 -18
+4 918 -18
+1 -18 -18
+374 920 922
+49 921 -12
+4 -12 -12
+821 923 933
+4 924 927
+24 -18 925
+49 926 -18
+12 -18 -18
+24 -29 928
+450 -29 929
+562 -29 930
+49 -18 931
+2357 -18 932
+2893 -18 -29
+23 934 952
+4 935 944
+24 936 937
+11 -18 -4
+1 -18 -18
+49 939 940
+11 -18 -4
+307 941 942
+11 -4 -4
+283 -4 -4
+614 -18 -18
+283 945 951
+483 946 947
+2271 -4 -2
+12 948 -2
+233 -2 949
+614 -4 950
+2213 -4 -18
+2271 -4 -18
+133 953 971
+1 -28 954
+12 955 970
+307 -4 956
+4 957 960
+24 -4 958
+705 -4 959
+49 -4 -4
+1415 -18 961
+1423 -18 962
+1253 -18 963
+1803 -18 964
+2324 -18 965
+2455 -18 966
+2865 -2 967
+2893 -2 968
+2954 -2 969
+1358 -2 -4
+176 -29 -4
+849 972 976
+4 -18 973
+1780 -29 974
+3056 -29 975
+562 -18 -18
+191 977 986
+1068 -25 978
+1 979 -18
+307 -4 980
+1389 -4 981
+4 982 985
+12 983 -18
+24 -18 984
+49 -18 -18
+873 -4 -18
+147 987 989
+1 -12 988
+1423 -12 -18
+80 990 1004
+1065 -4 991
+1785 -16 992
+49 993 1000
+1 994 996
+207 -4 995
+2055 -4 -12
+12 997 -4
+1423 -12 998
+4 999 -18
+1756 -18 -12
+4 1001 1003
+1 -4 1002
+24 -4 -12
+1803 -4 -12
+314 1005 1006
+1068 -16 -12
+226 1007 1008
+931 -18 -12
+2034 1009 1015
+483 -29 1010
+562 -29 1011
+3133 -29 1012
+283 -18 1013
+24 -18 1014
+4 -18 -18
+529 1016 1017
+1973 -4 -18
+81 1018 1035
+12 1019 1034
+48 -10 1020
+405 -4 1021
+622 -4 1022
+4 1023 1029
+307 -4 1024
+3630 -4 1025
+1 1026 -18
+49 -18 1027
+705 -18 1028
+283 -18 -18
+748 -4 1030
+1090 -4 1031
+1389 -4 1032
+3133 -4 1033
+207 -18 -18
+858 -2 -4
+873 1036 1042
+1788 -30 1037
+167 -18 1038
+1299 -31 1039
+2959 -6 1040
+30 1041 -4
+12 -4 -4
+1 1043 1208
+1813 -13 1044
+217 1045 1046
+24 -18 -21
+65 -16 1047
+2959 1048 1050
+24 -6 -6
+4 -4 -6
+706 -30 1051
+174 1052 1053
+181 -12 -16
+12 1054 1197
+30 1055 1073
+1253 -18 1056
+1153 -4 1057
+24 1058 1060
+661 -4 -4
+4 -4 -4
+282 -18 1061
+733 -18 1062
+1068 -18 1063
+1783 -18 1064
+1803 -18 1065
+4 1066 1068
+49 -4 1067
+283 -4 -4
+2455 -18 1069
+2976 -18 1070
+233 -4 1071
+3133 -4 1072
+711 -4 -4
+283 1074 1119
+1299 -16 1075
+959 -33 1076
+1788 -30 1077
+1803 -18 1078
+2415 -29 1079
+4 1080 1089
+55 -4 1081
+2542 -4 1082
+167 -18 1083
+232 -18 1084
+464 -18 1085
+330 -18 1086
+820 -18 1087
+161 -4 1088
+38 -4 -4
+167 -18 1090
+2110 -18 1091
+1840 1092 1093
+330 -4 -18
+2893 1094 1095
+161 -18 -4
+931 -4 1096
+711 -4 1097
+483 -4 1098
+535 -4 1099
+2865 -4 1100
+3709 -4 1101
+233 -4 1102
+1936 -4 1103
+3251 -4 1104
+161 1105 1106
+1153 -18 -4
+2213 1107 1109
+55 -18 1108
+38 -4 -4
+422 1110 1111
+55 -4 -4
+330 -4 1112
+1780 1113 1114
+38 -4 -4
+282 1115 1117
+38 -4 1116
+55 -4 -4
+1153 1118 -4
+55 -4 -4
+119 -12 1120
+2452 -10 1121
+3211 -15 1122
+307 1123 1124
+38 -4 -4
+295 1125 1126
+24 -2 -18
+714 -2 1127
+705 -4 1128
+1834 -4 1129
+3056 -4 1130
+562 1131 1132
+55 -4 -4
+4 1133 1160
+161 1134 1135
+24 -4 -4
+1946 -18 1136
+1779 -18 1137
+2542 -18 1138
+3429 -18 1139
+4662 -18 1140
+24 1141 1150
+55 -4 1142
+232 -4 1143
+470 -4 1144
+797 -4 1145
+2011 -4 1146
+2303 -4 1147
+2982 -4 1148
+330 -4 1149
+38 -4 -4
+55 1151 1152
+49 -4 -4
+167 -4 1153
+1674 -4 1154
+421 -4 1155
+801 -4 1156
+2982 -4 1157
+38 -4 1158
+232 -4 1159
+330 -4 -4
+167 -18 1161
+1423 1162 1164
+55 -4 1163
+161 -18 -18
+2472 -18 1165
+3644 1166 1167
+55 -18 -4
+1352 1168 1169
+330 -18 -4
+24 1170 1178
+1358 -4 1171
+161 -4 -4
+813 -18 1173
+1542 -18 1174
+661 1175 1176
+55 -18 -4
+2969 1177 -4
+330 -4 -4
+2507 1179 1180
+55 -18 -4
+464 -18 1181
+1381 -18 1182
+968 1183 1184
+38 -4 -18
+3031 1185 1186
+55 -4 -4
+2123 1187 1188
+55 -4 -4
+405 1189 1191
+161 -18 1190
+55 -4 -4
+207 1192 1193
+55 -4 -4
+733 1194 1195
+55 -4 -4
+2055 1196 -4
+161 -18 -4
+1577 -2 1198
+1803 -29 1199
+13 1200 -4
+102 -4 -4
+167 -18 1202
+1247 -18 1203
+60 1204 1206
+4 -4 1205
+1253 -4 -18
+2011 1207 -4
+4 -18 -4
+1673 -4 1209
+812 1210 1212
+11 1211 -29
+1780 -29 -18
+128 -12 1213
+1223 -2 1214
+463 -18 1215
+1093 -18 1216
+1387 1217 1218
+647 -29 -18
+561 -6 1219
+1423 1220 1223
+1599 -4 1221
+160 1222 -18
+12 -18 -18
+705 -4 1224
+398 1225 1226
+24 -4 -4
+2969 -4 -4
+160 -18 -4
+12 1229 1294
+118 -18 1230
+2055 -18 1231
+2899 -18 1232
+577 -4 1233
+911 1234 1235
+632 -4 -18
+1153 1236 1237
+55 -4 -18
+758 -18 1238
+932 -18 1239
+1392 -18 1240
+1521 -18 1241
+3644 -18 1242
+207 1243 1246
+231 -4 1244
+55 -4 1245
+160 -18 -18
+1803 1247 1248
+160 -4 -18
+4 1249 1274
+24 1250 1254
+1112 -18 1251
+3960 -18 1252
+1550 -4 1253
+160 -4 -4
+307 -4 1255
+160 1256 1257
+49 -4 -4
+421 -4 1258
+797 -18 1259
+1233 -18 1260
+1265 -18 1261
+1963 -18 1262
+2238 -18 1263
+2772 -18 1264
+3960 -18 1265
+55 -4 1266
+49 1267 1269
+820 -4 1268
+167 -4 -4
+216 -4 1270
+330 -4 1271
+167 -18 1272
+38 -4 1273
+231 -18 -18
+2893 -18 1275
+24 1276 1282
+1973 -4 1277
+1358 -4 1278
+1542 -4 1279
+160 1280 -18
+661 -4 1281
+1415 -4 -18
+160 1283 -4
+483 -18 1284
+647 -18 1285
+762 -18 1286
+3457 -18 1287
+3662 -18 1288
+4378 -18 1289
+282 -4 1290
+405 -4 1291
+3133 -4 1292
+3964 -4 1293
+931 -4 -4
+19 1295 -18
+217 -18 -4
+110 1297 1299
+52 -6 1298
+351 -12 -16
+2 1300 1319
+361 1301 1302
+484 -19 -6
+152 -6 1303
+47 1304 1305
+234 -6 -10
+31 1306 1311
+9 -15 -15
+49 1308 1309
+68 -27 -10
+4 -15 -10
+4 -6 -19
+2333 1312 1315
+1542 -15 1313
+422 1314 -19
+15 -15 -19
+209 -19 1316
+194 -19 1317
+384 -19 1318
+2976 -19 -15
+235 1320 1407
+234 1321 1357
+65 1322 1325
+873 -24 1323
+383 -16 1324
+1358 -24 -18
+287 1326 1330
+266 1327 1329
+4 -18 1328
+9 -4 -9
+931 -24 -18
+308 1331 1334
+4 -18 1332
+15 1333 -24
+45 -24 -18
+347 1335 1337
+24 -22 1336
+45 -22 -24
+409 1338 1344
+1891 1339 1340
+86 -15 -24
+12 1341 1342
+705 -22 -24
+1 -24 1343
+4 -24 -22
+23 1345 1347
+24 -22 1346
+289 -22 -24
+706 1348 1349
+35 -22 -24
+191 -12 -12
+81 1351 1352
+34 -24 -22
+194 1353 1355
+209 -24 1354
+24 -24 -12
+180 -19 1356
+458 -24 -12
+544 1358 1369
+1 1359 1365
+226 -12 1360
+24 -18 1361
+17 -15 1362
+270 -24 1363
+33 -15 -15
+205 -24 -15
+374 -12 1366
+270 -18 1367
+9 1368 -15
+49 -18 -15
+80 -12 1370
+147 -12 1371
+374 -12 1372
+226 -12 1373
+4281 1374 1376
+15 -15 1375
+1 -2 -15
+7 1377 1393
+194 -15 -15
+33 -6 -22
+21 1380 1391
+314 -12 1381
+4245 -24 1382
+207 -9 1383
+833 -9 1384
+224 1385 1386
+15 -6 -15
+16 -6 1387
+289 -6 1388
+1117 -6 1389
+28 1390 -15
+4 -6 -15
+1 -4 1392
+11 -15 -18
+128 -12 1394
+1352 -24 1395
+2823 -16 1396
+3170 -16 1397
+564 1398 1401
+308 -6 1399
+638 -6 1400
+833 -6 -15
+283 1402 -15
+512 1403 1404
+9 -15 -6
+481 -9 1405
+653 -9 1406
+657 -9 -15
+209 1408 1570
+65 1409 1433
+458 -24 1410
+1585 1411 1412
+689 -17 -18
+152 -24 -24
+64 -9 -17
+1925 -9 1415
+749 1416 1419
+1 -18 1417
+4 -24 1418
+7 -17 -22
+361 1420 1421
+205 -17 -24
+1 1422 1430
+1149 1423 1424
+4 -16 -24
+203 -35 1425
+553 -6 1426
+15 -24 1427
+210 -6 1428
+261 -6 1429
+2123 -6 -24
+4 1431 1432
+153 -24 -16
+270 -16 -24
+468 1434 1451
+409 1435 1436
+1481 -9 -24
+347 1437 1439
+873 -16 1438
+1253 -18 -24
+706 1440 1441
+222 -16 -24
+49 1442 1445
+266 1443 -12
+19 1444 -22
+191 -22 -12
+361 1446 1447
+4 -18 -16
+4 1448 1449
+283 -12 -16
+123 -12 1450
+226 -12 -22
+203 1452 1488
+180 1453 1454
+7 -19 -15
+1299 -31 1455
+487 1456 1459
+4 1457 -30
+7 -6 1458
+12 -9 -12
+23 1460 1465
+1 1461 1464
+647 -33 1462
+466 1463 -18
+7 -18 -2
+4 -2 -27
+189 1466 1467
+347 -30 -2
+204 1468 1469
+4 -2 -12
+49 1470 1476
+459 1471 1474
+361 1472 -18
+4 1473 -4
+30 -4 -4
+48 -4 1475
+347 -16 -24
+554 1477 1478
+56 -24 -30
+4 1479 1485
+2339 -2 1480
+167 -18 1481
+205 1482 -4
+12 1483 -4
+307 -18 -18
+24 -18 -4
+205 1486 1487
+12 -12 -4
+1 -18 -30
+23 1489 1502
+361 1490 1495
+15 1491 1493
+4 1492 -22
+1 -2 -22
+283 1494 -18
+164 -4 -2
+222 1496 1498
+7 -4 1497
+164 -16 -18
+310 -4 1499
+15 1500 -2
+7 -2 1501
+152 -2 -18
+16 1503 1510
+30 1504 1505
+208 -18 -33
+283 1506 1507
+4 -2 -31
+52 -6 1508
+174 -33 1509
+683 -30 -4
+287 1511 1514
+45 -16 1512
+152 -9 1513
+270 -18 -24
+409 1515 1522
+1586 -17 1516
+222 1517 1519
+17 -24 1518
+4 -6 -17
+97 -15 1520
+408 -15 1521
+901 -15 -24
+347 1523 1527
+24 -22 1524
+46 -17 1525
+44 -15 1526
+220 -15 -24
+554 1528 1534
+1 1529 1532
+1057 1530 -24
+12 1531 -24
+396 -24 -30
+4 -4 1533
+7 -24 -16
+674 1535 1539
+17 -6 1536
+180 -19 1537
+4 -12 1538
+226 -12 -22
+97 1540 1545
+537 1541 1542
+180 -12 -18
+741 -12 1543
+12 1544 -15
+17 -2 -17
+191 1546 1547
+213 -4 -18
+250 1548 1550
+161 -33 1549
+4 -22 -24
+30 1551 1553
+379 -4 -4
+404 -2 -4
+567 -12 -12
+12 1555 1568
+1 1556 1567
+81 1557 1559
+1057 1558 -4
+222 -22 -2
+17 1560 1565
+911 -18 1561
+283 1562 1563
+4 -2 -4
+458 -12 1564
+4 -4 -2
+7 -2 1566
+180 -15 -12
+15 -22 -4
+4 1569 -22
+15 -12 -24
+347 1571 1601
+16 1572 1575
+152 -9 1573
+617 1574 -30
+24 -16 -30
+12 1576 1598
+315 1577 1578
+1 -9 -17
+15 1579 1586
+9 1580 1584
+97 1581 1583
+17 -24 1582
+24 -30 -17
+401 -9 -30
+33 -16 1585
+404 -17 -24
+49 1587 1592
+873 -30 1588
+749 1589 1590
+33 -24 -17
+42 -15 1591
+1857 -22 -24
+7 1593 1594
+68 -30 -9
+4 1595 1597
+72 -9 1596
+442 -16 -24
+1 -16 -30
+860 1599 1600
+24 -30 -9
+34 -24 -30
+180 1602 1640
+4 1603 1619
+17 1604 1615
+331 1605 1606
+12 -12 -18
+12 1607 1613
+1230 1608 1609
+24 -15 -10
+68 1610 -15
+7 -12 1611
+283 1612 -15
+537 -12 -15
+68 -15 1614
+283 -15 -27
+993 -18 1616
+7 -4 1617
+68 -19 1618
+24 -19 -15
+207 -12 1620
+1230 1621 1622
+15 -10 -18
+2155 -18 1623
+76 -15 -15
+9 -19 -18
+465 -12 1626
+164 -27 1627
+1090 -19 1628
+1739 -19 1629
+1153 -12 1630
+48 -12 1631
+565 1632 1633
+49 -15 -12
+85 -12 1634
+368 -12 1635
+825 -12 1636
+985 -12 1637
+1083 -12 1638
+406 1639 -15
+189 -12 -15
+409 1641 1690
+234 1642 1655
+873 1643 1644
+487 -4 -30
+16 1645 1649
+490 -30 1646
+4 -18 -18
+49 -30 1648
+24 -18 -18
+371 -24 1650
+931 -30 1651
+270 1652 -18
+33 1653 -18
+9 -18 -18
+4 -30 -18
+15 1656 1665
+405 -24 1657
+17 1658 1663
+270 1659 -30
+367 -16 1660
+817 -16 1661
+1853 -16 1662
+3087 -16 -30
+34 -17 1664
+289 -17 -30
+69 1666 1668
+97 -18 -18
+200 -18 -9
+468 1669 1678
+49 1670 1676
+1868 1671 1672
+1 -22 -9
+357 -15 1673
+487 -22 1674
+249 -16 1675
+1770 -16 -24
+152 -17 1677
+553 -24 -16
+1585 -17 1679
+836 1680 1681
+527 -24 -16
+694 1682 1683
+17 -30 -9
+49 1684 1689
+7 1685 1687
+4 -30 1686
+68 -15 -18
+512 -17 1688
+3964 -30 -24
+249 -17 -30
+30 1691 1772
+56 1692 1724
+405 1693 1695
+16 1694 -4
+12 -4 -4
+824 -26 1696
+76 1697 1698
+4 -2 -4
+60 1699 1713
+24 1700 1702
+15 1701 -4
+2892 -4 -18
+270 -18 1703
+357 -18 1704
+1253 -18 1705
+1783 -18 1706
+2976 -18 1707
+4 1708 -4
+34 -4 1709
+307 1710 1711
+15 -18 -4
+49 -4 1712
+16 -4 -4
+283 1714 1720
+1783 -4 1715
+12 1716 -4
+282 -4 1717
+4 1718 -4
+57 1719 -4
+16 -4 -4
+49 1721 -4
+4 1722 -4
+16 1723 -4
+12 -4 -4
+152 -2 1725
+405 -4 1726
+556 1727 1736
+553 1728 1729
+11 -18 -2
+562 -29 1730
+57 -4 1731
+357 -18 1732
+900 -18 1733
+4 1734 -4
+16 1735 -4
+283 -4 -4
+1462 -18 1737
+68 1738 1741
+7 1739 1740
+9 -2 -18
+207 -2 -4
+459 -4 -4
+4 -18 -2
+1004 1744 1745
+15 -18 -2
+50 -2 1746
+165 -2 1747
+552 -2 1748
+151 -18 1749
+1087 -18 1750
+1352 -18 1751
+143 -18 1752
+476 -18 1753
+493 -18 1754
+532 -18 1755
+628 -18 1756
+677 -18 1757
+904 -18 1758
+912 -18 1759
+1146 -18 1760
+1315 -18 1761
+617 1762 1764
+283 1763 -4
+12 -18 -4
+270 1765 1768
+16 -18 1766
+335 1767 -4
+4 -18 -4
+465 1769 1770
+7 -18 -4
+335 1771 -4
+24 -4 -4
+315 1773 1789
+23 1774 1775
+546 -9 -2
+191 -2 1776
+81 1777 1779
+49 1778 -2
+76 -2 -22
+65 1780 1781
+85 -17 -9
+167 -2 1782
+287 -9 1783
+1 1784 1786
+57 -9 1785
+759 -15 -12
+15 -2 1787
+49 -9 1788
+53 -6 -12
+65 1790 1834
+1586 1791 1796
+7 1792 1793
+1 -24 -4
+68 1794 1795
+1 -24 -17
+1666 -16 -18
+97 1797 1808
+203 1798 1800
+11 1799 -24
+33 -10 -17
+249 1801 1802
+1 -24 -16
+76 -15 1803
+15 1804 1805
+33 -17 -18
+7 -17 1806
+9 -22 1807
+68 -22 -18
+270 1809 1811
+152 -17 1810
+28 -16 -22
+266 1812 1814
+28 -16 1813
+250 -6 -24
+1603 -17 1815
+311 1816 1817
+12 -22 -24
+580 1818 1819
+1 -24 -30
+290 -17 1820
+283 1821 1822
+4 -9 -24
+887 -9 1823
+873 1824 1825
+17 -16 -24
+838 -16 -16
+68 -24 1827
+17 -16 -24
+20 1829 -24
+75 -24 1830
+115 -24 1831
+405 -24 1832
+1057 1833 -16
+1 -24 -16
+444 -6 1835
+287 1836 1858
+2058 -18 1837
+1585 -18 1838
+283 1839 1848
+266 -16 -16
+465 -22 1841
+27 -9 1842
+57 -9 1843
+572 1844 1845
+1 -16 -24
+76 -24 1846
+221 -24 1847
+540 -24 -16
+49 1849 1851
+35 -18 1850
+250 -9 -24
+17 1852 1854
+270 -18 1853
+1 -30 -17
+97 1855 1856
+512 -22 -24
+4 1857 -24
+152 -17 -16
+7 1859 2356
+12 1860 2225
+1 1861 2117
+270 1862 1911
+1857 1863 1864
+23 -22 -12
+583 1865 1866
+68 -29 -4
+55 1867 1870
+72 -5 1868
+504 -2 1869
+505 -18 -4
+189 1871 1872
+191 -2 -30
+917 1873 1874
+4 -2 -4
+706 -30 1875
+556 1876 1879
+4 1877 1878
+15 -4 -18
+23 -2 -12
+17 1880 1908
+493 -2 1881
+1141 -2 1882
+149 -4 1883
+330 -4 1884
+1038 -4 1885
+1536 -4 1886
+3191 -4 1887
+75 1888 1889
+38 -18 -4
+387 1890 1891
+16 -18 -4
+1739 1892 1893
+465 -18 -4
+4 1894 -18
+57 1895 1896
+23 -18 -4
+161 -4 1897
+1275 -4 1898
+223 1899 1900
+476 -18 -4
+473 1901 1902
+23 -18 -4
+1315 1903 1904
+81 -4 -18
+33 1905 1906
+476 -4 -18
+905 1907 -18
+81 -18 -18
+396 -18 1909
+213 -18 1910
+476 -18 -4
+554 1912 1914
+553 -16 1913
+4 -30 -9
+706 1915 1917
+15 1916 -24
+17 -30 -6
+189 1918 1922
+4 1919 -30
+683 -16 1920
+9 1921 -18
+55 -4 -2
+308 -4 -4
+9 1924 1925
+16 -16 -22
+4 -24 -18
+905 1927 1945
+76 -4 1928
+4 1929 1938
+49 1930 1933
+81 1931 -4
+1041 -4 1932
+16 -18 -18
+15 1934 -18
+401 -18 1935
+16 1936 -4
+283 -18 1937
+24 -4 -4
+24 -18 1939
+207 -18 1940
+907 -4 1941
+711 -4 1942
+49 1943 -18
+16 1944 -18
+3598 -4 -4
+374 -12 1946
+468 1947 1948
+76 -12 -22
+1299 1949 1950
+9 -14 -31
+670 -4 1951
+24 1952 1991
+57 1953 1955
+330 1954 -4
+1175 -4 -4
+2413 1956 1957
+16 -2 -2
+97 1958 1960
+55 -4 1959
+330 -4 -2
+2632 -18 1961
+917 1962 1964
+167 -27 1963
+38 -4 -2
+424 1965 1966
+4 -4 -22
+1922 1967 1968
+164 -18 -2
+356 -2 1969
+377 -18 1970
+33 1971 1973
+16 1972 -4
+23 -2 -4
+396 1974 1976
+9 -2 1975
+23 -4 -4
+23 1977 1986
+465 -18 1978
+15 1979 -4
+388 -4 1980
+16 1981 1985
+249 -18 1982
+661 -18 1983
+920 -18 1984
+4234 -18 -4
+149 -4 -18
+578 1987 1989
+81 1988 -4
+9 -4 -18
+473 -18 1990
+2838 -18 -4
+504 1992 2003
+283 1993 1997
+55 -2 1994
+1936 -2 1995
+16 1996 -18
+167 -18 -10
+16 1998 -18
+49 1999 -4
+55 -4 2000
+161 -4 2001
+873 -4 2002
+4 -18 -18
+416 -4 2004
+80 2005 2006
+33 -12 -4
+4 2007 2064
+349 -17 2008
+1066 -10 2009
+705 2010 2012
+159 -2 2011
+259 -2 -4
+2632 -18 2013
+401 2014 2015
+97 -18 -2
+128 -12 2016
+256 -12 2017
+149 -4 2018
+476 2019 2022
+23 2020 2021
+9 -4 -18
+223 -4 -18
+249 2023 2024
+1482 -18 -4
+852 -4 2025
+553 -18 2026
+703 -18 2027
+81 2028 2032
+692 -18 2029
+163 -2 2030
+164 -2 2031
+1908 -2 -4
+23 2033 2044
+49 2034 2038
+33 -2 2035
+57 -4 2036
+473 -4 2037
+920 -4 -18
+283 2039 -4
+154 -18 2040
+556 2041 2042
+16 -18 -2
+259 -2 2043
+260 -2 -4
+357 -2 2045
+191 2046 2052
+556 2047 2048
+49 -4 -2
+56 -18 2049
+223 -18 2050
+2737 -18 2051
+3106 -18 -4
+33 -4 2053
+97 2054 2055
+34 -18 -4
+9 2056 -18
+1846 -18 2057
+38 2058 2059
+56 -18 -4
+617 2060 2062
+49 -4 2061
+55 -4 -4
+56 2063 -4
+49 -4 -4
+68 -2 2065
+683 -30 2066
+2123 2067 2070
+617 -2 2068
+23 2069 -26
+377 -18 -4
+38 2071 2072
+9 -4 -2
+3251 2073 2074
+16 -29 -18
+1039 2075 2076
+2055 -4 -18
+282 2077 2079
+55 -4 2078
+404 -4 -18
+207 2080 2092
+1023 -2 2081
+16 2082 -18
+75 -4 2083
+149 -4 2084
+617 -4 2085
+81 -18 2086
+356 -18 2087
+167 -4 2088
+465 -18 2089
+505 -18 2090
+191 -4 2091
+920 -18 -4
+55 2093 2098
+16 2094 2096
+562 2095 -4
+56 -29 -4
+33 -18 2097
+49 -2 -4
+56 2099 2101
+9 2100 -2
+1352 -2 -4
+556 2102 2104
+23 -18 2103
+191 -18 -4
+2697 2105 2106
+873 -4 -18
+23 2107 2112
+911 -18 2108
+1153 -18 2109
+3598 -18 2110
+164 -18 2111
+474 -18 -4
+917 -18 2113
+2615 -18 2114
+4598 -18 2115
+2110 2116 -4
+75 -18 -4
+1007 -18 2118
+374 2119 2121
+149 -4 2120
+465 -18 -12
+1312 2122 2124
+49 -18 2123
+233 -22 -2
+726 2125 2126
+49 -12 -15
+226 -4 -4
+16 2128 2181
+375 2129 2131
+703 -18 2130
+1586 -22 -27
+3679 -2 2132
+2459 -27 2133
+504 2134 2138
+270 2135 2136
+81 -18 -27
+1920 -4 2137
+3095 -4 -18
+4 2139 2163
+217 -21 2140
+189 -2 2141
+1243 -2 2142
+660 -15 2143
+1946 -15 2144
+1114 -18 2145
+4234 -18 2146
+85 -4 2147
+705 -4 2148
+852 -4 2149
+167 2150 2151
+149 -4 -18
+283 -4 2152
+387 -18 2153
+23 -4 2154
+55 -4 2155
+38 -4 2156
+307 -4 2157
+191 -18 2158
+356 -4 2159
+817 -4 2160
+75 2161 -18
+49 2162 -4
+81 -18 -4
+23 2164 2166
+149 2165 -18
+24 -4 -2
+38 -2 2167
+356 -2 2168
+529 -18 2169
+56 -4 2170
+191 2171 2172
+2883 -4 -18
+873 2173 2174
+42 -4 -18
+911 -18 2175
+147 -18 2176
+282 -18 2177
+743 -18 2178
+1114 -18 2179
+1141 -18 2180
+1497 -18 -4
+9 2182 2203
+633 2183 2184
+33 -2 -27
+777 2185 2186
+4 -15 -2
+456 2187 2189
+15 -18 2188
+24 -2 -22
+35 -16 2190
+259 -2 2191
+743 -18 2192
+907 -18 2193
+80 -18 2194
+134 -18 2195
+248 -18 2196
+167 2197 2199
+85 -4 2198
+15 -18 -4
+962 -18 2200
+1172 -18 2201
+2268 2202 -4
+57 -18 -4
+309 -2 2204
+4 2205 2221
+283 2206 2208
+17 -2 2207
+23 -4 -22
+270 2209 2210
+17 -27 -18
+213 2211 2213
+76 -18 2212
+24 -4 -27
+113 -18 2214
+150 -18 2215
+396 -2 2216
+17 2217 -4
+33 -2 2218
+23 -4 2219
+24 -2 2220
+89 -4 -2
+440 -18 2222
+203 2223 2224
+24 -4 -18
+240 -18 -4
+11 2226 2336
+270 2227 2237
+16 2228 2232
+683 -30 2229
+309 -15 2230
+374 -12 2231
+1673 -4 -18
+20 2233 2236
+189 -2 2234
+17 2235 -4
+1 -30 -27
+85 -15 -18
+660 2238 2239
+605 -18 -15
+147 2240 2242
+49 -12 2241
+1 -4 -18
+33 2243 2253
+683 -30 2244
+705 -10 2245
+15 2246 2251
+633 -4 2247
+330 2248 2249
+24 -18 -4
+307 2250 -18
+23 -18 -4
+19 -4 2252
+38 -4 -18
+504 2254 2259
+60 -2 -2
+274 2256 2258
+27 -27 2257
+191 -2 -18
+49 -27 -2
+383 2260 2265
+334 -4 -4
+13 -18 -6
+931 2263 2264
+75 -16 -18
+260 -2 -4
+1143 2266 2267
+81 -18 -12
+465 2268 2277
+161 2269 2272
+839 -4 -4
+4 -18 2271
+24 -18 -4
+4666 -2 2273
+374 -12 2274
+442 -12 2275
+55 2276 -18
+1 -18 -18
+839 2278 2280
+1 -4 2279
+375 -27 -2
+38 2281 2285
+24 2282 2284
+617 2283 -18
+1 -4 -27
+163 -18 -4
+683 -30 2286
+390 2287 2288
+16 -2 -4
+405 -4 2289
+1876 -2 2290
+657 2291 2292
+1 -4 -2
+820 -4 2293
+207 -18 2294
+176 2295 2296
+968 -4 -18
+617 2297 2298
+483 -4 -18
+605 -4 2299
+24 2300 2302
+16 2301 -4
+344 -4 -18
+55 2303 2310
+4 -4 -4
+97 -4 2305
+60 -18 2306
+49 2307 -4
+56 -4 -18
+49 -4 2309
+60 -18 -4
+535 -4 2311
+873 -18 2312
+42 -18 2313
+357 -18 2314
+307 -4 2315
+9 2316 -4
+68 -4 2317
+169 -4 2318
+274 -4 2319
+334 -4 2320
+330 2321 2323
+49 2322 -4
+163 -4 -18
+470 -4 2324
+567 -4 2325
+662 -4 2326
+670 -4 2327
+884 -4 2328
+2170 -4 2329
+2271 -4 2330
+51 2331 -18
+134 -4 2332
+167 2333 2334
+49 -18 -4
+81 -18 -18
+49 -4 -18
+840 -4 -4
+1 2338 2340
+4 2339 -30
+9 -4 -12
+56 -12 -4
+189 -2 2342
+359 -30 2343
+580 -18 2344
+97 2345 2346
+1 -2 -4
+61 -2 2347
+239 -2 2348
+4 2349 -4
+567 -2 2350
+1087 -2 2351
+368 -4 2352
+176 -4 2353
+16 2354 -18
+56 -18 2355
+1905 -18 -4
+726 2357 2365
+465 -12 2358
+711 2359 2360
+1 -10 -27
+68 -12 2361
+34 -27 2362
+998 2363 -15
+103 -15 2364
+4 -27 -15
+149 2366 2484
+1312 2367 2368
+2263 -27 -2
+3769 -10 2369
+9 2370 2429
+57 2371 2381
+4 2372 2379
+1 2373 -18
+17 -18 2374
+11 2375 -18
+205 -18 2376
+15 2377 -4
+24 -18 2378
+283 -4 -4
+148 2380 -18
+224 -18 -4
+920 2382 2387
+283 -4 2383
+443 -4 2384
+49 2385 -18
+1 2386 -18
+203 -18 -4
+4 2388 2416
+250 -18 -18
+617 2390 2396
+283 2391 2392
+15 -18 -2
+23 2393 -4
+49 -18 2394
+270 2395 -4
+148 -18 -4
+3248 -2 2397
+357 2398 2400
+49 2399 -18
+205 -2 -4
+1744 -4 2401
+2302 -4 2402
+3054 -4 2403
+33 -18 2404
+34 2405 2406
+163 -4 -18
+538 -4 2407
+743 2408 2409
+1 -18 -4
+575 2410 -18
+270 -18 2411
+76 2412 2413
+24 -4 -18
+377 2414 -18
+24 -18 2415
+1 -18 -18
+575 2417 2427
+405 -4 2418
+450 -4 2419
+745 -4 2420
+784 -4 2421
+2123 -4 2422
+2873 -4 2423
+164 2424 2425
+49 -18 -4
+562 2426 -18
+76 -18 -18
+2241 2428 -18
+15 -18 -4
+1879 -29 2430
+307 2431 2432
+157 -18 -4
+49 2433 2447
+150 2434 2441
+2455 -2 2435
+23 2436 -4
+1 2437 -18
+911 -18 2438
+873 -18 2439
+3031 -18 2440
+4 -18 -18
+2647 2442 2443
+201 -18 -4
+401 -4 2444
+493 -4 2445
+986 -4 2446
+2216 -4 -18
+1127 2448 2449
+1 -2 -18
+426 -2 2450
+1116 2451 2453
+270 -2 2452
+167 -18 -2
+270 2454 2460
+12 2455 -4
+960 -2 2456
+4 2457 -18
+15 2458 -18
+1 2459 -18
+23 -18 -18
+282 -18 2461
+931 -18 2462
+13 2463 -2
+60 -2 2464
+535 -2 2465
+1179 -2 2466
+16 2467 2476
+2115 -2 2468
+4 2469 2473
+960 -4 2470
+1 2471 -18
+24 -18 2472
+283 -18 -18
+24 -18 2474
+422 -18 2475
+2976 -18 -4
+76 -18 2477
+23 2478 -4
+121 -4 2479
+157 2480 2481
+1 -4 -18
+617 -4 2482
+646 -4 2483
+1888 -4 -18
+468 2485 2494
+23 2486 2487
+4 -17 -22
+191 -22 2488
+207 2489 2490
+9 -15 -16
+526 -24 2491
+55 -16 2492
+147 2493 -12
+4 -12 -12
+1 2495 2910
+97 2496 2539
+81 2497 2502
+401 -10 2498
+923 -2 2499
+357 -4 2500
+115 -2 2501
+379 -2 -18
+683 -30 2503
+1844 2504 2506
+694 -2 2505
+85 -30 -18
+511 -18 2507
+308 -16 2508
+147 -12 2509
+674 2510 2511
+9 -22 -12
+741 2512 2514
+23 -22 2513
+80 -12 -4
+573 -4 2515
+11 2516 2536
+233 2517 2518
+374 -12 -18
+357 2519 2520
+4 -18 -7
+330 -4 2521
+213 -18 2522
+480 -18 2523
+327 -4 2524
+3178 -2 2525
+15 2526 2534
+12 2527 -2
+923 -4 2528
+38 -2 2529
+4 -4 2530
+49 -4 2531
+157 -4 2532
+161 -4 2533
+167 -4 -2
+12 2535 -4
+390 -4 -2
+4 2537 -2
+858 2538 -18
+24 -18 -2
+1299 2540 2541
+44 -16 -31
+270 2542 2625
+406 2543 2544
+23 -2 -10
+1739 2545 2549
+685 -4 2546
+147 -12 2547
+15 2548 -12
+80 -12 -18
+750 -17 2550
+374 2551 2552
+531 -18 -12
+1837 2553 2554
+23 -2 -10
+4365 2555 2556
+16 -15 -2
+1879 2557 2559
+191 -18 2558
+33 -18 -29
+953 -16 2560
+202 2561 2562
+57 -29 -18
+987 2563 2565
+9 2564 -4
+12 -2 -18
+694 2566 2567
+4 -4 -2
+159 -2 2568
+573 -2 2569
+1655 -2 2570
+3327 -2 2571
+521 2572 2573
+4 -2 -18
+330 2574 2575
+11 -4 -18
+456 -18 2576
+296 2577 2583
+42 -18 -18
+1038 -18 2579
+16 -4 2580
+4 2581 2582
+15 -18 -4
+193 -4 -18
+344 2584 2586
+15 2585 -4
+11 -18 -4
+2657 2587 2588
+23 -18 -4
+38 -4 2589
+253 -4 2590
+384 -4 2591
+404 -4 2592
+205 -18 2593
+417 -4 2594
+424 -4 2595
+665 -4 2596
+798 -4 2597
+908 -4 2598
+1896 -4 2599
+2212 -4 2600
+2241 -4 2601
+1536 2602 2604
+80 -4 2603
+387 -4 -18
+2733 -4 2605
+3728 -4 2606
+1203 2607 2608
+4 -18 -4
+2884 2609 2610
+167 -4 -18
+566 2611 2615
+310 -4 2612
+1532 -4 2613
+4 2614 -18
+9 -18 -18
+4 2616 -18
+1041 2617 2618
+81 -4 -18
+2524 -18 2619
+9 2620 -18
+33 2621 2622
+17 -4 -18
+85 2623 -18
+81 2624 -18
+88 -18 -18
+492 2626 2628
+23 -24 2627
+81 -24 -12
+2106 2629 2630
+23 -16 -2
+683 2631 2632
+203 -4 -30
+191 2633 2685
+196 2634 2639
+1801 -18 2635
+4 2636 -4
+9 2637 -4
+283 -18 2638
+307 -4 -4
+612 -10 2640
+346 2641 2643
+249 2642 -4
+4 -18 -29
+360 2644 2645
+24 -4 -2
+948 2646 2647
+4 -5 -18
+344 -4 2648
+1211 -18 -18
+11 -4 -2
+2629 2651 2653
+49 -4 2652
+76 -4 -18
+70 -2 2654
+233 -2 2655
+367 -2 2656
+703 -2 2657
+2318 -2 2658
+961 2659 2660
+4 -2 -18
+49 2661 2676
+15 2662 -18
+207 -18 2663
+229 -18 2664
+873 -4 2665
+920 -4 2666
+583 -18 2667
+76 -4 2668
+310 -4 2669
+531 -4 2670
+1022 -4 2671
+566 2672 -18
+3133 -4 2673
+4 2674 -18
+9 2675 -4
+817 -18 -4
+1038 2677 2678
+4 -18 -4
+12 2679 2684
+584 -4 2680
+2882 -4 2681
+1501 2682 -18
+4 2683 -18
+283 -18 -18
+11 -4 -18
+23 2686 2768
+415 2687 2713
+260 2688 2689
+4 -2 -27
+310 2690 2694
+24 -18 -18
+2780 -27 2692
+15 2693 -18
+49 -18 -29
+49 2695 2706
+4 2696 2699
+205 2697 2698
+33 -2 -2
+16 -4 -18
+405 -4 2700
+205 -18 2701
+3644 -18 2702
+249 -18 2703
+15 2704 -4
+17 -4 2705
+193 -4 -18
+465 -18 2707
+390 2708 2712
+283 2709 2711
+1090 -4 2710
+4 -18 -18
+1226 -18 -4
+41 -18 -4
+1462 2714 2715
+76 -2 -18
+484 2716 2717
+4 -22 -18
+1650 2718 2719
+4 -4 -22
+344 2720 2724
+4 2721 -4
+15 2722 -4
+76 -4 2723
+9 -18 -4
+1469 2725 2726
+4 -22 -2
+1008 -17 2727
+1039 -18 2728
+11 2729 2767
+361 2730 2731
+33 -18 -2
+9 2732 2738
+12 2733 -4
+1358 -4 2734
+76 2735 2736
+17 -4 -18
+416 2737 -18
+4 -4 -18
+1647 -2 2739
+33 2740 2746
+49 2741 2743
+450 -2 2742
+688 -18 -4
+1153 -18 2744
+3374 2745 -2
+4 -18 -2
+309 -2 2747
+2051 -2 2748
+2146 -2 2749
+873 -4 2750
+12 2751 -4
+113 -4 2752
+192 -4 2753
+307 -4 2754
+535 -4 2755
+4 2756 2765
+283 -18 2757
+1220 -4 2758
+15 2759 -18
+920 -18 2760
+558 2761 2762
+49 -18 -4
+24 2763 2764
+1412 -18 -4
+1412 -4 -4
+1235 2766 -18
+911 -4 -18
+339 -4 -18
+81 2769 2829
+836 -22 2770
+76 2771 2773
+4 -18 -18
+15 -2 -18
+2377 2774 2775
+282 -4 -4
+670 2776 2794
+42 -18 2777
+617 -18 2778
+1752 -4 2779
+35 -18 2780
+520 -18 2781
+538 -18 2782
+688 -18 2783
+4 2784 2793
+15 -4 -4
+1627 -4 2786
+24 -18 2787
+401 -18 2788
+1846 -18 2789
+49 2790 2791
+9 -4 -4
+16 -18 -4
+877 -4 -4
+984 -18 -4
+44 -18 -18
+75 -2 2796
+1395 -4 2797
+2123 -4 2798
+307 2799 2800
+1041 -18 -4
+223 2801 2802
+4 -18 -2
+634 2803 2804
+24 -18 -2
+839 -4 2805
+4 2806 2822
+2294 -18 2807
+1066 2808 2809
+24 -4 -18
+2322 -18 2810
+164 -4 2811
+49 2812 2817
+578 -4 2813
+57 -4 2814
+85 -4 2815
+266 -4 2816
+934 -4 -18
+16 2818 -18
+520 -4 2819
+1270 -4 2820
+2347 -4 2821
+2526 -4 -18
+405 -4 2823
+564 -4 2824
+1041 -4 2825
+1423 -4 2826
+2615 -4 2827
+1542 2828 -18
+213 -18 -4
+554 2830 2831
+440 -24 -16
+167 2832 2852
+213 2833 2835
+4 2834 -18
+9 -18 -27
+85 2836 2838
+16 2837 -4
+11 -18 -4
+49 -18 -18
+68 -2 -18
+13 2841 -18
+553 2842 2843
+4 -18 -2
+16 2844 2849
+33 -4 2845
+344 -4 2846
+3016 -4 2847
+934 2848 -18
+4 -4 -18
+505 -18 2850
+27 -2 2851
+42 -2 -4
+55 2853 2870
+207 2854 2855
+309 -2 -18
+205 2856 2859
+11 -4 2857
+4 2858 -4
+51 -4 -18
+192 -4 -4
+307 -4 -2
+24 -4 2862
+873 -4 2863
+15 2864 -2
+4 2865 2867
+11 2866 -18
+249 -18 -4
+249 -4 2868
+11 2869 -2
+617 -2 -18
+147 2871 2872
+567 -18 -12
+374 2873 2874
+205 -18 -12
+1788 -30 2875
+11 2876 2906
+572 2877 2878
+4 -18 -15
+308 2879 2880
+4 -18 -22
+226 2881 2882
+567 -18 -12
+484 2883 2884
+4 -12 -18
+68 -24 2885
+157 -2 2886
+1199 -2 2887
+751 -6 2888
+1050 -6 2889
+154 2890 2891
+174 -12 -12
+128 -12 2892
+2845 -12 2893
+192 -4 -4
+249 -18 2895
+3428 -18 2896
+50 -18 2897
+88 -18 2898
+820 -18 2899
+1534 -18 2900
+1946 -18 2901
+538 2902 2905
+4104 -18 2903
+9 2904 -4
+38 -4 -18
+3644 -18 -4
+232 -6 2907
+15 2908 -4
+104 -4 2909
+661 -4 -18
+257 2911 2920
+578 2912 2916
+12 2913 2915
+49 -18 2914
+2580 -18 -27
+9 -16 -2
+531 -22 2917
+566 -18 2918
+49 -18 2919
+249 -18 -2
+1650 2921 2923
+23 -22 2922
+4 -6 -27
+160 2924 2936
+16 -4 -4
+11 2926 2928
+778 -18 2927
+4484 -18 -4
+49 2929 2930
+201 -18 -4
+307 -4 2931
+895 2932 -18
+2893 -18 -4
+4 2934 2935
+49 -18 -22
+9 -4 -2
+192 -2 2937
+2360 2938 2942
+2322 -18 2939
+283 -10 2940
+34 -10 2941
+522 -10 -2
+24 2943 2977
+3679 -2 2944
+23 2945 2954
+163 -10 2946
+832 -27 2947
+1059 -2 2948
+2057 2949 2950
+279 -4 -2
+223 -4 2951
+40 -2 2952
+375 -2 2953
+68 -2 -18
+421 2955 2956
+4 -27 -6
+905 2957 2959
+9 -27 2958
+4 -2 -4
+466 2960 2962
+17 -29 2961
+42 -18 -4
+504 2963 2965
+113 -4 2964
+2165 -18 -2
+3986 -18 -18
+2969 2967 2969
+15 -15 2968
+33 -2 -12
+36 -15 2970
+226 2971 2972
+1685 -18 -12
+128 -12 2973
+903 -12 2974
+55 -2 2975
+753 -2 2976
+961 -2 -18
+660 2978 2980
+4 -14 2979
+9 -6 -15
+741 2981 2985
+49 2982 2983
+9 -22 -18
+4 -29 2984
+1639 -29 -18
+2979 2986 2988
+283 -22 2987
+777 -10 -2
+23 2989 3020
+375 2990 2993
+465 -18 2991
+49 -27 2992
+406 -18 -18
+1462 -18 -18
+57 -10 2995
+1610 -29 -18
+15 2997 3013
+12 2998 3012
+270 2999 3001
+17 -2 3000
+76 -9 -18
+259 -2 3002
+2115 -2 3003
+207 -18 3004
+249 -18 3005
+2524 -18 3006
+309 -18 3007
+493 -18 3008
+505 -18 3009
+617 -18 3010
+703 -18 3011
+1235 -18 -4
+1312 -2 -18
+960 3014 3015
+4 -4 -22
+270 3016 3017
+97 -16 -18
+390 -4 3018
+1039 -18 3019
+1332 -18 -2
+68 3021 3033
+283 3022 3024
+147 -18 3023
+80 -29 -2
+38 3025 3026
+4 -2 -27
+327 3027 3028
+4 -4 -4
+2858 3029 3030
+4 -4 -12
+373 -12 3031
+537 3032 -18
+4 -12 -18
+553 3034 3036
+11 3035 -29
+81 -18 -16
+314 3037 3044
+496 -4 3038
+2386 -4 3039
+11 3040 -12
+657 -18 3041
+9 -12 3042
+49 3043 -18
+15 -12 -18
+669 3045 3057
+839 -2 3046
+502 -18 3047
+42 -18 3048
+213 -18 3049
+1203 -18 3050
+1614 -18 3051
+1756 -18 3052
+1846 -18 3053
+270 3054 -4
+4 3055 -4
+668 -18 3056
+1275 -4 -4
+583 3058 3066
+2651 -2 3059
+270 3060 3062
+12 3061 -4
+628 -4 -18
+515 3063 3065
+15 3064 -4
+3644 -18 -12
+2912 -22 -4
+529 3067 3070
+234 -24 3068
+487 -2 3069
+752 -22 -18
+3679 -2 3071
+662 -4 3072
+33 3073 3078
+191 3074 3075
+15 -2 -4
+227 -27 3076
+401 3077 -18
+49 -18 -27
+55 -2 3079
+190 3080 3081
+11 -12 -2
+78 -4 3082
+356 -27 3083
+42 3084 3089
+873 -18 -18
+205 3086 3088
+11 3087 -18
+49 -4 -12
+3840 -12 -18
+1029 -4 3090
+1423 3091 3092
+11 -4 -29
+1684 -29 3093
+44 -2 3094
+964 -2 3095
+1215 -2 3096
+174 -4 3097
+307 -4 3098
+2801 -4 3099
+1426 3100 3101
+2263 -18 -4
+1065 3102 3103
+15 -4 -18
+217 -4 3104
+231 -4 3105
+531 -4 3106
+640 -4 3107
+668 -4 3108
+1270 -4 3109
+936 3110 3112
+4 3111 -18
+2929 -18 -4
+1928 -4 3113
+2238 -4 3114
+3165 -4 3115
+5348 -4 3116
+566 3117 -18
+357 -18 -18
+705 3119 3120
+17 -18 -4
+4442 3121 -18
+4 -18 -4
+2 3123 3260
+8 3124 3214
+84 3125 3158
+543 3126 3130
+3177 -1 3127
+83 3128 -1
+3000 -1 3129
+4 -23 -23
+31 3131 3139
+899 -19 3132
+1776 -23 3133
+3243 -19 3134
+413 -6 3135
+1858 -6 3136
+3431 -6 3137
+4 3138 -1
+83 -1 -1
+82 -19 3140
+1858 -1 -1
+225 -6 -19
+3828 -6 3143
+413 -19 3144
+899 -19 3145
+992 -19 3146
+771 3147 3152
+604 -19 3148
+770 3149 3150
+254 -19 -1
+173 3151 -1
+4889 -1 -1
+4 3153 -1
+173 3154 3155
+11 -1 -1
+254 3156 -1
+83 3157 -1
+11 -1 -1
+325 3159 3163
+1248 -23 3160
+413 3161 -1
+11 3162 -19
+31 -23 -19
+94 3164 3181
+4 3165 3179
+31 3166 3169
+868 -1 3167
+318 -1 3168
+137 -6 -6
+765 3170 3174
+11 3171 -6
+543 -6 3172
+173 3173 -1
+12 -6 -1
+19 3175 -6
+313 3176 3177
+47 -6 -1
+137 3178 -1
+225 -6 -1
+2512 3180 -1
+225 -6 -1
+1051 3182 3185
+225 -1 3183
+173 3184 -1
+12 -1 -1
+2521 -6 3186
+5310 -6 3187
+2876 3188 3189
+791 -6 -1
+198 3190 3191
+604 -6 -1
+2337 3192 3193
+791 -6 -1
+5 3194 3206
+31 3195 3197
+4 3196 -1
+12 -1 -1
+1 3198 3200
+12 3199 -1
+4 -1 -1
+225 3201 3203
+4 3202 -1
+12 -1 -1
+173 3204 -1
+12 3205 -1
+4 -1 -1
+1 3207 3210
+175 3208 -1
+4 3209 -1
+12 -1 -1
+31 3211 -1
+77 3212 -1
+4 3213 -1
+11 -1 -1
+361 3215 3231
+94 -6 3216
+84 3217 3218
+11 -6 -19
+16 3219 3230
+543 -6 3220
+47 -6 3221
+300 -6 3222
+4310 -6 3223
+5 -1 3224
+4 3225 -1
+77 -6 3226
+175 3227 -1
+1 -1 -1
+36 -1 3229
+222 -6 -1
+324 -7 -1
+325 -16 3232
+36 3233 3246
+556 -15 3234
+249 3235 3236
+9 -1 -15
+115 -1 3237
+592 -1 3238
+887 -1 3239
+62 3240 3241
+13 -1 -15
+6 3242 -15
+5 -15 3243
+59 -15 3244
+68 -15 3245
+26 -15 -1
+83 3247 3248
+11 -15 -19
+2029 -15 3249
+407 3250 3251
+4 -15 -26
+1 3252 3253
+9 -1 -15
+46 -1 -1
+652 -17 3255
+235 3256 3257
+543 -6 -1
+207 -6 3258
+209 -15 3259
+838 -15 -1
+8 3261 4250
+92 3262 3341
+6 3263 3319
+4 3264 3292
+12 -14 -14
+59 3266 3267
+99 -14 -14
+819 -14 3268
+1 -14 3269
+225 -22 3270
+3042 3271 3274
+5 -22 3272
+77 -14 3273
+175 -22 -14
+744 -14 3275
+99 3276 3284
+2541 -14 3277
+478 -14 3278
+77 -14 3279
+37 -14 3280
+285 -14 3281
+2561 -14 3282
+166 -14 3283
+5 -14 -14
+175 3285 3286
+124 -22 -14
+5 3287 3288
+124 -14 -14
+77 3289 -14
+124 -14 -14
+840 -22 3291
+857 -22 -14
+1 -14 3293
+1006 3294 3295
+99 -22 -22
+255 -22 3296
+1506 -22 3297
+3072 -22 3298
+372 -22 3299
+3610 -22 3300
+21 3301 -22
+60 -22 3302
+269 -22 3303
+381 -22 3304
+419 -22 3305
+858 -22 3306
+3559 -22 3307
+1205 -22 3308
+1504 -22 3309
+1675 -22 3310
+1681 -22 3311
+3321 -22 3312
+3678 -22 3313
+198 -14 3314
+2337 -14 3315
+5 3316 -14
+273 -14 3317
+1410 3318 -14
+12 -14 -14
+225 3320 3321
+94 -22 -16
+1694 -22 3322
+3945 -22 3323
+62 3324 3329
+12 3325 -14
+99 -14 3326
+3413 -14 3327
+1 -14 3328
+124 -14 -14
+3299 -22 3330
+355 3331 3332
+99 -14 -22
+839 3333 3334
+4 -22 -14
+4 3335 -14
+124 3336 3337
+868 -22 -14
+12 3338 -14
+99 3339 -14
+93 -14 3340
+137 -14 -14
+6 3342 3748
+217 3343 3396
+77 3344 3359
+3070 -16 3345
+12 3346 -21
+2727 3347 3348
+3321 -16 -21
+2732 3349 3350
+4 -21 -21
+3678 3351 3352
+876 -21 -21
+1429 3353 3354
+4 -21 -21
+1190 3355 3356
+4 -21 -21
+1 3357 -21
+1006 -21 3358
+4 -21 -21
+166 3360 3365
+3018 3361 3362
+4 -21 -21
+1 3363 -21
+4 3364 -21
+12 -21 -21
+12 3366 -21
+876 3367 3369
+175 3368 -21
+4 -5 -21
+3140 3370 3371
+5 -21 -5
+478 -25 3372
+2561 -25 3373
+175 3374 3379
+2727 -21 3375
+216 3376 3377
+4 -5 -21
+1 3378 -5
+4 -5 -5
+59 3380 3381
+1 -5 -5
+5 3382 3393
+710 -5 3383
+1648 -5 3384
+216 -21 3385
+2267 -21 3386
+4 3387 3391
+772 -21 3388
+2329 -21 3389
+2097 -5 3390
+1 -5 -5
+273 -21 3392
+1006 -21 -5
+37 3394 -21
+4 3395 -21
+1 -5 -5
+1 3397 3624
+74 3398 3403
+37 3399 3400
+4 -15 -15
+77 3401 -15
+12 3402 -15
+4 -15 -15
+342 3404 3407
+175 3405 -25
+4 3406 -25
+12 -25 -25
+850 3408 3415
+59 -7 3409
+37 -7 3410
+77 3411 3412
+12 -25 -25
+5 3413 -25
+12 3414 -25
+4 -25 -25
+23 3416 3436
+478 -25 3417
+2561 -25 3418
+77 -5 3419
+12 3420 3433
+59 -5 3421
+37 -5 3422
+3702 -5 3423
+1458 -25 3424
+1675 -25 3425
+2262 -25 3426
+166 3427 3429
+1506 -5 3428
+4 -16 -16
+958 -4 3430
+5 3431 3432
+4 -16 -16
+4 -16 -5
+5 -5 3434
+4 3435 -5
+13 -25 -5
+81 3437 3447
+4 3438 3444
+77 -16 3439
+5 -5 3440
+166 -16 3441
+175 -16 3442
+59 -5 3443
+37 -7 -25
+166 3445 -5
+1506 -5 3446
+2337 -4 -16
+30 3448 3464
+175 3449 3451
+12 3450 -5
+4 -4 -4
+5 3452 3456
+407 -7 3453
+4 3454 3455
+11 -4 -5
+2243 -5 -4
+478 -25 3457
+77 -4 3458
+4 3459 3462
+60 3460 3461
+20 -4 -7
+59 -7 -7
+59 3463 -4
+4260 -7 -5
+191 3465 3481
+478 -25 3466
+37 -4 3467
+175 3468 3472
+3190 -16 3469
+3118 -5 3470
+3154 -5 3471
+3285 -16 -16
+2561 -25 3473
+4 3474 3480
+2262 -25 3475
+2438 -25 3476
+5 -5 3477
+59 -5 3478
+12 3479 -5
+77 -5 -5
+1458 -25 -5
+470 -25 3482
+380 -11 3483
+135 -11 3484
+79 -11 3485
+676 -25 3486
+454 -11 3487
+179 -11 3488
+161 -4 3489
+180 -15 3490
+55 3491 3497
+59 -16 3492
+37 -7 3493
+4 3494 -4
+5 3495 3496
+11 -4 -4
+166 -4 -4
+714 3498 3503
+37 -7 3499
+77 3500 3501
+4 -25 -5
+5 3502 -25
+12 -25 -25
+167 3504 3508
+478 -25 3505
+4 3506 -5
+77 -5 3507
+166 -16 -5
+341 -11 3509
+312 -1 3510
+2370 3511 3514
+5 -25 3512
+77 3513 -5
+4 -25 -5
+1227 3515 3517
+4 3516 -25
+5 -25 -25
+38 3518 3523
+744 -16 3519
+5 3520 3521
+12 -4 -4
+77 -4 3522
+166 -5 -4
+253 -4 3524
+330 3525 3529
+37 -16 3526
+11 3527 -4
+166 -4 3528
+175 -4 -4
+2136 3530 3534
+175 -5 3531
+4 3532 -25
+5 3533 -25
+12 -25 -25
+1461 3535 3536
+4 -25 -5
+53 -6 3537
+1081 -11 3538
+557 -11 3539
+1779 3540 3543
+166 -16 3541
+4 3542 -5
+77 -5 -25
+4233 -11 3544
+701 3545 3546
+77 -6 -5
+1813 -13 3547
+421 -6 3548
+174 -12 3549
+80 3550 3554
+3610 -16 3551
+3391 -5 3552
+5 3553 -12
+4 -12 -12
+374 3555 3561
+3678 -16 3556
+59 3557 3558
+1905 -12 -12
+4 3559 -12
+12 3560 -12
+5 -12 -12
+147 -12 3562
+314 -12 3563
+226 -12 3564
+683 3565 3568
+175 3566 -12
+4 3567 -12
+12 -12 -12
+1788 -12 3569
+256 3570 3572
+175 3571 -12
+4 -12 -12
+188 -12 3573
+347 -12 3574
+959 -12 3575
+660 3576 3586
+175 -12 -12
+4 3578 -12
+12 -26 -12
+37 -5 3580
+5 3581 3583
+4 3582 -12
+12 -12 -12
+77 -12 3584
+4 3585 -12
+59 -12 -25
+128 -12 3587
+1356 -12 3588
+4953 -25 3589
+3756 -12 3590
+5 3591 3604
+246 -12 3592
+4056 -6 3593
+1409 -11 3594
+29 -20 3595
+272 -3 3596
+372 -6 3597
+726 -15 3598
+1299 -16 3599
+4757 -12 3600
+1234 -11 3601
+1933 -11 3602
+1955 -11 3603
+2789 -11 -4
+384 -11 -11
+1946 3606 3608
+59 -7 3607
+4 -5 -12
+166 3609 3610
+255 -4 -12
+2959 -6 3611
+2135 -25 3612
+820 -4 3613
+529 -5 3614
+2594 -5 3615
+11 3616 -11
+19 3617 -12
+65 -12 3618
+3736 -12 3619
+4597 -12 3620
+489 -4 3621
+509 -4 3622
+663 -4 3623
+2011 -4 -11
+74 3625 3629
+793 -19 3626
+2478 -10 3627
+475 -26 3628
+804 -26 -15
+29 3630 3642
+218 3631 3641
+2521 -20 3632
+4 3633 -20
+59 -20 3634
+37 -20 3635
+166 -20 3636
+12 3637 -20
+744 -20 3638
+5 -20 3639
+175 -20 3640
+77 -20 -20
+510 -20 -3
+132 3643 3655
+2521 -4 3644
+37 -4 3645
+2337 -4 3646
+5 3647 3649
+4 3648 -1
+12 -1 -1
+166 -1 3650
+4 3651 -1
+12 3652 -1
+744 -1 3653
+175 -1 3654
+59 -1 -1
+135 -11 3656
+80 -12 3657
+272 3658 3662
+833 3659 3661
+175 3660 -20
+4 -20 -20
+766 -20 -3
+314 3663 3664
+372 -12 -12
+174 -12 3665
+374 -12 3666
+53 3667 3670
+4072 -1 3668
+1284 3669 -6
+5 -6 -1
+365 -20 3671
+81 3672 3673
+1865 -4 -5
+147 -12 3674
+624 -20 3675
+161 -4 3676
+885 3677 3683
+5 3678 3679
+4 -1 -1
+4 3680 -1
+12 3681 -1
+77 -6 3682
+175 -6 -6
+128 -12 3684
+932 3685 3689
+166 3686 -12
+4 3687 -12
+11 3688 -12
+12 -12 -21
+256 -12 3690
+959 -12 3691
+226 -12 3692
+1049 -12 3693
+246 -12 3694
+436 -4 3695
+421 3696 3698
+1649 -6 3697
+427 -16 -21
+167 -5 3699
+23 3700 3706
+2561 -25 3701
+2873 3702 3703
+4 -25 -16
+1449 -16 3704
+2115 -25 3705
+2520 -25 -5
+759 -15 3707
+180 -15 3708
+1625 -12 3709
+52 -6 3710
+682 -12 3711
+488 3712 3716
+273 -16 3713
+1410 -16 3714
+4 3715 -4
+5 -4 -4
+529 3717 3719
+2600 -6 3718
+4 -5 -16
+253 -4 3720
+214 -5 3721
+191 3722 3724
+5 3723 -25
+1748 -5 -16
+561 -6 3725
+662 -4 3726
+1812 -14 3727
+2136 -25 3728
+1468 -6 3729
+1599 3730 3731
+5 -4 -6
+482 -4 3732
+1673 -4 3733
+829 -12 3734
+1356 -12 3735
+508 -4 3736
+660 -11 -11
+77 -22 -12
+38 -4 3739
+232 -4 3740
+2011 -4 3741
+55 -4 3742
+725 -15 3743
+797 -16 3744
+182 -25 3745
+4682 -25 3746
+347 -12 3747
+409 -12 -11
+63 3749 3834
+30 3750 3754
+12 -8 -8
+62 3752 -25
+1 3753 -8
+4 -8 -8
+1 3755 3801
+174 -12 3756
+23 3757 3759
+62 3758 -25
+12 -5 -5
+217 -21 3760
+850 -8 3761
+191 3762 3764
+62 3763 -25
+12 -8 -5
+74 -15 3765
+55 -8 3766
+2310 3767 3768
+12 -5 -5
+1946 -18 3769
+380 -11 3770
+660 3771 3772
+1178 -25 -8
+188 -17 3773
+683 -17 3774
+180 -15 3775
+374 -12 3776
+314 3777 3778
+11 -12 -12
+38 -8 3779
+161 -4 3780
+179 -11 3781
+341 -11 3782
+347 -17 3783
+482 -4 3784
+820 -8 3785
+342 -25 3786
+62 3787 3800
+80 -12 3788
+147 -12 3789
+79 -11 3790
+1046 -11 3791
+256 -12 3792
+3756 -12 3793
+2136 -8 3794
+676 -8 -8
+2370 -25 3796
+714 -5 3797
+295 -5 3798
+81 -8 3799
+167 -8 -8
+959 -12 -25
+74 -15 3802
+132 -1 3803
+23 3804 3805
+62 -5 -25
+174 -12 3806
+29 3807 3809
+218 3808 -20
+62 -20 -20
+217 3810 3811
+3018 -8 -21
+272 3812 3813
+833 -20 -3
+380 -11 3814
+179 -11 3815
+53 -6 3816
+214 -5 3817
+885 -1 3818
+134 -11 3819
+262 -11 3820
+341 -11 3821
+454 -11 3822
+78 -11 3823
+1233 -11 3824
+557 -11 3825
+160 -4 3826
+436 -4 3827
+231 -4 3828
+167 -5 3829
+191 -5 3830
+365 -20 3831
+624 -20 3832
+725 -15 3833
+759 -15 -12
+74 3835 3871
+325 3836 3843
+1 3837 3841
+11 3838 -15
+362 -23 3839
+1474 -23 3840
+4 -23 -23
+4 3842 -15
+293 -26 -15
+604 -19 3844
+2094 -6 3845
+449 -10 3846
+1862 3847 3849
+507 -6 3848
+542 -23 -15
+1302 3850 3852
+754 -26 3851
+757 -16 -15
+1 3853 3861
+1012 -27 3854
+2044 -23 3855
+3051 -6 3856
+126 3857 3858
+4 -6 -15
+2256 -6 3859
+318 3860 -15
+4 -15 -15
+436 3862 3864
+94 -15 3863
+3029 -16 -6
+1266 -19 3865
+1582 -10 3866
+2056 -6 3867
+765 3868 -15
+293 3869 -15
+4 3870 -15
+12 -15 -15
+29 3872 3891
+218 3873 3886
+126 3874 3875
+4 -20 -20
+4 3876 -20
+765 3877 3878
+12 -20 -20
+93 -20 3879
+313 -20 3880
+94 3881 -20
+1862 -20 3882
+1277 -20 3883
+137 3884 3885
+12 -20 -20
+318 -20 -20
+510 -20 3887
+1 3888 -3
+11 3889 -3
+137 3890 -20
+4 -20 -20
+325 3892 3930
+312 3893 3907
+324 3894 3896
+11 3895 -1
+1 -1 -1
+858 -1 3897
+362 -19 3898
+1 -1 3899
+4 -1 3900
+1474 -1 3901
+854 -19 3902
+921 -19 3903
+2093 -19 3904
+1012 -19 3905
+1014 -19 3906
+413 -19 -19
+886 -6 3908
+53 3909 3910
+885 -23 -6
+12 3911 3928
+272 -20 3912
+30 -17 3913
+180 -15 3914
+1 3915 3922
+253 -4 3916
+23 3917 3918
+324 -23 -23
+660 -15 3919
+161 -4 3920
+55 3921 -23
+4 -18 -23
+365 -20 3923
+2034 -18 3924
+161 -4 3925
+508 -4 3926
+3378 3927 -23
+23 -5 -23
+20 3929 -4
+174 -33 -22
+180 3931 3943
+84 3932 -15
+384 -27 3933
+1219 -16 3934
+2556 -16 3935
+771 3936 -15
+12 3937 -15
+1206 -15 3938
+1350 3939 3940
+993 -16 -15
+1 3941 -15
+4094 -16 3942
+4 -15 -15
+53 3944 3946
+2256 3945 -6
+1 -6 -6
+94 3947 4097
+272 3948 3960
+833 3949 3958
+4 3950 -20
+318 -20 3951
+313 -20 3952
+765 3953 3954
+11 -20 -20
+12 3955 -20
+126 -20 3956
+93 -20 3957
+137 -20 -20
+766 -20 3959
+1 -20 -3
+365 3961 3962
+586 -3 -20
+624 -20 3963
+179 -11 3964
+79 -11 3965
+726 -15 3966
+759 -15 3967
+312 3968 3980
+93 3969 3970
+1 -1 -4
+50 -4 3971
+1207 -4 3972
+3003 -4 3973
+4 3974 -1
+103 -1 3975
+126 -1 3976
+318 -1 3977
+868 -1 3978
+137 -1 3979
+313 -1 -1
+380 -11 3981
+135 -11 3982
+454 -11 3983
+52 -6 3984
+217 3985 3986
+3299 -16 -21
+23 3987 3995
+3735 -25 3988
+4 3989 3994
+1 3990 -2
+313 -2 3991
+117 -22 3992
+318 -4 3993
+137 -2 -2
+1222 -4 -2
+4 3996 4059
+374 3997 4001
+1 3998 -12
+11 3999 -12
+765 -16 4000
+137 -12 -12
+80 4002 4006
+1 -12 -12
+93 -16 -12
+12 4005 -12
+93 -12 -12
+868 4007 4012
+3429 -17 4008
+38 -4 4009
+314 -12 4010
+174 -12 4011
+1356 -12 -11
+20 4013 4054
+81 4014 4020
+137 -16 4015
+765 -4 4016
+1865 -4 4017
+1 4018 -2
+12 4019 -2
+93 -2 -2
+214 -2 4021
+1277 4022 4023
+1 -16 -11
+1983 4024 4026
+191 -2 4025
+1 -11 -6
+409 -17 4027
+701 -6 4028
+137 4029 4036
+256 -12 4030
+347 -16 4031
+683 -17 4032
+849 -18 4033
+4367 -20 4034
+421 -6 4035
+885 -6 -4
+128 -12 4037
+147 -12 4038
+117 4039 4040
+191 -2 -12
+226 -16 4041
+660 4042 4043
+765 -4 -2
+174 -12 4044
+1049 -12 4045
+398 -11 4046
+557 -11 4047
+463 -2 4048
+621 -2 4049
+714 -2 4050
+191 4051 4052
+176 -4 -2
+55 4053 -4
+313 -4 -4
+13 4055 4058
+765 -2 4056
+714 -2 4057
+1461 -2 -12
+21 -12 -4
+885 4060 4062
+93 -6 4061
+2044 -6 -1
+191 -2 4063
+93 4064 4073
+80 -12 4065
+399 -11 4066
+1552 -11 4067
+1788 -17 4068
+883 -2 4069
+398 -2 4070
+660 -2 4071
+12 4072 -2
+167 -2 -4
+529 4074 4077
+355 -16 4075
+621 -2 4076
+137 -2 -6
+421 4078 4079
+765 -2 -6
+868 4080 4082
+1682 -11 4081
+1946 -2 -12
+374 -12 4083
+1 4084 4087
+81 -2 4085
+174 -12 4086
+4138 -17 -4
+1233 -11 4088
+2044 -2 4089
+147 -12 4090
+1356 4091 4092
+2120 -12 -4
+116 -12 4093
+176 -12 4094
+214 -2 4095
+398 -2 4096
+797 -2 -4
+84 4098 4160
+132 4099 4101
+413 -4 4100
+770 -4 -1
+272 4102 4105
+271 -3 4103
+550 -3 4104
+999 -3 -20
+365 4106 4108
+383 -3 4107
+586 -3 -20
+624 -20 4109
+886 4110 4112
+319 4111 -6
+1 -1 -19
+52 -6 4113
+118 4114 4117
+119 -12 4115
+2842 4116 -15
+11 -26 -15
+347 4118 4119
+355 -23 -9
+746 4120 4123
+1 -28 4121
+1240 -28 4122
+4 -4 -4
+1012 -27 4124
+1 4125 4148
+4 4126 4136
+23 4127 4128
+83 -16 -22
+30 -17 4129
+81 -2 4130
+409 -9 4131
+726 -15 4132
+38 -2 4133
+226 -26 4134
+191 -26 4135
+2997 -26 -4
+2556 4137 4139
+23 -2 4138
+30 -17 -16
+1776 4140 4141
+1468 -6 -23
+2627 4142 4143
+23 -2 -12
+759 -15 4144
+3029 -20 4145
+3316 -27 4146
+660 -2 4147
+1014 -2 -4
+1299 -31 4149
+758 -15 4150
+726 -15 4151
+1468 4152 4153
+3000 -4 -6
+421 -6 4154
+529 -2 4155
+2861 -2 4156
+214 -2 4157
+854 -2 4158
+319 -26 4159
+1812 -26 -4
+217 4161 4166
+1815 -16 4162
+267 4163 4165
+1 4164 -26
+4 -16 -26
+2962 -21 -21
+1950 4167 4187
+1946 4168 4171
+4 4169 -23
+3012 -4 4170
+11 -22 -22
+660 4172 4174
+1 -22 -22
+12 -16 -4
+30 4175 4177
+1949 4176 -5
+11 -22 -22
+191 4178 4179
+4 -25 -5
+1 4180 4184
+81 4181 4182
+4 -5 -5
+23 -5 4183
+714 -5 -12
+4 4185 4186
+759 -15 -12
+12 -28 -4
+1815 -16 4188
+1148 4189 4198
+746 -28 4190
+1 4191 4194
+55 -18 4192
+660 -15 4193
+873 -30 -4
+885 -6 4195
+132 4196 -4
+207 4197 -4
+11 -18 -4
+272 4199 4200
+525 -3 -20
+1 4201 4227
+660 4202 4205
+4 -5 -5
+267 -26 -5
+4526 -5 -5
+2310 -5 4206
+1813 -32 4207
+1946 4208 4209
+4 -8 -5
+23 4210 4211
+4 -5 -22
+161 -4 4212
+330 4213 4214
+461 -16 -4
+2959 -6 4215
+188 4216 4218
+4 -17 -17
+4838 -25 -17
+3429 -25 4219
+683 -17 4220
+347 -17 4221
+1788 -17 4222
+81 -5 4223
+811 -5 4224
+65 -17 4225
+409 -17 4226
+1942 -17 -4
+214 -5 4228
+132 4229 4230
+1398 -4 -1
+885 4231 4233
+428 -1 4232
+3583 -1 -6
+1788 4234 4235
+1807 -25 -17
+365 -20 4236
+300 4237 4246
+80 -12 4238
+52 -6 4239
+160 -4 4240
+299 4241 4244
+174 -12 4242
+191 -5 4243
+624 -20 -4
+436 -4 4245
+508 -4 -5
+253 -4 4247
+1302 4248 4249
+1299 -31 -16
+421 -6 -15
+26 4251 4410
+6 4252 4340
+69 4253 4265
+409 4254 4255
+2478 -10 -9
+74 -15 4256
+374 -12 4257
+349 4258 4259
+9 -5 -12
+226 -12 4260
+347 -9 4261
+65 -9 4262
+287 -9 4263
+706 -9 4264
+308 -9 -5
+74 4266 4280
+793 -19 4267
+544 -15 -15
+59 -15 4269
+1 -15 4270
+12 -6 -15
+316 -14 4272
+860 4273 4274
+1 -15 -19
+1016 4275 4276
+12 -27 -15
+1 4277 -15
+5 4278 -15
+39 4279 -15
+958 -15 -6
+217 -21 4281
+180 4282 4284
+1351 -27 4283
+1208 -12 -15
+660 4285 4287
+37 4286 -15
+9 -15 -16
+104 4288 4292
+65 -9 4289
+1 -17 -17
+5 -9 -17
+32 -9 -5
+347 4293 4295
+4 -1 -1
+7 -17 -9
+1788 4296 4297
+1 -1 -9
+65 4298 4300
+1 -1 -1
+33 -9 -1
+287 4301 4302
+15 -1 -1
+759 -15 4303
+1946 -15 4304
+256 -12 4305
+374 4306 4307
+175 -12 -5
+2650 4308 4309
+81 -5 -17
+726 -15 4310
+683 4311 4312
+5 -1 -9
+209 4313 4316
+45 -16 4314
+572 -9 4315
+1492 -7 -5
+3211 -15 4317
+714 4318 4319
+4 -5 -25
+132 -1 4320
+308 -1 4321
+817 4322 4323
+7 -4 -5
+487 4324 4326
+7 -12 4325
+465 -12 -5
+2914 -12 4327
+147 4328 4329
+5 -12 -5
+118 4330 4331
+66 -12 -5
+578 4332 4337
+573 4333 4334
+39 -27 -5
+166 4335 -5
+39 4336 -5
+38 -5 -16
+261 4338 -5
+37 4339 -5
+57 -16 -5
+84 4341 4360
+69 4342 4347
+598 4343 4346
+23 -2 4344
+9 4345 -12
+128 -12 -9
+74 -15 -9
+217 -21 4348
+74 4349 4350
+9 -15 -6
+660 -15 4351
+65 -9 4352
+1642 4353 4355
+4 4354 -2
+1 -5 -18
+118 -12 4356
+180 -27 4357
+409 -9 4358
+1946 -15 4359
+4162 -5 -2
+94 4361 4389
+69 4362 4369
+409 -17 4363
+538 4364 4366
+17 -15 4365
+1 -2 -12
+65 -17 4367
+347 -17 4368
+258 -17 -12
+74 4370 4371
+1 -15 -6
+885 -2 -2
+147 -12 4373
+217 -21 4374
+40 4375 4381
+660 -15 4376
+318 -5 4377
+81 4378 4379
+137 -5 -2
+313 4380 -2
+4 -2 -2
+314 -15 4382
+266 4383 4386
+23 4384 -2
+239 -2 4385
+57 -2 -5
+287 -17 4387
+347 -17 4388
+409 -17 -2
+217 -21 4390
+74 4391 4394
+1016 -27 4392
+9 -14 4393
+214 -6 -15
+69 4395 4398
+300 -9 -9
+1148 -30 4397
+249 -34 -9
+65 4399 4400
+4 -1 -16
+347 -1 4401
+1492 -8 4402
+409 -17 4403
+660 -15 4404
+154 4405 4406
+66 -5 -12
+41 -26 4407
+554 -26 4408
+222 -8 4409
+3335 -8 -5
+110 4411 4414
+30 4412 -16
+111 4413 -16
+62 -16 -16
+16 4415 4937
+74 4416 4429
+1302 -16 4417
+6 4418 4424
+2478 -10 4419
+4166 -14 4420
+449 -10 4421
+3118 -10 4422
+898 4423 -15
+12 -15 -10
+783 -6 4425
+3431 -4 4426
+1745 -26 4427
+2614 4428 -15
+4 -26 -15
+6 4430 4678
+30 4431 4470
+60 4432 4437
+175 -7 4433
+5 4434 4435
+4 -7 -7
+59 4436 -7
+4 -7 -7
+852 4438 4443
+59 -7 4439
+1506 -5 4440
+5 4441 -25
+4 4442 -25
+11 -5 -25
+7 4444 4465
+175 4445 4451
+56 -4 4446
+42 -33 4447
+12 4448 -25
+2137 -25 4449
+75 -4 4450
+309 -4 -5
+37 4452 4454
+12 4453 -7
+249 -16 -5
+56 4455 4461
+59 4456 4457
+4 -7 -7
+1675 -7 4458
+2695 -5 4459
+4 4460 -4
+5 -4 -5
+59 4462 4463
+33 -4 -26
+12 4464 -26
+744 -26 -5
+4 4466 -5
+37 -7 4467
+12 4468 -5
+209 4469 -5
+5 -5 -5
+161 4471 4473
+68 -6 4472
+2750 -16 -4
+1812 -14 4474
+189 4475 4477
+180 -15 4476
+217 -21 -12
+23 4478 4521
+504 4479 4482
+12 4480 4481
+1 -21 -26
+1 -5 -26
+152 -5 4483
+5 4484 4500
+222 -7 4485
+309 -12 4486
+148 -16 4487
+387 -4 4488
+12 4489 4499
+249 -5 4490
+75 -5 4491
+259 -5 4492
+33 4493 4494
+1 -5 -16
+193 -16 -16
+248 -4 4496
+2271 -4 4497
+377 4498 -16
+1 -4 -16
+13 -5 -4
+37 4501 4502
+7 -7 -18
+478 -25 4503
+1962 -7 4504
+7 4505 4517
+33 4506 4509
+59 -25 4507
+4 4508 -16
+77 -5 -5
+920 -16 4510
+1 4511 -5
+166 -5 4512
+1947 -5 4513
+175 -4 4514
+4 4515 -4
+59 4516 -25
+505 -25 -4
+423 -25 4518
+59 -5 4519
+11 4520 -5
+77 -5 -16
+81 4522 4549
+7 4523 4536
+175 4524 4525
+1 -5 -26
+85 4526 4527
+77 -7 -16
+504 4528 4531
+1189 -16 -16
+1007 -16 4530
+77 -21 -16
+12 4532 -5
+1 4533 -5
+657 -5 4534
+33 4535 -16
+77 -5 -5
+208 -7 4537
+11 4538 4547
+504 4539 4542
+4 -16 -16
+1 4541 -5
+5 -16 -25
+344 -4 4543
+670 -16 -16
+5 -5 4545
+33 -5 4546
+309 -5 -16
+4 4548 -5
+50 -5 -25
+217 4550 4555
+11 4551 4554
+3438 4552 -21
+5 -21 4553
+77 -16 -26
+37 -7 -25
+191 4556 4573
+1 4557 4571
+7 4558 4569
+12 4559 4568
+59 -5 4560
+617 -5 4561
+249 4562 4563
+5 -5 -16
+163 -16 -16
+228 -16 4565
+309 -16 4566
+75 4567 -4
+166 -4 -16
+309 -4 -5
+566 -22 4570
+1047 -5 -5
+33 -25 4572
+566 -21 -5
+167 4574 4587
+7 4575 4585
+504 4576 4578
+5 -5 4577
+1 -5 -5
+37 -7 4579
+1930 -4 4580
+33 -5 4581
+166 -16 4582
+1 4583 -5
+12 4584 -5
+249 -5 -16
+85 -5 -5
+166 -21 -5
+714 4588 4592
+5 -25 4589
+33 -16 4590
+77 -5 4591
+11 -25 -5
+55 4593 4601
+56 4594 4595
+5 -7 -16
+12 4596 4599
+7 4597 -5
+504 -5 4598
+1 -4 -5
+5 -25 4600
+7 -5 -16
+2370 4602 4608
+419 -5 -5
+77 -5 4604
+5 4605 4607
+85 -25 4606
+1430 -25 -5
+4 -25 -5
+38 4609 4614
+56 4610 4611
+5 -4 -5
+744 -26 4612
+852 -25 4613
+5 -4 -4
+421 -4 4615
+1461 -25 4616
+65 -17 4617
+660 4618 4629
+176 -25 4619
+56 4620 4622
+5 -7 4621
+77 -12 -4
+59 -7 4623
+1165 -5 4624
+2838 -5 4625
+12 4626 -12
+1 4627 -12
+657 -16 4628
+75 -16 -12
+2136 -25 4630
+1 4631 4661
+437 -17 4632
+175 4633 4645
+2310 4634 4635
+7 -26 -4
+566 4636 4637
+4 -21 -12
+33 -17 4638
+234 -5 4639
+330 -4 4640
+505 4641 4642
+4 -4 -12
+1999 4643 -12
+4 4644 -12
+188 -12 -16
+904 4646 4647
+4 -4 -25
+850 -25 4648
+330 4649 4650
+7 -16 -5
+180 -15 4651
+7 4652 4656
+342 -25 4653
+2438 -25 4654
+1779 -5 4655
+1946 -5 -12
+381 -16 4657
+387 4658 4659
+174 -12 -16
+537 4660 -12
+374 -12 -12
+4 4662 4672
+28 -3 4663
+52 -6 4664
+148 -21 4665
+726 -15 4666
+135 -11 4667
+1200 -26 4668
+180 -15 4669
+327 -15 4670
+453 -16 4671
+882 -16 -12
+7 4673 4674
+77 -4 -12
+11 4675 -16
+287 -17 4676
+231 -5 4677
+234 -5 -12
+63 4679 4736
+30 4680 4693
+12 -8 -8
+7 4682 4687
+62 4683 -7
+852 -25 4684
+504 -26 4685
+56 -16 4686
+249 -16 -16
+85 -26 4688
+504 -8 -8
+580 4690 4691
+11 -16 -5
+56 4692 -8
+1 -8 -8
+23 4694 4703
+56 -8 -8
+1 -8 -8
+852 -16 4697
+1 4698 -5
+309 -5 4699
+884 -5 4700
+33 4701 4702
+12 -5 -8
+209 -8 -8
+1946 4704 4707
+60 -22 -22
+33 -16 4706
+505 -16 -22
+161 -4 4708
+217 4709 4712
+7 -8 4710
+2579 -21 4711
+1 -26 -26
+504 4713 4715
+167 -26 4714
+1 -8 -8
+174 -12 4716
+1 4717 4734
+7 4718 4730
+33 4719 4720
+12 -17 -22
+55 4721 4722
+56 -16 -7
+191 4723 4724
+228 -16 -25
+657 -25 4725
+38 -26 4726
+12 4727 -12
+192 -12 4728
+56 -26 4729
+75 -26 -4
+80 -12 4731
+167 -25 4732
+42 -5 4733
+68 -5 -4
+68 -15 4735
+191 -5 -7
+161 4737 4742
+319 -18 4738
+1422 4739 4740
+313 -4 -6
+3265 4741 -4
+1 -6 -4
+94 4743 4825
+726 -15 4744
+180 -15 4745
+12 4746 4815
+234 4747 4750
+1811 -26 4748
+137 4749 -17
+4 -26 -17
+347 4751 4753
+33 4752 -17
+4 -16 -17
+7 4754 4777
+504 4755 4756
+137 -4 -2
+1 4757 4771
+1983 -26 4758
+23 4759 4763
+75 -2 4760
+93 -2 4761
+116 -2 4762
+315 -2 -4
+167 -2 4764
+30 4765 4767
+1277 -2 4766
+137 -4 -4
+128 -16 4768
+174 -16 4769
+85 4770 -4
+93 -4 -16
+33 -4 -4
+52 -6 -16
+617 4774 4775
+65 -17 -11
+56 -17 4776
+191 -2 -4
+887 4778 4781
+117 -6 4779
+147 -12 4780
+1356 -12 -2
+4 -4 -4
+209 4783 4784
+1 -33 -12
+868 4785 4786
+174 -16 -15
+147 -12 4787
+1235 -18 4788
+1412 -18 4789
+117 -16 4790
+820 -16 4791
+1900 -16 4792
+152 -2 4793
+257 -2 4794
+1312 -2 4795
+313 4796 4798
+38 -4 4797
+387 -4 -2
+148 4799 4800
+765 -4 -2
+309 -2 4801
+81 4802 -4
+93 4803 -2
+504 -2 -4
+126 4805 4806
+167 -4 -2
+2032 4807 4808
+29 -3 -17
+55 4809 4810
+75 -4 -2
+355 -17 4811
+152 -12 4812
+352 -12 4813
+78 -4 4814
+191 -4 -16
+68 -2 -2
+7 -15 -6
+765 4818 4820
+21 4819 -2
+1 -17 -21
+104 -4 4821
+53 -6 4822
+3429 -17 4823
+38 -4 4824
+55 -4 -2
+84 4826 4879
+68 -15 4827
+504 4828 4833
+4 -14 4829
+2165 -27 4830
+719 -27 4831
+257 -27 4832
+413 -4 -2
+409 -9 4834
+7 4835 4856
+12 4836 4851
+4 4837 4841
+852 4838 4839
+30 -25 -18
+83 4840 -2
+191 -2 -4
+413 4842 4843
+33 -18 -4
+56 4844 4845
+38 -16 -4
+1 4846 4847
+65 -9 -4
+23 -27 4848
+147 -12 4849
+193 -33 4850
+249 -9 -16
+11 4852 4855
+83 4853 -12
+1 -31 4854
+65 -16 -26
+13 -2 -27
+65 4857 4859
+1 -9 4858
+1667 -9 -17
+1 4860 4868
+1115 4861 4862
+1240 -18 -27
+38 -4 4863
+163 -12 4864
+167 -27 4865
+171 -17 4866
+226 -26 4867
+1299 -26 -2
+413 -4 4869
+726 -15 4870
+83 4871 4876
+82 -15 4872
+174 -16 4873
+226 -12 4874
+1012 -27 4875
+257 -27 -2
+81 4877 4878
+85 -27 -2
+4 -6 -17
+300 4880 4895
+12 4881 4892
+65 -17 4882
+409 -17 4883
+189 4884 4885
+7 -17 -15
+298 4886 4888
+30 -4 4887
+153 -17 -6
+33 -7 4889
+42 -16 4890
+660 -5 4891
+167 -5 -4
+217 -21 4893
+7 -5 4894
+1 -35 -15
+267 4896 4901
+217 4897 4899
+274 -26 4898
+4 -16 -7
+617 -32 4900
+12 -4 -5
+12 4902 4918
+7 4903 4912
+1947 4904 4905
+30 -22 -14
+85 4906 4907
+325 -22 -16
+30 -26 4908
+324 -4 4909
+167 -4 4910
+356 -16 4911
+1779 -16 -5
+209 4913 4914
+23 -33 -16
+81 4915 4916
+4 -16 -5
+1 4917 -25
+167 -26 -18
+4 4919 4928
+1812 -14 4920
+56 4921 4923
+1305 -16 4922
+60 -22 -4
+189 -18 4924
+1946 4925 -22
+1 4926 -22
+657 -22 4927
+1949 -22 -22
+413 4929 4931
+1 4930 -5
+23 -5 -22
+1148 4932 4934
+23 -18 4933
+56 -15 -12
+858 4935 4936
+1 -15 -31
+269 -18 -6
+153 4938 4948
+29 4939 4940
+218 -20 -3
+272 -17 -17
+440 -20 -3
+115 -16 4943
+285 -9 4944
+3795 -9 4945
+4377 -9 4946
+2132 4947 -17
+166 -9 -17
+84 4949 5021
+23 4950 4960
+379 -2 -2
+1 -27 4952
+4 -18 -4
+203 4954 4957
+1146 -18 4955
+205 -4 4956
+56 -4 -2
+319 -26 4958
+413 4959 -2
+223 -2 -4
+234 4961 4966
+74 4962 4963
+4 -22 -15
+191 -2 4964
+371 -12 4965
+374 -12 -9
+81 4967 4973
+905 4968 4969
+7 -16 -4
+722 4970 4971
+1 -18 -27
+2250 4972 -2
+17 -2 -27
+191 4974 4978
+567 4975 4977
+456 -27 4976
+9 -26 -18
+4 -4 -2
+167 4979 4980
+401 -27 -2
+74 4981 4983
+4 4982 -15
+7 -7 -14
+97 4984 4991
+511 4985 4986
+68 -9 -17
+15 4987 4989
+1 -21 4988
+38 -4 -16
+83 4990 -15
+33 -17 -9
+15 4992 5000
+17 4993 4995
+30 -4 4994
+274 -17 -9
+65 4996 4997
+4 -26 -9
+68 -9 4998
+1 4999 -17
+11 -4 -17
+152 5001 5003
+12 -17 -17
+65 -9 -12
+1272 5004 5005
+1 -2 -6
+836 5006 5009
+901 -9 5007
+409 -16 5008
+148 -16 -12
+413 5010 5011
+17 -16 -4
+1926 -12 5012
+468 5013 5018
+409 5014 5016
+7 -9 5015
+57 -9 -17
+33 5017 -9
+17 -9 -12
+55 -2 5019
+296 -16 5020
+687 -16 -9
+30 5022 5102
+62 5023 5040
+209 5024 5030
+203 5025 5028
+224 -26 5026
+459 -8 5027
+7 -8 -8
+1134 -26 5029
+213 -26 -7
+504 -26 5031
+20 5032 -8
+578 5033 5034
+9 -8 -7
+33 -8 5035
+814 5036 5037
+56 -16 -16
+404 5038 -16
+205 -7 5039
+56 -7 -16
+852 5041 5043
+404 5042 -25
+5 -25 -4
+6 5044 5087
+1024 -25 5045
+5 5046 5064
+814 5047 5055
+42 -4 5048
+2695 -7 5049
+9 -5 5050
+222 -5 -5
+504 -7 5052
+203 5053 -5
+1410 -5 5054
+4 -5 -5
+33 5056 5057
+7 -4 -16
+12 5058 -25
+17 5059 5061
+556 5060 -26
+9 -5 -7
+42 -7 5062
+357 -26 5063
+1134 -5 -5
+175 5065 5071
+209 -5 5066
+56 5067 5068
+12 -5 -7
+213 -7 5069
+12 5070 -25
+76 -25 -16
+77 -7 -7
+7 5073 5076
+17 5074 -25
+9 5075 -5
+356 -5 -5
+360 -5 -7
+504 -26 5078
+404 -7 5079
+209 5080 5085
+335 -5 5081
+12 5082 -5
+1134 -26 5083
+7 5084 -7
+59 -7 -7
+7 5086 -7
+15 -16 -7
+94 5088 5092
+192 -2 -2
+266 -4 5090
+17 5091 -2
+356 -2 -4
+7 5093 5098
+1950 5094 5097
+9 5095 5096
+57 -7 -4
+4 -33 -22
+11 -7 -5
+468 -16 5099
+33 -18 5100
+97 -5 5101
+4 -5 -17
+23 5103 5218
+94 5104 5113
+574 -4 -4
+235 -2 5106
+148 5107 5109
+9 5108 -16
+33 -16 -4
+7 -4 5110
+9 5111 5112
+152 -2 -4
+159 -4 -2
+62 5114 5130
+7 5115 5123
+9 5116 5119
+504 -26 5117
+852 -7 5118
+387 -7 -8
+56 -5 5120
+35 -5 5121
+15 5122 -8
+556 -5 -8
+437 5124 5125
+159 -8 -17
+152 -17 5126
+205 -8 5127
+33 -8 5128
+76 -8 5129
+203 -8 -7
+437 -17 5131
+6 5132 5210
+9 5133 5184
+504 5134 5136
+5 5135 -26
+1 -16 -7
+575 5137 5146
+357 -16 5138
+33 -7 5139
+157 5140 5143
+175 -7 5141
+1 5142 -16
+77 -16 -4
+249 -22 5144
+377 5145 -16
+5 -16 -16
+152 -5 5147
+59 5148 5150
+388 -7 5149
+148 -7 -5
+56 -16 -16
+416 5152 5156
+12 5153 -22
+17 -25 5154
+7 -4 5155
+77 -4 -16
+192 -25 5157
+289 -22 5158
+1127 5159 5161
+1 5160 -4
+37 -7 -16
+15 5162 5176
+266 5163 5165
+148 -16 5164
+77 -16 -4
+241 -5 5166
+387 5167 5168
+17 -16 -4
+4 5169 5173
+404 5170 5171
+5 -4 -16
+123 -16 5172
+476 -16 -5
+17 5174 -5
+273 -5 5175
+335 -5 -4
+113 -4 5177
+57 -7 5178
+3104 -7 5179
+156 -16 5180
+344 -16 5181
+387 -16 5182
+465 5183 -5
+77 -5 -5
+152 -5 -5
+266 5186 5189
+379 -5 5187
+148 -16 5188
+203 -16 -7
+209 5190 5198
+468 -16 5191
+574 -4 5192
+459 5193 5195
+5 -4 5194
+1 -5 -7
+72 -7 5196
+379 -7 5197
+1255 -7 -5
+5 5199 5202
+401 -26 5200
+194 -17 5201
+546 -17 -5
+148 5203 5205
+166 -5 5204
+68 -5 -16
+40 -16 5206
+1 5207 -5
+37 -5 5208
+241 -5 5209
+744 -5 -4
+2106 -16 5211
+209 5212 5213
+4 -7 -6
+1147 -18 5214
+4 5215 5216
+7 -4 -18
+413 -22 5217
+310 -4 -5
+300 5219 5250
+74 5220 5221
+461 -17 -15
+191 5222 5223
+4 -4 -5
+409 5224 5225
+920 -16 -17
+65 5226 5229
+290 5227 5228
+1 -6 -7
+2473 -6 -17
+347 -17 5230
+287 -17 5231
+81 5232 5234
+7 -5 -5
+15 -5 -16
+487 -12 -12
+9 5236 5237
+1 -17 -12
+44 -15 5238
+208 -7 -5
+298 5240 5244
+308 -17 5241
+361 5242 5243
+15 -4 -7
+572 -5 -12
+147 -12 5245
+217 -21 5246
+468 -17 5247
+15 -17 5248
+308 -17 5249
+428 -17 -12
+6 5251 5502
+511 5252 5257
+627 5253 5254
+9 -12 -5
+29 -20 5255
+115 -12 5256
+497 -16 -17
+235 5258 5275
+234 5259 5265
+65 5260 5261
+15 -5 -4
+1 -24 -24
+350 -24 5263
+5 -12 -9
+42 -24 -5
+65 5266 5271
+7 -15 -15
+5 5268 -15
+1 -4 -6
+544 -16 5270
+617 -17 -15
+374 -12 5272
+217 -21 5273
+128 -12 5274
+226 -12 -15
+74 5276 5285
+686 -15 -15
+189 5278 5280
+1 -15 5279
+4 -27 -10
+437 -17 5281
+228 -26 5282
+396 -14 5283
+173 -17 5284
+750 -17 -15
+65 5286 5297
+152 5287 5288
+239 -17 -9
+27 -9 5289
+1823 5290 5291
+4 -22 -9
+76 5292 5293
+1 -9 -16
+46 -9 5294
+2435 -1 5295
+539 -16 5296
+617 -16 -17
+468 5298 5313
+350 5299 5301
+37 -24 5300
+76 -15 -17
+7 5302 5305
+1579 5303 5304
+5 -5 -17
+57 -7 -12
+228 5306 5307
+5 -12 -5
+1705 -5 5308
+159 -16 5309
+838 -16 5310
+27 -12 5311
+72 -12 5312
+230 -12 -17
+287 5314 5320
+152 -9 5315
+46 5316 5318
+166 -9 -9
+15 -9 -17
+34 -17 -17
+1407 -16 -17
+29 5321 5322
+28 -3 -20
+347 5323 5329
+17 5324 5327
+152 -9 5325
+4 -12 5326
+166 -12 -17
+203 -12 5328
+234 -12 -17
+191 5330 5352
+7 5331 5337
+203 -16 5332
+456 -5 5333
+159 5334 5335
+9 -16 -5
+12 5336 -16
+677 -5 -4
+5 5338 5345
+572 5339 5340
+4 -18 -4
+209 5341 5342
+17 -17 -5
+357 -7 5343
+371 -22 5344
+749 -17 -16
+1315 5346 5347
+1 -16 -17
+205 -5 5348
+4 5349 5351
+33 -16 5350
+228 -7 -5
+9 -7 -16
+81 5353 5381
+670 -5 -5
+85 5355 -4
+9 -16 -4
+617 5357 5358
+1 -4 -27
+152 -17 5359
+905 5360 5362
+76 -5 5361
+9 -4 -16
+401 5363 5366
+7 -16 5364
+5 5365 -21
+487 -21 -5
+42 5367 5368
+1 -7 -25
+613 5369 5370
+7 -16 -25
+7 5371 5375
+33 5372 5374
+5 5373 -7
+1 -16 -7
+4 -5 -16
+76 -5 5376
+379 -5 5377
+15 5378 -5
+97 -5 5379
+33 5380 -16
+3771 -16 -5
+167 5382 5396
+670 5383 5386
+818 5384 5385
+7 -4 -16
+5 -5 -4
+478 5387 5388
+9 -25 -7
+401 5389 5390
+5 -21 -5
+1134 -25 5391
+934 -16 5392
+504 5393 5395
+7 -5 5394
+85 -5 -16
+166 -16 -5
+361 5397 5418
+59 5398 5399
+482 -4 -7
+1134 5400 5405
+1946 -26 5401
+55 -5 5402
+217 -21 5403
+308 -17 5404
+459 -7 -12
+33 5406 5407
+4 -16 -31
+20 5408 5416
+38 -4 5409
+42 -4 5410
+1057 5411 -12
+5 -12 -12
+1 5413 -12
+174 -12 -4
+175 -12 5415
+77 -12 -7
+9 5417 -12
+11 -25 -5
+203 5419 5434
+55 5420 5424
+17 5421 -5
+59 -7 5422
+175 -5 5423
+4 -7 -5
+1 5425 5432
+330 5426 5427
+7 -7 -16
+12 5428 5431
+56 5429 5430
+5 -21 -7
+38 -5 -12
+9 -4 -21
+5 -5 5433
+7 -11 -15
+409 5435 5444
+492 5436 5442
+7 -4 5437
+250 -6 5438
+335 -4 5439
+77 -12 5440
+240 -12 5441
+408 -12 -5
+694 -9 5443
+69 -10 -17
+437 5445 5446
+4 -17 -12
+152 5447 5450
+266 5448 5449
+9 -12 -17
+349 -17 -5
+189 5451 5452
+9 -12 -12
+1 5453 5485
+72 5454 5455
+15 -17 -15
+55 5456 5458
+5 -5 5457
+33 -5 -4
+209 5459 5460
+5 -17 -16
+653 5461 5463
+7 5462 -12
+5 -9 -16
+694 -25 -25
+4 -9 -5
+504 5466 5468
+9 -21 5467
+5 -25 -16
+97 5469 5472
+147 -21 5470
+38 -25 5471
+213 -25 -12
+256 5473 5474
+9 -5 -26
+59 5475 5476
+9 -26 -12
+377 -12 5477
+660 -12 5478
+166 5479 5480
+669 -25 -12
+1200 -12 5481
+38 -5 5482
+401 -5 5483
+402 -5 5484
+1203 -5 -25
+3226 -25 5486
+17 5487 5491
+9 5488 5490
+15 -11 5489
+7 -17 -25
+11 -5 -4
+272 -20 5492
+114 -12 -12
+33 -5 -4
+80 5495 5496
+5 -4 -17
+209 5497 5498
+46 -17 -16
+160 -22 5499
+5 -12 5500
+4 5501 -15
+27 -15 -12
+94 5503 5571
+74 5504 5505
+85 -14 -15
+81 5506 5510
+93 -4 -4
+4 -4 -7
+15 -4 5509
+907 -4 -2
+191 5511 5517
+297 -4 -4
+117 5513 5514
+15 -16 -2
+765 -2 5515
+97 -2 5516
+228 -2 -4
+167 5518 5523
+361 5519 5521
+4 -26 5520
+1 -16 -2
+88 -4 5522
+199 -4 -2
+180 5524 5525
+7 -6 -15
+65 5526 5536
+1 5527 5534
+235 5528 5529
+88 -4 -17
+9 5530 5531
+86 -22 -16
+33 5532 5533
+4 -16 -22
+56 -22 -17
+440 -26 5535
+749 -4 -17
+409 5537 5544
+467 5538 5540
+4 5539 -17
+7 -22 -16
+290 -22 5541
+1035 -18 5542
+367 -4 5543
+474 -15 -17
+347 5545 5547
+97 -16 5546
+234 -22 -17
+287 5548 5552
+1 5549 -17
+235 -17 5550
+4 5551 -17
+539 -17 -16
+15 -12 -12
+205 -4 5554
+234 5555 5557
+1 -17 5556
+4 -22 -20
+9 5558 -15
+217 -21 -2
+313 5560 5561
+1 -16 -11
+308 -17 5562
+1 5563 5566
+437 -17 5564
+11 5565 -2
+379 -2 -12
+4 5567 5570
+209 5568 5569
+7 -12 -2
+118 -15 -4
+28 -3 -12
+62 5572 5617
+7 5573 5591
+468 5574 5575
+209 -17 -26
+1 5576 5587
+17 5577 5585
+74 -15 5578
+1946 5579 5580
+9 -22 -16
+850 5581 5582
+33 -7 -16
+35 -7 5583
+15 -8 5584
+203 -8 -4
+15 -17 5586
+9 -12 -8
+290 -17 5588
+164 -4 5589
+75 -7 5590
+76 -7 -26
+81 5592 5595
+1 5593 5594
+9 -25 -8
+9 -22 -7
+203 5596 5599
+80 -12 5597
+9 -31 5598
+17 -17 -21
+504 5600 5602
+33 -7 5601
+1 -25 -5
+511 -17 5603
+437 5604 5605
+147 -12 -17
+33 -26 5606
+205 5607 5609
+1 5608 -17
+68 -15 -26
+152 5610 5611
+316 -15 -17
+191 -7 5612
+361 5613 5615
+17 5614 -17
+396 -17 -7
+15 -17 5616
+68 -17 -16
+1302 5618 5619
+249 -22 -16
+4 5620 5644
+975 5621 5629
+468 5622 5624
+347 5623 -12
+1 -22 -17
+21 5625 -15
+203 -16 5626
+9 5627 -22
+15 -22 5628
+11 -16 -22
+15 5630 5638
+7 5631 5632
+12 -16 -22
+1 5633 5636
+167 -7 5634
+9 -12 5635
+80 -12 -5
+234 -9 5637
+33 -16 -14
+97 -17 5639
+81 5640 5642
+9 -4 5641
+1 -7 -16
+1 5643 -21
+241 -25 -9
+20 5645 5656
+17 5646 5649
+1148 5647 5648
+7 -12 -30
+15 -9 -26
+325 5650 5651
+74 -16 -12
+9 5652 5654
+205 -6 5653
+1 -30 -18
+68 -16 5655
+152 -5 -18
+1 5657 5659
+65 -30 5658
+298 -17 -15
+9 -22 -30

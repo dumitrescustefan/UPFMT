@@ -1,0 +1,6657 @@
+4383
+ff_0:</s>
+ff_1:NOUN__
+ff_2:Nc
+ff_3:đất
+ff_4:NOUN__
+ff_5:NOUN
+ff_6:</s>
+ff_7:NULL
+ff_8:</s>
+ff_9:NULL
+ff_10:</s>
+ff_11:NULL
+ff_12:</s>
+ff_13:NULL
+ff_14:</s>
+ff_15:NULL
+ff_16:</s>
+ff_17:NULL
+ff_18:</s>
+ff_19:NULL
+ff_20:</s>
+ff_21:NULL
+ff_0:đất
+ff_2:N
+ff_3:còn
+ff_4:VERB__
+ff_5:VERB
+ff_7:NOUN__
+ff_9:NOUN__
+ff_11:ADJ__
+ff_13:ADJ__
+ff_15:NOUN__
+ff_17:NOUN__
+ff_0:của
+ff_1:ADP__
+ff_2:E
+ff_3:</s>
+ff_6:của
+ff_7:ADP__
+ff_16:của
+ff_17:ADP__
+ff_0:không
+ff_1:X_Polarity=Neg
+ff_2:R
+ff_0:người
+ff_7:ADJ__
+ff_9:ADJ__
+ff_1:ADJ__
+ff_2:A
+ff_3:người
+ff_0:.
+ff_1:PUNCT__
+ff_2:.
+ff_3:để
+ff_6:đi
+ff_7:VERB__
+ff_8:đi
+ff_9:VERB__
+ff_0:đi
+ff_1:VERB__
+ff_2:V
+ff_6:qua
+ff_8:qua
+ff_10:qua
+ff_11:VERB__
+ff_12:qua
+ff_13:VERB__
+ff_0:qua
+ff_3:đi
+ff_0:lại
+ff_1:X__
+ff_2:Np
+ff_0:,
+ff_2:,
+ff_6:,
+ff_7:PUNCT__
+ff_9:PUNCT__
+ff_2:LBKT
+ff_2:Ny
+ff_2:RBKT
+ff_6:gia
+ff_7:đình
+ff_8:NOUN__
+ff_9:</s>
+ff_10:NOUN__
+ff_11:</s>
+ff_12:NULL
+ff_13:</s>
+ff_14:NULL
+ff_15:chính
+ff_16:sách
+ff_18:chính
+ff_19:sách
+ff_20:NOUN__
+ff_21:</s>
+ff_22:NULL
+ff_23:</s>
+ff_24:NULL
+ff_0:gia
+ff_1:đình
+ff_2:NOUN__
+ff_3:N
+ff_4:</s>
+ff_5:NOUN__
+ff_6:NOUN
+ff_7:</s>
+ff_8:NULL
+ff_10:NULL
+ff_15:</s>
+ff_16:NULL
+ff_17:</s>
+ff_18:NULL
+ff_19:</s>
+ff_20:NULL
+ff_0:chính
+ff_1:sách
+ff_0:và
+ff_1:SCONJ__
+ff_2:CC
+ff_0:hơn
+ff_0:2
+ff_1:NUM_NumType=Card
+ff_2:M
+ff_2:Nu
+ff_6:và
+ff_7:SCONJ__
+ff_8:đất
+ff_14:hơn
+ff_15:ADJ__
+ff_16:2
+ff_17:NUM_NumType=Card
+ff_0:"
+ff_2:"
+ff_6:"
+ff_8:"
+ff_0:những
+ff_1:DET__
+ff_2:L
+ff_10:lấy
+ff_13:NOUN__
+ff_19:NOUN__
+ff_20:lấy
+ff_21:VERB__
+ff_6:những
+ff_7:DET__
+ff_8:những
+ff_9:DET__
+ff_0:cầm
+ff_6:lấy
+ff_16:lấy
+ff_17:VERB__
+ff_0:lấy
+ff_3:cầm
+ff_1:CCONJ__
+ff_2:C
+ff_11:NOUN__
+ff_8:ấy
+ff_9:PROPN__
+ff_15:VERB__
+ff_17:ADJ__
+ff_0:gần
+ff_9:NUM_NumType=Card
+ff_14:gần
+ff_16:gần
+ff_4:ADJ__
+ff_5:ADJ
+ff_16:và
+ff_17:SCONJ__
+ff_0:ấy
+ff_1:PROPN__
+ff_2:P
+ff_0:cái
+ff_3:ăn
+ff_0:ăn
+ff_6:cái
+ff_16:cái
+ff_8:cái
+ff_14:cái
+ff_16:,
+ff_17:PUNCT__
+ff_3:gia
+ff_4:đình
+ff_4:NUM_NumType=Card
+ff_5:NUM
+ff_10:gần
+ff_13:NUM_NumType=Card
+ff_19:NUM_NumType=Card
+ff_20:gần
+ff_21:ADJ__
+ff_8:NUM_NumType=Card
+ff_10:NUM_NumType=Card
+ff_5:VERB__
+ff_6:VERB
+ff_7:gần
+ff_8:ADJ__
+ff_16:NUM_NumType=Card
+ff_17:gần
+ff_18:ADJ__
+ff_0:phải
+ff_9:đi
+ff_10:VERB__
+ff_15:phải
+ff_16:VERB__
+ff_18:NOUN__
+ff_3:chuyện
+ff_0:đó
+ff_0:là
+ff_1:AUX__
+ff_8:của
+ff_9:ADP__
+ff_0:20
+ff_3:năm
+ff_0:năm
+ff_6:20
+ff_7:NUM_NumType=Card
+ff_8:trước
+ff_14:trước
+ff_16:20
+ff_0:về
+ff_3:trước
+ff_0:trước
+ff_6:về
+ff_8:về
+ff_0:còn
+ff_0:...
+ff_2:...
+ff_0:chỗ
+ff_6:này
+ff_7:PROPN__
+ff_8:này
+ff_0:này
+ff_3:chỗ
+ff_1:PART__
+ff_2:T
+ff_2:@
+ff_3:nhà
+ff_10:đất
+ff_12:đất
+ff_0:ngôi
+ff_6:đất
+ff_3:bằng
+ff_4:ADP__
+ff_5:ADP
+ff_0:bằng
+ff_7:X__
+ff_9:X__
+ff_0:hai
+ff_6:bằng
+ff_12:đường
+ff_14:hai
+ff_15:NUM_NumType=Card
+ff_16:hai
+ff_18:đường
+ff_0:anh
+ff_8:đường
+ff_14:đường
+ff_0:trên
+ff_3:đường
+ff_0:con
+ff_0:đường
+ff_6:trên
+ff_14:con
+ff_16:con
+ff_2:Nb
+ff_0:nhà
+ff_1:nước
+ff_4:cùng
+ff_5:ADJ__
+ff_6:ADJ
+ff_11:cùng
+ff_12:ADJ__
+ff_13:cùng
+ff_14:ADJ__
+ff_10:nhà
+ff_11:nước
+ff_12:NOUN__
+ff_13:nhà
+ff_14:nước
+ff_22:</s>
+ff_23:NULL
+ff_4:nước
+ff_7:và
+ff_8:SCONJ__
+ff_9:và
+ff_10:SCONJ__
+ff_0:cùng
+ff_3:làm
+ff_6:nhà
+ff_7:nước
+ff_9:nhà
+ff_10:nước
+ff_0:làm
+ff_6:cùng
+ff_8:cùng
+ff_0:-
+ff_2:-
+ff_6:anh
+ff_8:anh
+ff_19:VERB__
+ff_21:NOUN__
+ff_10:mình
+ff_11:PROPN__
+ff_12:mình
+ff_13:PROPN__
+ff_8:nhà
+ff_14:nhà
+ff_6:mình
+ff_8:mình
+ff_0:mình
+ff_14:đất
+ff_16:đất
+ff_0:cho
+ff_6:cho
+ff_0:chuyện
+ff_6:cầm
+ff_8:cầm
+ff_6:ra
+ff_14:cùng
+ff_16:ra
+ff_0:ra
+ff_3:cùng
+ff_0:chỉ
+ff_0:nhỏ
+ff_3:muốn
+ff_0:đều
+ff_3:sang
+ff_0:cũng
+ff_0:sang
+ff_14:cũng
+ff_15:X__
+ff_16:phải
+ff_0:!
+ff_2:!
+ff_10:"
+ff_11:PUNCT__
+ff_12:.
+ff_13:PUNCT__
+ff_18:-
+ff_19:PUNCT__
+ff_6:người
+ff_8:người
+ff_6:mới
+ff_8:mới
+ff_0:mới
+ff_6:nhất
+ff_8:cuộc
+ff_9:sống
+ff_11:nhất
+ff_12:X__
+ff_13:cuộc
+ff_14:sống
+ff_16:cuộc
+ff_17:sống
+ff_19:nhất
+ff_20:X__
+ff_21:cuộc
+ff_22:sống
+ff_23:NOUN__
+ff_24:nhất
+ff_25:X__
+ff_0:nhất
+ff_3:mới
+ff_3:cuộc
+ff_4:sống
+ff_0:cuộc
+ff_1:sống
+ff_4:mới
+ff_7:của
+ff_8:ADP__
+ff_16:NOUN__
+ff_17:của
+ff_18:ADP__
+ff_6:trước
+ff_0::
+ff_2::
+ff_0:các
+ff_3:em
+ff_0:em
+ff_3:đến
+ff_6:các
+ff_16:các
+ff_17:DET__
+ff_0:đang
+ff_0:đến
+ff_6:em
+ff_14:đang
+ff_0:dưới
+ff_6:dưới
+ff_6:phía
+ff_8:phía
+ff_0:phía
+ff_6:sau
+ff_8:sau
+ff_10:sau
+ff_12:sau
+ff_0:sau
+ff_3:phía
+ff_10:mới
+ff_12:mới
+ff_6:nữa
+ff_8:nữa
+ff_0:nữa
+ff_3:sau
+ff_0:chạy
+ff_6:vào
+ff_8:gia
+ff_9:đình
+ff_15:gia
+ff_16:đình
+ff_18:vào
+ff_19:X__
+ff_0:vào
+ff_3:chạy
+ff_0:từng
+ff_4:chạy
+ff_7:từng
+ff_8:PROPN__
+ff_9:từng
+ff_10:PROPN__
+ff_6:sáng
+ff_16:sáng
+ff_0:sáng
+ff_0:trong
+ff_6:trong
+ff_8:trong
+ff_0:điện
+ff_16:đường
+ff_0:liên
+ff_2:Z
+ff_6:liên
+ff_8:liên
+ff_0:dự
+ff_1:án
+ff_3:dự
+ff_4:án
+ff_6:dự
+ff_7:án
+ff_15:đồng
+ff_17:đồng
+ff_11:NUM_NumType=Card
+ff_3:đồng
+ff_0:đồng
+ff_0:một
+ff_0:từ
+ff_3:đây
+ff_4:PROPN__
+ff_5:PROPN
+ff_0:đây
+ff_6:từ
+ff_8:từ
+ff_10:vụ
+ff_12:vụ
+ff_8:vụ
+ff_14:vụ
+ff_3:vụ
+ff_10:đây
+ff_18:,
+ff_0:vụ
+ff_6:một
+ff_8:một
+ff_6:vụ
+ff_0:ba
+ff_6:ba
+ff_8:ba
+ff_8:trên
+ff_3:có
+ff_0:có
+ff_8:có
+ff_0:mà
+ff_6:mà
+ff_7:CCONJ__
+ff_8:vốn
+ff_14:không
+ff_15:X_Polarity=Neg
+ff_16:không
+ff_17:X_Polarity=Neg
+ff_0:vốn
+ff_3:vốn
+ff_6:xuống
+ff_8:xuống
+ff_10:xuống
+ff_12:xuống
+ff_0:xuống
+ff_0:thì
+ff_0:nhau
+ff_16:từ
+ff_8:cho
+ff_6:dân
+ff_8:dân
+ff_10:dân
+ff_12:dân
+ff_0:dân
+ff_3:cho
+ff_6:vay
+ff_8:vay
+ff_10:vay
+ff_12:vay
+ff_0:vay
+ff_3:dân
+ff_6:vốn
+ff_10:vốn
+ff_12:vốn
+ff_3:vay
+ff_3:đứng
+ff_14:dân
+ff_8:,
+ff_8:lá
+ff_12:lá
+ff_14:lá
+ff_18:lá
+ff_0:lá
+ff_3:nhỏ
+ff_6:đường
+ff_16:trong
+ff_3:cái
+ff_17:X__
+ff_2:X
+ff_0:nhiều
+ff_10:cái
+ff_6:nhiều
+ff_8:nhiều
+ff_6:đến
+ff_14:"
+ff_15:PUNCT__
+ff_12:"
+ff_8:và
+ff_9:SCONJ__
+ff_8:các
+ff_0:như
+ff_10:vào
+ff_11:X__
+ff_20:vào
+ff_21:X__
+ff_6:như
+ff_16:những
+ff_16:vào
+ff_6:từng
+ff_8:từng
+ff_14:xã
+ff_16:xã
+ff_0:xã
+ff_8:nhỏ
+ff_14:đi
+ff_16:"
+ff_0:nhưng
+ff_6:nhưng
+ff_9:PART__
+ff_15:PART__
+ff_16:nhưng
+ff_17:CCONJ__
+ff_0:mỗi
+ff_12:gia
+ff_13:đình
+ff_14:NOUN__
+ff_19:gia
+ff_20:đình
+ff_6:mỗi
+ff_8:mỗi
+ff_3:tốt
+ff_3:hiểu
+ff_0:hiểu
+ff_8:không
+ff_9:X_Polarity=Neg
+ff_6:hiểu
+ff_8:cũng
+ff_14:thì
+ff_15:CCONJ__
+ff_16:thì
+ff_3:thấy
+ff_0:thấy
+ff_16:cho
+ff_3:nói
+ff_0:nói
+ff_8:hiểu
+ff_14:hiểu
+ff_7:PART__
+ff_8:lao
+ff_9:động
+ff_12:VERB__
+ff_13:đi
+ff_14:VERB__
+ff_15:về
+ff_16:ADP__
+ff_17:về
+ff_19:riêng
+ff_20:ADJ__
+ff_21:"
+ff_22:PUNCT__
+ff_0:lao
+ff_1:động
+ff_12:đi
+ff_18:riêng
+ff_19:ADJ__
+ff_20:"
+ff_21:PUNCT__
+ff_20:cách
+ff_0:cách
+ff_14:riêng
+ff_3:cách
+ff_0:riêng
+ff_8:để
+ff_15:ngoài
+ff_17:nước
+ff_18:ngoài
+ff_0:nước
+ff_1:ngoài
+ff_4:đi
+ff_0:để
+ff_3:lao
+ff_4:động
+ff_3:vậy
+ff_0:vậy
+ff_7:cũng
+ff_8:X__
+ff_9:cũng
+ff_10:X__
+ff_11:ngoài
+ff_13:nước
+ff_14:ngoài
+ff_8:làm
+ff_9:việc
+ff_15:ba
+ff_17:ba
+ff_18:NUM_NumType=Card
+ff_1:việc
+ff_2:VERB__
+ff_3:V
+ff_4:năm
+ff_8:ngoài
+ff_16:nước
+ff_17:ngoài
+ff_25:</s>
+ff_26:NULL
+ff_0:ở
+ff_3:nước
+ff_4:ngoài
+ff_4:làm
+ff_5:việc
+ff_6:VERB__
+ff_7:VERB
+ff_8:ở
+ff_10:ở
+ff_11:ADP__
+ff_0:bên
+ff_8:việc
+ff_14:việc
+ff_3:bên
+ff_0:việc
+ff_14:vốn
+ff_16:vốn
+ff_3:việc
+ff_9:gia
+ff_10:đình
+ff_8:VERB__
+ff_10:ADJ__
+ff_0:họ
+ff_14:làm
+ff_15:việc
+ff_17:làm
+ff_18:việc
+ff_3:nay
+ff_0:nay
+ff_8:đến
+ff_10:làm
+ff_11:việc
+ff_13:làm
+ff_6:làm
+ff_7:việc
+ff_9:làm
+ff_10:việc
+ff_12:làm
+ff_13:việc
+ff_15:làm
+ff_16:việc
+ff_24:</s>
+ff_25:NULL
+ff_0:khi
+ff_3:tiếp
+ff_4:tục
+ff_11:tốt
+ff_13:tốt
+ff_3:khi
+ff_4:tiếp
+ff_5:tục
+ff_8:tốt
+ff_10:tốt
+ff_12:tốt
+ff_14:tốt
+ff_0:tốt
+ff_4:việc
+ff_8:xã
+ff_14:nhất
+ff_16:nhất
+ff_0:đã
+ff_10:lao
+ff_11:động
+ff_13:lao
+ff_14:động
+ff_6:lao
+ff_7:động
+ff_9:lao
+ff_10:động
+ff_12:lao
+ff_13:động
+ff_15:lao
+ff_16:động
+ff_7:cho
+ff_9:nhiều
+ff_15:nhiều
+ff_16:ADJ__
+ff_17:cho
+ff_8:em
+ff_10:tiền
+ff_12:tiền
+ff_0:dùng
+ff_6:tiền
+ff_8:tiền
+ff_0:tiền
+ff_3:dùng
+ff_8:tiếp
+ff_9:tục
+ff_13:tiếp
+ff_14:tục
+ff_16:tiếp
+ff_17:tục
+ff_18:VERB__
+ff_20:VERB__
+ff_21:tiếp
+ff_22:tục
+ff_23:VERB__
+ff_25:VERB__
+ff_3:tiền
+ff_0:tiếp
+ff_1:tục
+ff_4:tiền
+ff_7:học
+ff_9:học
+ff_0:học
+ff_9:vào
+ff_13:vào
+ff_15:vào
+ff_19:vào
+ff_22:NOUN__
+ff_3:học
+ff_3:vào
+ff_6:nay
+ff_8:nay
+ff_8:năm
+ff_14:năm
+ff_16:đến
+ff_0:sẽ
+ff_3:con
+ff_10:chỗ
+ff_20:chỗ
+ff_6:chỗ
+ff_16:chỗ
+ff_8:nhất
+ff_6:nhận
+ff_0:nhận
+ff_14:lao
+ff_15:động
+ff_10:đâu
+ff_12:đâu
+ff_8:nơi
+ff_14:nơi
+ff_16:người
+ff_0:nơi
+ff_6:đâu
+ff_8:đâu
+ff_0:đâu
+ff_3:nơi
+ff_8:họ
+ff_8:nhưng
+ff_9:CCONJ__
+ff_14:nhưng
+ff_3:họ
+ff_6:không
+ff_7:X_Polarity=Neg
+ff_10:không
+ff_11:X_Polarity=Neg
+ff_20:không
+ff_21:X_Polarity=Neg
+ff_0:hay
+ff_6:hay
+ff_8:cách
+ff_14:còn
+ff_16:còn
+ff_6:xã
+ff_8:cán
+ff_9:bộ
+ff_15:cán
+ff_16:bộ
+ff_18:xã
+ff_3:cán
+ff_4:bộ
+ff_22:VERB__
+ff_0:cán
+ff_1:bộ
+ff_7:các
+ff_8:DET__
+ff_9:về
+ff_17:các
+ff_18:DET__
+ff_3:về
+ff_0:được
+ff_0:muốn
+ff_17:PROPN__
+ff_0:điều
+ff_1:kiện
+ff_7:vay
+ff_9:vay
+ff_11:vay
+ff_13:vay
+ff_3:điều
+ff_4:kiện
+ff_7:vốn
+ff_9:vốn
+ff_11:vốn
+ff_13:vốn
+ff_4:muốn
+ff_4:lao
+ff_5:động
+ff_16:!
+ff_8:!
+ff_14:gia
+ff_15:đình
+ff_17:chính
+ff_18:sách
+ff_14:!
+ff_6:chỉ
+ff_14:lại
+ff_16:lại
+ff_16:một
+ff_4:CCONJ__
+ff_5:CCONJ
+ff_0:gặp
+ff_6:con
+ff_8:con
+ff_0:đứa
+ff_3:gặp
+ff_14:đứa
+ff_16:đứa
+ff_14:này
+ff_15:PROPN__
+ff_0:tôi
+ff_0:bị
+ff_3:ngồi
+ff_3:bạn
+ff_0:bạn
+ff_20:bên
+ff_6:-
+ff_14:một
+ff_6:còn
+ff_8:còn
+ff_0:lên
+ff_7:hai
+ff_17:hai
+ff_3:nghe
+ff_10:cho
+ff_12:cho
+ff_0:câu
+ff_1:chuyện
+ff_4:nghe
+ff_9:cho
+ff_11:cho
+ff_13:cho
+ff_3:câu
+ff_4:chuyện
+ff_18:khi
+ff_8:lớn
+ff_14:lớn
+ff_3:lớn
+ff_0:lớn
+ff_8:bán
+ff_14:bán
+ff_3:bán
+ff_0:bán
+ff_3:trả
+ff_10:con
+ff_12:con
+ff_0:trả
+ff_6:thì
+ff_14:mới
+ff_14:anh
+ff_0:thông
+ff_1:báo
+ff_3:thành
+ff_16:đi
+ff_0:giờ
+ff_0:thành
+ff_8:mẹ
+ff_14:giờ
+ff_16:đã
+ff_0:mẹ
+ff_3:mẹ
+ff_3:điểm
+ff_0:điểm
+ff_14:vào
+ff_0:hỏi
+ff_3:hỏi
+ff_0:cả
+ff_6:hai
+ff_8:hai
+ff_3:cả
+ff_14:bị
+ff_16:tay
+ff_0:tay
+ff_0:ngày
+ff_3:ngày
+ff_6:bị
+ff_8:bị
+ff_3:mất
+ff_3:sống
+ff_1:INTJ__
+ff_2:I
+ff_6:đó
+ff_8:đó
+ff_0:hết
+ff_0:rồi
+ff_8:chỗ
+ff_3:từ
+ff_12:ấy
+ff_14:gửi
+ff_16:gửi
+ff_18:gửi
+ff_20:gửi
+ff_3:gửi
+ff_0:gửi
+ff_8:phần
+ff_3:phần
+ff_0:phần
+ff_10:xã
+ff_12:xã
+ff_14:ubnd
+ff_16:ubnd
+ff_0:ubnd
+ff_3:ubnd
+ff_3:gần
+ff_0:vừa
+ff_10:đồng
+ff_12:đồng
+ff_6:đồng
+ff_8:đồng
+ff_0:khoảng
+ff_10:khoảng
+ff_20:khoảng
+ff_6:khoảng
+ff_16:khoảng
+ff_3:qua
+ff_16:đội
+ff_20:đội
+ff_3:đội
+ff_0:đội
+ff_14:đã
+ff_16:là
+ff_17:AUX__
+ff_14:,
+ff_16:bằng
+ff_8:nào
+ff_14:nào
+ff_0:nào
+ff_4:mặt
+ff_1:mặt
+ff_4:có
+ff_7:anh
+ff_9:đều
+ff_15:đều
+ff_16:X__
+ff_17:anh
+ff_14:tiền
+ff_18:tiền
+ff_3:lúc
+ff_0:lúc
+ff_0:mấy
+ff_6:mấy
+ff_16:mấy
+ff_3:bị
+ff_14:ấy
+ff_16:cũng
+ff_6:giờ
+ff_8:giờ
+ff_3:hết
+ff_4:giờ
+ff_10:ăn
+ff_12:ăn
+ff_6:ăn
+ff_8:ăn
+ff_0:với
+ff_3:tất
+ff_4:cả
+ff_5:PROPN__
+ff_6:PROPN
+ff_7:chỉ
+ff_15:với
+ff_3:lên
+ff_16:nhà
+ff_0:cứ
+ff_4:từ
+ff_5:ADP__
+ff_6:ADP
+ff_7:một
+ff_17:một
+ff_10:nhất
+ff_20:nhất
+ff_6:ngôi
+ff_16:trên
+ff_10:có
+ff_12:có
+ff_0:nó
+ff_6:có
+ff_3:lấy
+ff_8:học
+ff_14:đó
+ff_16:đó
+ff_16:mà
+ff_0:nên
+ff_3:xã
+ff_0:vẫn
+ff_6:chuyện
+ff_14:vẫn
+ff_16:vẫn
+ff_18:công
+ff_19:an
+ff_21:công
+ff_22:an
+ff_12:nhà
+ff_14:công
+ff_15:an
+ff_17:công
+ff_18:an
+ff_3:anh
+ff_0:công
+ff_1:an
+ff_4:anh
+ff_14:những
+ff_15:DET__
+ff_8:xây
+ff_9:dựng
+ff_15:xây
+ff_16:dựng
+ff_18:dân
+ff_0:xây
+ff_1:dựng
+ff_3:xây
+ff_4:dựng
+ff_3:tổ
+ff_4:chức
+ff_11:đi
+ff_7:đi
+ff_6:bộ
+ff_8:bộ
+ff_10:bộ
+ff_12:bộ
+ff_0:bộ
+ff_0:tại
+ff_7:tại
+ff_9:tại
+ff_10:ADP__
+ff_10:lên
+ff_20:lên
+ff_8:nói
+ff_6:lên
+ff_16:lên
+ff_0:vì
+ff_6:vì
+ff_8:báo
+ff_14:báo
+ff_16:vì
+ff_0:báo
+ff_3:như
+ff_3:công
+ff_4:nhân
+ff_11:ra
+ff_21:ra
+ff_22:X__
+ff_1:nhân
+ff_7:những
+ff_15:đứng
+ff_17:đứng
+ff_0:đứng
+ff_7:ra
+ff_17:ra
+ff_18:X__
+ff_6:tiêu
+ff_7:cực
+ff_9:tiêu
+ff_10:cực
+ff_0:tiêu
+ff_1:cực
+ff_7:đường
+ff_9:đường
+ff_11:đường
+ff_13:đường
+ff_3:tiêu
+ff_4:cực
+ff_7:ở
+ff_15:liên
+ff_9:số
+ff_15:số
+ff_17:gia
+ff_18:đình
+ff_4:nhiều
+ff_3:số
+ff_0:số
+ff_3:nhiều
+ff_14:họ
+ff_3:rõ
+ff_6:chính
+ff_16:chính
+ff_17:PART__
+ff_0:rõ
+ff_10:anh
+ff_12:người
+ff_18:người
+ff_20:anh
+ff_14:người
+ff_16:anh
+ff_8:nhóm
+ff_16:khác
+ff_0:khác
+ff_3:nhóm
+ff_0:nhóm
+ff_15:nhân
+ff_17:người
+ff_4:nhóm
+ff_8:20
+ff_6:ở
+ff_0:chưa
+ff_0:cháu
+ff_0:sống
+ff_6:cháu
+ff_8:sự
+ff_3:sự
+ff_0:sự
+ff_3:quyết
+ff_4:định
+ff_13:để
+ff_14:ADP__
+ff_19:báo
+ff_21:báo
+ff_3:vì
+ff_10:này
+ff_12:này
+ff_9:vì
+ff_16:PART__
+ff_18:PART__
+ff_10:cũng
+ff_12:vì
+ff_13:ADP__
+ff_19:PART__
+ff_20:chính
+ff_21:PART__
+ff_9:để
+ff_15:báo
+ff_17:báo
+ff_3:báo
+ff_3:mình
+ff_7:trong
+ff_9:này
+ff_7:tôi
+ff_9:tôi
+ff_0:đối
+ff_1:với
+ff_2:ADP__
+ff_3:E
+ff_4:tôi
+ff_6:đối
+ff_7:với
+ff_9:đối
+ff_10:với
+ff_0:tất
+ff_1:cả
+ff_2:PROPN__
+ff_3:P
+ff_7:vụ
+ff_15:,
+ff_16:PUNCT__
+ff_17:là
+ff_18:AUX__
+ff_0:rất
+ff_7:,
+ff_8:PUNCT__
+ff_9:rất
+ff_16:CCONJ__
+ff_17:đang
+ff_6:chồng
+ff_8:chồng
+ff_0:chồng
+ff_10:đi
+ff_3:chồng
+ff_10:tuổi
+ff_12:tuổi
+ff_6:rất
+ff_8:rất
+ff_6:tuổi
+ff_8:tuổi
+ff_3:tuổi
+ff_0:tuổi
+ff_6:với
+ff_4:X__
+ff_5:X
+ff_16:vụ
+ff_12:tiêu
+ff_13:cực
+ff_15:tiêu
+ff_16:cực
+ff_18:vụ
+ff_0:tối
+ff_3:tìm
+ff_3:tối
+ff_8:-
+ff_0:chúng
+ff_1:tôi
+ff_4:tìm
+ff_14:ngôi
+ff_16:nhỏ
+ff_0:chị
+ff_6:chị
+ff_8:chị
+ff_3:đó
+ff_10:đó
+ff_18:đến
+ff_12:sống
+ff_18:nhau
+ff_20:nhau
+ff_8:sống
+ff_14:nhau
+ff_16:nhau
+ff_6:giấy
+ff_8:giấy
+ff_10:giấy
+ff_12:giấy
+ff_3:giấy
+ff_0:giấy
+ff_6:đang
+ff_14:chồng
+ff_16:chồng
+ff_8:gái
+ff_0:gái
+ff_8:cơm
+ff_14:cơm
+ff_3:cơm
+ff_0:cơm
+ff_20:đi
+ff_3:ra
+ff_0:chiếc
+ff_14:chiếc
+ff_6:đã
+ff_8:đã
+ff_14:đến
+ff_8:đứa
+ff_14:là
+ff_15:AUX__
+ff_3:ở
+ff_6:nhỏ
+ff_14:tuổi
+ff_3:đứa
+ff_6:hơn
+ff_16:hơn
+ff_0:ngoài
+ff_15:ADP__
+ff_3:theo
+ff_6:lớn
+ff_10:chị
+ff_12:chị
+ff_3:tp
+ff_0:tp
+ff_0:nhìn
+ff_3:nhìn
+ff_9:nhóm
+ff_15:nhóm
+ff_9:anh
+ff_7:cùng
+ff_8:CCONJ__
+ff_15:công
+ff_16:nhân
+ff_19:nhân
+ff_9:đang
+ff_15:đang
+ff_13:X__
+ff_0:?
+ff_2:?
+ff_6:cao
+ff_8:cao
+ff_10:cao
+ff_12:cao
+ff_0:cao
+ff_1:ty
+ff_4:ty
+ff_6:nước
+ff_20:nước
+ff_16:-
+ff_3:phát
+ff_4:hiện
+ff_3:trong
+ff_9:đó
+ff_15:đó
+ff_16:PROPN__
+ff_17:trong
+ff_7:người
+ff_2:Y
+ff_6:tại
+ff_8:tại
+ff_12:hàng
+ff_18:hàng
+ff_9:hàng
+ff_15:hàng
+ff_0:hàng
+ff_3:hàng
+ff_14:trên
+ff_0:ông
+ff_6:ông
+ff_16:ông
+ff_0:biết
+ff_6:đây
+ff_0:mọi
+ff_8:mọi
+ff_14:mọi
+ff_16:dưới
+ff_11:lao
+ff_12:động
+ff_14:.
+ff_20:về
+ff_22:có
+ff_3:thực
+ff_7:lao
+ff_8:động
+ff_3:tháng
+ff_0:tháng
+ff_7:từ
+ff_17:từ
+ff_7:tháng
+ff_9:tháng
+ff_8:công
+ff_9:nhân
+ff_4:tháng
+ff_9:xây
+ff_10:dựng
+ff_18:là
+ff_19:AUX__
+ff_4:công
+ff_5:nhân
+ff_6:NOUN__
+ff_7:NOUN
+ff_14:các
+ff_8:đang
+ff_3:mang
+ff_17:đối
+ff_18:với
+ff_19:ADP__
+ff_16:có
+ff_6:sự
+ff_10:sự
+ff_12:sự
+ff_16:dân
+ff_3:thông
+ff_4:báo
+ff_9:đến
+ff_6:đơn
+ff_8:đơn
+ff_10:đơn
+ff_12:đơn
+ff_0:đơn
+ff_6:xin
+ff_8:xin
+ff_10:xin
+ff_12:xin
+ff_0:xin
+ff_3:đơn
+ff_3:xin
+ff_6:xây
+ff_7:dựng
+ff_12:xây
+ff_13:dựng
+ff_4:đất
+ff_3:biết
+ff_4:đầu
+ff_5:tư
+ff_16:mới
+ff_16:tại
+ff_3:đầu
+ff_4:tư
+ff_0:đầu
+ff_1:tư
+ff_4:biết
+ff_7:dự
+ff_8:án
+ff_16:được
+ff_18:được
+ff_0:theo
+ff_7:theo
+ff_17:theo
+ff_6:sử
+ff_7:dụng
+ff_12:sử
+ff_13:dụng
+ff_18:đất
+ff_20:đất
+ff_22:đất
+ff_24:đất
+ff_25:NOUN__
+ff_0:sử
+ff_1:dụng
+ff_7:nhà
+ff_9:ở
+ff_11:ở
+ff_13:ở
+ff_3:đổi
+ff_7:này
+ff_8:ubnd
+ff_8:thực
+ff_9:hiện
+ff_0:thực
+ff_1:hiện
+ff_4:ubnd
+ff_0:hiện
+ff_6:hiện
+ff_8:2
+ff_14:2
+ff_8:ông
+ff_6:là
+ff_3:dưới
+ff_8:vẫn
+ff_14:dưới
+ff_11:làm
+ff_1:tra
+ff_4:tra
+ff_7:rõ
+ff_11:rõ
+ff_17:rõ
+ff_21:rõ
+ff_22:ADJ__
+ff_6:cán
+ff_7:bộ
+ff_9:cán
+ff_3:xem
+ff_10:như
+ff_11:CCONJ__
+ff_20:như
+ff_21:CCONJ__
+ff_16:như
+ff_10:tiêu
+ff_11:cực
+ff_13:tiêu
+ff_14:cực
+ff_9:chúng
+ff_10:tôi
+ff_19:nhà
+ff_3:chúng
+ff_9:của
+ff_10:pháp
+ff_11:luật
+ff_13:pháp
+ff_14:luật
+ff_0:đúng
+ff_6:pháp
+ff_7:luật
+ff_9:pháp
+ff_10:luật
+ff_12:pháp
+ff_13:luật
+ff_15:pháp
+ff_16:luật
+ff_0:pháp
+ff_1:luật
+ff_4:đúng
+ff_16:về
+ff_0:sao
+ff_6:sao
+ff_18:phải
+ff_16:chỉ
+ff_8:bên
+ff_10:trả
+ff_12:trả
+ff_6:trả
+ff_8:trả
+ff_6:lại
+ff_10:lại
+ff_12:năm
+ff_16:tiền
+ff_20:tiền
+ff_14:mấy
+ff_12:đó
+ff_3:ai
+ff_10:vì
+ff_18:ai
+ff_19:PROPN__
+ff_20:ai
+ff_21:PROPN__
+ff_0:ai
+ff_14:ai
+ff_16:ai
+ff_10:gì
+ff_12:bên
+ff_18:bên
+ff_20:gì
+ff_6:gì
+ff_14:bên
+ff_16:gì
+ff_0:gì
+ff_1:trình
+ff_4:trình
+ff_3:ống
+ff_0:ống
+ff_3:ngoài
+ff_8:ra
+ff_14:cát
+ff_0:cát
+ff_7:ống
+ff_10:ống
+ff_1:ống
+ff_6:theo
+ff_18:theo
+ff_19:nước
+ff_7:về
+ff_9:nước
+ff_15:nước
+ff_10:là
+ff_12:công
+ff_13:trình
+ff_19:công
+ff_20:trình
+ff_22:là
+ff_23:CCONJ__
+ff_11:là
+ff_12:CCONJ__
+ff_13:công
+ff_14:trình
+ff_20:công
+ff_21:trình
+ff_23:là
+ff_24:CCONJ__
+ff_9:trình
+ff_16:công
+ff_17:trình
+ff_19:là
+ff_20:CCONJ__
+ff_22:trình
+ff_24:là
+ff_25:CCONJ__
+ff_3:viết
+ff_3:gọi
+ff_14:nữa
+ff_19:CCONJ__
+ff_14:nhiều
+ff_16:rất
+ff_9:báo
+ff_6:công
+ff_7:nhân
+ff_9:đồng
+ff_11:công
+ff_12:nhân
+ff_14:đồng
+ff_16:đồng
+ff_21:đồng
+ff_23:công
+ff_24:nhân
+ff_7:nhóm
+ff_17:nhóm
+ff_10:đường
+ff_7:đã
+ff_16:tiêu
+ff_17:cực
+ff_19:đã
+ff_17:ở
+ff_0:10
+ff_6:10
+ff_8:10
+ff_8:tin
+ff_14:tin
+ff_0:tin
+ff_3:giờ
+ff_8:mà
+ff_0:thế
+ff_16:bị
+ff_15:cùng
+ff_17:cùng
+ff_6:khi
+ff_6:ngày
+ff_8:vậy
+ff_3:phải
+ff_4:phải
+ff_9:công
+ff_10:nhân
+ff_9:ấy
+ff_13:ấy
+ff_14:PROPN__
+ff_15:ấy
+ff_19:ấy
+ff_20:PROPN__
+ff_8:hết
+ff_14:nay
+ff_8:khác
+ff_3:cần
+ff_18:mình
+ff_14:mình
+ff_6:hỏi
+ff_10:hỏi
+ff_16:hỏi
+ff_18:này
+ff_20:hỏi
+ff_8:chính
+ff_14:chính
+ff_16:với
+ff_8:bảo
+ff_9:vệ
+ff_0:bảo
+ff_1:vệ
+ff_7:cái
+ff_9:cái
+ff_3:bảo
+ff_4:vệ
+ff_9:kia
+ff_13:kia
+ff_15:kia
+ff_19:kia
+ff_0:kia
+ff_8:gì
+ff_14:gì
+ff_10:đến
+ff_12:đến
+ff_14:sẽ
+ff_12:cái
+ff_16:ba
+ff_6:năm
+ff_15:những
+ff_16:DET__
+ff_8:vì
+ff_16:tốt
+ff_3:nên
+ff_1:thể
+ff_2:X_Polarity=Neg
+ff_3:R
+ff_4:hiểu
+ff_7:thể
+ff_8:X_Polarity=Neg
+ff_17:không
+ff_18:thể
+ff_19:X_Polarity=Neg
+ff_7:sự
+ff_9:họ
+ff_15:được
+ff_17:trả
+ff_9:lại
+ff_15:lại
+ff_17:và
+ff_18:SCONJ__
+ff_2:X__
+ff_8:đưa
+ff_17:thể
+ff_3:đưa
+ff_0:đưa
+ff_14:ra
+ff_3:thêm
+ff_6:thế
+ff_16:thế
+ff_3:hơn
+ff_6:ubnd
+ff_4:thấy
+ff_8:cứ
+ff_14:cứ
+ff_6:phải
+ff_7:như
+ff_17:như
+ff_18:CCONJ__
+ff_12:anh
+ff_18:anh
+ff_16:khi
+ff_2:ADJ__
+ff_3:A
+ff_18:của
+ff_6:việc
+ff_13:anh
+ff_19:anh
+ff_4:bảo
+ff_5:vệ
+ff_12:vào
+ff_8:vào
+ff_3:nhận
+ff_15:các
+ff_7:ty
+ff_16:làm
+ff_17:việc
+ff_20:ty
+ff_4:vào
+ff_3:đề
+ff_4:nghị
+ff_7:chúng
+ff_8:tôi
+ff_10:chúng
+ff_11:tôi
+ff_12:PROPN__
+ff_10:ty
+ff_16::
+ff_18::
+ff_4:chúng
+ff_5:tôi
+ff_6:PROPN__
+ff_7:PROPN
+ff_16:xây
+ff_17:dựng
+ff_20:SCONJ__
+ff_16:giám
+ff_17:đốc
+ff_0:giám
+ff_1:đốc
+ff_7:công
+ff_8:ty
+ff_10:công
+ff_11:ty
+ff_4:giám
+ff_5:đốc
+ff_4:nhận
+ff_5:ty
+ff_1:dõi
+ff_7:câu
+ff_8:chuyện
+ff_10:câu
+ff_11:chuyện
+ff_4:theo
+ff_5:dõi
+ff_10:người
+ff_18:có
+ff_20:người
+ff_14:có
+ff_10:hơn
+ff_12:hơn
+ff_8:hơn
+ff_6:báo
+ff_10:biết
+ff_12:biết
+ff_8:khi
+ff_14:rất
+ff_6:biết
+ff_8:biết
+ff_6:gặp
+ff_8:gặp
+ff_10:gặp
+ff_12:gặp
+ff_3:được
+ff_6:chúng
+ff_12:chúng
+ff_13:tôi
+ff_15:chúng
+ff_16:tôi
+ff_13:tp
+ff_19:tp
+ff_8:tp
+ff_12:tp
+ff_14:tp
+ff_18:tp
+ff_7:bảo
+ff_8:vệ
+ff_10:bảo
+ff_11:vệ
+ff_7:báo
+ff_11:báo
+ff_13:báo
+ff_8:tháng
+ff_14:tháng
+ff_14:mỗi
+ff_3:giao
+ff_4:thông
+ff_0:giao
+ff_1:thông
+ff_7:"
+ff_9:"
+ff_10:PUNCT__
+ff_15:"
+ff_17:"
+ff_18:PUNCT__
+ff_3:vấn
+ff_4:đề
+ff_0:xe
+ff_6:xe
+ff_16:xe
+ff_7:an
+ff_10:an
+ff_3:cũng
+ff_8:phải
+ff_6:giao
+ff_7:thông
+ff_9:giao
+ff_10:thông
+ff_12:giao
+ff_13:thông
+ff_15:giao
+ff_16:thông
+ff_10:giao
+ff_11:thông
+ff_13:giao
+ff_14:thông
+ff_18:trong
+ff_10:số
+ff_20:thì
+ff_3:thì
+ff_14:chỉ
+ff_21:NUM_NumType=Card
+ff_14:sau
+ff_3:lần
+ff_0:lần
+ff_14:ba
+ff_16:sau
+ff_10:điều
+ff_11:kiện
+ff_13:điều
+ff_14:kiện
+ff_6:cấp
+ff_8:cấp
+ff_0:cấp
+ff_3:cấp
+ff_0:xem
+ff_6:điều
+ff_7:kiện
+ff_9:điều
+ff_10:kiện
+ff_12:điều
+ff_13:kiện
+ff_15:điều
+ff_16:kiện
+ff_8:xe
+ff_10:xe
+ff_12:xe
+ff_4:xem
+ff_15:là
+ff_16:AUX__
+ff_17:những
+ff_3:"
+ff_4:PUNCT__
+ff_5:PUNCT
+ff_10:bị
+ff_18:"
+ff_20:tay
+ff_13:nhân
+ff_20:nhân
+ff_14:nhân
+ff_17:nhân
+ff_22:nhân
+ff_1:số
+ff_2:DET__
+ff_3:L
+ff_17:số
+ff_19:một
+ff_20:số
+ff_21:DET__
+ff_0:mang
+ff_8:theo
+ff_14:theo
+ff_10:bên
+ff_10:nhau
+ff_12:nhau
+ff_6:bên
+ff_16:bên
+ff_6:nhau
+ff_8:nhau
+ff_18:lên
+ff_8:tay
+ff_14:tay
+ff_14:lên
+ff_3:tay
+ff_3:bỏ
+ff_10:cơ
+ff_11:quan
+ff_13:cơ
+ff_14:quan
+ff_6:cơ
+ff_7:quan
+ff_9:cơ
+ff_10:quan
+ff_12:cơ
+ff_13:quan
+ff_15:cơ
+ff_16:quan
+ff_3:cơ
+ff_4:quan
+ff_0:cơ
+ff_1:quan
+ff_17:an
+ff_19:tại
+ff_20:ADP__
+ff_4:cơ
+ff_5:quan
+ff_9:rõ
+ff_13:rõ
+ff_6:đầu
+ff_7:tiên
+ff_17:đầu
+ff_18:tiên
+ff_1:tiên
+ff_4:lần
+ff_14:đối
+ff_20:đối
+ff_21:với
+ff_23:đối
+ff_24:với
+ff_3:X
+ff_20:là
+ff_14:như
+ff_11:nhà
+ff_12:nước
+ff_22:nhà
+ff_23:nước
+ff_24:NOUN__
+ff_8:nước
+ff_15:người
+ff_22:người
+ff_24:nhà
+ff_25:nước
+ff_26:NOUN__
+ff_16:trước
+ff_3:bộ
+ff_12:!
+ff_20:gặp
+ff_14:tôi
+ff_14:hết
+ff_16:hết
+ff_18:hết
+ff_20:hết
+ff_8:mất
+ff_14:kia
+ff_16:kia
+ff_0:mất
+ff_9:sử
+ff_10:dụng
+ff_15:sử
+ff_16:dụng
+ff_7:đất
+ff_9:đất
+ff_11:đất
+ff_13:đất
+ff_3:sử
+ff_4:dụng
+ff_8:mấy
+ff_0:tổ
+ff_1:chức
+ff_7:mà
+ff_0:tự
+ff_6:nó
+ff_8:nó
+ff_3:tự
+ff_6:được
+ff_8:được
+ff_14:hay
+ff_3:kể
+ff_0:kể
+ff_6:để
+ff_3:nhau
+ff_8:với
+ff_8:như
+ff_0:bỏ
+ff_14:đều
+ff_6:tự
+ff_8:tự
+ff_8:PART__
+ff_11:này
+ff_13:này
+ff_15:cả
+ff_17:cả
+ff_0:ta
+ff_6:ta
+ff_16:ta
+ff_7:dân
+ff_17:dân
+ff_15:nhà
+ff_8:sẽ
+ff_18:dùng
+ff_3:ông
+ff_18:ông
+ff_20:ông
+ff_14:ông
+ff_6:nào
+ff_16:nào
+ff_8:điều
+ff_14:điều
+ff_6:thôi
+ff_8:thôi
+ff_0:thôi
+ff_3:mà
+ff_4:PART__
+ff_5:PART
+ff_16:vay
+ff_17:vay
+ff_8:số
+ff_1:cáo
+ff_21:vay
+ff_4:cáo
+ff_8:dự
+ff_9:án
+ff_17:với
+ff_9:đầu
+ff_10:tư
+ff_16:đầu
+ff_17:tư
+ff_19:những
+ff_20:DET__
+ff_4:dự
+ff_5:án
+ff_20:vay
+ff_11:trình
+ff_13:?
+ff_14:PUNCT__
+ff_19:gì
+ff_7:trình
+ff_9:?
+ff_15:gì
+ff_14:phải
+ff_6:tất
+ff_7:cả
+ff_9:các
+ff_10:DET__
+ff_17:tất
+ff_18:cả
+ff_19:DET__
+ff_12:trình
+ff_19:trình
+ff_24:trình
+ff_17:vậy
+ff_18:PROPN__
+ff_9:lời
+ff_15:bị
+ff_16:cáo
+ff_18:không
+ff_4:lời
+ff_1:lời
+ff_7:phải
+ff_15:như
+ff_9:cáo
+ff_13:bị
+ff_14:cáo
+ff_12:dự
+ff_13:án
+ff_19:dự
+ff_20:án
+ff_23:ADJ__
+ff_15:dự
+ff_16:án
+ff_9:cấp
+ff_15:cấp
+ff_7:cấp
+ff_17:cấp
+ff_9:nhận
+ff_0:đổi
+ff_10:nhiều
+ff_12:nhiều
+ff_8:chúng
+ff_11:nhiều
+ff_13:nhiều
+ff_7:đối
+ff_10:đối
+ff_11:với
+ff_12:ADP__
+ff_8:rồi
+ff_14:rồi
+ff_3:sáng
+ff_8:tìm
+ff_14:chúng
+ff_15:tôi
+ff_8:lên
+ff_0:tìm
+ff_6:rồi
+ff_16:rồi
+ff_18:trước
+ff_8:ai
+ff_3:phút
+ff_0:phút
+ff_3:đúng
+ff_6:bảo
+ff_7:vệ
+ff_9:bảo
+ff_10:vệ
+ff_12:bảo
+ff_13:vệ
+ff_15:bảo
+ff_16:vệ
+ff_12:lên
+ff_6:tôi
+ff_8:đổi
+ff_6:cũng
+ff_8:phút
+ff_14:10
+ff_4:qua
+ff_10:về
+ff_12:về
+ff_16:hay
+ff_8:phòng
+ff_14:phòng
+ff_0:phòng
+ff_3:phòng
+ff_6:thông
+ff_9:thông
+ff_10:báo
+ff_12:thông
+ff_15:thông
+ff_16:báo
+ff_0:thêm
+ff_8:muốn
+ff_14:thêm
+ff_16:thêm
+ff_0:nếu
+ff_10:ngày
+ff_12:ngày
+ff_6:nếu
+ff_16:nếu
+ff_8:ngày
+ff_4:đổi
+ff_17:,
+ff_8:tiếng
+ff_14:tiếng
+ff_3:tiếng
+ff_0:tiếng
+ff_6:đổi
+ff_16:đổi
+ff_4:xuống
+ff_8:đứng
+ff_14:đứng
+ff_16:đang
+ff_14:đổi
+ff_4:hỏi
+ff_7:được
+ff_9:ra
+ff_15::
+ff_17::
+ff_8:thông
+ff_18:tại
+ff_8:điện
+ff_9:thoại
+ff_15:điện
+ff_16:thoại
+ff_18:rồi
+ff_1:thoại
+ff_6:vừa
+ff_8:vừa
+ff_14:vừa
+ff_10:hết
+ff_12:hết
+ff_6:hết
+ff_6:đúng
+ff_10:đúng
+ff_12:cầm
+ff_14:cầm
+ff_16:đúng
+ff_18:cầm
+ff_20:đúng
+ff_6:phút
+ff_10:phút
+ff_12:phút
+ff_4:cầm
+ff_11:phút
+ff_13:phút
+ff_15:đã
+ff_17:đã
+ff_12:tôi
+ff_6:sống
+ff_10:sống
+ff_3:tôi
+ff_3:chính
+ff_4:sách
+ff_7:đó
+ff_9:những
+ff_15:chỉ
+ff_12:?
+ff_18:vấn
+ff_19:đề
+ff_21:vấn
+ff_22:đề
+ff_3:đặt
+ff_10::
+ff_20:,
+ff_0:vấn
+ff_1:đề
+ff_4:đặt
+ff_7::
+ff_9:có
+ff_11::
+ff_12:PUNCT__
+ff_13:có
+ff_21:,
+ff_7:có
+ff_15:nay
+ff_17:chưa
+ff_18:tiêu
+ff_19:cực
+ff_15:này
+ff_10:đề
+ff_11:nghị
+ff_13:đề
+ff_14:nghị
+ff_11:đề
+ff_12:nghị
+ff_14:đề
+ff_15:nghị
+ff_4:an
+ff_6:đề
+ff_7:nghị
+ff_9:đề
+ff_10:nghị
+ff_12:đề
+ff_13:nghị
+ff_15:đề
+ff_16:nghị
+ff_0:đề
+ff_1:nghị
+ff_7:ubnd
+ff_11:ubnd
+ff_17:ubnd
+ff_21:ubnd
+ff_7:tp
+ff_9:tp
+ff_11:tp
+ff_10:trình
+ff_16:trình
+ff_21:xây
+ff_22:dựng
+ff_24:công
+ff_25:trình
+ff_27:xây
+ff_28:dựng
+ff_29:VERB__
+ff_7:điều
+ff_8:tra
+ff_11:tra
+ff_6:chưa
+ff_16:chưa
+ff_5:X__
+ff_6:X
+ff_10:tra
+ff_16:điều
+ff_17:tra
+ff_19:theo
+ff_6:sẽ
+ff_6:thứ
+ff_8:thứ
+ff_0:thứ
+ff_10:ba
+ff_12:ba
+ff_3:thứ
+ff_11:vụ
+ff_13:vụ
+ff_4:cán
+ff_5:bộ
+ff_9:vụ
+ff_15:cũng
+ff_16:để
+ff_8:đúng
+ff_12:đúng
+ff_8:hay
+ff_0:đặt
+ff_3:chủ
+ff_4:trương
+ff_0:chủ
+ff_1:trương
+ff_4:quyết
+ff_5:định
+ff_20:nghị
+ff_22:như
+ff_8:đề
+ff_9:nghị
+ff_11:như
+ff_16:đề
+ff_17:nghị
+ff_19:như
+ff_21:đề
+ff_22:nghị
+ff_24:như
+ff_12:như
+ff_13:CCONJ__
+ff_15:vay
+ff_19:vay
+ff_9:kế
+ff_10:hoạch
+ff_16:kế
+ff_17:hoạch
+ff_19:vốn
+ff_3:kế
+ff_4:hoạch
+ff_0:kế
+ff_1:hoạch
+ff_4:vay
+ff_9:năm
+ff_12:đây
+ff_18:đây
+ff_16:?
+ff_8:đây
+ff_14:đây
+ff_16:...
+ff_7:ông
+ff_9:ông
+ff_12:không
+ff_13:X_Polarity=Neg
+ff_9:ty
+ff_16:ty
+ff_17:cái
+ff_8:cơ
+ff_9:quan
+ff_15:một
+ff_11:trách
+ff_12:nhiệm
+ff_14:trách
+ff_15:nhiệm
+ff_17:có
+ff_7:trách
+ff_8:nhiệm
+ff_10:trách
+ff_11:nhiệm
+ff_13:trách
+ff_14:nhiệm
+ff_16:trách
+ff_17:nhiệm
+ff_0:trách
+ff_1:nhiệm
+ff_9:...
+ff_17:...
+ff_4:cho
+ff_15:bộ
+ff_15:ty
+ff_18:ty
+ff_14:từng
+ff_16:theo
+ff_20:vụ
+ff_8:chủ
+ff_9:trương
+ff_11:bộ
+ff_13:bộ
+ff_3:2
+ff_6:gần
+ff_8:thấy
+ff_15:cáo
+ff_17:mới
+ff_17:?
+ff_10:rõ
+ff_12:rõ
+ff_6:rõ
+ff_8:rõ
+ff_7:xin
+ff_9:xin
+ff_20:cho
+ff_7:cáo
+ff_9:bị
+ff_10:cáo
+ff_9:không
+ff_10:X_Polarity=Neg
+ff_13:không
+ff_14:X_Polarity=Neg
+ff_15:không
+ff_16:X_Polarity=Neg
+ff_19:không
+ff_20:X_Polarity=Neg
+ff_7:để
+ff_18:bị
+ff_19:cáo
+ff_10:riêng
+ff_12:riêng
+ff_6:riêng
+ff_8:riêng
+ff_8:...
+ff_8:chưa
+ff_10:xây
+ff_11:dựng
+ff_13:xây
+ff_14:dựng
+ff_9:đóng
+ff_3:đóng
+ff_0:đóng
+ff_13:theo
+ff_14:dõi
+ff_9:theo
+ff_10:dõi
+ff_15:dõi
+ff_14:cuộc
+ff_4:dõi
+ff_10:để
+ff_20:để
+ff_21:ADP__
+ff_17:để
+ff_14:ngày
+ff_8:tới
+ff_16:cứ
+ff_0:tới
+ff_3:hiện
+ff_10:thứ
+ff_12:thứ
+ff_12:nhất
+ff_3:đoàn
+ff_10:đoàn
+ff_0:đoàn
+ff_2:NP
+ff_6:cả
+ff_12:một
+ff_18:một
+ff_3:hay
+ff_7:tất
+ff_8:cả
+ff_10:tất
+ff_11:cả
+ff_12:DET__
+ff_21:như
+ff_22:CCONJ__
+ff_14:khác
+ff_8:hàng
+ff_14:hàng
+ff_6:ai
+ff_10:ông
+ff_12:nói
+ff_18:đưa
+ff_20:đưa
+ff_19:đi
+ff_21:lao
+ff_22:động
+ff_14:đưa
+ff_16:đưa
+ff_18:lao
+ff_19:động
+ff_21:đi
+ff_23:lao
+ff_24:động
+ff_4:đưa
+ff_18:làm
+ff_17:vào
+ff_12:lại
+ff_18:lại
+ff_8:lại
+ff_20:hôm
+ff_0:hôm
+ff_3:hôm
+ff_7:bị
+ff_17:bị
+ff_8:đều
+ff_0:thật
+ff_3:một
+ff_9:mình
+ff_17:tự
+ff_4:mất
+ff_16:cả
+ff_4:đứng
+ff_4:còn
+ff_7:tiền
+ff_11:tiền
+ff_17:tiền
+ff_21:tiền
+ff_4:về
+ff_15:thì
+ff_17:thì
+ff_12:để
+ff_18:để
+ff_14:để
+ff_9:trách
+ff_10:nhiệm
+ff_16:bỏ
+ff_18:bỏ
+ff_3:trách
+ff_4:nhiệm
+ff_7:mọi
+ff_17:mọi
+ff_7:sau
+ff_9:sau
+ff_3:10
+ff_0:ngay
+ff_6:ngay
+ff_14:trong
+ff_16:ngay
+ff_6:2
+ff_4:khi
+ff_8:đêm
+ff_10:từ
+ff_12:từ
+ff_0:đêm
+ff_6:số
+ff_16:tự
+ff_14:được
+ff_14:ăn
+ff_16:ăn
+ff_20:của
+ff_3:của
+ff_10:ai
+ff_12:ai
+ff_3:riêng
+ff_17:được
+ff_3:khiến
+ff_6:xảy
+ff_8:xảy
+ff_10:xảy
+ff_12:xảy
+ff_0:xảy
+ff_10:ra
+ff_12:ra
+ff_3:xảy
+ff_14:sự
+ff_14:số
+ff_16:từng
+ff_6:thật
+ff_16:thật
+ff_3:thật
+ff_8:là
+ff_9:AUX__
+ff_16:đây
+ff_6:tạm
+ff_8:tạm
+ff_10:tạm
+ff_12:tạm
+ff_0:tạm
+ff_8:giao
+ff_18:các
+ff_6:nói
+ff_10:nói
+ff_3:...
+ff_14:tạm
+ff_18:tạm
+ff_6:.
+ff_8:.
+ff_20:từ
+ff_18:.
+ff_20:.
+ff_16:.
+ff_20:PUNCT__
+ff_10:2
+ff_12:2
+ff_0:do
+ff_6:do
+ff_3:nguyên
+ff_10:vấn
+ff_13:vấn
+ff_8:ngay
+ff_6:vấn
+ff_7:đề
+ff_9:vấn
+ff_12:vấn
+ff_15:vấn
+ff_11:giao
+ff_14:giao
+ff_7:giao
+ff_16:giao
+ff_17:thông
+ff_10:nhỏ
+ff_20:vừa
+ff_16:vừa
+ff_19:giao
+ff_20:thông
+ff_24:giao
+ff_25:thông
+ff_16:ở
+ff_14:đầu
+ff_15:tư
+ff_18:tư
+ff_6:ngoài
+ff_16:ngoài
+ff_16:do
+ff_8:đầu
+ff_9:tư
+ff_15:đầu
+ff_16:tư
+ff_18:cho
+ff_4:nhà
+ff_0:khiến
+ff_0:quyết
+ff_1:định
+ff_8:kiện
+ff_17:nhà
+ff_19:điều
+ff_20:kiện
+ff_24:điều
+ff_25:kiện
+ff_18:đầu
+ff_19:tư
+ff_15:trình
+ff_18:trình
+ff_22:công
+ff_23:trình
+ff_26:VERB__
+ff_7:tư
+ff_3:phương
+ff_0:phương
+ff_4:cần
+ff_7:sao
+ff_9:thật
+ff_15:cho
+ff_3:khó
+ff_0:khó
+ff_16:sẽ
+ff_10:lớn
+ff_12:lớn
+ff_16:phương
+ff_17:án
+ff_20:ra
+ff_14:xảy
+ff_15:chủ
+ff_16:trương
+ff_3:đoạn
+ff_0:đoạn
+ff_10:dự
+ff_11:án
+ff_13:dự
+ff_14:án
+ff_9:dự
+ff_10:án
+ff_13:2
+ff_14:NUM_NumType=Card
+ff_19:2
+ff_20:NUM_NumType=Card
+ff_9:2
+ff_15:2
+ff_4:chủ
+ff_6:chủ
+ff_14:qua
+ff_21:giao
+ff_22:thông
+ff_18:giao
+ff_19:thông
+ff_23:giao
+ff_24:thông
+ff_14:ngay
+ff_10:tới
+ff_12:tới
+ff_8:thì
+ff_17:cứ
+ff_6:tới
+ff_18:X_Polarity=Neg
+ff_19:người
+ff_9:chủ
+ff_10:trương
+ff_16:chủ
+ff_17:trương
+ff_4:chính
+ff_5:sách
+ff_10:và
+ff_11:SCONJ__
+ff_10:chính
+ff_11:sách
+ff_13:.
+ff_7:vào
+ff_0:bà
+ff_1:con
+ff_3:bà
+ff_4:con
+ff_8:bà
+ff_9:con
+ff_15:bà
+ff_15:sách
+ff_17:điểm
+ff_4:điểm
+ff_7:số
+ff_18:số
+ff_14:chưa
+ff_6:thực
+ff_7:hiện
+ff_9:thực
+ff_10:hiện
+ff_7:chính
+ff_8:sách
+ff_13:chính
+ff_14:sách
+ff_17:sách
+ff_4:thực
+ff_5:hiện
+ff_15:còn
+ff_17:còn
+ff_5:trương
+ff_10:,
+ff_10:hai
+ff_12:hai
+ff_3:khác
+ff_7:sách
+ff_9:chính
+ff_10:sách
+ff_12:chính
+ff_13:sách
+ff_11:đây
+ff_13:đây
+ff_11:hơn
+ff_22:hơn
+ff_23:X__
+ff_7:hơn
+ff_19:hơn
+ff_23:hơn
+ff_24:X__
+ff_8:lần
+ff_14:lần
+ff_9:trước
+ff_7:đây
+ff_9:đây
+ff_20:rõ
+ff_16:rõ
+ff_11:cơ
+ff_12:quan
+ff_21:trách
+ff_22:nhiệm
+ff_24:cơ
+ff_25:quan
+ff_7:mỗi
+ff_9:mỗi
+ff_11:gì
+ff_19:để
+ff_21:gì
+ff_22:PROPN__
+ff_19:cơ
+ff_20:quan
+ff_7:gì
+ff_15:để
+ff_17:gì
+ff_9:sách
+ff_21:chính
+ff_22:sách
+ff_14:thực
+ff_15:hiện
+ff_21:thực
+ff_22:hiện
+ff_24:trách
+ff_25:nhiệm
+ff_10:các
+ff_11:DET__
+ff_12:trách
+ff_13:nhiệm
+ff_15:thực
+ff_16:hiện
+ff_22:thực
+ff_23:hiện
+ff_24:VERB__
+ff_25:trách
+ff_26:nhiệm
+ff_27:NOUN__
+ff_10:thực
+ff_11:hiện
+ff_16:thực
+ff_17:hiện
+ff_19:thực
+ff_20:hiện
+ff_22:trách
+ff_23:nhiệm
+ff_25:thực
+ff_26:hiện
+ff_27:VERB__
+ff_28:trách
+ff_29:nhiệm
+ff_30:NOUN__
+ff_7:mình
+ff_11:mình
+ff_13:mình
+ff_9:tốt
+ff_15:tốt
+ff_7:không
+ff_21:ngoài
+ff_10:ngoài
+ff_22:nước
+ff_23:ngoài
+ff_3:gì
+ff_10:chủ
+ff_11:trương
+ff_13:bà
+ff_20:bà
+ff_21:con
+ff_23:chủ
+ff_24:trương
+ff_7:trương
+ff_9:bà
+ff_16:bà
+ff_17:con
+ff_19:chủ
+ff_20:trương
+ff_14:thứ
+ff_16:thứ
+ff_8:trách
+ff_9:nhiệm
+ff_15:rõ
+ff_4:trách
+ff_5:nhiệm
+ff_18:đối
+ff_19:với
+ff_6:lần
+ff_13:bảo
+ff_14:vệ
+ff_15:trách
+ff_16:nhiệm
+ff_16:bảo
+ff_17:vệ
+ff_6:trách
+ff_7:nhiệm
+ff_7:tới
+ff_18:bà
+ff_19:con
+ff_10:của
+ff_14:nhóm
+ff_9:tiên
+ff_16:tiên
+ff_7:vấn
+ff_16:vấn
+ff_17:đề
+ff_5:tiên
+ff_6:ADJ__
+ff_7:ADJ
+ff_3:việt
+ff_4:kiều
+ff_11:tuổi
+ff_13:tuổi
+ff_0:việt
+ff_1:kiều
+ff_11:về
+ff_13:về
+ff_15:trẻ
+ff_17:trẻ
+ff_0:trẻ
+ff_7:tuổi
+ff_9:tuổi
+ff_3:trẻ
+ff_17:nhiều
+ff_3:tới
+ff_20:việc
+ff_22:việc
+ff_4:chỉ
+ff_3:chỉ
+ff_6:bà
+ff_7:con
+ff_12:bà
+ff_13:con
+ff_21:bà
+ff_22:con
+ff_24:đầu
+ff_25:tư
+ff_27:bà
+ff_28:con
+ff_29:NOUN__
+ff_19:về
+ff_9:,
+ff_10:trong
+ff_12:trong
+ff_9:trong
+ff_12:việc
+ff_14:tới
+ff_16:nhiều
+ff_20:lớn
+ff_11:lớn
+ff_21:lớn
+ff_16:lớn
+ff_19:bà
+ff_20:con
+ff_22:báo
+ff_18:báo
+ff_10:bà
+ff_11:con
+ff_10:học
+ff_18:đi
+ff_6:học
+ff_6:tiếng
+ff_10:tiếng
+ff_16:tiếng
+ff_20:tiếng
+ff_6:nhóm
+ff_16:nhóm
+ff_11:tin
+ff_13:tin
+ff_4:vấn
+ff_5:đề
+ff_18:và
+ff_19:SCONJ__
+ff_7:tin
+ff_9:tin
+ff_10:được
+ff_20:được
+ff_17:tại
+ff_15:có
+ff_16:thể
+ff_12:ông
+ff_21:nước
+ff_22:ngoài
+ff_7:ngoài
+ff_12:ngoài
+ff_18:nước
+ff_19:ngoài
+ff_24:ngoài
+ff_17:cũng
+ff_11:từng
+ff_13:từng
+ff_10:từng
+ff_12:từng
+ff_3:từng
+ff_4:để
+ff_14:bà
+ff_15:con
+ff_17:bà
+ff_18:con
+ff_22:bà
+ff_23:con
+ff_26:ADJ__
+ff_7:đến
+ff_17:đến
+ff_16:lần
+ff_0:nguyên
+ff_9:đâu
+ff_15:đâu
+ff_3:đâu
+ff_9:từ
+ff_14:-
+ff_6:khó
+ff_8:khó
+ff_13:PART__
+ff_16:này
+ff_8:kia
+ff_18:biết
+ff_20:đề
+ff_21:nghị
+ff_15:sẽ
+ff_17:sẽ
+ff_18:hơn
+ff_20:hơn
+ff_14:khi
+ff_17:tôi
+ff_14:...
+ff_14:thế
+ff_6:khác
+ff_10:khác
+ff_12:khác
+ff_16:tới
+ff_0:cần
+ff_10:đầu
+ff_11:tư
+ff_13:đầu
+ff_14:tư
+ff_12:đầu
+ff_13:tư
+ff_12:do
+ff_20:đường
+ff_8:do
+ff_3:do
+ff_12:tháng
+ff_18:nguyên
+ff_21:nguyên
+ff_4:nguyên
+ff_18:những
+ff_15:nguyên
+ff_7:AUX__
+ff_18:sự
+ff_9:mất
+ff_11:ngày
+ff_13:ngày
+ff_7:năm
+ff_9:thành
+ff_7:ta
+ff_9:ta
+ff_11:năm
+ff_13:năm
+ff_10:năm
+ff_17:chỉ
+ff_10:.
+ff_18:về
+ff_4:cuộc
+ff_20:lần
+ff_3:pháp
+ff_4:luật
+ff_22:tiêu
+ff_23:cực
+ff_24:ADJ__
+ff_13:xảy
+ff_19:cán
+ff_20:bộ
+ff_22:cán
+ff_23:bộ
+ff_9:xảy
+ff_18:cán
+ff_19:bộ
+ff_23:tiêu
+ff_24:cực
+ff_25:ADJ__
+ff_4:xảy
+ff_12:tổ
+ff_13:chức
+ff_19:tổ
+ff_20:chức
+ff_8:tổ
+ff_9:chức
+ff_13:tổ
+ff_14:chức
+ff_16:tổ
+ff_17:chức
+ff_21:tổ
+ff_22:chức
+ff_15:cao
+ff_17:cao
+ff_14:cấp
+ff_21:SCONJ__
+ff_16:SCONJ__
+ff_4:vốn
+ff_0:khai
+ff_1:thác
+ff_3:khai
+ff_4:thác
+ff_15:vốn
+ff_14:tổ
+ff_15:chức
+ff_17:lại
+ff_22:chính
+ff_23:sách
+ff_8:đối
+ff_9:với
+ff_11:có
+ff_19:các
+ff_21:đầu
+ff_22:tư
+ff_24:nước
+ff_25:ngoài
+ff_27:đầu
+ff_28:tư
+ff_19:chính
+ff_20:sách
+ff_15:-
+ff_17:-
+ff_2:;
+ff_14:tiêu
+ff_15:cực
+ff_17:tiêu
+ff_18:cực
+ff_8:tội
+ff_14:tội
+ff_0:tội
+ff_3:tội
+ff_14:khách
+ff_0:khách
+ff_14:lúc
+ff_16:lúc
+ff_14:tra
+ff_9:đã
+ff_11:điều
+ff_12:tra
+ff_15:tra
+ff_10:phía
+ff_12:phía
+ff_15:xảy
+ff_17:sau
+ff_4:tổ
+ff_5:chức
+ff_10:trên
+ff_12:trên
+ff_17:điều
+ff_18:tra
+ff_4:ở
+ff_15:khi
+ff_17:mình
+ff_11:bị
+ff_12:cáo
+ff_9:hai
+ff_3:cô
+ff_0:cô
+ff_14:gái
+ff_16:gái
+ff_6:cô
+ff_11:an
+ff_20:an
+ff_22:điều
+ff_23:tra
+ff_25:công
+ff_26:an
+ff_28:điều
+ff_29:tra
+ff_30:VERB__
+ff_8:nếu
+ff_9:tra
+ff_16:tra
+ff_18:ra
+ff_3:tin
+ff_10:nào
+ff_12:khi
+ff_20:nào
+ff_20:lại
+ff_12:ở
+ff_8:nhận
+ff_14:nhận
+ff_14:20
+ff_18:đồng
+ff_3:tạm
+ff_8:chỉ
+ff_13:tra
+ff_17:bộ
+ff_20:tra
+ff_22:bộ
+ff_25:tra
+ff_13:20
+ff_15:20
+ff_11:20
+ff_12:NUM_NumType=Card
+ff_7:20
+ff_9:20
+ff_4:phát
+ff_10:nhận
+ff_12:20
+ff_16:nhận
+ff_8:mang
+ff_12:mang
+ff_14:mang
+ff_18:mang
+ff_20:có
+ff_12:gần
+ff_9:gần
+ff_7:trên
+ff_9:trên
+ff_4:gọi
+ff_8:gần
+ff_6:g
+ff_8:g
+ff_10:g
+ff_12:g
+ff_3:g
+ff_0:g
+ff_14:sáng
+ff_12:chạy
+ff_20:hàng
+ff_8:chiếc
+ff_8:chạy
+ff_16:hàng
+ff_14:đoạn
+ff_16:đoạn
+ff_6:họ
+ff_10:họ
+ff_12:họ
+ff_11:gần
+ff_21:gần
+ff_18:chạy
+ff_6:tay
+ff_14:giấy
+ff_14:nhỏ
+ff_3:xe
+ff_6:chiếc
+ff_4:xe
+ff_14:xe
+ff_3:đêm
+ff_16:chiếc
+ff_20:thành
+ff_16:thành
+ff_14:từ
+ff_14:đêm
+ff_8:máy
+ff_3:máy
+ff_0:máy
+ff_3:khoảng
+ff_14:g
+ff_11:xe
+ff_13:xe
+ff_10:lần
+ff_12:lần
+ff_3:điện
+ff_4:thoại
+ff_7:qua
+ff_9:qua
+ff_15:và
+ff_14::
+ff_12:khó
+ff_14:khó
+ff_18:khó
+ff_4:lên
+ff_7:tối
+ff_9:tối
+ff_9:sáng
+ff_3:không
+ff_4:X_Polarity=Neg
+ff_12:thành
+ff_18:thành
+ff_20:sau
+ff_8:trẻ
+ff_14:trẻ
+ff_8:thành
+ff_14:thành
+ff_16:giấy
+ff_5:mặt
+ff_8:thám
+ff_9:tử
+ff_0:thám
+ff_1:tử
+ff_18:như
+ff_3:quay
+ff_0:quay
+ff_14:về
+ff_8:bạn
+ff_14:bạn
+ff_20:điều
+ff_21:kiện
+ff_0:tên
+ff_10:gọi
+ff_12:gọi
+ff_6:gọi
+ff_8:gọi
+ff_0:gọi
+ff_6:điện
+ff_10:điện
+ff_8:thật
+ff_11:thoại
+ff_21:điện
+ff_22:thoại
+ff_16:số
+ff_7:thoại
+ff_11:điện
+ff_12:thoại
+ff_18:điện
+ff_19:thoại
+ff_21:nhà
+ff_23:điện
+ff_24:thoại
+ff_4:số
+ff_14:điện
+ff_15:thoại
+ff_17:điện
+ff_18:thoại
+ff_20:kể
+ff_8:sang
+ff_14:sang
+ff_8:câu
+ff_9:chuyện
+ff_4:kể
+ff_20:đến
+ff_10:địa
+ff_11:chỉ
+ff_13:địa
+ff_6:địa
+ff_9:địa
+ff_10:chỉ
+ff_12:địa
+ff_13:chỉ
+ff_15:địa
+ff_0:địa
+ff_1:chỉ
+ff_11:số
+ff_13:số
+ff_3:địa
+ff_7:máy
+ff_11:máy
+ff_17:máy
+ff_19:này
+ff_21:máy
+ff_3:hạnh
+ff_7:mặt
+ff_10:mặt
+ff_7:bà
+ff_14:chạy
+ff_3:thôi
+ff_20:lúc
+ff_7:trước
+ff_17:trước
+ff_7:g
+ff_9:g
+ff_0:hạnh
+ff_20:nhà
+ff_6:hạnh
+ff_18:quán
+ff_20:quán
+ff_3:quán
+ff_0:quán
+ff_14:máy
+ff_8:vợ
+ff_0:vợ
+ff_3:vợ
+ff_6:vợ
+ff_0:đấy
+ff_21:INTJ__
+ff_10:vậy
+ff_11:PART__
+ff_12:vậy
+ff_6:vậy
+ff_12:em
+ff_11:ngay
+ff_12:PART__
+ff_21:ngay
+ff_22:PART__
+ff_4:sang
+ff_9:bán
+ff_15:bán
+ff_7:ngay
+ff_17:ngay
+ff_16:em
+ff_18:nhà
+ff_10:khi
+ff_6:nhìn
+ff_8:nhìn
+ff_10:nhìn
+ff_12:nhìn
+ff_6:thấy
+ff_10:thấy
+ff_12:thấy
+ff_0:ngồi
+ff_18:chồng
+ff_10:chồng
+ff_12:chồng
+ff_15:câu
+ff_16:chuyện
+ff_14:xin
+ff_15:trước
+ff_10:hàng
+ff_6:hàng
+ff_20:đặt
+ff_8:vấn
+ff_9:nhau
+ff_15:nhau
+ff_12:chủ
+ff_19:ai
+ff_21:ai
+ff_8:địa
+ff_9:chỉ
+ff_15:ai
+ff_17:ai
+ff_7:nhau
+ff_11:nhau
+ff_13:nhau
+ff_6:tìm
+ff_18:quan
+ff_19:hệ
+ff_21:quan
+ff_22:hệ
+ff_0:quan
+ff_1:hệ
+ff_19:nhau
+ff_3:quan
+ff_4:hệ
+ff_3:khách
+ff_14:tại
+ff_6:ấy
+ff_3:chị
+ff_10:trẻ
+ff_18:năm
+ff_6:đứa
+ff_8:ta
+ff_16:chị
+ff_14:vợ
+ff_16:vợ
+ff_18:gì
+ff_6:gái
+ff_10:gái
+ff_12:gái
+ff_3:nó
+ff_12:nó
+ff_18:nó
+ff_14:nó
+ff_4:trả
+ff_3:thám
+ff_4:tử
+ff_8:đặt
+ff_6:ống
+ff_8:ống
+ff_17:đội
+ff_3:Np
+ff_4:đội
+ff_18:qua
+ff_16:giờ
+ff_4:người
+ff_14:tìm
+ff_16:tìm
+ff_18:tìm
+ff_20:tìm
+ff_9:ống
+ff_15:đường
+ff_16:ống
+ff_4:ống
+ff_14:ống
+ff_13:ống
+ff_4:đến
+ff_11:phía
+ff_21:phía
+ff_7:phía
+ff_17:phía
+ff_6:sang
+ff_16:sang
+ff_12:ống
+ff_18:ống
+ff_6:đoạn
+ff_20:đó
+ff_8:dưới
+ff_19:dõi
+ff_21:theo
+ff_22:dõi
+ff_6:dùng
+ff_8:dùng
+ff_8:điểm
+ff_12:điểm
+ff_15:ống
+ff_16:cát
+ff_18:hai
+ff_4:bên
+ff_10:những
+ff_6:...
+ff_8:cát
+ff_7:dưới
+ff_0:phát
+ff_19:ống
+ff_8:tối
+ff_18:cơm
+ff_20:cơm
+ff_16:cơm
+ff_8:sáng
+ff_20:AUX__
+ff_22:NUM_NumType=Card
+ff_10:giờ
+ff_20:báo
+ff_6:tin
+ff_20::
+ff_11:khác
+ff_13:khác
+ff_7:khác
+ff_9:khác
+ff_9:hơn
+ff_15:ngày
+ff_17:ngày
+ff_16:qua
+ff_15:sau
+ff_9:ngày
+ff_19:tiên
+ff_16:phút
+ff_10:đưa
+ff_12:đưa
+ff_6:đưa
+ff_8:đoạn
+ff_6:mọi
+ff_3:chiếc
+ff_7:chiếc
+ff_13:chạy
+ff_19:chạy
+ff_8:giám
+ff_9:đốc
+ff_15:giám
+ff_16:đốc
+ff_20:chạy
+ff_3:giám
+ff_4:đốc
+ff_3:trên
+ff_8:sinh
+ff_3:tên
+ff_3:sinh
+ff_0:sinh
+ff_18:xóm
+ff_20:xóm
+ff_3:xóm
+ff_0:xóm
+ff_20:và
+ff_3:và
+ff_4:SCONJ__
+ff_5:SCONJ
+ff_11:việt
+ff_12:kiều
+ff_18:khoảng
+ff_14:khoảng
+ff_14:học
+ff_16:học
+ff_9:xóm
+ff_6:đều
+ff_16:đều
+ff_9:bên
+ff_15:bên
+ff_8:cháu
+ff_3:cháu
+ff_7:do
+ff_17:do
+ff_18:thứ
+ff_20:đây
+ff_7:tiếng
+ff_9:tiếng
+ff_9:thôi
+ff_10:PART__
+ff_13:thôi
+ff_14:PART__
+ff_17:nào
+ff_21:nào
+ff_3:nào
+ff_10:xóm
+ff_12:xóm
+ff_6:xóm
+ff_8:xóm
+ff_16:xóm
+ff_14:cô
+ff_16:cô
+ff_10:trước
+ff_12:trước
+ff_14:phía
+ff_3:đang
+ff_6:lúc
+ff_7:ngôi
+ff_9:ngôi
+ff_9:nào
+ff_15:nào
+ff_7:xóm
+ff_11:xóm
+ff_13:xóm
+ff_10:còn
+ff_8:ngôi
+ff_20:vn
+ff_3:vn
+ff_0:vn
+ff_12:đấy
+ff_8:đấy
+ff_14:cả
+ff_14:chủ
+ff_6:cứ
+ff_14:ở
+ff_9:gửi
+ff_10:bạn
+ff_18:đội
+ff_14:xóm
+ff_6:fax
+ff_10:fax
+ff_16:fax
+ff_20:fax
+ff_0:fax
+ff_17:ty
+ff_9:đặt
+ff_5:báo
+ff_18:đều
+ff_14:ty
+ff_22:ty
+ff_13:ty
+ff_4:kế
+ff_5:hoạch
+ff_15:gần
+ff_8:khiến
+ff_11:đó
+ff_13:đó
+ff_14:xuống
+ff_16:xuống
+ff_8:hãng
+ff_12:sang
+ff_18:sang
+ff_3:hãng
+ff_0:hãng
+ff_16:10
+ff_4:tạm
+ff_19:phương
+ff_11:mới
+ff_13:mới
+ff_7:mới
+ff_9:mới
+ff_13:...
+ff_19:kế
+ff_20:hoạch
+ff_22:đến
+ff_23:ADP__
+ff_6:lá
+ff_16:lá
+ff_11:thám
+ff_12:tử
+ff_14:thám
+ff_15:tử
+ff_7:thám
+ff_8:tử
+ff_10:thám
+ff_11:tử
+ff_13:thám
+ff_14:tử
+ff_16:thám
+ff_17:tử
+ff_16:đơn
+ff_3:fax
+ff_8:bằng
+ff_0:viết
+ff_8:fax
+ff_11:gửi
+ff_13:gửi
+ff_9:nơi
+ff_15:nơi
+ff_7:gửi
+ff_4:viết
+ff_9:ngoài
+ff_6:giám
+ff_7:đốc
+ff_7:đưa
+ff_9:đưa
+ff_11:đưa
+ff_13:đưa
+ff_10:giám
+ff_11:đốc
+ff_13:giám
+ff_14:đốc
+ff_9:giám
+ff_10:đốc
+ff_12:giám
+ff_13:đốc
+ff_18:chuyện
+ff_20:xảy
+ff_15:khác
+ff_8:lúc
+ff_6:cách
+ff_16:tên
+ff_16:trẻ
+ff_16:cùng
+ff_10:viết
+ff_12:viết
+ff_6:viết
+ff_8:viết
+ff_6:gửi
+ff_10:gửi
+ff_14:đơn
+ff_18:đơn
+ff_8:gửi
+ff_4:trong
+ff_11:từ
+ff_13:từ
+ff_7:fax
+ff_9:fax
+ff_13:điện
+ff_14:thoại
+ff_9:điện
+ff_10:thoại
+ff_12:điện
+ff_13:thoại
+ff_4:đường
+ff_16:máy
+ff_8:ngồi
+ff_14:ngồi
+ff_6:cuộc
+ff_14:fax
+ff_6:đặt
+ff_6:máy
+ff_10:máy
+ff_12:máy
+ff_12:số
+ff_16:điện
+ff_16:gọi
+ff_12:fax
+ff_4:dùng
+ff_9:máy
+ff_11:fax
+ff_13:fax
+ff_2:VP
+ff_10:sang
+ff_21:này
+ff_10:cuộc
+ff_12:cuộc
+ff_18:trên
+ff_20:gọi
+ff_9:dõi
+ff_15:theo
+ff_16:dõi
+ff_6:thư
+ff_10:thư
+ff_18:tiếng
+ff_3:thư
+ff_0:thư
+ff_14:sử
+ff_15:dụng
+ff_17:sử
+ff_18:dụng
+ff_4:phòng
+ff_6:phòng
+ff_4:điều
+ff_5:tra
+ff_9:an
+ff_12:an
+ff_4:nói
+ff_7:cơ
+ff_8:quan
+ff_18:đang
+ff_22:ra
+ff_15:vụ
+ff_17:vụ
+ff_19:ra
+ff_24:ra
+ff_11:người
+ff_9:cùng
+ff_11:kế
+ff_12:hoạch
+ff_14:kế
+ff_15:hoạch
+ff_9:phòng
+ff_15:phòng
+ff_7:kế
+ff_8:hoạch
+ff_10:kế
+ff_11:hoạch
+ff_13:kế
+ff_14:hoạch
+ff_16:mọi
+ff_6:hôm
+ff_8:hôm
+ff_10:sáng
+ff_20:làm
+ff_14:hãng
+ff_11:tổ
+ff_12:chức
+ff_7:tổ
+ff_8:chức
+ff_10:tổ
+ff_11:chức
+ff_4:phương
+ff_15:tổ
+ff_16:chức
+ff_10:tay
+ff_0:chết
+ff_6:bán
+ff_16:bán
+ff_6:hãng
+ff_3:này
+ff_3:chết
+ff_12:chết
+ff_18:chết
+ff_8:chết
+ff_14:chết
+ff_20:cuộc
+ff_22:cuộc
+ff_9:một
+ff_14:nguyên
+ff_17:nguyên
+ff_18:nhân
+ff_4:phần
+ff_6::
+ff_8:đóng
+ff_14:đóng
+ff_3::
+ff_18:máy
+ff_10:theo
+ff_6:nên
+ff_10:bán
+ff_12:bán
+ff_3:trai
+ff_0:trai
+ff_9:bằng
+ff_21:vào
+ff_6:chết
+ff_10:chết
+ff_16:chết
+ff_20:chết
+ff_4:địa
+ff_5:chỉ
+ff_3:với
+ff_8:quán
+ff_14:quán
+ff_6:bạn
+ff_6:mất
+ff_6:quán
+ff_8:?
+ff_14:sao
+ff_18:điểm
+ff_14:điểm
+ff_11:khi
+ff_19:,
+ff_21:khai
+ff_22:thác
+ff_16:nên
+ff_19:số
+ff_7:nhưng
+ff_12:nào
+ff_10:ấy
+ff_11:ấy
+ff_17:thám
+ff_18:tử
+ff_4:mang
+ff_12:ty
+ff_6:thám
+ff_7:tử
+ff_9:thám
+ff_10:tử
+ff_12:thám
+ff_13:tử
+ff_15:thám
+ff_16:tử
+ff_19:tên
+ff_21:tên
+ff_4:tên
+ff_18:bảo
+ff_19:vệ
+ff_23:bảo
+ff_24:vệ
+ff_26:</s>
+ff_20:bảo
+ff_21:vệ
+ff_6:khai
+ff_7:thác
+ff_9:khai
+ff_10:thác
+ff_17:khai
+ff_18:thác
+ff_9:thể
+ff_18:mới
+ff_12:sáng
+ff_20:g
+ff_9:mặt
+ff_10:chạy
+ff_6:chạy
+ff_15:tiền
+ff_4:quay
+ff_15:thể
+ff_10:kia
+ff_20:kia
+ff_6:kia
+ff_14:chuyện
+ff_14:trả
+ff_16:gia
+ff_17:đình
+ff_3:gái
+ff_12:...
+ff_20:tên
+ff_8:cô
+ff_17:địa
+ff_18:chỉ
+ff_11:dõi
+ff_7:dõi
+ff_12:theo
+ff_13:dõi
+ff_8:xem
+ff_16:xem
+ff_4:máy
+ff_18:điều
+ff_19:tra
+ff_9:cuộc
+ff_15:cuộc
+ff_4:gửi
+ff_18:nhiều
+ff_19:nhiều
+ff_21:hơn
+ff_6:mẹ
+ff_14:cho
+ff_16:mẹ
+ff_10:đấy
+ff_6:đấy
+ff_3:thế
+ff_18:trai
+ff_14:trai
+ff_8:trai
+ff_10:thế
+ff_12:cả
+ff_20:thế
+ff_14:gặp
+ff_18:nào
+ff_8:thế
+ff_14:đâu
+ff_16:đâu
+ff_16:cháu
+ff_16:mất
+ff_18:sau
+ff_10:nữa
+ff_12:nữa
+ff_20:thấy
+ff_14:nhìn
+ff_16:mỗi
+ff_16:thấy
+ff_8:bỏ
+ff_10:khó
+ff_12:xem
+ff_18:xem
+ff_20:tôi
+ff_14:xem
+ff_8::
+ff_12:được
+ff_20:sáng
+ff_20:xuống
+ff_7:chị
+ff_9:chị
+ff_6:câu
+ff_7:chuyện
+ff_17:hơn
+ff_14:mẹ
+ff_12:cơm
+ff_10:mẹ
+ff_20:mẹ
+ff_20:cũng
+ff_3:sao
+ff_14:chỗ
+ff_6:ngồi
+ff_10:tin
+ff_12:tin
+ff_6:trẻ
+ff_7:đứa
+ff_15:trai
+ff_17:trai
+ff_20:khi
+ff_7:mấy
+ff_17:mấy
+ff_9:người
+ff_16:trai
+ff_10:chuyện
+ff_12:chuyện
+ff_9:khi
+ff_15:vẫn
+ff_10:mà
+ff_12:mà
+ff_18:xuống
+ff_3:xuống
+ff_18:cuộc
+ff_10:tiên
+ff_11:"
+ff_15:trả
+ff_16:lời
+ff_22:"
+ff_23:PUNCT__
+ff_0:nam
+ff_3:nam
+ff_11:xem
+ff_13:xem
+ff_7:xem
+ff_9:xem
+ff_11:hệ
+ff_14:hệ
+ff_6:quan
+ff_7:hệ
+ff_10:hệ
+ff_13:hệ
+ff_15:quan
+ff_16:hệ
+ff_7:hay
+ff_13:gia
+ff_14:đình
+ff_18:cơ
+ff_19:quan
+ff_4:gia
+ff_5:đình
+ff_7:vì
+ff_15:chị
+ff_18:nhưng
+ff_11:địa
+ff_12:chỉ
+ff_22:địa
+ff_23:chỉ
+ff_21:địa
+ff_22:chỉ
+ff_18:địa
+ff_19:chỉ
+ff_21:anh
+ff_23:địa
+ff_24:chỉ
+ff_14:cơ
+ff_16:cơ
+ff_17:quan
+ff_15:anh
+ff_4:khách
+ff_10:khách
+ff_12:khách
+ff_6:khách
+ff_8:khách
+ff_14:bỏ
+ff_10:phòng
+ff_12:phòng
+ff_20:gái
+ff_19:thì
+ff_21:thông
+ff_19:địa
+ff_20:chỉ
+ff_20:địa
+ff_21:chỉ
+ff_12:còn
+ff_10:vợ
+ff_12:vợ
+ff_12:tiếng
+ff_12:ngồi
+ff_18:ngồi
+ff_12:nhận
+ff_6:tội
+ff_10:tội
+ff_12:tội
+ff_12:hệ
+ff_23:quan
+ff_24:hệ
+ff_4:tội
+ff_9:nay
+ff_17:năm
+ff_3:hai
+ff_16:nói
+ff_19:ty
+ff_21:hỏi
+ff_6:xem
+ff_20:dõi
+ff_22:này
+ff_23:PROPN__
+ff_18:dõi
+ff_20:này
+ff_22:theo
+ff_23:dõi
+ff_25:này
+ff_26:PROPN__
+ff_8:dõi
+ff_17:dõi
+ff_4:thám
+ff_5:tử
+ff_8:kế
+ff_9:hoạch
+ff_7:rất
+ff_17:rất
+ff_3:nhu
+ff_7:gia
+ff_8:đình
+ff_10:gia
+ff_11:đình
+ff_5:sống
+ff_15:sống
+ff_17:cuộc
+ff_18:sống
+ff_4:lấy
+ff_12:sao
+ff_18:sao
+ff_8:sao
+ff_13:an
+ff_16:an
+ff_16:sự
+ff_14:an
+ff_14:kể
+ff_12:cô
+ff_18:vay
+ff_14:vay
+ff_4:cô
+ff_17:gái
+ff_18:cao
+ff_14:cao
+ff_3:cao
+ff_14:tên
+ff_10:hôm
+ff_14:thấy
+ff_16:cao
+ff_20:cao
+ff_15:ngay
+ff_4:bạn
+ff_12:thế
+ff_16:sao
+ff_15:nhận
+ff_12:thêm
+ff_18:thêm
+ff_20:học
+ff_8:thêm
+ff_6:vẫn
+ff_4:tiên
+ff_16:nay
+ff_19:cùng
+ff_20:cùng
+ff_9:cả
+ff_0:phong
+ff_8:phong
+ff_14:phong
+ff_16:phong
+ff_20:rồi
+ff_3:rồi
+ff_14:liên
+ff_16:liên
+ff_3:liên
+ff_20:theo
+ff_20:nhận
+ff_6:cần
+ff_8:cần
+ff_9:đúng
+ff_11:giấy
+ff_13:giấy
+ff_6:tổ
+ff_7:chức
+ff_9:tổ
+ff_10:chức
+ff_4:ngày
+ff_7:10
+ff_9:nữa
+ff_15:nữa
+ff_17:10
+ff_0:nghe
+ff_7:vậy
+ff_9:vậy
+ff_10:khai
+ff_11:thác
+ff_13:khai
+ff_14:thác
+ff_4:khai
+ff_5:thác
+ff_14:chị
+ff_0:nhu
+ff_6:nhu
+ff_11:pháp
+ff_12:luật
+ff_8:nhu
+ff_10:bỏ
+ff_12:bỏ
+ff_6:bỏ
+ff_18:chị
+ff_11:chị
+ff_13:chị
+ff_18:thì
+ff_16:năm
+ff_6:nam
+ff_10:tối
+ff_12:tối
+ff_6:tối
+ff_9:thế
+ff_15:thế
+ff_17:giám
+ff_18:đốc
+ff_16:nó
+ff_9:câu
+ff_15:của
+ff_4:lan
+ff_0:lan
+ff_3:lan
+ff_10:ngay
+ff_20:ngay
+ff_8:tên
+ff_12:gì
+ff_18:lời
+ff_20:trước
+ff_14:gọi
+ff_18:chiếc
+ff_18:đó
+ff_16:hôm
+ff_10:rồi
+ff_12:rồi
+ff_18:mà
+ff_14:mà
+ff_14:và
+ff_15:SCONJ__
+ff_16:ngôi
+ff_10:phát
+ff_13:phát
+ff_14:hiện
+ff_6:phát
+ff_9:phát
+ff_12:phát
+ff_13:hiện
+ff_15:phát
+ff_8:hiện
+ff_18:nhất
+ff_7:khoảng
+ff_15:10
+ff_17:thoại
+ff_4:khó
+ff_6:phương
+ff_9:phương
+ff_12:phương
+ff_15:phương
+ff_11:một
+ff_13:một
+ff_10:phương
+ff_13:phương
+ff_18:rất
+ff_18:lần
+ff_10:ngôi
+ff_12:ngôi
+ff_3:ngôi
+ff_10:quán
+ff_16:quán
+ff_14:?
+ff_16:đấy
+ff_3:đấy
+ff_14:biết
+ff_6:nghe
+ff_8:nghe
+ff_7:ngày
+ff_7:nào
+ff_16:họ
+ff_14:tối
+ff_12:thư
+ff_14:thư
+ff_4:hôm
+ff_18:chúng
+ff_19:tôi
+ff_7:thư
+ff_9:thư
+ff_11:thư
+ff_13:thư
+ff_18:tin
+ff_3:mọi
+ff_18:thư
+ff_0:toàn
+ff_3:toàn
+ff_6:toàn
+ff_8:toàn
+ff_16:tin
+ff_10:thôi
+ff_12:thôi
+ff_3:ta
+ff_4:gặp
+ff_13:tất
+ff_9:tất
+ff_10:cả
+ff_12:tất
+ff_13:cả
+ff_15:tất
+ff_11:những
+ff_18:cách
+ff_14:cách
+ff_16:cách
+ff_9:được
+ff_8:thư
+ff_6:tên
+ff_14:hỏi
+ff_12:học
+ff_18:ngày
+ff_15:đến
+ff_12:trẻ
+ff_12:nhỏ
+ff_14:cháu
+ff_20:điện
+ff_7:bán
+ff_12:quán
+ff_12:,
+ff_4:thể
+ff_16:sống
+ff_13:nhất
+ff_14:X__
+ff_7:lúc
+ff_9:lúc
+ff_9:nhỏ
+ff_15:hết
+ff_18:mọi
+ff_20:mọi
+ff_14:nghe
+ff_11:đứa
+ff_13:đứa
+ff_9:đứa
+ff_10:đứa
+ff_20:trai
+ff_16:tháng
+ff_18:hệ
+ff_4:mọi
+ff_9:sẽ
+ff_12:lấy
+ff_8:lấy
+ff_16:lan
+ff_16:mình
+ff_4:bỏ
+ff_15:vợ
+ff_17:vợ
+ff_12:muốn
+ff_20:bỏ
+ff_11:bỏ
+ff_19:có
+ff_21:bỏ
+ff_6:kế
+ff_7:hoạch
+ff_6:thắng
+ff_8:thắng
+ff_3:thắng
+ff_0:thắng
+ff_9:chồng
+ff_15:lấy
+ff_17:lấy
+ff_14:lấy
+ff_8:quyết
+ff_9:định
+ff_15:quyết
+ff_16:định
+ff_7:họ
+ff_11:họ
+ff_13:họ
+ff_8:lan
+ff_11:sống
+ff_7:sống
+ff_13:sống
+ff_10:cô
+ff_20:cô
+ff_12:hỏi
+ff_8:hỏi
+ff_5:kiện
+ff_10:một
+ff_9:gì
+ff_10:em
+ff_20:em
+ff_15:tự
+ff_16:dự
+ff_15:kế
+ff_16:hoạch
+ff_15:trên
+ff_3:nhi
+ff_0:nhi
+ff_8:nhi
+ff_3:sông
+ff_0:sông
+ff_19:cát
+ff_21:cát
+ff_8:sông
+ff_11:khai
+ff_12:thác
+ff_20:cát
+ff_22:cát
+ff_18:cát
+ff_9:cát
+ff_15:cát
+ff_14:sông
+ff_7:khai
+ff_8:thác
+ff_10:khiến
+ff_12:khiến
+ff_14:khiến
+ff_7:sông
+ff_9:sông
+ff_11:sông
+ff_13:sông
+ff_22:vào
+ff_14:khai
+ff_15:thác
+ff_4:cát
+ff_10:cát
+ff_12:cát
+ff_6:cát
+ff_17:này
+ff_8:khai
+ff_9:thác
+ff_7:cát
+ff_3:cát
+ff_6:sông
+ff_16:sông
+ff_20:nơi
+ff_20:chiếc
+ff_18:khai
+ff_19:thác
+ff_7:thì
+ff_14:mất
+ff_12:khai
+ff_13:thác
+ff_15:khai
+ff_16:thác
+ff_20:thư
+ff_16:thư
+ff_10:nguyên
+ff_11:nhân
+ff_19:và
+ff_11:câu
+ff_18:câu
+ff_19:chuyện
+ff_23:câu
+ff_24:chuyện
+ff_18:tôi
+ff_20:các
+ff_11:các
+ff_15:thư
+ff_21:các
+ff_22:DET__
+ff_14:tự
+ff_16:tất
+ff_16:chạy
+ff_4:bình
+ff_3:bình
+ff_0:tuấn
+ff_3:tuấn
+ff_6:tuấn
+ff_6:muốn
+ff_11:bà
+ff_22:số
+ff_18:gia
+ff_19:đình
+ff_23:bà
+ff_7:nếu
+ff_22:điện
+ff_23:thoại
+ff_7:điện
+ff_8:thoại
+ff_19:điện
+ff_20:thoại
+ff_24:điện
+ff_25:thoại
+ff_12:đêm
+ff_18:đêm
+ff_12:là
+ff_13:ngoài
+ff_16:đóng
+ff_3:kia
+ff_13:người
+ff_21:người
+ff_8:nên
+ff_14:nên
+ff_18:vẫn
+ff_4:sử
+ff_5:dụng
+ff_12:tuấn
+ff_18:tuấn
+ff_8:tuấn
+ff_14:tuấn
+ff_16:gặp
+ff_11:được
+ff_9:thấy
+ff_7:nhiều
+ff_9:tuấn
+ff_15:tuấn
+ff_4:đóng
+ff_15:đi
+ff_17:đi
+ff_12:giờ
+ff_18:giờ
+ff_16:khách
+ff_14:tất
+ff_20:đầu
+ff_22:đầu
+ff_18:ba
+ff_20:thứ
+ff_10:tháng
+ff_6:tháng
+ff_7:khi
+ff_10:mất
+ff_12:mất
+ff_20:ngoài
+ff_11:sau
+ff_10:cơm
+ff_20:ăn
+ff_6:cơm
+ff_14:đúng
+ff_16:tối
+ff_23:NUM_NumType=Card
+ff_9:kiện
+ff_4:đồng
+ff_18:đã
+ff_20:đào
+ff_0:đào
+ff_3:đào
+ff_10:cùng
+ff_16:ấy
+28
+compound
+nsubj
+case
+nmod
+advmod
+obj
+amod
+punct
+xcomp
+conj
+appos
+cc
+nummod
+advcl
+det
+ccomp
+aux
+cop
+discourse
+iobj
+obl
+csubj
+parataxis
+dep
+mark
+aux:pass
+vocative
+list
+2243
+52 2 8
+1 3 -8
+296 4 5
+5 -24 -8
+2386 6 -8
+26 -6 7
+37 -24 -8
+2 9 1063
+5 10 208
+7 11 110
+8 12 49
+3 -1 13
+24 14 37
+12 15 35
+2630 -1 -1
+1133 17 18
+1 -4 -10
+3172 -2 19
+212 -3 20
+1800 21 22
+1 -14 -1
+972 -4 23
+3012 -2 24
+1 25 28
+1309 -1 26
+37 -1 27
+3307 -1 -1
+377 29 30
+254 -2 -1
+1104 31 32
+37 -1 -2
+1311 -1 33
+1217 34 -1
+37 -1 -1
+19 -2 36
+21 -4 -1
+13 38 48
+79 39 42
+12 40 -2
+37 -1 41
+1911 -1 -1
+4310 -11 43
+37 44 47
+4046 -2 45
+72 46 -1
+12 -1 -1
+50 -1 -1
+72 -2 -11
+12 -1 -1
+24 51 85
+33 52 60
+45 53 54
+15 -11 -16
+17 55 58
+37 56 -2
+1 57 -1
+748 -1 -1
+29 59 -1
+2676 -2 -16
+39 61 62
+9 -4 -11
+254 -10 63
+1 64 73
+1017 -11 65
+9 66 -1
+3117 -1 67
+151 -1 68
+58 -2 69
+3441 -1 70
+37 71 72
+28 -2 -1
+46 -2 -1
+1198 -11 74
+160 -4 75
+677 -4 76
+15 77 84
+258 -2 78
+897 -2 79
+1069 -1 80
+50 -4 81
+245 -4 82
+973 -4 83
+213 -1 -1
+9 -4 -2
+180 86 87
+9 -10 -23
+124 88 91
+29 -6 89
+363 -4 90
+2110 -4 -1
+28 92 -1
+9 93 -11
+37 94 -1
+1 95 -11
+16 96 -1
+72 -1 -1
+11 98 107
+109 -13 99
+1422 -4 100
+2466 -4 101
+28 -1 102
+140 103 -1
+33 -2 104
+1 -1 105
+9 106 -1
+162 -1 -2
+85 108 109
+19 -1 -11
+46 -10 -2
+39 111 146
+38 -4 112
+1127 -4 -4
+33 -4 114
+9 -14 115
+72 116 117
+37 -14 -14
+448 -14 -4
+1350 119 120
+373 -2 -14
+387 -1 121
+1624 -2 122
+1302 123 128
+79 -4 124
+151 -4 125
+255 -4 126
+24 -14 127
+37 -4 -14
+425 129 135
+12 130 -14
+605 -14 131
+1504 -14 132
+50 133 -4
+265 -14 134
+365 -4 -4
+45 -14 136
+258 -14 137
+1065 -14 138
+159 139 143
+1365 -14 140
+1512 -14 141
+648 142 -4
+9 -14 -4
+1247 -14 144
+958 145 -4
+9 -14 -4
+75 -10 147
+125 -10 148
+851 -10 149
+471 150 151
+955 -10 -10
+1421 -1 -1
+15 153 188
+56 154 158
+58 155 -9
+1 156 157
+2376 -4 -1
+205 -2 -4
+11 159 184
+1188 -11 160
+37 161 180
+959 -2 162
+215 163 167
+459 164 165
+45 -2 -1
+902 -1 166
+557 -2 -11
+58 -11 168
+2231 -2 169
+12 170 179
+147 171 173
+1 -10 172
+314 -6 -1
+3042 174 175
+16 -6 -2
+47 -6 176
+227 -2 177
+392 -2 178
+2634 -1 -1
+3 -2 -10
+124 -4 181
+245 -2 182
+848 -2 183
+1800 -2 -1
+65 185 186
+1 -2 -4
+713 -2 187
+916 -4 -1
+1261 189 190
+1250 -4 -14
+129 191 192
+1 -11 -10
+33 193 199
+156 -1 194
+29 195 196
+1 -1 -2
+24 197 -1
+1 198 -10
+28 -2 -10
+17 -10 200
+215 -4 201
+84 202 203
+1 -4 -23
+144 204 205
+1 -2 -4
+24 206 -23
+86 207 -1
+459 -1 -2
+39 209 291
+26 210 287
+313 -21 -21
+180 -11 212
+265 -20 213
+162 -20 214
+260 -20 215
+12 -21 216
+11 217 -21
+29 -21 -20
+381 -14 219
+1302 220 222
+151 -21 221
+2166 -21 -14
+1347 223 224
+9 -2 -14
+163 225 226
+7 -2 -21
+1127 227 235
+1 228 234
+131 -14 229
+69 -21 230
+158 -21 231
+11 232 -14
+37 233 -14
+24 -14 -14
+847 -14 -21
+261 236 243
+251 -14 237
+127 -14 238
+538 -14 239
+907 -14 240
+3168 -14 241
+16 242 -21
+37 -21 -21
+391 -14 244
+388 245 247
+29 -14 246
+278 -14 -21
+2318 248 250
+9 249 -21
+29 -14 -14
+129 251 256
+1 252 -21
+12 253 -14
+15 254 -14
+29 255 -21
+37 -14 -21
+22 257 284
+648 258 260
+15 259 -21
+12 -14 -21
+1262 261 262
+15 -14 -21
+65 -14 263
+179 -14 264
+298 -14 265
+480 -14 266
+954 -14 267
+995 -14 268
+1002 -14 269
+1 270 -21
+1209 -14 271
+1275 -14 272
+2518 -14 273
+413 274 275
+9 -14 -21
+58 276 279
+466 -14 277
+17 278 -21
+405 -14 -21
+450 280 281
+24 -21 -14
+1678 282 -21
+37 283 -21
+24 -21 -21
+11 285 286
+41 -21 -14
+346 -14 -21
+186 -4 -4
+260 -14 289
+419 -14 290
+536 -14 -4
+104 292 319
+369 293 297
+111 -4 294
+1094 -14 295
+3424 -14 296
+605 -14 -4
+106 298 314
+24 299 312
+84 300 309
+201 301 302
+87 -2 -1
+86 -1 -1
+191 -4 304
+867 -4 305
+1217 306 307
+181 -1 -2
+1072 308 -1
+83 -2 -1
+87 310 311
+1 -11 -4
+13 -10 -1
+624 -11 313
+3136 -11 -1
+210 -4 315
+1182 316 317
+24 -10 -28
+282 -10 318
+1274 -10 -1
+242 320 326
+54 -4 -4
+493 -25 322
+1141 323 324
+1 -1 -4
+2473 -2 325
+3013 -2 -4
+72 327 402
+369 328 329
+13 -4 -21
+2893 330 331
+11 -27 -1
+58 -6 332
+4242 -2 -2
+9 -14 -16
+26 335 392
+2493 -16 336
+3712 -21 337
+65 -2 338
+840 339 341
+2634 -2 340
+7 -6 -6
+86 -6 342
+493 343 345
+1312 -2 344
+7 -6 -2
+1262 346 347
+7 -2 -6
+37 348 362
+300 -6 349
+394 -6 350
+1794 -6 351
+11 352 -2
+16 353 -2
+1312 354 355
+12 -2 -2
+1 356 -2
+30 -2 357
+8 358 359
+12 -2 -2
+12 360 361
+7 -2 -2
+7 -6 -2
+995 363 364
+12 -6 -2
+1254 -2 365
+46 -6 366
+341 -6 367
+912 -6 368
+1186 -6 369
+804 370 371
+7 -6 -2
+11 372 -2
+1269 373 374
+7 -6 -2
+287 375 377
+28 -2 376
+12 -6 -2
+379 -2 378
+1861 -2 379
+1651 380 381
+12 -2 -2
+569 -2 382
+69 383 385
+12 -2 384
+7 -6 -2
+466 386 388
+7 387 -2
+156 -2 -2
+900 389 390
+1312 -6 -2
+572 391 -2
+28 -2 -2
+2155 -11 393
+2634 -6 394
+87 395 399
+962 -2 396
+3305 -2 397
+1686 -2 398
+878 -2 -6
+8 400 -2
+37 401 -2
+11 -2 -2
+369 403 416
+192 404 414
+707 -21 -21
+1356 -21 -20
+1293 -14 407
+466 408 409
+1096 -21 -14
+110 410 411
+485 -21 -14
+2183 -14 412
+1096 413 -21
+84 -14 -21
+85 415 -4
+1 -6 -14
+1253 417 421
+56 -23 418
+12 -16 419
+1 -23 420
+7 -21 -16
+26 422 930
+3 423 432
+8 424 425
+15 -1 -9
+215 -6 426
+12 427 430
+259 -6 428
+1134 429 -2
+9 -2 -2
+58 -6 431
+156 -2 -6
+677 433 440
+912 -14 434
+8 -6 435
+28 -6 436
+13 437 439
+30 -6 438
+2479 -6 -21
+19 -6 -21
+973 441 443
+158 -21 442
+140 -21 -6
+908 444 454
+129 -21 -21
+28 -1 446
+47 -6 -2
+37 448 452
+17 449 -6
+56 -6 450
+144 -6 451
+557 -6 -21
+11 453 -6
+330 -6 -21
+905 455 456
+9 -26 -16
+956 457 458
+75 -10 -16
+2423 -21 459
+3099 -21 460
+254 461 467
+12 462 -2
+131 -6 463
+287 -6 464
+1594 -6 465
+37 466 -2
+7 -2 -2
+14 468 830
+8 469 549
+1 470 516
+745 -6 471
+572 472 473
+24 -2 -2
+1594 -21 474
+1376 -2 475
+1347 -6 476
+466 -6 477
+287 -6 478
+326 -6 479
+1011 -6 480
+37 481 483
+79 -6 -6
+24 -6 -6
+876 -6 484
+2486 -2 485
+569 -2 486
+952 -6 487
+54 -2 488
+504 -2 489
+872 -2 490
+900 -2 491
+744 -6 492
+804 -6 493
+1262 -6 494
+1408 -6 495
+503 -2 496
+560 -2 497
+982 -2 498
+1541 -2 499
+1944 -2 500
+2576 -2 501
+25 -6 502
+1370 -6 503
+1679 -6 504
+2379 -6 505
+2478 -6 506
+3865 -6 507
+1245 -6 508
+847 -2 509
+927 -6 -6
+24 511 515
+995 -6 512
+153 -6 513
+379 -6 514
+493 -6 -2
+995 -2 -6
+1217 517 518
+466 -6 -2
+1311 519 520
+37 -2 -2
+2630 521 522
+1651 -6 -2
+541 -2 523
+378 524 526
+37 -6 525
+493 -6 -2
+492 527 528
+37 -6 -2
+913 529 530
+1129 -2 -21
+889 531 532
+37 -6 -21
+3244 533 534
+1861 -6 -2
+894 535 536
+466 -6 -2
+872 -2 537
+605 538 540
+2362 -2 539
+37 -6 -6
+1504 -2 541
+3039 -2 542
+426 543 544
+37 -2 -6
+265 545 547
+466 -2 546
+37 -6 -6
+1188 548 -6
+37 -2 -6
+17 550 753
+213 551 554
+29 -21 -21
+459 553 -21
+599 -21 -6
+916 555 558
+45 -2 556
+1 -21 -21
+173 -21 -6
+1801 559 563
+9 -6 -6
+37 561 562
+11 -14 -21
+28 -21 -2
+902 -6 564
+124 565 567
+9 -6 566
+442 -6 -21
+33 568 591
+37 569 583
+9 -2 -2
+15 571 -21
+1 572 -2
+47 -6 573
+144 -6 574
+159 -6 575
+380 -6 576
+28 -2 -2
+644 -14 578
+910 -16 579
+46 -2 580
+76 -2 581
+162 -2 582
+1383 -2 -6
+422 -21 584
+473 -16 585
+1679 586 587
+1 -14 -6
+245 -2 588
+365 -2 589
+995 -2 590
+1861 -2 -6
+251 592 595
+215 -21 593
+15 594 -2
+46 -21 -6
+1254 596 597
+1 -14 -2
+471 598 599
+1 -21 -10
+75 -10 600
+246 601 603
+37 -6 -6
+62 -21 -6
+767 604 605
+37 -6 -6
+563 -14 606
+157 607 608
+2466 -21 -2
+718 -6 609
+897 -6 610
+1243 -6 611
+648 612 614
+9 613 -2
+37 -2 -2
+163 -21 615
+396 -21 616
+569 -21 617
+944 -21 618
+215 619 641
+7 620 632
+466 -6 621
+1 622 627
+69 -21 623
+1240 -21 624
+16 625 -2
+37 626 -2
+24 -21 -2
+949 -21 628
+744 -6 629
+1329 -6 630
+37 631 -2
+16 -2 -2
+45 633 635
+16 634 -6
+214 -6 -2
+557 -2 636
+1311 -2 637
+2362 -2 638
+460 639 -6
+2630 -6 -6
+1 -2 -6
+980 -21 642
+1208 -21 643
+2895 -21 644
+1 645 711
+380 -6 646
+520 -6 647
+493 -2 648
+840 -6 649
+1052 -6 650
+1497 -6 651
+1630 -6 652
+9 653 678
+56 654 660
+379 -6 -6
+69 -2 656
+1245 -2 657
+37 658 659
+16 -6 -6
+949 -2 -6
+7 661 -6
+25 -6 662
+153 -6 663
+413 -6 664
+847 -6 665
+927 -6 666
+952 -6 667
+37 668 675
+47 669 670
+16 -6 -2
+245 -2 671
+158 -2 672
+46 673 674
+29 -2 -2
+16 -2 -2
+1209 -2 -2
+3165 -6 677
+858 -2 -2
+56 -2 679
+65 -2 680
+340 -2 681
+465 -2 682
+144 -6 683
+145 -2 684
+844 -2 685
+1548 -2 686
+2675 -2 687
+81 -6 688
+127 -6 689
+175 -6 690
+390 -6 691
+46 -2 692
+459 -6 693
+537 -6 694
+719 -6 695
+876 -6 696
+1269 -6 697
+1861 -6 698
+1885 -6 699
+2294 -6 700
+3103 -6 701
+3243 -6 702
+307 703 705
+326 -2 704
+912 -6 -2
+37 706 710
+228 -2 -2
+1132 -6 708
+1290 -2 709
+1689 -2 -2
+16 -2 -6
+7 -2 -2
+2630 -2 713
+24 714 -2
+314 -2 715
+379 -2 716
+382 -2 717
+1679 -2 718
+37 719 730
+9 720 -6
+260 -6 721
+458 -6 722
+1239 -6 723
+2110 -6 724
+2466 -6 725
+3626 -6 726
+45 727 729
+28 -2 728
+46 -6 -2
+1234 -2 -2
+32 -2 731
+808 -2 732
+840 -2 733
+45 734 -6
+9 -2 -6
+9 -6 736
+65 -6 737
+287 -6 738
+313 -6 739
+228 740 743
+227 -2 741
+265 -2 742
+493 -2 -6
+323 -6 744
+837 -6 745
+1019 -6 746
+1061 -6 747
+1129 -6 748
+1512 -6 749
+1238 750 751
+37 -6 -2
+265 752 -2
+488 -6 -2
+1261 754 757
+1 755 756
+24 -14 -21
+7 -2 -10
+471 758 760
+7 -16 759
+15 -10 -6
+889 761 762
+9 -6 -21
+393 -21 763
+572 -26 764
+28 765 784
+37 766 776
+175 -6 767
+160 -6 768
+230 -6 769
+58 770 772
+1 771 -6
+461 -6 -2
+1774 -6 773
+340 774 -2
+158 -2 775
+1 -6 -2
+47 -6 777
+58 -6 778
+230 -6 779
+29 780 -2
+424 -6 781
+9 782 783
+260 -2 -6
+465 -6 -2
+56 -2 785
+228 -21 786
+1208 -21 787
+1592 -21 788
+1254 -2 789
+3122 -2 790
+341 791 793
+32 -2 792
+215 -2 -6
+157 -6 -6
+173 -2 795
+260 -2 796
+294 -2 797
+378 -2 798
+453 -2 799
+620 -2 800
+644 -2 801
+849 -2 802
+876 -2 803
+907 -2 804
+959 -2 805
+1311 -2 806
+2114 -2 807
+3039 -2 808
+54 809 810
+47 -6 -2
+58 -6 811
+262 -2 812
+520 -2 813
+144 -6 814
+47 815 819
+45 -2 816
+1542 -2 817
+465 818 -6
+37 -2 -6
+1 820 -6
+960 821 822
+7 -2 -6
+1507 823 824
+131 -6 -2
+1262 825 826
+131 -2 -6
+76 827 828
+37 -6 -6
+252 829 -6
+37 -2 -6
+8 831 843
+4080 -1 832
+1416 -21 833
+1245 834 835
+1 -21 -6
+335 -6 836
+69 -21 837
+879 -21 838
+1595 -2 -2
+67 840 -2
+37 841 -2
+1 842 -2
+156 -2 -2
+145 844 853
+314 -14 845
+11 846 850
+140 -2 847
+9 848 -2
+144 -2 849
+605 -2 -6
+279 -2 -2
+16 852 -6
+259 -6 -21
+215 854 861
+440 -6 855
+85 -6 856
+180 -2 -2
+1 -6 -21
+58 -21 859
+252 -6 860
+1198 -6 -2
+370 862 865
+271 -6 863
+297 -6 864
+459 -6 -2
+158 866 872
+304 -6 867
+140 -2 868
+18 869 -2
+15 870 -21
+37 -21 871
+746 -21 -2
+276 873 876
+85 874 875
+32 -6 -23
+29 -2 -21
+3661 -21 877
+304 -2 878
+1110 -14 879
+20 880 911
+32 881 882
+65 -2 -2
+159 -2 883
+45 -6 -6
+56 -2 885
+16 -6 -2
+648 887 888
+11 -6 -2
+76 -2 889
+162 -2 890
+569 -2 891
+859 -2 892
+953 -2 893
+1438 -2 894
+2250 -2 895
+69 896 897
+28 -2 -6
+324 898 899
+1 -2 -6
+597 900 901
+11 -2 -6
+894 902 903
+7 -2 -6
+1594 904 905
+13 -2 -6
+3104 906 907
+11 -2 -6
+1436 908 909
+7 -2 -6
+67 910 -6
+29 -2 -6
+16 912 916
+719 -14 913
+1 -2 914
+11 -2 -2
+23 -2 -6
+3155 -2 917
+3833 -2 918
+109 919 920
+25 -6 -2
+931 921 922
+30 -2 -6
+335 923 925
+7 -6 -6
+287 -2 -6
+79 -2 926
+271 -2 927
+3342 -2 928
+804 929 -6
+1 -2 -6
+192 931 974
+203 932 935
+83 933 934
+1 -16 -2
+3 -1 -6
+466 936 939
+387 -14 937
+1 -2 938
+107 -2 -21
+814 940 941
+24 -6 -8
+1293 942 945
+677 943 944
+58 -21 -6
+417 -21 -2
+1135 -2 946
+96 947 973
+678 948 953
+365 -6 949
+84 950 -14
+271 -21 951
+107 952 -2
+86 -2 -2
+616 -21 954
+1332 -21 955
+1145 -14 956
+878 -2 957
+1356 -2 958
+3 -2 959
+1262 960 962
+85 -2 961
+1 -6 -6
+201 -6 963
+1931 -6 964
+97 -2 965
+276 966 967
+83 -6 -2
+83 -2 968
+24 969 -2
+107 970 -6
+254 -2 971
+1046 -2 972
+3305 -2 -6
+107 -21 -6
+165 975 1049
+158 976 980
+37 977 -6
+41 -4 978
+973 -4 979
+978 -4 -2
+251 981 982
+12 -14 -4
+3 -1 983
+8 984 1001
+13 985 -1
+1239 -1 986
+662 -4 987
+3066 -2 988
+254 -2 989
+321 -6 990
+2066 -6 991
+1 992 995
+37 -6 -6
+24 -6 -6
+3990 -6 -2
+11 996 -2
+378 -2 997
+3039 -2 998
+1774 -2 999
+2630 -2 1000
+45 -6 -6
+677 1002 1003
+4123 -4 -6
+1759 -4 1004
+938 -6 1005
+46 1006 1011
+16 -6 -6
+1 1008 1009
+7 -2 -2
+321 -6 1010
+45 -2 -6
+14 1012 1044
+215 1013 1018
+160 -2 1014
+305 -2 1015
+902 -2 1016
+1 1017 -6
+9 -6 -6
+1352 -6 1019
+159 -2 1020
+340 -2 1021
+648 -2 1022
+179 -6 1023
+245 -6 1024
+265 -6 1025
+605 -6 1026
+716 -6 1027
+7 1028 1041
+37 1029 -2
+151 -2 -2
+597 -6 1031
+1809 -6 1032
+3513 -6 1033
+9 1034 -2
+28 1035 1038
+1 1036 -2
+32 -6 1037
+16 -2 -2
+45 -6 1039
+56 1040 -2
+1 -2 -2
+879 -6 1042
+2660 -6 1043
+3457 -6 -2
+45 -6 -6
+65 1046 1048
+29 -2 1047
+470 -2 -6
+245 -2 -6
+183 1050 1051
+8 -1 -10
+8 1052 1057
+11 1053 1056
+1829 1054 1055
+37 -24 -6
+834 -4 -2
+65 -2 -1
+1829 1058 1060
+9 1059 -4
+12 -2 -4
+84 -2 -2
+106 -6 -4
+33 -6 -2
+61 1064 1643
+8 1065 1119
+60 1066 -18
+199 1067 1073
+37 1068 1070
+12 1069 -17
+26 -17 -17
+1347 -16 1071
+69 1072 -17
+30 -17 -16
+805 1074 1077
+37 1075 -26
+12 1076 -26
+26 -26 -26
+846 -26 1078
+26 1079 1111
+12 1080 1108
+324 1081 1082
+59 -23 -9
+493 1083 1084
+855 -20 -9
+1 1085 1095
+1262 -16 1086
+1347 -16 1087
+2486 -16 1088
+504 -9 1089
+1245 -9 1090
+1651 -9 1091
+37 -9 1092
+466 -9 1093
+804 -9 1094
+69 -9 -9
+877 -16 1096
+881 -16 1097
+1652 -16 1098
+2095 1099 1101
+69 -16 1100
+37 -9 -9
+59 1102 1104
+1651 -9 1103
+37 -9 -9
+1390 1105 1106
+69 -16 -9
+483 1107 -9
+37 -9 -9
+15 1109 1110
+301 -14 -16
+17 -25 -9
+242 -25 1112
+1977 -14 1113
+682 1114 1115
+1 -9 -9
+165 1116 -9
+1 1117 -9
+37 1118 -9
+12 -9 -9
+14 1120 1434
+75 -10 1121
+125 -10 1122
+26 1123 1335
+471 1124 1140
+7 1125 1129
+1 -16 -16
+15 -14 -23
+473 1128 -16
+9 -10 -26
+1421 -10 -10
+15 -16 1131
+29 1132 -10
+1 -26 -16
+1441 1134 1136
+1 1135 -16
+47 -14 -10
+493 -16 1137
+148 -23 1138
+2102 1139 -10
+1 -23 -10
+39 1141 1157
+1946 1142 1144
+37 -25 -25
+15 -16 -25
+522 -23 1145
+313 1146 1147
+1 -25 -16
+473 -16 -16
+9 -14 -25
+330 -14 1150
+41 1151 1155
+37 1152 1153
+2518 -16 -21
+467 1154 -14
+9 -21 -16
+16 -21 1156
+19 -16 -14
+16 -16 -16
+806 1159 1161
+1594 -14 1160
+1734 -14 -22
+1 1162 1189
+37 1163 1173
+1312 -27 1164
+910 -23 1165
+1248 -10 1166
+28 1167 1170
+3466 -14 1168
+7 -16 1169
+340 -16 -16
+56 -10 1171
+513 -14 1172
+562 -14 -16
+1542 1174 1176
+1132 -16 1175
+1421 -9 -23
+1011 -6 1177
+1861 -23 1178
+2478 -23 1179
+569 -14 1180
+1376 1181 1182
+7 -14 -14
+7 1183 1187
+287 -22 1184
+900 -14 1185
+2379 -14 1186
+3165 -14 -16
+340 -22 1188
+1579 -22 -16
+569 -14 1190
+292 1191 1192
+37 -25 -16
+222 -20 1193
+2478 -20 1194
+759 -22 1195
+1131 -22 1196
+726 -10 1197
+988 -10 1198
+1368 1199 1200
+69 -10 -16
+573 1201 1202
+7 -23 -14
+174 -23 1203
+891 -23 1204
+2085 1205 1206
+37 -23 -16
+899 1207 1208
+2399 -16 -14
+597 -21 1209
+599 -21 1210
+918 -21 1211
+1578 -21 1212
+2378 -21 1213
+1314 1214 1215
+37 -16 -14
+56 -16 1216
+400 -14 1217
+424 -14 1218
+840 -14 1219
+877 -14 1220
+1268 -14 1221
+1390 -14 1222
+1477 -14 1223
+3509 -14 1224
+4075 -14 1225
+7 1226 -16
+412 -14 1227
+46 1228 1229
+37 -16 -14
+219 1230 -16
+37 -14 -16
+1662 -9 1232
+28 1233 1291
+1 1234 1263
+37 1235 1251
+905 -26 1236
+160 -26 1237
+47 1238 1239
+9 -21 -16
+340 -16 1240
+15 -23 1241
+9 1242 1243
+32 -23 -16
+516 -23 1244
+151 -23 1245
+33 1246 -16
+58 -23 1247
+32 -23 1248
+246 -23 1249
+7 1250 -16
+77 -16 -23
+1117 -9 1252
+516 1253 1254
+9 -16 -23
+1229 -14 1255
+3787 -14 1256
+180 -23 1257
+473 -23 1258
+550 -23 1259
+159 1260 1262
+9 1261 -16
+1312 -16 -23
+952 -23 -16
+7 1264 1280
+17 1265 1273
+58 1266 1268
+33 1267 -23
+320 -23 -16
+2247 -23 1269
+262 -22 1270
+384 -22 1271
+912 -22 1272
+928 -22 -16
+572 -16 1274
+151 -16 1275
+9 1276 1277
+330 -16 -23
+32 -16 1278
+37 -23 1279
+57 -23 -16
+174 -6 1281
+246 -23 1282
+1218 -23 1283
+58 1284 1286
+1312 -16 1285
+473 -16 -23
+32 -16 1287
+19 1288 -23
+147 -23 1289
+162 -23 1290
+329 -23 -16
+229 1292 1297
+807 1293 1294
+246 -23 -16
+179 -16 1295
+466 -16 1296
+2469 -16 -23
+56 1298 1299
+547 -23 -16
+7 1300 1308
+1 1301 1304
+9 1302 1303
+15 -16 -14
+145 -2 -23
+58 -14 1305
+384 -10 1306
+467 -14 1307
+1069 -23 -16
+32 1309 1320
+37 1310 1315
+467 1311 1314
+245 1312 -16
+9 -23 1313
+830 -22 -21
+46 -14 -16
+9 1316 1319
+1 1317 1318
+17 -16 -14
+25 -21 -25
+467 -20 -23
+905 1321 1322
+1 -26 -23
+29 1323 1326
+159 1324 1325
+9 -23 -21
+608 -16 -10
+330 1327 1328
+9 -16 -23
+1941 -22 1329
+1942 -9 1330
+1546 -10 1331
+245 -16 1332
+160 -10 1333
+523 -16 1334
+9 -16 -10
+18 1336 1375
+165 1337 1347
+1 -9 -9
+1312 -27 1339
+39 -4 1340
+471 -10 1341
+488 -23 1342
+56 1343 -9
+37 -23 -9
+7 -22 1345
+59 -23 1346
+2059 -9 -14
+28 1348 1364
+682 -16 1349
+2634 1350 1351
+5 -16 -25
+68 -22 1352
+1312 1353 1354
+37 -27 -9
+1381 -10 1355
+645 1356 1357
+37 -10 -9
+1390 -14 1358
+634 -16 1359
+814 -16 1360
+972 -16 1361
+7 1362 -9
+37 1363 -9
+1 -9 -9
+307 -16 1365
+345 -22 1366
+2378 -4 1367
+39 1368 1370
+1 1369 -9
+50 -9 -25
+46 1371 1373
+37 -9 -9
+1 -25 -23
+467 -9 1374
+468 -9 -9
+28 1376 1399
+5 -16 -16
+467 1378 1381
+7 1379 -23
+17 -9 1380
+32 -11 -16
+255 -22 1382
+174 -23 1383
+634 -23 1384
+9 -16 1385
+50 -9 1386
+37 1387 -16
+32 -9 1388
+292 -9 1389
+3373 -9 -16
+54 -25 1391
+7 1392 1396
+1 1393 -16
+17 1394 -23
+29 -23 1395
+151 -16 -14
+1 -9 1397
+32 -14 1398
+58 -4 -23
+471 1400 1402
+32 -16 1401
+7 -16 -10
+39 1403 1410
+41 1404 1406
+5 -25 -25
+1 -4 -25
+15 -9 -9
+17 1408 -23
+1 -14 -16
+1 -9 -25
+1941 1411 1414
+245 -9 -9
+9 1413 -9
+5 -26 -14
+54 -25 1415
+9 1416 1422
+524 1417 1418
+1 -10 -16
+4 -16 1419
+445 -4 1420
+910 1421 -9
+1 -9 -9
+7 1423 1427
+5 1424 1425
+15 -10 -9
+1 -16 -16
+15 -23 -16
+192 -16 1428
+229 1429 1430
+58 -23 -16
+17 -9 -9
+5 -16 -9
+455 -16 1433
+559 -23 -9
+107 1435 1442
+60 1436 -18
+1 1437 1439
+86 1438 -16
+962 -16 -9
+192 1440 1441
+199 -17 -26
+181 -25 -9
+242 1443 1444
+75 -10 -25
+16 1445 1491
+5 1446 1455
+389 -22 1447
+837 -16 1448
+2402 -16 1449
+1368 1450 1452
+37 1451 -9
+7 -25 -9
+682 1453 -9
+1 1454 -9
+7 -9 -9
+13 1456 1481
+7 1457 1475
+11 1458 1474
+471 1459 1460
+37 -14 -23
+840 1461 1462
+28 -23 -16
+834 -10 1463
+37 1464 1472
+384 -9 -9
+26 1466 1471
+140 1467 1468
+1 -9 -9
+28 -16 1469
+467 1470 -9
+56 -16 -9
+1 -16 -9
+847 -14 1473
+1408 -16 -9
+26 -23 -14
+69 -14 -14
+46 -21 1477
+466 -6 1478
+1 1479 1480
+65 -16 -14
+855 -14 -16
+7 1482 1485
+28 -16 -16
+11 -21 -22
+46 -25 -16
+11 1486 1487
+28 -16 -16
+385 -22 1488
+302 1489 1490
+158 -9 -16
+158 -22 -9
+75 1492 1493
+335 -9 -10
+125 -10 1494
+87 1495 1547
+192 -16 -16
+106 1497 1501
+616 1498 1499
+1 -23 -21
+198 -22 1500
+283 -10 -16
+201 1502 1504
+1 -21 1503
+84 -16 -26
+110 1505 1507
+1 1506 -14
+83 -14 -10
+84 -10 1508
+282 -10 1509
+1181 -10 -16
+110 1511 1513
+104 1512 -16
+1390 -14 -9
+471 -10 1514
+39 1515 1516
+33 -21 -25
+369 1517 1519
+21 -4 1518
+1 -25 -16
+56 1520 1521
+69 -16 -9
+1771 1522 1524
+26 1523 -10
+1 -16 -22
+26 1525 1534
+83 1526 1528
+726 -16 1527
+81 -9 -23
+466 1529 1530
+1 -23 -10
+201 -23 1531
+141 1532 -16
+33 1533 -23
+788 -23 -16
+1 1535 1542
+968 1536 1537
+21 -16 -9
+33 -11 1538
+203 -23 1539
+187 -23 1540
+85 -16 1541
+28 -16 -22
+467 -16 1543
+777 -9 1544
+59 -9 1545
+151 -9 1546
+245 -9 -16
+26 1548 1609
+28 1549 1574
+300 1550 1555
+33 1551 1554
+216 -9 -9
+292 -16 1553
+330 -16 -9
+9 -16 -23
+58 1556 1562
+20 1557 1561
+329 -16 1558
+1 1559 -23
+9 1560 -23
+940 -23 -16
+67 -9 -23
+159 1563 1564
+1 -26 -23
+713 -10 1565
+2478 -22 1566
+65 1567 1568
+9 -23 -23
+7 1569 1571
+20 -16 1570
+1 -22 -16
+29 1572 -16
+15 -16 1573
+467 -16 -23
+39 1575 1576
+31 -16 -25
+471 1577 1578
+21 -10 -9
+111 1579 1581
+112 -10 1580
+1 -16 -16
+20 1582 1590
+280 1583 1585
+13 -14 1584
+1781 -6 -9
+159 1586 1589
+7 -22 1587
+1 1588 -9
+15 -9 -23
+129 -10 -23
+203 -9 -9
+67 -16 1592
+7 -14 -10
+129 1594 1595
+13 -16 -6
+869 -14 1596
+554 1597 1598
+84 -16 -23
+31 -23 1599
+580 1600 1601
+7 -21 -16
+738 -21 1602
+156 -23 1603
+3460 -23 1604
+456 -16 1605
+547 -16 1606
+572 -16 1607
+899 -16 1608
+2458 -16 -9
+67 1610 1615
+20 1611 1613
+15 -25 1612
+5 -11 -22
+219 -20 1614
+1812 -25 -9
+58 1616 1619
+300 -16 -16
+5 -10 -25
+95 -9 -16
+1686 -9 -9
+1 -16 -23
+111 1622 1626
+140 -14 1623
+292 -6 1624
+1356 -16 1625
+2237 -22 -9
+1131 -23 1627
+330 1628 1630
+13 -16 1629
+1 -9 -10
+321 -10 1631
+18 -16 1632
+179 -16 1633
+305 -16 1634
+682 1635 1638
+15 -9 1636
+56 -16 1637
+1 -16 -9
+475 -16 1639
+586 -16 1640
+836 -16 1641
+972 -16 1642
+1318 -16 -9
+44 1644 1665
+805 1645 1651
+20 1646 -26
+1651 -26 1647
+37 1648 1649
+26 -5 -5
+1011 1650 -5
+12 -5 -5
+1 1652 -5
+1133 -5 -5
+394 -21 1654
+913 -21 1655
+2908 -17 1656
+37 1657 -5
+65 1658 1659
+13 -5 -5
+26 1660 1662
+12 1661 -5
+43 -5 -5
+165 1663 -5
+43 -5 1664
+12 -5 -5
+35 1666 1697
+29 1667 1683
+26 1668 1680
+13 1669 1679
+15 1670 1678
+396 -21 1671
+1 1672 1673
+7 -3 -21
+312 -3 1674
+69 -21 1675
+384 -21 1676
+1679 1677 -14
+423 -21 -14
+9 -3 -21
+219 -6 -21
+9 1681 -3
+396 -4 1682
+1064 -3 -14
+229 1684 1687
+26 1685 -4
+37 1686 -21
+444 -21 -14
+8 -3 1688
+107 -3 1689
+192 1690 1691
+84 -14 -21
+28 -6 1692
+299 1693 1694
+7 -14 -3
+468 1695 1696
+608 -14 -3
+81 -14 -3
+48 1698 1819
+26 1699 1765
+18 -9 -9
+7 1701 1720
+11 1702 1718
+563 -14 1703
+569 -6 1704
+1 1705 -9
+245 1706 1707
+37 -14 -21
+1861 1708 1709
+8 -21 -9
+21 1710 -14
+547 -14 1711
+840 -9 1712
+37 1713 1715
+8 1714 -9
+12 -9 -9
+466 1716 1717
+12 -9 -9
+69 -9 -9
+156 1719 -21
+1 -9 -17
+158 1721 1723
+916 1722 -21
+37 -22 -6
+28 1724 1730
+25 -14 1725
+65 -6 1726
+389 -20 1727
+748 -21 1728
+982 -21 1729
+3466 -21 -9
+39 1731 1732
+11 -7 -14
+2222 1733 1734
+1 -23 -14
+83 -7 1735
+1421 -16 1736
+4022 -14 -9
+28 1738 1746
+524 1739 1740
+151 -23 -9
+156 -9 1741
+17 1742 1744
+33 1743 -16
+37 -16 -9
+15 -21 1745
+158 -21 -16
+141 1747 1750
+21 1748 1749
+1 -16 -22
+161 -6 -9
+125 -10 1751
+75 -10 1752
+471 1753 1754
+550 -9 -10
+109 1755 1757
+8 -17 1756
+7 -10 -9
+229 1758 1759
+37 -23 -14
+41 -7 1760
+2052 -21 1761
+81 -23 1762
+2223 -23 1763
+529 -14 1764
+1477 -14 -9
+5 1766 1791
+161 -5 1767
+944 -5 1768
+7 -7 -7
+1572 1770 1772
+1 1771 -7
+12 -5 -5
+120 -5 1773
+151 1774 1776
+1 -16 1775
+12 -14 -7
+199 1777 1778
+37 -17 -7
+1822 -22 1779
+28 1780 -7
+12 1781 -7
+1 -22 -7
+75 -10 1783
+125 -10 1784
+189 1785 1786
+15 -9 -10
+297 1787 1788
+9 -16 -9
+1946 -25 1789
+209 -9 1790
+1235 -7 -7
+75 -10 1792
+192 1793 1795
+614 -14 1794
+86 -9 -16
+125 -10 1796
+199 -7 -7
+471 -10 1798
+106 1799 1800
+161 -5 -7
+140 -23 1801
+242 1802 1803
+7 -25 -7
+29 1804 1805
+16 -22 -9
+195 -22 1806
+246 1807 1808
+1 -4 -7
+221 -4 1809
+834 1810 1811
+8 -10 -9
+989 -10 1812
+84 -9 1813
+873 -9 1814
+1072 -9 1815
+3066 -9 1816
+37 1817 -7
+1 1818 -7
+8 -7 -7
+122 1820 1850
+5 1821 1834
+77 -10 1822
+29 1823 1824
+7 -2 -4
+551 1825 1826
+1800 -24 -13
+909 1827 1828
+1 -13 -13
+2054 -13 1829
+140 1830 -13
+1 1831 -13
+37 1832 -13
+20 1833 -13
+11 -13 -13
+26 1835 1847
+46 1836 1837
+7 -23 -24
+443 1838 1839
+7 -13 -2
+156 -13 1840
+1542 -2 1841
+2387 -24 1842
+37 1843 1845
+7 1844 -6
+1 -24 -2
+8 -6 -6
+11 -6 -2
+183 1848 1849
+12 -13 -1
+165 -24 -13
+8 1851 1989
+170 1852 1933
+26 1853 1901
+1937 -15 1854
+662 -21 1855
+1468 -15 1856
+1 1857 1871
+12 -2 -2
+37 -2 1859
+493 -15 1860
+1542 -15 1861
+572 -2 1862
+1376 -2 1863
+912 -6 1864
+982 -6 1865
+1107 -6 1866
+1651 -6 1867
+1594 -2 -2
+1639 -15 1869
+189 -21 1870
+572 -21 -2
+1500 1872 1873
+287 -6 -6
+448 -6 1874
+612 1875 1878
+11 1876 -23
+37 1877 -6
+12 -6 -6
+12 1879 -2
+1490 1880 1884
+37 -15 1881
+900 -15 1882
+466 -6 1883
+840 -6 -2
+231 -15 1885
+656 1886 1887
+37 -2 -2
+845 1888 1891
+840 -2 -2
+1209 -6 1890
+37 -2 -2
+1594 -2 1892
+69 -6 1893
+153 -6 1894
+485 -6 1895
+1011 -6 1896
+1574 -6 1897
+1009 1898 1899
+37 -2 -6
+37 1900 -2
+1959 -2 -2
+242 1902 1903
+1 -4 -4
+1 1904 1914
+140 -2 1905
+165 -15 -15
+3066 -4 -2
+205 -4 1908
+11 1909 -15
+37 -15 1910
+258 -15 1911
+1484 -15 1912
+3307 -15 1913
+4121 -15 -2
+448 1915 1917
+37 -2 1916
+1800 -2 -15
+165 1918 1924
+662 -4 1919
+309 -6 1920
+37 1921 1923
+845 -2 1922
+1009 -2 -15
+206 -15 -15
+206 1925 1930
+1967 -2 1926
+3418 -2 1927
+37 1928 1929
+11 -15 -15
+205 -2 -15
+2248 -2 1931
+1617 1932 -15
+37 -15 -15
+137 1934 1936
+26 -15 -15
+1254 -2 -2
+233 -19 1937
+71 1938 1950
+429 -19 1939
+165 1940 1941
+37 -7 -6
+1911 -24 -24
+69 -6 1943
+834 -10 1944
+1572 -14 1945
+531 -23 1946
+37 1947 -24
+5 -24 1948
+12 1949 -24
+517 -24 -24
+914 -19 1951
+207 1952 1963
+26 1953 1960
+379 1954 1955
+3534 -12 -25
+493 -25 1956
+995 -25 1957
+37 1958 -12
+20 1959 -12
+12 -12 -12
+5 1961 1962
+37 -12 -12
+37 -12 -12
+1620 -12 -12
+60 -9 1965
+5 1966 1976
+1 1967 1970
+118 -8 1968
+37 1969 -12
+11 -12 -12
+140 1971 1973
+529 1972 -12
+141 -12 -10
+37 1974 -12
+117 1975 -12
+12 -12 -12
+469 1977 1983
+31 -25 1978
+2166 1979 1980
+11 -25 -12
+37 1981 -12
+26 1982 -12
+11 -12 -12
+1 1984 -12
+3165 -25 1985
+1594 1986 1987
+12 -25 -12
+25 1988 -12
+65 -12 -12
+101 1990 2107
+104 1991 2008
+369 1992 1997
+368 -4 1993
+13 -4 -4
+589 -20 1995
+1096 -14 1996
+2169 -14 -4
+107 1998 2001
+1288 -1 -1
+1705 2000 -1
+3337 -2 -1
+89 2002 2007
+190 2003 2004
+84 -2 -1
+83 2005 2006
+99 -11 -1
+29 -11 -10
+968 -10 -1
+369 2009 2019
+192 2010 2018
+2173 -16 2011
+1876 -14 2012
+372 2013 2014
+707 -20 -21
+426 -21 -21
+605 -14 2016
+84 2017 -21
+33 -21 -14
+13 -14 -4
+1343 2020 2025
+9 2021 2022
+11 -1 -2
+77 -10 2023
+146 -2 2024
+526 -10 -4
+111 2026 2076
+846 -2 2027
+107 2028 2040
+87 -6 -6
+1288 2030 2031
+1685 -6 -2
+797 -2 2032
+103 2033 -6
+1705 -2 2034
+260 -2 2035
+365 2036 2037
+192 -6 -2
+2630 -2 2038
+3162 -6 -6
+2795 -6 -2
+201 2041 2044
+581 -6 2042
+112 -6 -6
+2250 -6 -2
+1876 -2 2045
+3162 2046 2051
+820 -6 2047
+2416 -6 2048
+276 2049 -2
+103 2050 -2
+83 -2 -2
+192 2052 2075
+204 -2 2053
+1288 -2 2054
+2630 -2 2055
+84 2056 2069
+88 2057 -2
+87 2058 -6
+800 -2 2059
+99 -6 2060
+110 2061 -6
+637 -6 2062
+2416 -6 2063
+103 2064 -2
+190 -2 2065
+2571 -6 2066
+83 2067 -2
+426 -6 2068
+1032 -2 -2
+861 2070 2071
+103 -2 -6
+1159 2072 2074
+433 -2 -2
+579 -2 -6
+797 -2 -6
+861 -6 -2
+210 -21 2077
+106 2078 2082
+86 2079 2081
+85 -2 2080
+103 -21 -16
+141 -6 -2
+95 2083 2097
+85 -6 -6
+190 2085 2086
+103 -6 -4
+417 -6 2087
+109 -2 2088
+203 -2 -10
+83 -20 2090
+115 2091 2092
+103 -23 -2
+271 -23 2093
+99 -2 2094
+2571 -2 2095
+419 2096 -6
+1032 -2 -6
+457 -11 2098
+1339 -9 2099
+1876 -2 2100
+300 -2 2101
+19 2102 -6
+2276 -6 2103
+67 -6 2104
+115 -6 2105
+158 -6 2106
+3214 -6 -2
+626 2108 2153
+192 2109 2136
+106 2110 2122
+203 2111 2112
+83 -26 -14
+554 -9 2113
+2554 -23 2114
+85 -16 2115
+195 -9 -9
+579 -9 2117
+107 2118 -16
+103 2119 2121
+881 -16 2120
+808 -9 -9
+1685 -9 -16
+1390 2123 2127
+87 -10 -10
+84 -25 2125
+109 -20 -10
+29 -14 -23
+83 2128 2130
+97 -22 2129
+467 -23 -16
+1177 -10 -10
+282 -10 2132
+1182 -10 2133
+32 -9 2134
+654 2135 -16
+968 -16 -9
+369 -9 -9
+584 -4 -25
+999 -25 2139
+526 -10 2140
+83 2141 2147
+276 -9 2142
+2462 -16 2143
+87 2144 -16
+103 2145 -9
+290 -9 2146
+1413 -9 -23
+639 2148 2151
+683 2149 -16
+18 2150 -21
+620 -6 -9
+203 -16 2152
+1590 -16 -9
+106 2154 2189
+1631 2155 2156
+42 -5 -17
+192 2157 2175
+1173 2158 2164
+637 -6 2159
+201 -6 2160
+1659 -6 2161
+1720 -6 2162
+103 2163 -2
+87 -2 -2
+170 2165 2169
+878 -6 2166
+1293 -6 2167
+1262 2168 -2
+1 -6 -2
+1162 2170 2171
+87 -24 -3
+71 2172 2173
+86 -24 -5
+1088 -9 2174
+115 -19 -12
+1162 -3 2176
+1669 -7 2177
+118 -12 2178
+154 2179 2180
+1072 -25 -12
+233 -19 2181
+137 -15 2182
+1 -15 -15
+1071 2184 -2
+71 -24 -15
+268 -2 2186
+448 -2 2187
+2156 2188 -15
+206 -2 -15
+39 2190 2205
+26 2191 2200
+466 -21 -21
+206 -2 2193
+12 -21 -14
+16 2195 2198
+913 -14 2196
+641 2197 -21
+206 -21 -21
+313 2199 -21
+1 -12 -6
+5 2201 2203
+641 2202 -4
+770 -4 -4
+1 -4 -4
+446 -15 -4
+369 2206 2209
+192 2207 2208
+170 -21 -21
+170 -4 -4
+75 -10 2210
+170 2211 2226
+15 2212 2222
+5 -15 2213
+245 2214 2217
+448 -21 2215
+37 2216 -6
+1490 -6 -6
+1490 2218 2219
+158 -15 -2
+12 2220 -6
+1 -2 -2
+520 -6 -2
+7 2223 2224
+26 -16 -23
+11 2225 -15
+5 -9 -6
+10 2227 2231
+639 2228 2229
+467 -17 -2
+1162 -3 2230
+1383 -7 -15
+71 2232 2235
+158 -2 2233
+77 2234 -24
+54 -24 -6
+103 2236 2241
+88 2237 2240
+84 2238 2239
+83 -16 -17
+147 -2 -21
+95 -9 -6
+11 -12 -12
+154 2243 -19
+5 -2 -16

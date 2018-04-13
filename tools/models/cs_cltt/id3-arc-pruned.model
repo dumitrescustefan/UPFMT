@@ -1,0 +1,5567 @@
+4370
+ff_0:</s>
+ff_1:X__
+ff_2:X@-------------
+ff_3:§
+ff_4:X__
+ff_5:X
+ff_6:</s>
+ff_7:NULL
+ff_8:</s>
+ff_9:NULL
+ff_10:</s>
+ff_11:NULL
+ff_12:</s>
+ff_13:NULL
+ff_14:</s>
+ff_15:NULL
+ff_16:</s>
+ff_17:NULL
+ff_18:</s>
+ff_19:NULL
+ff_20:</s>
+ff_21:NULL
+ff_0:nákladů
+ff_1:NOUN_Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos
+ff_2:NNIP2-----A----
+ff_3:</s>
+ff_4:NOUN_Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos
+ff_5:NOUN
+ff_7:ADJ_Animacy=Inan|Aspect=Imp|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_9:ADJ_Animacy=Inan|Aspect=Imp|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_11:ADJ_Animacy=Inan|Aspect=Imp|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_13:ADJ_Animacy=Inan|Aspect=Imp|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_1:ADJ_Animacy=Inan|Aspect=Imp|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_2:AGIP2-----A----
+ff_3:nákladů
+ff_4:NOUN_Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos
+ff_7:NOUN_Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos
+ff_9:NOUN_Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos
+ff_11:NOUN_Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos
+ff_13:NOUN_Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos
+ff_0:s
+ff_1:ADP_AdpType=Prep|Case=Ins
+ff_2:RR--7----------
+ff_4:NOUN_Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos
+ff_1:NOUN_Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos
+ff_2:NNNS7-----A----
+ff_4:ADJ_Animacy=Inan|Aspect=Imp|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_5:ADJ
+ff_6:s
+ff_7:ADP_AdpType=Prep|Case=Ins
+ff_8:pohledávek
+ff_9:NOUN_Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos
+ff_14:pohledávek
+ff_15:NOUN_Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos
+ff_16:s
+ff_17:ADP_AdpType=Prep|Case=Ins
+ff_0:pohledávek
+ff_1:NOUN_Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos
+ff_2:NNFP2-----A----
+ff_0:pořizovací
+ff_1:ADJ_Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_2:AAFS2----1A----
+ff_3:ceny
+ff_4:NOUN_Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos
+ff_0:ceny
+ff_1:NOUN_Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos
+ff_2:NNFS2-----A----
+ff_4:NOUN_Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos
+ff_6:pořizovací
+ff_7:ADJ_Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_16:pořizovací
+ff_17:ADJ_Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_0:jsou
+ff_1:AUX_Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_2:VB-P---3P-AA---
+ff_1:NOUN_Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos
+ff_2:NNIP1-----A----
+ff_7:ADJ_Aspect=Imp|Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_9:NOUN_Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos
+ff_15:NOUN_Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos
+ff_17:ADJ_Aspect=Imp|Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_4:ADJ_Aspect=Imp|Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_8:s
+ff_9:ADP_AdpType=Prep|Case=Ins
+ff_1:ADJ_Aspect=Imp|Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_2:AGFP1-----A----
+ff_4:NOUN_Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos
+ff_0:,
+ff_1:PUNCT__
+ff_2:Z:-------------
+ff_1:ADV__
+ff_2:Db-------------
+ff_6:,
+ff_7:PUNCT__
+ff_8:ocenění
+ff_9:NOUN_Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos
+ff_15:ADV__
+ff_17:ADV__
+ff_0:na
+ff_1:ADP_AdpType=Prep|Case=Acc
+ff_2:RR--4----------
+ff_3:ocenění
+ff_4:NOUN_Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos
+ff_1:ADJ_Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_2:AANS4----1A----
+ff_0:ocenění
+ff_1:NOUN_Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos
+ff_2:NNNS4-----A----
+ff_6:na
+ff_7:ADP_AdpType=Prep|Case=Acc
+ff_9:NOUN_Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos
+ff_15:ADJ_Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_17:NOUN_Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos
+ff_1:ADJ_Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_2:AAFP2----1A----
+ff_3:pohledávek
+ff_7:ADJ_Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_9:ADJ_Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_4:NOUN_Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos
+ff_1:NOUN_Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos
+ff_2:NNFP1-----A----
+ff_9:NOUN_Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur|Polarity=Pos
+ff_15:NOUN_Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur|Polarity=Pos
+ff_16:,
+ff_17:PUNCT__
+ff_1:NOUN_Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur|Polarity=Pos
+ff_2:NNMP3-----A----
+ff_0:a
+ff_1:CCONJ__
+ff_2:J^-------------
+ff_6:a
+ff_7:CCONJ__
+ff_8:a
+ff_9:CCONJ__
+ff_0:.
+ff_1:ADJ_Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_2:AAIP1----1A----
+ff_3:rozdíly
+ff_0:při
+ff_1:ADP_AdpType=Prep|Case=Loc
+ff_2:RR--6----------
+ff_4:NOUN_Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos
+ff_1:NOUN_Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos
+ff_2:NNNS6-----A----
+ff_6:při
+ff_7:ADP_AdpType=Prep|Case=Loc
+ff_14:hodnoty
+ff_15:NOUN_Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos
+ff_16:hodnoty
+ff_17:NOUN_Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos
+ff_0:reálné
+ff_3:hodnoty
+ff_0:hodnoty
+ff_6:reálné
+ff_8:reálné
+ff_9:ADJ_Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_16:a
+ff_17:CCONJ__
+ff_0:u
+ff_1:ADP_AdpType=Prep|Case=Gen
+ff_2:RR--2----------
+ff_3:papírů
+ff_0:cenných
+ff_1:ADJ_Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_2:AAIP2----1A----
+ff_0:papírů
+ff_6:u
+ff_7:ADP_AdpType=Prep|Case=Gen
+ff_9:NOUN_Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos
+ff_14:cenných
+ff_15:ADJ_Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_16:cenných
+ff_17:ADJ_Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_0:(1)
+ff_3:účtují
+ff_4:VERB_Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_5:VERB
+ff_1:NOUN_Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos
+ff_2:NNFP4-----A----
+ff_7:NOUN_Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos
+ff_9:NOUN_Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos
+ff_15:NOUN_Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos
+ff_17:NOUN_Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos
+ff_4:NOUN_Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos
+ff_8:papírů
+ff_14:papírů
+ff_15:NOUN_Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos
+ff_17:ADJ_Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_10:jednotkou
+ff_11:NOUN_Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos
+ff_12:obchodování
+ff_13:NOUN_Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos
+ff_18:obchodování
+ff_19:NOUN_Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos
+ff_20:jednotkou
+ff_21:NOUN_Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos
+ff_9:ADJ_Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_6:jednotkou
+ff_7:NOUN_Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos
+ff_8:obchodování
+ff_9:NOUN_Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos
+ff_14:obchodování
+ff_15:NOUN_Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos
+ff_16:jednotkou
+ff_17:NOUN_Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos
+ff_0:účetní
+ff_1:ADJ_Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_2:AAFS7----1A----
+ff_3:jednotkou
+ff_4:NOUN_Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos
+ff_0:jednotkou
+ff_1:NOUN_Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos
+ff_2:NNFS7-----A----
+ff_4:ADJ_Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_6:účetní
+ff_7:ADJ_Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_8:účetní
+ff_9:ADJ_Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_0:k
+ff_1:ADP_AdpType=Prep|Case=Dat
+ff_2:RR--3----------
+ff_3:obchodování
+ff_4:NOUN_Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos
+ff_0:obchodování
+ff_1:NOUN_Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos
+ff_2:NNNS3-----A----
+ff_6:k
+ff_7:ADP_AdpType=Prep|Case=Dat
+ff_9:NOUN_Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos
+ff_15:NOUN_Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos
+ff_16:k
+ff_17:ADP_AdpType=Prep|Case=Dat
+ff_4:NOUN_Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos
+ff_11:NOUN_Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos
+ff_13:NOUN_Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos
+ff_19:NOUN_Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos
+ff_21:NOUN_Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos
+ff_1:NOUN_Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos
+ff_2:NNIS7-----A----
+ff_9:VERB_Polarity=Pos|VerbForm=Inf
+ff_15:VERB_Polarity=Pos|VerbForm=Inf
+ff_1:VERB_Polarity=Pos|VerbForm=Inf
+ff_2:Vf--------A----
+ff_7:NOUN_Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos
+ff_9:NOUN_Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos
+ff_15:NOUN_Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos
+ff_17:NOUN_Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos
+ff_1:NOUN_Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos
+ff_2:NNIS4-----A----
+ff_4:VERB_Polarity=Pos|VerbForm=Inf
+ff_6:rozdílů
+ff_7:NOUN_Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos
+ff_8:rozdílů
+ff_10:rozdílů
+ff_11:NOUN_Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos
+ff_12:rozdílů
+ff_13:NOUN_Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos
+ff_0:z
+ff_3:rozdílů
+ff_0:rozdílů
+ff_4:NOUN_Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos
+ff_6:z
+ff_16:z
+ff_17:ADP_AdpType=Prep|Case=Gen
+ff_0:v
+ff_4:NOUN_Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos
+ff_1:ADJ_Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_2:AAIS6----1A----
+ff_1:NOUN_Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos
+ff_2:NNIS6-----A---1
+ff_6:v
+ff_9:ADJ_Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_15:ADJ_Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_16:v
+ff_17:ADP_AdpType=Prep|Case=Loc
+ff_0:se
+ff_1:PRON_Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short
+ff_2:P7-X4----------
+ff_0:jako
+ff_1:SCONJ__
+ff_2:J,-------------
+ff_0:finanční
+ff_1:ADJ_Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_2:AAIS4----1A----
+ff_6:jako
+ff_7:SCONJ__
+ff_14:finanční
+ff_15:ADJ_Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_16:finanční
+ff_17:ADJ_Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_0:nebo
+ff_6:nebo
+ff_8:finanční
+ff_9:ADJ_Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_16:nebo
+ff_0:(2)
+ff_10:hodnotou
+ff_12:hodnotou
+ff_13:NOUN_Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos
+ff_7:ADJ_Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_8:)
+ff_9:PUNCT__
+ff_17:NOUN_Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos
+ff_6:hodnotou
+ff_8:hodnotou
+ff_9:NOUN_Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos
+ff_0:reálnou
+ff_3:hodnotou
+ff_0:hodnotou
+ff_6:reálnou
+ff_8:reálnou
+ff_0:(
+ff_7:ADJ_Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_9:ADJ_Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_15:ADJ_Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_17:ADJ_Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_0:)
+ff_0:prostřednictvím
+ff_3:účtů
+ff_0:účtů
+ff_6:prostřednictvím
+ff_9:NOUN_Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos
+ff_4:NOUN_Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos
+ff_0:účtové
+ff_1:ADJ_Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_2:AAFS6----1A----
+ff_1:NOUN_Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos
+ff_2:NNFS6-----A----
+ff_9:NUM_NumForm=Roman|NumType=Card
+ff_14:účtové
+ff_15:ADJ_Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_16:účtové
+ff_17:ADJ_Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_1:NUM_NumForm=Roman|NumType=Card
+ff_2:C}-------------
+ff_1:AUX_Gender=Neut|Polarity=Pos
+ff_2:NNNXX-----A----
+ff_4:VERB_Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass
+ff_1:VERB_Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass
+ff_2:VsNS---XX-AP---
+ff_4:VERB_Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_7:AUX_Gender=Neut|Polarity=Pos
+ff_9:VERB_Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_14:,
+ff_15:PUNCT__
+ff_0:že
+ff_4:VERB_Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_1:VERB_Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_2:VpNS---XR-AA---
+ff_6:že
+ff_16:že
+ff_17:SCONJ__
+ff_0:ke
+ff_1:ADP_AdpType=Voc|Case=Dat
+ff_2:RV--3----------
+ff_6:ke
+ff_7:ADP_AdpType=Voc|Case=Dat
+ff_9:ADJ_Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_17:NOUN_Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos
+ff_1:NOUN_Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos
+ff_2:NNNS1-----A----
+ff_6:(
+ff_14:)
+ff_16:)
+ff_0:těchto
+ff_1:DET_Case=Gen|Number=Plur|PronType=Dem
+ff_2:PDXP2----------
+ff_6:těchto
+ff_7:DET_Case=Gen|Number=Plur|PronType=Dem
+ff_8:cenných
+ff_16:těchto
+ff_17:DET_Case=Gen|Number=Plur|PronType=Dem
+ff_4:ADJ_Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_0:které
+ff_1:PRON_Case=Nom|Gender=Neut|Number=Sing|PronType=Int,Rel
+ff_2:P4NS1----------
+ff_0:je
+ff_1:AUX_Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_2:VB-S---3P-AA---
+ff_1:ADV_Degree=Pos|Polarity=Pos
+ff_2:Dg-------1A----
+ff_1:ADJ_Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_2:AANS1----1A----
+ff_8:,
+ff_14:které
+ff_15:PRON_Case=Nom|Gender=Neut|Number=Sing|PronType=Int,Rel
+ff_17:ADV_Degree=Pos|Polarity=Pos
+ff_0:bez
+ff_4:NOUN_Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos
+ff_1:ADJ_Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_2:AAIS2----1A----
+ff_1:NOUN_Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos
+ff_2:NNIS2-----A----
+ff_6:bez
+ff_9:ADJ_Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_15:ADJ_Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_16:bez
+ff_3:účty
+ff_4:NOUN_Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos
+ff_1:ADJ_Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_2:AAIP4----1A----
+ff_0:účty
+ff_1:NOUN_Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos
+ff_2:NNIP4-----A----
+ff_8:nákladů
+ff_15:ADJ_Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_17:ADJ_Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_0:finančních
+ff_6:finančních
+ff_8:finančních
+ff_1:NOUN_Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos
+ff_2:NNFS1-----A----
+ff_7:NOUN_Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos
+ff_9:NOUN_Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos
+ff_0:tohoto
+ff_1:DET_Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Dem
+ff_2:PDZS2----------
+ff_4:NOUN_Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos
+ff_11:NOUN_Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos
+ff_12:.
+ff_13:PUNCT__
+ff_19:NOUN_Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos
+ff_21:NOUN_Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos
+ff_1:NOUN_Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos
+ff_2:NNNS2-----A----
+ff_4:NOUN_Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos
+ff_6:tohoto
+ff_7:DET_Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Dem
+ff_8:tohoto
+ff_9:DET_Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Dem
+ff_1:ADJ_Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_2:AAIS3----1A----
+ff_4:NOUN_Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos
+ff_1:NOUN_Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos
+ff_2:NNIS3-----A----
+ff_7:ADJ_Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_15:NOUN_Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos
+ff_17:ADJ_Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_0:mezi
+ff_6:mezi
+ff_15:NOUN_Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos
+ff_16:nabytí
+ff_17:NOUN_Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos
+ff_7:ADJ_Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_17:ADJ_Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_3:nabytí
+ff_0:jeho
+ff_1:DET_Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_2:PSXXXZS3-------
+ff_0:nabytí
+ff_8:jeho
+ff_9:DET_Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_14:jeho
+ff_15:DET_Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_16:při
+ff_15:ADJ_Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_16:reálnou
+ff_17:ADJ_Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_1:ADP_AdpType=Voc|Case=Ins
+ff_2:RV--7----------
+ff_6:se
+ff_7:ADP_AdpType=Voc|Case=Ins
+ff_16:se
+ff_17:ADP_AdpType=Voc|Case=Ins
+ff_15:NOUN_Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos
+ff_1:ADP_AdpType=Voc|Case=Gen
+ff_2:RV--2----------
+ff_7:ADP_AdpType=Voc|Case=Gen
+ff_9:ADP_AdpType=Voc|Case=Gen
+ff_7:NOUN_Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos
+ff_9:NOUN_Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos
+ff_0:po
+ff_10:účty
+ff_11:NOUN_Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos
+ff_12:účty
+ff_13:NOUN_Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos
+ff_4:ADV_Degree=Pos|Polarity=Pos
+ff_5:ADV
+ff_6:po
+ff_16:po
+ff_6:účty
+ff_7:NOUN_Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos
+ff_8:účty
+ff_9:NOUN_Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos
+ff_14:nákladů
+ff_16:na
+ff_17:ADP_AdpType=Prep|Case=Acc
+ff_11:SCONJ__
+ff_12:,
+ff_19:ADV_Degree=Pos|Polarity=Pos
+ff_21:NOUN_Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos
+ff_1:VERB_Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_15:ADV_Degree=Pos|Polarity=Pos
+ff_17:NOUN_Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos
+ff_1:ADJ_Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_2:AANS3----1A----
+ff_8:hodnoty
+ff_15:ADJ_Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_17:ADJ_Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_16:reálné
+ff_6:hodnoty
+ff_7:NOUN_Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos
+ff_11:VERB_Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_18:je
+ff_19:AUX_Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_20:účty
+ff_21:NOUN_Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos
+ff_1:ADV_Degree=Cmp|Polarity=Pos
+ff_2:Dg-------2A---1
+ff_3:výši
+ff_0:ve
+ff_1:ADP_AdpType=Voc|Case=Loc
+ff_2:RV--6----------
+ff_0:výši
+ff_7:ADV_Degree=Cmp|Polarity=Pos
+ff_14:ve
+ff_15:ADP_AdpType=Voc|Case=Loc
+ff_16:ve
+ff_17:ADP_AdpType=Voc|Case=Loc
+ff_1:ADJ_Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_2:AANS2----1A----
+ff_7:ADJ_Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_9:ADJ_Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_0:podle
+ff_6:podle
+ff_15:ADJ_Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_16:podle
+ff_8:výnosů
+ff_14:výnosů
+ff_3:výnosů
+ff_0:výnosů
+ff_0:(3)
+ff_6:ocenění
+ff_6:cenných
+ff_17:NOUN_Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos
+ff_11:NOUN_Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos
+ff_13:NOUN_Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos
+ff_7:NOUN_Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos
+ff_6:kapitálu
+ff_7:NOUN_Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos
+ff_10:kapitálu
+ff_11:NOUN_Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos
+ff_15:NOUN_Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos
+ff_16:kapitálu
+ff_17:NOUN_Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos
+ff_19:NOUN_Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos
+ff_20:kapitálu
+ff_21:NOUN_Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos
+ff_3:kapitálu
+ff_0:vlastním
+ff_0:kapitálu
+ff_2:NNIS6-----A----
+ff_8:osoby
+ff_9:NOUN_Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos
+ff_14:vlastním
+ff_16:vlastním
+ff_17:ADJ_Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_16:(
+ff_1:ADJ_Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_2:AAFP1----1A----
+ff_3:osoby
+ff_0:osoby
+ff_7:ADJ_Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_14:osoby
+ff_15:NOUN_Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos
+ff_17:ADJ_Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_8:vlivem
+ff_14:vlivem
+ff_0:pod
+ff_3:vlivem
+ff_1:ADJ_Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_2:AAIS7----1A----
+ff_0:vlivem
+ff_6:pod
+ff_9:ADJ_Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_15:ADJ_Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_16:pod
+ff_16:u
+ff_13:VERB_Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_9:NOUN_Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos
+ff_7:VERB_Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_9:VERB_Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_0:který
+ff_1:PRON_Case=Nom|Gender=Masc|Number=Sing|PronType=Int,Rel
+ff_2:P4YS1----------
+ff_14:který
+ff_15:PRON_Case=Nom|Gender=Masc|Number=Sing|PronType=Int,Rel
+ff_17:NOUN_Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos
+ff_1:ADJ_Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_2:AAFS4----1A----
+ff_4:NOUN_Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos
+ff_1:NOUN_Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos
+ff_2:NNFS4-----A----
+ff_7:ADJ_Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_17:ADJ_Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_0:rozvahového
+ff_6:rozvahového
+ff_16:rozvahového
+ff_17:ADJ_Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_8:nebo
+ff_3:účtuje
+ff_14:rozvahového
+ff_15:ADJ_Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_11:NOUN_Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos
+ff_13:NOUN_Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos
+ff_7:NOUN_Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos
+ff_3:z
+ff_4:ADP_AdpType=Prep|Case=Gen
+ff_5:ADP
+ff_10:výnosů
+ff_12:výnosů
+ff_16:prostřednictvím
+ff_6:výnosů
+ff_11:ADJ_Aspect=Imp|Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_13:ADJ_Aspect=Imp|Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_7:ADJ_Aspect=Imp|Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_9:ADJ_Aspect=Imp|Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_1:ADJ_Aspect=Imp|Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_2:AGNS2-----A----
+ff_7:NOUN_Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos
+ff_11:NOUN_Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos
+ff_13:NOUN_Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos
+ff_4:ADJ_Aspect=Imp|Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_4:VERB_Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass
+ff_4:NOUN_Case=Loc|Gender=Neut|Number=Plur|Polarity=Pos
+ff_1:ADJ_Case=Loc|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos
+ff_2:AANP6----1A----
+ff_1:NOUN_Case=Loc|Gender=Neut|Number=Plur|Polarity=Pos
+ff_2:NNNP6-----A----
+ff_6:ve
+ff_7:ADP_AdpType=Voc|Case=Loc
+ff_9:VERB_Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass
+ff_15:ADJ_Case=Loc|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos
+ff_17:ADJ_Case=Loc|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos
+ff_13:ADJ_Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_19:ADJ_Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_21:NOUN_Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos
+ff_0:kdy
+ff_1:VERB_Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass
+ff_2:VsTP---XX-AP---
+ff_14:kdy
+ff_16:jsou
+ff_17:AUX_Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_11:NOUN_Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos
+ff_13:NOUN_Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos
+ff_7:NOUN_Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos
+ff_9:NOUN_Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos
+ff_4:NOUN_Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos
+ff_1:ADJ_Case=Ins|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_2:AAFP7----1A----
+ff_1:NOUN_Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos
+ff_2:NNFP7-----A----
+ff_4:ADJ_Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_9:ADJ_Case=Ins|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_15:ADJ_Case=Ins|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_1:NOUN_Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos
+ff_2:NNIS1-----A----
+ff_0:za
+ff_4:ADJ_Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_6:za
+ff_8:za
+ff_9:ADP_AdpType=Prep|Case=Acc
+ff_0:pouze
+ff_4:ADV__
+ff_6:pouze
+ff_7:ADV__
+ff_8:pouze
+ff_9:ADV__
+ff_0:pokud
+ff_8:podmínky
+ff_9:NOUN_Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos
+ff_14:pokud
+ff_15:SCONJ__
+ff_16:pokud
+ff_1:ADJ_Aspect=Imp|Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_2:AGFP4-----A----
+ff_3:podmínky
+ff_0:podmínky
+ff_7:ADJ_Aspect=Imp|Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_9:VERB_Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass
+ff_15:VERB_Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass
+ff_17:ADJ_Aspect=Imp|Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_4:VERB_Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass
+ff_0:a)
+ff_1:ADJ_Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_2:AAIS1----1A----
+ff_4:NOUN_Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos
+ff_11:PUNCT__
+ff_13:ADJ_Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_18:a)
+ff_19:X__
+ff_21:ADJ_Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_7:ADJ_Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_9:ADJ_Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_1:VERB_Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass
+ff_2:VsYS---XX-AP---
+ff_9:ADJ_Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_14:a)
+ff_15:X__
+ff_17:ADJ_Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_0:b)
+ff_8:je
+ff_9:AUX_Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_14:b)
+ff_4:ADJ_Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_0:c)
+ff_1:ADJ_Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_2:AAFS1----1A----
+ff_14:c)
+ff_9:ADV_Degree=Pos|Polarity=Pos
+ff_0:(4)
+ff_0:účetním
+ff_10:položek
+ff_11:NOUN_Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos
+ff_12:způsob
+ff_13:NOUN_Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos
+ff_18:vymezení
+ff_19:NOUN_Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos
+ff_20:vymezení
+ff_21:NOUN_Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos
+ff_9:NOUN_Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos
+ff_15:NOUN_Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos
+ff_6:položek
+ff_8:způsob
+ff_9:NOUN_Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos
+ff_14:vymezení
+ff_15:NOUN_Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos
+ff_16:vymezení
+ff_3:položek
+ff_0:položek
+ff_3:vymezení
+ff_0:vymezení
+ff_15:ADJ_Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_16:je
+ff_17:AUX_Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_3:způsob
+ff_11:NOUN_Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos
+ff_13:NOUN_Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos
+ff_0:způsob
+ff_4:ADJ_Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_6:průběhu
+ff_8:průběhu
+ff_0:průběhu
+ff_3:v
+ff_4:ADP_AdpType=Prep|Case=Loc
+ff_14:v
+ff_15:ADP_AdpType=Prep|Case=Loc
+ff_8:položek
+ff_10:,
+ff_18:pokud
+ff_19:SCONJ__
+ff_21:NOUN_Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos
+ff_1:ADJ_Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_2:AGFS4-----A----
+ff_17:NOUN_Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos
+ff_7:ADJ_Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_11:SYM__
+ff_13:NUM_NumForm=Roman|NumType=Card
+ff_19:NUM_NumForm=Roman|NumType=Card
+ff_21:SYM__
+ff_15:NUM_NumForm=Roman|NumType=Card
+ff_7:SYM__
+ff_17:SYM__
+ff_1:SYM__
+ff_4:NUM_NumForm=Roman|NumType=Card
+ff_5:NUM
+ff_9:SYM__
+ff_15:SYM__
+ff_3:jednotka
+ff_10:jednotka
+ff_19:ADJ_Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_0:jednotka
+ff_7:ADJ_Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_8:okamžiku
+ff_9:NOUN_Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos
+ff_17:NOUN_Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos
+ff_3:okamžiku
+ff_10:závěrky
+ff_12:závěrky
+ff_0:dále
+ff_2:Db------------1
+ff_2:Dg-------2A----
+ff_0:okamžiku
+ff_8:sestavení
+ff_14:dále
+ff_0:sestavení
+ff_6:závěrky
+ff_8:závěrky
+ff_3:závěrky
+ff_0:závěrky
+ff_3:sestavení
+ff_0:(5)
+ff_1:NOUN_Gender=Neut|Polarity=Pos
+ff_7:VERB_Polarity=Pos|VerbForm=Inf
+ff_4:NOUN_Gender=Neut|Polarity=Pos
+ff_6:podmínky
+ff_10:podmínky
+ff_12:podmínky
+ff_10:odstavce
+ff_12:odstavce
+ff_7:ADJ_Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_6:odstavce
+ff_8:odstavce
+ff_3:odstavce
+ff_0:odstavce
+ff_8:3
+ff_14:3
+ff_0:3
+ff_0:o
+ff_4:ADJ_Abbr=Yes|Degree=Pos|Polarity=Pos
+ff_1:ADJ_Abbr=Yes|Degree=Pos|Polarity=Pos
+ff_2:AAXXX----1A---8
+ff_6:o
+ff_16:o
+ff_0:od
+ff_10:o
+ff_11:ADP_AdpType=Prep|Case=Loc
+ff_12:o
+ff_13:ADP_AdpType=Prep|Case=Loc
+ff_6:od
+ff_14:tohoto
+ff_15:DET_Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Dem
+ff_16:od
+ff_8:o
+ff_9:ADP_AdpType=Prep|Case=Loc
+ff_3:jako
+ff_4:SCONJ__
+ff_5:SCONJ
+ff_16:jako
+ff_8:k
+ff_9:ADP_AdpType=Prep|Case=Dat
+ff_0:(6)
+ff_3:stanoví
+ff_10:(6)
+ff_18:jednotka
+ff_19:NOUN_Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos
+ff_21:VERB_Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_3:účtovat
+ff_0:bude
+ff_1:AUX_Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act
+ff_2:VB-S---3F-AA---
+ff_4:NOUN_Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos
+ff_21:NOUN_Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos
+ff_1:PRON_Case=Loc|Number=Plur|PronType=Tot
+ff_2:PLXP6----------
+ff_1:NOUN_Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos
+ff_2:NNIP6-----A----
+ff_9:NOUN_Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos
+ff_15:PRON_Case=Loc|Number=Plur|PronType=Tot
+ff_17:PRON_Case=Loc|Number=Plur|PronType=Tot
+ff_0:účtovat
+ff_17:NOUN_Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos
+ff_14:o
+ff_10:účtovat
+ff_11:VERB_Polarity=Pos|VerbForm=Inf
+ff_12:účtovat
+ff_13:VERB_Polarity=Pos|VerbForm=Inf
+ff_6:účtovat
+ff_8:účtovat
+ff_7:PRON_Case=Loc|Number=Plur|Person=3|PrepCase=Pre|PronType=Prs
+ff_11:PRON_Case=Loc|Number=Plur|Person=3|PrepCase=Pre|PronType=Prs
+ff_17:PRON_Case=Loc|Number=Plur|Person=3|PrepCase=Pre|PronType=Prs
+ff_21:PRON_Case=Loc|Number=Plur|Person=3|PrepCase=Pre|PronType=Prs
+ff_4:PRON_Case=Loc|Number=Plur|Person=3|PrepCase=Pre|PronType=Prs
+ff_5:PRON
+ff_1:PRON_Case=Loc|Number=Plur|Person=3|PrepCase=Pre|PronType=Prs
+ff_2:P5XP6--3-------
+ff_15:NOUN_Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos
+ff_10:souladu
+ff_12:s
+ff_13:ADP_AdpType=Prep|Case=Ins
+ff_18:s
+ff_19:ADP_AdpType=Prep|Case=Ins
+ff_20:souladu
+ff_1:ADJ_Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_2:AAIP6----1A----
+ff_9:ADJ_Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_6:souladu
+ff_11:NOUN_Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos
+ff_13:NOUN_Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos
+ff_14:s
+ff_15:ADP_AdpType=Prep|Case=Ins
+ff_16:souladu
+ff_0:souladu
+ff_1:DET_Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_2:PSFSXFS3-------
+ff_15:DET_Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_17:DET_Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_7:NOUN_Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos
+ff_9:NOUN_Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos
+ff_1:ADJ_Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos
+ff_2:AANP2----1A----
+ff_4:NOUN_Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos
+ff_1:NOUN_Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos
+ff_2:NNNP2-----A----
+ff_7:ADJ_Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos
+ff_9:ADJ_Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos
+ff_0:;
+ff_4:VERB_Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_1:VERB_Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_2:VB-S---3P-NA---
+ff_6:;
+ff_17:ADJ_Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_1:PRON_Case=Gen|Gender=Masc,Neut|Number=Sing|PrepCase=Npr|PronType=Rel
+ff_2:PJZS2----------
+ff_9:NOUN_Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos
+ff_15:PRON_Case=Gen|Gender=Masc,Neut|Number=Sing|PrepCase=Npr|PronType=Rel
+ff_7:NOUN_Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos
+ff_14:a
+ff_15:CCONJ__
+ff_17:PRON_Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short
+ff_6:jeho
+ff_7:DET_Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_16:jeho
+ff_17:DET_Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_14:je
+ff_15:AUX_Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_17:NOUN_Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos
+ff_20:účtovat
+ff_21:VERB_Polarity=Pos|VerbForm=Inf
+ff_11:VERB_Polarity=Neg|VerbForm=Inf
+ff_13:VERB_Polarity=Neg|VerbForm=Inf
+ff_7:VERB_Polarity=Neg|VerbForm=Inf
+ff_9:VERB_Polarity=Neg|VerbForm=Inf
+ff_11:NOUN_Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos
+ff_13:NOUN_Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos
+ff_4:VERB_Polarity=Neg|VerbForm=Inf
+ff_15:ADJ_Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_1:VERB_Polarity=Neg|VerbForm=Inf
+ff_2:Vf--------N----
+ff_7:NOUN_Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos
+ff_3:použijí
+ff_6:stanoveno
+ff_7:VERB_Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass
+ff_16:stanoveno
+ff_17:VERB_Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass
+ff_1:DET_Case=Ins|Gender=Fem|Number=Sing|PronType=Dem
+ff_2:PDFS7----------
+ff_3:vyhláškou
+ff_10:vyhláškou
+ff_12:jinak
+ff_13:ADV__
+ff_18:jinak
+ff_19:ADV__
+ff_20:vyhláškou
+ff_0:vyhláškou
+ff_3:stanoveno
+ff_7:DET_Case=Ins|Gender=Fem|Number=Sing|PronType=Dem
+ff_9:DET_Case=Ins|Gender=Fem|Number=Sing|PronType=Dem
+ff_0:stanoveno
+ff_6:vyhláškou
+ff_8:jinak
+ff_14:jinak
+ff_16:vyhláškou
+ff_0:jinak
+ff_3:jednotky
+ff_0:jednotky
+ff_9:ADJ_Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_0:ustanovení
+ff_6:vyhlášky
+ff_8:vyhlášky
+ff_0:vyhlášky
+ff_3:ustanovení
+ff_6:č.
+ff_7:X__
+ff_9:VERB_Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_10:č.
+ff_11:X__
+ff_13:VERB_Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_15:VERB_Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_16:č.
+ff_17:X__
+ff_19:VERB_Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_20:č.
+ff_21:X__
+ff_0:č.
+ff_3:vyhlášky
+ff_9:X__
+ff_13:X__
+ff_3:č.
+ff_1:PRON_Case=Ins|Gender=Fem|Number=Sing|PronType=Int,Rel
+ff_2:P4FS7----------
+ff_1:VERB_Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_8:ustanovení
+ff_9:NOUN_Case=Nom|Gender=Neut|Number=Plur|Polarity=Pos
+ff_15:PRON_Case=Ins|Gender=Fem|Number=Sing|PronType=Int,Rel
+ff_1:DET_Case=Nom|Gender=Neut|Number=Plur|PronType=Ind
+ff_2:PZNP1----------
+ff_4:NOUN_Case=Nom|Gender=Neut|Number=Plur|Polarity=Pos
+ff_12:znění
+ff_13:NOUN_Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos
+ff_20:účetnictví
+ff_21:NOUN_Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos
+ff_1:NOUN_Case=Nom|Gender=Neut|Number=Plur|Polarity=Pos
+ff_2:NNNP1-----A----
+ff_7:DET_Case=Nom|Gender=Neut|Number=Plur|PronType=Ind
+ff_8:jednotky
+ff_14:zákona
+ff_16:zákona
+ff_0:zákona
+ff_8:znění
+ff_16:účetnictví
+ff_3:zákona
+ff_3:účetnictví
+ff_0:účetnictví
+ff_3:znění
+ff_0:znění
+ff_8:předpisů
+ff_14:předpisů
+ff_1:ADJ_Animacy=Inan|Case=Gen|Degree=Cmp|Gender=Masc|Number=Plur|Polarity=Pos
+ff_2:AAIP2----2A----
+ff_3:předpisů
+ff_0:předpisů
+ff_7:ADJ_Animacy=Inan|Case=Gen|Degree=Cmp|Gender=Masc|Number=Plur|Polarity=Pos
+ff_9:ADJ_Animacy=Inan|Case=Gen|Degree=Cmp|Gender=Masc|Number=Plur|Polarity=Pos
+ff_0:pro
+ff_1:ADJ_Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_2:AAFP4----1A----
+ff_14:pro
+ff_15:ADP_AdpType=Prep|Case=Acc
+ff_16:účetní
+ff_17:ADJ_Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_1:PRON_Case=Nom|Gender=Fem|Number=Plur|PronType=Int,Rel
+ff_2:P4FP1----------
+ff_15:PRON_Case=Nom|Gender=Fem|Number=Plur|PronType=Int,Rel
+ff_17:NOUN_Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos
+ff_17:ADJ_Case=Ins|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_11:ADJ_Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_13:PRON_Case=Ins|Number=Plur|PrepCase=Npr|PronType=Rel
+ff_19:PRON_Case=Ins|Number=Plur|PrepCase=Npr|PronType=Rel
+ff_21:ADJ_Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_9:PRON_Case=Ins|Number=Plur|PrepCase=Npr|PronType=Rel
+ff_15:PRON_Case=Ins|Number=Plur|PrepCase=Npr|PronType=Rel
+ff_6:obchodování
+ff_7:NOUN_Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos
+ff_10:obchodování
+ff_11:NOUN_Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos
+ff_4:PRON_Case=Ins|Number=Plur|PrepCase=Npr|PronType=Rel
+ff_1:PRON_Case=Ins|Number=Plur|PrepCase=Npr|PronType=Rel
+ff_2:PJXP7----------
+ff_14:jsou
+ff_15:AUX_Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_7:VERB_Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_9:VERB_Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_4:VERB_Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_10:uvedené
+ff_11:ADJ_Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_12:uvedené
+ff_13:ADJ_Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_1:PRON_Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Int,Rel
+ff_2:P4IP1----------
+ff_1:VERB_Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_2:VB-P---3P-NA---
+ff_15:PRON_Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Int,Rel
+ff_16:podmínky
+ff_17:NOUN_Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos
+ff_6:uvedené
+ff_7:ADJ_Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_8:uvedené
+ff_9:ADJ_Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_0:uvedené
+ff_6:§
+ff_8:§
+ff_10:§
+ff_12:§
+ff_0:§
+ff_3:uvedené
+ff_4:ADJ_Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_16:odst.
+ff_0:odst.
+ff_10:(2)
+ff_10:ustanovení
+ff_11:NOUN_Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos
+ff_12:ustanovení
+ff_13:NOUN_Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos
+ff_6:ustanovení
+ff_7:NOUN_Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos
+ff_10:vyhlášky
+ff_12:vyhlášky
+ff_8:zákona
+ff_17:DET_Case=Nom|Gender=Neut|Number=Plur|PronType=Ind
+ff_16:předpisů
+ff_6:pro
+ff_14:účetní
+ff_15:ADJ_Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_9:VERB_Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_15:VERB_Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_4:VERB_Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_1:PRON_Case=Acc|Gender=Fem|Number=Plur|PronType=Int,Rel
+ff_2:P4FP4----------
+ff_13:VERB_Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_18:které
+ff_19:PRON_Case=Acc|Gender=Fem|Number=Plur|PronType=Int,Rel
+ff_20:jednotka
+ff_21:NOUN_Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos
+ff_1:VERB_Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_2:VpQW---XR-AA---
+ff_15:PRON_Case=Acc|Gender=Fem|Number=Plur|PronType=Int,Rel
+ff_16:jednotka
+ff_17:NOUN_Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos
+ff_11:VERB_Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_7:VERB_Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_21:VERB_Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_17:VERB_Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_0:majetku
+ff_6:závazků
+ff_8:závazků
+ff_10:závazků
+ff_12:závazků
+ff_3:závazků
+ff_0:závazků
+ff_3:majetku
+ff_3:přeměně
+ff_0:přeměně
+ff_8:společnosti
+ff_14:společnosti
+ff_0:společnosti
+ff_8:účtování
+ff_14:účtování
+ff_0:účtování
+ff_8:změny
+ff_16:společnosti
+ff_3:změny
+ff_0:změny
+ff_0:právní
+ff_6:právní
+ff_8:právní
+ff_8:společníka
+ff_9:NOUN_Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos
+ff_14:z
+ff_15:ADP_AdpType=Prep|Case=Gen
+ff_16:jmění
+ff_0:jmění
+ff_3:společníka
+ff_4:NOUN_Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos
+ff_0:společníka
+ff_1:NOUN_Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos
+ff_2:NNMS4-----A----
+ff_9:VERB_Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_15:VERB_Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_16:zápisu
+ff_3:zápisu
+ff_0:zápisu
+ff_8:rejstříku
+ff_14:přeměny
+ff_16:přeměny
+ff_0:přeměny
+ff_0:do
+ff_3:rejstříku
+ff_0:obchodního
+ff_0:rejstříku
+ff_6:do
+ff_8:obchodního
+ff_14:obchodního
+ff_16:do
+ff_14:majetku
+ff_16:majetku
+ff_3:případě
+ff_3:to
+ff_4:PRON_Case=Acc|Gender=Neut|Number=Sing|PronType=Dem
+ff_0:to
+ff_1:PRON_Case=Acc|Gender=Neut|Number=Sing|PronType=Dem
+ff_2:PDNS4----------
+ff_0:případě
+ff_14:to
+ff_15:PRON_Case=Acc|Gender=Neut|Number=Sing|PronType=Dem
+ff_0:zákon
+ff_6:přeměnách
+ff_7:NOUN_Case=Loc|Gender=Fem|Number=Plur|Polarity=Pos
+ff_8:přeměnách
+ff_9:NOUN_Case=Loc|Gender=Fem|Number=Plur|Polarity=Pos
+ff_3:přeměnách
+ff_4:NOUN_Case=Loc|Gender=Fem|Number=Plur|Polarity=Pos
+ff_10:jmění
+ff_11:NOUN_Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos
+ff_12:jmění
+ff_13:NOUN_Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos
+ff_0:přeměnách
+ff_1:NOUN_Case=Loc|Gender=Fem|Number=Plur|Polarity=Pos
+ff_2:NNFP6-----A----
+ff_3:zákon
+ff_6:jmění
+ff_8:jmění
+ff_8:přeměně
+ff_14:že
+ff_16:ocenění
+ff_18:zákon
+ff_19:NOUN_Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos
+ff_20:přeměně
+ff_21:NOUN_Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos
+ff_14:zákon
+ff_15:NOUN_Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos
+ff_16:přeměně
+ff_17:NOUN_Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos
+ff_3:společnosti
+ff_0:zanikající
+ff_1:ADJ_Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_2:AGFS2-----A----
+ff_8:jednotkou
+ff_14:zanikající
+ff_15:ADJ_Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_10:odštěpením
+ff_12:odštěpením
+ff_14:u
+ff_6:odštěpením
+ff_8:odštěpením
+ff_0:odštěpením
+ff_4:ADJ_Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_0:jen
+ff_1:PART__
+ff_2:TT-------------
+ff_6:jen
+ff_7:PART__
+ff_14:jednotka
+ff_0:tyto
+ff_1:DET_Case=Nom|Gender=Fem|Number=Plur|PronType=Dem
+ff_2:PDFP1----------
+ff_6:tyto
+ff_7:DET_Case=Nom|Gender=Fem|Number=Plur|PronType=Dem
+ff_15:ADJ_Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_10:ocenění
+ff_18:§
+ff_20:ocenění
+ff_21:NOUN_Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos
+ff_14:§
+ff_14:24
+ff_16:2
+ff_17:NUM_NumForm=Roman|NumType=Card
+ff_0:24
+ff_0:písm.
+ff_0:1
+ff_3:2
+ff_0:2
+ff_3:postupuje
+ff_0:postupuje
+ff_0:nástupnická
+ff_6:nástupnická
+ff_8:společník
+ff_9:NOUN_Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos
+ff_14:jednotkou
+ff_0:která
+ff_1:PRON_Case=Nom|Gender=Fem|Number=Sing|PronType=Int,Rel
+ff_2:P4FS1----------
+ff_14:která
+ff_15:PRON_Case=Nom|Gender=Fem|Number=Sing|PronType=Int,Rel
+ff_3:společník
+ff_4:NOUN_Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos
+ff_0:přejímající
+ff_1:ADJ_Animacy=Anim|Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_2:AGMS1-----A----
+ff_0:společník
+ff_1:NOUN_Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos
+ff_2:NNMS1-----A----
+ff_14:nebo
+ff_16:přejímající
+ff_17:ADJ_Animacy=Anim|Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_8:případě
+ff_4:ADJ_Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_8:7
+ff_14:7
+ff_0:7
+ff_10:(3)
+ff_8:2
+ff_14:2
+ff_6:základě
+ff_8:základě
+ff_0:základě
+ff_3:na
+ff_14:jmění
+ff_17:NOUN_Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos
+ff_7:NOUN_Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos
+ff_9:NOUN_Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos
+ff_1:NOUN_Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos
+ff_2:NNMS2-----A----
+ff_13:NOUN_Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos
+ff_10:společnosti
+ff_12:společnosti
+ff_4:NOUN_Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos
+ff_8:přeměny
+ff_16:pro
+ff_6:společnosti
+ff_3:přeměny
+ff_6:dni
+ff_7:NOUN_Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos
+ff_8:dni
+ff_3:dni
+ff_0:rozvahovému
+ff_0:dni
+ff_2:NNIS3-----A---1
+ff_4:ADJ_Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_14:rozvahovému
+ff_15:ADJ_Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_16:rozvahovému
+ff_8:pro
+ff_0:rozhodný
+ff_3:den
+ff_18:se
+ff_19:PRON_Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short
+ff_0:den
+ff_6:rozhodný
+ff_8:rozhodný
+ff_14:se
+ff_15:PRON_Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short
+ff_17:VERB_Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_3:dnem
+ff_10:knih
+ff_12:knih
+ff_13:NOUN_Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos
+ff_0:dnem
+ff_6:knih
+ff_8:knih
+ff_0:účetních
+ff_3:knih
+ff_0:knih
+ff_6:účetních
+ff_8:účetních
+ff_16:který
+ff_17:PRON_Case=Nom|Gender=Masc|Number=Sing|PronType=Int,Rel
+ff_13:VERB_Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_18:nebo
+ff_19:CCONJ__
+ff_20:dnem
+ff_21:NOUN_Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos
+ff_16:dnem
+ff_8:dnem
+ff_10:přeměny
+ff_12:rejstříku
+ff_18:rejstříku
+ff_19:NOUN_Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos
+ff_20:přeměny
+ff_21:NOUN_Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos
+ff_8:zápisu
+ff_14:zápisu
+ff_6:přeměny
+ff_14:rejstříku
+ff_1:ADJ_Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_2:AGFS1-----A----
+ff_6:zanikající
+ff_7:ADJ_Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_8:jednotka
+ff_15:ADJ_Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_17:ADJ_Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_8:majetku
+ff_10:se
+ff_11:PRON_Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short
+ff_12:dnem
+ff_18:dnem
+ff_19:NOUN_Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos
+ff_20:se
+ff_21:PRON_Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short
+ff_7:PRON_Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short
+ff_14:dnem
+ff_14:den
+ff_17:NOUN_Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos
+ff_12:ocenění
+ff_0:způsobem
+ff_3:způsobem
+ff_19:VERB_Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_20:závazků
+ff_21:NOUN_Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos
+ff_16:závazků
+ff_1:PRON_Case=Acc|Gender=Masc|Number=Plur|PronType=Int,Rel
+ff_2:P4YP4----------
+ff_15:PRON_Case=Acc|Gender=Masc|Number=Plur|PronType=Int,Rel
+ff_16:závěrce
+ff_3:závěrce
+ff_0:závěrce
+ff_9:ADJ_Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_10:den
+ff_12:den
+ff_8:předcházejícímu
+ff_9:ADJ_Animacy=Anim|Aspect=Imp|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_14:předcházejícímu
+ff_15:ADJ_Animacy=Anim|Aspect=Imp|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_16:ke
+ff_17:ADP_AdpType=Voc|Case=Dat
+ff_0:předcházejícímu
+ff_1:ADJ_Animacy=Anim|Aspect=Imp|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_2:AGMS3-----A----
+ff_6:den
+ff_8:den
+ff_3:předcházejícímu
+ff_4:ADJ_Animacy=Anim|Aspect=Imp|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_17:ADJ_Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_17:NOUN_Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur|Polarity=Pos
+ff_4:NOUN_Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur|Polarity=Pos
+ff_1:NOUN_Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur|Polarity=Pos
+ff_2:NNIP3-----A----
+ff_8:období
+ff_3:období
+ff_0:období
+ff_17:NOUN_Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos
+ff_0:účtuje
+ff_8:účtu
+ff_3:účtu
+ff_11:NOUN_Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos
+ff_13:NOUN_Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos
+ff_0:účtu
+ff_7:NOUN_Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos
+ff_18:z
+ff_20:přeměnách
+ff_16:přeměnách
+ff_16:způsobem
+ff_12:dni
+ff_13:NOUN_Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos
+ff_9:ADJ_Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_9:NOUN_Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos
+ff_4:NOUN_Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos
+ff_1:NOUN_Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos
+ff_2:NNFS3-----A----
+ff_8:položky
+ff_14:položky
+ff_0:položky
+ff_3:položky
+ff_14:rozdíl
+ff_18:rozdíl
+ff_0:rozdíl
+ff_10:;
+ff_1:DET_Case=Acc|Gender=Fem|Number=Sing|PronType=Dem
+ff_2:PDFS4----------
+ff_7:DET_Case=Acc|Gender=Fem|Number=Sing|PronType=Dem
+ff_9:DET_Case=Acc|Gender=Fem|Number=Sing|PronType=Dem
+ff_7:ADV_Degree=Pos|Polarity=Pos
+ff_17:ADJ_Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_4:ADJ_Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_3:případech
+ff_0:případech
+ff_8:uvedených
+ff_14:uvedených
+ff_0:uvedených
+ff_10:5
+ff_11:NUM_NumForm=Roman|NumType=Card
+ff_12:5
+ff_3:uvedených
+ff_4:ADJ_Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_8:4
+ff_14:4
+ff_0:4
+ff_6:5
+ff_7:NUM_NumForm=Roman|NumType=Card
+ff_8:5
+ff_3:5
+ff_0:5
+ff_3:4
+ff_14:přejímající
+ff_15:ADJ_Animacy=Anim|Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_14:rozdílů
+ff_13:NOUN_Case=Loc|Gender=Fem|Number=Plur|Polarity=Pos
+ff_19:NOUN_Case=Loc|Gender=Fem|Number=Plur|Polarity=Pos
+ff_15:NOUN_Case=Loc|Gender=Fem|Number=Plur|Polarity=Pos
+ff_16:§
+ff_12:účinky
+ff_13:NOUN_Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos
+ff_20:rejstříku
+ff_21:NOUN_Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos
+ff_8:účinky
+ff_9:NOUN_Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos
+ff_16:rejstříku
+ff_3:účinky
+ff_4:NOUN_Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos
+ff_0:účinky
+ff_1:NOUN_Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos
+ff_2:NNIP7-----A----
+ff_8:dne
+ff_14:dne
+ff_3:dne
+ff_0:dne
+ff_14:5
+ff_11:NOUN_Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos
+ff_3:odštěpením
+ff_18:hodnotou
+ff_20:hodnotou
+ff_0:přeshraniční
+ff_14:přeshraniční
+ff_16:přeshraniční
+ff_3:použije
+ff_12:přeměně
+ff_18:přeměně
+ff_19:NOUN_Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos
+ff_20:jmění
+ff_21:VERB_Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass
+ff_14:přeměně
+ff_15:NOUN_Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos
+ff_6:osoby
+ff_10:osoby
+ff_12:osoby
+ff_3:jmění
+ff_7:ADJ_Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_0:není-li
+ff_1:AUX__
+ff_1:DET_Case=Nom|Gender=Neut|Number=Sing|PronType=Dem
+ff_2:PDNS1----------
+ff_7:DET_Case=Nom|Gender=Neut|Number=Sing|PronType=Dem
+ff_17:DET_Case=Nom|Gender=Neut|Number=Sing|PronType=Dem
+ff_8:závěrce
+ff_14:není-li
+ff_15:AUX__
+ff_11:ADV_Degree=Sup|Polarity=Pos
+ff_13:ADV_Degree=Sup|Polarity=Pos
+ff_7:ADV_Degree=Sup|Polarity=Pos
+ff_9:ADV_Degree=Sup|Polarity=Pos
+ff_1:ADV_Degree=Sup|Polarity=Pos
+ff_2:Dg-------3A----
+ff_4:ADJ_Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_10:dni
+ff_11:NOUN_Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos
+ff_4:ADV_Degree=Sup|Polarity=Pos
+ff_16:má
+ff_17:VERB_Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_3:má
+ff_0:má
+ff_16:sídlo
+ff_0:sídlo
+ff_6:bude
+ff_7:VERB_Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act
+ff_8:bude
+ff_9:VERB_Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act
+ff_3:bude
+ff_4:VERB_Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act
+ff_1:VERB_Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act
+ff_3:je
+ff_4:AUX_Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_5:AUX
+ff_3:účtování
+ff_14:ocenění
+ff_15:NOUN_Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos
+ff_6:výjimkou
+ff_8:výjimkou
+ff_0:výjimkou
+ff_3:s
+ff_4:ADP_AdpType=Prep|Case=Ins
+ff_8:6
+ff_0:6
+ff_10:majetku
+ff_20:majetku
+ff_1:DET_Case=Loc|Gender=Masc,Neut|Number=Sing|PronType=Dem
+ff_2:PDZS6----------
+ff_9:DET_Case=Loc|Gender=Masc,Neut|Number=Sing|PronType=Dem
+ff_15:DET_Case=Loc|Gender=Masc,Neut|Number=Sing|PronType=Dem
+ff_8:účtuje
+ff_6:majetku
+ff_14:hodnotou
+ff_0:českou
+ff_4:NUM_Case=Ins|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3
+ff_1:NUM_Case=Ins|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3
+ff_2:ClFS7----------
+ff_3:jednotek
+ff_0:jednotek
+ff_15:ADJ_Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_8:má
+ff_14:má
+ff_15:VERB_Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_16:která
+ff_17:PRON_Case=Nom|Gender=Fem|Number=Sing|PronType=Int,Rel
+ff_10:sídlo
+ff_20:sídlo
+ff_21:NOUN_Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos
+ff_6:sídlo
+ff_0:i
+ff_6:i
+ff_14:nástupnická
+ff_16:nástupnická
+ff_15:NOUN_Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos
+ff_16:zákon
+ff_3:může
+ff_11:ADJ_Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_13:ADJ_Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_4:ADJ_Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_10:přeměnách
+ff_11:NOUN_Case=Loc|Gender=Fem|Number=Plur|Polarity=Pos
+ff_12:přeměnách
+ff_10:(5)
+ff_19:NOUN_Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos
+ff_11:ADV__
+ff_21:ADV__
+ff_4:ADJ_Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_16:1
+ff_10:případě
+ff_20:§
+ff_6:metody
+ff_8:metody
+ff_0:metody
+ff_3:metody
+ff_12:na
+ff_13:ADP_AdpType=Prep|Case=Acc
+ff_18:na
+ff_19:ADP_AdpType=Prep|Case=Acc
+ff_8:na
+ff_14:na
+ff_10:účetnictví
+ff_12:účetnictví
+ff_10:a
+ff_11:CCONJ__
+ff_19:ADJ_Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_21:ADJ_Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_6:účetnictví
+ff_8:účetnictví
+ff_6:situace
+ff_10:situace
+ff_12:jednotky
+ff_14:jednotky
+ff_16:situace
+ff_18:jednotky
+ff_19:NOUN_Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos
+ff_20:situace
+ff_3:situace
+ff_0:situace
+ff_6:závazky
+ff_8:závazky
+ff_3:závazky
+ff_0:závazky
+ff_13:ADJ_Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_19:ADJ_Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_8:českou
+ff_9:ADJ_Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_14:českou
+ff_15:ADJ_Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_3:aktiv
+ff_0:jiných
+ff_0:aktiv
+ff_14:jiných
+ff_15:ADJ_Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos
+ff_16:pasiv
+ff_17:NOUN_Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos
+ff_3:pasiv
+ff_0:pasiv
+ff_14:aktiv
+ff_15:NOUN_Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos
+ff_10:24
+ff_12:zákona
+ff_18:odst.
+ff_6:24
+ff_14:odst.
+ff_7:ADJ_Case=Gen|Gender=Fem|Number=Sing|NumType=Ord
+ff_9:ADJ_Case=Gen|Gender=Fem|Number=Sing|NumType=Ord
+ff_1:ADJ_Case=Gen|Gender=Fem|Number=Sing|NumType=Ord
+ff_2:CrFS2----------
+ff_6:účinky
+ff_7:NOUN_Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos
+ff_10:účinky
+ff_11:NOUN_Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos
+ff_18:kdy
+ff_21:NOUN_Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos
+ff_1:AUX_Gender=Fem,Neut|Number=Plur,Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act
+ff_2:VpQW---XR-NA---
+ff_16:5
+ff_14:za
+ff_11:ADJ_Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_13:ADJ_Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_14:při
+ff_20:den
+ff_16:den
+ff_8:1
+ff_14:1
+ff_16:použití
+ff_10:pasiv
+ff_13:NOUN_Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos
+ff_19:NOUN_Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos
+ff_20:pasiv
+ff_21:NOUN_Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos
+ff_6:pasiv
+ff_4:ADJ_Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_16:rozdílů
+ff_15:NOUN_Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos
+ff_9:NOUN_Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur|Polarity=Pos
+ff_15:NOUN_Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur|Polarity=Pos
+ff_1:ADJ_Case=Loc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_2:AAFP6----1A----
+ff_17:ADJ_Case=Loc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_3:použití
+ff_0:d)
+ff_0:použití
+ff_14:d)
+ff_9:ADJ_Case=Loc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_15:ADJ_Case=Loc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_4:ADJ_Case=Loc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_16:až
+ff_0:až
+ff_12:položek
+ff_8:těchto
+ff_9:DET_Case=Gen|Number=Plur|PronType=Dem
+ff_0:e)
+ff_14:e)
+ff_20:výnosů
+ff_16:výnosů
+ff_3:odstavců
+ff_10:2
+ff_12:2
+ff_0:odstavců
+ff_6:2
+ff_3:1
+ff_0:tak
+ff_12:se
+ff_13:ADP_AdpType=Voc|Case=Ins
+ff_19:ADP_AdpType=Voc|Case=Ins
+ff_0:by
+ff_1:AUX_Mood=Cnd|Person=3|VerbForm=Fin
+ff_2:Vc-------------
+ff_0:skutečnosti
+ff_3:skutečnosti
+ff_12:období
+ff_14:období
+ff_16:osoby
+ff_18:období
+ff_20:osoby
+ff_8:zanikající
+ff_9:ADJ_Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_16:dne
+ff_1:AUX_Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_2:VpTP---XR-AA---
+ff_1:ADJ_Animacy=Anim|Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_2:AGMS2-----A----
+ff_15:ADJ_Animacy=Anim|Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_17:ADJ_Animacy=Anim|Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_8:se
+ff_9:ADP_AdpType=Voc|Case=Ins
+ff_15:ADP_AdpType=Voc|Case=Ins
+ff_8:vyhláškou
+ff_14:vyhláškou
+ff_15:DET_Case=Ins|Gender=Fem|Number=Sing|PronType=Dem
+ff_14:účetních
+ff_16:účetních
+ff_8:písm.
+ff_6:a)
+ff_8:d)
+ff_14:až
+ff_3:písm.
+ff_6:případech
+ff_14:sestavení
+ff_16:sestavení
+ff_1:DET_Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem
+ff_2:PDIS4----------
+ff_19:AUX__
+ff_21:AUX__
+ff_7:DET_Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem
+ff_9:DET_Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem
+ff_17:AUX__
+ff_0:účetními
+ff_1:ADJ_Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_2:AAIP7----1A----
+ff_0:účetního
+ff_8:účetního
+ff_14:účetního
+ff_16:3
+ff_6:odstavců
+ff_8:odstavců
+ff_6:1
+ff_10:1
+ff_12:1
+ff_6:až
+ff_8:až
+ff_9:SCONJ__
+ff_1:ADJ_Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_2:AANS6----1A----
+ff_15:ADJ_Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_17:ADJ_Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_6:použití
+ff_10:použití
+ff_14:položek
+ff_18:položek
+ff_19:NOUN_Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos
+ff_20:použití
+ff_14:k
+ff_15:ADP_AdpType=Prep|Case=Dat
+ff_13:ADJ_Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_19:ADJ_Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_9:ADJ_Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_14:účetnictví
+ff_18:účetnictví
+ff_8:v
+ff_4:ADJ_Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_10:základě
+ff_12:základě
+ff_17:DET_Case=Nom|Gender=Fem|Number=Plur|PronType=Dem
+ff_12:majetku
+ff_0:není
+ff_9:VERB_Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass
+ff_7:NOUN_Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos
+ff_9:NOUN_Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos
+ff_8:způsobem
+ff_14:není
+ff_7:ADJ_Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_0:výše
+ff_7:NOUN_Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos
+ff_3:výše
+ff_3:lze
+ff_10:položky
+ff_11:NOUN_Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos
+ff_12:položky
+ff_13:NOUN_Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos
+ff_19:VERB_Polarity=Pos|VerbForm=Inf
+ff_20:případech
+ff_6:položky
+ff_7:NOUN_Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos
+ff_8:stanoví
+ff_21:NOUN_Case=Loc|Gender=Fem|Number=Plur|Polarity=Pos
+ff_0:stanoví
+ff_8:zákon
+ff_16:tak
+ff_17:NOUN_Case=Loc|Gender=Fem|Number=Plur|Polarity=Pos
+ff_10:daně
+ff_12:daně
+ff_6:daně
+ff_8:daně
+ff_0:daně
+ff_6:příjmů
+ff_8:příjmů
+ff_10:příjmů
+ff_12:příjmů
+ff_3:příjmů
+ff_0:příjmů
+ff_3:daně
+ff_8:z
+ff_9:ADP_AdpType=Prep|Case=Gen
+ff_15:NOUN_Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos
+ff_10:nákladů
+ff_12:nákladů
+ff_0:popřípadě
+ff_8:popřípadě
+ff_14:popřípadě
+ff_6:nákladů
+ff_1:ADP_AdpType=Voc|Case=Acc
+ff_2:RV--4----------
+ff_3:ve
+ff_4:ADP_AdpType=Voc|Case=Acc
+ff_7:ADP_AdpType=Voc|Case=Acc
+ff_8:ve
+ff_9:ADP_AdpType=Voc|Case=Acc
+ff_10:výše
+ff_12:výše
+ff_6:výše
+ff_8:výše
+ff_7:DET_Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_9:DET_Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_10:(4)
+ff_18:položky
+ff_19:NOUN_Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos
+ff_1:PRON_Case=Acc|Number=Plur|Person=3|PronType=Prs
+ff_2:PPXP4--3-------
+ff_6:je
+ff_7:PRON_Case=Acc|Number=Plur|Person=3|PronType=Prs
+ff_17:PRON_Case=Acc|Number=Plur|Person=3|PronType=Prs
+ff_3:majetek
+ff_1:ADJ_Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Neg
+ff_2:AAIS1----1N----
+ff_4:ADJ_Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_4:ADJ_Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Neg
+ff_0:dlouhodobý
+ff_0:majetek
+ff_8:dlouhodobý
+ff_15:ADJ_Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Neg
+ff_17:ADJ_Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Neg
+ff_3:používání
+ff_0:používání
+ff_6:používání
+ff_8:používání
+ff_0:být
+ff_1:AUX_Polarity=Pos|VerbForm=Inf
+ff_6:být
+ff_7:AUX_Polarity=Pos|VerbForm=Inf
+ff_16:být
+ff_17:AUX_Polarity=Pos|VerbForm=Inf
+ff_3:jinak
+ff_16:i
+ff_0:než
+ff_6:než
+ff_15:NOUN_Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos
+ff_3:odpisování
+ff_0:odpisování
+ff_3:použít
+ff_11:ADJ_Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_13:ADJ_Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_10:použít
+ff_18:.
+ff_19:PUNCT__
+ff_20:použít
+ff_0:použít
+ff_6:odpisování
+ff_10:odpisování
+ff_13:NOUN_Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos
+ff_16:odpisování
+ff_19:NOUN_Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos
+ff_20:odpisování
+ff_4:ADJ_Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_18:zákona
+ff_1:ADJ_Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Neg
+ff_2:AAIS4----1N----
+ff_4:PRON_Case=Dat|Gender=Masc,Neut|Number=Sing|PrepCase=Pre|PronType=Rel
+ff_1:PRON_Case=Dat|Gender=Masc,Neut|Number=Sing|PrepCase=Pre|PronType=Rel
+ff_2:P9ZS3----------
+ff_13:NOUN_Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos
+ff_19:PRON_Case=Dat|Gender=Masc,Neut|Number=Sing|PrepCase=Pre|PronType=Rel
+ff_15:PRON_Case=Dat|Gender=Masc,Neut|Number=Sing|PrepCase=Pre|PronType=Rel
+ff_15:NOUN_Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos
+ff_17:NOUN_Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos
+ff_0:jiné
+ff_14:jiné
+ff_16:jiné
+ff_14:majetek
+ff_0:též
+ff_6:též
+ff_16:též
+ff_20:pokud
+ff_21:SCONJ__
+ff_3:zhodnocení
+ff_0:technické
+ff_0:zhodnocení
+ff_16:technické
+ff_8:majetek
+ff_11:ADV_Degree=Pos|Polarity=Pos
+ff_13:ADV_Degree=Pos|Polarity=Pos
+ff_8:zhodnocení
+ff_6:technické
+ff_7:ADJ_Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_17:ADJ_Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_1:DET_Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_2:P8IS4----------
+ff_9:DET_Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_15:DET_Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_6:c)
+ff_14:technické
+ff_1:ADJ_Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Neg
+ff_2:AANS2----1N----
+ff_13:ADJ_Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Neg
+ff_19:ADJ_Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Neg
+ff_21:ADJ_Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_4:ADJ_Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Neg
+ff_9:ADJ_Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Neg
+ff_15:ADJ_Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Neg
+ff_1:ADJ_Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Neg
+ff_2:AAIS2----1N----
+ff_7:ADJ_Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Neg
+ff_9:ADJ_Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Neg
+ff_3:část
+ff_0:část
+ff_8:jen
+ff_9:PART__
+ff_11:ADJ_Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_21:ADJ_Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_7:ADJ_Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_6:.
+ff_8:.
+ff_1:ADJ_Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_2:AANS7----1A----
+ff_15:ADJ_Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_17:ADJ_Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_1:NUM_Case=Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3
+ff_2:ClYS1----------
+ff_9:NUM_Case=Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3
+ff_15:NUM_Case=Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3
+ff_4:PRON_Case=Nom|Gender=Neut|Number=Sing|PronType=Dem
+ff_1:PRON_Case=Nom|Gender=Neut|Number=Sing|PronType=Dem
+ff_15:PRON_Case=Nom|Gender=Neut|Number=Sing|PronType=Dem
+ff_9:ADJ_Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short
+ff_4:ADJ_Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short
+ff_3:kterých
+ff_4:PRON_Case=Gen|Number=Plur|PronType=Int,Rel
+ff_0:kterých
+ff_1:PRON_Case=Gen|Number=Plur|PronType=Int,Rel
+ff_2:P4XP2----------
+ff_8:u
+ff_18:kterých
+ff_19:PRON_Case=Gen|Number=Plur|PronType=Int,Rel
+ff_8:od
+ff_1:ADJ_Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short
+ff_2:ACNS------A----
+ff_14:kterých
+ff_15:PRON_Case=Gen|Number=Plur|PronType=Int,Rel
+ff_0:jejich
+ff_1:DET_Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_2:PSXXXXP3-------
+ff_6:jejich
+ff_7:DET_Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_8:jejich
+ff_9:DET_Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_0:f)
+ff_8:lze
+ff_14:f)
+ff_10:který
+ff_11:PRON_Case=Nom|Gender=Masc|Number=Sing|PronType=Int,Rel
+ff_20:který
+ff_21:PRON_Case=Nom|Gender=Masc|Number=Sing|PronType=Int,Rel
+ff_0:lze
+ff_6:který
+ff_7:PRON_Case=Nom|Gender=Masc|Number=Sing|PronType=Int,Rel
+ff_3:sestavují
+ff_16:6
+ff_0:včetně
+ff_6:včetně
+ff_3:průběhu
+ff_14:používání
+ff_16:používání
+ff_10:průběhu
+ff_12:průběhu
+ff_14:podle
+ff_12:situace
+ff_13:NOUN_Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos
+ff_18:situace
+ff_13:ADJ_Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_20:a
+ff_21:CCONJ__
+ff_8:situace
+ff_14:situace
+ff_11:NOUN_Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos
+ff_7:NOUN_Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos
+ff_3:rozumí
+ff_14:vyhlášky
+ff_0:této
+ff_1:DET_Case=Gen|Gender=Fem|Number=Sing|PronType=Dem
+ff_2:PDFS2----------
+ff_6:této
+ff_7:DET_Case=Gen|Gender=Fem|Number=Sing|PronType=Dem
+ff_8:této
+ff_9:DET_Case=Gen|Gender=Fem|Number=Sing|PronType=Dem
+ff_12:jednotkou
+ff_11:PRON_Case=Acc|Gender=Fem|Number=Sing|PronType=Int,Rel
+ff_12:okamžiku
+ff_18:okamžiku
+ff_21:PRON_Case=Acc|Gender=Fem|Number=Sing|PronType=Int,Rel
+ff_1:PRON_Case=Acc|Gender=Fem|Number=Sing|PronType=Int,Rel
+ff_2:P4FS4----------
+ff_1:AUX_Mood=Cnd|VerbForm=Fin
+ff_18:by
+ff_19:AUX_Mood=Cnd|VerbForm=Fin
+ff_14:by
+ff_15:AUX_Mood=Cnd|VerbForm=Fin
+ff_7:PRON_Case=Acc|Gender=Fem|Number=Sing|PronType=Int,Rel
+ff_14:okamžiku
+ff_17:PRON_Case=Acc|Gender=Fem|Number=Sing|PronType=Int,Rel
+ff_14:po
+ff_9:ADJ_Animacy=Anim|Aspect=Imp|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_15:ADJ_Animacy=Anim|Aspect=Imp|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_4:ADJ_Animacy=Anim|Aspect=Imp|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_1:ADJ_Animacy=Anim|Aspect=Imp|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_2:AGMP2-----A----
+ff_20:stanoví
+ff_21:VERB_Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_13:VERB_Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_18:že
+ff_20:tak
+ff_9:VERB_Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_4:VERB_Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_18:odstavce
+ff_12:hodnoty
+ff_18:hodnoty
+ff_13:ADJ_Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_1:VERB_Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_2:VpYS---XR-AA---
+ff_14:odstavce
+ff_10:jednotky
+ff_11:NOUN_Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos
+ff_21:NOUN_Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos
+ff_10:výši
+ff_12:výši
+ff_9:ADJ_Aspect=Imp|Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_15:ADJ_Aspect=Imp|Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_6:výši
+ff_8:výši
+ff_9:NOUN_Case=Loc|Gender=Neut|Number=Plur|Polarity=Pos
+ff_13:NOUN_Case=Loc|Gender=Neut|Number=Plur|Polarity=Pos
+ff_15:NOUN_Case=Loc|Gender=Neut|Number=Plur|Polarity=Pos
+ff_19:NOUN_Case=Loc|Gender=Neut|Number=Plur|Polarity=Pos
+ff_9:ADJ_Case=Loc|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos
+ff_3:rozdíl
+ff_14:pořizovací
+ff_8:předpisu
+ff_3:předpisu
+ff_0:právního
+ff_0:předpisu
+ff_14:právního
+ff_16:právního
+ff_8:nabytí
+ff_7:ADJ_Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_6:předpisů
+ff_10:předpisů
+ff_12:předpisů
+ff_9:NOUN_Abbr=Yes|Gender=Fem|Polarity=Pos
+ff_4:NOUN_Abbr=Yes|Gender=Fem|Polarity=Pos
+ff_1:NOUN_Abbr=Yes|Gender=Fem|Polarity=Pos
+ff_2:NNFXX-----A---8
+ff_17:NOUN_Abbr=Yes|Gender=Fem|Polarity=Pos
+ff_9:NOUN_Abbr=Yes|Animacy=Inan|Gender=Masc|Polarity=Pos
+ff_1:NOUN_Abbr=Yes|Animacy=Inan|Gender=Masc|Polarity=Pos
+ff_2:NNIXX-----A---8
+ff_21:NOUN_Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos
+ff_1:PRON_Abbr=Yes|PronType=Dem
+ff_2:PDXXX---------8
+ff_7:NOUN_Abbr=Yes|Animacy=Inan|Gender=Masc|Polarity=Pos
+ff_4:NOUN_Abbr=Yes|Animacy=Inan|Gender=Masc|Polarity=Pos
+ff_4:PRON_Abbr=Yes|PronType=Dem
+ff_6:případě
+ff_19:ADJ_Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_21:ADJ_Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Neg
+ff_4:ADJ_Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Neg
+ff_17:ADJ_Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Neg
+ff_18:majetku
+ff_20:podíl
+ff_1:ADJ_Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_2:AAMS1----1A----
+ff_7:ADJ_Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_9:ADJ_Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_3:podíl
+ff_0:podíl
+ff_7:DET_Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_17:DET_Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_13:PRON_Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short
+ff_11:ADJ_Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_19:ADJ_Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Neg
+ff_21:ADJ_Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Neg
+ff_9:PRON_Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short
+ff_9:VERB_Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_15:VERB_Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_16:za
+ff_4:VERB_Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_1:VERB_Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_17:NOUN_Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos
+ff_1:NOUN_Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos
+ff_2:NNMS7-----A----
+ff_4:NOUN_Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos
+ff_11:NOUN_Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos
+ff_13:NOUN_Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos
+ff_19:NOUN_Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos
+ff_21:NOUN_Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos
+ff_9:NOUN_Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos
+ff_15:NOUN_Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos
+ff_1:NOUN_Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos
+ff_2:NNMP2-----A----
+ff_7:NOUN_Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos
+ff_17:NOUN_Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos
+ff_4:NOUN_Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos
+ff_0:tento
+ff_1:DET_Case=Nom|Gender=Masc|Number=Sing|PronType=Dem
+ff_2:PDYS1----------
+ff_3:dlouhodobý
+ff_11:ADJ_Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_6:tento
+ff_7:DET_Case=Nom|Gender=Masc|Number=Sing|PronType=Dem
+ff_8:tento
+ff_9:DET_Case=Nom|Gender=Masc|Number=Sing|PronType=Dem
+ff_10:majetek
+ff_12:majetek
+ff_10:dlouhodobý
+ff_13:ADJ_Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Neg
+ff_19:ADJ_Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Neg
+ff_20:dlouhodobý
+ff_21:ADJ_Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_4:ADJ_Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Neg
+ff_6:dlouhodobý
+ff_9:ADJ_Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Neg
+ff_15:ADJ_Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Neg
+ff_16:dlouhodobý
+ff_6:majetek
+ff_9:VERB_Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|VerbForm=Part|Voice=Pass
+ff_15:VERB_Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|VerbForm=Part|Voice=Pass
+ff_4:VERB_Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|VerbForm=Part|Voice=Pass
+ff_11:NOUN_Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos
+ff_13:NOUN_Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos
+ff_1:DET_Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel
+ff_2:P1XXXZS3-------
+ff_8:odpisování
+ff_15:DET_Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel
+ff_17:DET_Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel
+ff_1:VERB_Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|VerbForm=Part|Voice=Pass
+ff_2:VsQW---XX-AP---
+ff_7:NOUN_Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos
+ff_16:než
+ff_14:zhodnocení
+ff_6:zhodnocení
+ff_10:zhodnocení
+ff_20:zhodnocení
+ff_13:VERB_Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass
+ff_19:VERB_Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass
+ff_12:zhodnocení
+ff_18:zhodnocení
+ff_19:NOUN_Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos
+ff_16:účtovat
+ff_17:VERB_Polarity=Pos|VerbForm=Inf
+ff_8:technické
+ff_9:ADJ_Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_16:zhodnocení
+ff_9:NOUN_Case=Dat|Gender=Fem|Number=Plur|Polarity=Neg
+ff_4:NOUN_Case=Dat|Gender=Fem|Number=Plur|Polarity=Neg
+ff_1:NOUN_Case=Dat|Gender=Fem|Number=Plur|Polarity=Neg
+ff_2:NNFP3-----N----
+ff_17:NOUN_Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos
+ff_19:NOUN_Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos
+ff_3:uvede
+ff_6:nabytí
+ff_0:právních
+ff_6:právních
+ff_16:právních
+ff_8:příloze
+ff_3:příloze
+ff_0:příloze
+ff_21:NOUN_Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos
+ff_1:ADJ_Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Neg
+ff_2:AANS6----1N----
+ff_13:ADJ_Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Neg
+ff_21:ADJ_Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_4:ADJ_Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Neg
+ff_9:ADJ_Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Neg
+ff_15:PRON_Case=Acc|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs|Style=Arch
+ff_17:PRON_Case=Acc|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs|Style=Arch
+ff_1:PRON_Case=Acc|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs|Style=Arch
+ff_2:PPZS4--3------2
+ff_1:ADJ_Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos
+ff_2:AANP1----1A----
+ff_1:PRON_Case=Nom|Gender=Neut|Number=Plur|PronType=Int,Rel
+ff_2:P4NP1----------
+ff_0:nejsou
+ff_1:AUX_Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_15:PRON_Case=Nom|Gender=Neut|Number=Plur|PronType=Int,Rel
+ff_16:nejsou
+ff_17:AUX_Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_7:ADJ_Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_9:ADJ_Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_15:ADJ_Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_17:ADJ_Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_13:VERB_Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass
+ff_18:b)
+ff_16:není
+ff_16:c)
+ff_7:ADJ_Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Neg
+ff_9:ADJ_Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Neg
+ff_12:stanoveno
+ff_18:e)
+ff_8:stanoveno
+ff_18:není-li
+ff_8:f)
+ff_0:g)
+ff_14:g)
+ff_10:které
+ff_11:PRON_Case=Acc|Gender=Masc|Number=Plur|PronType=Int,Rel
+ff_20:které
+ff_21:PRON_Case=Acc|Gender=Masc|Number=Plur|PronType=Int,Rel
+ff_6:které
+ff_7:PRON_Case=Acc|Gender=Masc|Number=Plur|PronType=Int,Rel
+ff_16:které
+ff_17:PRON_Case=Acc|Gender=Masc|Number=Plur|PronType=Int,Rel
+ff_12:odpisování
+ff_17:NOUN_Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos
+ff_6:7
+ff_8:a)
+ff_16:písm.
+ff_15:NOUN_Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos
+ff_1:ADJ_Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Neg
+ff_2:AAFP4----1N----
+ff_9:ADJ_Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Neg
+ff_15:ADJ_Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Neg
+ff_8:b)
+ff_16:komponenty
+ff_20:komponenty
+ff_6:použije
+ff_8:použije
+ff_10:použije
+ff_12:použije
+ff_4:PRON_Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel
+ff_19:PRON_Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel
+ff_21:PRON_Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel
+ff_1:PRON_Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel
+ff_2:P4ZS2----------
+ff_0:použije
+ff_15:PRON_Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel
+ff_17:PRON_Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel
+ff_0:komponenty
+ff_1:DET_Case=Gen|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_2:PSZS2FS3-------
+ff_9:DET_Case=Gen|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_15:DET_Case=Gen|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_16:včetně
+ff_1:DET_Case=Gen|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_2:P8XP2----------
+ff_9:DET_Case=Gen|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_15:DET_Case=Gen|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_1:DET_Case=Acc|Gender=Fem|Number=Plur|PronType=Dem
+ff_2:PDFP4----------
+ff_19:VERB_Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_7:DET_Case=Acc|Gender=Fem|Number=Plur|PronType=Dem
+ff_8:tyto
+ff_9:DET_Case=Acc|Gender=Fem|Number=Plur|PronType=Dem
+ff_8:účetním
+ff_14:účetním
+ff_20:část
+ff_16:odstavce
+ff_3:které
+ff_4:PRON_Case=Gen|Gender=Fem|Number=Sing|PronType=Int,Rel
+ff_1:PRON_Case=Gen|Gender=Fem|Number=Sing|PronType=Int,Rel
+ff_2:P4FS2----------
+ff_15:PRON_Case=Gen|Gender=Fem|Number=Sing|PronType=Int,Rel
+ff_14:výši
+ff_15:NOUN_Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos
+ff_1:DET_Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel
+ff_2:P1FSXFS3-------
+ff_7:DET_Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel
+ff_17:DET_Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel
+ff_8:komponenty
+ff_12:komponenty
+ff_14:komponenty
+ff_18:komponenty
+ff_19:NOUN_Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos
+ff_3:komponenty
+ff_8:jako
+ff_11:NOUN_Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos
+ff_20:okamžiku
+ff_20:odstavce
+ff_14:(
+ff_14:od
+ff_16:výši
+ff_10:komponenty
+ff_6:komponenty
+ff_11:ADJ_Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_19:NOUN_Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos
+ff_21:ADJ_Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_9:ADJ_Animacy=Inan|Aspect=Imp|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_1:ADJ_Animacy=Inan|Aspect=Imp|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_2:AGIP4-----A----
+ff_4:ADJ_Animacy=Inan|Aspect=Imp|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_16:výše
+ff_7:DET_Case=Gen|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_10:ceny
+ff_18:nákladů
+ff_20:ceny
+ff_6:ceny
+ff_16:ceny
+ff_8:do
+ff_8:celku
+ff_3:celku
+ff_0:celku
+ff_18:majetek
+ff_20:majetek
+ff_14:jako
+ff_16:majetek
+ff_21:PRON_Case=Ins|Gender=Masc,Neut|Number=Sing|PronType=Dem
+ff_14:celku
+ff_16:tohoto
+ff_17:DET_Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Dem
+ff_4:PRON_Case=Ins|Gender=Masc,Neut|Number=Sing|PronType=Dem
+ff_1:PRON_Case=Ins|Gender=Masc,Neut|Number=Sing|PronType=Dem
+ff_2:PDZS7----------
+ff_12:účtování
+ff_13:NOUN_Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos
+ff_21:NOUN_Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos
+ff_17:NOUN_Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos
+ff_1:ADJ_Case=Loc|Gender=Neut|Number=Sing|NumType=Ord
+ff_2:CrNS6----------
+ff_15:ADJ_Case=Loc|Gender=Neut|Number=Sing|NumType=Ord
+ff_17:ADJ_Case=Loc|Gender=Neut|Number=Sing|NumType=Ord
+ff_1:AUX_Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_18:použití
+ff_9:ADJ_Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing|Polarity=Pos
+ff_4:ADJ_Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing|Polarity=Pos
+ff_9:ADJ_Aspect=Imp|Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_15:ADJ_Aspect=Imp|Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_1:ADJ_Aspect=Imp|Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_2:AGFP2-----A----
+ff_10:být
+ff_11:AUX_Polarity=Pos|VerbForm=Inf
+ff_20:být
+ff_21:AUX_Polarity=Pos|VerbForm=Inf
+ff_4:ADJ_Aspect=Imp|Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_9:ADJ_Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_1:ADJ_Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing|Polarity=Pos
+ff_2:AAFS1----2A----
+ff_9:ADJ_Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_15:ADJ_Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_4:ADJ_Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_8:rezerv
+ff_12:rezerv
+ff_14:rezerv
+ff_18:rezerv
+ff_0:rezerv
+ff_14:závazků
+ff_9:ADJ_Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short
+ff_4:ADJ_Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short
+ff_4:PRON_Case=Gen|Number=Plur|PrepCase=Pre|PronType=Rel
+ff_1:PRON_Case=Gen|Number=Plur|PrepCase=Pre|PronType=Rel
+ff_2:P9XP2----------
+ff_1:ADJ_Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short
+ff_2:ACYS------A----
+ff_15:PRON_Case=Gen|Number=Plur|PrepCase=Pre|PronType=Rel
+ff_8:nastanou
+ff_3:nastanou
+ff_0:nastanou
+ff_8:že
+ff_11:NOUN_Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos
+ff_13:PRON_Case=Dat|Gender=Masc,Neut|Number=Sing|PrepCase=Pre|PronType=Rel
+ff_20:,
+ff_21:PUNCT__
+ff_9:PRON_Case=Dat|Gender=Masc,Neut|Number=Sing|PrepCase=Pre|PronType=Rel
+ff_3:rezerv
+ff_8:právních
+ff_14:těchto
+ff_15:DET_Case=Gen|Number=Plur|PronType=Dem
+ff_6:rezerv
+ff_4:ADP_AdpType=Prep|Case=Acc
+ff_14:použití
+ff_14:jejich
+ff_15:DET_Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_9:NOUN_Case=Acc|Gender=Fem|Number=Sing|Polarity=Neg
+ff_15:NOUN_Case=Acc|Gender=Fem|Number=Sing|Polarity=Neg
+ff_4:NOUN_Case=Acc|Gender=Fem|Number=Sing|Polarity=Neg
+ff_1:NOUN_Case=Acc|Gender=Fem|Number=Sing|Polarity=Neg
+ff_2:NNFS4-----N----
+ff_0:následujícího
+ff_14:následujícího
+ff_15:ADJ_Aspect=Imp|Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_16:následujícího
+ff_17:ADJ_Aspect=Imp|Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_13:NOUN_Case=Dat|Gender=Fem|Number=Plur|Polarity=Pos
+ff_19:NOUN_Case=Dat|Gender=Fem|Number=Plur|Polarity=Pos
+ff_21:NOUN_Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos
+ff_9:NOUN_Case=Dat|Gender=Fem|Number=Plur|Polarity=Pos
+ff_15:NOUN_Case=Dat|Gender=Fem|Number=Plur|Polarity=Pos
+ff_4:NOUN_Case=Dat|Gender=Fem|Number=Plur|Polarity=Pos
+ff_1:NOUN_Case=Dat|Gender=Fem|Number=Plur|Polarity=Pos
+ff_2:NNFP3-----A----
+ff_14:výše
+ff_6:aktiv
+ff_8:aktiv
+ff_10:aktiv
+ff_12:aktiv
+ff_16:rezerv
+ff_14:závěrce
+ff_13:ADJ_Animacy=Anim|Aspect=Imp|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_20:položky
+ff_16:položky
+ff_13:ADJ_Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_3:kterém
+ff_4:PRON_Case=Loc|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel
+ff_0:kterém
+ff_1:PRON_Case=Loc|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel
+ff_2:P4ZS6----------
+ff_9:ADP_AdpType=Voc|Case=Loc
+ff_18:kterém
+ff_19:PRON_Case=Loc|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel
+ff_21:AUX_Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_14:kterém
+ff_15:PRON_Case=Loc|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel
+ff_17:AUX_Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_1:ADJ_Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Neg
+ff_2:AAFP2----1N----
+ff_15:ADJ_Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Neg
+ff_17:ADJ_Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Neg
+ff_14:včetně
+ff_0:odložené
+ff_8:odložené
+ff_14:odložené
+ff_8:při
+ff_2:VpTP---XR-AA--1
+ff_1:ADJ_Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Neg
+ff_2:AAFS7----1N----
+ff_7:ADJ_Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Neg
+ff_17:ADJ_Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Neg
+ff_10:k
+ff_11:ADP_AdpType=Prep|Case=Dat
+ff_12:k
+ff_13:ADP_AdpType=Prep|Case=Dat
+ff_0:tato
+ff_1:DET_Case=Nom|Gender=Fem|Number=Sing|PronType=Dem
+ff_2:PDFS1----------
+ff_6:tato
+ff_7:DET_Case=Nom|Gender=Fem|Number=Sing|PronType=Dem
+ff_8:tato
+ff_9:DET_Case=Nom|Gender=Fem|Number=Sing|PronType=Dem
+ff_1:ADP_AdpType=Comprep
+ff_2:RF-------------
+ff_4:ADP_AdpType=Comprep
+ff_7:ADP_AdpType=Comprep
+ff_17:ADP_AdpType=Comprep
+ff_16:nákladů
+ff_18:závěrce
+ff_14:reálnou
+ff_4:ADJ_Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_13:ADJ_Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_20:s
+ff_21:ADP_AdpType=Prep|Case=Ins
+ff_1:DET_Case=Dat|Gender=Fem|Number=Sing|PronType=Dem
+ff_2:PDFS3----------
+ff_1:ADJ_Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_2:AAFS3----1A----
+ff_7:ADJ_Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_9:ADJ_Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_4:ADJ_Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_13:ADJ_Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_19:ADP_AdpType=Prep|Case=Dat
+ff_21:DET_Case=Dat|Gender=Fem|Number=Sing|PronType=Dem
+ff_17:DET_Case=Dat|Gender=Fem|Number=Sing|PronType=Dem
+ff_1:NUM_Case=Gen|Gender=Masc,Neut|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3
+ff_2:ClZS2----------
+ff_2:NNIS2-----A---1
+ff_9:NUM_Case=Gen|Gender=Masc,Neut|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3
+ff_15:NUM_Case=Gen|Gender=Masc,Neut|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3
+ff_14:příjmů
+ff_10:účtů
+ff_12:účtů
+ff_6:účtů
+ff_8:účtů
+ff_15:ADJ_Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_10:obchodního
+ff_12:obchodního
+ff_6:obchodního
+ff_3:obchodního
+ff_6:odložené
+ff_10:(1)
+ff_20:jednotky
+ff_9:PRON_Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+ff_15:PRON_Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+ff_1:PRON_Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+ff_2:PPFS4--3-------
+ff_17:VERB_Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_17:PRON_Case=Nom|Gender=Fem|Number=Plur|PronType=Int,Rel
+ff_0:konsolidační
+ff_6:konsolidační
+ff_8:konsolidační
+ff_8:sestavují
+ff_0:sestavují
+ff_3:závěrku
+ff_0:závěrku
+ff_3:rozsahu
+ff_0:rozsahu
+ff_18:účtovat
+ff_1:AUX_Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act
+ff_2:VB-P---3F-AA---
+ff_9:ADJ_Aspect=Imp|Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_1:ADJ_Aspect=Imp|Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_2:AGFS6-----A----
+ff_4:ADJ_Aspect=Imp|Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_8:rozvahového
+ff_11:VERB_Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|VerbForm=Part|Voice=Pass
+ff_13:VERB_Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|VerbForm=Part|Voice=Pass
+ff_7:VERB_Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|VerbForm=Part|Voice=Pass
+ff_18:k
+ff_11:ADJ_Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_13:ADJ_Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_4:ADP_AdpType=Voc|Case=Loc
+ff_8:hospodaření
+ff_11:ADJ_Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_14:hospodaření
+ff_0:hospodaření
+ff_7:ADJ_Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_9:ADJ_Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_1:ADJ_Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_2:AAMS3----1A----
+ff_3:hospodaření
+ff_4:ADJ_Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_16:období
+ff_1:ADJ_Case=Loc|Degree=Cmp|Gender=Neut|Number=Sing|Polarity=Pos
+ff_2:AANS6----2A----
+ff_9:ADJ_Case=Loc|Degree=Cmp|Gender=Neut|Number=Sing|Polarity=Pos
+ff_15:ADJ_Case=Loc|Degree=Cmp|Gender=Neut|Number=Sing|Polarity=Pos
+ff_13:ADJ_Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos
+ff_19:ADJ_Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos
+ff_20:daně
+ff_16:bude
+ff_17:AUX_Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act
+ff_9:ADJ_Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos
+ff_15:ADJ_Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos
+ff_16:daně
+ff_10:období
+ff_6:období
+ff_4:ADJ_Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos
+ff_15:VERB_Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass
+ff_21:AUX_Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act
+ff_17:AUX_Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act
+ff_4:ADJ_Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Variant=Short
+ff_14:daně
+ff_16:tato
+ff_17:DET_Case=Nom|Gender=Fem|Number=Sing|PronType=Dem
+ff_1:ADJ_Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Variant=Short
+ff_2:ACQW------A----
+ff_3:metoda
+ff_0:metoda
+ff_16:metoda
+ff_8:rozdíly
+ff_0:rozdíly
+ff_12:pasiv
+ff_16:aktiv
+ff_8:pasiv
+ff_12:uvedených
+ff_18:uvedených
+ff_19:ADJ_Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_14:pasiv
+ff_19:NOUN_Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos
+ff_6:účtu
+ff_10:účtu
+ff_12:účtu
+ff_16:rozdíl
+ff_16:odložené
+ff_17:NOUN_Case=Dat|Gender=Neut|Number=Plur|Polarity=Pos
+ff_4:NOUN_Case=Dat|Gender=Neut|Number=Plur|Polarity=Pos
+ff_1:ADJ_Case=Dat|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos
+ff_2:AANP3----1A----
+ff_1:NOUN_Case=Dat|Gender=Neut|Number=Plur|Polarity=Pos
+ff_2:NNNP3-----A----
+ff_9:ADJ_Case=Dat|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos
+ff_15:ADJ_Case=Dat|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos
+ff_17:ADJ_Case=Dat|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos
+ff_6:účtové
+ff_9:ADJ_Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_1:ADJ_Aspect=Imp|Case=Loc|Gender=Neut|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_2:AGNP6-----A----
+ff_9:ADJ_Aspect=Imp|Case=Loc|Gender=Neut|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_15:ADJ_Aspect=Imp|Case=Loc|Gender=Neut|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_18:daně
+ff_1:PRON_Case=Gen|Number=Plur|PronType=Tot
+ff_2:PLXP2----------
+ff_15:PRON_Case=Gen|Number=Plur|PronType=Tot
+ff_17:PRON_Case=Gen|Number=Plur|PronType=Tot
+ff_14:metody
+ff_10:změny
+ff_9:ADJ_Animacy=Inan|Aspect=Imp|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_15:ADJ_Animacy=Inan|Aspect=Imp|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_1:ADJ_Animacy=Inan|Aspect=Imp|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_2:AGIP1-----A----
+ff_4:ADJ_Animacy=Inan|Aspect=Imp|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_6:účetního
+ff_14:ke
+ff_15:ADP_AdpType=Voc|Case=Dat
+ff_8:závěrka
+ff_3:závěrka
+ff_0:závěrka
+ff_15:ADP_AdpType=Voc|Case=Acc
+ff_17:ADP_AdpType=Voc|Case=Acc
+ff_16:pohledávek
+ff_21:NUM_NumForm=Roman|NumType=Card
+ff_10:rozdíly
+ff_20:účtu
+ff_6:rozdíly
+ff_16:účtu
+ff_4:PRON_Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel
+ff_1:PRON_Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel
+ff_2:P4ZS3----------
+ff_8:ke
+ff_9:ADP_AdpType=Voc|Case=Dat
+ff_15:PRON_Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel
+ff_16:závěrka
+ff_18:ocenění
+ff_16:hodnotou
+ff_3:není
+ff_8:podíl
+ff_14:podíl
+ff_10:není
+ff_20:účtů
+ff_18:není
+ff_10:nebo
+ff_11:VERB_Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass
+ff_20:nákladů
+ff_14:finančních
+ff_16:finančních
+ff_1:PRON_Case=Dat|Gender=Fem|Number=Sing|PronType=Int,Rel
+ff_2:P4FS3----------
+ff_19:PRON_Case=Dat|Gender=Fem|Number=Sing|PronType=Int,Rel
+ff_15:PRON_Case=Dat|Gender=Fem|Number=Sing|PronType=Int,Rel
+ff_11:PRON_Case=Ins|Number=Plur|PronType=Int,Rel
+ff_1:PRON_Case=Ins|Number=Plur|PronType=Int,Rel
+ff_2:P4XP7----------
+ff_2:VpQW---XR-AA--1
+ff_7:PRON_Case=Ins|Number=Plur|PronType=Int,Rel
+ff_4:ADJ_Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_7:ADJ_Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_1:DET_Number[psor]=Plur|Person=3|Poss=Yes|PronType=Rel
+ff_2:P1XXXXP3-------
+ff_7:DET_Number[psor]=Plur|Person=3|Poss=Yes|PronType=Rel
+ff_9:DET_Number[psor]=Plur|Person=3|Poss=Yes|PronType=Rel
+ff_4:PRON_Case=Loc|Number=Plur|PrepCase=Pre|PronType=Rel
+ff_1:PRON_Case=Loc|Number=Plur|PrepCase=Pre|PronType=Rel
+ff_2:P9XP6----------
+ff_15:PRON_Case=Loc|Number=Plur|PrepCase=Pre|PronType=Rel
+ff_1:DET_Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Dem
+ff_2:PDIP1----------
+ff_7:DET_Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Dem
+ff_16:tyto
+ff_17:DET_Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Dem
+ff_20:kdy
+ff_16:kdy
+ff_3:musí
+ff_16:závazky
+ff_20:podmínky
+ff_9:ADJ_Case=Acc|Gender=Fem|Number=Sing|NumType=Ord
+ff_15:ADJ_Case=Acc|Gender=Fem|Number=Sing|NumType=Ord
+ff_1:ADJ_Case=Acc|Gender=Fem|Number=Sing|NumType=Ord
+ff_2:CrFS4----------
+ff_16:okamžiku
+ff_10:3
+ff_12:3
+ff_6:3
+ff_3:3
+ff_16:4
+ff_9:ADJ_Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Variant=Short
+ff_7:NUM_Case=Ins|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3
+ff_9:NUM_Case=Ins|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3
+ff_4:ADJ_Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Variant=Short
+ff_1:ADJ_Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Variant=Short
+ff_2:ACTP------A----
+ff_6:popřípadě
+ff_1:ADJ_Case=Gen|Gender=Neut|Number=Sing|NumType=Ord
+ff_2:CrNS2----------
+ff_9:NOUN_Case=Ins|Gender=Neut|Number=Plur|Polarity=Pos
+ff_15:ADJ_Case=Gen|Gender=Neut|Number=Sing|NumType=Ord
+ff_17:ADJ_Case=Gen|Gender=Neut|Number=Sing|NumType=Ord
+ff_1:ADJ_Case=Ins|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos
+ff_2:AANP7----1A----
+ff_4:NOUN_Case=Ins|Gender=Neut|Number=Plur|Polarity=Pos
+ff_10:výjimkou
+ff_12:výjimkou
+ff_1:NOUN_Case=Ins|Gender=Neut|Number=Plur|Polarity=Pos
+ff_2:NNNP7-----A----
+ff_7:ADJ_Case=Ins|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos
+ff_17:ADJ_Case=Ins|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos
+ff_11:NOUN_Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos
+ff_13:NOUN_Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos
+ff_7:NOUN_Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos
+ff_17:ADJ_Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_18:dlouhodobý
+ff_4:ADJ_Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_14:dlouhodobý
+ff_10:pohledávek
+ff_13:ADJ_Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_19:ADJ_Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_20:pohledávek
+ff_14:též
+ff_6:pohledávek
+ff_6:zákona
+ff_10:nabytí
+ff_12:nabytí
+ff_10:než
+ff_12:než
+ff_13:SCONJ__
+ff_8:než
+ff_4:ADV_Degree=Cmp|Polarity=Pos
+ff_1:NUM_Case=Gen|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3
+ff_2:ClFS2----------
+ff_15:NUM_Case=Gen|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3
+ff_17:NUM_Case=Gen|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3
+ff_16:b)
+ff_8:ceny
+ff_18:nabytí
+ff_19:NOUN_Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos
+ff_8:pořizovací
+ff_8:použití
+ff_12:použití
+ff_6:6
+ff_10:6
+ff_12:d)
+ff_20:písm.
+ff_11:AUX_Gender=Neut|Polarity=Pos
+ff_1:ADJ_Case=Dat|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_2:AAFP3----1A----
+ff_17:ADJ_Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Neg
+ff_8:též
+ff_4:ADJ_Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Neg
+ff_9:NOUN_Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos
+ff_1:ADJ_Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Neg
+ff_2:AAFS2----1N----
+ff_1:PRON_Case=Nom|Gender=Masc|Number=Sing|PrepCase=Npr|PronType=Rel
+ff_2:PJYS1----------
+ff_15:PRON_Case=Nom|Gender=Masc|Number=Sing|PrepCase=Npr|PronType=Rel
+ff_17:PRON_Case=Nom|Gender=Masc|Number=Sing|PrepCase=Npr|PronType=Rel
+ff_15:ADJ_Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_17:ADJ_Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_12:předpisu
+ff_18:předpisu
+ff_21:NOUN_Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos
+ff_14:předpisu
+ff_0:zvláštního
+ff_8:právního
+ff_14:zvláštního
+ff_16:zvláštního
+ff_16:jen
+ff_17:PART__
+ff_16:h)
+ff_0:h)
+ff_4:ADJ_Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_13:ADJ_Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_19:ADJ_Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_20:k
+ff_21:ADP_AdpType=Prep|Case=Dat
+ff_8:část
+ff_1:ADJ_Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Neg
+ff_2:AAFS4----1N----
+ff_7:ADJ_Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Neg
+ff_17:ADJ_Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Neg
+ff_1:ADJ_Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|NumType=Ord
+ff_2:CrIS4----------
+ff_7:ADJ_Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|NumType=Ord
+ff_17:ADJ_Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|NumType=Ord
+ff_16:účetního
+ff_3:němž
+ff_4:PRON_Case=Loc|Gender=Masc,Neut|Number=Sing|PrepCase=Pre|PronType=Rel
+ff_0:němž
+ff_1:PRON_Case=Loc|Gender=Masc,Neut|Number=Sing|PrepCase=Pre|PronType=Rel
+ff_2:P9ZS6----------
+ff_1:PRON_Case=Dat|Number=Plur|Person=3|PronType=Prs
+ff_2:PPXP3--3-------
+ff_14:němž
+ff_15:PRON_Case=Loc|Gender=Masc,Neut|Number=Sing|PrepCase=Pre|PronType=Rel
+ff_16:povinnost
+ff_0:povinnost
+ff_16:7
+ff_11:ADP_AdpType=Prep|Case=Gen
+ff_13:ADJ_Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Neg
+ff_21:ADJ_Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_7:VERB_Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass
+ff_11:VERB_Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass
+ff_13:VERB_Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass
+ff_21:ADJ_Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_1:ADJ_Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|NumType=Ord
+ff_2:CrMS3----------
+ff_15:ADJ_Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|NumType=Ord
+ff_17:ADJ_Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|NumType=Ord
+ff_1:ADJ_Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Neg
+ff_2:AAFS1----1N----
+ff_7:ADJ_Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Neg
+ff_0:uvede
+ff_14:část
+ff_16:část
+ff_20:období
+ff_14:účtů
+ff_18:aktiv
+ff_14:mezi
+ff_16:mezi
+ff_18:pasiv
+ff_19:NOUN_Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos
+ff_19:ADP_AdpType=Prep|Case=Loc
+ff_4:PUNCT__
+ff_5:PUNCT
+ff_4:SYM__
+ff_5:SYM
+ff_1:ADJ_Case=Nom|Gender=Fem|Number=Sing|NumType=Ord
+ff_2:CrFS1----------
+ff_18:závěrky
+ff_0:konsolidované
+ff_14:konsolidované
+ff_16:konsolidované
+ff_0:konsolidující
+ff_6:konsolidující
+ff_16:konsolidující
+ff_17:ADJ_Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_19:PRON_Case=Nom|Gender=Fem|Number=Plur|PronType=Int,Rel
+ff_1:ADJ_Aspect=Imp|Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_2:AGFS7-----A----
+ff_14:konsolidující
+ff_15:ADJ_Aspect=Imp|Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_17:ADJ_Aspect=Imp|Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_16:jednotky
+ff_0:společným
+ff_8:společným
+ff_14:společným
+ff_0:konsolidovaná
+ff_6:konsolidovaná
+ff_16:konsolidovaná
+ff_10:celku
+ff_12:celku
+ff_3:konsolidovanou
+ff_0:konsolidovanou
+ff_6:celku
+ff_0:konsolidačního
+ff_14:konsolidačního
+ff_16:konsolidačního
+ff_6:jiné
+ff_17:ADJ_Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_19:NOUN_Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos
+ff_4:ADJ_Aspect=Imp|Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_6:státu
+ff_8:státu
+ff_3:státu
+ff_0:státu
+ff_1:PRON_Case=Nom|Gender=Fem|Number=Plur|PronType=Tot
+ff_2:PLFP1----------
+ff_7:PRON_Case=Nom|Gender=Fem|Number=Plur|PronType=Tot
+ff_7:ADJ_Animacy=Inan|Aspect=Imp|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_17:ADJ_Animacy=Inan|Aspect=Imp|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_9:ADJ_Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_13:NOUN_Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos
+ff_19:NOUN_Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos
+ff_20:předpisů
+ff_1:ADJ_Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_2:AAMP3----1A----
+ff_9:NOUN_Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos
+ff_15:NOUN_Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos
+ff_4:ADJ_Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_1:NOUN_Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos
+ff_2:NNMP7-----A----
+ff_1:ADJ_Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_2:AAMP2----1A----
+ff_7:ADJ_Animacy=Anim|Aspect=Imp|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_17:ADJ_Animacy=Anim|Aspect=Imp|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_4:ADJ_Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_11:ADJ_Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_13:ADJ_Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_4:NOUN_Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos
+ff_7:ADJ_Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_9:ADJ_Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_11:ADJ_Animacy=Anim|Aspect=Imp|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_19:ADJ_Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_21:ADJ_Animacy=Anim|Aspect=Imp|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_17:NOUN_Case=Dat|Gender=Fem|Number=Plur|Polarity=Pos
+ff_9:VERB_Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_1:ADJ_Animacy=Anim|Aspect=Imp|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_2:AGMP1-----A----
+ff_1:NOUN_Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos
+ff_2:NNMP1-----A----
+ff_7:ADJ_Animacy=Anim|Aspect=Imp|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_9:NOUN_Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos
+ff_15:NOUN_Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos
+ff_17:ADJ_Animacy=Anim|Aspect=Imp|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_4:VERB_Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_1:NOUN_Case=Gen|Gender=Neut|Number=Sing|Polarity=Neg
+ff_2:NNNS2-----N----
+ff_13:NOUN_Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos
+ff_19:NOUN_Case=Gen|Gender=Neut|Number=Sing|Polarity=Neg
+ff_21:NOUN_Case=Gen|Gender=Neut|Number=Sing|Polarity=Neg
+ff_4:NOUN_Case=Gen|Gender=Neut|Number=Sing|Polarity=Neg
+ff_6:konsolidované
+ff_1:VERB_Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_2:VpMP---XR-AA---
+ff_15:NOUN_Case=Gen|Gender=Neut|Number=Sing|Polarity=Neg
+ff_17:NOUN_Case=Gen|Gender=Neut|Number=Sing|Polarity=Neg
+ff_0:ostatní
+ff_1:ADJ_Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_2:AAMP1----1A----
+ff_4:NOUN_Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos
+ff_6:ostatní
+ff_7:ADJ_Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_16:ostatní
+ff_17:ADJ_Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_9:VERB_Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act
+ff_17:ADV_Degree=Cmp|Polarity=Pos
+ff_4:VERB_Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act
+ff_10:podíl
+ff_12:podíl
+ff_9:ADJ_Animacy=Anim|Aspect=Imp|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_15:ADJ_Animacy=Anim|Aspect=Imp|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_6:podíl
+ff_4:ADJ_Animacy=Anim|Aspect=Imp|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_19:NOUN_Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos
+ff_20:sestavení
+ff_15:ADJ_Aspect=Imp|Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_17:ADJ_Aspect=Imp|Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_1:VERB_Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act
+ff_2:VpMP---XR-NA---
+ff_3:6
+ff_20:6
+ff_0:před
+ff_6:před
+ff_16:před
+ff_14:závěrky
+ff_12:případě
+ff_18:podíl
+ff_1:PRON_Case=Acc|Gender=Masc|Number=Plur|PronType=Tot
+ff_2:PLYP4----------
+ff_1:PRON_Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+ff_2:PPFS3--3-------
+ff_3:konsolidované
+ff_7:PRON_Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+ff_9:PRON_Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+ff_7:PRON_Case=Acc|Gender=Masc|Number=Plur|PronType=Tot
+ff_6:konsolidačního
+ff_14:konsolidovaná
+ff_14:státu
+ff_16:státu
+ff_0:kterým
+ff_1:PRON_Case=Ins|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel
+ff_2:P4ZS7----------
+ff_12:jednotka
+ff_18:kterým
+ff_19:PRON_Case=Ins|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel
+ff_14:kterým
+ff_15:PRON_Case=Ins|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel
+ff_6:konsolidovanou
+ff_14:konsolidovanou
+ff_11:ADJ_Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_13:ADJ_Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_7:ADJ_Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_9:ADJ_Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_1:ADJ_Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_2:AAMS2----1A----
+ff_4:ADJ_Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_12:musí
+ff_18:c)
+ff_8:musí
+ff_3:záznamy
+ff_18:záznamy
+ff_20:záznamy
+ff_0:záznamy
+ff_0:musí
+ff_2:VB-P---3P-AA--1
+ff_14:záznamy
+ff_16:záznamy
+ff_6:závěrce
+ff_18:d)
+ff_0:obchodní
+ff_6:obchodní
+ff_14:sídlo
+ff_3:sídlo
+ff_16:konsolidovanou
+ff_16:závěrku
+ff_9:NOUN_Case=Gen|Gender=Neut|Number=Sing|Polarity=Neg
+ff_8:konsolidačního
+ff_6:sestavení
+ff_16:předpisu
+ff_16:závěrky
+ff_12:písm.
+ff_14:písm.
+ff_18:písm.
+ff_20:2
+ff_18:celku
+ff_8:být
+ff_9:AUX_Polarity=Pos|VerbForm=Inf
+ff_8:konsolidace
+ff_21:VERB_Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_1:NUM_Case=Gen|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3
+ff_2:ClXP2----------
+ff_9:ADV_Degree=Cmp|Polarity=Pos
+ff_4:NUM_Case=Gen|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3
+ff_0:konsolidovaných
+ff_15:NUM_Case=Gen|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3
+ff_16:konsolidovaných
+ff_16:jejich
+ff_17:DET_Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_16:podíl
+ff_18:jsou
+ff_19:AUX_Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_7:ADJ_Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos
+ff_1:DET_Case=Gen|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_2:PSXP2FS3-------
+ff_7:DET_Case=Gen|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_17:DET_Case=Gen|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_8:jednotek
+ff_14:jednotek
+ff_6:uvedených
+ff_14:konsolidovaných
+ff_1:ADJ_Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Neg
+ff_2:AAIP2----1N----
+ff_17:ADJ_Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Neg
+ff_10:informace
+ff_18:vyhlášky
+ff_20:informace
+ff_14:bez
+ff_6:informace
+ff_16:informace
+ff_0:informace
+ff_7:ADJ_Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Neg
+ff_11:ADJ_Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Neg
+ff_13:ADJ_Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Neg
+ff_3:informace
+ff_10:sestavení
+ff_12:sestavení
+ff_4:ADJ_Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Neg
+ff_14:této
+ff_15:DET_Case=Gen|Gender=Fem|Number=Sing|PronType=Dem
+ff_21:ADV_Degree=Pos|Polarity=Pos
+ff_6:konsolidovaných
+ff_3:za
+ff_3:konsolidace
+ff_0:konsolidace
+ff_16:použije
+ff_16:jednotek
+ff_12:6
+ff_16:položek
+ff_6:jednotky
+ff_7:NOUN_Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos
+ff_8:kapitálu
+ff_14:kapitálu
+ff_10:konsolidace
+ff_20:konsolidace
+ff_6:konsolidace
+ff_16:konsolidace
+ff_10:jednotek
+ff_6:jednotek
+ff_7:PRON_Case=Gen|Number=Plur|PronType=Tot
+ff_8:závěrek
+ff_3:závěrek
+ff_0:závěrek
+ff_20:sestavují
+ff_1:ADJ_Animacy=Inan|Case=Acc|Degree=Cmp|Gender=Masc|Number=Plur|Polarity=Pos
+ff_2:AAIP4----2A----
+ff_15:ADJ_Animacy=Inan|Case=Acc|Degree=Cmp|Gender=Masc|Number=Plur|Polarity=Pos
+ff_17:ADJ_Animacy=Inan|Case=Acc|Degree=Cmp|Gender=Masc|Number=Plur|Polarity=Pos
+ff_14:konsolidace
+ff_6:b)
+ff_10:ztráty
+ff_12:ztráty
+ff_8:zisku
+ff_14:zisku
+ff_0:zisku
+ff_6:ztráty
+ff_8:ztráty
+ff_3:ztráty
+ff_0:ztráty
+ff_3:zisku
+ff_14:závěrek
+ff_16:závěrek
+ff_18:výši
+ff_20:ztráty
+ff_16:ztráty
+ff_7:ADJ_Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_17:ADJ_Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_20:výši
+ff_12:kapitálu
+ff_8:vlastním
+ff_10:případech
+ff_12:případech
+ff_3:povinnost
+ff_18:sestavení
+ff_8:případech
+ff_9:NOUN_Case=Acc|Gender=Neut|Number=Plur|Polarity=Pos
+ff_15:NOUN_Case=Acc|Gender=Neut|Number=Plur|Polarity=Pos
+ff_17:DET_Case=Gen|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_4:NOUN_Case=Acc|Gender=Neut|Number=Plur|Polarity=Pos
+ff_1:NOUN_Case=Acc|Gender=Neut|Number=Plur|Polarity=Pos
+ff_2:NNNP4-----A----
+ff_17:NOUN_Case=Acc|Gender=Neut|Number=Plur|Polarity=Pos
+ff_12:konsolidace
+ff_11:PRON_Case=Dat|PronType=Prs|Reflex=Yes
+ff_3:základě
+ff_15:DET_Number[psor]=Plur|Person=3|Poss=Yes|PronType=Rel
+ff_14:základě
+ff_7:PRON_Case=Dat|PronType=Prs|Reflex=Yes
+ff_4:PRON_Case=Dat|PronType=Prs|Reflex=Yes
+ff_1:PRON_Case=Dat|PronType=Prs|Reflex=Yes
+ff_2:P6-X3----------
+ff_9:PRON_Case=Acc|Number=Plur|Person=3|PronType=Prs
+ff_15:PRON_Case=Acc|Number=Plur|Person=3|PronType=Prs
+ff_20:způsobem
+ff_17:DET_Case=Acc|Gender=Fem|Number=Plur|PronType=Dem
+ff_9:VERB_Gender=Fem,Neut|Number=Plur,Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act
+ff_4:VERB_Gender=Fem,Neut|Number=Plur,Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act
+ff_20:závěrka
+ff_1:VERB_Gender=Fem,Neut|Number=Plur,Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act
+ff_17:AUX_Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_6:účetními
+ff_7:ADJ_Case=Ins|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_16:účetními
+ff_19:ADJ_Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_14:účetními
+ff_11:VERB_Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_13:VERB_Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_20:závěrky
+ff_19:PRON_Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel
+ff_7:VERB_Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_17:NOUN_Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos
+ff_1:DET_Case=Ins|Number=Plur|PronType=Dem
+ff_2:PDXP7----------
+ff_15:DET_Case=Ins|Number=Plur|PronType=Dem
+ff_17:DET_Case=Ins|Number=Plur|PronType=Dem
+ff_9:AUX__
+ff_6:skutečnosti
+ff_8:skutečnosti
+ff_1:DET_Case=Loc|Gender=Fem|Number=Sing|PronType=Dem
+ff_2:PDFS6----------
+ff_9:DET_Case=Loc|Gender=Fem|Number=Sing|PronType=Dem
+ff_15:DET_Case=Loc|Gender=Fem|Number=Sing|PronType=Dem
+ff_20:příloze
+ff_18:závěrku
+ff_14:být
+ff_15:AUX_Polarity=Pos|VerbForm=Inf
+ff_11:NOUN_Case=Ins|Gender=Neut|Number=Plur|Polarity=Pos
+ff_13:NOUN_Case=Ins|Gender=Neut|Number=Plur|Polarity=Pos
+ff_7:NOUN_Case=Ins|Gender=Neut|Number=Plur|Polarity=Pos
+ff_20:závěrek
+ff_17:PRON_Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Int,Rel
+ff_9:DET_Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Dem
+ff_10:závěrek
+ff_12:závěrek
+ff_6:závěrek
+ff_8:povinnost
+ff_10:vymezení
+ff_12:vymezení
+ff_3:uspořádání
+ff_0:uspořádání
+ff_8:vymezení
+ff_0:obsahové
+ff_8:obsahové
+ff_6:vymezení
+ff_14:obsahové
+ff_8:konsolidované
+ff_8:rozdíl
+ff_17:ADP_AdpType=Voc|Case=Gen
+ff_15:ADJ_Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Neg
+ff_15:ADJ_Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Neg
+ff_14:h)
+ff_20:c)
+ff_6:zisku
+ff_3:a)
+ff_3:b)
+ff_3:c)
+ff_20:způsob
+ff_8:uvede
+ff_1:DET_Case=Loc|Number=Plur|PronType=Dem
+ff_2:PDXP6----------
+ff_15:DET_Case=Loc|Number=Plur|PronType=Dem
+ff_8:účetními
+ff_4:ADJ_Case=Ins|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_9:ADJ_Aspect=Imp|Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_15:ADJ_Aspect=Imp|Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_1:ADJ_Aspect=Imp|Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_2:AGFP7-----A----
+ff_4:ADJ_Aspect=Imp|Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_6:vlastním
+ff_7:ADJ_Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_16:dále
+ff_7:ADJ_Aspect=Imp|Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_9:ADJ_Aspect=Imp|Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_20:celku
+ff_9:ADJ_Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Neg
+ff_16:celku
+ff_4:ADJ_Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Neg
+ff_17:DET_Case=Loc|Number=Plur|PronType=Dem
+ff_11:ADJ_Case=Ins|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_13:ADJ_Case=Ins|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_16:;
+ff_1:PRON_Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Int,Rel
+ff_2:P4IS4----------
+ff_15:PRON_Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Int,Rel
+ff_17:PRON_Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Int,Rel
+ff_8:8
+ff_0:8
+ff_9:NOUN_Case=Acc|Gender=Neut|Number=Sing|Polarity=Neg
+ff_4:NOUN_Case=Acc|Gender=Neut|Number=Sing|Polarity=Neg
+ff_1:NOUN_Case=Acc|Gender=Neut|Number=Sing|Polarity=Neg
+ff_2:NNNS4-----N----
+ff_7:VERB_Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass
+ff_6:g)
+ff_14:obchodní
+ff_10:až
+ff_12:f)
+ff_18:f)
+ff_20:až
+ff_19:PRON_Case=Loc|Number=Plur|PrepCase=Pre|PronType=Rel
+ff_21:PRON_Case=Nom|Gender=Fem|Number=Plur|PronType=Tot
+ff_17:PRON_Case=Nom|Gender=Fem|Number=Plur|PronType=Tot
+ff_4:PRON_Case=Nom|Gender=Fem|Number=Plur|PronType=Tot
+ff_14:prostřednictvím
+ff_4:ADJ_Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_9:ADJ_Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_13:ADJ_Animacy=Inan|Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing|Polarity=Pos
+ff_19:ADJ_Animacy=Inan|Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing|Polarity=Pos
+ff_1:DET_Animacy=Inan|Case=Acc|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_2:PSIS4FS3-------
+ff_9:DET_Animacy=Inan|Case=Acc|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_15:DET_Animacy=Inan|Case=Acc|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_9:ADJ_Animacy=Inan|Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing|Polarity=Pos
+ff_15:ADJ_Animacy=Inan|Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing|Polarity=Pos
+ff_1:ADJ_Animacy=Inan|Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing|Polarity=Pos
+ff_2:AAIS4----2A----
+ff_4:ADJ_Animacy=Inan|Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing|Polarity=Pos
+ff_10:hospodaření
+ff_12:hospodaření
+ff_6:hospodaření
+ff_7:NOUN_Case=Acc|Gender=Neut|Number=Plur|Polarity=Pos
+ff_11:NOUN_Case=Acc|Gender=Neut|Number=Plur|Polarity=Pos
+ff_13:NOUN_Case=Acc|Gender=Neut|Number=Plur|Polarity=Pos
+ff_1:ADJ_Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos
+ff_2:AANP4----1A----
+ff_15:ADJ_Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos
+ff_17:ADJ_Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos
+ff_13:VERB_Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_18:informace
+ff_21:ADJ_Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_14:informace
+ff_9:ADJ_Animacy=Inan|Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing|Polarity=Pos
+ff_4:ADJ_Animacy=Inan|Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing|Polarity=Pos
+ff_12:jednotek
+ff_16:jiných
+ff_1:ADJ_Animacy=Inan|Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing|Polarity=Pos
+ff_2:AAIS1----2A----
+ff_20:uspořádání
+ff_16:uspořádání
+ff_1:ADJ_Animacy=Inan|Aspect=Imp|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_2:AGIS3-----A----
+ff_15:ADJ_Animacy=Inan|Aspect=Imp|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_16:předcházejícímu
+ff_17:ADJ_Animacy=Inan|Aspect=Imp|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_10:závěrce
+ff_12:závěrce
+ff_8:jsou
+ff_16:uvedených
+ff_3:jsou
+ff_17:VERB_Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass
+ff_8:informace
+ff_4:PRON_Case=Loc|Gender=Fem|Number=Sing|PrepCase=Pre|PronType=Rel
+ff_1:PRON_Case=Loc|Gender=Fem|Number=Sing|PrepCase=Pre|PronType=Rel
+ff_2:P9FS6----------
+ff_1:AUX_Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_15:PRON_Case=Loc|Gender=Fem|Number=Sing|PrepCase=Pre|PronType=Rel
+ff_17:AUX_Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_12:změny
+ff_18:metody
+ff_20:metody
+ff_16:metody
+ff_10:konsolidační
+ff_14:konsolidační
+ff_16:konsolidační
+ff_1:DET_Case=Gen|Gender=Fem|Number=Sing|PronType=Ind
+ff_2:PZFS2---------1
+ff_15:DET_Case=Gen|Gender=Fem|Number=Sing|PronType=Ind
+ff_1:ADJ_Aspect=Imp|Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_2:AGNS3-----A----
+ff_15:ADJ_Aspect=Imp|Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_17:ADJ_Aspect=Imp|Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_19:ADJ_Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_15:ADJ_Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_4:PRON_Case=Acc|Gender=Neut|Number=Sing|PronType=Int,Rel
+ff_1:PRON_Case=Acc|Gender=Neut|Number=Sing|PronType=Int,Rel
+ff_2:P4NS4----------
+ff_15:PRON_Case=Acc|Gender=Neut|Number=Sing|PronType=Int,Rel
+ff_8:podle
+ff_13:NOUN_Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur|Polarity=Pos
+ff_19:ADJ_Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_21:NOUN_Case=Dat|Gender=Fem|Number=Plur|Polarity=Pos
+ff_10:.
+ff_10:za
+ff_11:ADP_AdpType=Prep|Case=Acc
+ff_12:účetní
+ff_13:ADJ_Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_18:účetní
+ff_19:ADJ_Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_20:za
+ff_21:ADP_AdpType=Prep|Case=Acc
+ff_10:v
+ff_12:v
+ff_11:ADJ_Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_19:ADJ_Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_21:ADJ_Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_4:ADJ_Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Neg
+ff_1:ADJ_Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Neg
+ff_2:AAFS6----1N----
+ff_8:i
+ff_9:ADJ_Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Neg
+ff_14:tak
+ff_13:ADJ_Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Neg
+ff_18:tak
+ff_20:v
+ff_21:ADP_AdpType=Prep|Case=Loc
+ff_1:ADJ_Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Neg
+ff_2:AAFP1----1N----
+ff_9:ADJ_Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Neg
+ff_4:NOUN_Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur|Polarity=Pos
+ff_13:ADJ_Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Neg
+ff_18:4
+ff_20:jiné
+ff_15:ADJ_Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_17:ADJ_Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_11:NOUN_Case=Dat|Gender=Fem|Number=Plur|Polarity=Pos
+ff_7:NOUN_Case=Dat|Gender=Fem|Number=Plur|Polarity=Pos
+ff_19:NOUN_Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur|Polarity=Pos
+ff_1:DET_Case=Gen|Number=Plur|PronType=Ind
+ff_2:PZXP2----------
+ff_15:DET_Case=Gen|Number=Plur|PronType=Ind
+ff_17:DET_Case=Gen|Number=Plur|PronType=Ind
+ff_11:VERB_Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_7:VERB_Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_13:ADJ_Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing|Polarity=Pos
+ff_19:ADJ_Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing|Polarity=Pos
+ff_19:PRON_Case=Acc|Gender=Masc|Number=Plur|PronType=Int,Rel
+ff_20:dni
+ff_16:dni
+ff_9:ADJ_Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing|Polarity=Pos
+ff_15:ADJ_Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing|Polarity=Pos
+ff_1:ADJ_Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing|Polarity=Pos
+ff_2:AAFS4----2A----
+ff_1:NUM_Case=Acc|Number=Sing|NumForm=Word|NumType=Card
+ff_2:Cn-S4----------
+ff_4:ADJ_Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing|Polarity=Pos
+ff_9:NUM_Case=Acc|Number=Sing|NumForm=Word|NumType=Card
+ff_15:NUM_Case=Acc|Number=Sing|NumForm=Word|NumType=Card
+ff_10:hodnoty
+ff_16:změny
+ff_16:papírů
+ff_1:AUX_Gender=Masc|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act
+ff_2:VpYS---XR-NA---
+ff_10:pokud
+ff_19:AUX_Gender=Masc|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act
+ff_6:pokud
+ff_15:AUX_Gender=Masc|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act
+ff_11:AUX__
+ff_12:;
+ff_9:DET_Case=Nom|Gender=Fem|Number=Plur|PronType=Dem
+ff_7:AUX__
+ff_8:;
+ff_6:finanční
+ff_1:PRON_Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Tot
+ff_2:PLIP1----------
+ff_7:PRON_Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Tot
+ff_17:PRON_Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Tot
+ff_14:závazky
+ff_15:NOUN_Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos
+ff_9:ADJ_Animacy=Anim|Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Neg
+ff_1:ADJ_Animacy=Anim|Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Neg
+ff_2:AAMP7----1N----
+ff_4:ADJ_Animacy=Anim|Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Neg
+ff_16:činnosti
+ff_3:činnosti
+ff_0:činnosti
+ff_4:PRON_Case=Ins|PronType=Prs|Reflex=Yes
+ff_1:PRON_Case=Ins|PronType=Prs|Reflex=Yes
+ff_2:P6-X7----------
+ff_8:mezi
+ff_11:ADJ_Aspect=Imp|Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_13:ADJ_Aspect=Imp|Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_7:ADJ_Aspect=Imp|Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_6:činnosti
+ff_8:činnosti
+ff_10:činnosti
+ff_12:činnosti
+ff_8:obchodní
+ff_13:ADJ_Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Neg
+ff_21:NOUN_Case=Nom|Gender=Neut|Number=Plur|Polarity=Pos
+ff_9:ADJ_Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Neg
+ff_17:NOUN_Case=Nom|Gender=Neut|Number=Plur|Polarity=Pos
+ff_4:ADJ_Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Neg
+ff_1:ADJ_Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Neg
+ff_2:AANS1----1N----
+ff_8:informací
+ff_3:informací
+ff_0:informací
+ff_9:ADJ_Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Neg
+ff_9:DET_Case=Loc|Number=Plur|PronType=Dem
+ff_4:ADJ_Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Neg
+ff_1:ADJ_Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Neg
+ff_2:AAIP1----1N----
+ff_1:AUX_Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act
+ff_2:VpTP---XR-NA---
+ff_15:AUX_Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act
+ff_17:AUX_Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act
+ff_12:má
+ff_0:mezinárodních
+ff_15:NOUN_Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos
+ff_17:NOUN_Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos
+ff_4:NOUN_Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos
+ff_1:NOUN_Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos
+ff_2:NNMS3-----A----
+ff_17:ADJ_Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_11:ADJ_Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos
+ff_9:ADJ_Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos
+ff_4:ADJ_Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos
+ff_17:VERB_Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|VerbForm=Part|Voice=Pass
+ff_16:znění
+ff_21:ADJ_Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_8:účinnosti
+ff_14:účinnosti
+ff_0:účinnosti
+ff_3:účinnosti
+ff_10:též
+ff_21:ADJ_Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Neg
+ff_17:ADJ_Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Neg
+ff_4:ADJ_Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_18:a
+ff_9:ADJ_Animacy=Inan|Aspect=Imp|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_16:účetním
+ff_1:ADJ_Animacy=Inan|Aspect=Imp|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_2:AGIS6-----A----
+ff_4:ADJ_Animacy=Inan|Aspect=Imp|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_8:později
+ff_3:později
+ff_0:později
+ff_14:změny
+ff_16:účtů
+ff_15:AUX_Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act
+ff_18:účinnosti
+ff_8:č.
+ff_12:č.
+ff_1:ADJ_Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|NumType=Ord
+ff_2:CrIS6----------
+ff_15:ADJ_Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|NumType=Ord
+ff_17:ADJ_Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|NumType=Ord
+ff_12:později
+ff_13:ADV_Degree=Cmp|Polarity=Pos
+ff_14:později
+ff_15:ADV_Degree=Cmp|Polarity=Pos
+ff_18:později
+ff_19:ADV_Degree=Cmp|Polarity=Pos
+ff_4:ADJ_Case=Loc|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos
+ff_18:účtu
+ff_20:hodnoty
+ff_14:účtu
+ff_12:pohledávek
+ff_11:ADJ_Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_14:knih
+ff_6:to
+ff_7:PRON_Case=Acc|Gender=Neut|Number=Sing|PronType=Dem
+ff_8:včetně
+ff_3:včetně
+ff_6:4
+ff_0:poprvé
+ff_1:ADV_NumType=Ord
+ff_2:Cv-------------
+ff_18:němž
+ff_19:PRON_Case=Loc|Gender=Masc,Neut|Number=Sing|PrepCase=Pre|PronType=Rel
+ff_0:použijí
+ff_14:znění
+ff_6:500/2002
+ff_10:500/2002
+ff_16:500/2002
+ff_20:500/2002
+ff_0:500/2002
+ff_8:účinném
+ff_0:účinném
+ff_3:účinném
+ff_6:čl.
+ff_8:čl.
+ff_0:čl.
+ff_16:této
+ff_20:této
+ff_3:čl.
+ff_11:NOUN_Case=Loc|Gender=Neut|Number=Plur|Polarity=Pos
+ff_7:NOUN_Case=Loc|Gender=Neut|Number=Plur|Polarity=Pos
+ff_7:ADJ_Case=Loc|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos
+ff_4:ADJ_Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos
+ff_14:nabytí
+ff_3:bez
+ff_9:DET_Case=Nom|Gender=Neut|Number=Sing|PronType=Dem
+ff_14:ustanovení
+ff_20:stanoveno
+ff_20:jejich
+ff_10:účinnosti
+ff_12:účinnosti
+ff_6:účinnosti
+ff_16:vyhlášky
+ff_20:vyhlášky
+ff_12:4
+ff_14:přeměnách
+ff_10:rejstříku
+ff_6:rejstříku
+ff_18:znění
+ff_10:dne
+ff_12:dne
+ff_6:dne
+ff_18:použít
+ff_3:mohou
+ff_10:čl.
+ff_12:čl.
+ff_1:ADJ_Hyph=Yes|Polarity=Pos
+ff_2:A2--------A----
+ff_7:ADJ_Hyph=Yes|Polarity=Pos
+ff_12:vyhláškou
+ff_16:účinném
+ff_0:ode
+ff_6:ode
+ff_16:ode
+ff_17:PRON_Case=Nom|Gender=Neut|Number=Sing|PronType=Int,Rel
+ff_14:odpisování
+ff_18:odpisování
+ff_13:ADJ_Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_19:ADJ_Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_14:500/2002
+ff_18:500/2002
+ff_14:č.
+ff_10:do
+ff_11:ADJ_Hyph=Yes|Polarity=Pos
+ff_12:do
+ff_13:ADJ_Hyph=Yes|Polarity=Pos
+ff_9:ADJ_Hyph=Yes|Polarity=Pos
+ff_3:do
+ff_4:ADJ_Hyph=Yes|Polarity=Pos
+ff_1:ADJ_Case=Loc|Gender=Fem|Number=Sing|NumType=Ord
+ff_2:CrFS6----------
+ff_10:způsob
+ff_18:vedení
+ff_6:způsob
+ff_14:vedení
+ff_0:vedení
+ff_3:vedení
+ff_10:záznamů
+ff_12:záznamů
+ff_6:záznamů
+ff_8:záznamů
+ff_3:záznamů
+ff_0:záznamů
+ff_7:NOUN_Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos
+ff_20:jsou
+ff_21:AUX_Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_4:PRON_Case=Nom|Gender=Fem|Number=Plur|PronType=Int,Rel
+ff_9:NOUN_Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos
+ff_1:PRON_Case=Nom|Gender=Fem|Number=Sing|PrepCase=Npr|PronType=Rel
+ff_2:PJFS1----------
+ff_15:PRON_Case=Nom|Gender=Fem|Number=Sing|PrepCase=Npr|PronType=Rel
+ff_10:zákona
+ff_13:NOUN_Abbr=Yes|Gender=Fem|Polarity=Pos
+ff_19:NOUN_Abbr=Yes|Gender=Fem|Polarity=Pos
+ff_4:ADJ_Animacy=Inan|Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_1:ADJ_Animacy=Inan|Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_2:AGIS4-----A----
+ff_15:ADJ_Animacy=Inan|Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_17:ADJ_Animacy=Inan|Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_15:NOUN_Abbr=Yes|Gender=Fem|Polarity=Pos
+ff_1:ADJ_Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|NumType=Ord
+ff_2:CrIS2----------
+ff_17:ADJ_Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|NumType=Ord
+ff_1:DET_Case=Gen|Gender=Masc,Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_2:P8ZS2----------
+ff_9:DET_Case=Gen|Gender=Masc,Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_15:DET_Case=Gen|Gender=Masc,Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_14:právní
+ff_4:NUM_Case=Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3
+ff_12:h)
+ff_20:f)
+ff_8:h)
+ff_16:f)
+ff_3:h)
+ff_1:PRON_Case=Dat|Number=Plur|PronType=Int,Rel
+ff_2:P4XP3----------
+ff_6:vedení
+ff_8:vedení
+ff_15:PRON_Case=Dat|Number=Plur|PronType=Int,Rel
+ff_0:zvláštní
+ff_6:zvláštní
+ff_16:zvláštní
+ff_6:d)
+ff_10:d)
+ff_18:h)
+ff_3:d)
+ff_14:záznamů
+ff_4:PRON_Case=Loc|Number=Plur|PronType=Int,Rel
+ff_1:PRON_Case=Loc|Number=Plur|PronType=Int,Rel
+ff_2:P4XP6----------
+ff_15:PRON_Case=Loc|Number=Plur|PronType=Int,Rel
+ff_16:tento
+ff_17:DET_Case=Nom|Gender=Masc|Number=Sing|PronType=Dem
+ff_14:zvláštní
+ff_16:informací
+ff_18:(
+ff_20:)
+ff_14:informací
+ff_21:ADJ_Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_8:zvláštního
+ff_7:ADJ_Case=Dat|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_9:ADJ_Case=Dat|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_15:ADJ_Case=Dat|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_17:ADJ_Case=Dat|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_18:závazků
+ff_20:aktiv
+ff_8:jiných
+ff_20:mohou
+ff_3:zápisy
+ff_0:zápisy
+ff_4:PRON_Case=Ins|Gender=Masc,Neut|Number=Sing|PrepCase=Pre|PronType=Rel
+ff_1:PRON_Case=Ins|Gender=Masc,Neut|Number=Sing|PrepCase=Pre|PronType=Rel
+ff_2:P9ZS7----------
+ff_19:PRON_Case=Ins|Gender=Masc,Neut|Number=Sing|PrepCase=Pre|PronType=Rel
+ff_20:skutečnosti
+ff_15:PRON_Case=Ins|Gender=Masc,Neut|Number=Sing|PrepCase=Pre|PronType=Rel
+ff_16:skutečnosti
+ff_6:není-li
+ff_0:mohou
+ff_15:ADJ_Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short
+ff_12:skutečnosti
+ff_20:němž
+ff_21:PRON_Case=Loc|Gender=Masc,Neut|Number=Sing|PrepCase=Pre|PronType=Rel
+ff_16:němž
+ff_17:PRON_Case=Loc|Gender=Masc,Neut|Number=Sing|PrepCase=Pre|PronType=Rel
+ff_20:účtují
+ff_0:účtují
+ff_1:ADV_Degree=Pos|Polarity=Neg
+ff_2:Dg-------1N----
+ff_4:ADJ_Animacy=Inan|Aspect=Imp|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_4:PRON_Case=Loc|PronType=Prs|Reflex=Yes
+ff_11:ADV_Degree=Pos|Polarity=Neg
+ff_13:PRON_Case=Loc|PronType=Prs|Reflex=Yes
+ff_19:PRON_Case=Loc|PronType=Prs|Reflex=Yes
+ff_21:ADV_Degree=Pos|Polarity=Neg
+ff_1:PRON_Case=Loc|PronType=Prs|Reflex=Yes
+ff_2:P6-X6----------
+ff_8:po
+ff_1:ADJ_Animacy=Inan|Aspect=Imp|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_2:AGIP6-----A----
+ff_7:ADV_Degree=Pos|Polarity=Neg
+ff_9:PRON_Case=Loc|PronType=Prs|Reflex=Yes
+ff_15:PRON_Case=Loc|PronType=Prs|Reflex=Yes
+ff_17:ADV_Degree=Pos|Polarity=Neg
+ff_7:ADJ_Animacy=Inan|Aspect=Imp|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_17:ADJ_Animacy=Inan|Aspect=Imp|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_8:může
+ff_14:může
+ff_10:dnem
+ff_0:může
+ff_6:dnem
+ff_10:je
+ff_12:je
+ff_1:ADJ_Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|NumType=Ord
+ff_2:CrIS7----------
+ff_15:ADJ_Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|NumType=Ord
+ff_17:ADJ_Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|NumType=Ord
+ff_14:než
+ff_9:ADJ_Aspect=Imp|Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_15:ADJ_Aspect=Imp|Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_4:ADJ_Aspect=Imp|Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_1:ADJ_Aspect=Imp|Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_2:AGFS3-----A----
+ff_19:ADJ_Animacy=Inan|Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing|Polarity=Pos
+ff_21:ADJ_Animacy=Inan|Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing|Polarity=Pos
+ff_15:ADJ_Animacy=Inan|Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing|Polarity=Pos
+ff_14:i
+ff_7:NUM_Case=Acc|Number=Sing|NumForm=Word|NumType=Card
+ff_18:případech
+ff_19:NOUN_Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos
+ff_20:společníka
+ff_21:NOUN_Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos
+ff_17:ADJ_Hyph=Yes|Polarity=Pos
+ff_1:ADJ_Animacy=Anim|Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_2:AGMS4-----A----
+ff_17:ADJ_Animacy=Anim|Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_20:předpisu
+ff_11:ADJ_Animacy=Inan|Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_13:ADJ_Animacy=Inan|Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_7:ADJ_Animacy=Inan|Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_9:ADJ_Animacy=Inan|Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_1:ADJ_Animacy=Inan|Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_2:AGIS7-----A----
+ff_4:ADJ_Animacy=Inan|Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_21:ADJ_Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing|Polarity=Pos
+ff_9:ADJ_Animacy=Anim|Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_11:ADJ_Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_21:ADJ_Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_9:PRON_Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Dem
+ff_6:změny
+ff_21:ADJ_Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_14:před
+ff_4:PRON_Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Dem
+ff_1:PRON_Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Dem
+ff_18:který
+ff_19:PRON_Case=Nom|Gender=Masc|Number=Sing|PronType=Int,Rel
+ff_3:který
+ff_4:PRON_Case=Nom|Gender=Masc|Number=Sing|PronType=Int,Rel
+ff_13:VERB_Gender=Neut|Number=Sing|Polarity=Neg|VerbForm=Part|Voice=Pass
+ff_9:VERB_Gender=Neut|Number=Sing|Polarity=Neg|VerbForm=Part|Voice=Pass
+ff_1:VERB_Gender=Neut|Number=Sing|Polarity=Neg|VerbForm=Part|Voice=Pass
+ff_2:VsNS---XX-NP---
+ff_17:DET_Case=Acc|Gender=Fem|Number=Sing|PronType=Dem
+ff_13:ADV_NumType=Mult
+ff_19:ADV_NumType=Mult
+ff_9:ADV_NumType=Mult
+ff_15:ADV_NumType=Mult
+ff_4:ADV_NumType=Mult
+ff_1:ADV_NumType=Mult
+ff_1:ADJ_Animacy=Anim|Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_2:AGMS7-----A----
+ff_9:ADJ_Animacy=Anim|Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_15:ADJ_Animacy=Anim|Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_16:společníka
+ff_17:NOUN_Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos
+ff_3:povinny
+ff_18:dne
+ff_20:dne
+ff_14:uvedené
+ff_8:c)
+ff_0:vést
+ff_3:vést
+ff_7:DET_Case=Gen|Gender=Masc,Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_14:do
+ff_0:povinny
+ff_8:vést
+ff_20:činnosti
+ff_15:PRON_Case=Dat|Number=Plur|Person=3|PronType=Prs
+ff_6:vést
+ff_16:g)
+ff_8:e)
+ff_15:ADJ_Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|NumType=Ord
+ff_8:následujícího
+ff_3:následujícího
+ff_20:kterém
+ff_21:PRON_Case=Loc|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel
+ff_16:kterém
+ff_17:PRON_Case=Loc|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel
+ff_17:PRON_Case=Dat|Number=Plur|Person=3|PronType=Prs
+ff_16:vést
+ff_14:ode
+ff_15:ADP_AdpType=Voc|Case=Gen
+ff_15:PART__
+ff_8:g)
+ff_17:NOUN_Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos
+ff_1:PRON_Case=Nom|Gender=Masc|Number=Sing|PronType=Ind
+ff_2:PZYS1----------
+ff_4:PRON_Case=Nom|Gender=Masc|Number=Sing|PronType=Ind
+ff_17:PRON_Case=Nom|Gender=Masc|Number=Sing|PronType=Ind
+ff_16:e)
+ff_16:jinak
+ff_8:zvláštní
+ff_3:g)
+ff_14:činnosti
+ff_16:vedení
+ff_11:PRON_Case=Loc|PronType=Prs|Reflex=Yes
+ff_7:PRON_Case=Loc|PronType=Prs|Reflex=Yes
+ff_15:ADJ_Animacy=Inan|Aspect=Imp|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_17:ADJ_Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos
+ff_19:PRON_Case=Loc|Number=Plur|PronType=Int,Rel
+ff_20:kterých
+ff_21:PRON_Case=Loc|Number=Plur|PronType=Int,Rel
+ff_16:kterých
+ff_17:PRON_Case=Loc|Number=Plur|PronType=Int,Rel
+ff_10:vedení
+ff_20:vedení
+ff_14:označování
+ff_16:označování
+ff_3:označování
+ff_0:označování
+ff_16:obsahové
+ff_18:záznamů
+ff_14:ostatní
+ff_16:právní
+ff_14:způsob
+ff_8:uspořádání
+ff_12:informací
+ff_18:příloze
+ff_14:příloze
+ff_16:příloze
+ff_20:jednotek
+ff_7:PRON_Case=Gen|Number=Plur|Person=3|PrepCase=Pre|PronType=Prs
+ff_9:PRON_Case=Gen|Number=Plur|Person=3|PrepCase=Pre|PronType=Prs
+ff_4:PRON_Case=Gen|Number=Plur|Person=3|PrepCase=Pre|PronType=Prs
+ff_19:PRON_Case=Nom|Gender=Neut|Number=Sing|PronType=Int,Rel
+ff_1:PRON_Case=Gen|Number=Plur|Person=3|PrepCase=Pre|PronType=Prs
+ff_2:P5XP2--3-------
+ff_4:PRON_Case=Nom|Gender=Neut|Number=Sing|PronType=Int,Rel
+ff_10:pro
+ff_18:technické
+ff_19:ADJ_Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_20:technické
+ff_21:ADJ_Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_3:technické
+ff_20:záznamů
+ff_16:záznamů
+ff_15:NOUN_Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos
+ff_16:způsob
+ff_12:příloze
+ff_20:společnosti
+ff_18:účinky
+ff_19:NOUN_Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos
+ff_14:účinky
+ff_11:ADJ_Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_1:NUM_Case=Acc|Gender=Neut|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3
+ff_2:ClNS4----------
+ff_7:NUM_Case=Acc|Gender=Neut|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3
+ff_9:NUM_Case=Acc|Gender=Neut|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3
+ff_8:použít
+ff_12:vedení
+ff_9:ADJ_Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_15:ADJ_Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_12:záznamy
+ff_10:jsou
+ff_11:AUX_Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_8:záznamy
+ff_21:NOUN_Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos
+ff_3:knihy
+ff_0:knihy
+ff_1:DET_Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|PronType=Dem
+ff_2:PDIP4----------
+ff_10:záznamy
+ff_12:rozsahu
+ff_18:rozsahu
+ff_7:DET_Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|PronType=Dem
+ff_17:DET_Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|PronType=Dem
+ff_6:záznamy
+ff_8:rozsahu
+ff_14:rozsahu
+ff_1:DET_Case=Ins|Gender=Masc,Neut|Number=Sing|PronType=Dem
+ff_7:DET_Case=Ins|Gender=Masc,Neut|Number=Sing|PronType=Dem
+ff_9:DET_Case=Ins|Gender=Masc,Neut|Number=Sing|PronType=Dem
+ff_18:povinnost
+ff_20:položek
+ff_14:povinnost
+ff_19:VERB_Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass
+ff_21:VERB_Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass
+ff_14:8
+ff_16:pouze
+ff_12:metody
+ff_16:8
+ff_10:i
+ff_19:ADJ_Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_10:skutečnosti
+ff_10:závazky
+ff_12:závazky
+ff_10:závěrku
+ff_20:závěrku
+ff_6:závěrku
+ff_12:závěrku
+ff_8:závěrku
+ff_16:případech
+ff_8:ostatní
+ff_9:ADJ_Animacy=Inan|Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_1:ADJ_Animacy=Inan|Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_2:AGIS2-----A----
+ff_4:ADJ_Animacy=Inan|Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_6:jednotka
+ff_1:DET_Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_2:P8FS2---------1
+ff_7:DET_Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_17:DET_Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_0:jestliže
+ff_18:jestliže
+ff_14:jestliže
+ff_10:metody
+ff_12:způsobem
+ff_20:účetní
+ff_3:účetní
+ff_16:by
+ff_17:AUX_Mood=Cnd|VerbForm=Fin
+ff_18:může
+ff_18:která
+ff_19:PRON_Case=Nom|Gender=Fem|Number=Sing|PronType=Int,Rel
+ff_20:která
+ff_21:PRON_Case=Nom|Gender=Fem|Number=Sing|PronType=Int,Rel
+ff_14:případech
+ff_17:PRON_Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Dem
+ff_4:PRON_Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Dem
+ff_1:PRON_Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Dem
+ff_2:PDZS3----------
+ff_15:ADJ_Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Neg
+ff_10:účetní
+ff_18:způsobem
+ff_14:způsobem
+ff_1:DET_Case=Loc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_2:P8FS6---------1
+ff_9:DET_Case=Loc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_15:DET_Case=Loc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_4:PRON_Case=Gen|Gender=Fem|Number=Sing|Person=3|PrepCase=Pre|PronType=Prs
+ff_21:PRON_Case=Gen|Gender=Fem|Number=Sing|Person=3|PrepCase=Pre|PronType=Prs
+ff_1:PRON_Case=Gen|Gender=Fem|Number=Sing|Person=3|PrepCase=Pre|PronType=Prs
+ff_2:P5FS2--3-------
+ff_17:PRON_Case=Gen|Gender=Fem|Number=Sing|Person=3|PrepCase=Pre|PronType=Prs
+ff_1:DET_Case=Nom|Gender=Fem|Number=Sing|PronType=Neg
+ff_2:PWFS1----------
+ff_7:DET_Case=Nom|Gender=Fem|Number=Sing|PronType=Neg
+ff_17:DET_Case=Nom|Gender=Fem|Number=Sing|PronType=Neg
+ff_17:PRON_Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+ff_11:PRON_Case=Loc|Gender=Masc,Neut|Number=Sing|PronType=Dem
+ff_13:PRON_Case=Loc|Gender=Masc,Neut|Number=Sing|PronType=Dem
+ff_7:PRON_Case=Loc|Gender=Masc,Neut|Number=Sing|PronType=Dem
+ff_9:PRON_Case=Loc|Gender=Masc,Neut|Number=Sing|PronType=Dem
+ff_4:PRON_Case=Loc|Gender=Masc,Neut|Number=Sing|PronType=Dem
+ff_1:PRON_Case=Loc|Gender=Masc,Neut|Number=Sing|PronType=Dem
+ff_7:PRON_Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Dem
+ff_9:PRON_Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Dem
+ff_6:označování
+ff_1:NUM_Case=Loc|Gender=Masc,Neut|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3
+ff_2:ClZS6----------
+ff_15:NUM_Case=Loc|Gender=Masc,Neut|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3
+ff_17:NUM_Case=Loc|Gender=Masc,Neut|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3
+ff_1:ADJ_Aspect=Imp|Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_2:AGNS6-----A----
+ff_15:ADJ_Aspect=Imp|Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_17:ADJ_Aspect=Imp|Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_20:povinny
+ff_21:ADJ_Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Variant=Short
+ff_6:uspořádání
+ff_17:NOUN_Case=Ins|Gender=Neut|Number=Plur|Polarity=Pos
+ff_9:ADJ_Case=Ins|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos
+ff_15:ADJ_Case=Ins|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos
+ff_8:jiné
+ff_1:DET_Case=Ins|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_2:PSZS7FS3-------
+ff_15:DET_Case=Ins|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_17:DET_Case=Ins|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_16:popřípadě
+ff_17:NOUN_Case=Loc|Gender=Neut|Number=Plur|Polarity=Pos
+ff_3:nejsou
+ff_11:ADJ_Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_11:NOUN_Case=Dat|Gender=Neut|Number=Plur|Polarity=Pos
+ff_15:ADJ_Animacy=Inan|Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_1:DET_Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Dem
+ff_7:DET_Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Dem
+ff_17:DET_Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Dem
+ff_1:ADJ_Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_2:AAIP3----1A----
+ff_9:ADJ_Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_15:ADJ_Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_17:ADJ_Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_19:ADJ_Abbr=Yes|Degree=Pos|Polarity=Pos
+ff_21:ADJ_Abbr=Yes|Degree=Pos|Polarity=Pos
+ff_15:ADJ_Abbr=Yes|Degree=Pos|Polarity=Pos
+ff_17:ADJ_Abbr=Yes|Degree=Pos|Polarity=Pos
+ff_1:PRON_Case=Dat|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs
+ff_2:PPZS3--3-------
+ff_4:ADJ_Aspect=Imp|Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_1:ADJ_Aspect=Imp|Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_2:AGNS4-----A----
+ff_7:PRON_Case=Dat|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs
+ff_17:PRON_Case=Dat|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs
+ff_15:ADJ_Aspect=Imp|Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_17:ADJ_Aspect=Imp|Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_14:závěrku
+ff_15:PRON_Case=Acc|Gender=Masc|Number=Plur|PronType=Tot
+ff_16:to
+ff_17:PRON_Case=Acc|Gender=Neut|Number=Sing|PronType=Dem
+ff_10:uvedených
+ff_4:PRON_Case=Acc|Gender=Fem|Number=Sing|PrepCase=Pre|PronType=Rel
+ff_1:PRON_Case=Acc|Gender=Fem|Number=Sing|PrepCase=Pre|PronType=Rel
+ff_2:P9FS4----------
+ff_19:PRON_Case=Acc|Gender=Fem|Number=Sing|PrepCase=Pre|PronType=Rel
+ff_21:PRON_Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+ff_15:PRON_Case=Acc|Gender=Fem|Number=Sing|PrepCase=Pre|PronType=Rel
+ff_17:PRON_Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+ff_8:knihy
+ff_6:zákon
+ff_6:rozsahu
+ff_10:rozsahu
+ff_15:ADJ_Animacy=Inan|Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_13:ADJ_Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_19:ADJ_Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_17:VERB_Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_17:PRON_Case=Nom|Gender=Neut|Number=Plur|PronType=Int,Rel
+ff_11:NOUN_Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos
+ff_13:NOUN_Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos
+ff_9:VERB_Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass
+ff_15:VERB_Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass
+ff_1:VERB_Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass
+ff_2:VsFS4--XX-AP---
+ff_7:NOUN_Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos
+ff_4:VERB_Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass
+ff_3:jiných
+ff_12:jiných
+ff_18:jiných
+ff_7:DET_Case=Gen|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_19:PRON_Case=Gen|Number=Plur|PrepCase=Pre|PronType=Rel
+ff_21:PRON_Case=Loc|Gender=Masc,Neut|Number=Sing|PronType=Dem
+ff_17:PRON_Case=Loc|Gender=Masc,Neut|Number=Sing|PronType=Dem
+ff_11:VERB_Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_13:PRON_Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|PronType=Dem
+ff_19:PRON_Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|PronType=Dem
+ff_21:VERB_Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_1:PRON_Case=Acc|Gender=Fem|Number=Plur|PronType=Dem
+ff_9:PRON_Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|PronType=Dem
+ff_15:PRON_Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|PronType=Dem
+ff_4:PRON_Case=Acc|Gender=Fem|Number=Plur|PronType=Dem
+ff_4:PRON_Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|PronType=Dem
+ff_1:PRON_Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|PronType=Dem
+ff_2:PDMP4----------
+ff_20:může
+ff_10:4
+ff_18:případě
+ff_14:případě
+ff_14:dni
+ff_18:dni
+ff_1:ADJ_Case=Dat|Gender=Neut|Number=Sing|NumType=Ord
+ff_2:CrNS3----------
+ff_17:ADJ_Case=Dat|Gender=Neut|Number=Sing|NumType=Ord
+ff_9:NOUN_Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos
+ff_4:NOUN_Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos
+ff_1:NOUN_Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos
+ff_2:NNMP4-----A----
+ff_16:d)
+ff_11:ADJ_Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos
+ff_7:NUM_Case=Gen|Gender=Masc,Neut|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3
+ff_17:NUM_Case=Gen|Gender=Masc,Neut|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3
+ff_7:ADJ_Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_12:c)
+ff_6:lze
+ff_10:lze
+ff_12:lze
+ff_6:kterým
+ff_7:PRON_Case=Ins|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel
+ff_15:ADV_Degree=Pos|Polarity=Neg
+ff_12:tak
+ff_8:tak
+ff_1:PRON_Case=Ins|Number=Plur|Person=3|PronType=Prs
+ff_2:PPXP7--3-------
+ff_9:PRON_Case=Ins|Number=Plur|Person=3|PronType=Prs
+ff_3:tak
+ff_13:ADJ_Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short
+ff_18:to
+ff_19:PRON_Case=Nom|Gender=Neut|Number=Sing|PronType=Dem
+ff_20:to
+ff_21:PRON_Case=Nom|Gender=Neut|Number=Sing|PronType=Dem
+ff_17:PRON_Case=Nom|Gender=Neut|Number=Sing|PronType=Dem
+ff_1:AUX_Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_17:AUX_Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_20:zákona
+ff_10:zápisy
+ff_6:zápisy
+ff_17:DET_Case=Ins|Gender=Masc,Neut|Number=Sing|PronType=Dem
+ff_6:zápisu
+ff_16:není-li
+ff_12:knihy
+ff_18:knihy
+ff_20:zápisy
+ff_14:knihy
+ff_16:zápisy
+ff_12:b)
+ff_20:jinak
+ff_8:(
+ff_1:PRON_Case=Ins|Gender=Masc,Neut|Number=Sing|PrepCase=Npr|PronType=Rel
+ff_2:PJZS7----------
+ff_15:PRON_Case=Ins|Gender=Masc,Neut|Number=Sing|PrepCase=Npr|PronType=Rel
+ff_17:PRON_Case=Ins|Gender=Masc,Neut|Number=Sing|PrepCase=Npr|PronType=Rel
+ff_7:ADJ_Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+ff_19:PRON_Case=Loc|Gender=Fem|Number=Sing|PrepCase=Pre|PronType=Rel
+ff_8:zápisy
+ff_15:VERB_Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_14:tyto
+ff_15:DET_Case=Nom|Gender=Fem|Number=Plur|PronType=Dem
+ff_18:účtů
+ff_7:VERB_Polarity=Pos|Style=Arch|VerbForm=Inf
+ff_11:VERB_Polarity=Pos|Style=Arch|VerbForm=Inf
+ff_15:VERB_Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_17:VERB_Polarity=Pos|Style=Arch|VerbForm=Inf
+ff_19:VERB_Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_21:VERB_Polarity=Pos|Style=Arch|VerbForm=Inf
+ff_1:VERB_Polarity=Pos|Style=Arch|VerbForm=Inf
+ff_2:Vf--------A---2
+ff_8:mohou
+ff_14:mohou
+ff_8:účtové
+ff_11:ADJ_Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing|Polarity=Pos
+ff_7:ADJ_Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing|Polarity=Pos
+ff_10:účtování
+ff_20:účtování
+ff_6:účtování
+ff_16:účtování
+ff_2:VB-P---3P-NA--1
+ff_16:ustanovení
+ff_20:odst.
+ff_13:ADJ_Aspect=Imp|Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_19:ADJ_Aspect=Imp|Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_9:ADJ_Aspect=Imp|Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_10:odstavců
+ff_12:odstavců
+ff_20:musí
+ff_18:uspořádání
+ff_14:uspořádání
+ff_12:uspořádání
+ff_21:ADJ_Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short
+ff_1:ADJ_Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|NumType=Ord
+ff_2:CrIS3----------
+ff_15:ADJ_Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|NumType=Ord
+ff_17:ADJ_Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|NumType=Ord
+ff_4:PRON_Case=Dat|Number=Plur|PrepCase=Pre|PronType=Rel
+ff_1:PRON_Case=Dat|Number=Plur|PrepCase=Pre|PronType=Rel
+ff_2:P9XP3----------
+ff_19:PRON_Case=Dat|Number=Plur|PrepCase=Pre|PronType=Rel
+ff_15:PRON_Case=Dat|Number=Plur|PrepCase=Pre|PronType=Rel
+ff_14:použít
+ff_7:NOUN_Gender=Neut|Polarity=Pos
+ff_18:stanoveno
+ff_19:VERB_Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass
+ff_20:a)
+ff_10:ke
+ff_11:ADP_AdpType=Voc|Case=Dat
+ff_10:vést
+ff_12:vést
+ff_7:ADJ_Case=Dat|Gender=Neut|Number=Sing|NumType=Ord
+ff_17:ADJ_Animacy=Anim|Aspect=Imp|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_3:e)
+ff_6:nastanou
+ff_16:účinky
+ff_21:PRON_Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel
+ff_17:PRON_Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel
+ff_3:f)
+ff_7:ADJ_Animacy=Anim|Aspect=Imp|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_14:nastanou
+ff_16:kterým
+ff_17:PRON_Case=Ins|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel
+ff_17:PRON_Case=Dat|Number=Plur|PronType=Int,Rel
+ff_6:stanoví
+ff_19:PRON_Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Int,Rel
+ff_6:předcházejícímu
+ff_8:bez
+ff_7:ADJ_Aspect=Imp|Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_9:ADJ_Aspect=Imp|Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_4:ADJ_Aspect=Imp|Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_10:nastanou
+ff_12:nastanou
+ff_2:NNIP4-----A---1
+ff_20:povinnost
+ff_6:knihy
+ff_10:knihy
+ff_16:knihy
+ff_20:knihy
+ff_10:přeměně
+ff_6:přeměně
+ff_16:zanikající
+ff_12:přeměny
+ff_15:ADJ_Animacy=Anim|Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_10:zápisu
+ff_12:zápisu
+ff_8:přeshraniční
+ff_9:DET_Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_17:DET_Case=Loc|Gender=Fem|Number=Sing|PronType=Dem
+ff_16:rozhodný
+ff_3:podle
+ff_12:a)
+ff_14:tato
+ff_15:DET_Case=Nom|Gender=Fem|Number=Sing|PronType=Dem
+ff_20:knih
+ff_16:knih
+ff_6:následujícího
+ff_7:ADJ_Animacy=Inan|Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_17:ADJ_Animacy=Inan|Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_17:PRON_Case=Ins|Gender=Masc,Neut|Number=Sing|PronType=Dem
+ff_10:7
+ff_10:závěrka
+ff_13:NOUN_Case=Nom|Gender=Neut|Number=Plur|Polarity=Pos
+ff_1:NUM_Case=Nom|Gender=Fem,Neut|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3
+ff_2:ClHP1----------
+ff_7:NUM_Case=Nom|Gender=Fem,Neut|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3
+ff_17:NUM_Case=Nom|Gender=Fem,Neut|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3
+ff_16:a)
+ff_3:účetních
+ff_12:účetních
+ff_18:u
+ff_19:ADP_AdpType=Prep|Case=Gen
+ff_20:u
+ff_21:ADP_AdpType=Prep|Case=Gen
+ff_4:PRON_Case=Acc|Number=Plur|Person=3|PronType=Prs
+ff_20:je
+ff_21:PRON_Case=Acc|Number=Plur|Person=3|PronType=Prs
+ff_4:PRON_Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Int,Rel
+ff_9:AUX_Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_12:závěrka
+ff_4:PRON_Case=Dat|Gender=Fem|Number=Sing|Person=3|PrepCase=Pre|PronType=Prs
+ff_1:PRON_Case=Dat|Gender=Fem|Number=Sing|Person=3|PrepCase=Pre|PronType=Prs
+ff_2:P5FS3--3-------
+ff_7:PRON_Case=Dat|Gender=Fem|Number=Sing|Person=3|PrepCase=Pre|PronType=Prs
+ff_17:PRON_Case=Dat|Gender=Fem|Number=Sing|Person=3|PrepCase=Pre|PronType=Prs
+ff_8:rozvahovému
+ff_1:ADJ_Animacy=Inan|Case=Nom|Degree=Sup|Gender=Masc|Number=Sing|Polarity=Pos
+ff_2:AAIS1----3A----
+ff_7:ADJ_Animacy=Inan|Case=Nom|Degree=Sup|Gender=Masc|Number=Sing|Polarity=Pos
+ff_17:ADJ_Animacy=Inan|Case=Nom|Degree=Sup|Gender=Masc|Number=Sing|Polarity=Pos
+ff_13:ADJ_Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_19:ADJ_Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_11:NOUN_Gender=Neut|Polarity=Pos
+ff_14:povinny
+ff_15:ADJ_Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Variant=Short
+ff_16:povinny
+ff_17:ADJ_Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Variant=Short
+ff_8:kterým
+ff_9:DET_Case=Dat|Number=Plur|PronType=Int,Rel
+ff_3:kterým
+ff_4:DET_Case=Dat|Number=Plur|PronType=Int,Rel
+ff_5:DET
+ff_1:DET_Case=Dat|Number=Plur|PronType=Int,Rel
+ff_18:ustanovení
+ff_19:NOUN_Case=Nom|Gender=Neut|Number=Plur|Polarity=Pos
+ff_20:ustanovení
+ff_15:NOUN_Case=Nom|Gender=Neut|Number=Plur|Polarity=Pos
+ff_6:použít
+ff_9:ADJ_Aspect=Imp|Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_1:ADJ_Aspect=Imp|Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_2:AGNS1-----A----
+ff_4:ADJ_Aspect=Imp|Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_9:DET_Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|PronType=Dem
+ff_4:PRON_Case=Loc|Gender=Fem|Number=Sing|PronType=Int,Rel
+ff_19:PRON_Case=Loc|Gender=Fem|Number=Sing|PronType=Int,Rel
+ff_21:PRON_Case=Loc|Gender=Fem|Number=Sing|PronType=Int,Rel
+ff_1:PRON_Case=Loc|Gender=Fem|Number=Sing|PronType=Int,Rel
+ff_2:P4FS6----------
+ff_15:PRON_Case=Loc|Gender=Fem|Number=Sing|PronType=Int,Rel
+ff_17:PRON_Case=Loc|Gender=Fem|Number=Sing|PronType=Int,Rel
+ff_12:)
+ff_15:VERB_Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_11:ADJ_Aspect=Imp|Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_7:ADJ_Aspect=Imp|Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_10:příloze
+ff_12:informace
+ff_13:ADJ_Animacy=Inan|Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_19:ADJ_Animacy=Inan|Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_9:ADJ_Animacy=Inan|Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_15:ADJ_Animacy=Inan|Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_4:ADJ_Animacy=Inan|Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_1:ADJ_Animacy=Inan|Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_2:AGIS1-----A----
+ff_6:příloze
+ff_15:ADJ_Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Neg
+ff_17:ADJ_Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Neg
+ff_10:ve
+ff_11:ADP_AdpType=Voc|Case=Loc
+ff_20:ve
+ff_21:ADP_AdpType=Voc|Case=Loc
+ff_1:DET_Case=Acc|Gender=Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_2:PSNS4FS3-------
+ff_9:DET_Case=Acc|Gender=Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_15:DET_Case=Acc|Gender=Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_11:ADJ_Animacy=Inan|Aspect=Imp|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_13:ADJ_Animacy=Inan|Aspect=Imp|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_7:ADJ_Animacy=Inan|Aspect=Imp|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_11:ADJ_Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_13:ADJ_Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_16:jestliže
+ff_1:DET_Case=Nom|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_2:PSZS1FS3-------
+ff_4:NOUN_Case=Nom|Gender=Neut|Number=Sing|Polarity=Neg
+ff_1:NOUN_Case=Nom|Gender=Neut|Number=Sing|Polarity=Neg
+ff_2:NNNS1-----N----
+ff_7:DET_Case=Nom|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_17:DET_Case=Nom|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_21:NOUN_Case=Nom|Gender=Neut|Number=Sing|Polarity=Neg
+ff_17:NOUN_Case=Nom|Gender=Neut|Number=Sing|Polarity=Neg
+ff_18:osoby
+ff_4:PRON_Case=Ins|Number=Plur|Person=3|PrepCase=Pre|PronType=Prs
+ff_12:povinny
+ff_13:ADJ_Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Variant=Short
+ff_19:PRON_Case=Ins|Number=Plur|Person=3|PrepCase=Pre|PronType=Prs
+ff_21:PRON_Case=Ins|Number=Plur|Person=3|PrepCase=Pre|PronType=Prs
+ff_1:PRON_Case=Ins|Number=Plur|Person=3|PrepCase=Pre|PronType=Prs
+ff_2:P5XP7--3-------
+ff_8:povinny
+ff_15:PRON_Case=Ins|Number=Plur|Person=3|PrepCase=Pre|PronType=Prs
+ff_17:PRON_Case=Ins|Number=Plur|Person=3|PrepCase=Pre|PronType=Prs
+ff_21:ADJ_Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+ff_16:použít
+ff_7:ADJ_Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos
+ff_15:ADJ_Animacy=Inan|Aspect=Imp|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act
+ff_1:DET_Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_2:P8FS4---------1
+ff_7:DET_Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_9:DET_Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_14:odstavců
+ff_1:DET_Case=Nom|Gender=Masc|Number=Sing|PronType=Neg
+ff_2:PWYS1----------
+ff_21:VERB_Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass
+ff_7:DET_Case=Nom|Gender=Masc|Number=Sing|PronType=Neg
+ff_3:standardů
+ff_0:standardů
+ff_6:mezinárodních
+ff_9:DET_Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Dem
+ff_15:DET_Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Dem
+ff_17:VERB_Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_4:PRON_Case=Loc|Gender=Masc,Neut|Number=Sing|PronType=Neg
+ff_1:PRON_Case=Loc|Gender=Masc,Neut|Number=Sing|PronType=Neg
+ff_2:PWZS6----------
+ff_8:standardů
+ff_14:standardů
+ff_16:mezinárodních
+ff_11:ADJ_Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos
+ff_4:AUX_Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_11:ADV_Degree=Cmp|Polarity=Pos
+ff_21:ADV_Degree=Cmp|Polarity=Pos
+ff_17:NUM_Case=Gen|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3
+ff_10:používání
+ff_20:používání
+ff_6:standardů
+ff_10:standardů
+ff_12:standardů
+ff_17:NUM_Case=Acc|Gender=Neut|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3
+ff_17:DET_Case=Loc|Gender=Masc,Neut|Number=Sing|PronType=Dem
+ff_11:ADJ_Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Variant=Short
+ff_13:ADJ_Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Variant=Short
+ff_7:ADJ_Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Variant=Short
+ff_9:ADJ_Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Variant=Short
+ff_16:standardů
+ff_1:ADJ_Animacy=Inan|Case=Ins|Degree=Sup|Gender=Masc|Number=Sing|Polarity=Pos
+ff_2:AAIS7----3A----
+ff_7:ADJ_Animacy=Inan|Case=Ins|Degree=Sup|Gender=Masc|Number=Sing|Polarity=Pos
+ff_17:ADJ_Animacy=Inan|Case=Ins|Degree=Sup|Gender=Masc|Number=Sing|Polarity=Pos
+ff_17:DET_Case=Gen|Gender=Fem|Number=Sing|PronType=Dem
+ff_10:8
+ff_12:8
+ff_6:8
+ff_3:8
+ff_3:7
+ff_14:stanoveno
+ff_15:VERB_Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass
+ff_1:ADJ_Animacy=Inan|Case=Gen|Degree=Sup|Gender=Masc|Number=Sing|Polarity=Pos
+ff_2:AAIS2----3A----
+ff_7:ADJ_Animacy=Inan|Case=Gen|Degree=Sup|Gender=Masc|Number=Sing|Polarity=Pos
+ff_17:ADJ_Animacy=Inan|Case=Gen|Degree=Sup|Gender=Masc|Number=Sing|Polarity=Pos
+ff_15:ADJ_Case=Dat|Gender=Neut|Number=Sing|NumType=Ord
+ff_18:uvedené
+ff_11:NOUN_Case=Nom|Gender=Neut|Number=Plur|Polarity=Pos
+ff_18:vést
+ff_11:NOUN_Abbr=Yes|Gender=Fem|Polarity=Pos
+ff_7:NOUN_Abbr=Yes|Gender=Fem|Polarity=Pos
+ff_4:PRON_Case=Acc|Number=Plur|Person=3|PrepCase=Pre|PronType=Prs
+ff_21:PRON_Case=Acc|Number=Plur|Person=3|PrepCase=Pre|PronType=Prs
+ff_1:PRON_Case=Acc|Number=Plur|Person=3|PrepCase=Pre|PronType=Prs
+ff_2:P5XP4--3-------
+ff_17:PRON_Case=Acc|Number=Plur|Person=3|PrepCase=Pre|PronType=Prs
+ff_14:účinném
+ff_10:zákon
+34
+flat
+nmod
+amod
+case
+obj
+cop
+nsubj
+punct
+cc
+appos
+conj
+nsubj:pass
+obl
+acl
+expl:pass
+mark
+xcomp
+dep
+nummod
+csubj
+det
+advmod
+advcl
+advmod:emph
+fixed
+aux:pass
+ccomp
+aux
+expl:pv
+parataxis
+csubj:pass
+orphan
+iobj
+nummod:gov
+1160
+8 2 357
+89 -8 3
+28 4 163
+129 5 16
+1559 6 11
+12 -24 -24
+426 -9 8
+842 9 -24
+26 -9 -24
+11 -9 -24
+1 12 14
+266 -9 -9
+426 -2 -9
+1123 15 -9
+64 -9 -9
+140 -4 17
+160 -4 18
+100 -4 19
+334 20 22
+36 21 -19
+1 -19 -19
+91 23 42
+780 24 26
+842 -9 25
+433 -9 -18
+1818 -9 27
+1988 28 29
+11 -4 -4
+795 -24 -24
+426 31 32
+1 -22 -24
+638 -22 33
+87 34 35
+1 -24 -24
+210 -9 36
+1692 -9 37
+2517 -9 38
+233 39 40
+1 -9 -24
+399 41 -24
+1 -9 -24
+2 -2 43
+220 -4 44
+42 -4 45
+66 -2 46
+280 47 50
+1678 -24 48
+1 49 -16
+210 -16 -9
+424 -2 51
+392 -2 52
+511 -4 53
+378 -6 54
+354 -4 55
+73 -6 56
+58 -2 57
+2008 -21 58
+1969 -21 59
+466 -4 60
+276 61 63
+277 62 -4
+103 -29 -15
+1210 -24 64
+210 65 76
+207 -3 66
+2840 -3 67
+1 68 74
+12 69 -21
+26 70 73
+336 -6 71
+1545 -19 72
+2450 -3 -7
+209 -6 -21
+1053 -6 75
+243 -6 -7
+365 -21 77
+374 -7 78
+415 -21 79
+508 80 81
+648 -22 -24
+447 -21 82
+1215 -21 83
+1 84 149
+380 85 86
+119 -18 -9
+1536 -21 87
+2605 -2 88
+3363 -34 89
+2078 90 91
+90 -9 -2
+2950 -2 92
+1491 -21 93
+2661 -21 94
+1419 -21 95
+2132 -21 96
+2339 -21 97
+3591 -21 98
+3886 -21 99
+3908 -21 100
+885 -21 101
+2266 -21 102
+2488 -19 103
+3832 -19 104
+844 -2 105
+2079 -2 106
+2117 -2 107
+3383 -2 108
+411 -7 109
+366 -21 110
+967 -21 111
+1731 -21 112
+1916 -21 113
+2271 -21 114
+2275 -21 115
+2459 -21 116
+3143 -21 117
+212 -4 118
+459 -4 119
+1947 -19 120
+2731 -19 121
+3012 -19 122
+3936 -19 123
+4193 -19 124
+24 -2 125
+126 -2 126
+238 -2 127
+904 -2 128
+1273 -2 129
+2126 -2 130
+2868 -2 131
+541 -21 132
+1216 -21 133
+2158 -21 134
+2292 -21 135
+2477 -21 136
+2669 -21 137
+3025 -21 138
+3150 -21 139
+3295 -21 140
+3348 -21 141
+3847 -21 142
+3913 -21 143
+3922 -21 144
+3951 -21 145
+4270 -21 146
+4280 -21 147
+4304 -21 148
+4309 -21 -3
+2458 -21 150
+2131 -21 151
+24 -2 152
+360 -2 153
+1148 -4 154
+894 -2 155
+2901 -2 156
+1241 -7 157
+592 -2 158
+656 -2 159
+107 -11 160
+120 -2 161
+243 -6 162
+583 -7 -3
+2 164 170
+5 165 169
+26 166 -1
+706 -2 167
+1671 -2 168
+1682 -2 -1
+338 -22 -13
+276 171 187
+26 172 185
+177 173 -29
+2114 -29 174
+1088 -29 175
+2042 -29 176
+250 177 178
+12 -29 -29
+899 179 180
+12 -15 -15
+968 -29 181
+12 182 -15
+341 -15 183
+347 -15 184
+176 -15 -15
+177 -15 186
+48 -29 -25
+129 188 191
+1559 -9 -9
+1910 190 -9
+1 -16 -9
+177 192 298
+280 -16 193
+91 194 199
+1816 -9 195
+624 196 197
+1 -22 -22
+899 198 -22
+1 -22 -22
+380 200 201
+1073 -9 -22
+374 202 217
+1362 -5 203
+1088 -5 204
+2650 -5 205
+624 206 207
+1023 -7 -7
+338 -12 208
+1050 209 214
+1986 -12 210
+1045 211 212
+11 -7 -7
+26 213 -7
+176 -7 -7
+176 215 -7
+12 216 -7
+26 -7 -7
+341 218 238
+1241 219 220
+1476 -12 -7
+584 -7 221
+411 222 223
+11 -12 -12
+1 224 236
+2006 -5 225
+26 226 234
+1039 -13 227
+2755 -7 228
+3728 -27 229
+4099 -17 230
+360 -12 231
+656 -12 232
+508 -22 233
+2338 -22 -5
+242 -17 235
+695 -23 -7
+1476 -5 -5
+1492 -7 -5
+250 239 246
+839 -28 240
+107 -5 241
+838 -28 242
+3655 -22 243
+508 -22 244
+2655 -22 245
+2962 -22 -5
+176 247 255
+26 248 252
+1241 -7 249
+4056 -13 250
+583 -5 251
+981 -5 -5
+242 -17 253
+1 -5 254
+3602 -22 -22
+1696 256 258
+624 257 -28
+11 -26 -28
+378 259 267
+1175 -26 260
+1910 -26 261
+12 262 -6
+26 263 -6
+2155 -6 264
+377 265 266
+338 -6 -6
+338 -6 -6
+624 268 278
+243 -26 269
+1 -26 -26
+3 -6 271
+120 -7 272
+2117 -5 273
+2952 -5 274
+1709 275 -26
+11 -26 -26
+12 277 -26
+73 -6 -6
+3 -6 279
+683 280 286
+20 -26 -26
+583 -12 282
+336 -6 283
+3371 -6 -26
+13 -22 285
+605 -26 -7
+1241 -7 287
+2155 288 289
+73 -6 -26
+338 290 292
+1 -26 -26
+26 -6 -26
+583 -7 293
+347 -13 294
+2508 -5 295
+12 296 -7
+1161 -7 297
+2798 -7 -5
+609 299 301
+424 300 -25
+26 -2 -25
+48 302 330
+1 303 319
+380 -22 304
+3 -6 305
+280 306 308
+26 307 -22
+1504 -9 -16
+91 309 311
+2473 -22 -22
+2659 -24 -22
+360 -7 312
+411 -7 313
+61 -3 314
+508 -24 315
+656 -7 316
+3655 -22 317
+12 318 -6
+336 -6 -5
+280 -16 320
+45 321 322
+1208 -13 -13
+100 -4 323
+91 324 325
+638 -22 -9
+140 -4 326
+374 -7 327
+164 -3 328
+1696 -28 329
+1999 -21 -6
+766 331 340
+1 332 338
+42 -4 333
+90 -2 334
+2079 -2 335
+280 -16 336
+26 -24 337
+12 -2 -24
+1678 -9 339
+280 -16 -6
+1210 341 342
+11 -24 -9
+1 343 348
+2793 -5 344
+5 345 346
+334 -19 -22
+91 -24 347
+11 -4 -17
+392 -2 349
+91 350 351
+5 -22 -24
+73 -6 352
+377 -6 353
+478 354 356
+41 -25 355
+280 -9 -4
+826 -25 -4
+28 358 666
+132 359 364
+1161 360 361
+389 -3 -9
+1560 362 -11
+217 -11 363
+15 -3 -17
+94 365 448
+93 366 434
+699 367 368
+698 -14 -11
+385 369 370
+235 -30 -14
+379 371 372
+672 -14 -14
+15 373 392
+97 374 376
+17 -10 -10
+9 -2 -14
+75 -14 377
+16 378 379
+91 -22 -11
+384 380 381
+1 -14 -3
+734 382 383
+68 -18 -14
+1409 -2 384
+2130 -3 385
+229 -14 386
+240 -14 387
+36 388 389
+26 -11 -14
+212 -11 -11
+261 -14 391
+906 -14 -11
+124 393 394
+747 -11 -11
+910 -11 395
+672 396 401
+26 -18 -18
+68 -18 398
+656 -7 399
+9 400 -23
+12 -14 -23
+1131 402 404
+64 -11 403
+978 -18 -2
+881 -2 405
+302 406 407
+27 -30 -14
+983 408 409
+2102 -23 -14
+1 410 424
+747 411 413
+12 412 -2
+426 -2 -11
+12 414 421
+1820 -11 415
+344 -11 416
+104 -17 417
+120 -11 418
+592 -11 419
+785 -11 420
+2 -11 -14
+13 422 423
+414 -18 -11
+9 -14 -11
+211 -11 -11
+64 426 427
+9 -5 -2
+269 428 429
+26 -18 -13
+339 430 431
+17 -18 -22
+648 -2 432
+647 -2 433
+725 -14 -11
+334 435 438
+389 -19 436
+433 -19 437
+233 -19 -2
+902 439 442
+246 -11 440
+379 -30 441
+75 -30 -18
+17 -10 -10
+698 444 445
+403 -2 -14
+7 -18 446
+591 -18 -11
+27 -2 -10
+1 449 577
+16 450 515
+392 -2 451
+424 452 456
+233 453 455
+1305 -2 454
+52 -13 -2
+168 -2 -2
+66 457 458
+169 -2 -2
+24 459 461
+44 460 -2
+7 -5 -2
+58 -2 462
+12 463 495
+7 464 480
+329 465 466
+64 -34 -17
+929 -14 467
+76 -7 468
+210 -7 469
+233 470 474
+45 -11 471
+656 -7 472
+894 -2 473
+2082 -18 -3
+102 -2 475
+894 -2 476
+27 -32 477
+515 -19 478
+434 -2 479
+2126 -2 -3
+140 -4 481
+286 482 483
+64 -9 -17
+146 -2 484
+951 -18 485
+2 -18 486
+110 -2 487
+49 -2 488
+36 -3 -3
+169 -14 -2
+418 491 493
+42 -4 492
+26 -2 -3
+95 -7 494
+411 -12 -3
+591 496 499
+7 497 498
+26 -2 -17
+26 -3 -14
+26 500 512
+795 501 502
+7 -7 -17
+44 -7 503
+714 504 505
+11 -2 -2
+49 -4 506
+2 -2 507
+418 508 509
+11 -2 -3
+894 -2 510
+1273 -2 511
+2908 -2 -3
+940 -18 513
+2 -22 514
+379 -11 -3
+285 -17 516
+1212 -18 517
+20 518 562
+7 519 542
+334 520 521
+50 -19 -32
+392 -2 522
+9 523 537
+173 -2 524
+58 -2 525
+424 -2 526
+66 -2 527
+15 528 536
+26 529 535
+169 -2 530
+266 -2 531
+210 -7 532
+233 -7 533
+24 -7 534
+76 -7 -3
+11 -3 -18
+45 -18 -7
+591 538 539
+15 -30 -4
+61 -3 540
+68 -3 541
+1389 -3 -2
+1269 543 544
+1134 -11 -18
+1392 545 546
+9 -11 -7
+210 547 550
+209 548 549
+9 -3 -18
+11 -2 -7
+965 -5 551
+588 -2 -2
+1934 -32 553
+187 554 556
+45 -18 555
+223 -13 -2
+235 -13 557
+360 -5 558
+2760 -5 559
+85 -3 560
+114 -3 561
+1082 -3 -2
+242 -14 563
+329 -19 564
+103 565 566
+98 -17 -3
+461 -3 567
+379 -14 568
+536 -32 569
+164 -3 570
+229 -3 571
+561 -3 572
+1389 -3 573
+68 574 575
+2 -2 -3
+136 -3 576
+390 -3 -2
+140 578 579
+103 -2 -4
+334 580 581
+7 -34 -19
+16 582 617
+42 -4 583
+181 584 585
+7 -4 -3
+258 -4 586
+12 587 603
+76 588 589
+215 -32 -7
+209 590 591
+7 -11 -6
+411 -7 592
+114 -2 -2
+2832 -3 594
+266 595 597
+279 -4 596
+392 -11 -2
+248 -18 598
+285 -17 599
+656 -7 600
+1017 -3 601
+120 602 -2
+7 -2 -32
+111 -2 604
+96 -14 605
+255 -2 606
+424 -2 607
+66 -2 608
+392 -2 609
+11 610 614
+1430 -3 611
+142 -3 612
+76 -17 613
+235 -3 -2
+879 -2 615
+24 -2 616
+64 -2 -3
+242 -14 618
+1066 619 629
+26 620 627
+19 -2 -2
+168 622 -18
+142 -18 623
+1173 -18 624
+233 -22 625
+389 -22 626
+1744 -22 -2
+7 628 -2
+19 -18 -2
+662 -4 630
+795 631 634
+97 -20 632
+9 633 -13
+15 -7 -13
+2767 635 638
+737 -13 636
+11 637 -18
+64 -18 -2
+360 -7 639
+210 640 645
+235 -7 641
+145 -13 642
+58 -13 643
+209 644 -2
+329 -2 -13
+120 646 650
+148 -5 647
+217 648 -2
+7 -7 649
+389 -2 -2
+164 -3 651
+285 -17 652
+511 -4 653
+592 -32 654
+772 -11 655
+1699 -5 656
+846 657 658
+9 -2 -18
+1437 -13 659
+714 660 661
+9 -2 -2
+4215 662 663
+231 -2 -2
+138 664 665
+17 -13 -2
+1547 -2 -2
+242 667 678
+250 668 669
+673 -27 -11
+1786 -20 670
+673 -27 671
+1955 -20 672
+26 673 -17
+1056 -20 674
+899 675 -17
+20 676 -20
+52 -20 677
+734 -20 -17
+132 679 689
+1560 680 686
+15 681 683
+250 -5 682
+1 -7 -22
+217 684 685
+26 -7 -5
+158 -11 -13
+1161 687 688
+48 -5 -9
+337 -13 -11
+94 690 751
+673 691 705
+1185 692 697
+177 693 696
+26 694 -31
+1100 -27 695
+1 -23 -27
+1 -14 -20
+3752 -23 -23
+2155 -11 699
+15 700 702
+26 701 -23
+229 -23 -27
+859 -28 703
+545 704 -23
+26 -23 -28
+177 706 738
+902 707 717
+80 -11 -11
+240 -11 709
+1235 -11 710
+1815 -11 711
+3531 -11 712
+234 -11 713
+471 -11 714
+755 715 -30
+1 716 -30
+26 -30 -11
+302 718 719
+2 -22 -13
+699 720 725
+7 721 723
+2 -13 722
+11 -12 -5
+15 -18 724
+98 -23 -11
+910 -11 726
+15 727 731
+45 -13 728
+26 729 -22
+124 -11 730
+183 -11 -22
+379 -11 732
+3261 -11 733
+639 -11 734
+9 -13 -13
+1166 736 737
+250 -22 -13
+12 -22 -13
+143 -2 739
+301 -10 740
+853 -2 741
+379 742 745
+12 -14 743
+9 -11 744
+1 -30 -23
+605 746 747
+1 -22 -11
+1497 -22 748
+385 -14 749
+169 -13 750
+264 -13 -11
+411 752 779
+772 -7 753
+217 754 755
+3128 -7 -12
+26 756 774
+286 -23 757
+2798 758 759
+2461 -7 -5
+96 -5 760
+206 -5 761
+1803 -12 762
+773 763 770
+441 -7 764
+1088 -7 765
+1 766 -12
+9 767 -7
+697 768 -12
+16 769 -7
+12 -7 -12
+13 771 773
+889 -7 -7
+2663 -12 -7
+1 -7 -12
+2621 -7 775
+204 -7 776
+322 -7 777
+1565 778 -12
+1 -7 -12
+286 780 792
+1750 781 782
+1 -11 -11
+285 783 786
+9 -17 -17
+275 -17 785
+441 -23 -18
+302 -23 -23
+7 -23 -28
+2166 -23 789
+177 790 791
+7 -23 -20
+217 -23 -18
+120 793 812
+957 794 797
+958 -7 795
+111 -5 796
+341 -5 -7
+175 -12 798
+215 799 801
+176 800 -5
+9 -5 -5
+48 -7 802
+542 -12 803
+906 -12 804
+1413 -7 -7
+566 806 807
+9 -7 -12
+79 -12 808
+1 809 810
+80 -5 -7
+1218 -7 811
+81 -7 -5
+2 813 821
+965 814 816
+7 -18 -18
+15 -7 -2
+684 817 819
+15 818 -13
+5 -2 -18
+4 -11 820
+21 -22 -13
+16 822 972
+656 823 838
+1167 -7 824
+1299 -7 825
+721 -5 826
+899 827 829
+52 -7 828
+7 -5 -12
+2006 -12 830
+725 -12 831
+1279 -12 832
+169 -12 833
+693 834 836
+12 -12 -12
+341 -7 -7
+176 -12 837
+476 -12 -7
+360 839 853
+250 -5 840
+176 -12 841
+229 -5 842
+111 -7 843
+7 844 847
+899 845 846
+1 -12 -12
+1880 -12 -7
+470 -7 848
+215 -7 849
+95 -7 850
+19 851 -5
+451 -5 852
+1182 -5 -12
+76 854 862
+3637 -5 855
+413 -7 856
+176 857 861
+1 858 860
+52 859 -7
+7 -5 -12
+12 -12 -5
+624 -12 -7
+177 863 934
+631 -22 864
+592 865 866
+3836 -7 -5
+271 867 868
+250 -22 -13
+227 -13 869
+238 870 872
+1 871 -13
+235 -13 -5
+168 873 876
+2260 -22 874
+7 -22 875
+1958 -22 -13
+380 -22 877
+356 -22 878
+26 879 924
+212 880 884
+946 -5 881
+211 -5 882
+111 -12 883
+1088 -5 -13
+250 885 890
+666 -22 886
+508 887 888
+169 -5 -22
+45 -33 889
+1462 -13 -5
+1859 -27 891
+1 892 908
+1252 -7 893
+994 -7 894
+181 -30 895
+553 -17 896
+2042 -7 897
+508 898 899
+12 -22 -5
+145 900 901
+13 -13 -22
+91 -22 902
+45 903 904
+341 -13 -13
+19 905 -13
+440 -13 906
+479 -13 907
+683 -13 -5
+146 -22 909
+110 910 911
+109 -13 -22
+23 -5 -5
+666 -26 913
+374 -7 914
+248 915 916
+580 -12 -7
+957 -7 917
+7 918 922
+347 -12 919
+111 -5 920
+107 -5 921
+3042 -5 -7
+169 -12 923
+539 -12 -5
+833 925 926
+1 -33 -5
+994 -12 927
+143 928 929
+3501 -5 -12
+799 -12 930
+601 931 932
+146 -5 -13
+175 -13 933
+269 -13 -5
+48 935 960
+160 -4 936
+168 937 939
+1 -13 938
+66 -13 -22
+146 -13 940
+26 941 958
+248 -7 942
+225 -13 943
+775 944 945
+7 -13 -22
+380 -22 946
+65 -5 -5
+106 -7 948
+13 949 952
+1290 -13 950
+1576 -13 951
+3101 -13 -5
+255 -5 953
+1568 -5 954
+238 -13 955
+413 -5 956
+7 957 -13
+126 -13 -5
+1382 -5 959
+1 -23 -3
+434 -13 961
+26 962 968
+240 -7 963
+1315 -13 964
+52 -2 965
+66 -2 966
+167 -22 967
+1300 -7 -5
+334 -11 969
+1 970 971
+329 -13 -2
+146 -2 -4
+1859 973 975
+639 -27 974
+695 -27 -17
+656 976 990
+965 977 978
+54 -12 -5
+7 979 987
+15 980 986
+2187 -12 981
+26 982 -7
+11 983 -7
+903 984 -12
+694 -7 985
+48 -7 -12
+180 -12 -7
+79 -12 988
+13 989 -5
+169 -5 -7
+146 991 1005
+813 992 995
+5 993 994
+4 -2 -11
+514 -13 -5
+508 -13 -13
+3185 -11 997
+1105 998 999
+26 -13 -5
+327 1000 1003
+109 -5 1001
+175 -5 1002
+2013 -5 -13
+2473 1004 -13
+9 -5 -13
+168 1006 1016
+262 -13 -13
+493 -22 1008
+865 -2 1009
+766 -2 1010
+12 1011 -13
+106 -13 1012
+396 -13 1013
+169 -13 -5
+823 1015 -13
+26 -5 -13
+76 1017 1023
+624 -12 1018
+2575 1019 1020
+250 -5 -12
+9 1021 -7
+176 -12 1022
+48 -5 -7
+26 1024 1127
+1288 -13 1025
+7 1026 1063
+997 1027 1028
+1 -2 -12
+97 -23 1029
+2073 -12 1030
+580 -5 -5
+110 1032 1033
+176 -13 -33
+9 -5 -30
+238 1035 1036
+48 -5 -13
+592 -5 1037
+70 1038 1040
+156 -5 1039
+1 -7 -12
+176 1041 1043
+302 -22 1042
+959 -12 -5
+2281 -33 1044
+360 1045 1047
+1 -7 1046
+9 -5 -7
+234 -7 1048
+620 -7 1049
+484 -22 1050
+737 -22 1051
+187 -13 1052
+228 -13 1053
+327 -13 1054
+342 -13 1055
+647 -13 1056
+1060 -13 1057
+24 -13 1058
+45 -13 1059
+199 -13 1060
+17 -5 1061
+110 -13 1062
+150 -13 -5
+178 1064 1066
+1058 -7 1065
+95 -12 -5
+2923 -7 1067
+2103 1068 1069
+9 -33 -7
+230 1070 1073
+1 1071 1072
+9 -22 -23
+5 -7 -13
+508 -22 1074
+594 -5 1075
+462 1076 1077
+212 -33 -5
+211 1078 1079
+48 -5 -33
+966 1080 1081
+1 -5 -7
+1213 1082 1083
+15 -22 -13
+801 -7 1084
+761 -13 1085
+231 1086 1088
+341 1087 -13
+111 -5 -13
+45 1089 1091
+55 1090 -13
+9 -5 -5
+1083 -13 1092
+737 1093 1094
+1 -12 -13
+424 -12 1095
+1440 -12 1096
+1409 -5 1097
+200 -5 1098
+1157 -5 1099
+180 -5 1100
+592 1101 1103
+5 -5 1102
+413 -5 -13
+487 1104 1108
+660 1105 1106
+1 -5 -13
+406 -5 1107
+414 -5 -13
+660 -13 1109
+107 -5 1110
+187 -13 1111
+225 -5 1112
+176 -5 1113
+575 -5 1114
+341 1115 1117
+109 -13 1116
+846 -13 -5
+651 -5 1118
+12 1119 -13
+666 -13 1120
+227 -5 1121
+250 1122 1123
+24 -13 -5
+49 1124 1125
+1 -5 -13
+58 -5 1126
+2497 -5 -13
+177 1128 1154
+3008 1129 1130
+150 -17 -27
+3531 1131 1134
+1073 -7 1132
+52 -7 1133
+241 -22 -13
+110 1135 1137
+813 -5 1136
+966 -5 -13
+392 -13 1138
+434 1139 1140
+49 -18 -13
+384 -13 1141
+746 1142 1143
+1 -18 -13
+50 -13 1144
+2676 -7 1145
+1565 1146 1147
+1 -13 -7
+306 -13 1148
+1 1149 1153
+178 -5 -5
+111 -12 1151
+176 1152 -5
+15 -12 -5
+1735 -12 -5
+48 1155 1156
+248 -5 -13
+3185 1157 1158
+7 -13 -11
+83 -4 1159
+7 -13 1160
+252 -13 -2

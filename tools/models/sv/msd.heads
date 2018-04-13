@@ -1,0 +1,202 @@
+ADJ	Case=Nom	Definite=Ind	Degree=Pos	Gender=Com	Number=Sing
+NOUN	Case=Nom	Definite=Ind	Gender=Com	Number=Sing
+ADP	_
+NOUN	Case=Nom	Definite=Ind	Gender=Com	Number=Plur
+NOUN	Case=Nom	Definite=Def	Gender=Com	Number=Sing
+VERB	Mood=Ind	Tense=Pres	VerbForm=Fin	Voice=Pass
+PUNCT	_
+PRON	Definite=Def	Gender=Neut	Number=Sing	PronType=Prs
+VERB	Mood=Ind	Tense=Pres	VerbForm=Fin	Voice=Act
+ADV	Abbr=Yes
+SCONJ	_
+ADV	_
+NUM	Case=Nom	Definite=Ind	Gender=Com	Number=Sing	NumType=Card
+AUX	Mood=Ind	Tense=Pres	VerbForm=Fin	Voice=Act
+PART	_
+VERB	VerbForm=Inf
+PRON	Definite=Def	Gender=Com	Number=Sing	PronType=Prs
+DET	Number=Plur	PronType=Tot
+NOUN	Case=Nom	Definite=Ind	Gender=Neut	Number=Sing
+ADJ	Case=Nom	Degree=Pos	Number=Plur
+NOUN	Case=Nom	Definite=Ind	Gender=Neut	Number=Plur
+CCONJ	_
+DET	Definite=Def	Number=Plur	PronType=Art
+PRON	PronType=Rel
+DET	Definite=Def	Gender=Neut	Number=Sing	PronType=Dem
+ADV	Degree=Pos
+DET	Definite=Def	Number=Plur	PronType=Dem
+ADJ	Case=Nom	Definite=Ind	Degree=Pos	Gender=Neut	Number=Sing
+DET	Definite=Def	Gender=Com	Number=Sing	PronType=Art
+ADJ	Case=Nom	Definite=Def	Degree=Pos	Gender=Masc	Number=Sing
+VERB	VerbForm=Sup	Voice=Act
+NOUN	Case=Nom	Definite=Def	Gender=Neut	Number=Sing
+ADV	Polarity=Neg
+ADJ	Case=Nom	Degree=Pos
+NOUN	Case=Gen	Definite=Ind	Gender=Com	Number=Plur
+ADV	Degree=Cmp
+VERB	VerbForm=Inf	Voice=Pass
+ADJ	Case=Nom	Definite=Ind	Degree=Pos	Number=Plur
+NOUN	Case=Nom	Definite=Def	Gender=Com	Number=Plur
+ADV	Degree=Sup
+NUM	Case=Nom	NumType=Card
+NOUN	Abbr=Yes
+ADJ	Case=Nom	Definite=Def	Degree=Sup
+NOUN	Case=Gen	Definite=Ind	Gender=Neut	Number=Sing
+VERB	Mood=Imp	VerbForm=Fin	Voice=Act
+VERB	VerbForm=Inf	Voice=Act
+NOUN	Case=Nom	Definite=Def	Gender=Neut	Number=Plur
+VERB	Mood=Ind	Tense=Pres	VerbForm=Fin
+NOUN	Case=Gen	Definite=Ind	Gender=Neut	Number=Plur
+AUX	VerbForm=Inf	Voice=Act
+ADJ	Case=Nom	Definite=Ind	Gender=Neut	Number=Sing	Tense=Past	VerbForm=Part
+PRON	Case=Nom	Definite=Def	Number=Plur	PronType=Prs
+ADJ	Case=Nom	Number=Plur	Tense=Past	VerbForm=Part
+AUX	VerbForm=Sup	Voice=Act
+PRON	Case=Acc	Definite=Def	Number=Plur	PronType=Rcp
+VERB	VerbForm=Sup	Voice=Pass
+AUX	Mood=Ind	Tense=Past	VerbForm=Fin	Voice=Act
+DET	Definite=Def	Gender=Neut	Number=Sing	PronType=Art
+ADJ	Case=Nom	Definite=Def	Degree=Pos	Number=Sing
+ADJ	Case=Nom	Degree=Cmp
+DET	Definite=Ind	Number=Sing	PronType=Tot
+DET	Definite=Ind	Gender=Com	Number=Sing	PronType=Art
+ADJ	Case=Nom	Definite=Ind	Gender=Com	Number=Sing	Tense=Past	VerbForm=Part
+DET	Definite=Ind	PronType=Ind
+ADJ	Case=Nom	Definite=Def	Number=Sing	Tense=Past	VerbForm=Part
+ADJ	Case=Nom	Tense=Pres	VerbForm=Part
+DET	Definite=Ind	Gender=Com	Number=Sing	PronType=Ind
+PRON	Definite=Def	Gender=Neut	Number=Sing	PronType=Dem
+DET	Definite=Ind	Gender=Neut	Number=Sing	PronType=Art
+VERB	Mood=Ind	Tense=Past	VerbForm=Fin	Voice=Act
+PRON	Case=Acc	Definite=Def	Gender=Com	Number=Sing	PronType=Prs
+PRON	Definite=Ind	Gender=Neut	Number=Sing	PronType=Int
+DET	Definite=Def	Gender=Com	Number=Sing	Poss=Yes	PronType=Prs
+DET	Definite=Def	Gender=Neut	Number=Sing	Poss=Yes	PronType=Prs
+PRON	Case=Nom	Definite=Def	Gender=Com	Number=Sing	PronType=Prs
+PRON	Definite=Def	Number=Plur	PronType=Dem
+DET	Definite=Def	Number=Plur	Poss=Yes	PronType=Prs
+PRON	Case=Acc	Definite=Def	Number=Plur	PronType=Prs
+ADJ	Case=Nom	Definite=Def	Degree=Sup	Number=Plur
+ADJ	Case=Nom	Degree=Pos	Gender=Com	Number=Sing
+DET	Gender=Com	Number=Sing	PronType=Tot
+DET	Definite=Def	Gender=Com	Number=Sing	PronType=Dem
+NOUN	Case=Gen	Definite=Ind	Gender=Com	Number=Sing
+NOUN	_
+ADJ	Case=Nom
+PRON	Case=Nom	Definite=Ind	Gender=Com	Number=Sing	PronType=Ind
+PRON	Definite=Ind	Gender=Neut	Number=Sing	PronType=Ind
+PRON	Definite=Ind	Number=Plur	PronType=Tot
+DET	Definite=Ind	Gender=Neut	Number=Sing	PronType=Ind
+PRON	Definite=Ind	Number=Plur	PronType=Ind
+DET	Definite=Def	Poss=Yes	PronType=Ind
+NOUN	Case=Gen	Definite=Def	Gender=Neut	Number=Sing
+NOUN	Gender=Com
+PRON	Definite=Ind	Gender=Neut	Number=Sing	PronType=Tot
+NOUN	Case=Gen	Definite=Def	Gender=Com	Number=Sing
+PRON	Case=Acc	Definite=Def	PronType=Prs
+DET	Definite=Def	Poss=Yes	PronType=Prs
+PROPN	Case=Nom
+VERB	Case=Nom	Number=Plur	Tense=Past	VerbForm=Part
+PRON	Case=Nom	Definite=Def	Gender=Com	Number=Plur	PronType=Prs
+DET	Definite=Def	Number=Plur	PronType=Prs
+ADJ	Case=Gen	Number=Plur	Tense=Past	VerbForm=Part
+PRON	Case=Acc	Definite=Def	Gender=Com	Number=Plur	PronType=Prs
+PRON	Definite=Ind	Number=Plur	PronType=Rel
+VERB	Mood=Ind	Tense=Past	VerbForm=Fin
+PRON	Definite=Ind	Number=Plur	PronType=Int
+DET	Number=Plur	PronType=Ind
+PROPN	Case=Gen
+PROPN	_
+DET	Definite=Ind	Gender=Com	Number=Sing	PronType=Int
+PRON	Definite=Ind	Gender=Com	Number=Sing	PronType=Tot
+NOUN	Gender=Neut
+NOUN	Case=Gen	Definite=Def	Gender=Com	Number=Plur
+DET	Definite=Ind	Number=Plur	PronType=Int
+DET	Definite=Ind	Gender=Com	Number=Sing	PronType=Neg
+VERB	VerbForm=Sup
+NOUN	Case=Gen	Definite=Def	Gender=Neut	Number=Plur
+VERB	Mood=Ind	Tense=Past	VerbForm=Fin	Voice=Pass
+NUM	Case=Nom	Definite=Ind	Gender=Neut	Number=Sing	NumType=Card
+NOUN	Foreign=Yes
+ADJ	Foreign=Yes
+PRON	Definite=Def	Gender=Neut	Number=Sing	PronType=Ind
+DET	Definite=Ind	Number=Plur	PronType=Ind
+SYM	_
+ADJ	Case=Nom	Degree=Pos	Gender=Neut	Number=Sing
+DET	Definite=Def	Number=Sing	PronType=Tot
+PRON	Definite=Ind	Gender=Com	Number=Sing	PronType=Ind
+DET	Definite=Ind	Gender=Neut	Number=Sing	PronType=Int
+ADJ	Case=Nom	Definite=Ind	Degree=Sup
+PRON	Definite=Def	Gender=Com	Number=Sing	PronType=Dem
+PRON	Definite=Ind	Gender=Com	Number=Sing	PronType=Neg
+AUX	Mood=Sub	Tense=Past	VerbForm=Fin	Voice=Act
+ADJ	Degree=Pos	Gender=Com
+PRON	Definite=Def	Gender=Com	Number=Sing	PronType=Ind
+VERB	Case=Nom	Definite=Ind	Gender=Com	Number=Sing	Tense=Past	VerbForm=Part
+VERB	Case=Nom	Definite=Ind	Gender=Neut	Number=Sing	Tense=Past	VerbForm=Part
+PRON	Definite=Def	Number=Plur	PronType=Ind
+PRON	Definite=Ind	Gender=Neut	Number=Sing	PronType=Prs
+DET	Definite=Ind	PronType=Prs
+DET	Definite=Def	Gender=Neut	Number=Sing	PronType=Prs
+DET	Definite=Def	Poss=Yes	PronType=Rel
+ADJ	Case=Gen	Degree=Pos	Number=Plur
+DET	Definite=Def	Number=Plur	Poss=Yes	PronType=Ind
+DET	Definite=Def	Gender=Com	Number=Sing	PronType=Prs
+ADJ	Abbr=Yes
+PRON	Definite=Ind	Gender=Neut	Number=Sing	PronType=Rel
+PRON	Definite=Ind	Gender=Com	Number=Sing	PronType=Rel
+NUM	NumType=Card
+INTJ	_
+PRON	Definite=Ind	Gender=Com	Number=Sing	PronType=Int
+ADV	Degree=Sup	Polarity=Neg
+DET	Definite=Ind	Gender=Com	Number=Sing	PronType=Tot
+PRON	Definite=Ind	Gender=Com	Number=Sing	PronType=Prs
+DET	Definite=Def	Poss=Yes	PronType=Int
+DET	Definite=Ind	Number=Sing	PronType=Ind
+ADJ	_
+PRON	Case=Nom	Definite=Ind	Gender=Com	Number=Sing	PronType=Prs
+ADJ	Case=Gen	Definite=Def	Degree=Pos	Gender=Masc	Number=Sing
+NOUN	Definite=Ind	Gender=Neut	Number=Sing
+PRON	Case=Nom	Definite=Def	Gender=Com	Number=Sing	PronType=Tot
+DET	Gender=Neut	Number=Sing	PronType=Tot
+PRON	Definite=Ind	Gender=Neut	Number=Sing	PronType=Neg
+ADJ	Case=Nom	Gender=Masc	Number=Sing
+DET	Definite=Ind	Number=Plur	PronType=Neg
+ADJ	Case=Nom	Definite=Def	Degree=Sup	Gender=Masc	Number=Sing
+PRON	Definite=Def	Gender=Masc	Number=Sing	PronType=Dem
+PRON	Definite=Def	Gender=Neut	Number=Sing	PronType=Tot
+DET	Definite=Ind	Gender=Neut	Number=Sing	PronType=Neg
+DET	Gender=Com	Number=Sing	PronType=Prs
+VERB	Mood=Imp	VerbForm=Fin	Voice=Pass
+PRON	Case=Nom	Definite=Def	Number=Plur	PronType=Ind
+PRON	Case=Acc	Definite=Def	PronType=Ind
+ADP	Foreign=Yes
+DET	Definite=Ind	Gender=Com	Number=Sing	PronType=Prs
+DET	Definite=Def	Poss=Yes	PronType=Dem
+VERB	Abbr=Yes	Mood=Imp	VerbForm=Fin	Voice=Act
+VERB	Mood=Sub	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Nom	Definite=Ind	Gender=Com	Number=Sing	PronType=Rel
+CCONJ	Foreign=Yes
+DET	PronType=Art
+DET	Definite=Ind	Number=Sing	PronType=Prs
+DET	Definite=Ind	Number=Plur	PronType=Tot
+PRON	Case=Nom	Definite=Def	Gender=Com	Number=Sing	PronType=Ind
+PRON	Case=Nom	Definite=Def	Number=Plur	PronType=Rel
+PRON	Case=Acc	Definite=Def	Number=Plur	PronType=Tot
+PRON	Definite=Def	Number=Plur	PronType=Prs
+ADJ	Case=Gen	Definite=Ind	Degree=Pos	Gender=Com	Number=Sing
+PRON	Definite=Def	Number=Plur	PronType=Tot
+ADV	Degree=Pos	Polarity=Neg
+VERB	Mood=Sub	Tense=Past	VerbForm=Fin	Voice=Act
+PRON	PronType=Ind
+DET	Definite=Ind	PronType=Neg
+PRON	Definite=Ind	Number=Plur	PronType=Neg
+CCONJ	Polarity=Neg
+NOUN	Case=Nom	Gender=Masc	Number=Sing
+NOUN	Case=Acc	Gender=Fem	Number=Sing
+PRON	Case=Nom	Definite=Def	Number=Plur	PronType=Tot
+DET	Definite=Def	Number=Plur	PronType=Tot
+AUX	Mood=Imp	VerbForm=Fin	Voice=Act
+ADV	Foreign=Yes
+DET	Definite=Def	Poss=Yes	PronType=Rcp
+PRON	Case=Acc	Definite=Def	Polarity=Neg	PronType=Ind

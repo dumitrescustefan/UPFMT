@@ -1,0 +1,521 @@
+_	_
+DET	PronType=Art
+NOUN	Gender=Masc	Number=Sing
+VERB	Gender=Masc	HebBinyan=PIEL	Number=Sing	Person=3	Tense=Past	Voice=Act
+CCONJ	_
+NOUN	Gender=Masc	Number=Plur
+VERB	Gender=Fem,Masc	HebBinyan=PAAL	Number=Plur	Person=3	Tense=Past	Voice=Act
+ADP	_
+PRON	Gender=Masc	Number=Sing	Person=3	PronType=Prs
+NOUN	Definite=Cons
+PUNCT	_
+NOUN	Definite=Cons	Gender=Masc	Number=Plur
+NOUN	Abbr=Yes	Gender=Masc	Number=Sing
+VERB	Gender=Fem,Masc	HebBinyan=HIFIL	Number=Plur	Person=3	Tense=Past	Voice=Act
+NOUN	Gender=Fem	Number=Sing
+ADJ	Gender=Fem	Number=Sing
+VERB	Gender=Masc	HebBinyan=HITPAEL	Number=Sing	Person=3	Tense=Past
+ADV	_
+SCONJ	_
+VERB	Gender=Fem,Masc	HebBinyan=NIFAL	Number=Plur	Person=3	Tense=Past	Voice=Mid
+NOUN	Gender=Fem	Number=Plur
+NUM	Gender=Fem	Number=Plur
+NOUN	Definite=Cons	Gender=Masc	Number=Sing
+VERB	Gender=Fem,Masc	Number=Plur	Person=3	Tense=Past
+NOUN	Definite=Cons	Gender=Fem	Number=Plur
+NOUN	Definite=Def	Gender=Masc	Number=Plur
+PRON	Case=Gen	Gender=Masc	Number=Plur	Person=3	PronType=Prs
+VERB	VerbForm=Inf
+ADJ	Gender=Masc	Number=Sing
+VERB	Gender=Masc	Number=Sing	Person=3	Tense=Past
+VERB	HebBinyan=PAAL	VerbForm=Inf	Voice=Act
+PART	Case=Acc
+VERB	Gender=Masc	HebBinyan=PAAL	Number=Sing	Person=3	Tense=Past	Voice=Act
+SCONJ	Case=Tem
+NOUN	Definite=Def	Gender=Masc	Number=Sing
+PRON	Case=Gen	Gender=Masc	Number=Sing	Person=3	PronType=Prs
+NOUN	Definite=Def	Gender=Fem	Number=Sing
+ADV	Polarity=Neg
+VERB	Gender=Masc	HebBinyan=NIFAL	Number=Sing	Person=3	Tense=Past	Voice=Mid
+PART	Case=Gen
+PROPN	_
+NOUN	Abbr=Yes	Definite=Cons	Gender=Masc	Number=Sing
+VERB	Gender=Fem,Masc	HebBinyan=PAAL	Number=Plur	Person=1	Tense=Fut	Voice=Act
+VERB	HebBinyan=PIEL	VerbForm=Inf	Voice=Act
+NUM	Gender=Masc	Number=Sing
+AUX	Gender=Masc	Number=Sing	Tense=Past	VerbType=Mod
+VERB	HebBinyan=HIFIL	VerbForm=Inf	Voice=Act
+NOUN	Definite=Cons	Gender=Fem	Number=Sing
+VERB	Gender=Fem	HebBinyan=HUFAL	Number=Sing	Person=3	Tense=Past	Voice=Pass
+VERB	Gender=Masc	HebBinyan=PAAL	Number=Plur	Person=1,2,3	VerbForm=Part	Voice=Act
+VERB	Gender=Masc	HebBinyan=PAAL	Number=Sing	Person=1,2,3	VerbForm=Part	Voice=Act
+VERB	Gender=Masc	Number=Sing	Person=1,2,3	VerbForm=Part
+VERB	Gender=Fem	Number=Sing	Person=3	Polarity=Pos	Tense=Fut	VerbType=Cop
+CCONJ	HebSource=ConvUncertainHead
+VERB	Gender=Masc	HebBinyan=NIFAL	Number=Plur	Person=1,2,3	VerbForm=Part	Voice=Mid
+PRON	Gender=Fem	Number=Sing	Person=3	PronType=Dem
+PRON	Gender=Masc	Number=Sing	Person=3	PronType=Dem
+ADV	PronType=Int
+VERB	HebBinyan=PAAL	HebSource=ConvUncertainHead	VerbForm=Inf	Voice=Act
+NOUN	Gender=Masc	HebSource=ConvUncertainHead	Number=Plur
+ADJ	Gender=Masc	Number=Plur
+VERB	Gender=Masc	HebBinyan=HIFIL	Number=Sing	Person=1,2,3	VerbForm=Part	Voice=Act
+NUM	_
+ADV	HebSource=ConvUncertainHead	Prefix=Yes
+PROPN	HebSource=ConvUncertainLabel
+ADJ	Gender=Fem	Number=Plur
+VERB	Gender=Fem,Masc	HebBinyan=HUFAL	Number=Plur	Person=3	Tense=Past	Voice=Pass
+VERB	Gender=Fem,Masc	HebBinyan=PIEL	Number=Plur	Person=3	Tense=Past	Voice=Act
+VERB	Definite=Cons	Gender=Fem	HebBinyan=PAAL	Number=Sing	Person=1,2,3	VerbForm=Part	Voice=Act
+VERB	Gender=Fem	HebBinyan=NIFAL	Number=Sing	Person=3	Tense=Past	Voice=Mid
+VERB	Gender=Fem	HebBinyan=NIFAL	Number=Sing	Person=1,2,3	VerbForm=Part	Voice=Mid
+VERB	Gender=Masc	HebBinyan=PIEL	Number=Sing	Person=1,2,3	VerbForm=Part	Voice=Act
+VERB	Gender=Fem	HebBinyan=HIFIL	Number=Sing	Person=3	Tense=Past	Voice=Act
+VERB	Gender=Fem,Masc	HebBinyan=PIEL	Number=Plur	Person=3	Tense=Fut	Voice=Act
+VERB	Gender=Masc	HebBinyan=HITPAEL	Number=Plur	Person=1,2,3	VerbForm=Part
+PRON	Gender=Masc	Number=Plur	Person=3	PronType=Prs
+VERB	Gender=Fem,Masc	HebBinyan=HITPAEL	Number=Plur	Person=3	Tense=Past
+NOUN	Definite=Def	Gender=Fem	Number=Plur
+NOUN	Gender=Fem,Masc	Number=Plur
+PROPN	Abbr=Yes
+NUM	Gender=Fem	Number=Sing
+VERB	Gender=Fem,Masc	Number=Plur	Person=3	Polarity=Pos	Tense=Past	VerbType=Cop
+NOUN	Definite=Cons	Gender=Masc	HebSource=ConvUncertainHead	Number=Sing
+NUM	Gender=Masc	Number=Plur
+PRON	Gender=Fem,Masc	Number=Plur,Sing	PronType=Int
+VERB	Gender=Fem,Masc	HebBinyan=PUAL	Number=Plur	Person=3	Tense=Past	Voice=Pass
+VERB	Gender=Masc	HebBinyan=HUFAL	Number=Sing	Person=3	Tense=Past	Voice=Pass
+VERB	Gender=Masc	HebBinyan=NIFAL	Number=Sing	Person=3	Tense=Fut	Voice=Mid
+VERB	Gender=Masc	Number=Sing	Person=3	Polarity=Pos	Tense=Past	VerbType=Cop
+DET	Definite=Cons
+NUM	Definite=Cons	Gender=Fem	Number=Plur
+NUM	Gender=Masc	HebSource=ConvUncertainHead	Number=Sing
+ADV	HebSource=ConvUncertainHead
+PUNCT	HebSource=ConvUncertainHead
+NOUN	Gender=Masc	HebSource=ConvUncertainHead	Number=Sing
+NOUN	Gender=Fem,Masc	Number=Sing
+VERB	_
+NOUN	Abbr=Yes
+NOUN	Gender=Masc	HebSource=ConvUncertainLabel	Number=Sing
+ADJ	Gender=Masc	HebSource=ConvUncertainHead	Number=Sing
+VERB	Gender=Masc	HebBinyan=HIFIL	Number=Sing	Person=3	Tense=Past	Voice=Act
+VERB	Gender=Fem	HebBinyan=HITPAEL	Number=Sing	Person=3	Tense=Past
+VERB	Gender=Masc	HebBinyan=PUAL	Number=Sing	Person=3	Tense=Past	Voice=Pass
+VERB	HebBinyan=HITPAEL	VerbForm=Inf
+PRON	Case=Gen	Gender=Fem	Number=Sing	Person=3	PronType=Prs
+PRON	Gender=Fem	Number=Sing	Person=3	PronType=Prs
+VERB	Gender=Fem	HebBinyan=PUAL	Number=Sing	Person=3	Tense=Past	Voice=Pass
+VERB	Gender=Fem	HebBinyan=NIFAL	Number=Plur	Person=1,2,3	VerbForm=Part	Voice=Mid
+NOUN	Gender=Fem	Number=Dual
+VERB	Gender=Fem,Masc	HebSource=ConvUncertainHead	Number=Plur	Person=3	Polarity=Pos	Tense=Past	VerbType=Cop
+NOUN	Gender=Fem	HebSource=ConvUncertainHead	Number=Plur
+NOUN	Definite=Cons	Gender=Fem	HebSource=ConvUncertainHead	Number=Plur
+VERB	Gender=Fem,Masc	HebBinyan=PIEL	HebSource=ConvUncertainHead	Number=Plur	Person=3	Tense=Past	Voice=Act
+VERB	Gender=Masc	HebBinyan=HITPAEL	Number=Sing	Person=1,2,3	VerbForm=Part
+NOUN	Gender=Masc	Number=Dual
+ADP	HebSource=ConvUncertainLabel
+VERB	Definite=Cons	Gender=Masc	HebBinyan=PIEL	Number=Plur	Person=1,2,3	VerbForm=Part	Voice=Act
+NUM	Definite=Cons	Gender=Masc	Number=Sing
+VERB	Gender=Fem	HebBinyan=PAAL	Number=Plur	Person=1,2,3	VerbForm=Part	Voice=Act
+PRON	Gender=Fem	Number=Plur	Person=3	PronType=Prs
+VERB	Definite=Cons	Gender=Masc	HebBinyan=PAAL	Number=Sing	Person=1,2,3	VerbForm=Part	Voice=Act
+VERB	Gender=Masc	HebBinyan=PIEL	Mood=Imp	Number=Sing	Person=2	Voice=Act
+VERB	Gender=Masc	HebBinyan=HUFAL	Number=Plur	Person=1,2,3	VerbForm=Part	Voice=Pass
+VERB	Gender=Fem,Masc	HebBinyan=PAAL	Number=Plur	Person=3	Tense=Fut	Voice=Act
+NOUN	Gender=Masc
+VERB	Gender=Fem	HebBinyan=PAAL	Number=Sing	Person=3	Tense=Past	Voice=Act
+NUM	Definite=Cons	Gender=Masc	Number=Plur
+VERB	Gender=Masc	HebSource=ConvUncertainHead	Number=Sing	Person=1,2,3	VerbForm=Part
+VERB	Gender=Masc	HebBinyan=HITPAEL	Number=Sing	Person=3	Tense=Fut
+VERB	Gender=Fem	HebBinyan=PUAL	Number=Sing	Person=1,2,3	VerbForm=Part	Voice=Pass
+VERB	HebExistential=True
+VERB	Gender=Fem	Number=Sing	Person=1,2,3	VerbForm=Part
+ADJ	_
+VERB	Gender=Fem	HebBinyan=PAAL	Number=Sing	Person=1,2,3	VerbForm=Part	Voice=Act
+PRON	Person=3	PronType=Dem
+PRON	Case=Acc	Gender=Fem	Number=Sing	Person=3	PronType=Prs
+PRON	Gender=Fem,Masc	Number=Sing	Person=1	PronType=Prs
+VERB	Gender=Fem	HebBinyan=HITPAEL	Number=Sing	Person=1,2,3	VerbForm=Part
+PRON	Case=Gen	Gender=Fem	Number=Plur	Person=3	PronType=Prs
+VERB	Gender=Fem	HebBinyan=PIEL	Number=Plur	Person=1,2,3	VerbForm=Part	Voice=Act
+PRON	Gender=Masc	Number=Sing	Person=3	PronType=Prs	Reflex=Yes
+VERB	Gender=Fem	Number=Sing	Person=3	Polarity=Neg	VerbForm=Part	VerbType=Cop
+VERB	Gender=Fem	HebBinyan=HUFAL	Number=Sing	Person=1,2,3	VerbForm=Part	Voice=Pass
+AUX	Gender=Fem	Number=Sing	Person=1,2,3	VerbType=Mod
+AUX	Gender=Masc	Number=Sing	Person=1,2,3	VerbType=Mod
+VERB	Gender=Fem	HebBinyan=HITPAEL	Number=Sing	Person=3	Tense=Fut
+VERB	Gender=Fem	HebBinyan=HIFIL	Number=Sing	Person=1,2,3	VerbForm=Part	Voice=Act
+VERB	Gender=Fem	Number=Sing	Person=3	Tense=Past
+AUX	VerbType=Mod
+DET	Definite=Cons	Gender=Masc
+VERB	Gender=Fem	Number=Sing	Person=3	Polarity=Pos	VerbForm=Part	VerbType=Cop
+VERB	Polarity=Pos	VerbForm=Inf	VerbType=Cop
+PRON	Gender=Masc	Number=Plur	Person=3	PronType=Dem
+VERB	HebBinyan=HITPAEL	HebSource=ConvUncertainHead	VerbForm=Inf
+ADV	HebSource=ConvUncertainHead	PronType=Int
+SCONJ	HebSource=ConvUncertainHead
+VERB	Gender=Masc	HebBinyan=PAAL	HebSource=ConvUncertainHead	Number=Sing	Person=1,2,3	VerbForm=Part	Voice=Act
+PRON	Gender=Fem	Number=Sing	Person=3	PronType=Prs	Reflex=Yes
+PRON	Gender=Masc	Number=Sing	Person=3
+VERB	Gender=Masc	HebBinyan=HUFAL	Number=Sing	Person=1,2,3	VerbForm=Part	Voice=Pass
+VERB	Gender=Masc	Number=Sing	Person=3	Polarity=Neg	VerbForm=Part	VerbType=Cop
+VERB	Gender=Masc	HebBinyan=PIEL	HebSource=ConvUncertainHead	Number=Sing	Person=1,2,3	VerbForm=Part	Voice=Act
+VERB	Gender=Fem	HebBinyan=HUFAL	Number=Sing	Person=3	Tense=Fut	Voice=Pass
+ADJ	Gender=Masc	HebSource=ConvUncertainLabel	Number=Sing
+PRON	Gender=Fem,Masc	Number=Plur	Person=1	PronType=Prs
+PRON	HebSource=ConvUncertainHead	Person=3	PronType=Dem
+VERB	Gender=Fem	Number=Sing	Person=3	Tense=Fut
+NOUN	_
+VERB	Gender=Masc	Number=Sing	Person=3	Polarity=Pos	VerbForm=Part	VerbType=Cop
+VERB	Gender=Masc	Number=Plur	Person=3	Polarity=Neg	VerbForm=Part	VerbType=Cop
+VERB	Gender=Masc	HebBinyan=NIFAL	Number=Sing	Person=1,2,3	VerbForm=Part	Voice=Mid
+VERB	Gender=Fem,Masc	HebBinyan=PIEL	Number=Plur	Person=1	Tense=Fut	Voice=Act
+VERB	Gender=Fem,Masc	Number=Plur	Person=1	Tense=Fut
+VERB	Gender=Fem,Masc	HebBinyan=HITPAEL	Number=Plur	Person=1	Tense=Fut
+VERB	HebBinyan=HIFIL	HebSource=ConvUncertainHead	VerbForm=Inf	Voice=Act
+VERB	Gender=Masc	Number=Sing	Person=3	Polarity=Pos	Tense=Fut	VerbType=Cop
+PRON	Gender=Masc	Number=Sing	Person=2	PronType=Prs
+AUX	Gender=Fem	HebSource=ConvUncertainHead	Number=Sing	Person=1,2,3	VerbType=Mod
+AUX	Gender=Fem	Number=Sing	Person=1,2,3	VerbForm=Part	VerbType=Mod
+VERB	Gender=Masc	HebBinyan=PIEL	Number=Sing	Person=3	Tense=Fut	Voice=Act
+VERB	Gender=Masc	HebBinyan=PAAL	Mood=Imp	Number=Sing	Person=2	Voice=Act
+VERB	Gender=Masc	HebBinyan=HIFIL	HebSource=ConvUncertainHead	Number=Sing	Person=2	Tense=Fut	Voice=Act
+VERB	Definite=Cons	Gender=Masc	HebBinyan=HIFIL	Number=Plur	Person=1,2,3	VerbForm=Part	Voice=Act
+NUM	Abbr=Yes
+VERB	Gender=Masc	HebBinyan=PIEL	Number=Plur	Person=1,2,3	VerbForm=Part	Voice=Act
+NUM	Definite=Cons	Gender=Fem	Number=Sing
+ADV	Prefix=Yes
+PRON	Gender=Masc	Number=Plur	Person=3	PronType=Prs	Reflex=Yes
+VERB	Gender=Masc	HebBinyan=HIFIL	Number=Plur	Person=1,2,3	VerbForm=Part	Voice=Act
+VERB	VerbForm=Part
+AUX	Gender=Masc	Number=Plur	Person=1,2,3	VerbType=Mod
+VERB	Gender=Masc	HebBinyan=PUAL	Number=Sing	Person=1,2,3	VerbForm=Part	Voice=Pass
+PRON	Case=Acc	Gender=Masc	Number=Sing	Person=3	PronType=Prs
+VERB	Gender=Fem	HebBinyan=PIEL	Number=Sing	Person=1,2,3	VerbForm=Part	Voice=Act
+VERB	Gender=Fem	HebBinyan=HIFIL	Number=Sing	Person=3	Tense=Fut	Voice=Act
+VERB	Gender=Masc	HebBinyan=HIFIL	Number=Plur	Person=3	VerbForm=Part	Voice=Act
+VERB	Gender=Fem	Number=Plur	Person=3	Polarity=Pos	VerbForm=Part	VerbType=Cop
+NOUN	Gender=Fem	HebSource=ConvUncertainHead	Number=Sing
+PRON	Gender=Masc	Number=Sing	Person=2	PronType=Prs	Reflex=Yes
+PRON	Gender=Fem,Masc	Number=Plur	Person=3	PronType=Dem
+VERB	Gender=Fem	HebBinyan=HUFAL	Number=Plur	Person=1,2,3	VerbForm=Part	Voice=Pass
+VERB	HebBinyan=NIFAL	VerbForm=Inf	Voice=Mid
+X	Abbr=Yes	HebSource=ConvUncertainHead	Xtra=Junk
+VERB	HebBinyan=NIFAL	HebSource=ConvUncertainHead	VerbForm=Inf	Voice=Mid
+NOUN	HebSource=ConvUncertainLabel
+VERB	Gender=Masc	HebBinyan=HIFIL	HebSource=ConvUncertainHead	Number=Sing	Person=1,2,3	VerbForm=Part	Voice=Act
+ADJ	Definite=Cons	Gender=Masc	Number=Sing
+VERB	Gender=Fem	Number=Sing	Person=3	Polarity=Pos	Tense=Past	VerbType=Cop
+AUX	Gender=Masc	Number=Sing	Person=1,2,3	VerbForm=Part	VerbType=Mod
+PRON	Case=Gen	Gender=Fem,Masc	Number=Sing	Person=1	PronType=Prs
+VERB	HebBinyan=PIEL	HebSource=ConvUncertainHead	VerbForm=Inf	Voice=Act
+NUM	Gender=Fem,Masc	Number=Sing
+NUM	Definite=Cons
+PRON	Gender=Fem	Number=Sing	Person=3	PronType=Ind
+ADJ	Gender=Fem	HebSource=ConvUncertainHead	Number=Sing
+VERB	Gender=Fem	HebBinyan=PAAL	Number=Sing	Person=3	Tense=Fut	Voice=Act
+VERB	Gender=Masc	HebBinyan=PAAL	Number=Sing	Person=3	Tense=Fut	Voice=Act
+VERB	Gender=Masc	Number=Sing	Person=3	Tense=Fut
+VERB	Gender=Fem,Masc	Number=Plur	Person=3	Polarity=Pos	Tense=Fut	VerbType=Cop
+VERB	Gender=Fem,Masc	Number=Plur	Person=3	Tense=Fut
+VERB	HebBinyan=PAAL	Voice=Act
+AUX	Gender=Fem	Number=Plur	Person=1,2,3	VerbType=Mod
+VERB	Gender=Masc	HebBinyan=PUAL	Number=Plur	Person=1,2,3	VerbForm=Part	Voice=Pass
+X	Xtra=Junk
+NOUN	Gender=Fem,Masc	HebSource=ConvUncertainLabel	Number=Sing
+PRON	Gender=Masc	Number=Sing	Person=3	PronType=Ind
+AUX	HebSource=ConvUncertainHead	VerbType=Mod
+VERB	Gender=Fem,Masc	HebBinyan=HIFIL	Number=Plur	Person=3	Tense=Fut	Voice=Act
+VERB	Gender=Fem	HebBinyan=PIEL	Number=Sing	Person=3	Tense=Past	Voice=Act
+NOUN	Definite=Cons	Gender=Fem,Masc	Number=Plur
+PROPN	HebSource=ConvUncertainHead
+VERB	Gender=Masc	HebBinyan=HIFIL	Number=Sing	Person=3	Tense=Fut	Voice=Act
+VERB	Gender=Fem,Masc	HebBinyan=NIFAL	Number=Plur	Person=3	Tense=Fut	Voice=Mid
+VERB	Gender=Fem	HebBinyan=PUAL	Number=Sing	Person=3	Tense=Fut	Voice=Pass
+NOUN	Definite=Def	Gender=Fem,Masc	Number=Plur
+VERB	Gender=Fem,Masc	Mood=Imp	Number=Plur	Person=2
+NOUN	Definite=Def	Number=Plur
+VERB	Gender=Masc	Number=Plur	Person=1,2,3	VerbForm=Part
+NOUN	Definite=Def	Gender=Masc	HebSource=ConvUncertainHead	Number=Sing
+VERB	Gender=Masc	Number=Plur	Person=3	Polarity=Pos	VerbForm=Part	VerbType=Cop
+VERB	Gender=Fem	HebBinyan=PUAL	Number=Plur	Person=1,2,3	VerbForm=Part	Voice=Pass
+VERB	Gender=Fem	HebBinyan=HITPAEL	Number=Plur	Person=1,2,3	VerbForm=Part
+VERB	Gender=Fem	Number=Plur	Person=3	Polarity=Neg	VerbForm=Part	VerbType=Cop
+AUX	Gender=Fem	Number=Plur	Person=1,2,3	VerbForm=Part	VerbType=Mod
+VERB	HebSource=ConvUncertainHead	VerbForm=Inf
+VERB	Gender=Fem	HebBinyan=HIFIL	Number=Plur	Person=1,2,3	VerbForm=Part	Voice=Act
+AUX	Gender=Masc	Number=Plur	Person=1,2,3	VerbForm=Part	VerbType=Mod
+VERB	Gender=Fem,Masc	HebBinyan=PAAL	Number=Sing	Person=1	Tense=Past	Voice=Act
+PRON	Gender=Masc	Number=Plur	Person=2	PronType=Prs
+VERB	Gender=Fem	HebBinyan=NIFAL	Number=Sing	Person=3	Tense=Fut	Voice=Mid
+PRON	Case=Acc	Gender=Masc	Number=Plur	Person=3	PronType=Prs
+VERB	Definite=Cons	Gender=Fem	HebBinyan=PAAL	Number=Plur	Person=1,2,3	VerbForm=Part	Voice=Act
+NOUN	Definite=Def	Number=Sing
+VERB	Gender=Fem,Masc	Number=Sing	Person=1	Polarity=Pos	Tense=Past	VerbType=Cop
+PRON	Gender=Masc	HebSource=ConvUncertainHead	Number=Plur	Person=3	PronType=Prs
+VERB	Gender=Masc	HebBinyan=PAAL	HebSource=ConvUncertainHead	Number=Sing	Person=3	Tense=Past	Voice=Act
+ADP	Case=Gen
+ADV	HebSource=ConvUncertainHead	Polarity=Neg
+PRON	Gender=Fem	HebSource=ConvUncertainHead	Number=Plur	Person=3	PronType=Prs
+VERB	Gender=Masc	HebBinyan=NIFAL	HebSource=ConvUncertainHead	Number=Sing	Person=1,2,3	VerbForm=Part	Voice=Mid
+VERB	HebExistential=True	HebSource=ConvUncertainHead
+NOUN	Definite=Cons	Gender=Masc	HebSource=ConvUncertainHead	Number=Plur
+ADP	HebSource=ConvUncertainHead
+PRON	Gender=Fem,Masc	HebSource=ConvUncertainHead	Number=Plur	Person=1	PronType=Prs
+NOUN	Gender=Masc	Number=Dual,Plur
+VERB	Gender=Fem,Masc	Number=Sing	Person=1	Polarity=Neg	VerbForm=Part	VerbType=Cop
+PRON	Gender=Masc	HebSource=ConvUncertainHead	Number=Sing	Person=3	PronType=Prs
+PRON	Case=Gen	Gender=Fem,Masc	Number=Plur	Person=1	PronType=Prs
+VERB	Gender=Fem,Masc	HebBinyan=PIEL	Number=Plur	Person=1	Tense=Past	Voice=Act
+VERB	Gender=Fem,Masc	HebBinyan=PAAL	Number=Plur	Person=1	Tense=Past	Voice=Act
+CCONJ	HebSource=ConvUncertainLabel
+VERB	Gender=Fem,Masc	HebBinyan=HITPAEL	Number=Plur	Person=3	Tense=Fut
+VERB	Gender=Fem,Masc	HebBinyan=PUAL	Number=Plur	Person=3	Tense=Fut	Voice=Pass
+VERB	Gender=Fem	HebSource=ConvUncertainHead	Number=Sing	Person=3	Tense=Past
+VERB	Gender=Fem,Masc	HebSource=ConvUncertainHead	Number=Plur	Person=3	Tense=Fut
+NUM	Gender=Fem,Masc	Number=Dual
+VERB	Gender=Fem,Masc	HebBinyan=HITPAEL	Number=Plur	Person=1	Tense=Past
+VERB	Gender=Fem,Masc	HebBinyan=HIFIL	Number=Plur	Person=1	Tense=Past	Voice=Act
+VERB	Gender=Fem	HebBinyan=HIFIL	HebSource=ConvUncertainHead	Number=Sing	Person=3	Tense=Past	Voice=Act
+VERB	Gender=Masc	HebBinyan=NIFAL	Number=Sing	Person=1	VerbForm=Part	Voice=Mid
+VERB	Gender=Fem,Masc	HebBinyan=NIFAL	Number=Plur	Person=1	Tense=Past	Voice=Mid
+NOUN	Definite=Cons	Gender=Fem	HebSource=ConvUncertainHead	Number=Sing
+PRON	Gender=Masc	Number=Sing	PronType=Int
+VERB	Gender=Fem,Masc	HebSource=ConvUncertainHead	Number=Plur	Person=1	Tense=Fut
+ADJ	Definite=Cons	Gender=Masc	Number=Plur
+ADJ	Gender=Fem	HebSource=ConvUncertainLabel	Number=Sing
+VERB	Gender=Masc	HebBinyan=PIEL	Number=Sing	Person=2	Tense=Past	Voice=Act
+VERB	Gender=Masc	HebBinyan=PAAL	Number=Sing	Person=2	Tense=Past	Voice=Act
+PRON	Case=Gen	Gender=Masc	Number=Sing	Person=2	PronType=Prs
+VERB	Gender=Masc	HebBinyan=HITPAEL	Number=Sing	Person=2	Tense=Past
+VERB	Gender=Fem,Masc	Number=Plur	Person=1	Tense=Past
+PRON	Case=Gen	Gender=Fem	Number=Sing	Person=2	PronType=Prs
+VERB	Gender=Fem,Masc	HebBinyan=HIFIL	Number=Sing	Person=1	Tense=Past	Voice=Act
+VERB	Gender=Fem,Masc	Number=Sing	Person=1	Tense=Past
+AUX	Gender=Fem,Masc	HebSource=ConvUncertainHead	Number=Plur	Person=1	Tense=Fut	VerbType=Mod
+VERB	HebSource=ConvUncertainHead	Polarity=Pos	VerbForm=Inf	VerbType=Cop
+VERB	Gender=Fem,Masc	HebBinyan=HITPAEL	HebSource=ConvUncertainHead	Number=Plur	Person=1	Tense=Fut
+PRON	Gender=Fem,Masc	Number=Plur	Person=1	PronType=Prs	Reflex=Yes
+PRON	Gender=Fem,Masc	Number=Sing	Person=1	PronType=Prs	Reflex=Yes
+VERB	Gender=Fem,Masc	HebBinyan=HITPAEL	Number=Sing	Person=1	Tense=Past
+VERB	Gender=Fem,Masc	HebBinyan=PIEL	Number=Sing	Person=1	Tense=Past	Voice=Act
+VERB	Gender=Masc	HebBinyan=HIFIL	Number=Sing	Person=2	Tense=Past	Voice=Act
+VERB	Definite=Cons	Gender=Fem	HebBinyan=PIEL	Number=Plur	Person=1,2,3	VerbForm=Part	Voice=Act
+ADJ	Gender=Masc	HebSource=ConvUncertainHead	Number=Plur
+VERB	Gender=Fem,Masc	HebBinyan=PAAL	HebSource=ConvUncertainHead	Number=Sing	Person=1	Tense=Past	Voice=Act
+PRON	Gender=Fem	Number=Sing	PronType=Int
+VERB	Gender=Fem,Masc	HebBinyan=HIFIL	HebSource=ConvUncertainHead	Number=Sing	Person=1	Tense=Past	Voice=Act
+INTJ	HebSource=ConvUncertainHead
+VERB	Gender=Fem,Masc	HebBinyan=HIFIL	Number=Sing	Person=1	Tense=Fut	Voice=Act
+PRON	Case=Acc	Gender=Fem	Number=Plur	Person=3	PronType=Prs
+VERB	Gender=Masc	Number=Sing	Person=2	Polarity=Pos	Tense=Past	VerbType=Cop
+VERB	Gender=Fem	HebSource=ConvUncertainHead	Number=Sing	Person=3	Polarity=Pos	VerbForm=Part	VerbType=Cop
+NOUN	HebSource=ConvUncertainHead
+VERB	Gender=Fem	HebBinyan=PAAL	HebSource=ConvUncertainHead	Number=Plur	Person=1,2,3	VerbForm=Part	Voice=Act
+NOUN	Gender=Fem	HebSource=ConvUncertainLabel	Number=Sing
+ADJ	Abbr=Yes	Gender=Masc	Number=Sing
+VERB	Gender=Masc	HebBinyan=PAAL	Number=Sing	Person=2	Tense=Fut	Voice=Act
+PRON	Gender=Masc	Number=Plur	Person=3	PronType=Ind
+VERB	Gender=Fem,Masc	HebBinyan=NIFAL	Number=Sing	Person=1	Tense=Past	Voice=Mid
+VERB	Gender=Fem,Masc	HebBinyan=PAAL	Number=Sing	Person=1	Tense=Fut	Voice=Act
+VERB	Gender=Masc	HebBinyan=HUFAL	HebSource=ConvUncertainHead	Number=Sing	Person=1,2,3	VerbForm=Part	Voice=Pass
+NOUN	Definite=Def	Gender=Masc	HebSource=ConvUncertainHead	Number=Plur
+AUX	Gender=Masc	Number=Sing	Person=2	Tense=Fut	VerbType=Mod
+NOUN	Gender=Masc	HebSource=ConvUncertainLabel	Number=Plur
+VERB	Gender=Masc	HebBinyan=HIFIL	Number=Sing	Person=2	Tense=Fut	Voice=Act
+ADJ	Definite=Cons
+ADJ	Definite=Cons	Gender=Fem	Number=Sing
+VERB	Gender=Masc	HebSource=ConvUncertainHead	Number=Sing	Person=3	Polarity=Pos	Tense=Past	VerbType=Cop
+PRON	Case=Acc	Gender=Fem,Masc	Number=Sing	Person=1	PronType=Prs
+VERB	Gender=Fem	HebSource=ConvUncertainHead	Number=Sing	Person=3	Polarity=Pos	Tense=Fut	VerbType=Cop
+PRON	Gender=Fem	HebSource=ConvUncertainHead	Number=Sing	Person=3	PronType=Prs
+VERB	Gender=Masc	HebBinyan=PAAL	HebSource=ConvUncertainHead	Number=Plur	Person=1,2,3	VerbForm=Part	Voice=Act
+VERB	Gender=Masc	HebSource=ConvUncertainHead	Number=Plur	Person=1,2,3	VerbForm=Part
+VERB	Gender=Fem,Masc	Number=Sing	Person=1	Tense=Fut
+NOUN	Definite=Cons	HebSource=ConvUncertainHead
+NUM	Gender=Fem,Masc	Number=Plur
+VERB	Definite=Cons	Gender=Masc	Number=Sing	Person=1,2,3	VerbForm=Part
+PART	Case=Tem
+VERB	Gender=Masc	HebBinyan=PUAL	Number=Sing	Person=3	Tense=Fut	Voice=Pass
+NUM	HebSource=ConvUncertainLabel
+ADJ	Definite=Cons	Gender=Masc	HebSource=ConvUncertainHead	Number=Sing
+VERB	Gender=Fem,Masc	HebBinyan=HITPAEL	HebSource=ConvUncertainHead	Number=Plur	Person=3	Tense=Past
+AUX	Gender=Masc	HebSource=ConvUncertainHead	Number=Sing	Person=2	Tense=Fut	VerbType=Mod
+VERB	Gender=Fem,Masc	HebBinyan=PAAL	HebSource=ConvUncertainHead	Number=Plur	Person=3	Tense=Past	Voice=Act
+VERB	Definite=Cons	Gender=Masc	HebBinyan=PAAL	Number=Plur	Person=1,2,3	VerbForm=Part	Voice=Act
+NOUN	Gender=Fem	Number=Dual,Plur
+VERB	Gender=Masc	Number=Sing	Person=2	Polarity=Pos	Tense=Fut	VerbType=Cop
+VERB	Gender=Fem,Masc	HebBinyan=HIFIL	HebSource=ConvUncertainHead	Number=Sing	Person=1	Tense=Fut	Voice=Act
+VERB	Gender=Fem,Masc	Number=Plur	Person=1	Polarity=Pos	Tense=Past	VerbType=Cop
+ADJ	Abbr=Yes	Gender=Fem	Number=Sing
+VERB	Definite=Cons	Gender=Masc	HebBinyan=PIEL	Number=Sing	Person=1,2,3	VerbForm=Part	Voice=Act
+VERB	Definite=Cons	Gender=Masc	HebBinyan=HIFIL	Number=Sing	Person=1,2,3	VerbForm=Part	Voice=Act
+ADJ	Abbr=Yes
+VERB	Gender=Fem	HebBinyan=PIEL	Number=Sing	Person=3	Tense=Fut	Voice=Act
+PRON	Case=Gen	Gender=Masc	Number=Plur	Person=2	PronType=Prs
+VERB	Gender=Masc	HebBinyan=PIEL	HebSource=ConvUncertainHead	Number=Sing	Person=3	Tense=Past	Voice=Act
+VERB	Gender=Masc	HebBinyan=NIFAL	HebSource=ConvUncertainHead	Number=Sing	Person=3	Tense=Past	Voice=Mid
+PRON	Gender=Fem	Number=Plur	Person=3	PronType=Ind
+VERB	Gender=Fem,Masc	HebBinyan=NIFAL	HebSource=ConvUncertainHead	Number=Plur	Person=3	Tense=Past	Voice=Mid
+PROPN	Abbr=Yes	HebSource=ConvUncertainHead
+VERB	Definite=Cons	Gender=Fem	HebBinyan=HIFIL	Number=Sing	Person=1,2,3	VerbForm=Part	Voice=Act
+VERB	Gender=Fem	HebSource=ConvUncertainHead	Number=Sing	Person=3	Tense=Fut
+ADJ	Gender=Masc	HebSource=ConvUncertainLabel	Number=Plur
+VERB	VerbType=Cop
+ADJ	Definite=Cons	Gender=Fem	HebSource=ConvUncertainHead	Number=Sing
+VERB	Gender=Masc	HebSource=ConvUncertainHead	Number=Sing	Person=3	Tense=Past
+NOUN	Definite=Cons	Gender=Fem,Masc	Number=Sing
+NOUN	Gender=Masc	Number=Plur,Sing
+PRON	Case=Acc	Gender=Masc	Number=Sing	Person=2	PronType=Prs
+VERB	Gender=Fem	HebSource=ConvUncertainHead	Number=Plur	Person=3	Polarity=Pos	VerbForm=Part	VerbType=Cop
+AUX	Gender=Masc	HebSource=ConvUncertainHead	Number=Sing	Person=1,2,3	VerbType=Mod
+VERB	Gender=Fem,Masc	HebBinyan=HUFAL	Number=Plur	Person=3	Tense=Fut	Voice=Pass
+VERB	Gender=Masc	Mood=Imp	Number=Sing	Person=2
+NUM	Gender=Fem	HebSource=ConvUncertainHead	Number=Sing
+DET	Definite=Cons	HebSource=ConvUncertainHead
+PRON	Gender=Masc	Number=Sing	Person=2
+VERB	Gender=Masc	Number=Plur	Person=2	Tense=Past
+PRON	Gender=Masc	HebSource=ConvUncertainHead	Number=Plur	Person=3	PronType=Dem
+AUX	Gender=Fem	Number=Sing	VerbForm=Part	VerbType=Mod
+VERB	Gender=Fem	HebBinyan=HITPAEL	HebSource=ConvUncertainHead	Number=Sing	Person=3	Tense=Past
+VERB	Gender=Fem,Masc	HebBinyan=NIFAL	HebSource=ConvUncertainHead	Number=Plur	Person=3	Tense=Fut	Voice=Mid
+NOUN	Definite=Def	Gender=Fem	HebSource=ConvUncertainHead	Number=Sing
+VERB	Definite=Cons	Gender=Fem	HebBinyan=HIFIL	Number=Plur	Person=1,2,3	VerbForm=Part	Voice=Act
+VERB	Gender=Fem	HebBinyan=PAAL	HebSource=ConvUncertainHead	Number=Sing	Person=1,2,3	VerbForm=Part	Voice=Act
+VERB	Gender=Masc	HebBinyan=HIFIL	HebSource=ConvUncertainHead	Number=Sing	Person=3	Tense=Fut	Voice=Act
+VERB	Gender=Masc	HebBinyan=PIEL	Number=Sing	Person=2	Tense=Fut	Voice=Act
+AUX	Gender=Fem,Masc	Number=Sing	VerbForm=Part	VerbType=Mod
+VERB	Gender=Masc	HebBinyan=HUFAL	Number=Sing	Person=3	Tense=Fut	Voice=Pass
+ADP	Abbr=Yes
+VERB	Gender=Masc	HebBinyan=HIFIL	Number=Sing	Person=1	Tense=Past	Voice=Act
+VERB	Gender=Fem	HebBinyan=NIFAL	HebSource=ConvUncertainHead	Number=Sing	Person=3	Tense=Past	Voice=Mid
+VERB	Gender=Fem	Number=Plur	Person=1,2,3	VerbForm=Part
+NOUN	Definite=Def	Gender=Fem	HebSource=ConvUncertainLabel	Number=Sing
+AUX	Gender=Masc	Number=Sing	Person=3	Tense=Past	VerbType=Mod
+AUX	Gender=Masc	HebSource=ConvUncertainHead	Number=Sing	Person=3	Tense=Past	VerbType=Mod
+VERB	Gender=Fem	HebSource=ConvUncertainHead	Number=Sing	Person=3	Polarity=Pos	Tense=Past	VerbType=Cop
+VERB	Gender=Masc	HebSource=ConvUncertainHead	Number=Sing	Person=3	Tense=Fut
+VERB	Gender=Masc	Number=Sing
+PRON	Gender=Masc	HebSource=ConvUncertainLabel	Number=Plur	Person=3	PronType=Dem
+VERB	Gender=Fem,Masc	HebBinyan=PAAL	Number=Plur	Person=2	Tense=Fut	Voice=Act
+NOUN	Abbr=Yes	Gender=Fem	Number=Sing
+AUX	Gender=Fem,Masc	Number=Plur	Person=3	Tense=Fut	VerbType=Mod
+NOUN	Abbr=Yes	Gender=Masc	Number=Plur
+VERB	Gender=Fem,Masc	HebBinyan=HIFIL	HebSource=ConvUncertainHead	Number=Plur	Person=3	Tense=Past	Voice=Act
+AUX	Gender=Fem,Masc	Number=Plur	Person=1	Tense=Fut	VerbType=Mod
+NUM	HebSource=ConvUncertainHead
+NOUN	Gender=Fem	HebSource=ConvUncertainLabel	Number=Plur
+VERB	Gender=Fem	HebBinyan=PAAL	Number=Plur	Person=3	Tense=Fut	Voice=Act
+VERB	Gender=Fem	Number=Plur	Person=3	Tense=Fut
+VERB	Gender=Fem	HebBinyan=PIEL	Number=Plur	Person=3	Tense=Fut	Voice=Act
+VERB	Gender=Fem	Number=Plur	Person=3	Polarity=Pos	Tense=Fut	VerbType=Cop
+AUX	Gender=Masc	HebSource=ConvUncertainHead	Number=Plur	Person=1,2,3	VerbType=Mod
+NOUN	Abbr=Yes	Gender=Masc	HebSource=ConvUncertainLabel	Number=Sing
+DET	HebSource=ConvUncertainLabel	PronType=Art
+VERB	Gender=Fem,Masc	HebBinyan=HUFAL	Number=Plur	Person=1	Tense=Fut	Voice=Pass
+CCONJ	Abbr=Yes
+NOUN	Number=Plur
+NUM	Case=Tem
+VERB	Gender=Masc	HebBinyan=HIFIL	Number=Plur	Person=1	VerbForm=Part	Voice=Act
+PRON	Gender=Fem	HebSource=ConvUncertainHead	Number=Sing	Person=3	PronType=Dem
+X	Abbr=Yes	Xtra=Junk
+VERB	Gender=Fem,Masc	Number=Plur	Person=1	Polarity=Pos	Tense=Fut	VerbType=Cop
+VERB	Definite=Cons	Gender=Fem	HebBinyan=HITPAEL	Number=Plur	Person=1,2,3	VerbForm=Part
+VERB	Gender=Masc	HebBinyan=PIEL	Number=Plur	Person=2	Tense=Past	Voice=Act
+VERB	Gender=Fem,Masc	HebBinyan=HIFIL	Number=Plur	Person=1	Tense=Fut	Voice=Act
+VERB	Gender=Fem,Masc	HebBinyan=PUAL	Number=Plur	Person=1	Tense=Past	Voice=Pass
+VERB	Gender=Fem,Masc	Number=Plur	Person=2	Tense=Fut
+VERB	HebSource=ConvUncertainHead
+NOUN	Definite=Cons	Gender=Masc	HebSource=ConvUncertainLabel	Number=Plur
+VERB	Gender=Fem,Masc	HebBinyan=PAAL	HebSource=ConvUncertainHead	Number=Plur	Person=1	Tense=Past	Voice=Act
+VERB	Gender=Fem	Number=Sing	Person=2	Tense=Past
+VERB	Gender=Fem,Masc	HebBinyan=PAAL	HebSource=ConvUncertainHead	Number=Plur	Person=3	Tense=Fut	Voice=Act
+NUM	Gender=Fem	HebSource=ConvUncertainLabel	Number=Sing
+VERB	Gender=Masc	HebBinyan=HITPAEL	HebSource=ConvUncertainHead	Number=Sing	Person=3	Tense=Fut
+VERB	Gender=Masc	Number=Plur	Person=2	Polarity=Neg	VerbForm=Part	VerbType=Cop
+PRON	Gender=Fem	Number=Sing	Person=2	PronType=Prs
+PRON	Gender=Fem	HebSource=ConvUncertainLabel	Number=Sing	Person=3	PronType=Dem
+VERB	Gender=Fem,Masc	HebBinyan=HIFIL	Mood=Imp	Number=Plur	Person=2	Voice=Act
+ADJ	Gender=Fem	HebSource=ConvUncertainHead	Number=Plur
+NOUN	Number=Sing
+VERB	Gender=Fem	HebBinyan=HITPAEL	HebSource=ConvUncertainHead	Number=Sing	Person=1,2,3	VerbForm=Part
+VERB	Gender=Masc	HebBinyan=HITPAEL	HebSource=ConvUncertainHead	Number=Plur	Person=1,2,3	VerbForm=Part
+NOUN	Gender=Masc	HebSource=ConvUncertainHead	Number=Plur,Sing
+VERB	Gender=Masc	HebBinyan=HIFIL	HebSource=ConvUncertainHead	Number=Plur	Person=1	VerbForm=Part	Voice=Act
+NUM	Case=Tem	HebSource=ConvUncertainHead
+NOUN	Definite=Cons	Gender=Fem	HebSource=ConvUncertainLabel	Number=Plur
+VERB	Gender=Fem,Masc	HebBinyan=PUAL	Number=Sing	Person=1	Tense=Past	Voice=Pass
+INTJ	_
+VERB	Gender=Fem,Masc	Number=Plur	Person=1	Polarity=Neg	VerbForm=Part	VerbType=Cop
+VERB	Gender=Fem,Masc	HebBinyan=HUFAL	Number=Sing	Person=1	Tense=Past	Voice=Pass
+VERB	Gender=Fem	HebBinyan=HIFIL	HebSource=ConvUncertainHead	Number=Sing	Person=1,2,3	VerbForm=Part	Voice=Act
+ADJ	Gender=Fem	HebSource=ConvUncertainLabel	Number=Plur
+VERB	Gender=Masc	HebBinyan=PAAL	HebSource=ConvUncertainHead	Number=Sing	Person=3	Tense=Fut	Voice=Act
+VERB	Gender=Masc	HebBinyan=PIEL	HebSource=ConvUncertainHead	Number=Plur	Person=1,2,3	VerbForm=Part	Voice=Act
+VERB	Gender=Masc	HebBinyan=PUAL	HebSource=ConvUncertainHead	Number=Sing	Person=1,2,3	VerbForm=Part	Voice=Pass
+VERB	Gender=Masc	HebBinyan=NIFAL	HebSource=ConvUncertainHead	Number=Sing	Person=3	Tense=Fut	Voice=Mid
+VERB	Gender=Fem	HebBinyan=PIEL	Number=Sing	Person=3	VerbForm=Part	Voice=Act
+NOUN	Abbr=Yes	Gender=Masc	HebSource=ConvUncertainLabel	Number=Plur,Sing
+NOUN	Abbr=Yes	Gender=Masc	Number=Plur,Sing
+VERB	Gender=Masc	HebBinyan=HITPAEL	Number=Plur	Person=3	Tense=Past
+NOUN	Definite=Cons	HebSource=ConvUncertainLabel
+ADJ	Abbr=Yes	Gender=Masc	HebSource=ConvUncertainLabel	Number=Sing
+NOUN	Abbr=Yes	Definite=Cons	Gender=Masc	HebSource=ConvUncertainHead	Number=Sing
+PRON	Gender=Masc	Number=Plur	PronType=Int
+PRON	Gender=Fem	Number=Plur	PronType=Int
+VERB	Definite=Cons	Gender=Masc	HebBinyan=PUAL	Number=Sing	Person=1,2,3	VerbForm=Part	Voice=Pass
+AUX	Gender=Masc	HebSource=ConvUncertainHead	Number=Sing	Tense=Past	VerbType=Mod
+NOUN	Abbr=Yes	Gender=Masc	HebSource=ConvUncertainHead	Number=Sing
+ADJ	HebSource=ConvUncertainHead
+X	HebSource=ConvUncertainHead	Xtra=Junk
+VERB	Gender=Fem	HebBinyan=HIFIL	HebSource=ConvUncertainHead	Number=Sing	Person=3	Tense=Fut	Voice=Act
+VERB	Gender=Masc	HebSource=ConvUncertainHead	Number=Plur	Person=3	Polarity=Neg	VerbForm=Part	VerbType=Cop
+AUX	Gender=Fem	Number=Plur	VerbType=Mod
+VERB	Gender=Fem,Masc	HebBinyan=NIFAL	Number=Plur	Person=1	Tense=Fut	Voice=Mid
+VERB	Gender=Masc	HebBinyan=HIFIL	HebSource=ConvUncertainHead	Number=Plur	Person=1,2,3	VerbForm=Part	Voice=Act
+ADJ	Definite=Cons	Gender=Fem	Number=Plur
+VERB	Gender=Fem	HebBinyan=PAAL	Mood=Imp	Number=Sing	Person=2	Voice=Act
+VERB	Gender=Fem,Masc	HebBinyan=PIEL	Mood=Imp	Number=Plur	Person=2	Voice=Act
+VERB	Gender=Fem	Number=Plur	Person=3	VerbForm=Part
+ADJ	Definite=Cons	Gender=Fem	HebSource=ConvUncertainLabel	Number=Plur
+NOUN	Definite=Def	Gender=Masc	HebSource=ConvUncertainLabel	Number=Sing
+VERB	Gender=Masc	HebBinyan=PIEL	Number=Plur	Person=3	Tense=Fut	Voice=Act
+VERB	Definite=Cons	Gender=Fem	HebBinyan=PIEL	Number=Sing	Person=1,2,3	VerbForm=Part	Voice=Act
+NOUN	Abbr=Yes	Definite=Cons
+VERB	Gender=Masc	HebBinyan=HITPAEL	HebSource=ConvUncertainHead	Number=Sing	Person=1,2,3	VerbForm=Part
+VERB	Gender=Fem	HebBinyan=PIEL	HebSource=ConvUncertainHead	Number=Sing	Person=3	Tense=Past	Voice=Act
+ADV	HebSource=ConvUncertainLabel	PronType=Int
+PRON	Gender=Fem	HebSource=ConvUncertainHead	Number=Sing	Person=3	PronType=Prs	Reflex=Yes
+VERB	Gender=Masc	HebBinyan=HUFAL	HebSource=ConvUncertainHead	Number=Sing	Person=3	Tense=Past	Voice=Pass
+VERB	Gender=Fem,Masc	HebBinyan=HUFAL	HebSource=ConvUncertainHead	Number=Plur	Person=3	Tense=Past	Voice=Pass
+PRON	Gender=Masc	HebSource=ConvUncertainHead	Number=Sing	Person=3
+NOUN	Abbr=Yes	Gender=Masc
+AUX	Gender=Fem,Masc	Number=Plur	VerbForm=Part	VerbType=Mod
+VERB	Gender=Fem,Masc	HebBinyan=HIFIL	HebSource=ConvUncertainHead	Number=Plur	Person=3	Tense=Fut	Voice=Act
+PRON	Gender=Fem,Masc	HebSource=ConvUncertainHead	Number=Plur	Person=3	PronType=Dem
+AUX	Gender=Fem,Masc	HebSource=ConvUncertainHead	Number=Plur	VerbForm=Part	VerbType=Mod
+NOUN	Abbr=Yes	Definite=Cons	Gender=Masc	Number=Plur
+VERB	Gender=Masc	HebBinyan=PUAL	Number=Sing	Person=2	Tense=Fut	Voice=Pass
+VERB	Gender=Masc	HebBinyan=HIFIL	HebSource=ConvUncertainHead	Number=Sing	Person=3	Tense=Past	Voice=Act
+VERB	Definite=Cons	Gender=Masc	HebBinyan=HUFAL	Number=Plur	Person=1,2,3	VerbForm=Part	Voice=Pass
+VERB	Gender=Masc	HebBinyan=PUAL	HebSource=ConvUncertainHead	Number=Sing	Person=3	Tense=Fut	Voice=Pass
+VERB	Gender=Fem	HebBinyan=NIFAL	HebSource=ConvUncertainHead	Number=Plur	Person=1,2,3	VerbForm=Part	Voice=Mid
+VERB	Gender=Fem	HebBinyan=NIFAL	HebSource=ConvUncertainHead	Number=Sing	Person=1,2,3	VerbForm=Part	Voice=Mid
+VERB	Gender=Fem	HebBinyan=PUAL	HebSource=ConvUncertainHead	Number=Sing	Person=1,2,3	VerbForm=Part	Voice=Pass
+NOUN	Abbr=Yes	HebSource=ConvUncertainHead
+NOUN	Gender=Fem	HebSource=ConvUncertainHead	Number=Dual
+VERB	Gender=Fem	HebBinyan=PIEL	HebSource=ConvUncertainHead	Number=Sing	Person=3	Tense=Fut	Voice=Act
+VERB	Gender=Masc	HebBinyan=PAAL	HebSource=ConvUncertainLabel	Number=Plur	Person=1,2,3	VerbForm=Part	Voice=Act
+NUM	Case=Tem	HebSource=ConvUncertainLabel
+VERB	Gender=Fem,Masc	HebBinyan=HITPAEL	Number=Sing	Person=1	Tense=Fut
+PRON	Gender=Masc	Number=Sing	PronType=Ind
+PART	Case=Acc	HebSource=ConvUncertainHead
+VERB	Gender=Fem	HebBinyan=PAAL	HebSource=ConvUncertainHead	Number=Sing	Person=3	Tense=Past	Voice=Act
+ADV	HebSource=ConvUncertainLabel
+ADJ	Abbr=Yes	Gender=Masc	HebSource=ConvUncertainHead	Number=Sing
+AUX	Gender=Fem	Number=Plur	VerbForm=Part	VerbType=Mod
+ADP	Case=Tem
+VERB	Definite=Cons	Gender=Masc	HebBinyan=HUFAL	Number=Sing	Person=1,2,3	VerbForm=Part	Voice=Pass
+NOUN	Gender=Masc	HebSource=ConvUncertainHead	Number=Dual
+VERB	Gender=Fem	HebBinyan=NIFAL	Number=Sing	Person=1	VerbForm=Part	Voice=Mid
+VERB	Gender=Fem	HebBinyan=PIEL	HebSource=ConvUncertainHead	Number=Plur	Person=1,2,3	VerbForm=Part	Voice=Act

@@ -1,0 +1,346 @@
+DET	Case=Nom	Definite=Def	Gender=Fem	Number=Sing	PronType=Art
+X	Foreign=Yes
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Fin	Voice=Pass
+ADP	_
+DET	Case=Acc	Definite=Def	Gender=Fem	Number=Sing	PronType=Art
+NUM	NumType=Card
+NOUN	_
+ADV	_
+PUNCT	_
+NOUN	Case=Acc	Gender=Neut	Number=Plur
+ADP	Case=Acc	Gender=Neut	Number=Plur
+DET	Case=Gen	Definite=Def	Gender=Fem	Number=Sing	PronType=Art
+NOUN	Case=Gen	Gender=Fem	Number=Sing
+DET	Case=Gen	Definite=Def	Gender=Fem	Number=Plur	PronType=Art
+DET	Case=Gen	Definite=Def	Gender=Neut	Number=Sing	PronType=Art
+DET	Case=Acc	Definite=Def	Gender=Neut	Number=Sing	PronType=Art
+DET	Case=Gen	Definite=Def	Gender=Masc	Number=Sing	PronType=Art
+NOUN	Case=Gen	Gender=Masc	Number=Sing
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+DET	Case=Nom	Definite=Def	Gender=Masc	Number=Sing	PronType=Art
+ADP	Case=Acc	Gender=Neut	Number=Sing
+NUM	Case=Acc	Gender=Neut	Number=Sing	NumType=Ord
+NOUN	Case=Acc	Gender=Neut	Number=Sing
+CCONJ	_
+DET	Case=Nom	Definite=Def	Gender=Masc	Number=Plur	PronType=Art
+ADJ	Case=Nom	Gender=Masc	Number=Plur
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+DET	Case=Acc	Definite=Def	Gender=Masc	Number=Sing	PronType=Art
+NUM	Case=Acc	Gender=Neut	Number=Plur	NumType=Card
+DET	Case=Acc	Definite=Def	Gender=Masc	Number=Plur	PronType=Art
+NUM	Case=Nom	Gender=Masc	Number=Plur	NumType=Card
+PART	_
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=3	VerbForm=Fin	Voice=Pass
+ADP	Case=Acc	Gender=Fem	Number=Plur
+PROPN	Case=Acc	Gender=Masc	Number=Plur
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Pass
+NOUN	Case=Acc	Gender=Fem	Number=Sing
+ADJ	Case=Acc	Gender=Masc	Number=Plur
+NOUN	Case=Acc	Gender=Masc	Number=Plur
+NUM	Case=Gen	Gender=Neut	Number=Plur	NumType=Card
+NOUN	Case=Gen	Gender=Neut	Number=Plur
+ADP	Case=Acc	Gender=Masc	Number=Sing
+NOUN	Case=Acc	Gender=Masc	Number=Sing
+PROPN	Case=Acc	Gender=Neut	Number=Sing
+NOUN	Case=Nom	Gender=Masc	Number=Sing
+PROPN	Case=Nom	Gender=Masc	Number=Sing
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+PRON	Case=Gen	Gender=Masc	Number=Sing	Person=3	PronType=Rel
+DET	Case=Acc	Definite=Def	Gender=Fem	Number=Plur	PronType=Art
+NOUN	Case=Acc	Gender=Fem	Number=Plur
+PRON	Case=Gen	Gender=Masc	Number=Sing	Person=3	Poss=Yes	PronType=Prs
+ADP	Case=Acc	Gender=Fem	Number=Sing
+PROPN	Case=Acc	Gender=Fem	Number=Sing
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+DET	Case=Acc	Definite=Def	Gender=Neut	Number=Plur	PronType=Art
+ADJ	Case=Acc	Gender=Neut	Number=Plur
+PROPN	Case=Gen	Gender=Neut	Number=Plur
+ADJ	Case=Acc	Gender=Neut	Number=Sing
+VERB	Aspect=Imp	VerbForm=Conv	Voice=Act
+PRON	Case=Nom	Gender=Fem	Number=Sing	Person=3	PronType=Rel
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Pass
+ADP	Case=Acc	Gender=Masc	Number=Plur
+ADJ	Case=Gen	Gender=Fem	Number=Sing
+PROPN	Case=Gen	Gender=Fem	Number=Sing
+DET	Case=Acc	Definite=Ind	Gender=Neut	Number=Sing	PronType=Art
+DET	Case=Gen	Definite=Def	Gender=Neut	Number=Plur	PronType=Art
+PROPN	Case=Gen	Gender=Neut	Number=Sing
+DET	Case=Nom	Definite=Def	Gender=Neut	Number=Sing	PronType=Art
+PRON	Case=Nom	Gender=Neut	Number=Sing	Person=3	PronType=Rel
+NOUN	Case=Nom	Gender=Neut	Number=Plur
+PROPN	Case=Gen	Gender=Masc	Number=Sing
+NOUN	Case=Nom	Gender=Masc	Number=Plur
+ADJ	Case=Nom	Gender=Fem	Number=Plur
+NOUN	Case=Nom	Gender=Fem	Number=Plur
+NOUN	Case=Nom	Gender=Fem	Number=Sing
+PRON	Case=Acc	Gender=Fem	Number=Plur	Person=3	PronType=Ind
+NOUN	Case=Nom	Gender=Neut	Number=Sing
+ADJ	Case=Nom	Gender=Neut	Number=Plur
+AUX	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Fin	Voice=Pass
+ADJ	Case=Nom	Gender=Fem	Number=Sing
+ADJ	Case=Acc	Gender=Fem	Number=Sing
+ADJ	Case=Nom	Degree=Cmp	Gender=Masc	Number=Sing
+DET	Case=Gen	Definite=Def	Gender=Masc	Number=Plur	PronType=Art
+NOUN	Case=Gen	Gender=Masc	Number=Plur
+NOUN	Case=Gen	Gender=Fem	Number=Plur
+NUM	Case=Nom	Gender=Neut	Number=Plur	NumType=Card
+PRON	Case=Gen	Gender=Masc	Number=Plur	Person=3	Poss=Yes	PronType=Prs
+PRON	Case=Nom	Gender=Neut	Number=Plur	Person=3	PronType=Ind
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=3	Tense=Past	VerbForm=Fin	Voice=Pass
+DET	Case=Nom	Definite=Def	Gender=Fem	Number=Plur	PronType=Art
+SCONJ	_
+PRON	Case=Nom	Gender=Masc	Number=Plur	Person=3	PronType=Rel
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=3	VerbForm=Fin	Voice=Act
+PRON	Case=Nom	Gender=Masc	Number=Sing	Person=3	PronType=Rel
+PROPN	Case=Nom	Gender=Fem	Number=Sing
+ADJ	Case=Gen	Gender=Masc	Number=Sing
+NUM	Case=Acc	Gender=Fem	Number=Sing	NumType=Ord
+PRON	Case=Gen	Gender=Fem	Number=Plur	Person=3	PronType=Prs
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Fin	Voice=Pass
+AUX	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Pass
+DET	Case=Acc	Definite=Ind	Gender=Fem	Number=Sing	PronType=Art
+ADJ	Case=Nom	Gender=Neut	Number=Sing
+VERB	Aspect=Perf	VerbForm=Inf	Voice=Pass
+ADJ	Case=Acc	Gender=Fem	Number=Plur
+DET	Case=Nom	Definite=Def	Gender=Neut	Number=Plur	PronType=Art
+ADJ	Case=Nom	Gender=Masc	Number=Sing
+ADJ	Case=Gen	Gender=Neut	Number=Plur
+VERB	Aspect=Perf	VerbForm=Inf	Voice=Act
+PRON	Case=Acc	Gender=Fem	Number=Plur	Person=3	PronType=Rel
+PROPN	Case=Nom	Gender=Masc	Number=Plur
+VERB	Aspect=Perf	Case=Acc	Gender=Fem	Number=Sing	VerbForm=Part	Voice=Pass
+PROPN	Case=Gen	Gender=Masc	Number=Plur
+PRON	Case=Nom	Gender=Fem	Number=Sing	Person=3	PronType=Ind
+ADJ	Case=Nom	Degree=Cmp	Gender=Neut	Number=Sing
+PRON	Case=Acc	Gender=Fem	Number=Sing	Person=3	PronType=Dem
+ADJ	Case=Acc	Degree=Cmp	Gender=Fem	Number=Sing
+PRON	Case=Nom	Gender=Neut	Number=Plur	Person=3	PronType=Dem
+AUX	Aspect=Imp	Mood=Ind	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Pass
+NUM	Case=Gen	Gender=Fem	Number=Sing	NumType=Ord
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	VerbForm=Fin	Voice=Pass
+NOUN	Case=Gen	Gender=Neut	Number=Sing
+PRON	Case=Gen	Gender=Fem	Number=Sing	Person=3	Poss=Yes	PronType=Prs
+NOUN	Abbr=Yes
+PRON	Case=Acc	Gender=Neut	Number=Plur	Person=3	PronType=Ind
+PRON	Case=Nom	Gender=Fem	Number=Plur	Person=3	PronType=Rel
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	VerbForm=Fin	Voice=Act
+PROPN	Case=Acc	Gender=Masc	Number=Sing
+ADJ	Case=Gen	Gender=Fem	Number=Plur
+ADJ	Case=Acc	Gender=Masc	Number=Sing
+NOUN	Case=Voc	Gender=Fem	Number=Sing
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Acc	Gender=Fem	Number=Sing	Person=3	PronType=Rel
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=1	Tense=Past	VerbForm=Fin	Voice=Act
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=1	VerbForm=Fin	Voice=Act
+DET	Case=Acc	Definite=Ind	Gender=Masc	Number=Sing	PronType=Art
+PRON	Case=Gen	Gender=Neut	Number=Plur	Person=3	Poss=Yes	PronType=Prs
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin	Voice=Pass
+PRON	Case=Nom	Gender=Neut	Number=Plur	Person=3	PronType=Rel
+PRON	Case=Gen	Gender=Masc	Number=Plur	Person=1	Poss=Yes	PronType=Prs
+DET	Case=Nom	Definite=Ind	Gender=Fem	Number=Sing	PronType=Art
+PRON	Case=Acc	Gender=Masc	Number=Plur	Person=1	PronType=Prs
+PRON	Case=Acc	Gender=Neut	Number=Sing	Person=3	PronType=Dem
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=1	Tense=Past	VerbForm=Fin	Voice=Act
+PRON	Case=Gen	Gender=Masc	Number=Sing	Person=1	Poss=Yes	PronType=Prs
+DET	Case=Nom	Definite=Ind	Gender=Neut	Number=Sing	PronType=Art
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Acc	Gender=Masc	Number=Plur	Person=3	PronType=Dem
+PRON	Case=Acc	Gender=Neut	Number=Sing	Person=3	PronType=Ind
+ADV	Degree=Cmp
+PRON	Case=Acc	Gender=Masc	Number=Sing	Person=3	PronType=Dem
+PRON	Case=Acc	Gender=Masc	Number=Sing	Person=1	PronType=Prs
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=1	Tense=Past	VerbForm=Fin	Voice=Act
+PRON	Case=Acc	Gender=Neut	Number=Plur	Person=3	PronType=Dem
+PRON	Case=Acc	Gender=Neut	Number=Plur	Person=3	PronType=Prs
+PRON	Case=Acc	Gender=Fem	Number=Sing	Person=3	PronType=Ind,Rel
+PRON	Case=Nom	Gender=Masc	Number=Plur	Person=3	PronType=Ind,Rel
+PRON	Case=Gen	Gender=Neut	Number=Plur	Person=3	PronType=Dem
+NUM	Case=Nom	Gender=Fem	Number=Sing	NumType=Card
+PRON	Case=Acc	Gender=Fem	Number=Sing	Person=3	PronType=Ind
+PRON	Case=Nom	Gender=Masc	Number=Plur	Person=1	PronType=Prs
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=1	Tense=Past	VerbForm=Fin	Voice=Pass
+PRON	Case=Gen	Gender=Fem	Number=Plur	Person=3	PronType=Rel
+NUM	Case=Acc	Gender=Neut	Number=Sing	NumType=Card
+VERB	Aspect=Perf	Case=Acc	Gender=Neut	Number=Sing	VerbForm=Part	Voice=Pass
+PRON	Case=Gen	Gender=Fem	Number=Sing	Person=3	PronType=Dem
+PRON	Case=Gen	Gender=Neut	Number=Sing	Person=3	Poss=Yes	PronType=Prs
+NUM	Case=Acc	Gender=Masc	Number=Sing	NumType=Ord
+DET	Case=Gen	Definite=Ind	Gender=Masc	Number=Sing	PronType=Art
+NUM	Case=Gen	Gender=Masc	Number=Sing	NumType=Ord
+DET	Case=Gen	Definite=Ind	Gender=Fem	Number=Sing	PronType=Art
+NUM	Case=Nom	Gender=Fem	Number=Plur	NumType=Card
+NOUN	Case=Voc	Gender=Masc	Number=Sing
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=1	VerbForm=Fin	Voice=Act
+PRON	Case=Acc	Gender=Neut	Number=Plur	Person=3	PronType=Ind,Rel
+PRON	Case=Gen	Gender=Neut	Number=Sing	Person=3	PronType=Dem
+PRON	Case=Acc	Gender=Neut	Number=Plur	Person=3	PronType=Rel
+PRON	Case=Gen	Gender=Fem	Number=Plur	Person=3	PronType=Dem
+PRON	Case=Acc	Gender=Neut	Number=Sing	Person=3	PronType=Rel
+PRON	Case=Acc	Gender=Neut	Number=Sing	Person=3	PronType=Prs
+PRON	Case=Acc	Gender=Masc	Number=Plur	Person=3	PronType=Rel
+NOUN	Case=Voc	Gender=Fem	Number=Plur
+NOUN	Case=Voc	Gender=Masc	Number=Plur
+PRON	Case=Gen	Gender=Masc	Number=Plur	Person=2	PronType=Prs
+PRON	Case=Acc	Gender=Neut	Number=Sing	Person=3	PronType=Int
+ADJ	Case=Gen	Gender=Masc	Number=Plur
+ADJ	Case=Gen	Gender=Neut	Number=Sing
+DET	Case=Gen	Definite=Ind	Gender=Neut	Number=Sing	PronType=Art
+PRON	Case=Nom	Gender=Fem	Number=Plur	Person=3	PronType=Ind
+PRON	Case=Nom	Gender=Masc	Number=Plur	Person=3	PronType=Ind
+PRON	Case=Acc	Gender=Masc	Number=Plur	Person=3	PronType=Ind
+PRON	Case=Nom	Gender=Neut	Number=Sing	Person=3	PronType=Dem
+PRON	Case=Gen	Gender=Fem	Number=Plur	Person=3	Poss=Yes	PronType=Prs
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=1	VerbForm=Fin	Voice=Pass
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin	Voice=Pass
+PRON	Case=Nom	Gender=Masc	Number=Plur	Person=3	PronType=Dem
+PRON	Case=Acc	Gender=Masc	Number=Plur	Person=3	PronType=Prs
+PRON	Case=Acc	Gender=Fem	Number=Plur	Person=3	PronType=Dem
+PRON	Case=Nom	Gender=Masc	Number=Plur	Person=2	PronType=Prs
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=2	Tense=Past	VerbForm=Fin	Voice=Act
+PRON	Case=Gen	Gender=Masc	Number=Plur	Person=1	PronType=Prs
+PRON	Case=Acc	Gender=Masc	Number=Sing	Person=3	PronType=Rel
+PRON	Case=Gen	Gender=Masc	Number=Plur	Person=2	Poss=Yes	PronType=Prs
+PRON	Case=Acc	Gender=Masc	Number=Sing	Person=3	PronType=Ind
+ADJ	Case=Acc	Degree=Cmp	Gender=Masc	Number=Sing
+PRON	Case=Nom	Gender=Masc	Number=Sing	Person=3	PronType=Ind,Rel
+ADJ	Case=Acc	Degree=Cmp	Gender=Neut	Number=Plur
+PRON	Case=Nom	Gender=Neut	Number=Sing	Person=3	PronType=Ind
+VERB	Aspect=Perf	Case=Nom	Gender=Masc	Number=Plur	VerbForm=Part	Voice=Pass
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Person=1	Tense=Past	VerbForm=Fin	Voice=Act
+ADJ	Case=Nom	Degree=Cmp	Gender=Fem	Number=Plur
+PRON	Case=Nom	Gender=Fem	Number=Sing	Person=3	PronType=Dem
+NUM	Case=Gen	Gender=Masc	Number=Plur	NumType=Card
+NUM	Case=Acc	Gender=Fem	Number=Plur	NumType=Card
+NUM	Case=Acc	Gender=Masc	Number=Plur	NumType=Card
+ADJ	Case=Acc	Degree=Cmp	Gender=Neut	Number=Sing
+PROPN	Case=Acc	Gender=Fem	Number=Plur
+VERB	Aspect=Perf	Case=Gen	Gender=Masc	Number=Sing	VerbForm=Part	Voice=Pass
+PRON	Case=Gen	Gender=Masc	Number=Sing	Person=3	PronType=Dem
+NUM	Case=Gen	Gender=Fem	Number=Plur	NumType=Card
+PROPN	Case=Nom	Gender=Neut	Number=Sing
+VERB	Aspect=Perf	Case=Acc	Gender=Masc	Number=Sing	VerbForm=Part	Voice=Pass
+ADJ	Case=Nom	Degree=Sup	Gender=Neut	Number=Plur
+ADJ	Case=Nom	Degree=Cmp	Gender=Neut	Number=Plur
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Person=2	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=2	VerbForm=Fin	Voice=Act
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=2	VerbForm=Fin	Voice=Pass
+PRON	Case=Acc	Gender=Fem	Number=Sing	Person=3	PronType=Prs
+PRON	Case=Nom	Gender=Neut	Number=Sing	Person=3	PronType=Int
+VERB	Aspect=Perf	Case=Acc	Gender=Fem	Number=Plur	VerbForm=Part	Voice=Pass
+PRON	Case=Acc	Gender=Neut	Number=Sing	Person=3	PronType=Ind,Rel
+NUM	Case=Nom	Gender=Neut	Number=Plur	NumType=Ord
+NOUN	Case=Dat	Gender=Masc	Number=Sing
+PRON	Case=Nom	Gender=Fem	Number=Plur	Person=3	PronType=Dem
+AUX	Aspect=Imp	Mood=Ind	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin	Voice=Pass
+ADJ	Case=Acc	Degree=Cmp	Gender=Fem	Number=Plur
+ADJ	Case=Gen	Degree=Cmp	Gender=Neut	Number=Plur
+PRON	Case=Gen	Gender=Neut	Number=Plur	Person=3	PronType=Rel
+VERB	Aspect=Perf	Case=Nom	Gender=Fem	Number=Plur	VerbForm=Part	Voice=Pass
+PRON	Case=Nom	Gender=Masc	Number=Sing	Person=3	PronType=Ind
+NOUN	Case=Dat	Gender=Neut	Number=Sing
+PRON	Case=Gen	Gender=Neut	Number=Plur	Person=3	PronType=Ind
+ADJ	Case=Acc	Degree=Sup	Gender=Masc	Number=Plur
+PRON	Case=Gen	Gender=Masc	Number=Sing	Person=3	PronType=Prs
+PRON	Case=Gen	Gender=Neut	Number=Plur	Person=3	PronType=Ind,Rel
+ADJ	Case=Gen	Degree=Cmp	Gender=Masc	Number=Plur
+ADJ	Case=Nom	Degree=Cmp	Gender=Masc	Number=Plur
+PROPN	Case=Nom	Gender=Neut	Number=Plur
+PRON	Case=Gen	Gender=Masc	Number=Plur	Person=3	PronType=Rel
+NOUN	Case=Dat	Gender=Fem	Number=Sing
+PRON	Case=Gen	Gender=Fem	Number=Sing	Person=3	PronType=Prs
+VERB	Aspect=Perf	Case=Acc	Gender=Neut	Number=Plur	VerbForm=Part	Voice=Pass
+NUM	Case=Acc	Gender=Fem	Number=Plur	NumType=Sets
+PRON	Case=Gen	Gender=Masc	Number=Plur	Person=3	PronType=Prs
+NUM	Case=Nom	Gender=Fem	Number=Sing	NumType=Ord
+NUM	Case=Nom	Gender=Fem	Number=Plur	NumType=Sets
+PROPN	Case=Acc	Gender=Neut	Number=Plur
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Person=3	Tense=Past	VerbForm=Fin	Voice=Pass
+VERB	Aspect=Perf	Mood=Imp	Number=Plur	Person=2	VerbForm=Fin	Voice=Act
+PRON	Case=Gen	Gender=Masc	Number=Sing	Person=1	PronType=Prs
+PRON	Case=Acc	Gender=Masc	Number=Plur	Person=2	PronType=Prs
+PRON	Case=Nom	Gender=Masc	Number=Sing	Person=1	PronType=Prs
+ADJ	Case=Voc	Gender=Masc	Number=Sing
+ADJ	Case=Voc	Gender=Masc	Number=Plur
+NUM	Case=Acc	Gender=Masc	Number=Sing	NumType=Card
+PRON	Case=Gen	Gender=Fem	Number=Sing	Person=3	PronType=Rel
+PRON	Case=Gen	Gender=Fem	Number=Plur	Person=3	PronType=Ind
+ADJ	Case=Nom	Degree=Cmp	Gender=Fem	Number=Sing
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=1	VerbForm=Fin	Voice=Pass
+NUM	Case=Nom	Gender=Masc	Number=Sing	NumType=Ord
+VERB	Aspect=Perf	Case=Gen	Gender=Fem	Number=Sing	VerbForm=Part	Voice=Pass
+AUX	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Fin	Voice=Pass
+AUX	Aspect=Perf	Mood=Ind	Number=Plur	Person=3	Tense=Past	VerbForm=Fin	Voice=Pass
+ADJ	Case=Gen	Degree=Sup	Gender=Fem	Number=Sing
+AUX	Aspect=Imp	Mood=Ind	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin	Voice=Pass
+NUM	Case=Nom	Gender=Neut	Number=Sing	NumType=Ord
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=1	Tense=Past	VerbForm=Fin	Voice=Pass
+NUM	Case=Nom	Gender=Neut	Number=Sing	NumType=Card
+PRON	Case=Gen	Gender=Masc	Number=Plur	Person=3	PronType=Dem
+ADJ	Case=Gen	Degree=Cmp	Gender=Fem	Number=Sing
+ADJ	Case=Acc	Degree=Sup	Gender=Fem	Number=Plur
+ADJ	Case=Dat	Gender=Fem	Number=Sing
+NUM	Case=Gen	Gender=Fem	Number=Plur	NumType=Sets
+VERB	Aspect=Perf	Case=Nom	Gender=Fem	Number=Sing	VerbForm=Part	Voice=Pass
+PRON	Case=Gen	Gender=Masc	Number=Plur	Person=3	PronType=Ind,Rel
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=2	Tense=Past	VerbForm=Fin	Voice=Pass
+AUX	Aspect=Imp	Mood=Ind	Number=Plur	Person=2	Tense=Pres	VerbForm=Fin	Voice=Pass
+PRON	Case=Gen	Gender=Masc	Number=Sing	Person=3	PronType=Int
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Person=2	Tense=Past	VerbForm=Fin	Voice=Act
+NUM	Case=Acc	Gender=Neut	Number=Plur	NumType=Ord
+DET	Case=Nom	Definite=Ind	Gender=Masc	Number=Sing	PronType=Art
+PRON	Case=Nom	Gender=Masc	Number=Sing	Person=3	PronType=Dem
+ADJ	Case=Gen	Degree=Sup	Gender=Masc	Number=Plur
+NUM	Case=Acc	Gender=Fem	Number=Plur	NumType=Ord
+NUM	Case=Nom	Gender=Fem	Number=Plur	NumType=Ord
+ADJ	Case=Gen	Degree=Cmp	Gender=Fem	Number=Plur
+ADJ	Case=Nom	Degree=Sup	Gender=Fem	Number=Plur
+AUX	Aspect=Imp	Mood=Ind	Number=Plur	Person=3	Tense=Past	VerbForm=Fin	Voice=Pass
+ADJ	Case=Acc	Degree=Sup	Gender=Neut	Number=Sing
+NUM	Case=Nom	Gender=Masc	Number=Sing	NumType=Card
+PRON	Case=Acc	Gender=Masc	Number=Sing	Person=3	PronType=Ind,Rel
+NUM	Case=Acc	Gender=Fem	Number=Sing	NumType=Card
+ADJ	Case=Nom	Degree=Sup	Gender=Neut	Number=Sing
+PRON	Case=Acc	Gender=Masc	Number=Sing	Person=3	PronType=Int
+PRON	Case=Acc	Gender=Fem	Number=Plur	Person=3	PronType=Prs
+PRON	Case=Gen	Gender=Fem	Number=Sing	Person=3	PronType=Ind
+VERB	Aspect=Perf	Case=Gen	Gender=Fem	Number=Plur	VerbForm=Part	Voice=Pass
+NUM	Case=Nom	Gender=Fem	Number=Sing	NumType=Mult
+PRON	Case=Acc	Gender=Masc	Number=Sing	Person=3	PronType=Prs
+NUM	Case=Acc	Gender=Masc	Number=Sing	NumType=Mult
+ADJ	Case=Nom	Degree=Sup	Gender=Masc	Number=Plur
+ADJ	Case=Acc	Degree=Cmp	Gender=Masc	Number=Plur
+ADJ	Case=Gen	Degree=Cmp	Gender=Neut	Number=Sing
+PRON	Case=Nom	Gender=Fem	Number=Plur	Person=3	PronType=Int
+PRON	Case=Gen	Gender=Masc	Number=Plur	Person=3	PronType=Ind
+ADV	Degree=Sup
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=2	Tense=Past	VerbForm=Fin	Voice=Pass
+ADJ	Case=Nom	Degree=Sup	Gender=Fem	Number=Sing
+PRON	Case=Nom	Gender=Fem	Number=Sing	Person=3	PronType=Ind,Rel
+PRON	Case=Gen	Gender=Neut	Number=Sing	Person=3	PronType=Prs
+PROPN	Case=Gen	Gender=Fem	Number=Plur
+PRON	Case=Gen	Gender=Neut	Number=Sing	Person=3	PronType=Ind
+PRON	Case=Nom	Gender=Masc	Number=Plur	Person=3	PronType=Int
+PRON	Case=Nom	Gender=Neut	Number=Sing	Person=3	PronType=Ind,Rel
+SYM	_
+PRON	Case=Gen	Gender=Neut	Number=Sing	Person=3	PronType=Rel
+NUM	Case=Nom	Gender=Masc	Number=Plur	NumType=Ord
+PROPN	Case=Nom	Gender=Fem	Number=Plur
+VERB	Aspect=Perf	Case=Nom	Gender=Neut	Number=Sing	VerbForm=Part	Voice=Pass
+PRON	Case=Acc	Gender=Masc	Number=Plur	Person=3	PronType=Ind,Rel
+VERB	Aspect=Perf	Case=Gen	Gender=Masc	Number=Plur	VerbForm=Part	Voice=Pass
+VERB	Aspect=Perf	Case=Nom	Gender=Neut	Number=Plur	VerbForm=Part	Voice=Pass
+NUM	Case=Acc	Gender=Neut	Number=Sing	NumType=Mult
+ADJ	Case=Acc	Degree=Sup	Gender=Neut	Number=Plur
+VERB	Aspect=Perf	Case=Acc	Gender=Masc	Number=Plur	VerbForm=Part	Voice=Pass
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Person=2	Tense=Pres	VerbForm=Fin	Voice=Pass
+PRON	Case=Nom	Gender=Masc	Number=Sing	Person=3	PronType=Int
+NUM	Case=Gen	Gender=Neut	Number=Sing	NumType=Ord
+VERB	Aspect=Perf	Case=Nom	Gender=Masc	Number=Sing	VerbForm=Part	Voice=Pass
+DET	Case=Dat	Definite=Def	Gender=Neut	Number=Sing	PronType=Art
+PRON	Case=Gen	Gender=Masc	Number=Sing	Person=3	PronType=Ind
+PRON	Case=Acc	Gender=Neut	Number=Sing	Person=1	PronType=Prs
+NUM	Case=Gen	Gender=Fem	Number=Plur	NumType=Ord
+DET	Case=Dat	Definite=Def	Gender=Fem	Number=Sing	PronType=Art
+ADJ	Case=Gen	Degree=Cmp	Gender=Masc	Number=Sing

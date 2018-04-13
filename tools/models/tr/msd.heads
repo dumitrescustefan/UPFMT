@@ -1,0 +1,972 @@
+ADJ	_
+_	_
+NOUN	Case=Nom	Number=Plur	Person=3
+AUX	Aspect=Perf	Mood=Cnd	Number=Sing	Person=3	Tense=Pres
+PRON	Case=Gen	Number=Plur	Person=3	PronType=Dem
+PRON	Case=Acc	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=3	PronType=Ind
+VERB	Aspect=Imp	Mood=Pot	Number=Plur	Person=3	Polarity=Neg	Tense=Aor
+PUNCT	_
+PRON	Case=Dat	Number=Sing	Person=3	PronType=Prs
+DET	_
+NOUN	Case=Acc	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=1
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=1	Polarity=Pos	Tense=Past
+ADJ	Case=Loc	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=3
+NOUN	Case=Nom	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=3
+NOUN	Case=Dat	Number=Plur	Number[psor]=Sing	Person=3	Person[psor]=3
+ADP	_
+NOUN	Case=Nom	Number=Sing	Person=3
+NOUN	Case=Ins	Number=Plur	Person=3
+PROPN	Case=Nom	Number=Sing	Person=3
+VERB	Aspect=Prog	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Polite=Infm	Tense=Past
+PRON	Case=Abl	Number=Sing	Person=3
+VERB	Aspect=Prog	Mood=Ind	Number=Plur	Person=2	Polarity=Pos	Polite=Infm	Tense=Pres
+VERB	Aspect=Perf	Case=Acc	Mood=Ind	Number[psor]=Sing	Person[psor]=1	Polarity=Pos	Tense=Past	VerbForm=Part
+NOUN	Case=Acc	Number=Plur	Person=3
+PRON	Case=Loc	Number=Sing	Person=1	PronType=Prs
+VERB	Aspect=Perf	Mood=Opt	Number=Plur	Person=1	Polarity=Pos	Tense=Pres
+PRON	Case=Nom	Number=Sing	Person=3
+VERB	Aspect=Perf	Case=Acc	Mood=Ind	Number[psor]=Sing	Person[psor]=1	Polarity=Pos	Tense=Fut	VerbForm=Part
+VERB	Aspect=Perf	Mood=Pot	Number=Sing	Person=1	Polarity=Neg	Tense=Past
+VERB	Aspect=Prog	Mood=Ind	Number=Sing	Person=3	Polarity=Neg	Polite=Infm	Tense=Past
+NOUN	Case=Nom	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=2
+PRON	Case=Loc	Number=Sing	Person=3
+NUM	NumType=Card
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=1	Polarity=Pos	Tense=Past
+ADV	_
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Tense=Pqp
+NOUN	Case=Loc	Number=Sing	Person=3
+NOUN	Case=Loc	Number=Plur	Number[psor]=Plur	Person=3	Person[psor]=1
+NOUN	Case=Abl	Number=Plur	Number[psor]=Plur	Person=3	Person[psor]=3
+VERB	Aspect=Perf	Mood=Ind	Polarity=Pos	Tense=Pres	VerbForm=Part
+ADP	Case=Nom	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=3
+VERB	Aspect=Perf	Case=Acc	Mood=Ind	Number[psor]=Plur	Person[psor]=3	Polarity=Pos	Tense=Fut	VerbForm=Part
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=3	Polarity=Pos	Tense=Past
+VERB	Aspect=Perf	Mood=Imp	Number=Sing	Person=2	Polarity=Pos	Tense=Pres
+PRON	Case=Dat	Number=Sing	Person=2	PronType=Prs
+NOUN	Case=Acc	Number=Sing	Person=3
+VERB	Aspect=Perf	Mood=Opt	Number=Sing	Person=1	Polarity=Pos	Tense=Pres
+PRON	Case=Ins	Number=Plur	Number[psor]=Plur	Person=3	Person[psor]=3	Reflex=Yes
+VERB	Aspect=Perf	Case=Abl	Mood=Ind	Number[psor]=Sing	Person[psor]=1	Polarity=Pos	Tense=Past	VerbForm=Part
+VERB	Aspect=Perf	Mood=Ind	Number[psor]=Sing	Person[psor]=1	Polarity=Pos	Tense=Past	VerbForm=Part
+NOUN	Case=Dat	Number=Sing	Person=3
+VERB	Aspect=Perf	Mood=Ind	Polarity=Pos	Tense=Pres	VerbForm=Part	Voice=Pass
+NOUN	Case=Gen	Number=Sing	Person=3
+VERB	Aspect=Perf	Evident=Nfh	Mood=Ind	Polarity=Pos	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Aspect=Perf	Case=Nom	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Past	VerbForm=Part
+AUX	Aspect=Perf	Mood=Gen	Number=Sing	Person=3	Tense=Pres
+CCONJ	_
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Tense=Past
+VERB	Aspect=Perf	Case=Nom	Mood=Ind	Polarity=Pos	Tense=Pres	VerbForm=Vnoun
+PROPN	Case=Gen	Number=Sing	Person=3
+VERB	Aspect=Perf	Mood=Ind	Polarity=Pos	Tense=Pres	VerbForm=Conv
+PROPN	Case=Dat	Number=Sing	Person=3
+NOUN	Case=Ins	Number=Sing	Person=3
+AUX	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	Tense=Past
+PRON	Case=Nom	Number=Plur	Person=3
+VERB	Aspect=Prog	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Polite=Infm	Tense=Pres	Voice=Cau
+NOUN	Case=Abl	Number=Sing	Person=3
+ADJ	Case=Nom	Number=Plur	Person=3
+NOUN	Case=Acc	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=3
+NOUN	Case=Abl	Number=Plur	Person=3
+ADP	Case=Nom	Number=Plur	Person=3
+PRON	Case=Acc	Number=Sing	Person=1	PronType=Prs
+ADJ	Case=Loc	Number=Plur	Number[psor]=Sing	Person=3	Person[psor]=3
+ADJ	Case=Nom	Number=Sing	Person=3
+NOUN	Case=Abl	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=3
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=1	Polarity=Pos	Tense=Pqp
+VERB	Aspect=Perf	Evident=Nfh	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Tense=Past
+ADJ	Case=Dat	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=3
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Tense=Pqp	Voice=Pass
+VERB	Aspect=Perf	Evident=Nfh	Mood=Ind	Polarity=Pos	Tense=Past	VerbForm=Part
+VERB	Aspect=Prog	Mood=Ind	Number=Plur	Person=3	Polarity=Pos	Polite=Infm	Tense=Pres
+NOUN	Case=Nom	Number=Plur	Number[psor]=Sing	Person=3	Person[psor]=3
+ADJ	Case=Abl	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=3
+NOUN	Case=Dat	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=3
+NOUN	Case=Gen	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=3
+NOUN	Case=Loc	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=3
+VERB	Aspect=Perf	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Past	VerbForm=Part
+ADJ	Case=Gen	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=3
+VERB	Aspect=Perf	Mood=Des	Number=Sing	Person=2	Polarity=Pos	Tense=Pres
+VERB	Aspect=Perf	Case=Abl	Mood=Ind	Polarity=Pos	Tense=Pres	VerbForm=Vnoun
+NOUN	Case=Acc	Number=Plur	Number[psor]=Sing	Person=3	Person[psor]=3
+AUX	Aspect=Perf	Mood=Ind	Number=Sing	Person=1	Tense=Past
+PRON	Case=Nom	Number=Plur	Person=1	PronType=Prs
+PRON	Case=Dat	Number=Plur	Person=2	PronType=Prs
+VERB	Aspect=Imp	Mood=Pot	Number=Sing	Person=3	Polarity=Pos	Tense=Aor
+VERB	Aspect=Imp	Mood=Ind	Polarity=Pos	Tense=Aor	VerbForm=Part
+VERB	Aspect=Perf	Evident=Nfh	Mood=Ind	Polarity=Neg	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Aspect=Perf	Case=Acc	Mood=Ind	Polarity=Pos	Tense=Pres	VerbForm=Vnoun
+ADJ	Case=Dat	Number=Plur	Person=3
+VERB	Aspect=Perf	Case=Nom	Mood=Pot	Polarity=Pos	Tense=Pres	VerbForm=Vnoun	Voice=Cau
+NOUN	Case=Gen	Number=Plur	Person=3
+PROPN	Case=Loc	Number=Sing	Person=3
+NOUN	Case=Abl	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=1
+VERB	Aspect=Perf	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Fut	VerbForm=Part
+PRON	Case=Ins	Number=Plur	Person=1	PronType=Prs
+PRON	Case=Dat	Number=Sing	Person=1	PronType=Prs
+PRON	Case=Nom	Number=Plur	Person=2	PronType=Prs
+PRON	Case=Dat	Number=Plur	Number[psor]=Plur	Person=2	Person[psor]=2	Reflex=Yes
+AUX	Aspect=Perf	Mood=Ind	Number=Plur	Person=2	Tense=Pres
+NOUN	Case=Nom	Number=Plur	Number[psor]=Sing	Person=3	Person[psor]=2
+NUM	Case=Acc	Number=Sing	NumType=Card	Person=3
+VERB	Aspect=Perf	Case=Nom	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Neg	Tense=Pres	VerbForm=Vnoun
+VERB	Aspect=Perf	Mood=Ind	Polarity=Pos	Tense=Fut	VerbForm=Part
+VERB	Aspect=Perf	Case=Nom	Mood=Pot	Number[psor]=Sing	Person[psor]=3	Polarity=Neg	Tense=Pres	VerbForm=Vnoun
+VERB	Aspect=Perf	Case=Acc	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Neg	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Aspect=Prog	Mood=Ind	Number=Sing	Person=1	Polarity=Pos	Polite=Infm	Tense=Past
+PRON	Case=Gen	Number=Plur	Person=1	PronType=Prs
+ADP	Case=Loc	Number=Sing	Person=3
+VERB	Aspect=Perf	Mood=Ind	Polarity=Neg	Tense=Pres	VerbForm=Part	Voice=Pass
+NOUN	Case=Dat	Number=Sing	Number[psor]=Plur	Person=3	Person[psor]=1
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	Polarity=Neg	Tense=Fut
+NOUN	Case=Dat	Number=Plur	Person=3
+VERB	Aspect=Prog	Mood=Ind	Number=Plur	Person=1	Polarity=Neg	Polite=Infm	Tense=Pres
+NOUN	Case=Loc	Number=Plur	Number[psor]=Sing	Person=3	Person[psor]=3
+ADJ	Case=Dat	Number=Plur	Number[psor]=Sing	Person=3	Person[psor]=3
+ADJ	Case=Abl	Number=Plur	Person=3
+VERB	Aspect=Perf	Case=Nom	Mood=Ind	Polarity=Pos	Tense=Pres	VerbForm=Vnoun	Voice=Cau
+VERB	Aspect=Perf	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Past	VerbForm=Part	Voice=Cau
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Tense=Past	Voice=Pass
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Tense=Aor
+ADJ	Case=Ins	Number=Plur	Person=3
+VERB	Aspect=Imp	Mood=Pot	Number=Sing	Person=3	Polarity=Neg	Tense=Aor
+VERB	Aspect=Prog	Mood=Ind	Number=Sing	Person=1	Polarity=Pos	Polite=Infm	Tense=Pres
+VERB	Aspect=Perf	Case=Dat	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Pres	VerbForm=Vnoun
+ADJ	Case=Dat	Number=Sing	Person=3
+VERB	Aspect=Prog	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Polite=Infm	Tense=Pres
+VERB	Aspect=Prog	Mood=Ind	Number=Sing	Person=1	Polarity=Neg	Polite=Infm	Tense=Pres
+NOUN	Case=Dat	Number=Plur	Number[psor]=Plur	Person=3	Person[psor]=3
+VERB	Aspect=Perf	Evident=Nfh	Mood=Gen	Number=Sing	Person=3	Polarity=Pos	Tense=Past	Voice=Pass
+NUM	Case=Nom	Number=Sing	NumType=Card	Person=3
+INTJ	_
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=3	Polarity=Pos	Tense=Past	Voice=Cau
+VERB	Aspect=Perf	Case=Gen	Mood=Ind	Polarity=Pos	Tense=Pres	VerbForm=Vnoun
+AUX	Aspect=Perf	Mood=Ind	Number=Plur	Person=1	Tense=Past
+NOUN	Case=Gen	Number=Plur	Number[psor]=Sing	Person=3	Person[psor]=1
+VERB	Aspect=Perf	Case=Acc	Mood=Ind	Number[psor]=Sing	Person[psor]=2	Polarity=Pos	Tense=Past	VerbForm=Part
+VERB	Aspect=Perf	Case=Dat	Mood=Ind	Polarity=Pos	Tense=Pres	VerbForm=Vnoun
+VERB	Aspect=Imp	Mood=Cnd	Number=Plur	Person=2	Polarity=Pos	Tense=Aor
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Person=2	Polarity=Pos	Tense=Aor
+PRON	Case=Ins	Number=Sing	Person=3	PronType=Prs
+VERB	Aspect=Perf	Case=Nom	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Pres	VerbForm=Vnoun	Voice=CauPass
+VERB	Aspect=Perf	Case=Gen	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Pres	VerbForm=Vnoun	Voice=CauPass
+NOUN	Case=Ins	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=3
+VERB	Aspect=Perf	Mood=Pot	Polarity=Neg	Tense=Pres	VerbForm=Part
+VERB	Aspect=Perf	Evident=Nfh	Mood=Gen	Number=Sing	Person=3	Polarity=Pos	Tense=Past
+VERB	Aspect=Perf	Case=Nom	Mood=Ind	Polarity=Pos	Tense=Pres	VerbForm=Vnoun	Voice=Pass
+VERB	Aspect=Perf	Mood=Ind	Polarity=Neg	Tense=Pres	VerbForm=Part
+ADJ	Case=Gen	Number=Plur	Person=3
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=3	Polarity=Pos	Tense=Fut
+VERB	Aspect=Perf	Case=Abl	Mood=Ind	Polarity=Pos	Tense=Past	VerbForm=Part
+VERB	Aspect=Perf	Mood=Ind	Polarity=Pos	Tense=Pres	VerbForm=Conv	Voice=Pass
+VERB	Aspect=Perf	Case=Nom	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Pres	VerbForm=Vnoun
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Tense=FutPast
+PRON	Case=Nom	Number=Sing	Person=3	PronType=Prs
+VERB	Aspect=Perf	Mood=Cnd	Number=Sing	Person=3	Polarity=Pos	Tense=Past
+ADJ	Case=Nom	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=3
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Person=3	Polarity=Pos	Tense=Aor
+VERB	Aspect=Perf	Mood=Ind	Number[psor]=Plur	Person[psor]=1	Polarity=Pos	Tense=Fut	VerbForm=Part
+NOUN	Case=Dat	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=1
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Tense=Aor	VerbForm=Conv
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=1	Polarity=Neg	Tense=Aor
+PRON	Case=Nom	Number=Sing	Person=3	PronType=Dem
+PRON	Case=Nom	Number=Sing	Person=1	PronType=Prs
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=1	Polarity=Pos	Tense=Aor
+VERB	Aspect=Perf	Mood=Pot	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Past	VerbForm=Part
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=3	Polarity=Pos	Tense=FutPast
+ADJ	Case=Acc	Number=Sing	Person=3
+NUM	Case=Dat	Number=Plur	NumType=Card	Person=3
+VERB	Aspect=Perf	Mood=Pot	Number=Sing	Person=1	Polarity=Pos	Tense=Past
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=2	Polarity=Pos	Tense=Past
+VERB	Aspect=Perf	Case=Acc	Mood=Ind	Number[psor]=Plur	Person[psor]=3	Polarity=Pos	Tense=Past	VerbForm=Part
+NOUN	Case=Loc	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=1
+VERB	Aspect=Perf	Case=Acc	Mood=Ind	Number[psor]=Plur	Person[psor]=1	Polarity=Pos	Tense=Past	VerbForm=Part
+ADJ	Case=Loc	Number=Sing	Person=3
+AUX	Aspect=Perf	Mood=Ind	Tense=Pres	VerbForm=Conv
+PRON	Case=Nom	Number=Sing	Person=2	PronType=Prs
+PRON	Case=Nom	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=3	Reflex=Yes
+PRON	Case=Dat	Number=Sing	Number[psor]=Sing	Person=2	Person[psor]=2	Reflex=Yes
+VERB	Aspect=Prog	Mood=Ind	Number=Sing	Person=2	Polarity=Pos	Polite=Infm	Tense=Pres
+NUM	Case=Acc	Number=Sing	Number[psor]=Sing	NumType=Card	Person=3	Person[psor]=3
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=2	Polarity=Pos	Tense=Fut
+ADJ	Case=Gen	Number=Sing	Person=3
+AUX	Aspect=Perf	Evident=Nfh	Mood=Ind	Number=Sing	Person=3	Tense=Past
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Tense=Past	Voice=Cau
+VERB	Aspect=Prog	Mood=Ind	Number=Plur	Person=3	Polarity=Pos	Polite=Infm	Tense=Past
+NOUN	Case=Acc	Number=Plur	Number[psor]=Plur	Person=3	Person[psor]=3
+VERB	Aspect=Perf	Mood=Ind	Polarity=Pos	Tense=Fut	VerbForm=Part	Voice=Pass
+VERB	Aspect=Perf	Case=Loc	Mood=Ind	Polarity=Pos	Tense=Pres	VerbForm=Vnoun
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=1	Polarity=Pos	Tense=FutPast
+NOUN	Abbr=Yes	Case=Nom	Number=Sing	Person=3
+PROPN	Case=Acc	Number=Sing	Person=3
+PROPN	Case=Abl	Number=Sing	Person=3
+ADJ	Case=Acc	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=3
+VERB	Aspect=Perf	Mood=Pot	Number=Plur	Person=1	Polarity=Pos	Tense=FutPast
+VERB	Aspect=Perf	Mood=Imp	Number=Plur	Person=2	Polarity=Neg	Tense=Pres
+PRON	Case=Dat	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=3	Reflex=Yes
+PRON	Case=Dat	Number=Plur	Number[psor]=Plur	Person=3	Person[psor]=3	PronType=Ind
+PRON	Case=Acc	Number=Sing	Person=3	PronType=Prs
+VERB	Aspect=Perf	Case=Acc	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Past	VerbForm=Part
+VERB	Aspect=Perf	Mood=Ind	Polarity=Neg	Tense=Pres	VerbForm=Conv
+VERB	Aspect=Prog	Mood=Ind	Number=Sing	Person=3	Polarity=Neg	Polite=Infm	Tense=Past	Voice=Pass
+X	Echo=Rdp
+VERB	Aspect=Prog	Mood=Ind	Number=Plur	Person=1	Polarity=Pos	Polite=Infm	Tense=Past
+NOUN	Case=Nom	Number=Plur	Number[psor]=Plur	Person=3	Person[psor]=3
+VERB	Aspect=Perf	Mood=Pot	Polarity=Pos	Tense=Fut	VerbForm=Part	Voice=Pass
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Polarity=Neg	Tense=Aor	Voice=Cau
+PRON	Case=Acc	Number=Plur	Person=3	PronType=Prs
+VERB	Aspect=Perf	Mood=Imp	Number=Sing	Person=2	Polarity=Neg	Tense=Pres
+NOUN	Case=Nom	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=1
+VERB	Aspect=Prog	Mood=Ind	Number=Sing	Person=3	Polarity=Neg	Polite=Infm	Tense=Pres
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=1	Polarity=Neg	Tense=Past
+ADP	Case=Nom	Number=Sing	Person=3
+PRON	Case=Equ	Number=Sing	Person=1	PronType=Prs
+AUX	Aspect=Perf	Mood=Ind	Number=Plur	Person=3	Tense=Pres
+NOUN	Case=Equ	Number=Plur	Person=3
+VERB	Aspect=Perf	Case=Nom	Mood=Ind	Polarity=Neg	Tense=Pres	VerbForm=Vnoun	Voice=Pass
+ADJ	Case=Abl	Number=Sing	Person=3
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Tense=Pqp	Voice=CauPass
+NOUN	Case=Gen	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=1
+VERB	Aspect=Perf	Mood=Des	Number=Sing	Person=3	Polarity=Pos	Tense=Pres
+PROPN	Case=Ins	Number=Sing	Person=3
+ADJ	Case=Acc	Number=Plur	Person=3
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Tense=Aor	VerbForm=Conv	Voice=Cau
+VERB	Aspect=Perf	Evident=Nfh	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Tense=Past	Voice=CauPass
+NOUN	Case=Ins	Number=Plur	Number[psor]=Plur	Person=3	Person[psor]=3
+NOUN	Case=Nom	Number=Sing	Number[psor]=Plur	Person=3	Person[psor]=2
+NOUN	Case=Acc	Number=Sing	Number[psor]=Plur	Person=3	Person[psor]=1
+PRON	Case=Acc	Number=Plur	Number[psor]=Plur	Person=3	Person[psor]=3	PronType=Ind
+VERB	Aspect=Perf	Mood=Ind	Polarity=Pos	Tense=Pres	VerbForm=Conv	Voice=Cau
+VERB	Aspect=Perf	Mood=Ind	Number[psor]=Plur	Person[psor]=1	Polarity=Pos	Tense=Past	VerbForm=Part
+VERB	Aspect=Prog	Evident=Nfh	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Polite=Infm	Tense=Past	Voice=Cau
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Tense=Aor	Voice=Pass
+NOUN	Case=Nom	Number=Plur	Number[psor]=Plur	Person=3	Person[psor]=1
+VERB	Aspect=Imp	Mood=Pot	Number=Plur	Person=1	Polarity=Pos	Tense=Aor
+PRON	Case=Gen	Number=Sing	Person=3	PronType=Prs
+VERB	Aspect=Perf	Case=Dat	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Past	VerbForm=Part
+PRON	Case=Dat	Number=Plur	Person=1	PronType=Prs
+VERB	Aspect=Perf	Evident=Nfh	Mood=Ind	Number=Plur	Person=1	Polarity=Pos	Tense=Past	Voice=Cau
+VERB	Aspect=Perf	Mood=Ind	Polarity=Pos	Tense=Pres	VerbForm=Part	Voice=Cau
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Tense=Aor	Voice=Cau
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=1	Polarity=Pos	Tense=Pqp
+VERB	Aspect=Perf	Case=Dat	Mood=Ind	Number[psor]=Sing	Person[psor]=1	Polarity=Neg	Tense=Fut	VerbForm=Part
+VERB	Aspect=Perf	Mood=Des	Number=Plur	Person=1	Polarity=Pos	Tense=Pres
+VERB	Aspect=Perf	Evident=Nfh	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Tense=Past	Voice=Pass
+ADJ	Case=Nom	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=1
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	Polarity=Neg	Tense=Past
+VERB	Aspect=Prog	Mood=Ind	Number=Sing	Person=2	Polarity=Pos	Polite=Infm	Tense=Past
+NOUN	Case=Gen	Number=Plur	Number[psor]=Plur	Person=3	Person[psor]=3
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	Polarity=Neg	Tense=Past	Voice=Cau
+VERB	Aspect=Prog	Mood=Ind	Number=Plur	Person=1	Polarity=Pos	Polite=Infm	Tense=Pres
+VERB	Aspect=Perf	Mood=Imp	Number=Plur	Person=2	Polarity=Pos	Tense=Pres
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Tense=Fut
+NOUN	Case=Ins	Number=Plur	Number[psor]=Sing	Person=3	Person[psor]=3
+PRON	Case=Acc	Number=Plur	Person=3	PronType=Dem
+VERB	Aspect=Perf	Case=Acc	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Pres	VerbForm=Vnoun
+VERB	Aspect=Perf	Mood=Pot	Number=Sing	Person=1	Polarity=Neg	Tense=Past	Voice=Cau
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	Polarity=Neg	Tense=Pres
+VERB	Aspect=Perf	Evident=Nfh	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Tense=Past	Voice=Cau
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Tense=AorPast
+VERB	Aspect=Perf	Evident=Nfh	Mood=Gen	Number=Sing	Person=3	Polarity=Pos	Tense=Past	Voice=CauPass
+VERB	Aspect=Imp	Mood=Pot	Number=Sing	Person=1	Polarity=Pos	Tense=AorPast
+VERB	Aspect=Perf	Mood=Cnd	Number=Sing	Person=3	Polarity=Neg	Tense=Pres
+VERB	Aspect=Perf	Mood=Gen	Number=Sing	Person=3	Polarity=Pos	Tense=Fut
+PRON	Case=Gen	Number=Plur	Person=2	PronType=Prs
+VERB	Aspect=Imp	Mood=Pot	Number=Plur	Person=2	Polarity=Neg	Tense=Aor
+VERB	Aspect=Imp	Mood=Cnd	Number=Sing	Person=2	Polarity=Pos	Tense=Aor
+PRON	Case=Gen	Number=Sing	Person=3	PronType=Dem
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=2	Polarity=Pos	Tense=Aor
+VERB	Aspect=Perf	Evident=Nfh	Mood=Ind	Number=Sing	Person=3	Polarity=Neg	Tense=Past
+VERB	Aspect=Perf	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Aspect=Perf	Case=Loc	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Aspect=Perf	Mood=Ind	Polarity=Pos	Tense=Pres	VerbForm=Part	Voice=CauPass
+VERB	Aspect=Perf	Evident=Nfh	Mood=Ind	Number=Sing	Person=3	Polarity=Neg	Tense=Past	Voice=Pass
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=2	Polarity=Pos	Tense=Past
+AUX	Aspect=Perf	Mood=Ind	Number=Sing	Person=1	Tense=Pres
+PRON	Case=Gen	Number=Sing	Person=1	PronType=Prs
+PRON	Case=Abl	Number=Sing	Person=1	PronType=Prs
+VERB	Aspect=Perf	Mood=Des	Number=Sing	Person=3	Polarity=Pos	Tense=Past
+ADJ	Case=Acc	Number=Plur	Number[psor]=Sing	Person=3	Person[psor]=3
+PRON	Case=Nom	Number=Plur	Person=3	PronType=Prs
+NOUN	Case=Nom	Number=Sing	Number[psor]=Plur	Person=3	Person[psor]=3
+PRON	Case=Acc	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=3	Reflex=Yes
+VERB	Aspect=Perf	Evident=Nfh	Mood=Gen	Number=Sing	Person=3	Polarity=Pos	Tense=Past	Voice=Cau
+VERB	Aspect=Imp	Mood=Pot	Polarity=Neg	Tense=Aor	VerbForm=Part
+NOUN	Case=Dat	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=2
+PRON	Case=Gen	Number=Sing	Person=2	PronType=Prs
+VERB	Aspect=Perf	Case=Acc	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Neg	Tense=Past	VerbForm=Part
+PRON	Case=Dat	Number=Sing	Person=3	PronType=Dem
+VERB	Aspect=Imp	Evident=Nfh	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Tense=AorPast
+VERB	Aspect=Imp	Evident=Nfh	Mood=Ind	Number=Sing	Person=3	Polarity=Neg	Tense=AorPast
+VERB	Aspect=Perf	Case=Acc	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Fut	VerbForm=Part
+NOUN	Case=Gen	Number=Sing	Number[psor]=Plur	Person=3	Person[psor]=3
+VERB	Aspect=Perf	Case=Acc	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Fut	VerbForm=Part	Voice=Pass
+VERB	Aspect=Imp	Mood=Pot	Number=Plur	Person=3	Polarity=Pos	Tense=Aor	Voice=Cau
+VERB	Aspect=Perf	Case=Nom	Mood=Ind	Number[psor]=Plur	Person[psor]=3	Polarity=Pos	Tense=Pres	VerbForm=Vnoun
+VERB	Aspect=Imp	Mood=Pot	Number=Plur	Person=3	Polarity=Neg	Tense=AorPast	Voice=Cau
+VERB	Aspect=Perf	Mood=Pot	Number=Sing	Person=3	Polarity=Neg	Tense=Past
+AUX	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	Tense=Pres
+ADJ	Case=Loc	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=2
+ADJ	Case=Acc	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=1
+NOUN	Case=Loc	Number=Plur	Person=3
+NOUN	Case=Equ	Number=Sing	Person=3
+PRON	Case=Abl	Number=Plur	Person=3	PronType=Dem
+NUM	NumType=Ord
+VERB	Aspect=Perf	Mood=Opt	Number=Sing	Person=3	Polarity=Pos	Tense=Pres
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=2	Polarity=Pos	Tense=Fut
+VERB	Aspect=Perf	Mood=Ind	Polarity=Pos	Tense=Pres
+PRON	Case=Nom	Number=Plur	Person=3	PronType=Dem
+ADJ	Case=Loc	Number=Plur	Number[psor]=Plur	Person=3	Person[psor]=3
+PRON	Case=Nom	Number=Plur	Number[psor]=Plur	Person=3	Person[psor]=3	PronType=Ind
+NOUN	Case=Gen	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=2
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Person=1	Polarity=Pos	Tense=Aor
+ADP	Case=Acc	Number=Plur	Person=3
+VERB	Aspect=Perf	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Neg	Tense=Past	VerbForm=Part
+NOUN	Case=Loc	Number=Plur	Number[psor]=Plur	Person=3	Person[psor]=2
+VERB	Aspect=Perf	Case=Loc	Mood=Ind	Number[psor]=Plur	Person[psor]=2	Polarity=Pos	Tense=Past	VerbForm=Part	Voice=Cau
+VERB	Aspect=Perf	Mood=Imp	Number=Sing	Person=2	Polarity=Neg	Tense=Pres	Voice=Cau
+PRON	Case=Dat	Number=Plur	Number[psor]=Plur	Person=1	Person[psor]=1	PronType=Ind
+AUX	Aspect=Perf	Mood=Ind	Number=Sing	Person=2	Tense=Pres
+VERB	Aspect=Perf	Case=Dat	Mood=Pot	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Fut	VerbForm=Part
+NUM	Case=Dat	Number=Sing	NumType=Card	Person=3
+VERB	Aspect=Perf	Case=Nom	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Fut	VerbForm=Part
+NOUN	Case=Acc	Number=Plur	Number[psor]=Sing	Person=3	Person[psor]=2
+NUM	Case=Nom	Number=Sing	Number[psor]=Sing	NumType=Ord	Person=3	Person[psor]=3
+ADJ	Case=Acc	Number=Sing	Number[psor]=Plur	Person=3	Person[psor]=3
+ADJ	Case=Gen	Number=Plur	Number[psor]=Sing	Person=3	Person[psor]=3
+VERB	Aspect=Imp	Mood=Pot	Number=Sing	Person=1	Polarity=Neg	Tense=Aor
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Tense=Fut	Voice=Pass
+VERB	Aspect=Perf	Mood=Imp	Number=Sing	Person=3	Polarity=Pos	Tense=Pres
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Polarity=Neg	Tense=Aor
+VERB	Aspect=Perf	Case=Nom	Mood=Ind	Number[psor]=Plur	Person[psor]=2	Polarity=Pos	Tense=Past	VerbForm=Part
+PRON	Case=Acc	Number=Plur	Person=2	PronType=Prs
+VERB	Aspect=Prog	Mood=Cnd	Number=Sing	Person=3	Polarity=Pos	Polite=Infm	Tense=Pres
+VERB	Aspect=Perf	Mood=Des	Number=Plur	Person=3	Polarity=Neg	Tense=Pres
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=1	Polarity=Neg	Tense=Pres
+PRON	Case=Acc	Number=Sing	Person=2	PronType=Prs
+VERB	Aspect=Perf	Mood=Imp	Number=Sing	Person=2	Polarity=Pos	Tense=Pres	Voice=Cau
+ADJ	Case=Loc	Number=Sing	Number[psor]=Plur	Person=3	Person[psor]=1
+VERB	Aspect=Perf	Case=Loc	Mood=Ind	Number[psor]=Plur	Person[psor]=1	Polarity=Pos	Tense=Past	VerbForm=Part
+NOUN	Case=Gen	Number=Plur	Number[psor]=Sing	Person=3	Person[psor]=3
+VERB	Aspect=Perf	Case=Acc	Mood=Pot	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Fut	VerbForm=Part	Voice=Pass
+VERB	Aspect=Perf	Mood=Des	Number=Sing	Person=1	Polarity=Pos	Tense=Pres
+VERB	Aspect=Perf	Mood=Ind	Number[psor]=Plur	Person[psor]=3	Polarity=Pos	Tense=Past	VerbForm=Part
+VERB	Aspect=Perf	Mood=Pot	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Past	VerbForm=Part	Voice=Cau
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Polarity=Neg	Tense=AorPast
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=1	Polarity=Neg	Tense=Pqp	Voice=Cau
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=2	Polarity=Neg	Tense=Past
+PRON	Case=Dat	Number=Plur	Person=3	PronType=Dem
+PROPN	Case=Dat	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=3
+NOUN	Abbr=Yes	Case=Gen	Number=Sing	Person=3
+NOUN	Case=Dat	Number=Plur	Number[psor]=Plur	Person=3	Person[psor]=1
+VERB	Aspect=Perf	Case=Dat	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Pres	VerbForm=Vnoun	Voice=Pass
+VERB	Aspect=Perf	Case=Nom	Mood=Pot	Polarity=Pos	Tense=Pres	VerbForm=Vnoun
+PRON	Case=Loc	Number=Plur	Person=3	PronType=Prs
+VERB	Aspect=Prog	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Polite=Form	Tense=Pres
+VERB	Aspect=Perf	Mood=Pot	Number[psor]=Sing	Person[psor]=1	Polarity=Neg	Tense=Past	VerbForm=Part
+PRON	Case=Dat	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=3	PronType=Ind
+PRON	Case=Acc	Number=Plur	Person=1	PronType=Prs
+VERB	Aspect=Perf	Mood=Imp	Number=Plur	Person=3	Polarity=Pos	Tense=Pres
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=1	Polarity=Neg	Tense=Pres
+VERB	Aspect=Prog	Mood=Ind	Number=Sing	Person=1	Polarity=Neg	Polite=Infm	Tense=Past
+PRON	Case=Abl	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=3	PronType=Ind
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=1	Polarity=Pos	Tense=AorPast
+NOUN	Case=Ins	Number=Plur	Number[psor]=Sing	Person=3	Person[psor]=1
+NOUN	Case=Ins	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=1
+PRON	Case=Gen	Number=Plur	Person=3	PronType=Prs
+VERB	Aspect=Perf	Mood=Nec	Number=Sing	Person=1	Polarity=Pos	Tense=Pres
+VERB	Aspect=Prog	Mood=Pot	Number=Sing	Person=1	Polarity=Pos	Polite=Infm	Tense=Pres
+VERB	Aspect=Perf	Case=Acc	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Past	VerbForm=Part	Voice=CauPass
+PRON	Case=Loc	Number=Plur	Number[psor]=Plur	Person=3	Person[psor]=3	Reflex=Yes
+VERB	Aspect=Perf	Mood=Des	Number=Plur	Person=2	Polarity=Pos	Tense=Pres
+VERB	Aspect=Perf	Case=Nom	Mood=Ind	Number[psor]=Sing	Person[psor]=1	Polarity=Pos	Tense=Fut	VerbForm=Part
+PRON	Case=Gen	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=3	Reflex=Yes
+VERB	Aspect=Perf	Mood=Gen	Number=Sing	Person=3	Polarity=Neg	Tense=Pres
+ADJ	Case=Loc	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=1
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Tense=Past	Voice=CauPass
+VERB	Aspect=Imp	Mood=Pot	Number=Sing	Person=3	Polarity=Pos	Tense=AorPast
+VERB	Aspect=Perf	Mood=Ind	Number[psor]=Plur	Person[psor]=3	Polarity=Neg	Tense=Fut	VerbForm=Part
+VERB	Aspect=Perf	Case=Acc	Mood=Ind	Number[psor]=Plur	Person[psor]=3	Polarity=Pos	Tense=Pres	VerbForm=Vnoun
+NOUN	Case=Dat	Number=Sing	Number[psor]=Plur	Person=3	Person[psor]=2
+VERB	Aspect=Perf	Case=Loc	Mood=Ind	Number[psor]=Plur	Person[psor]=2	Polarity=Pos	Tense=Past	VerbForm=Part	Voice=Pass
+NOUN	Case=Abl	Number=Sing	Number[psor]=Plur	Person=3	Person[psor]=2
+VERB	Aspect=Imp	Mood=CndPot	Number=Sing	Person=1	Polarity=Neg	Tense=Aor
+ADP	Case=Gen	Number=Plur	Person=3
+VERB	Aspect=Perf	Case=Nom	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Pres	VerbForm=Vnoun	Voice=Pass
+AUX	Aspect=Perf	Mood=Gen	Number=Plur	Person=3	Tense=Pres
+NUM	Case=Loc	Number=Sing	NumType=Card	Person=3
+VERB	Aspect=Perf	Mood=Imp	Number=Sing	Person=3	Polarity=Pos	Tense=Pres	Voice=CauPass
+VERB	Aspect=Imp	Mood=Cnd	Number=Sing	Person=1	Polarity=Pos	Tense=Aor
+NUM	NumType=Dist
+VERB	Aspect=Prog	Mood=Pot	Number=Sing	Person=1	Polarity=Neg	Polite=Infm	Tense=Pres	Voice=Cau
+VERB	Aspect=Perf	Case=Ins	Mood=Ind	Polarity=Pos	Tense=Pres	VerbForm=Vnoun
+VERB	Aspect=Perf	Case=Loc	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Pres	VerbForm=Vnoun
+VERB	Aspect=Perf	Mood=Nec	Number=Sing	Person=3	Polarity=Pos	Tense=Past
+PRON	Case=Loc	Number=Sing	Person=3	PronType=Prs
+AUX	Aspect=Perf	Mood=Ind	Number=Plur	Person=1	Tense=Pres
+VERB	Aspect=Perf	Evident=Nfh	Mood=Ind	Number=Sing	Person=2	Polarity=Pos	Tense=Past
+ADJ	Case=Nom	Number=Sing	Number[psor]=Plur	Person=3	Person[psor]=2
+NOUN	Case=Loc	Number=Sing	Number[psor]=Plur	Person=3	Person[psor]=3
+VERB	Aspect=Imp	Mood=Cnd	Number=Sing	Person=3	Polarity=Pos	Tense=Aor
+ADJ	Case=Nom	Number=Plur	Number[psor]=Sing	Person=3	Person[psor]=3
+VERB	Aspect=Imp	Mood=Pot	Polarity=Neg	Tense=Aor	VerbForm=Part	Voice=Pass
+VERB	Aspect=Perf	Evident=Nfh	Mood=Ind	Number=Plur	Person=3	Polarity=Pos	Tense=Past
+VERB	Aspect=Prog	Mood=Pot	Number=Sing	Person=3	Polarity=Neg	Polite=Infm	Tense=Pres
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=3	Polarity=Neg	Tense=Pqp
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=3	Polarity=Pos	Tense=Past	Voice=Pass
+ADJ	Case=Ins	Number=Sing	Person=3
+AUX	Aspect=Perf	Mood=Ind	Number=Plur	Person=3	Tense=Past
+PRON	Case=Gen	Number=Plur	Number[psor]=Plur	Person=3	Person[psor]=3	PronType=Ind
+VERB	Aspect=Perf	Mood=Ind	Number[psor]=Plur	Person[psor]=2	Polarity=Pos	Tense=Past	VerbForm=Part
+VERB	Aspect=Perf	Mood=Opt	Number=Sing	Person=3	Polarity=Pos	Tense=Pres	Voice=Pass
+VERB	Aspect=Perf	Case=Loc	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Pres	VerbForm=Vnoun	Voice=Pass
+VERB	Aspect=Perf	Case=Dat	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Fut	VerbForm=Part	Voice=Pass
+VERB	Aspect=Prog	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Polite=Infm	Tense=Pres	Voice=Pass
+NUM	Case=Ins	Number=Plur	NumType=Card	Person=3
+ADP	Case=Nom	Number=Plur	Number[psor]=Plur	Person=3	Person[psor]=3
+NOUN	Abbr=Yes	Case=Abl	Number=Sing	Person=3
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=1	Polarity=Neg	Tense=Aor	Voice=Cau
+VERB	Aspect=Perf	Case=Loc	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Past	VerbForm=Part
+VERB	Aspect=Prog	Mood=Pot	Number=Sing	Person=1	Polarity=Pos	Polite=Infm	Tense=Past
+VERB	Aspect=Perf	Case=Nom	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Pres	VerbForm=Vnoun	Voice=Cau
+VERB	Aspect=Perf	Case=Nom	Mood=Ind	Number[psor]=Plur	Person[psor]=1	Polarity=Pos	Tense=Pres	VerbForm=Vnoun
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=1	Polarity=Pos	Tense=Fut
+ADP	Case=Dat	Number=Sing	Person=3
+VERB	Aspect=Perf	Mood=Ind	Polarity=Neg	Tense=Fut	VerbForm=Part
+PRON	Case=Nom	Number=Plur	Number[psor]=Plur	Person=1	Person[psor]=1	PronType=Ind
+NOUN	Case=Abl	Number=Plur	Number[psor]=Sing	Person=3	Person[psor]=3
+VERB	Aspect=Perf	Mood=Ind	Number[psor]=Sing	Person[psor]=2	Polarity=Pos	Tense=Past	VerbForm=Part
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=2	Polarity=Pos	Tense=Pqp
+VERB	Aspect=Perf	Evident=Nfh	Mood=Ind	Polarity=Pos	Tense=Past	VerbForm=Part	Voice=CauPass
+VERB	Aspect=Perf	Case=Nom	Mood=Ind	Polarity=Neg	Tense=Pres	VerbForm=Vnoun
+VERB	Aspect=Prog	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Polite=Infm	Tense=Past	Voice=CauPass
+PRON	Case=Abl	Number=Sing	Person=3	PronType=Prs
+VERB	Aspect=Perf	Mood=Ind	Polarity=Pos	Tense=Fut	VerbForm=Part	Voice=CauPass
+NOUN	Case=Dat	Number=Sing	Number[psor]=Plur	Person=3	Person[psor]=3
+VERB	Aspect=Perf	Mood=Pot	Number=Plur	Person=3	Polarity=Pos	Tense=Fut
+NOUN	Case=Loc	Number=Sing	Number[psor]=Plur	Person=3	Person[psor]=1
+PRON	Case=Ins	Number=Sing	Person=1	PronType=Prs
+VERB	Aspect=Perf	Case=Abl	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Pres	VerbForm=Vnoun
+VERB	Aspect=Perf	Evident=Nfh	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Tense=Past	VerbForm=Conv
+PRON	Case=Loc	Number=Plur	Person=1	PronType=Prs
+VERB	Aspect=Perf	Case=Loc	Mood=Ind	Number[psor]=Sing	Person[psor]=1	Polarity=Pos	Tense=Past	VerbForm=Part
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Tense=Pqp	Voice=Cau
+VERB	Aspect=Imp	Mood=Cnd	Number=Plur	Person=1	Polarity=Neg	Tense=Aor
+VERB	Aspect=Perf	Mood=Nec	Number=Sing	Person=3	Polarity=Pos	Tense=Past	Voice=Pass
+VERB	Aspect=Perf	Mood=Des	Number=Sing	Person=1	Polarity=Pos	Tense=Past
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=1	Polarity=Neg	Tense=AorPast
+NOUN	Abbr=Yes	Case=Acc	Number=Sing	Person=3
+VERB	Aspect=Perf	Case=Dat	Mood=Ind	Polarity=Pos	Tense=Pres	VerbForm=Vnoun	Voice=Pass
+VERB	Aspect=Prog	Mood=Ind	Number=Sing	Person=1	Polarity=Neg	Polite=Infm	Tense=Pres	Voice=Pass
+VERB	Aspect=Perf	Mood=Pot	Number=Sing	Person=3	Polarity=Neg	Tense=Past	Voice=Cau
+VERB	Aspect=Perf	Case=Acc	Mood=Pot	Number[psor]=Sing	Person[psor]=1	Polarity=Pos	Tense=Past	VerbForm=Part
+VERB	Aspect=Prog	Mood=Ind	Number=Sing	Person=1	Polarity=Pos	Polite=Infm	Tense=Past	Voice=Cau
+ADJ	Case=Loc	Number=Plur	Person=3
+PRON	Case=Acc	Number=Sing	Person=3	PronType=Dem
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=3	Polarity=Pos	Tense=Fut	Voice=Pass
+VERB	Aspect=Perf	Case=Dat	Mood=Ind	Number[psor]=Sing	Person[psor]=1	Polarity=Pos	Tense=Pres	VerbForm=Vnoun
+ADJ	Case=Gen	Number=Plur	Number[psor]=Plur	Person=3	Person[psor]=2
+NOUN	Case=Dat	Number=Plur	Number[psor]=Plur	Person=3	Person[psor]=2
+VERB	Aspect=Perf	Case=Ins	Mood=Ind	Number[psor]=Plur	Person[psor]=2	Polarity=Pos	Tense=Past	VerbForm=Part
+NOUN	Case=Dat	Number=Plur	Number[psor]=Sing	Person=3	Person[psor]=2
+PROPN	Case=Nom	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=3
+ADJ	Case=Abl	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=1
+VERB	Aspect=Perf	Case=Acc	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Past	VerbForm=Part	Voice=Pass
+PRON	Case=Abl	Number=Sing	Person=3	PronType=Dem
+VERB	Aspect=Perf	Case=Gen	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Neg	Tense=Past	VerbForm=Part
+NOUN	Case=Nom	Number=Sing	Number[psor]=Plur	Person=3	Person[psor]=1
+VERB	Aspect=Perf	Case=Ins	Mood=Ind	Number[psor]=Sing	Person[psor]=1	Polarity=Pos	Tense=Past	VerbForm=Part
+NOUN	Case=Acc	Number=Plur	Number[psor]=Sing	Person=3	Person[psor]=1
+PRON	Case=Loc	Number=Plur	Number[psor]=Plur	Person=3	Person[psor]=3	PronType=Ind
+VERB	Aspect=Prog	Mood=Gen	Number=Sing	Person=3	Polarity=Pos	Polite=Form	Tense=Pres
+VERB	Aspect=Perf	Mood=Ind	Polarity=Neg	Tense=Pres	VerbForm=Conv	Voice=Pass
+VERB	Aspect=Perf	Case=Acc	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Neg	Tense=Fut	VerbForm=Part
+NUM	Case=Nom	Number=Sing	Number[psor]=Sing	NumType=Card	Person=3	Person[psor]=3
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=2	Polarity=Neg	Tense=Pres
+VERB	Aspect=Perf	Case=Acc	Mood=Pot	Number[psor]=Sing	Person[psor]=1	Polarity=Neg	Tense=Fut	VerbForm=Part
+VERB	Aspect=Perf	Case=Nom	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Past	VerbForm=Part	Voice=Cau
+NUM	Case=Loc	Number=Sing	Number[psor]=Sing	NumType=Card	Person=3	Person[psor]=2
+PRON	Case=Dat	Number=Plur	Person=3	PronType=Prs
+VERB	Aspect=Prog	Evident=Nfh	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Polite=Infm	Tense=Past	Voice=Pass
+VERB	Aspect=Prog	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Polite=Infm	Tense=Past	Voice=Cau
+VERB	Aspect=Perf	Case=Dat	Mood=Ind	Polarity=Pos	Tense=Pres	VerbForm=Vnoun	Voice=Cau
+PRON	Case=Acc	Number=Sing	Number[psor]=Sing	Person=1	Person[psor]=1	Reflex=Yes
+VERB	Aspect=Perf	Mood=Pot	Number=Sing	Person=1	Polarity=Pos	Tense=Fut	Voice=Cau
+VERB	Aspect=Perf	Case=Nom	Mood=Ind	Number[psor]=Sing	Person[psor]=1	Polarity=Pos	Tense=Past	VerbForm=Part
+NOUN	Case=Acc	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=2
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	Polarity=Neg	Tense=Pqp
+VERB	Aspect=Prog	Mood=Gen	Number=Sing	Person=3	Polarity=Neg	Polite=Infm	Tense=Pres
+VERB	Aspect=Imp	Mood=Ind	Polarity=Pos	Tense=Aor	VerbForm=Part	Voice=Pass
+VERB	Aspect=Imp	Mood=Ind	Polarity=Neg	Tense=Aor	VerbForm=Part	Voice=Pass
+VERB	Aspect=Perf	Case=Nom	Mood=Pot	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Pres	VerbForm=Vnoun
+NOUN	Case=Acc	Number=Sing	Number[psor]=Plur	Person=3	Person[psor]=3
+VERB	Aspect=ProgRapid	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Polite=Infm	Tense=Pres
+VERB	Aspect=Perf	Case=Acc	Mood=Ind	Number[psor]=Sing	Person[psor]=2	Polarity=Pos	Tense=Pres	VerbForm=Vnoun
+PRON	Case=Ins	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=3	Reflex=Yes
+PRON	Case=Dat	Number=Sing	Person=3
+VERB	Aspect=Perf	Mood=Pot	Polarity=Neg	Tense=Fut	VerbForm=Part
+VERB	Aspect=Imp	Mood=Cnd	Number=Sing	Person=3	Polarity=Neg	Tense=Aor
+VERB	Aspect=Perf	Case=Nom	Mood=Ind	Number[psor]=Sing	Person[psor]=1	Polarity=Pos	Tense=Pres	VerbForm=Vnoun
+VERB	Aspect=Perf	Mood=Des	Number=Sing	Person=2	Polarity=Neg	Tense=Pres
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Polarity=Neg	Tense=Aor	Voice=Pass
+NOUN	Case=Ins	Number=Sing	Number[psor]=Plur	Person=3	Person[psor]=3
+VERB	Aspect=Perf	Mood=Nec	Number=Sing	Person=3	Polarity=Pos	Tense=Pres
+VERB	Aspect=Perf	Mood=Pot	Number=Sing	Person=1	Polarity=Neg	Tense=Fut
+VERB	Aspect=Perf	Case=Nom	Mood=Ind	Number[psor]=Sing	Person[psor]=2	Polarity=Pos	Tense=Pres	VerbForm=Vnoun
+PRON	Case=Acc	Number=Sing	Number[psor]=Sing	Person=2	Person[psor]=2	Reflex=Yes
+VERB	Aspect=Perf	Case=Nom	Mood=Pot	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Pres	VerbForm=Vnoun	Voice=Pass
+VERB	Aspect=Perf	Case=Acc	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Pres	VerbForm=Vnoun	Voice=Pass
+PRON	Case=Dat	Number=Plur	Number[psor]=Plur	Person=3	Person[psor]=3	Reflex=Yes
+VERB	Aspect=Perf	Evident=Nfh	Mood=Gen	Number=Sing	Person=1	Polarity=Pos	Tense=Past
+VERB	Aspect=Perf	Case=Dat	Mood=Pot	Number[psor]=Sing	Person[psor]=3	Polarity=Neg	Tense=Past	VerbForm=Part	Voice=Cau
+VERB	Aspect=Perf	Mood=Pot	Polarity=Pos	Tense=Fut	VerbForm=Part	Voice=Cau
+VERB	Aspect=Perf	Case=Dat	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Aspect=Prog	Mood=Ind	Number=Sing	Person=2	Polarity=Pos	Polite=Infm	Tense=Pres	Voice=Pass
+VERB	Aspect=Imp	Mood=Pot	Number=Sing	Person=2	Polarity=Pos	Tense=Aor
+NUM	Case=Loc	Number=Sing	Number[psor]=Sing	NumType=Card	Person=3	Person[psor]=3
+NOUN	Case=Acc	Number=Plur	Number[psor]=Plur	Person=3	Person[psor]=1
+VERB	Aspect=Imp	Mood=Pot	Number=Sing	Person=3	Polarity=Neg	Tense=Aor	Voice=Cau
+VERB	Aspect=Perf	Mood=Opt	Number=Plur	Person=1	Polarity=Neg	Tense=Pres
+VERB	Aspect=Perf	Mood=DesPot	Number=Sing	Person=3	Polarity=Neg	Tense=Pres
+VERB	Aspect=Perf	Case=Acc	Mood=Pot	Polarity=Pos	Tense=Fut	VerbForm=Part
+VERB	Aspect=Prog	Mood=Pot	Number=Sing	Person=3	Polarity=Pos	Polite=Infm	Tense=Pres
+VERB	Aspect=Perf	Case=Dat	Mood=Ind	Number[psor]=Sing	Person[psor]=1	Polarity=Pos	Tense=Past	VerbForm=Part
+PRON	Case=Nom	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=3	PronType=Ind
+PRON	Case=Acc	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=3
+PRON	Case=Acc	Number=Plur	Number[psor]=Plur	Person=3	Person[psor]=3	Reflex=Yes
+VERB	Aspect=Perf	Case=Acc	Mood=Pot	Number[psor]=Sing	Person[psor]=3	Polarity=Neg	Tense=Past	VerbForm=Part
+VERB	Aspect=Perf	Case=Nom	Mood=Pot	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Fut	VerbForm=Part
+VERB	Aspect=Perf	Case=Abl	Mood=Ind	Polarity=Pos	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Aspect=Perf	Case=Gen	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Pres	VerbForm=Vnoun
+VERB	Aspect=Perf	Case=Acc	Mood=Ind	Number[psor]=Plur	Person[psor]=3	Polarity=Neg	Tense=Past	VerbForm=Part
+VERB	Aspect=Perf	Mood=Opt	Number=Sing	Person=3	Polarity=Neg	Tense=Pres
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Polarity=Neg	Tense=AorPast	Voice=Pass
+NOUN	Abbr=Yes	Case=Loc	Number=Sing	Person=3
+ADJ	Case=Ins	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=3
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=1	Polarity=Pos	Tense=Past	Voice=Pass
+ADJ	Case=Nom	Number=Plur	Number[psor]=Plur	Person=3	Person[psor]=3
+VERB	Aspect=Prog	Mood=Pot	Number=Sing	Person=1	Polarity=Neg	Polite=Infm	Tense=Pres
+VERB	Aspect=Perf	Case=Nom	Mood=Pot	Number[psor]=Plur	Person[psor]=3	Polarity=Neg	Tense=Fut	VerbForm=Part
+VERB	Aspect=Perf	Mood=Ind	Polarity=Pos	Tense=Pres	Voice=Cau
+VERB	Aspect=Perf	Mood=Ind	Number[psor]=Sing	Person[psor]=1	Polarity=Pos	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=1	Polarity=Pos	Tense=Past	Voice=Cau
+VERB	Aspect=Perf	Mood=Pot	Number=Sing	Person=3	Polarity=Neg	Tense=Past	Voice=CauPass
+VERB	Aspect=Perf	Case=Abl	Mood=Ind	Number[psor]=Plur	Person[psor]=2	Polarity=Pos	Tense=Past	VerbForm=Part
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=1	Polarity=Neg	Tense=Past	Voice=Cau
+VERB	Aspect=Perf	Mood=Pot	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Fut	VerbForm=Part
+VERB	Aspect=Perf	Case=Nom	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Aspect=Perf	Case=Nom	Mood=Pot	Polarity=Pos	Tense=Pres	VerbForm=Vnoun	Voice=Pass
+VERB	Aspect=Perf	Case=Acc	Mood=Ind	Number[psor]=Plur	Person[psor]=3	Polarity=Pos	Tense=Fut	VerbForm=Part	Voice=Cau
+VERB	Aspect=Perf	Case=Acc	Mood=Ind	Number[psor]=Plur	Person[psor]=2	Polarity=Pos	Tense=Past	VerbForm=Part
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=1	Polarity=Pos	Tense=FutPast
+VERB	Aspect=Perf	Case=Nom	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Fut	VerbForm=Part	Voice=CauPass
+VERB	Aspect=Imp	Mood=Cnd	Number=Plur	Person=3	Polarity=Pos	Tense=Aor
+PRON	Case=Ins	Number=Plur	Number[psor]=Plur	Person=3	Person[psor]=3	PronType=Ind
+VERB	Aspect=Imp	Mood=Cnd	Number=Sing	Person=3	Polarity=Pos	Tense=Aor	Voice=Pass
+NUM	Case=Gen	Number=Sing	NumType=Card	Person=3
+NOUN	Case=Abl	Number=Plur	Number[psor]=Plur	Person=3	Person[psor]=1
+VERB	Aspect=Prog	Mood=Ind	Number=Sing	Person=2	Polarity=Neg	Polite=Infm	Tense=Past
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Person=1	Polarity=Neg	Tense=Aor
+ADJ	Case=Ins	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=1
+VERB	Aspect=Imp	Mood=Cnd	Number=Plur	Person=1	Polarity=Pos	Tense=Aor
+VERB	Aspect=Perf	Evident=Nfh	Mood=Ind	Number=Sing	Person=1	Polarity=Pos	Tense=Past
+VERB	Aspect=Prog	Evident=Nfh	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Polite=Infm	Tense=Past
+VERB	Aspect=Perf	Case=Nom	Mood=Pot	Polarity=Neg	Tense=Pres	VerbForm=Vnoun
+VERB	Aspect=Perf	Mood=Imp	Number=Sing	Person=3	Polarity=Pos	Tense=Pres	Voice=Pass
+PRON	Case=Abl	Number=Plur	Person=3	PronType=Prs
+NUM	Case=Loc	Number=Plur	Number[psor]=Plur	NumType=Card	Person=3	Person[psor]=3
+VERB	Aspect=Perf	Mood=Pot	Number=Sing	Person=3	Polarity=Neg	Tense=Fut
+VERB	Aspect=Prog	Mood=Ind	Number=Plur	Person=3	Polarity=Neg	Polite=Infm	Tense=Pres	Voice=Cau
+VERB	Aspect=Prog	Mood=Ind	Number=Sing	Person=1	Polarity=Pos	Polite=Infm	Tense=Pres	Voice=Pass
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Person=3	Polarity=Neg	Tense=AorPast
+AUX	Aspect=Perf	Mood=Ind	Number=Plur	Person=2	Tense=Past
+VERB	Aspect=Imp	Mood=CndPot	Number=Plur	Person=2	Polarity=Neg	Tense=Aor
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Person=3	Polarity=Pos	Tense=AorPast
+VERB	Aspect=Perf	Case=Nom	Mood=Ind	Number[psor]=Plur	Person[psor]=3	Polarity=Pos	Tense=Past	VerbForm=Part
+VERB	Aspect=Perf	Case=Acc	Mood=Pot	Number[psor]=Sing	Person[psor]=3	Polarity=Neg	Tense=Past	VerbForm=Part	Voice=Cau
+AUX	Aspect=Perf	Mood=Ind	Number=Sing	Person=2	Tense=Past
+NOUN	Case=Gen	Number=Sing	Number[psor]=Plur	Person=3	Person[psor]=1
+VERB	Aspect=Perf	Case=Gen	Mood=Ind	Polarity=Pos	Tense=Fut	VerbForm=Part
+VERB	Aspect=Perf	Case=Dat	Mood=Ind	Polarity=Neg	Tense=Pres	VerbForm=Vnoun	Voice=Cau
+NUM	Case=Acc	Number=Sing	Number[psor]=Plur	NumType=Card	Person=3	Person[psor]=1
+PRON	Case=Ins	Number=Sing	Number[psor]=Sing	Person=2	Person[psor]=2	Reflex=Yes
+VERB	Aspect=Perf	Case=Dat	Mood=Ind	Number[psor]=Sing	Person[psor]=1	Polarity=Pos	Tense=Fut	VerbForm=Part
+ADP	Case=Abl	Number=Sing	Person=3
+NOUN	Case=Abl	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=2
+PRON	Case=Nom	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=2
+VERB	Aspect=Perf	Evident=Nfh	Mood=Ind	Number=Plur	Person=1	Polarity=Pos	Tense=Past
+VERB	Aspect=Imp	Mood=Pot	Number=Plur	Person=1	Polarity=Neg	Tense=Aor
+PRON	Case=Nom	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=1
+VERB	Aspect=Perf	Case=Acc	Mood=Pot	Number[psor]=Plur	Person[psor]=3	Polarity=Pos	Tense=Fut	VerbForm=Part
+VERB	Aspect=Imp	Mood=Pot	Number=Sing	Person=3	Polarity=Pos	Tense=Aor	Voice=Pass
+VERB	Aspect=Perf	Mood=Ind	Number[psor]=Sing	Person[psor]=2	Polarity=Pos	Tense=Past	VerbForm=Part	Voice=Cau
+VERB	Aspect=Perf	Evident=Nfh	Mood=Gen	Number=Sing	Person=3	Polarity=Neg	Tense=Past
+ADJ	Case=Loc	Number=Sing	Number[psor]=Plur	Person=3	Person[psor]=2
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=2	Polarity=Neg	Tense=Past
+NUM	Case=Nom	Number=Plur	Number[psor]=Sing	NumType=Card	Person=3	Person[psor]=2
+VERB	Aspect=Imp	Mood=Pot	Number=Sing	Person=3	Polarity=Pos	Tense=Aor	Voice=Cau
+VERB	Aspect=Prog	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Polite=Infm	Tense=Past	Voice=Pass
+VERB	Aspect=Prog	Mood=Ind	Number=Sing	Person=3	Polarity=Neg	Polite=Infm	Tense=Pres	Voice=Pass
+VERB	Aspect=Perf	Case=Nom	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Fut	VerbForm=Part	Voice=Pass
+VERB	Aspect=Perf	Mood=Opt	Number=Sing	Person=1	Polarity=Neg	Tense=Pres
+VERB	Aspect=Perf	Evident=Nfh	Mood=Ind	Polarity=Neg	Tense=Past	VerbForm=Part	Voice=CauPass
+VERB	Aspect=Perf	Mood=DesPot	Number=Sing	Person=1	Polarity=Pos	Tense=Pres
+VERB	Aspect=Perf	Case=Gen	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Neg	Tense=Pres	VerbForm=Vnoun	Voice=Pass
+ADJ	Case=Abl	Number=Plur	Number[psor]=Sing	Person=3	Person[psor]=3
+VERB	Aspect=Perf	Mood=Imp	Number=Sing	Person=3	Polarity=Pos	Tense=Pres	Voice=Cau
+NOUN	Case=Loc	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=2
+VERB	Aspect=Prog	Mood=Ind	Number=Sing	Person=1	Polarity=Pos	Polite=Infm	Tense=Past	Voice=Pass
+ADP	Case=Ins	Number=Plur	Number[psor]=Sing	Person=3	Person[psor]=3
+VERB	Aspect=Perf	Case=Abl	Mood=Ind	Number[psor]=Sing	Person[psor]=1	Polarity=Pos	Tense=Pres	VerbForm=Vnoun
+NOUN	Case=Gen	Number=Plur	Number[psor]=Plur	Person=3	Person[psor]=1
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=1	Polarity=Pos	Tense=Pqp	Voice=Cau
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=1	Polarity=Pos	Tense=Fut
+VERB	Aspect=Perf	Case=Acc	Mood=Pot	Number[psor]=Sing	Person[psor]=2	Polarity=Neg	Tense=Fut	VerbForm=Part
+VERB	Aspect=Perf	Case=Abl	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Past	VerbForm=Part
+NOUN	Case=Loc	Number=Plur	Number[psor]=Plur	Person=3	Person[psor]=3
+VERB	Aspect=Perf	Case=Dat	Mood=Ind	Polarity=Neg	Tense=Pres	VerbForm=Vnoun
+NOUN	Abbr=Yes	Case=Dat	Number=Sing	Person=3
+VERB	Aspect=Perf	Evident=Nfh	Mood=Ind	Polarity=Neg	Tense=Past	VerbForm=Conv
+VERB	Aspect=Prog	Mood=Cnd	Number=Plur	Person=3	Polarity=Neg	Polite=Infm	Tense=Pres
+VERB	Aspect=Perf	Case=Acc	Mood=Pot	Number[psor]=Sing	Person[psor]=3	Polarity=Neg	Tense=Fut	VerbForm=Part
+VERB	Aspect=Rapid	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Tense=Past
+VERB	Aspect=Prog	Mood=Cnd	Number=Sing	Person=1	Polarity=Pos	Polite=Infm	Tense=Pres
+VERB	Aspect=Perf	Mood=Pot	Number=Sing	Person=3	Polarity=Pos	Tense=Fut
+VERB	Aspect=Perf	Mood=Pot	Number=Plur	Person=3	Polarity=Pos	Tense=FutPast
+PRON	Case=Acc	Number=Plur	Person=3
+VERB	Aspect=Perf	Case=Dat	Mood=Ind	Number[psor]=Plur	Person[psor]=3	Polarity=Neg	Tense=Past	VerbForm=Part
+VERB	Aspect=Perf	Evident=Nfh	Mood=Ind	Polarity=Neg	Tense=Past	VerbForm=Part
+VERB	Aspect=Perf	Mood=Pot	Polarity=Neg	Tense=Pres	VerbForm=Part	Voice=Pass
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=3	Polarity=Pos	Tense=Pqp	Voice=Pass
+VERB	Aspect=Perf	Mood=Pot	Number=Sing	Person=1	Polarity=Neg	Tense=Fut	Voice=Cau
+VERB	Aspect=Imp	Mood=Cnd	Number=Plur	Person=2	Polarity=Neg	Tense=Aor
+ADJ	Case=Abl	Number=Sing	Number[psor]=Plur	Person=3	Person[psor]=1
+PRON	Case=Gen	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=3	PronType=Ind
+VERB	Aspect=Perf	Mood=Ind	Number[psor]=Sing	Person[psor]=1	Polarity=Neg	Tense=Past	VerbForm=Part
+VERB	Aspect=Perf	Mood=GenNec	Number=Plur	Person=3	Polarity=Pos	Tense=Pres	Voice=Pass
+PRON	Case=Acc	Number=Plur	Number[psor]=Plur	Person=1	Person[psor]=1	PronType=Ind
+VERB	Aspect=Perf	Mood=Pot	Number[psor]=Sing	Person[psor]=1	Polarity=Pos	Tense=Fut	VerbForm=Part
+NOUN	Case=Gen	Number=Sing	Number[psor]=Plur	Person=3	Person[psor]=2
+PRON	Case=Ins	Number=Plur	Person=2	PronType=Prs
+VERB	Aspect=Perf	Case=Abl	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Fut	VerbForm=Part
+VERB	Aspect=Perf	Case=Dat	Mood=Ind	Polarity=Pos	Tense=Pres	VerbForm=Vnoun	Voice=CauPass
+VERB	Aspect=Prog	Mood=Ind	Number=Sing	Person=1	Polarity=Pos	Polite=Infm	Tense=Pres	Voice=Cau
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=1	Polarity=Pos	Tense=Fut	Voice=Cau
+VERB	Aspect=Perf	Case=Nom	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Neg	Tense=Pres	VerbForm=Vnoun	Voice=Pass
+VERB	Aspect=Perf	Case=Ins	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Pres	VerbForm=Vnoun
+VERB	Aspect=Perf	Case=Nom	Mood=Pot	Number[psor]=Plur	Person[psor]=3	Polarity=Neg	Tense=Past	VerbForm=Part
+VERB	Aspect=Prog	Mood=Ind	Number=Sing	Person=2	Polarity=Neg	Polite=Infm	Tense=Pres
+PRON	Case=Ins	Number=Sing	Person=2	PronType=Prs
+VERB	Aspect=Perf	Case=Dat	Mood=Ind	Number[psor]=Plur	Person[psor]=3	Polarity=Pos	Tense=Fut	VerbForm=Part
+ADP	Case=Gen	Number=Sing	Person=3
+VERB	Aspect=Perf	Case=Acc	Mood=Ind	Polarity=Pos	Tense=Pres	VerbForm=Vnoun	Voice=Cau
+VERB	Aspect=Perf	Case=Dat	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Neg	Tense=Past	VerbForm=Part
+VERB	Aspect=Perf	Case=Nom	Mood=Ind	Number[psor]=Sing	Person[psor]=1	Polarity=Pos	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Aspect=Perf	Mood=Ind	Polarity=Neg	Tense=Pres	VerbForm=Conv	Voice=Cau
+VERB	Aspect=Perf	Mood=Ind	Polarity=Pos	Tense=Past	VerbForm=Part
+NOUN	Case=Nom	Number=Plur	Number[psor]=Sing	Person=3	Person[psor]=1
+VERB	Aspect=Perf	Mood=Ind	Polarity=Pos	Tense=Fut	VerbForm=Part	Voice=Cau
+PRON	Case=Loc	Number=Sing	Person=3	PronType=Dem
+ADJ	Case=Gen	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=1
+VERB	Aspect=Perf	Evident=Nfh	Mood=Pot	Number=Sing	Person=1	Polarity=Neg	Tense=Past
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Person=3	Polarity=Pos	Tense=Aor	Voice=Cau
+ADP	Mood=Cnd	Number=Sing	Person=3
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=1	Polarity=Pos	Tense=Fut	Voice=Cau
+VERB	Aspect=Perf	Case=Ins	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Pres	VerbForm=Vnoun	Voice=Pass
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Tense=Aor	Voice=CauPass
+VERB	Aspect=Perf	Mood=Pot	Polarity=Pos	Tense=Fut	VerbForm=Part
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=3	Polarity=Neg	Tense=Pres
+PRON	Case=Loc	Number=Plur	Person=3
+PROPN	Case=Loc	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=3
+PRON	Case=Ins	Number=Sing	Person=3	PronType=Dem
+PROPN	Case=Nom	Number=Plur	Person=3
+VERB	Aspect=Prog	Mood=Pot	Number=Plur	Person=1	Polarity=Neg	Polite=Infm	Tense=Pres
+VERB	Aspect=Perf	Case=Acc	Mood=Pot	Number[psor]=Plur	Person[psor]=1	Polarity=Neg	Tense=Fut	VerbForm=Part
+VERB	Aspect=Imp	Mood=Ind	Polarity=Neg	Tense=Aor	VerbForm=Part
+NOUN	Case=Dat	Number=Plur	Number[psor]=Sing	Person=3	Person[psor]=1
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Person=1	Polarity=Pos	Tense=AorPast
+VERB	Aspect=Imp	Mood=Pot	Number=Sing	Person=1	Polarity=Pos	Tense=Aor
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	Polarity=Neg	Tense=Past	Voice=Pass
+VERB	Aspect=Perf	Case=Gen	Mood=Ind	Polarity=Pos	Tense=Pres	VerbForm=Vnoun	Voice=Cau
+VERB	Aspect=Perf	Mood=GenNec	Number=Sing	Person=3	Polarity=Pos	Tense=Pres
+NOUN	Case=Acc	Number=Plur	Number[psor]=Plur	Person=3	Person[psor]=2
+ADJ	Case=Gen	Number=Plur	Number[psor]=Sing	Person=3	Person[psor]=2
+VERB	Aspect=Perf	Mood=Pot	Number=Plur	Person=2	Polarity=Neg	Tense=Past
+VERB	Aspect=Perf	Case=Acc	Mood=Ind	Number[psor]=Sing	Person[psor]=2	Polarity=Pos	Tense=Fut	VerbForm=Part
+VERB	Aspect=Perf	Case=Nom	Mood=Ind	Number[psor]=Plur	Person[psor]=1	Polarity=Pos	Tense=Past	VerbForm=Part
+VERB	Aspect=Perf	Mood=Des	Number=Plur	Person=2	Polarity=Neg	Tense=Pres
+ADJ	Case=Equ	Number=Sing	Person=3
+VERB	Aspect=Imp	Mood=Pot	Number=Sing	Person=1	Polarity=Neg	Tense=AorPast
+ADJ	Case=Dat	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=1
+VERB	Aspect=Perf	Mood=Ind	Polarity=Pos	Tense=Pres	VerbForm=Conv	Voice=CauPass
+VERB	Aspect=Perf	Evident=Nfh	Mood=Cnd	Number=Sing	Person=3	Polarity=Pos	Tense=Past
+VERB	Aspect=Perf	Case=Ins	Mood=Ind	Number[psor]=Plur	Person[psor]=3	Polarity=Pos	Tense=Pres	VerbForm=Vnoun
+VERB	Aspect=Perf	Case=Dat	Mood=Ind	Number[psor]=Plur	Person[psor]=3	Polarity=Pos	Tense=Past	VerbForm=Part
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Polarity=Neg	Tense=Aor	Voice=CauPass
+VERB	Aspect=Perf	Case=Gen	Mood=Ind	Number[psor]=Sing	Person[psor]=1	Polarity=Pos	Tense=Past	VerbForm=Part
+NOUN	Case=Ins	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=2
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=2	Polarity=Pos	Tense=Pqp	Voice=Cau
+VERB	Aspect=Perf	Mood=DesPot	Number=Plur	Person=1	Polarity=Pos	Tense=Pres
+VERB	Aspect=Perf	Case=Abl	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Neg	Tense=Past	VerbForm=Part
+PRON	Case=Equ	Number=Sing	Person=3	PronType=Prs
+PRON	Case=Equ	Number=Sing	Person=3	PronType=Dem
+ADJ	Case=Nom	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=2
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=1	Polarity=Neg	Tense=Past
+VERB	Aspect=Perf	Mood=Pot	Number=Plur	Person=1	Polarity=Pos	Tense=Past	Voice=Pass
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Tense=Fut	Voice=CauPass
+VERB	Aspect=Perf	Mood=Nec	Number=Plur	Person=2	Polarity=Pos	Tense=Pres
+VERB	Aspect=Rapid	Mood=Ind	Number=Sing	Person=2	Polarity=Pos	Tense=Pqp
+PRON	Case=Acc	Number=Plur	Number[psor]=Plur	Person=2	Person[psor]=2	Reflex=Yes
+NOUN	Case=Acc	Number=Sing	Number[psor]=Plur	Person=3	Person[psor]=2
+ADJ	Case=Equ	Number=Plur	Number[psor]=Sing	Person=3	Person[psor]=2
+VERB	Aspect=Perf	Case=Abl	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Fut	VerbForm=Part	Voice=Pass
+ADP	Case=Acc	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=3
+VERB	Aspect=Perf	Case=Gen	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Past	VerbForm=Part
+NUM	Case=Nom	Number=Sing	NumType=Ord	Person=3
+ADJ	Case=Nom	Number=Sing	Number[psor]=Plur	Person=3	Person[psor]=3
+VERB	Aspect=Perf	Case=Acc	Mood=Ind	Number[psor]=Plur	Person[psor]=2	Polarity=Pos	Tense=Pres	VerbForm=Vnoun
+VERB	Aspect=Prog	Mood=Pot	Number=Sing	Person=3	Polarity=Neg	Polite=Infm	Tense=Pres	Voice=Pass
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=3	Polarity=Pos	Tense=Pqp
+VERB	Aspect=Perf	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Fut	VerbForm=Part	Voice=Pass
+VERB	Aspect=Perf	Mood=Nec	Number=Sing	Person=3	Polarity=Neg	Tense=Pres	Voice=Pass
+VERB	Aspect=Perf	Mood=Imp	Number=Sing	Person=3	Polarity=Neg	Tense=Pres
+VERB	Aspect=Perf	Mood=Imp	Number=Plur	Person=2	Polarity=Pos	Tense=Pres	Voice=Pass
+ADJ	Case=Acc	Number=Sing	Number[psor]=Plur	Person=3	Person[psor]=1
+VERB	Aspect=Perf	Mood=Pot	Number=Plur	Person=3	Polarity=Neg	Tense=Past
+ADP	Case=Nom	Number=Sing	Number[psor]=Plur	Person=3	Person[psor]=2
+NOUN	Case=Ins	Number=Sing	Number[psor]=Plur	Person=3	Person[psor]=2
+VERB	Aspect=Perf	Case=Abl	Mood=Ind	Number[psor]=Sing	Person[psor]=2	Polarity=Pos	Tense=Fut	VerbForm=Part
+NOUN	Case=Abl	Number=Plur	Number[psor]=Sing	Person=3	Person[psor]=2
+VERB	Aspect=Prog	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Polite=Infm	Tense=Pres	Voice=CauPass
+AUX	Aspect=Perf	Evident=Nfh	Mood=Ind	Number=Sing	Person=2	Tense=Past
+ADJ	Case=Abl	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=2
+VERB	Aspect=Perf	Mood=Pot	Number[psor]=Sing	Person[psor]=3	Polarity=Neg	Tense=Past	VerbForm=Part
+VERB	Aspect=Imp	Mood=Ind	Polarity=Pos	Tense=Aor	VerbForm=Part	Voice=Cau
+VERB	Aspect=Perf	Case=Gen	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Fut	VerbForm=Part	Voice=Pass
+VERB	Aspect=Perf	Case=Acc	Mood=Pot	Number[psor]=Plur	Person[psor]=3	Polarity=Neg	Tense=Fut	VerbForm=Part
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=3	Polarity=Neg	Tense=Past
+VERB	Aspect=Perf	Case=Dat	Mood=Ind	Number[psor]=Plur	Person[psor]=3	Polarity=Pos	Tense=Pres	VerbForm=Vnoun
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Person=1	Polarity=Pos	Tense=Aor	Voice=Cau
+VERB	Aspect=Perf	Case=Gen	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Pres	VerbForm=Vnoun	Voice=Pass
+ADP	Case=Abl	Number=Plur	Person=3
+VERB	Aspect=Rapid	Mood=Ind	Polarity=Pos	Tense=Pres	VerbForm=Part
+VERB	Aspect=Perf	Case=Acc	Mood=Ind	Number[psor]=Sing	Person[psor]=1	Polarity=Pos	Tense=Pres	VerbForm=Vnoun
+VERB	Aspect=Prog	Mood=Pot	Number=Sing	Person=3	Polarity=Neg	Polite=Infm	Tense=Past
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=2	Polarity=Pos	Tense=Pqp
+VERB	Aspect=Perf	Mood=Des	Number=Plur	Person=3	Polarity=Pos	Tense=Pres
+VERB	Aspect=Perf	Case=Nom	Mood=Pot	Number[psor]=Sing	Person[psor]=3	Polarity=Neg	Tense=Fut	VerbForm=Part
+VERB	Aspect=Imp	Mood=Pot	Number=Plur	Person=3	Polarity=Neg	Tense=AorPast
+VERB	Aspect=Imp	Mood=Cnd	Number=Plur	Person=3	Polarity=Pos	Tense=Aor	Voice=Cau
+NUM	Case=Nom	Number=Plur	Number[psor]=Plur	NumType=Card	Person=3	Person[psor]=3
+AUX	Aspect=Perf	Evident=Nfh	Mood=Ind	Number=Sing	Person=1	Tense=Past
+VERB	Aspect=Imp	Evident=Nfh	Mood=Ind	Number=Sing	Person=1	Polarity=Pos	Tense=AorPast
+ADJ	Case=Abl	Number=Plur	Number[psor]=Plur	Person=3	Person[psor]=3
+NOUN	Case=Ins	Number=Sing	Number[psor]=Plur	Person=3	Person[psor]=1
+NUM	Case=Abl	Number=Sing	NumType=Card	Person=3
+VERB	Aspect=Prog	Mood=Pot	Number=Plur	Person=3	Polarity=Neg	Polite=Infm	Tense=Past
+VERB	Aspect=Perf	Case=Nom	Mood=Ind	Number[psor]=Sing	Person[psor]=1	Polarity=Pos	Tense=Pres	VerbForm=Vnoun	Voice=Cau
+ADJ	Case=Dat	Number=Sing	Number[psor]=Plur	Person=3	Person[psor]=1
+VERB	Aspect=Perf	Mood=Pot	Number=Plur	Person=1	Polarity=Neg	Tense=Past
+VERB	Aspect=Perf	Mood=NecPot	Number=Sing	Person=3	Polarity=Pos	Tense=Pres
+VERB	Aspect=Perf	Case=Gen	Mood=Ind	Polarity=Pos	Tense=Pres	VerbForm=Vnoun	Voice=Pass
+ADJ	Case=Dat	Number=Plur	Number[psor]=Plur	Person=3	Person[psor]=3
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Tense=AorPast	Voice=Cau
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=2	Polarity=Pos	Tense=AorPast
+VERB	Aspect=Perf	Mood=Pot	Polarity=Neg	Tense=Pres	VerbForm=Conv
+VERB	Aspect=Prog	Mood=Pot	Number=Sing	Person=2	Polarity=Pos	Polite=Infm	Tense=Pres
+VERB	Aspect=Perf	Mood=Nec	Number=Plur	Person=1	Polarity=Pos	Tense=Pres
+VERB	Aspect=Perf	Case=Abl	Mood=Ind	Polarity=Pos	Tense=Pres	VerbForm=Vnoun	Voice=Cau
+VERB	Aspect=Rapid	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Tense=Pqp
+VERB	Aspect=Imp	Evident=Nfh	Mood=Ind	Number=Plur	Person=3	Polarity=Pos	Tense=AorPast
+VERB	Aspect=Perf	Mood=Nec	Number=Sing	Person=1	Polarity=Pos	Tense=Past
+VERB	Aspect=Prog	Mood=Pot	Number=Sing	Person=1	Polarity=Neg	Polite=Infm	Tense=Past
+VERB	Aspect=Perf	Case=Acc	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Past	VerbForm=Part	Voice=Cau
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=1	Polarity=Pos	Tense=Past	Voice=Cau
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=3	Polarity=Pos	Tense=Fut	Voice=Cau
+VERB	Aspect=Perf	Mood=Nec	Number=Plur	Person=2	Polarity=Pos	Tense=Past
+VERB	Aspect=Perf	Case=Abl	Mood=Ind	Number[psor]=Plur	Person[psor]=3	Polarity=Pos	Tense=Past	VerbForm=Part
+PRON	Case=Nom	Number=Plur	Number[psor]=Plur	Person=3	Person[psor]=3	Reflex=Yes
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=1	Polarity=Pos	Tense=Past	Voice=Pass
+VERB	Aspect=Perf	Mood=Des	Number=Plur	Person=2	Polarity=Pos	Tense=Past
+ADP	Case=Ins	Number=Plur	Person=3
+ADJ	Case=Ins	Number=Plur	Number[psor]=Sing	Person=3	Person[psor]=3
+VERB	Aspect=Rapid	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Tense=Aor
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Person=3	Polarity=Neg	Tense=Aor
+VERB	Aspect=Perf	Case=Nom	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Neg	Tense=Past	VerbForm=Part
+NUM	Case=Dat	Number=Sing	Number[psor]=Sing	NumType=Ord	Person=3	Person[psor]=3
+VERB	Aspect=Perf	Case=Nom	Mood=Ind	Number[psor]=Plur	Person[psor]=3	Polarity=Pos	Tense=Fut	VerbForm=Part
+VERB	Aspect=Prog	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Polite=Form	Tense=Pres	Voice=Pass
+NUM	Case=Abl	Number=Sing	Number[psor]=Sing	NumType=Card	Person=3	Person[psor]=3
+VERB	Aspect=Prog	Mood=Gen	Number=Sing	Person=3	Polarity=Pos	Polite=Form	Tense=Pres	Voice=Pass
+PRON	Case=Dat	Number=Plur	Person=3
+VERB	Aspect=Imp	Mood=Pot	Number=Plur	Person=3	Polarity=Pos	Tense=Aor
+VERB	Aspect=Prog	Mood=Ind	Number=Plur	Person=2	Polarity=Pos	Polite=Infm	Tense=Past
+NUM	Case=Nom	Number=Sing	Number[psor]=Plur	NumType=Card	Person=3	Person[psor]=1
+PRON	Case=Acc	Number=Plur	Number[psor]=Plur	Person=1	Person[psor]=1	Reflex=Yes
+VERB	Aspect=Perf	Mood=Pot	Number[psor]=Sing	Person[psor]=3	Polarity=Neg	Tense=Fut	VerbForm=Part
+VERB	Aspect=Perf	Case=Gen	Mood=Ind	Number[psor]=Sing	Person[psor]=1	Polarity=Pos	Tense=Pres	VerbForm=Vnoun
+VERB	Aspect=Perf	Mood=Pot	Number=Sing	Person=1	Polarity=Neg	Tense=Pqp
+VERB	Aspect=Perf	Mood=Des	Number=Sing	Person=3	Polarity=Pos	Tense=Pres	Voice=Pass
+ADJ	Case=Dat	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=2
+VERB	Aspect=Perf	Mood=Des	Number=Plur	Person=3	Polarity=Pos	Tense=Past
+VERB	Aspect=Perf	Mood=Ind	Number[psor]=Sing	Person[psor]=1	Polarity=Pos	Tense=Fut	VerbForm=Part
+VERB	Aspect=Imp	Mood=Pot	Number=Plur	Person=3	Polarity=Pos	Tense=AorPast
+NOUN	Case=Loc	Number=Sing	Number[psor]=Plur	Person=3	Person[psor]=2
+VERB	Aspect=Prog	Mood=Ind	Number=Plur	Person=3	Polarity=Neg	Polite=Infm	Tense=Pres
+VERB	Aspect=Perf	Case=Nom	Mood=Ind	Polarity=Pos	Tense=Pres	VerbForm=Vnoun	Voice=CauPass
+VERB	Aspect=Perf	Case=Dat	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Neg	Tense=Pres	VerbForm=Vnoun
+PRON	Case=Abl	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=3	Reflex=Yes
+VERB	Aspect=Prog	Mood=Pot	Number=Sing	Person=2	Polarity=Neg	Polite=Infm	Tense=Pres
+VERB	Aspect=Perf	Mood=DesPot	Number=Plur	Person=3	Polarity=Pos	Tense=Past	Voice=Cau
+VERB	Aspect=Perf	Case=Loc	Mood=Ind	Number[psor]=Plur	Person[psor]=3	Polarity=Pos	Tense=Past	VerbForm=Part
+ADJ	Case=Loc	Number=Sing	Number[psor]=Plur	Person=3	Person[psor]=3
+VERB	Aspect=Imp	Mood=Pot	Number=Sing	Person=2	Polarity=Neg	Tense=Aor
+VERB	Aspect=Perf	Mood=Des	Number=Sing	Person=3	Polarity=Neg	Tense=Pres
+ADP	Case=Nom	Number=Sing	Number[psor]=Plur	Person=3	Person[psor]=3
+VERB	Aspect=Perf	Case=Abl	Mood=Ind	Number[psor]=Sing	Person[psor]=2	Polarity=Pos	Tense=Past	VerbForm=Part
+VERB	Aspect=Perf	Case=Abl	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Aspect=Perf	Mood=Pot	Number=Sing	Person=3	Polarity=Neg	Tense=Fut	Voice=Pass
+PRON	Case=Acc	Number=Plur	Number[psor]=Plur	Person=2	Person[psor]=2	PronType=Ind
+VERB	Aspect=Perf	Case=Nom	Mood=Pot	Number[psor]=Sing	Person[psor]=3	Polarity=Neg	Tense=Past	VerbForm=Part
+VERB	Aspect=Imp	Mood=Pot	Number=Sing	Person=3	Polarity=Pos	Tense=Aor	Voice=CauPass
+VERB	Aspect=Imp	Mood=Pot	Number=Sing	Person=3	Polarity=Neg	Tense=AorPast
+ADP	Case=Acc	Number=Sing	Person=3
+VERB	Aspect=Perf	Mood=Opt	Number=Plur	Person=1	Polarity=Pos	Tense=Pres	Voice=Cau
+VERB	Aspect=Prog	Mood=Ind	Number=Plur	Person=3	Polarity=Neg	Polite=Infm	Tense=Past
+VERB	Aspect=Imp	Mood=Pot	Polarity=Pos	Tense=Aor	VerbForm=Part
+NOUN	Case=Loc	Number=Plur	Number[psor]=Sing	Person=3	Person[psor]=1
+VERB	Aspect=Perf	Mood=Pot	Polarity=Pos	Tense=Pres	VerbForm=Part
+VERB	Aspect=Perf	Case=Dat	Mood=Pot	Number[psor]=Sing	Person[psor]=3	Polarity=Neg	Tense=Pres	VerbForm=Vnoun
+VERB	Aspect=Perf	Case=Loc	Mood=Ind	Polarity=Pos	Tense=Pres	VerbForm=Vnoun	Voice=Cau
+NOUN	Case=Gen	Number=Plur	Number[psor]=Plur	Person=3	Person[psor]=2
+VERB	Aspect=Prog	Mood=CndPot	Number=Plur	Person=2	Polarity=Pos	Polite=Infm	Tense=Pres
+PRON	Case=Gen	Number=Sing	Person=3
+PRON	Case=Nom	Number=Sing	Number[psor]=Sing	Person=1	Person[psor]=1	Reflex=Yes
+VERB	Aspect=Perf	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Past	VerbForm=Part	Voice=CauPass
+VERB	Aspect=Prog	Mood=Pot	Number=Plur	Person=3	Polarity=Pos	Polite=Infm	Tense=Pres	Voice=Cau
+VERB	Aspect=Perf	Evident=Nfh	Mood=Ind	Number=Plur	Person=3	Polarity=Neg	Tense=Past
+PRON	Case=Nom	Number=Plur	Number[psor]=Plur	Person=2	Person[psor]=2	Reflex=Yes
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Tense=Aor	VerbForm=Conv	Voice=Pass
+AUX	Aspect=Perf	Evident=Nfh	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Conv
+ADJ	Case=Nom	Number=Sing	Number[psor]=Plur	Person=3	Person[psor]=1
+VERB	Aspect=Perf	Mood=Gen	Number=Sing	Person=3	Polarity=Pos	Tense=Fut	Voice=Pass
+PRON	Case=Dat	Number=Sing	Number[psor]=Sing	Person=1	Person[psor]=1	Reflex=Yes
+ADP	Case=Gen	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=3
+VERB	Aspect=Prog	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Polite=Form	Tense=Pres	Voice=Cau
+NOUN	Case=Abl	Number=Sing	Number[psor]=Plur	Person=3	Person[psor]=3
+ADJ	Case=Nom	Number=Plur	Number[psor]=Sing	Person=3	Person[psor]=2
+PRON	Case=Ins	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=3	PronType=Ind
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=1	Polarity=Neg	Tense=Pqp
+VERB	Aspect=Imp	Mood=Pot	Number=Plur	Person=2	Polarity=Pos	Tense=Aor	Voice=Cau
+PROPN	Case=Abl	Number=Plur	Person=3
+VERB	Aspect=Perf	Evident=Nfh	Mood=Ind	Number=Plur	Person=2	Polarity=Pos	Tense=Past
+NOUN	Case=Nom	Number=Plur	Number[psor]=Plur	Person=3	Person[psor]=2
+VERB	Aspect=Imp	Evident=Nfh	Mood=Pot	Number=Sing	Person=3	Polarity=Pos	Tense=AorPast
+VERB	Aspect=Prog	Mood=Pot	Number=Sing	Person=3	Polarity=Neg	Polite=Infm	Tense=Past	Voice=Cau
+VERB	Aspect=Perf	Case=Abl	Mood=Pot	Number[psor]=Plur	Person[psor]=1	Polarity=Pos	Tense=Fut	VerbForm=Part
+VERB	Aspect=Perf	Mood=Imp	Number=Sing	Person=2	Polarity=Pos	Tense=Pres	Voice=Pass
+VERB	Aspect=Rapid	Mood=Ind	Polarity=Pos	Tense=Pres	VerbForm=Conv
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=1	Polarity=Neg	Tense=Fut
+VERB	Aspect=Perf	Case=Acc	Mood=Ind	Number[psor]=Plur	Person[psor]=3	Polarity=Pos	Tense=Past	VerbForm=Part	Voice=Cau
+NOUN	Case=Abl	Number=Sing	Number[psor]=Plur	Person=3	Person[psor]=1
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=3	Polarity=Pos	Tense=Pqp	Voice=Cau
+PRON	Case=Acc	Number=Sing	Person=3
+VERB	Aspect=Imp	Mood=Pot	Polarity=Pos	Tense=Aor	VerbForm=Part	Voice=Pass
+VERB	Aspect=Perf	Case=Acc	Mood=Ind	Number[psor]=Sing	Person[psor]=1	Polarity=Neg	Tense=Past	VerbForm=Part
+VERB	Aspect=Prog	Mood=Ind	Number=Plur	Person=3	Polarity=Pos	Polite=Infm	Tense=Pres	Voice=Pass
+VERB	Aspect=Perf	Evident=Nfh	Mood=Ind	Polarity=Pos	Tense=Past	VerbForm=Part	Voice=Cau
+VERB	Aspect=Prog	Mood=Gen	Number=Sing	Person=3	Polarity=Pos	Polite=Form	Tense=Pres	Voice=Cau
+VERB	Aspect=Perf	Mood=Des	Number=Sing	Person=1	Polarity=Neg	Tense=Past
+NUM	Case=Dat	Number=Sing	Number[psor]=Sing	NumType=Card	Person=3	Person[psor]=3
+VERB	Aspect=Perf	Case=Loc	Mood=Ind	Number[psor]=Plur	Person[psor]=1	Polarity=Pos	Tense=Pres	VerbForm=Vnoun
+VERB	Aspect=Perf	Case=Abl	Mood=Ind	Polarity=Neg	Tense=Pres	VerbForm=Vnoun
+ADJ	Case=Abl	Number=Plur	Number[psor]=Plur	Person=3	Person[psor]=2
+VERB	Aspect=Perf	Case=Nom	Mood=Ind	Number[psor]=Plur	Person[psor]=2	Polarity=Neg	Tense=Past	VerbForm=Part
+VERB	Aspect=Perf	Case=Ins	Mood=Ind	Polarity=Pos	Tense=Pres	VerbForm=Vnoun	Voice=Pass
+VERB	Aspect=Prog	Mood=Cnd	Number=Plur	Person=2	Polarity=Neg	Polite=Infm	Tense=Pres
+VERB	Aspect=Perf	Case=Ins	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Pres	VerbForm=Vnoun	Voice=Cau
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	Polarity=Neg	Tense=Pqp	Voice=Pass
+PRON	Case=Abl	Number=Plur	Person=1	PronType=Prs
+NUM	Case=Acc	Number=Sing	Number[psor]=Sing	NumType=Card	Person=3	Person[psor]=2
+VERB	Aspect=Perf	Case=Dat	Mood=Ind	Number[psor]=Plur	Person[psor]=2	Polarity=Pos	Tense=Fut	VerbForm=Part
+PRON	Case=Gen	Number=Plur	Number[psor]=Plur	Person=3	Person[psor]=3	Reflex=Yes
+VERB	Aspect=Perf	Case=Acc	Mood=Ind	Number[psor]=Plur	Person[psor]=1	Polarity=Neg	Tense=Past	VerbForm=Part
+VERB	Aspect=Perf	Case=Acc	Mood=Pot	Number[psor]=Plur	Person[psor]=1	Polarity=Pos	Tense=Fut	VerbForm=Part	Voice=Cau
+VERB	Aspect=Perf	Evident=Nfh	Mood=Ind	Number=Sing	Person=2	Polarity=Pos	Tense=Past	Voice=Pass
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Person=3	Polarity=Pos	Tense=Aor	VerbForm=Conv
+NOUN	Case=Ins	Number=Plur	Number[psor]=Sing	Person=3	Person[psor]=2
+VERB	Aspect=Perf	Mood=Nec	Number=Sing	Person=2	Polarity=Pos	Tense=Pres
+VERB	Aspect=Perf	Case=Abl	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Neg	Tense=Fut	VerbForm=Part
+VERB	Aspect=Perf	Case=Abl	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Neg	Tense=Fut	VerbForm=Part	Voice=Pass
+ADP	Number=Sing	Person=3	Tense=Past
+VERB	Aspect=Perf	Mood=Des	Number=Plur	Person=3	Polarity=Neg	Tense=Pres	Voice=Cau
+VERB	Aspect=Perf	Case=Ins	Mood=Ind	Number[psor]=Plur	Person[psor]=3	Polarity=Pos	Tense=Pres	VerbForm=Vnoun	Voice=Cau
+VERB	Aspect=Imp	Mood=Cnd	Number=Sing	Person=1	Polarity=Pos	Tense=Aor	Voice=Pass
+VERB	Aspect=Perf	Case=Acc	Mood=Pot	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Fut	VerbForm=Part
+VERB	Aspect=Prog	Mood=Pot	Number=Plur	Person=3	Polarity=Pos	Polite=Infm	Tense=Pres
+ADJ	Case=Acc	Number=Plur	Number[psor]=Plur	Person=3	Person[psor]=3
+VERB	Aspect=Perf	Mood=Pot	Number[psor]=Sing	Person[psor]=2	Polarity=Neg	Tense=Past	VerbForm=Part
+VERB	Aspect=Perf	Mood=Ind	Number[psor]=Plur	Person[psor]=3	Polarity=Pos	Tense=Fut	VerbForm=Part
+VERB	Aspect=Perf	Mood=GenNec	Number=Sing	Person=3	Polarity=Pos	Tense=Pres	Voice=Pass
+ADJ	Case=Gen	Number=Sing	Number[psor]=Plur	Person=3	Person[psor]=3
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Tense=FutPast	Voice=Pass
+VERB	Aspect=Perf	Mood=Ind	Polarity=Neg	Tense=Pres	VerbForm=Part	Voice=CauPass
+VERB	Aspect=Rapid	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Tense=Aor	Voice=Pass
+VERB	Aspect=Perf	Mood=Pot	Polarity=Neg	Tense=Fut	VerbForm=Part	Voice=Pass
+NOUN	Case=Ins	Number=Plur	Number[psor]=Plur	Person=3	Person[psor]=1
+PRON	Case=Gen	Number=Plur	Number[psor]=Plur	Person=1	Person[psor]=1	PronType=Ind
+AUX	Aspect=Perf	Evident=Nfh	Mood=Ind	Number=Plur	Person=1	Tense=Past
+VERB	Aspect=Prog	Mood=Ind	Number=Sing	Person=2	Polarity=Pos	Polite=Infm	Tense=Pres	Voice=Cau
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Person=1	Polarity=Pos	Tense=Aor	Voice=Pass
+ADP	Case=Ins	Number=Sing	Person=3
+VERB	Aspect=Prog	Evident=Nfh	Mood=Ind	Number=Sing	Person=1	Polarity=Pos	Polite=Infm	Tense=Past
+VERB	Aspect=Perf	Evident=Nfh	Mood=Cnd	Number=Plur	Person=3	Polarity=Pos	Tense=Past
+VERB	Aspect=Prog	Mood=Ind	Number=Plur	Person=3	Polarity=Pos	Polite=Infm	Tense=Pres	Voice=Cau
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	Polarity=Neg	Tense=Fut	Voice=Pass
+VERB	Aspect=Perf	Case=Nom	Mood=Pot	Number[psor]=Plur	Person[psor]=3	Polarity=Pos	Tense=Pres	VerbForm=Vnoun
+VERB	Aspect=Perf	Mood=Des	Number=Sing	Person=1	Polarity=Neg	Tense=Pres
+VERB	Aspect=Perf	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Neg	Tense=Fut	VerbForm=Part	Voice=Pass
+VERB	Aspect=Perf	Mood=Pot	Number=Plur	Person=2	Polarity=Pos	Tense=Past
+VERB	Aspect=Perf	Evident=Nfh	Mood=Ind	Number=Sing	Person=3	Polarity=Neg	Tense=FutPast
+VERB	Aspect=Perf	Case=Equ	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Past	VerbForm=Part
+VERB	Aspect=Perf	Mood=Ind	Number[psor]=Plur	Person[psor]=3	Polarity=Neg	Tense=Past	VerbForm=Part
+VERB	Aspect=Imp	Mood=Pot	Number=Sing	Person=3	Polarity=Neg	Tense=AorPast	Voice=Pass
+VERB	Aspect=Perf	Mood=Nec	Number=Sing	Person=3	Polarity=Pos	Tense=Pres	Voice=Pass
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=2	Polarity=Pos	Tense=Past	Voice=Cau
+VERB	Aspect=Prog	Evident=Nfh	Mood=Ind	Number=Plur	Person=3	Polarity=Neg	Polite=Infm	Tense=Past
+AUX	Aspect=Perf	Mood=Gen	Number=Plur	Person=2	Tense=Pres
+VERB	Aspect=Perf	Case=Ins	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Pres	VerbForm=Vnoun	Voice=CauPass
+VERB	Aspect=Perf	Mood=Cnd	Number=Sing	Person=3	Polarity=Pos	Tense=Fut
+VERB	Aspect=Perf	Case=Nom	Mood=Ind	Number[psor]=Sing	Person[psor]=2	Polarity=Neg	Tense=Pres	VerbForm=Vnoun	Voice=Pass
+VERB	Aspect=Perf	Case=Nom	Mood=Ind	Number[psor]=Sing	Person[psor]=2	Polarity=Neg	Tense=Pres	VerbForm=Vnoun
+VERB	Aspect=Perf	Case=Dat	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Past	VerbForm=Part	Voice=Cau
+VERB	Aspect=Prog	Mood=Gen	Number=Sing	Person=3	Polarity=Pos	Polite=Infm	Tense=Pres
+VERB	Aspect=Prog	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Polite=Form	Tense=Past
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Tense=Fut	Voice=Cau
+VERB	Aspect=Prog	Mood=Ind	Number=Sing	Person=3	Polarity=Neg	Polite=Infm	Tense=Pres	Voice=Cau
+VERB	Aspect=Perf	Case=Gen	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Fut	VerbForm=Part
+VERB	Aspect=Perf	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Neg	Tense=Fut	VerbForm=Part
+VERB	Aspect=Perf	Mood=Des	Number=Sing	Person=3	Polarity=Pos	Tense=Pres	Voice=Cau
+AUX	Aspect=Perf	Mood=Cnd	Number=Sing	Person=1	Tense=Pres
+VERB	Aspect=Perf	Case=Acc	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Pres	VerbForm=Vnoun	Voice=Cau
+VERB	Aspect=Imp	Mood=Pot	Number=Plur	Person=2	Polarity=Pos	Tense=Aor
+VERB	Aspect=Prog	Mood=Pot	Number=Plur	Person=3	Polarity=Neg	Polite=Infm	Tense=Pres
+ADP	Case=Nom	Number=Plur	Number[psor]=Sing	Person=3	Person[psor]=3
+VERB	Aspect=Imp	Mood=Pot	Number=Sing	Person=3	Polarity=Pos	Tense=AorPast	Voice=Pass
+VERB	Aspect=Perf	Mood=Ind	Polarity=Neg	Tense=Pres	VerbForm=Part	Voice=Cau
+VERB	Aspect=Prog	Mood=Pot	Number=Sing	Person=3	Polarity=Pos	Polite=Infm	Tense=Past
+ADJ	Case=Gen	Number=Plur	Number[psor]=Plur	Person=3	Person[psor]=3
+VERB	Aspect=Prog	Mood=Pot	Number=Sing	Person=3	Polarity=Pos	Polite=Infm	Tense=Pres	Voice=Pass
+VERB	Aspect=Perf	Evident=Nfh	Mood=Pot	Number=Sing	Person=3	Polarity=Neg	Tense=Past
+NUM	Case=Abl	Number=Sing	Number[psor]=Plur	NumType=Card	Person=3	Person[psor]=1
+PRON	Case=Abl	Number=Plur	Person=2	PronType=Prs
+VERB	Aspect=Perf	Evident=Nfh	Mood=Gen	Number=Plur	Person=3	Polarity=Pos	Tense=Past	Voice=Cau
+VERB	Aspect=Perf	Mood=Des	Number=Sing	Person=2	Polarity=Pos	Tense=Past
+PRON	Case=Nom	Number=Plur	Number[psor]=Plur	Person=2	Person[psor]=2	PronType=Ind
+NOUN	Case=Abl	Number=Plur	Number[psor]=Sing	Person=3	Person[psor]=1
+NUM	Case=Gen	Number=Sing	Number[psor]=Sing	NumType=Card	Person=3	Person[psor]=3
+ADP	Case=Dat	Number=Plur	Person=3
+VERB	Aspect=Perf	Mood=Pot	Number[psor]=Plur	Person[psor]=1	Polarity=Neg	Tense=Past	VerbForm=Part
+ADP	Case=Dat	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=1
+ADJ	Case=Ins	Number=Sing	Number[psor]=Sing	Person=3	Person[psor]=2
+VERB	Aspect=Perf	Case=Dat	Mood=Ind	Number[psor]=Sing	Person[psor]=3	Polarity=Pos	Tense=Fut	VerbForm=Part	Voice=Cau

@@ -1,0 +1,4009 @@
+!	!	PUNCT	!	_	
+"	"	PUNCT	"	_	
+%	%	NOUN	Ny	_	
+%	%	NUM	M	NumType=Card	
+&	&	NOUN	Ny	_	
+&	&	SCONJ	CC	_	
+&	&	X	Y	_	
+,	,	PUNCT	,	_	
+-	-	PUNCT	-	_	
+...	...	PUNCT	...	_	
+.	.	PUNCT	.	_	
+/	/	PUNCT	NP	_	
+1, 5	1, 5	NUM	M	NumType=Card	
+10 - 15	10 - 15	NUM	M	NumType=Card	
+10 - 8	10 - 8	NUM	M	NumType=Card	
+100 %	100 %	NUM	M	NumType=Card	
+100	100	NUM	M	NumType=Card	
+10	10	NUM	M	NumType=Card	
+109	109	NUM	M	NumType=Card	
+11 - 8	11 - 8	NUM	M	NumType=Card	
+11	11	NUM	M	NumType=Card	
+115	115	NUM	M	NumType=Card	
+1	1	NUM	M	NumType=Card	
+12 - 2003	12 - 2003	NOUN	N	_	
+12	12	NUM	M	NumType=Card	
+13	13	NUM	M	NumType=Card	
+150	150	NUM	M	NumType=Card	
+15	15	NUM	M	NumType=Card	
+160	160	NUM	M	NumType=Card	
+16	16	NUM	M	NumType=Card	
+17 - 3 – 2004	17 - 3 – 2004	NUM	M	NumType=Card	
+17	17	NUM	M	NumType=Card	
+176	176	NUM	M	NumType=Card	
+18	18	NUM	M	NumType=Card	
+1890	1890	NUM	M	NumType=Card	
+1968	1968	NUM	M	NumType=Card	
+1980	1980	NUM	M	NumType=Card	
+1990	1990	NUM	M	NumType=Card	
+1993	1993	NUM	M	NumType=Card	
+1998	1998	NUM	M	NumType=Card	
+2,2	2,2	NUM	M	NumType=Card	
+20 - 25	20 - 25	NUM	M	NumType=Card	
+200	200	NUM	M	NumType=Card	
+2003	2003	NUM	M	NumType=Card	
+2004	2004	NUM	M	NumType=Card	
+2007	2007	NUM	M	NumType=Card	
+20	20	NUM	M	NumType=Card	
+205	205	NUM	M	NumType=Card	
+206	206	NUM	M	NumType=Card	
+21	21	NUM	M	NumType=Card	
+22	22	NUM	M	NumType=Card	
+223	223	NUM	M	NumType=Card	
+229	229	NUM	M	NumType=Card	
+2	2	NUM	M	NumType=Card	
+23-3	23-3	NUM	M	NumType=Card	
+23	23	NUM	M	NumType=Card	
+24-3	24-3	NUM	M	NumType=Card	
+24	24	NUM	M	NumType=Card	
+25 . 000	25 . 000	NUM	M	NumType=Card	
+25	25	NUM	M	NumType=Card	
+26	26	NUM	M	NumType=Card	
+28	28	NUM	M	NumType=Card	
+29	29	NUM	M	NumType=Card	
+30-4-1975	30-4-1975	NUM	M	NumType=Card	
+30	30	NUM	M	NumType=Card	
+31 - 12 – 2004	31 - 12 – 2004	NUM	M	NumType=Card	
+31	31	NUM	M	NumType=Card	
+327	327	NUM	M	NumType=Card	
+3	3	NUM	M	NumType=Card	
+35	35	NUM	M	NumType=Card	
+36	36	NUM	M	NumType=Card	
+37	37	NUM	M	NumType=Card	
+375	375	NUM	M	NumType=Card	
+39	39	NUM	M	NumType=Card	
+4-Jan	4-Jan	NUM	M	NumType=Card	
+40 - 60	40 - 60	NUM	M	NumType=Card	
+40	40	NUM	M	NumType=Card	
+43H-016	43H-016	NOUN	Ny	_	
+4	4	NUM	M	NumType=Card	
+478	478	NUM	M	NumType=Card	
+4D	4D	NUM	M	NumType=Card	
+500 . 000	500 . 000	NUM	M	NumType=Card	
+500	500	NUM	M	NumType=Card	
+50	50	NUM	M	NumType=Card	
+51	51	NUM	M	NumType=Card	
+52	52	NUM	M	NumType=Card	
+54N-7	54N-7	NOUN	Ny	_	
+555	555	NUM	M	NumType=Card	
+5	5	NUM	M	NumType=Card	
+5727780	5727780	NUM	M	NumType=Card	
+59	59	NUM	M	NumType=Card	
+652	652	NUM	M	NumType=Card	
+6	6	NUM	M	NumType=Card	
+672	672	NUM	M	NumType=Card	
+68	68	NUM	M	NumType=Card	
+70 . 000 - 150 . 000	70 . 000 - 150 . 000	NUM	M	NumType=Card	
+70	70	NUM	M	NumType=Card	
+750	750	NUM	M	NumType=Card	
+7	7	NUM	M	NumType=Card	
+79	79	NUM	M	NumType=Card	
+8 – 2003	8 – 2003	NUM	M	NumType=Card	
+80	80	NUM	M	NumType=Card	
+83	83	NUM	M	NumType=Card	
+84 . 4	84 . 4	NUM	M	NumType=Card	
+85,354	85,354	NUM	M	NumType=Card	
+8529126	8529126	NUM	M	NumType=Card	
+864	864	NUM	M	NumType=Card	
+88	88	NUM	M	NumType=Card	
+8	8	NUM	M	NumType=Card	
+903404554	903404554	NUM	M	NumType=Card	
+90	90	NUM	M	NumType=Card	
+91	91	NUM	M	NumType=Card	
+93	93	NUM	M	NumType=Card	
+95	95	NUM	M	NumType=Card	
+98	98	NUM	M	NumType=Card	
+999	999	NUM	M	NumType=Card	
+9	9	NUM	M	NumType=Card	
+:	:	PUNCT	:	_	
+;	;	PUNCT	;	_	
+?	?	PUNCT	?	_	
+@	@	PUNCT	@	_	
+A5	A5	NOUN	Np	_	
+A5	A5	NOUN	Ny	_	
+Ai nấy	Ai nấy	PROPN	P	_	
+Ai	Ai	PROPN	P	_	
+Anh ta	Anh ta	NOUN	N	_	
+Anh	Anh	NOUN	N	_	
+Anh	Anh	NOUN	Np	_	
+B	B	NOUN	Ny	_	
+BH	BH	NOUN	Ny	_	
+BT2	BT2	NOUN	Ny	_	
+BV	BV	NOUN	Ny	_	
+Ba	Ba	NUM	M	NumType=Card	
+Ban đầu	Ban đầu	NOUN	N	_	
+Biên Hòa	Biên Hòa	NOUN	Np	_	
+Buổi sáng	Buổi sáng	NOUN	N	_	
+Bà con	Bà con	NOUN	N	_	
+Bà cụ	Bà cụ	NOUN	N	_	
+Bà	Bà	NOUN	N	_	
+Bác Hồ	Bác Hồ	NOUN	Np	_	
+Bác sĩ	Bác sĩ	NOUN	N	_	
+Báo chí	Báo chí	NOUN	N	_	
+Bãi Sậy	Bãi Sậy	NOUN	Np	_	
+Bình Dương	Bình Dương	NOUN	N	_	
+Bình Dương	Bình Dương	NOUN	Np	_	
+Bình Triệu	Bình Triệu	NOUN	Np	_	
+Bình thường	Bình thường	ADJ	A	_	
+Bình	Bình	NOUN	Np	_	
+Bùi Văn Huấn	Bùi Văn Huấn	NOUN	Np	_	
+Bùi Văn Luyến	Bùi Văn Luyến	NOUN	Np	_	
+Bước đầu	Bước đầu	NOUN	N	_	
+Bưởi	Bưởi	NOUN	Np	_	
+Bạch Đằng	Bạch Đằng	NOUN	Np	_	
+Bạn	Bạn	NOUN	N	_	
+Bản T hung	Bản T hung	NOUN	Np	_	
+Bảy	Bảy	NUM	M	NumType=Card	
+Bất cứ	Bất cứ	X	R	_	
+Bất ngờ	Bất ngờ	ADJ	A	_	
+Bấy nhiêu	Bấy nhiêu	DET	L	_	
+Bắc Ninh	Bắc Ninh	NOUN	Np	_	
+Bằng	Bằng	NOUN	Np	_	
+Bị cáo	Bị cáo	NOUN	N	_	
+Bốn	Bốn	NUM	M	NumType=Card	
+Bộ trưởng	Bộ trưởng	NOUN	N	_	
+Bộ	Bộ	NOUN	N	_	
+Bởi	Bởi	CCONJ	C	_	
+CB	CB	NOUN	Ny	_	
+CC	CC	SCONJ	CC	_	
+CSGT	CSGT	NOUN	Ny	_	
+Cha mẹ	Cha mẹ	NOUN	N	_	
+Champasak	Champasak	NOUN	Np	_	
+Cháu	Cháu	NOUN	N	_	
+Chính phủ	Chính phủ	NOUN	N	_	
+Chính phủ	Chính phủ	NOUN	Np	_	
+Chính quyền	Chính quyền	NOUN	N	_	
+Chính sách	Chính sách	NOUN	N	_	
+Chính	Chính	PART	T	_	
+Chúng tôi	Chúng tôi	NOUN	N	_	
+Chúng tôi	Chúng tôi	PROPN	P	_	
+Chưa	Chưa	X	R	_	
+Chắc chắn	Chắc chắn	ADJ	A	_	
+Chỉ	Chỉ	X	R	_	
+Chị ta	Chị ta	NOUN	N	_	
+Chị	Chị	NOUN	N	_	
+Chị	Chị	NOUN	Np	_	
+Chồng chưa cưới	Chồng chưa cưới	NOUN	N	_	
+Chủ trương	Chủ trương	NOUN	N	_	
+Coi bộ	Coi bộ	X	R	_	
+Con	Con	NOUN	N	_	
+Cuối cùng	Cuối cùng	ADJ	A	_	
+Cuộc sống	Cuộc sống	NOUN	N	_	
+Các	Các	DET	L	_	
+Câu chuyện	Câu chuyện	NOUN	N	_	
+Còn	Còn	CCONJ	C	_	
+Còn	Còn	X	R	_	
+Có lẽ	Có lẽ	X	R	_	
+Có lẽ	Có lẽ	X	X	_	
+Có thể	Có thể	X	R	_	
+Có	Có	X	R	_	
+Cô gái	Cô gái	NOUN	N	_	
+Cô ta	Cô ta	NOUN	N	_	
+Cô	Cô	NOUN	N	_	
+Công ty	Công ty	NOUN	N	_	
+Công việc	Công việc	NOUN	N	_	
+Cúc	Cúc	NOUN	Np	_	
+Cũng	Cũng	X	R	_	
+Cả	Cả	PROPN	P	_	
+Cấp nước	Cấp nước	NOUN	N	_	
+Cặp	Cặp	NUM	M	NumType=Card	
+Cụ thể	Cụ thể	ADJ	A	_	
+Củ Chi	Củ Chi	NOUN	Np	_	
+Cứ	Cứ	X	R	_	
+Cự	Cự	NOUN	Np	_	
+Cựu chiến binh	Cựu chiến binh	NOUN	N	_	
+DN	DN	NOUN	Ny	_	
+Do vậy	Do vậy	CCONJ	C	_	
+Do	Do	ADP	E	_	
+Down	Down	NOUN	Nb	_	
+Du học sinh	Du học sinh	NOUN	N	_	
+Dân	Dân	NOUN	N	_	
+Dân	Dân	NOUN	Np	_	
+Dù vậy	Dù vậy	CCONJ	C	_	
+Dù	Dù	CCONJ	C	_	
+Dũng	Dũng	NOUN	Np	_	
+Dương Văn Nam	Dương Văn Nam	NOUN	Np	_	
+Dường như	Dường như	X	R	_	
+Dầu Giây	Dầu Giây	NOUN	Np	_	
+Em	Em	NOUN	N	_	
+FX	FX	NOUN	Np	_	
+GD	GD	NOUN	Ny	_	
+GTCC	GTCC	NOUN	Ny	_	
+Gia đình	Gia đình	NOUN	N	_	
+Giá	Giá	NOUN	N	_	
+Giọng	Giọng	NOUN	N	_	
+Giờ đây	Giờ đây	PROPN	P	_	
+Giờ	Giờ	NOUN	N	_	
+Gần	Gần	ADJ	A	_	
+H.	H.	NOUN	Ny	_	
+HCM	HCM	NOUN	Np	_	
+HCM	HCM	NOUN	Ny	_	
+H	H	X	X	_	
+HIV	HIV	X	Y	_	
+Hai Bà Trưng	Hai Bà Trưng	NOUN	Np	_	
+Hai	Hai	NUM	M	NumType=Card	
+Hay	Hay	CCONJ	C	_	
+Hiểm họa	Hiểm họa	NOUN	N	_	
+Hiện nay	Hiện nay	NOUN	N	_	
+Hiện thời	Hiện thời	NOUN	N	_	
+Hiện	Hiện	NOUN	N	_	
+Hoa	Hoa	NOUN	Np	_	
+Hoạn Thư	Hoạn Thư	NOUN	Np	_	
+Hoặc	Hoặc	CCONJ	C	_	
+Hà Nam	Hà Nam	NOUN	Np	_	
+Hà Nội	Hà Nội	NOUN	N	_	
+Hà Nội	Hà Nội	NOUN	Np	_	
+Hàng Hành	Hàng Hành	NOUN	Np	_	
+Hàng Mành	Hàng Mành	NOUN	Np	_	
+Hàng phố	Hàng phố	NOUN	N	_	
+Hào	Hào	NOUN	Np	_	
+Hãng	Hãng	NOUN	N	_	
+Hãy	Hãy	X	R	_	
+Hình như	Hình như	X	R	_	
+Hòa	Hòa	NOUN	Np	_	
+Hôm nay	Hôm nay	NOUN	N	_	
+Hùng	Hùng	NOUN	Np	_	
+Hùng	Hùng	PROPN	P	_	
+HĐND	HĐND	NOUN	Ny	_	
+HĐXX	HĐXX	NOUN	Ny	_	
+Hơn nữa	Hơn nữa	CCONJ	C	_	
+Hơn nữa	Hơn nữa	X	X	_	
+Hạ tầng cơ sở	Hạ tầng cơ sở	NOUN	N	_	
+Hạnh	Hạnh	NOUN	Np	_	
+Hải	Hải	NOUN	Np	_	
+Hậu	Hậu	NOUN	Np	_	
+Hằng	Hằng	X	R	_	
+Hễ	Hễ	CCONJ	C	_	
+Họ	Họ	NOUN	N	_	
+Họ	Họ	PROPN	P	_	
+Hồ Chí Minh	Hồ Chí Minh	NOUN	Np	_	
+Hồ Văn Trương	Hồ Văn Trương	NOUN	Np	_	
+Hồng Lĩnh	Hồng Lĩnh	NOUN	Np	_	
+Hồng	Hồng	NOUN	Np	_	
+Hộ khẩu	Hộ khẩu	NOUN	N	_	
+Hội An	Hội An	NOUN	Np	_	
+Hữu Nghị	Hữu Nghị	NOUN	Np	_	
+II	II	NUM	M	NumType=Card	
+IX	IX	NUM	M	NumType=Card	
+Ia Me	Ia Me	NOUN	Np	_	
+James	James	NOUN	Np	_	
+KHĐT	KHĐT	NOUN	Ny	_	
+K	K	NOUN	Ny	_	
+Kem Kjang	Kem Kjang	NOUN	Np	_	
+Ketmany	Ketmany	NOUN	Np	_	
+Kho	Kho	NOUN	Np	_	
+Khoa	Khoa	NOUN	Np	_	
+Khoán	Khoán	NOUN	Np	_	
+Khách	Khách	NOUN	N	_	
+Không những	Không những	CCONJ	C	_	
+Không	Không	X	R	Polarity=Neg	
+Khảo sát	Khảo sát	VERB	V	_	
+Khổng Lệ Hòa	Khổng Lệ Hòa	NOUN	Np	_	
+Kia	Kia	PROPN	P	_	
+Kinh tế	Kinh tế	NOUN	N	_	
+Kế hoạch	Kế hoạch	NOUN	N	_	
+Kịch bản	Kịch bản	NOUN	N	_	
+LBKT	LBKT	PUNCT	LBKT	_	
+L	L	DET	L	_	
+La Ngà	La Ngà	NOUN	Np	_	
+Lam	Lam	NOUN	Np	_	
+Lan	Lan	NOUN	N	_	
+Lan	Lan	NOUN	Np	_	
+Lao động	Lao động	NOUN	N	_	
+Liên	Liên	NOUN	Np	_	
+Liễu	Liễu	NOUN	Np	_	
+Liệu	Liệu	VERB	V	_	
+Loan	Loan	NOUN	Np	_	
+Long	Long	NOUN	Np	_	
+Luyến	Luyến	NOUN	Np	_	
+Luân	Luân	NOUN	Np	_	
+Luật	Luật	NOUN	N	_	
+Lào	Lào	NOUN	Np	_	
+Lâm Đồng	Lâm Đồng	NOUN	N	_	
+Lâm Đồng	Lâm Đồng	NOUN	Np	_	
+Lâm	Lâm	NOUN	Np	_	
+Lâu lâu	Lâu lâu	X	R	_	
+Lã Thị Kim Oanh	Lã Thị Kim Oanh	NOUN	Np	_	
+Lê Huy Ngọ	Lê Huy Ngọ	NOUN	Np	_	
+Lê Thanh Hải	Lê Thanh Hải	NOUN	Np	_	
+Lênin	Lênin	NOUN	Np	_	
+Lý do	Lý do	NOUN	N	_	
+Lại nữa	Lại nữa	CCONJ	C	_	
+Lại	Lại	X	R	_	
+Lần lượt	Lần lượt	X	R	_	
+Lập tức	Lập tức	X	R	_	
+Lẽ ra	Lẽ ra	X	X	_	
+Lỗi	Lỗi	NOUN	N	_	
+Mai Quốc Bình	Mai Quốc Bình	NOUN	Np	_	
+Mai Văn Khuê	Mai Văn Khuê	NOUN	Np	_	
+Mai Ái Trực	Mai Ái Trực	NOUN	Np	_	
+Mai Động	Mai Động	NOUN	Np	_	
+Malaysia	Malaysia	NOUN	Np	_	
+Matiz	Matiz	NOUN	Np	_	
+Matxcơva	Matxcơva	NOUN	Np	_	
+Minh	Minh	NOUN	Np	_	
+Mát	Mát	NOUN	Np	_	
+Mâu thuẫn	Mâu thuẫn	NOUN	N	_	
+Mình	Mình	NOUN	N	_	
+Mình	Mình	PROPN	P	_	
+Mười	Mười	NUM	M	NumType=Card	
+Mấy	Mấy	DET	L	_	
+Mặc dù	Mặc dù	CCONJ	C	_	
+Mặt khác	Mặt khác	X	X	_	
+Mọi	Mọi	DET	L	_	
+Mỗi	Mỗi	DET	L	_	
+Mỗi	Mỗi	NUM	M	NumType=Card	
+Một	Một	NUM	M	NumType=Card	
+Mới	Mới	X	R	_	
+Mỹ	Mỹ	NOUN	Np	_	
+NH	NH	NOUN	Ny	_	
+NN	NN	NOUN	Ny	_	
+NVƠNN	NVƠNN	NOUN	Ny	_	
+Nam bộ	Nam bộ	NOUN	Np	_	
+Nam kỳ	Nam kỳ	NOUN	Np	_	
+Nam Định	Nam Định	NOUN	Np	_	
+Nam	Nam	NOUN	Np	_	
+Nay	Nay	NOUN	N	_	
+Nay	Nay	PROPN	P	_	
+Ngay	Ngay	PART	T	_	
+Nghĩa là	Nghĩa là	X	X	_	
+Nghĩa	Nghĩa	NOUN	Np	_	
+Nghề nghiệp	Nghề nghiệp	NOUN	N	_	
+Ngoài ra	Ngoài ra	CCONJ	C	_	
+Ngoại giao	Ngoại giao	NOUN	Np	_	
+Nguyên nhân	Nguyên nhân	NOUN	N	_	
+Nguyên	Nguyên	NOUN	Np	_	
+Nguyễn Cao Toản	Nguyễn Cao Toản	NOUN	Np	_	
+Nguyễn Hữu Cầu	Nguyễn Hữu Cầu	NOUN	Np	_	
+Nguyễn Hữu Vinh	Nguyễn Hữu Vinh	NOUN	Np	_	
+Nguyễn Minh Triết	Nguyễn Minh Triết	NOUN	Np	_	
+Nguyễn Sơn Nam	Nguyễn Sơn Nam	NOUN	Np	_	
+Nguyễn Thiện Luân	Nguyễn Thiện Luân	NOUN	Np	_	
+Nguyễn Thiện Nhân	Nguyễn Thiện Nhân	NOUN	Np	_	
+Nguyễn Thiện Thuật	Nguyễn Thiện Thuật	NOUN	Np	_	
+Nguyễn Thành Phương	Nguyễn Thành Phương	NOUN	Np	_	
+Nguyễn Thành Thượng	Nguyễn Thành Thượng	NOUN	Np	_	
+Nguyễn Thế Khanh	Nguyễn Thế Khanh	NOUN	Np	_	
+Nguyễn Thị Sinh	Nguyễn Thị Sinh	NOUN	Np	_	
+Nguyễn Thị Viện	Nguyễn Thị Viện	NOUN	Np	_	
+Nguyễn Văn Chí	Nguyễn Văn Chí	NOUN	Np	_	
+Nguyễn Văn Minh	Nguyễn Văn Minh	NOUN	Np	_	
+Nguyễn Văn Thuật	Nguyễn Văn Thuật	NOUN	Np	_	
+Nguyễn Ái Quốc	Nguyễn Ái Quốc	NOUN	Np	_	
+Ngày mai	Ngày mai	NOUN	N	_	
+Người ta	Người ta	NOUN	N	_	
+Người	Người	NOUN	N	_	
+Người	Người	NOUN	Np	_	
+Ngược lại	Ngược lại	X	X	_	
+Ngọ	Ngọ	NOUN	Np	_	
+Nhi	Nhi	NOUN	Np	_	
+Nhiều	Nhiều	ADJ	A	_	
+Nhu	Nhu	NOUN	N	_	
+Nhu	Nhu	NOUN	Np	_	
+Nhà nước	Nhà nước	NOUN	N	_	
+Nhà Đèn	Nhà Đèn	NOUN	Np	_	
+Nhân lực	Nhân lực	NOUN	N	_	
+Nhã	Nhã	NOUN	Np	_	
+Như vậy	Như vậy	CCONJ	C	_	
+Như	Như	CCONJ	C	_	
+Nhưng	Nhưng	CCONJ	C	_	
+Nhất là	Nhất là	X	X	_	
+Nhật	Nhật	NOUN	Np	_	
+Những	Những	DET	L	_	
+Nào	Nào	CCONJ	C	_	
+Nên	Nên	CCONJ	C	_	
+Nó	Nó	PROPN	P	_	
+Năm	Năm	NUM	M	NumType=Card	
+Nước	Nước	NOUN	N	_	
+Nếu	Nếu	CCONJ	C	_	
+Nội vụ	Nội vụ	NOUN	N	_	
+Nửa	Nửa	DET	L	_	
+Nữ sinh	Nữ sinh	NOUN	N	_	
+Online	Online	NOUN	Np	_	
+PTNT	PTNT	NOUN	Ny	_	
+PV	PV	NOUN	Ny	_	
+PakSe	PakSe	NOUN	Np	_	
+Pakse	Pakse	NOUN	Np	_	
+Phan Văn Khải	Phan Văn Khải	NOUN	Np	_	
+Phan Văn Quán	Phan Văn Quán	NOUN	Np	_	
+Phong	Phong	NOUN	Np	_	
+Pháo Đài Láng	Pháo Đài Láng	NOUN	Np	_	
+Pháp Luật	Pháp Luật	NOUN	Np	_	
+Pháp	Pháp	NOUN	Np	_	
+Phó Chủ tịch	Phó Chủ tịch	NOUN	N	_	
+Phó	Phó	X	Z	_	
+Phú Hữu	Phú Hữu	NOUN	Np	_	
+Phú Yên	Phú Yên	NOUN	Np	_	
+Phú	Phú	NOUN	Np	_	
+Phương	Phương	NOUN	Np	_	
+Phạm Hồng Giang	Phạm Hồng Giang	NOUN	Np	_	
+Phạm Ngọc Khang	Phạm Ngọc Khang	NOUN	Np	_	
+Phạm Văn Thanh	Phạm Văn Thanh	NOUN	Np	_	
+Phạm Xuân Ái	Phạm Xuân Ái	NOUN	Np	_	
+Phải chăng	Phải chăng	X	X	_	
+Phần lớn	Phần lớn	DET	L	_	
+Phố	Phố	NOUN	Np	_	
+Quang	Quang	NOUN	Np	_	
+Quân đội	Quân đội	NOUN	N	_	
+Quê Hương	Quê Hương	NOUN	Np	_	
+Quả thật	Quả thật	X	R	_	
+Quỳnh	Quỳnh	NOUN	Np	_	
+RBKT	RBKT	PUNCT	RBKT	_	
+Riêng	Riêng	PART	T	_	
+Ruộng	Ruộng	NOUN	N	_	
+Rùa	Rùa	NOUN	Np	_	
+Rùi	Rùi	CCONJ	C	_	
+Rạch Cát	Rạch Cát	NOUN	Np	_	
+Rất	Rất	X	R	_	
+Rồi	Rồi	CCONJ	C	_	
+SUNY Brockport Vietnam	SUNY Brockport Vietnam	NOUN	Np	_	
+Sanofi	Sanofi	NOUN	Np	_	
+Sao	Sao	PROPN	P	_	
+Sea Games 22	Sea Games 22	NOUN	Np	_	
+Sinh	Sinh	NOUN	Np	_	
+Song	Song	CCONJ	C	_	
+Sài Gòn	Sài Gòn	NOUN	Np	_	
+Sàng lọc	Sàng lọc	VERB	V	_	
+Sáng	Sáng	NOUN	N	_	
+Sáu Chí	Sáu Chí	NOUN	Np	_	
+Sân Bay	Sân Bay	NOUN	Np	_	
+Sông Cầu	Sông Cầu	NOUN	Np	_	
+Sắp	Sắp	X	R	_	
+Sẽ	Sẽ	X	R	_	
+THCS	THCS	NOUN	Ny	_	
+THPT	THPT	NOUN	Ny	_	
+TNHH	TNHH	NOUN	Ny	_	
+TP . HCM	TP . HCM	NOUN	Ny	_	
+TP .HCM	TP .HCM	NOUN	Ny	_	
+TP HCM	TP HCM	NOUN	Ny	_	
+TP. HCM	TP. HCM	NOUN	Ny	_	
+TP.HCM	TP.HCM	NOUN	Ny	_	
+TP.	TP.	NOUN	Ny	_	
+TP	TP	NOUN	Ny	_	
+TT	TT	NOUN	Ny	_	
+Thanh Nhàn	Thanh Nhàn	NOUN	Np	_	
+Thanh	Thanh	NOUN	Np	_	
+Thành Bỉ	Thành Bỉ	NOUN	Np	_	
+Thành Hưng	Thành Hưng	NOUN	Np	_	
+Thành phố	Thành phố	NOUN	N	_	
+Thành ủy	Thành ủy	NOUN	N	_	
+Thành	Thành	NOUN	Np	_	
+Thái Bình	Thái Bình	NOUN	Np	_	
+Thái Mỹ	Thái Mỹ	NOUN	Np	_	
+Tháng Tám	Tháng Tám	NOUN	N	_	
+Tháng Tám	Tháng Tám	NOUN	Np	_	
+Thì ra	Thì ra	X	X	_	
+Thôi	Thôi	PART	T	_	
+Thư	Thư	NOUN	Np	_	
+Thảo	Thảo	NOUN	Np	_	
+Thậm chí	Thậm chí	X	R	_	
+Thật ra	Thật ra	X	R	_	
+Thật	Thật	PART	T	_	
+Thắng	Thắng	NOUN	Np	_	
+Thế là	Thế là	CCONJ	C	_	
+Thế là	Thế là	X	X	_	
+Thế mà	Thế mà	X	X	_	
+Thế nhưng	Thế nhưng	CCONJ	C	_	
+Thế	Thế	PART	T	_	
+Thỉnh thoảng	Thỉnh thoảng	X	R	_	
+Thủ tục	Thủ tục	NOUN	N	_	
+Thực chất	Thực chất	NOUN	N	_	
+Ti	Ti	NOUN	Np	_	
+Tiến	Tiến	NOUN	Np	_	
+Tiếp cận	Tiếp cận	VERB	V	_	
+Tiếp thị	Tiếp thị	NOUN	Np	_	
+Tiếp thị	Tiếp thị	VERB	V	_	
+Tiền	Tiền	NOUN	N	_	
+Toàn bộ	Toàn bộ	DET	L	_	
+Toàn	Toàn	NOUN	N	_	
+Toàn	Toàn	NOUN	Np	_	
+Toản	Toản	NOUN	Np	_	
+Triều Phú	Triều Phú	NOUN	Np	_	
+Trung	Trung	NOUN	Np	_	
+Trương Xuân Đại	Trương Xuân Đại	NOUN	Np	_	
+Trước hết	Trước hết	NOUN	N	_	
+Trước mắt	Trước mắt	NOUN	N	_	
+Trước	Trước	ADJ	A	_	
+Trường Chinh	Trường Chinh	NOUN	Np	_	
+Trần Nhất Thiện	Trần Nhất Thiện	NOUN	Np	_	
+Trực Ninh	Trực Ninh	NOUN	Np	_	
+Trực	Trực	NOUN	Np	_	
+Tuy nhiên	Tuy nhiên	CCONJ	C	_	
+Tuy vậy	Tuy vậy	CCONJ	C	_	
+Tuy	Tuy	CCONJ	C	_	
+Tuyết	Tuyết	NOUN	Np	_	
+Tuấn Anh	Tuấn Anh	NOUN	Np	_	
+Tuấn	Tuấn	NOUN	Np	_	
+Tuổi Trẻ	Tuổi Trẻ	NOUN	Np	_	
+Tà Hín	Tà Hín	NOUN	Np	_	
+Tài chính	Tài chính	NOUN	Np	_	
+Tài xế	Tài xế	NOUN	N	_	
+Tàu	Tàu	NOUN	Np	_	
+Tám	Tám	NUM	M	NumType=Card	
+Tân An	Tân An	NOUN	Np	_	
+Tân Phước	Tân Phước	NOUN	Np	_	
+Tân Thuận	Tân Thuận	NOUN	Np	_	
+Tân Uyên	Tân Uyên	NOUN	Np	_	
+Tình nhân	Tình nhân	NOUN	N	_	
+Tòa soạn	Tòa soạn	NOUN	N	_	
+Tôi	Tôi	NOUN	N	_	
+Tôi	Tôi	PROPN	P	_	
+Tú	Tú	NOUN	Np	_	
+Tại sao	Tại sao	X	X	_	
+Tất cả	Tất cả	DET	L	_	
+Tất cả	Tất cả	PROPN	P	_	
+Tức là	Tức là	CCONJ	C	_	
+U30	U30	NUM	M	NumType=Card	
+UBND	UBND	NOUN	Ny	_	
+Ung bướu	Ung bướu	NOUN	Np	_	
+Uyên Hưng	Uyên Hưng	NOUN	Np	_	
+V . H .	V . H .	NOUN	Ny	_	
+VII	VII	NUM	M	NumType=Card	
+VKS	VKS	NOUN	Ny	_	
+VN	VN	NOUN	N	_	
+VN	VN	NOUN	Np	_	
+VN	VN	NOUN	Ny	_	
+V	V	VERB	V	_	
+Viện Kiểm sát	Viện Kiểm sát	NOUN	Np	_	
+Viện	Viện	NOUN	Np	_	
+Việt Hùng	Việt Hùng	NOUN	Np	_	
+Việt Kiều	Việt Kiều	NOUN	Np	_	
+Việt kiều	Việt kiều	NOUN	Np	_	
+Việt	Việt	NOUN	Np	_	
+Và	Và	CCONJ	C	_	
+Vì sao	Vì sao	X	X	_	
+Vì vậy	Vì vậy	CCONJ	C	_	
+Vì	Vì	CCONJ	C	_	
+Ví dụ	Ví dụ	CCONJ	C	_	
+Võ	Võ	NOUN	Np	_	
+Vũng Tàu	Vũng Tàu	NOUN	Np	_	
+Vấn đề	Vấn đề	NOUN	N	_	
+Vẫn	Vẫn	X	R	_	
+Vậy là	Vậy là	CCONJ	C	_	
+Vậy mà	Vậy mà	CCONJ	C	_	
+Vậy	Vậy	PART	T	_	
+Vậy	Vậy	PROPN	P	_	
+Vụ việc	Vụ việc	NOUN	N	_	
+Vừa	Vừa	X	R	_	
+WB	WB	NOUN	Ny	_	
+Washington	Washington	NOUN	Np	_	
+XHCN	XHCN	NOUN	Ny	_	
+X	X	X	X	_	
+Xoan	Xoan	NOUN	Np	_	
+Xuân Hải	Xuân Hải	NOUN	Np	_	
+Xây dựng	Xây dựng	VERB	V	_	
+Xây lắp	Xây lắp	VERB	V	_	
+Xã	Xã	NOUN	N	_	
+Y	Y	X	Y	_	
+Yết Kiêu	Yết Kiêu	NOUN	Np	_	
+ai	ai	PROPN	P	_	
+am hiểu	am hiểu	VERB	V	_	
+an ninh	an ninh	NOUN	N	_	
+an toàn	an toàn	ADJ	A	_	
+an toàn	an toàn	NOUN	N	_	
+an toàn	an toàn	VERB	V	_	
+anh chị em	anh chị em	NOUN	N	_	
+anh em	anh em	NOUN	N	_	
+anh hùng	anh hùng	NOUN	N	_	
+anh ta	anh ta	NOUN	N	_	
+anh trai	anh trai	NOUN	N	_	
+anh	anh	NOUN	N	_	
+anh	anh	NOUN	Nc	_	
+ba gác	ba gác	NOUN	N	_	
+ba	ba	NUM	M	NumType=Card	
+ban hành	ban hành	VERB	V	_	
+ban ngành	ban ngành	NOUN	N	_	
+ban ngày	ban ngày	NOUN	N	_	
+ban đêm	ban đêm	NOUN	N	_	
+ban đầu	ban đầu	NOUN	N	_	
+ban	ban	NOUN	N	_	
+bao che	bao che	VERB	V	_	
+bao giờ	bao giờ	PROPN	P	_	
+bao nhiêu	bao nhiêu	PROPN	P	_	
+bao	bao	NOUN	N	_	
+bao	bao	NOUN	Nc	_	
+bay	bay	VERB	V	_	
+bch	bch	NOUN	Ny	_	
+bia	bia	NOUN	N	_	
+biên bản	biên bản	NOUN	N	_	
+biên chế	biên chế	NOUN	N	_	
+biên tập	biên tập	VERB	V	_	
+biến cố	biến cố	NOUN	N	_	
+biến	biến	VERB	V	_	
+biết bao	biết bao	X	R	_	
+biết	biết	VERB	V	_	
+biếu	biếu	VERB	V	_	
+biển số	biển số	NOUN	N	_	
+biển	biển	NOUN	N	_	
+biểu dương	biểu dương	VERB	V	_	
+biểu hiện	biểu hiện	NOUN	N	_	
+biểu hiện	biểu hiện	VERB	V	_	
+biện pháp	biện pháp	NOUN	N	_	
+bom đạn	bom đạn	NOUN	N	_	
+bom	bom	NOUN	N	_	
+buôn lậu	buôn lậu	VERB	V	_	
+buôn	buôn	VERB	V	_	
+buông tha	buông tha	VERB	V	_	
+buông	buông	VERB	V	_	
+buốt	buốt	ADJ	A	_	
+buồn cười	buồn cười	ADJ	A	_	
+buồn tẻ	buồn tẻ	ADJ	A	_	
+buồn	buồn	ADJ	A	_	
+buồn	buồn	VERB	V	_	
+buồng	buồng	NOUN	N	_	
+buổi	buổi	NOUN	N	_	
+buộc	buộc	VERB	V	_	
+bà ba	bà ba	NOUN	N	_	
+bà con	bà con	NOUN	N	_	
+bà cụ	bà cụ	NOUN	N	_	
+bà già	bà già	NOUN	N	_	
+bà mẹ	bà mẹ	NOUN	N	_	
+bà rịa	bà rịa	NOUN	Np	_	
+bà	bà	NOUN	N	_	
+bà	bà	NOUN	Nc	_	
+bà	bà	PROPN	P	_	
+bài	bài	NOUN	N	_	
+bàn	bàn	VERB	V	_	
+bày tỏ	bày tỏ	VERB	V	_	
+bày	bày	VERB	V	_	
+bác sĩ	bác sĩ	NOUN	N	_	
+bác	bác	NOUN	N	_	
+bác	bác	NOUN	Nc	_	
+bám trụ	bám trụ	VERB	V	_	
+bám	bám	VERB	V	_	
+bán dâm	bán dâm	VERB	V	_	
+bán	bán	VERB	V	_	
+bánh mì	bánh mì	NOUN	N	_	
+bánh tráng	bánh tráng	NOUN	N	_	
+bánh	bánh	NOUN	N	_	
+báo cáo	báo cáo	NOUN	N	_	
+báo cáo	báo cáo	VERB	V	_	
+báo điện tử	báo điện tử	NOUN	N	_	
+báo	báo	NOUN	N	_	
+báo	báo	VERB	V	_	
+bây giờ	bây giờ	NOUN	N	_	
+bây giờ	bây giờ	PROPN	P	_	
+bão lũ	bão lũ	NOUN	N	_	
+bè bạn	bè bạn	NOUN	N	_	
+bé	bé	ADJ	A	_	
+bé	bé	NOUN	N	_	
+bén	bén	VERB	V	_	
+béo	béo	ADJ	A	_	
+bê bối	bê bối	ADJ	A	_	
+bên	bên	ADP	E	_	
+bên	bên	NOUN	N	_	
+bênh vực	bênh vực	VERB	V	_	
+bêtông	bêtông	NOUN	Nb	_	
+bêu xấu	bêu xấu	VERB	V	_	
+bìa	bìa	NOUN	N	_	
+bì	bì	VERB	V	_	
+bình dân	bình dân	ADJ	A	_	
+bình dân	bình dân	NOUN	N	_	
+bình dương	bình dương	NOUN	Np	_	
+bình thường	bình thường	ADJ	A	_	
+bình triệu	bình triệu	NOUN	Np	_	
+bình tĩnh	bình tĩnh	ADJ	A	_	
+bình yên	bình yên	ADJ	A	_	
+bình yên	bình yên	NOUN	N	_	
+bình	bình	NOUN	Np	_	
+bí mật	bí mật	ADJ	A	_	
+bí mật	bí mật	NOUN	N	_	
+bí thư	bí thư	NOUN	N	_	
+bí ẩn	bí ẩn	ADJ	A	_	
+bò	bò	NOUN	N	_	
+bó tay	bó tay	NOUN	N	_	
+bó tay	bó tay	VERB	V	_	
+bó	bó	VERB	V	_	
+bóng dáng	bóng dáng	NOUN	N	_	
+bóng	bóng	NOUN	N	_	
+bù loong	bù loong	NOUN	Nb	_	
+bù đắp	bù đắp	VERB	V	_	
+bùa	bùa	NOUN	N	_	
+bùi thị lan	bùi thị lan	NOUN	Np	_	
+bùn	bùn	NOUN	N	_	
+bút tích	bút tích	NOUN	N	_	
+bút	bút	NOUN	N	_	
+băn khoăn	băn khoăn	ADJ	A	_	
+băn khoăn	băn khoăn	NOUN	N	_	
+băng băng	băng băng	ADJ	A	_	
+băng	băng	NOUN	N	_	
+băng	băng	NOUN	Nc	_	
+bưng	bưng	ADJ	A	_	
+bưng	bưng	VERB	V	_	
+bưu điện	bưu điện	NOUN	N	_	
+bước đi	bước đi	NOUN	N	_	
+bước	bước	NOUN	N	_	
+bước	bước	VERB	V	_	
+bại liệt	bại liệt	ADJ	A	_	
+bạn bè	bạn bè	NOUN	N	_	
+bạn trai	bạn trai	NOUN	N	_	
+bạn đọc	bạn đọc	NOUN	N	_	
+bạn	bạn	NOUN	N	_	
+bạnh	bạnh	VERB	V	_	
+bản chất	bản chất	NOUN	N	_	
+bản lĩnh	bản lĩnh	NOUN	N	_	
+bản thân	bản thân	NOUN	N	_	
+bản	bản	NOUN	Nc	_	
+bảng biểu	bảng biểu	NOUN	N	_	
+bảng	bảng	NOUN	N	_	
+bảo hiểm nhân thọ	bảo hiểm nhân thọ	NOUN	N	_	
+bảo hiểm	bảo hiểm	NOUN	N	_	
+bảo hiểm	bảo hiểm	VERB	V	_	
+bảo hộ	bảo hộ	VERB	V	_	
+bảo lãnh	bảo lãnh	VERB	V	_	
+bảo mật	bảo mật	VERB	V	_	
+bảo vệ	bảo vệ	NOUN	N	_	
+bảo vệ	bảo vệ	VERB	V	_	
+bảo đảm	bảo đảm	VERB	V	_	
+bảo	bảo	VERB	V	_	
+bảy	bảy	NUM	M	NumType=Card	
+bấm	bấm	VERB	V	_	
+bất chính	bất chính	ADJ	A	_	
+bất cứ	bất cứ	X	R	_	
+bất hạnh	bất hạnh	ADJ	A	_	
+bất hảo	bất hảo	ADJ	A	_	
+bất hợp pháp	bất hợp pháp	ADJ	A	_	
+bất khả kháng	bất khả kháng	VERB	V	_	
+bất mãn	bất mãn	VERB	V	_	
+bất ngờ	bất ngờ	ADJ	A	_	
+bất thường	bất thường	ADJ	A	_	
+bất	bất	X	Z	_	
+bần hàn	bần hàn	ADJ	A	_	
+bầy	bầy	NOUN	Nc	_	
+bắc trung bộ	bắc trung bộ	NOUN	Np	_	
+bắc	bắc	NOUN	N	_	
+bắn	bắn	VERB	V	_	
+bắt buộc	bắt buộc	VERB	V	_	
+bắt chuyện	bắt chuyện	VERB	V	_	
+bắt đầu	bắt đầu	VERB	V	_	
+bắt	bắt	VERB	V	_	
+bằng chứng	bằng chứng	NOUN	N	_	
+bằng không	bằng không	ADJ	A	_	
+bằng	bằng	ADP	E	_	
+bằng	bằng	NOUN	Np	_	
+bế tắc	bế tắc	ADJ	A	_	
+bến	bến	NOUN	N	_	
+bề bộn	bề bộn	ADJ	A	_	
+bề dày	bề dày	NOUN	N	_	
+bề trên	bề trên	NOUN	N	_	
+bền vững	bền vững	ADJ	A	_	
+bể	bể	VERB	V	_	
+bệnh hoạn	bệnh hoạn	ADJ	A	_	
+bệnh lý	bệnh lý	NOUN	N	_	
+bệnh nhân	bệnh nhân	NOUN	N	_	
+bệnh viện	bệnh viện	NOUN	N	_	
+bệnh	bệnh	NOUN	N	_	
+bị cáo	bị cáo	NOUN	N	_	
+bị	bị	VERB	V	_	
+bịn rịn	bịn rịn	VERB	V	_	
+bịt	bịt	VERB	V	_	
+bọn	bọn	NOUN	Nc	_	
+bỏ lửng	bỏ lửng	VERB	V	_	
+bỏ	bỏ	VERB	V	_	
+bố mẹ	bố mẹ	NOUN	N	_	
+bố	bố	NOUN	N	_	
+bốc vác	bốc vác	VERB	V	_	
+bốc	bốc	VERB	V	_	
+bối rối	bối rối	ADJ	A	_	
+bốn	bốn	NUM	M	NumType=Card	
+bồ bịch	bồ bịch	NOUN	N	_	
+bồ	bồ	NOUN	N	_	
+bồi hồi	bồi hồi	ADJ	A	_	
+bổ	bổ	ADJ	A	_	
+bỗng	bỗng	X	R	_	
+bộ máy	bộ máy	NOUN	N	_	
+bộ phận	bộ phận	NOUN	N	_	
+bộ trưởng	bộ trưởng	NOUN	N	_	
+bộ đội	bộ đội	NOUN	N	_	
+bộ	bộ	NOUN	N	_	
+bộ	bộ	NOUN	Np	_	
+bộc bạch	bộc bạch	VERB	V	_	
+bộc lộ	bộc lộ	VERB	V	_	
+bờ	bờ	NOUN	N	_	
+bờ	bờ	NOUN	Nc	_	
+bờm xờm	bờm xờm	ADJ	A	_	
+bởi	bởi	ADP	E	_	
+bủng beo	bủng beo	ADJ	A	_	
+bức xúc	bức xúc	ADJ	A	_	
+bức	bức	NOUN	Nc	_	
+bừa bãi	bừa bãi	ADJ	A	_	
+bừng bừng	bừng bừng	ADJ	A	_	
+bữa	bữa	NOUN	N	_	
+ca	ca	NOUN	N	_	
+cactông	cactông	NOUN	N	_	
+cam kết	cam kết	VERB	V	_	
+cam	cam	NOUN	N	_	
+can ngăn	can ngăn	VERB	V	_	
+canh	canh	VERB	V	_	
+cao ráo	cao ráo	ADJ	A	_	
+cao su	cao su	NOUN	N	_	
+cao	cao	ADJ	A	_	
+cay cực	cay cực	ADJ	A	_	
+cha anh	cha anh	NOUN	N	_	
+cha mẹ	cha mẹ	NOUN	N	_	
+cha	cha	NOUN	N	_	
+chao	chao	PART	T	_	
+chen chúc	chen chúc	VERB	V	_	
+chen lấn	chen lấn	VERB	V	_	
+chi cục	chi cục	NOUN	N	_	
+chi nhánh	chi nhánh	NOUN	Np	_	
+chi phí	chi phí	NOUN	N	_	
+chi tiết	chi tiết	ADJ	A	_	
+chi tiết	chi tiết	NOUN	N	_	
+chia sẻ	chia sẻ	VERB	V	_	
+chia tay	chia tay	VERB	V	_	
+chia	chia	VERB	V	_	
+chiếc	chiếc	NOUN	Nc	_	
+chiếm	chiếm	VERB	V	_	
+chiến sĩ thi đua	chiến sĩ thi đua	NOUN	N	_	
+chiến sĩ	chiến sĩ	NOUN	N	_	
+chiến tranh	chiến tranh	NOUN	N	_	
+chiến đấu	chiến đấu	VERB	V	_	
+chiến	chiến	VERB	V	_	
+chiều dài	chiều dài	NOUN	N	_	
+chiều	chiều	NOUN	N	_	
+cho phép	cho phép	VERB	V	_	
+cho	cho	ADP	E	_	
+cho	cho	VERB	V	_	
+cho	cho	X	R	_	
+chu cấp	chu cấp	VERB	V	_	
+chui lủi	chui lủi	VERB	V	_	
+chui ra chui vào	chui ra chui vào	X	X	_	
+chui	chui	VERB	V	_	
+chung thủy	chung thủy	ADJ	A	_	
+chung	chung	ADJ	A	_	
+chuyên môn	chuyên môn	ADJ	A	_	
+chuyên môn	chuyên môn	NOUN	N	_	
+chuyên nghiệp	chuyên nghiệp	ADJ	A	_	
+chuyên án	chuyên án	ADJ	A	_	
+chuyên	chuyên	ADJ	A	_	
+chuyến	chuyến	NOUN	N	_	
+chuyển dời	chuyển dời	VERB	V	_	
+chuyển giao	chuyển giao	VERB	V	_	
+chuyển	chuyển	VERB	V	_	
+chuyện	chuyện	NOUN	N	_	
+chuông	chuông	NOUN	N	_	
+chuẩn bị	chuẩn bị	VERB	V	_	
+chuẩn mực	chuẩn mực	NOUN	N	_	
+chuẩn xác	chuẩn xác	ADJ	A	_	
+chà	chà	NOUN	N	_	
+chàng	chàng	NOUN	N	_	
+chàng	chàng	NOUN	Nc	_	
+chào	chào	VERB	V	_	
+cháu	cháu	NOUN	N	_	
+cháy	cháy	NOUN	N	_	
+cháy	cháy	VERB	V	_	
+chân chất	chân chất	ADJ	A	_	
+chân dung	chân dung	NOUN	N	_	
+chân	chân	NOUN	N	_	
+châu Âu	châu Âu	NOUN	Np	_	
+chè	chè	NOUN	N	_	
+chèn	chèn	VERB	V	_	
+chén	chén	NOUN	N	_	
+chén	chén	NOUN	Nc	_	
+chép	chép	VERB	V	_	
+chìa khóa	chìa khóa	NOUN	N	_	
+chìm xuồng	chìm xuồng	X	X	_	
+chìm	chìm	VERB	V	_	
+chí	chí	NOUN	N	_	
+chính phủ	chính phủ	NOUN	N	_	
+chính quyền	chính quyền	NOUN	N	_	
+chính sách	chính sách	NOUN	N	_	
+chính thức	chính thức	ADJ	A	_	
+chính trị	chính trị	NOUN	N	_	
+chính đáng	chính đáng	ADJ	A	_	
+chính	chính	ADJ	A	_	
+chính	chính	PART	T	_	
+chính	chính	X	R	_	
+chòi	chòi	NOUN	N	_	
+chót	chót	NOUN	N	_	
+chôn vùi	chôn vùi	VERB	V	_	
+chùng	chùng	VERB	V	_	
+chú rể	chú rể	NOUN	N	_	
+chú thích	chú thích	VERB	V	_	
+chú trọng	chú trọng	VERB	V	_	
+chú ý	chú ý	VERB	V	_	
+chú	chú	NOUN	Nc	_	
+chúng ta	chúng ta	PROPN	P	_	
+chúng tôi	chúng tôi	PROPN	P	_	
+chúng	chúng	PROPN	P	_	
+chút	chút	DET	L	_	
+chăm sóc	chăm sóc	VERB	V	_	
+chăn nuôi	chăn nuôi	NOUN	N	_	
+chăn nuôi	chăn nuôi	VERB	V	_	
+chưa	chưa	X	R	_	
+chương trình	chương trình	NOUN	N	_	
+chạm mặt	chạm mặt	VERB	V	_	
+chạm trán	chạm trán	VERB	V	_	
+chạm	chạm	VERB	V	_	
+chạnh lòng	chạnh lòng	VERB	V	_	
+chạy	chạy	VERB	V	_	
+chảy	chảy	VERB	V	_	
+chấm dứt	chấm dứt	VERB	V	_	
+chấm	chấm	VERB	V	_	
+chấn chỉnh	chấn chỉnh	VERB	V	_	
+chấp hành	chấp hành	VERB	V	_	
+chấp nhận	chấp nhận	VERB	V	_	
+chất lượng	chất lượng	NOUN	N	_	
+chất độc	chất độc	NOUN	N	_	
+chần chừ	chần chừ	VERB	V	_	
+chậm	chậm	ADJ	A	_	
+chắc chắn	chắc chắn	ADJ	A	_	
+chắc chắn	chắc chắn	VERB	V	_	
+chắc	chắc	ADJ	A	_	
+chắt chiu	chắt chiu	VERB	V	_	
+chẳng	chẳng	X	R	Polarity=Neg	
+chặn	chặn	VERB	V	_	
+chặt	chặt	ADJ	A	_	
+chế biến	chế biến	VERB	V	_	
+chế xuất	chế xuất	VERB	V	_	
+chết	chết	VERB	V	_	
+chỉ số	chỉ số	NOUN	N	_	
+chỉ tiêu	chỉ tiêu	NOUN	N	_	
+chỉ đạo	chỉ đạo	VERB	V	_	
+chỉ	chỉ	NOUN	Nc	_	
+chỉ	chỉ	VERB	V	_	
+chỉ	chỉ	X	R	_	
+chỉn chu	chỉn chu	ADJ	A	_	
+chỉnh tề	chỉnh tề	ADJ	A	_	
+chỉnh đốn	chỉnh đốn	VERB	V	_	
+chị em	chị em	NOUN	N	_	
+chị ta	chị ta	NOUN	N	_	
+chị	chị	NOUN	N	_	
+chị	chị	NOUN	Nc	_	
+chịu thua	chịu thua	VERB	V	_	
+chịu đựng	chịu đựng	VERB	V	_	
+chịu	chịu	VERB	V	_	
+chọc ghẹo	chọc ghẹo	VERB	V	_	
+chọn	chọn	VERB	V	_	
+chống cự	chống cự	VERB	V	_	
+chống	chống	VERB	V	_	
+chồng	chồng	NOUN	N	_	
+chỗ đứng	chỗ đứng	NOUN	N	_	
+chỗ	chỗ	NOUN	N	_	
+chờ	chờ	VERB	V	_	
+chở	chở	VERB	V	_	
+chợ	chợ	NOUN	N	_	
+chợt	chợt	X	R	_	
+chục	chục	NUM	M	NumType=Card	
+chụp	chụp	VERB	V	_	
+chủ hộ	chủ hộ	NOUN	N	_	
+chủ máy	chủ máy	NOUN	N	_	
+chủ nghĩa	chủ nghĩa	NOUN	N	_	
+chủ nhân	chủ nhân	NOUN	N	_	
+chủ nhật	chủ nhật	NOUN	N	_	
+chủ quan	chủ quan	ADJ	A	_	
+chủ quan	chủ quan	VERB	V	_	
+chủ quyền	chủ quyền	NOUN	N	_	
+chủ trương	chủ trương	NOUN	N	_	
+chủ trương	chủ trương	VERB	V	_	
+chủ tịch	chủ tịch	NOUN	N	_	
+chủ yếu	chủ yếu	ADJ	A	_	
+chủ	chủ	NOUN	N	_	
+chức năng	chức năng	NOUN	N	_	
+chức	chức	NOUN	N	_	
+chứ	chứ	CCONJ	C	_	
+chứng cứ	chứng cứ	NOUN	N	_	
+chứng kiến	chứng kiến	VERB	V	_	
+chứng minh	chứng minh	VERB	V	_	
+chứng tỏ	chứng tỏ	VERB	V	_	
+chừng mực	chừng mực	NOUN	N	_	
+chừng như	chừng như	X	X	_	
+chữ ký	chữ ký	NOUN	N	_	
+chữa cháy	chữa cháy	VERB	V	_	
+chữa	chữa	VERB	V	_	
+chữ	chữ	NOUN	N	_	
+cienco	cienco	NOUN	Np	_	
+cm	cm	NOUN	Nu	_	
+co	co	VERB	V	_	
+coi	coi	VERB	V	_	
+con cái	con cái	NOUN	N	_	
+con gái	con gái	NOUN	N	_	
+con người	con người	NOUN	N	_	
+con nít	con nít	NOUN	N	_	
+con nước	con nước	NOUN	N	_	
+con số	con số	NOUN	N	_	
+con trai	con trai	NOUN	N	_	
+con	con	ADJ	A	_	
+con	con	NOUN	N	_	
+con	con	NOUN	Nc	_	
+cong	cong	ADJ	A	_	
+csgt	csgt	NOUN	Ny	_	
+cty	cty	NOUN	N	_	
+cung cấp	cung cấp	VERB	V	_	
+cuốc	cuốc	NOUN	N	_	
+cuốc	cuốc	VERB	V	_	
+cuối cùng	cuối cùng	ADJ	A	_	
+cuối	cuối	ADJ	A	_	
+cuối	cuối	NOUN	N	_	
+cuốn	cuốn	VERB	V	_	
+cuống quýt	cuống quýt	ADJ	A	_	
+cuộc chiến	cuộc chiến	NOUN	N	_	
+cuộc chơi	cuộc chơi	NOUN	N	_	
+cuộc sống	cuộc sống	NOUN	N	_	
+cuộc đời	cuộc đời	NOUN	N	_	
+cuộc	cuộc	NOUN	N	_	
+cuộc	cuộc	NOUN	Nc	_	
+cà phê	cà phê	NOUN	N	_	
+cài đặt	cài đặt	VERB	V	_	
+cài	cài	VERB	V	_	
+càng	càng	X	R	_	
+cá biệt	cá biệt	ADJ	A	_	
+cá nhân	cá nhân	ADJ	A	_	
+cá nhân	cá nhân	NOUN	N	_	
+cá tính	cá tính	NOUN	N	_	
+các	các	DET	L	_	
+cách mạng	cách mạng	NOUN	N	_	
+cách trở	cách trở	VERB	V	_	
+cách	cách	NOUN	N	_	
+cách	cách	VERB	V	_	
+cá	cá	NOUN	N	_	
+cái	cái	NOUN	N	_	
+cái	cái	NOUN	Nc	_	
+cám dỗ	cám dỗ	NOUN	N	_	
+cán bộ	cán bộ	NOUN	N	_	
+cánh tay	cánh tay	NOUN	N	_	
+cát	cát	NOUN	N	_	
+cân nhắc	cân nhắc	VERB	V	_	
+câu chuyện	câu chuyện	NOUN	N	_	
+câu hỏi	câu hỏi	NOUN	N	_	
+câu	câu	NOUN	N	_	
+câu	câu	NOUN	Nc	_	
+cây số	cây số	NOUN	N	_	
+cây	cây	NOUN	N	_	
+cây	cây	NOUN	Nc	_	
+cãi vã	cãi vã	VERB	V	_	
+cò	cò	NOUN	N	_	
+còn	còn	CCONJ	C	_	
+còn	còn	VERB	V	_	
+còn	còn	X	R	_	
+có lẽ	có lẽ	X	X	_	
+có mặt	có mặt	VERB	V	_	
+có thể	có thể	ADJ	A	_	
+có thể	có thể	X	R	_	
+có	có	VERB	V	_	
+có	có	X	R	_	
+cói	cói	NOUN	N	_	
+cóng	cóng	ADJ	A	_	
+cô dâu	cô dâu	NOUN	N	_	
+cô giáo	cô giáo	NOUN	N	_	
+cô ta	cô ta	NOUN	N	_	
+cô ta	cô ta	PROPN	P	_	
+cô	cô	NOUN	N	_	
+cô	cô	NOUN	Nc	_	
+công an	công an	NOUN	N	_	
+công bằng	công bằng	ADJ	A	_	
+công bố	công bố	VERB	V	_	
+công chức	công chức	NOUN	N	_	
+công dung ngôn hạnh	công dung ngôn hạnh	X	X	_	
+công dân	công dân	NOUN	N	_	
+công khai	công khai	ADJ	A	_	
+công luận	công luận	NOUN	N	_	
+công lý	công lý	NOUN	N	_	
+công nghiệp	công nghiệp	NOUN	N	_	
+công nhân	công nhân	NOUN	N	_	
+công suất	công suất	NOUN	N	_	
+công trình	công trình	NOUN	N	_	
+công trường	công trường	NOUN	N	_	
+công ty	công ty	NOUN	N	_	
+công ty	công ty	NOUN	Np	_	
+công tác	công tác	NOUN	N	_	
+công tử	công tử	NOUN	N	_	
+công viên	công viên	NOUN	N	_	
+công việc	công việc	NOUN	N	_	
+công văn	công văn	NOUN	N	_	
+công ăn việc làm	công ăn việc làm	NOUN	N	_	
+công ước	công ước	NOUN	N	_	
+công	công	NOUN	N	_	
+cù lao	cù lao	NOUN	N	_	
+cùi tay	cùi tay	NOUN	N	_	
+cùng	cùng	ADJ	A	_	
+cùng	cùng	ADP	E	_	
+cùng	cùng	CCONJ	C	_	
+cùng	cùng	X	R	_	
+cú	cú	NOUN	Nc	_	
+căn bệnh	căn bệnh	NOUN	N	_	
+căn vặn	căn vặn	VERB	V	_	
+căn	căn	NOUN	Nc	_	
+căng thẳng	căng thẳng	ADJ	A	_	
+căngxe	căngxe	NOUN	N	_	
+cũ	cũ	ADJ	A	_	
+cũng	cũng	X	R	_	
+cơ bản	cơ bản	ADJ	A	_	
+cơ bắp	cơ bắp	NOUN	N	_	
+cơ chế	cơ chế	NOUN	N	_	
+cơ cấu	cơ cấu	NOUN	N	_	
+cơ cực	cơ cực	ADJ	A	_	
+cơ hội	cơ hội	NOUN	N	_	
+cơ ngơi	cơ ngơi	NOUN	N	_	
+cơ quan chức năng	cơ quan chức năng	NOUN	N	_	
+cơ quan	cơ quan	NOUN	N	_	
+cơ sở hạ tầng	cơ sở hạ tầng	NOUN	N	_	
+cơ sở	cơ sở	NOUN	N	_	
+cơ	cơ	NOUN	N	_	
+cơm	cơm	NOUN	N	_	
+cơn	cơn	NOUN	Nc	_	
+cư trú	cư trú	VERB	V	_	
+cưa	cưa	NOUN	N	_	
+cưa	cưa	VERB	V	_	
+cương quyết	cương quyết	ADJ	A	_	
+cước	cước	NOUN	N	_	
+cưới	cưới	VERB	V	_	
+cướp	cướp	VERB	V	_	
+cười	cười	VERB	V	_	
+cạm bẫy	cạm bẫy	NOUN	N	_	
+cạnh	cạnh	NOUN	N	_	
+cạp	cạp	NOUN	N	_	
+cạp	cạp	VERB	V	_	
+cả	cả	PART	T	_	
+cả	cả	PROPN	P	_	
+cải hóa	cải hóa	VERB	V	_	
+cải thiện	cải thiện	VERB	V	_	
+cải tiến	cải tiến	VERB	V	_	
+cải tạo	cải tạo	VERB	V	_	
+cảm giác	cảm giác	NOUN	N	_	
+cảm thông	cảm thông	VERB	V	_	
+cảm thấy	cảm thấy	VERB	V	_	
+cảm tình	cảm tình	NOUN	N	_	
+cảm động	cảm động	VERB	V	_	
+cảm ơn	cảm ơn	VERB	V	_	
+cảm	cảm	VERB	V	_	
+cảng	cảng	NOUN	N	_	
+cảnh báo	cảnh báo	NOUN	N	_	
+cảnh báo	cảnh báo	VERB	V	_	
+cảnh giác	cảnh giác	VERB	V	_	
+cảnh sát	cảnh sát	NOUN	N	_	
+cảnh tượng	cảnh tượng	NOUN	N	_	
+cảnh	cảnh	NOUN	N	_	
+cấm	cấm	VERB	V	_	
+cấp cứu	cấp cứu	VERB	V	_	
+cấp ủy	cấp ủy	NOUN	N	_	
+cấp	cấp	NOUN	N	_	
+cấp	cấp	VERB	V	_	
+cất giấu	cất giấu	VERB	V	_	
+cất	cất	VERB	V	_	
+cấu trúc	cấu trúc	VERB	V	_	
+cấu tạo	cấu tạo	NOUN	N	_	
+cầm	cầm	VERB	V	_	
+cần cù	cần cù	ADJ	A	_	
+cần cẩu	cần cẩu	NOUN	N	_	
+cần thiết	cần thiết	ADJ	A	_	
+cần	cần	VERB	V	_	
+cầu cảng	cầu cảng	NOUN	N	_	
+cầu cứu	cầu cứu	VERB	V	_	
+cầu mong	cầu mong	VERB	V	_	
+cầu nối	cầu nối	NOUN	N	_	
+cầu thang	cầu thang	NOUN	N	_	
+cầu xin	cầu xin	NOUN	N	_	
+cầu đường	cầu đường	NOUN	N	_	
+cầu	cầu	NOUN	N	_	
+cẩn thận	cẩn thận	ADJ	A	_	
+cẩu	cẩu	NOUN	N	_	
+cập nhật	cập nhật	VERB	V	_	
+cắc cớ	cắc cớ	ADJ	A	_	
+cắn	cắn	VERB	V	_	
+cắt	cắt	VERB	V	_	
+cặp bồ	cặp bồ	VERB	V	_	
+cọc cạch	cọc cạch	ADJ	A	_	
+cọng	cọng	NOUN	Nc	_	
+cố gắng	cố gắng	VERB	V	_	
+cố nhân	cố nhân	NOUN	N	_	
+cố ý	cố ý	VERB	V	_	
+cố định	cố định	ADJ	A	_	
+cố	cố	VERB	V	_	
+cống	cống	NOUN	N	_	
+cổ phần hóa	cổ phần hóa	VERB	V	_	
+cộng hòa	cộng hòa	NOUN	N	_	
+cộng đồng	cộng đồng	NOUN	N	_	
+cộng	cộng	VERB	V	_	
+cột	cột	NOUN	N	_	
+cờ bạc	cờ bạc	NOUN	N	_	
+cờ đỏ sao vàng	cờ đỏ sao vàng	NOUN	N	_	
+cụ thể	cụ thể	ADJ	A	_	
+cục	cục	NOUN	N	_	
+cụt	cụt	ADJ	A	_	
+cụt	cụt	VERB	V	_	
+của cải	của cải	NOUN	N	_	
+của	của	ADP	E	_	
+của	của	NOUN	N	_	
+cứ thế	cứ thế	X	R	_	
+cứ	cứ	X	R	_	
+cứng	cứng	ADJ	A	_	
+cứu	cứu	VERB	V	_	
+cừ	cừ	NOUN	N	_	
+cử tọa	cử tọa	NOUN	N	_	
+cửa hàng	cửa hàng	NOUN	N	_	
+cửa kính	cửa kính	NOUN	N	_	
+cửa ngõ	cửa ngõ	NOUN	N	_	
+cửa quan	cửa quan	NOUN	N	_	
+cửa quyền	cửa quyền	ADJ	A	_	
+cửa sổ	cửa sổ	NOUN	N	_	
+cửa	cửa	NOUN	N	_	
+cử	cử	VERB	V	_	
+cực	cực	ADJ	A	_	
+cựu chiến binh	cựu chiến binh	NOUN	N	_	
+da cam	da cam	NOUN	N	_	
+da	da	NOUN	N	_	
+danh bạ	danh bạ	NOUN	N	_	
+danh dự	danh dự	NOUN	N	_	
+danh hiệu	danh hiệu	NOUN	N	_	
+danh nghĩa	danh nghĩa	NOUN	N	_	
+dao	dao	NOUN	N	_	
+di chuyển	di chuyển	VERB	V	_	
+di tích	di tích	NOUN	N	_	
+di động	di động	NOUN	N	_	
+di động	di động	VERB	V	_	
+diễn tiến	diễn tiến	VERB	V	_	
+diễn	diễn	VERB	V	_	
+diện	diện	NOUN	N	_	
+dn	dn	NOUN	Ny	_	
+doanh nghiệp	doanh nghiệp	NOUN	N	_	
+do	do	ADP	E	_	
+do	do	CCONJ	C	_	
+du học	du học	VERB	V	_	
+dung nhan	dung nhan	NOUN	N	_	
+duy nhất	duy nhất	ADJ	A	_	
+duyên dáng	duyên dáng	ADJ	A	_	
+duyệt	duyệt	VERB	V	_	
+dài	dài	ADJ	A	_	
+dàn	dàn	VERB	V	_	
+dành dụm	dành dụm	VERB	V	_	
+dành	dành	VERB	V	_	
+dám	dám	VERB	V	_	
+dáng vẻ	dáng vẻ	NOUN	N	_	
+dáng điệu	dáng điệu	NOUN	N	_	
+dân chúng	dân chúng	NOUN	N	_	
+dân cư	dân cư	NOUN	N	_	
+dân số	dân số	NOUN	N	_	
+dân	dân	NOUN	N	_	
+dâu	dâu	NOUN	N	_	
+dây điện	dây điện	NOUN	N	_	
+dây	dây	NOUN	N	_	
+dãy	dãy	NOUN	Nc	_	
+dì	dì	NOUN	N	_	
+dòm ngó	dòm ngó	VERB	V	_	
+dòng chảy	dòng chảy	NOUN	N	_	
+dòng họ	dòng họ	NOUN	N	_	
+dòng	dòng	NOUN	N	_	
+dù sao	dù sao	CCONJ	C	_	
+dù sao	dù sao	X	R	_	
+dù	dù	CCONJ	C	_	
+dùng	dùng	VERB	V	_	
+dúi	dúi	VERB	V	_	
+dũng cảm	dũng cảm	ADJ	A	_	
+dư luận	dư luận	NOUN	N	_	
+dưới	dưới	ADP	E	_	
+dưới	dưới	NOUN	N	_	
+dường như	dường như	X	R	_	
+dường như	dường như	X	X	_	
+dạ	dạ	PART	T	_	
+dạng	dạng	NOUN	N	_	
+dạt	dạt	VERB	V	_	
+dạy	dạy	VERB	V	_	
+dấu hiệu	dấu hiệu	NOUN	N	_	
+dấu	dấu	NOUN	N	_	
+dấy	dấy	VERB	V	_	
+dần	dần	X	R	_	
+dẫn chứng	dẫn chứng	VERB	V	_	
+dẫn	dẫn	VERB	V	_	
+dẫu	dẫu	ADP	E	_	
+dập	dập	VERB	V	_	
+dậy	dậy	VERB	V	_	
+dắt díu	dắt díu	VERB	V	_	
+dắt	dắt	VERB	V	_	
+dặn	dặn	VERB	V	_	
+dễ dàng	dễ dàng	ADJ	A	_	
+dễ	dễ	ADJ	A	_	
+dịch vụ	dịch vụ	NOUN	N	_	
+dịp	dịp	NOUN	N	_	
+dọc	dọc	ADJ	A	_	
+dọn dẹp	dọn dẹp	VERB	V	_	
+dồn	dồn	VERB	V	_	
+dội	dội	VERB	V	_	
+dột nát	dột nát	ADJ	A	_	
+dứt điểm	dứt điểm	VERB	V	_	
+dừng	dừng	VERB	V	_	
+dự kiến	dự kiến	NOUN	N	_	
+dự kiến	dự kiến	VERB	V	_	
+dự thảo	dự thảo	NOUN	N	_	
+dự thảo	dự thảo	VERB	V	_	
+dự án	dự án	NOUN	N	_	
+dựa	dựa	VERB	V	_	
+dựng	dựng	VERB	V	_	
+em gái	em gái	NOUN	N	_	
+em	em	NOUN	N	_	
+eo hẹp	eo hẹp	ADJ	A	_	
+fax	fax	NOUN	Nb	_	
+fax	fax	VERB	VP	_	
+gai	gai	NOUN	N	_	
+gang tấc	gang tấc	NOUN	N	_	
+g	g	NOUN	N	_	
+g	g	NOUN	Nu	_	
+g	g	NOUN	Ny	_	
+ghe	ghe	NOUN	N	_	
+ghen	ghen	NOUN	N	_	
+ghi chép	ghi chép	VERB	V	_	
+ghi hình	ghi hình	VERB	V	_	
+ghi nhận	ghi nhận	VERB	V	_	
+ghi âm	ghi âm	VERB	V	_	
+ghi	ghi	VERB	V	_	
+ghé	ghé	VERB	V	_	
+ghép	ghép	VERB	V	_	
+ghê rợn	ghê rợn	ADJ	A	_	
+ghê	ghê	ADJ	A	_	
+ghế	ghế	NOUN	N	_	
+gia tăng	gia tăng	VERB	V	_	
+gia đình	gia đình	NOUN	N	_	
+giai đoạn	giai đoạn	NOUN	N	_	
+gian dâm	gian dâm	VERB	V	_	
+gian truân	gian truân	ADJ	A	_	
+giang hồ	giang hồ	NOUN	N	_	
+gian	gian	NOUN	N	_	
+giao dịch	giao dịch	VERB	V	_	
+giao lưu	giao lưu	NOUN	N	_	
+giao lưu	giao lưu	VERB	V	_	
+giao lộ	giao lộ	NOUN	N	_	
+giao nhận	giao nhận	VERB	V	_	
+giao thông	giao thông	NOUN	N	_	
+giao	giao	VERB	V	_	
+già đời	già đời	ADJ	A	_	
+già	già	ADJ	A	_	
+giàn	giàn	NOUN	N	_	
+giàu có	giàu có	ADJ	A	_	
+giá cả	giá cả	NOUN	N	_	
+giá thú	giá thú	NOUN	N	_	
+giá	giá	NOUN	N	_	
+giám sát	giám sát	VERB	V	_	
+giám định	giám định	VERB	V	_	
+giám đốc	giám đốc	NOUN	N	_	
+giáng	giáng	VERB	V	_	
+giáo dục	giáo dục	NOUN	N	_	
+giáo dục	giáo dục	VERB	V	_	
+giáo viên	giáo viên	NOUN	N	_	
+giáp	giáp	VERB	V	_	
+giây	giây	NOUN	N	_	
+giây	giây	NOUN	Nu	_	
+giúp việc	giúp việc	VERB	V	_	
+giúp đỡ	giúp đỡ	VERB	V	_	
+giúp	giúp	VERB	V	_	
+giăng	giăng	VERB	V	_	
+giơ lên giơ xuống	giơ lên giơ xuống	VERB	V	_	
+giả thiết	giả thiết	NOUN	N	_	
+giải cứu	giải cứu	VERB	V	_	
+giải pháp	giải pháp	NOUN	N	_	
+giải phóng	giải phóng	VERB	V	_	
+giải quyết	giải quyết	VERB	V	_	
+giải thích	giải thích	VERB	V	_	
+giải trình	giải trình	VERB	V	_	
+giải tỏa	giải tỏa	VERB	V	_	
+giải	giải	VERB	V	_	
+giảm	giảm	VERB	V	_	
+giấu	giấu	VERB	V	_	
+giấy phép	giấy phép	NOUN	N	_	
+giấy thông hành	giấy thông hành	NOUN	N	_	
+giấy tờ	giấy tờ	NOUN	N	_	
+giấy	giấy	NOUN	N	_	
+giật mình	giật mình	VERB	V	_	
+giật	giật	VERB	V	_	
+giặt	giặt	VERB	V	_	
+giết	giết	VERB	V	_	
+giọng	giọng	NOUN	N	_	
+giọt	giọt	NOUN	N	_	
+giọt	giọt	NOUN	Nc	_	
+giỏ	giỏ	NOUN	N	_	
+giỏi	giỏi	ADJ	A	_	
+giống	giống	ADJ	A	_	
+giống	giống	VERB	V	_	
+giới thiệu	giới thiệu	VERB	V	_	
+giờ hành chính	giờ hành chính	NOUN	N	_	
+giờ	giờ	NOUN	N	_	
+giờ	giờ	NOUN	Nu	_	
+giữa	giữa	ADP	E	_	
+giữ	giữ	VERB	V	_	
+gom góp	gom góp	VERB	V	_	
+gàu	gàu	NOUN	N	_	
+gác	gác	VERB	V	_	
+gái	gái	NOUN	N	_	
+gánh chịu	gánh chịu	VERB	V	_	
+gánh	gánh	NOUN	N	_	
+gánh	gánh	VERB	V	_	
+gây lộn	gây lộn	VERB	V	_	
+gây	gây	VERB	V	_	
+gã	gã	NOUN	N	_	
+gã	gã	NOUN	Nc	_	
+gãy	gãy	VERB	V	_	
+gì	gì	PART	T	_	
+gì	gì	PROPN	P	_	
+gì	gì	X	R	_	
+gí	gí	VERB	V	_	
+góc	góc	NOUN	N	_	
+gói	gói	NOUN	N	_	
+gói	gói	NOUN	Nc	_	
+gói	gói	VERB	V	_	
+góp phần	góp phần	VERB	V	_	
+góp ý	góp ý	VERB	V	_	
+góp	góp	VERB	V	_	
+gõ cửa	gõ cửa	VERB	V	_	
+gõ	gõ	VERB	V	_	
+găng tay	găng tay	NOUN	N	_	
+gương mẫu	gương mẫu	NOUN	N	_	
+gương mặt	gương mặt	NOUN	N	_	
+gấp gáp	gấp gáp	ADJ	A	_	
+gấp	gấp	ADJ	A	_	
+gấp	gấp	VERB	V	_	
+gầm	gầm	NOUN	N	_	
+gần	gần	ADJ	A	_	
+gần	gần	X	R	_	
+gầy dựng	gầy dựng	VERB	V	_	
+gập	gập	VERB	V	_	
+gắn bó	gắn bó	VERB	V	_	
+gặng	gặng	VERB	V	_	
+gặp mặt	gặp mặt	VERB	V	_	
+gặp	gặp	VERB	V	_	
+gọi là	gọi là	X	X	_	
+gọi	gọi	VERB	V	_	
+gốc	gốc	ADJ	A	_	
+gốc	gốc	NOUN	N	_	
+gồm	gồm	VERB	V	_	
+gỗ	gỗ	NOUN	N	_	
+gỡ	gỡ	VERB	V	_	
+gợi ý	gợi ý	VERB	V	_	
+gục	gục	VERB	V	_	
+gửi	gửi	VERB	V	_	
+ha	ha	NOUN	Nu	_	
+hai	hai	NUM	M	NumType=Card	
+ham	ham	VERB	V	_	
+hay là	hay là	CCONJ	C	_	
+hay	hay	CCONJ	C	_	
+hay	hay	VERB	V	_	
+hay	hay	X	R	_	
+heo	heo	NOUN	N	_	
+heroin	heroin	NOUN	Nb	_	
+hi vọng	hi vọng	NOUN	N	_	
+hiến	hiến	VERB	V	_	
+hiếu	hiếu	X	Z	_	
+hiểm	hiểm	ADJ	A	_	
+hiểu	hiểu	VERB	V	_	
+hiện nay	hiện nay	NOUN	N	_	
+hiện trường	hiện trường	NOUN	N	_	
+hiện tại	hiện tại	NOUN	N	_	
+hiện	hiện	NOUN	N	_	
+hiện	hiện	VERB	V	_	
+hiệp sĩ	hiệp sĩ	NOUN	N	_	
+hiệu quả	hiệu quả	NOUN	N	_	
+hiệu trưởng	hiệu trưởng	NOUN	N	_	
+hiệu	hiệu	NOUN	N	_	
+hoa quả	hoa quả	NOUN	N	_	
+hoan nghênh	hoan nghênh	VERB	V	_	
+hoang mang	hoang mang	VERB	V	_	
+hoang	hoang	ADJ	A	_	
+hoài nghi	hoài nghi	VERB	V	_	
+hoàn cảnh	hoàn cảnh	NOUN	N	_	
+hoàn hảo	hoàn hảo	ADJ	A	_	
+hoàn hồn	hoàn hồn	VERB	V	_	
+hoàn lương	hoàn lương	VERB	V	_	
+hoàn thiện	hoàn thiện	VERB	V	_	
+hoàn thành	hoàn thành	VERB	V	_	
+hoàn toàn	hoàn toàn	ADJ	A	_	
+hoàn trả	hoàn trả	VERB	V	_	
+hoàn tất	hoàn tất	VERB	V	_	
+hoành hành	hoành hành	VERB	V	_	
+hoãn	hoãn	VERB	V	_	
+hoạn nạn	hoạn nạn	NOUN	N	_	
+hoạn thư	hoạn thư	NOUN	N	_	
+hoạn thư	hoạn thư	NOUN	Np	_	
+hoạt động	hoạt động	NOUN	N	_	
+hoạt động	hoạt động	VERB	V	_	
+hoảng sợ	hoảng sợ	VERB	V	_	
+hoảng	hoảng	VERB	V	_	
+hoặc	hoặc	SCONJ	CC	_	
+huy động	huy động	VERB	V	_	
+huy	huy	NOUN	Np	_	
+huyết áp	huyết áp	NOUN	N	_	
+huyện	huyện	NOUN	N	_	
+hàm răng	hàm răng	NOUN	N	_	
+hàm ếch	hàm ếch	NOUN	N	_	
+hàng bồ	hàng bồ	NOUN	Np	_	
+hàng hóa	hàng hóa	NOUN	N	_	
+hàng ngũ	hàng ngũ	NOUN	N	_	
+hàng xóm	hàng xóm	NOUN	N	_	
+hàng	hàng	NOUN	N	_	
+hàng	hàng	X	R	_	
+hành chính	hành chính	ADJ	A	_	
+hành chính	hành chính	NOUN	N	_	
+hành vi	hành vi	NOUN	N	_	
+hành động	hành động	VERB	V	_	
+hào hoa	hào hoa	ADJ	A	_	
+hào hứng	hào hứng	ADJ	A	_	
+hào phóng	hào phóng	ADJ	A	_	
+hách dịch	hách dịch	ADJ	A	_	
+háo	háo	VERB	V	_	
+háp	háp	NOUN	Np	_	
+hát	hát	NOUN	N	_	
+hát	hát	VERB	V	_	
+hân hoan	hân hoan	ADJ	A	_	
+hãng	hãng	NOUN	N	_	
+hãy	hãy	X	R	_	
+hé	hé	VERB	V	_	
+héo mòn	héo mòn	VERB	V	_	
+héo	héo	ADJ	A	_	
+hên	hên	ADJ	A	_	
+hình dạng	hình dạng	NOUN	N	_	
+hình thành	hình thành	VERB	V	_	
+hình thức	hình thức	NOUN	N	_	
+hình ảnh	hình ảnh	NOUN	N	_	
+hít	hít	VERB	V	_	
+hòa bình	hòa bình	ADJ	A	_	
+hòa bình	hòa bình	NOUN	N	_	
+hòa giải	hòa giải	VERB	V	_	
+hòa thuận	hòa thuận	ADJ	A	_	
+hóa chất	hóa chất	NOUN	N	_	
+hóa giải	hóa giải	VERB	V	_	
+hóa	hóa	VERB	V	_	
+hóa	hóa	X	Z	_	
+hôm nay	hôm nay	NOUN	N	_	
+hôm qua	hôm qua	NOUN	N	_	
+hôm	hôm	NOUN	N	_	
+hôn nhân	hôn nhân	NOUN	N	_	
+hùng dũng	hùng dũng	ADJ	A	_	
+hùng hậu	hùng hậu	ADJ	A	_	
+hút	hút	VERB	V	_	
+hăm dọa	hăm dọa	VERB	V	_	
+hđnd	hđnd	NOUN	Ny	_	
+hđxx	hđxx	NOUN	Ny	_	
+hơi	hơi	X	R	_	
+hơn	hơn	ADJ	A	_	
+hơn	hơn	X	R	_	
+hư	hư	ADJ	A	_	
+hương nhang	hương nhang	NOUN	N	_	
+hương ước	hương ước	NOUN	N	_	
+hương	hương	NOUN	N	_	
+hướng dẫn	hướng dẫn	VERB	V	_	
+hướng	hướng	NOUN	N	_	
+hướng	hướng	VERB	V	_	
+hưởng ứng	hưởng ứng	VERB	V	_	
+hưởng	hưởng	VERB	V	_	
+hạ lưu	hạ lưu	NOUN	N	_	
+hạ tầng	hạ tầng	NOUN	N	_	
+hạ	hạ	VERB	V	_	
+hại	hại	VERB	V	_	
+hạn chế	hạn chế	ADJ	A	_	
+hạn chế	hạn chế	VERB	V	_	
+hạng	hạng	NOUN	N	_	
+hạnh phúc	hạnh phúc	ADJ	A	_	
+hạnh phúc	hạnh phúc	NOUN	N	_	
+hạnh	hạnh	NOUN	Np	_	
+hạn	hạn	NOUN	N	_	
+hạt	hạt	NOUN	Nc	_	
+hả	hả	PART	T	_	
+hấp dẫn	hấp dẫn	VERB	V	_	
+hầu hết	hầu hết	X	X	_	
+hầu như	hầu như	X	R	_	
+hận	hận	VERB	V	_	
+hậu quả	hậu quả	NOUN	N	_	
+hậu	hậu	ADJ	A	_	
+hắn	hắn	PROPN	P	_	
+hắt	hắt	VERB	V	_	
+hằng	hằng	NOUN	Np	_	
+hằng	hằng	X	R	_	
+hằn	hằn	VERB	V	_	
+hẳn	hẳn	X	R	_	
+hẹn	hẹn	VERB	V	_	
+hết mình	hết mình	X	X	_	
+hết sức	hết sức	X	R	_	
+hết	hết	PART	T	_	
+hết	hết	VERB	V	_	
+hết	hết	X	R	_	
+hề	hề	PART	T	_	
+hệ thống	hệ thống	NOUN	N	_	
+họ hàng	họ hàng	NOUN	N	_	
+học sinh	học sinh	NOUN	N	_	
+học tập	học tập	VERB	V	_	
+học	học	NOUN	N	_	
+học	học	VERB	V	_	
+họ	họ	NOUN	N	_	
+họ	họ	PROPN	P	_	
+họp mặt	họp mặt	VERB	V	_	
+họp	họp	VERB	V	_	
+hỏa hoạn	hỏa hoạn	NOUN	N	_	
+hỏi dò	hỏi dò	VERB	V	_	
+hỏi	hỏi	VERB	V	_	
+hối hả	hối hả	ADJ	A	_	
+hốt	hốt	VERB	V	_	
+hồ hởi	hồ hởi	ADJ	A	_	
+hồ sơ	hồ sơ	NOUN	N	_	
+hồi hộp	hồi hộp	VERB	V	_	
+hồi sinh	hồi sinh	VERB	V	_	
+hồi	hồi	NOUN	N	_	
+hồn ma	hồn ma	NOUN	N	_	
+hồn	hồn	NOUN	N	_	
+hỗ trợ	hỗ trợ	VERB	V	_	
+hỗn loạn	hỗn loạn	ADJ	A	_	
+hộ chiếu	hộ chiếu	NOUN	N	_	
+hộ	hộ	NOUN	N	_	
+hội chứng	hội chứng	NOUN	N	_	
+hội nghị	hội nghị	NOUN	N	_	
+hội nhập	hội nhập	VERB	V	_	
+hội trường	hội trường	NOUN	N	_	
+hội tề	hội tề	NOUN	N	_	
+hội đoàn	hội đoàn	NOUN	N	_	
+hội đồng	hội đồng	NOUN	N	_	
+hội	hội	NOUN	N	_	
+hội	hội	NOUN	Np	_	
+hộp	hộp	NOUN	Nc	_	
+hờn	hờn	NOUN	N	_	
+hợp lý	hợp lý	ADJ	A	_	
+hợp pháp	hợp pháp	ADJ	A	_	
+hợp tác	hợp tác	VERB	V	_	
+hợp đồng	hợp đồng	NOUN	N	_	
+hợp	hợp	ADJ	A	_	
+hụt	hụt	ADJ	A	_	
+hứa	hứa	VERB	V	_	
+im lặng	im lặng	ADJ	A	_	
+im lặng	im lặng	VERB	V	_	
+im	im	ADJ	A	_	
+in	in	VERB	V	_	
+johor	johor	NOUN	Np	_	
+karaoke	karaoke	NOUN	Nb	_	
+kg	kg	NOUN	Nu	_	
+khai báo	khai báo	VERB	V	_	
+khai hoang	khai hoang	VERB	V	_	
+khai mạc	khai mạc	VERB	V	_	
+khai sinh	khai sinh	VERB	V	_	
+khai thác	khai thác	VERB	V	_	
+khai tử	khai tử	VERB	V	_	
+khai	khai	VERB	V	_	
+khang trang	khang trang	ADJ	A	_	
+khen thưởng	khen thưởng	VERB	V	_	
+khi	khi	NOUN	N	_	
+khiến	khiến	VERB	V	_	
+khiếp sợ	khiếp sợ	VERB	V	_	
+khiếu nại	khiếu nại	VERB	V	_	
+khoa	khoa	NOUN	N	_	
+khoanh vùng	khoanh vùng	VERB	V	_	
+khoanh	khoanh	VERB	V	_	
+khoảng	khoảng	ADJ	A	_	
+khoảng	khoảng	NOUN	N	_	
+khoản	khoản	NOUN	N	_	
+khoản	khoản	NOUN	Nc	_	
+khu phố	khu phố	NOUN	N	_	
+khu tập thể	khu tập thể	NOUN	N	_	
+khu vực	khu vực	NOUN	N	_	
+khu	khu	NOUN	N	_	
+khu	khu	NOUN	Nc	_	
+khuya	khuya	ADJ	A	_	
+khuya	khuya	NOUN	N	_	
+khuyên can	khuyên can	VERB	V	_	
+khuyên răn	khuyên răn	VERB	V	_	
+khuyên	khuyên	VERB	V	_	
+khuyến cáo	khuyến cáo	NOUN	N	_	
+khuôn khổ	khuôn khổ	NOUN	N	_	
+khuôn mặt	khuôn mặt	NOUN	N	_	
+khuôn	khuôn	NOUN	N	_	
+khuất phục	khuất phục	NOUN	N	_	
+khuấy động	khuấy động	VERB	V	_	
+khác thường	khác thường	ADJ	A	_	
+khách hàng	khách hàng	NOUN	N	_	
+khách quan	khách quan	ADJ	A	_	
+khách sạn	khách sạn	NOUN	N	_	
+khách	khách	NOUN	N	_	
+khác	khác	ADJ	A	_	
+khái niệm	khái niệm	NOUN	N	_	
+khá	khá	ADJ	A	_	
+khá	khá	X	R	_	
+khám xét	khám xét	VERB	V	_	
+khám	khám	VERB	V	_	
+kháng chiến	kháng chiến	VERB	V	_	
+khâm phục	khâm phục	VERB	V	_	
+khâu	khâu	NOUN	N	_	
+khí khái	khí khái	ADJ	A	_	
+khí thế	khí thế	NOUN	N	_	
+khít	khít	ADJ	A	_	
+khó khăn	khó khăn	ADJ	A	_	
+khó khăn	khó khăn	NOUN	N	_	
+khóa	khóa	NOUN	N	_	
+khóa	khóa	VERB	V	_	
+khóc	khóc	VERB	V	_	
+khóe	khóe	NOUN	N	_	
+khói	khói	NOUN	N	_	
+khó	khó	ADJ	A	_	
+khó	khó	VERB	V	_	
+khôi phục	khôi phục	VERB	V	_	
+khôn khéo	khôn khéo	ADJ	A	_	
+không khí	không khí	NOUN	N	_	
+không thể	không thể	X	R	Polarity=Neg	
+không	không	X	R	Polarity=Neg	
+khôn	khôn	ADJ	A	_	
+khăn gói	khăn gói	VERB	V	_	
+khăn xếp	khăn xếp	NOUN	N	_	
+khăn	khăn	NOUN	N	_	
+khả nghi	khả nghi	ADJ	A	_	
+khả năng	khả năng	NOUN	N	_	
+khả quan	khả quan	ADJ	A	_	
+khảo sát	khảo sát	VERB	V	_	
+khắc khoải	khắc khoải	ADJ	A	_	
+khắc phục	khắc phục	VERB	V	_	
+khắc tinh	khắc tinh	NOUN	N	_	
+khắp nơi	khắp nơi	NOUN	N	_	
+khắp	khắp	ADJ	A	_	
+khẳng định	khẳng định	VERB	V	_	
+khỏe	khỏe	ADJ	A	_	
+khỏi	khỏi	VERB	V	_	
+khỏi	khỏi	X	R	_	
+khối lượng	khối lượng	NOUN	N	_	
+khốn khổ	khốn khổ	ADJ	A	_	
+khổ	khổ	ADJ	A	_	
+khổ	khổ	NOUN	N	_	
+khởi công	khởi công	VERB	V	_	
+khởi nghĩa	khởi nghĩa	NOUN	N	_	
+khởi tố	khởi tố	VERB	V	_	
+khủng khiếp	khủng khiếp	ADJ	A	_	
+kia	kia	NOUN	N	_	
+kia	kia	PROPN	P	_	
+kim	kim	NOUN	N	_	
+kinh doanh	kinh doanh	VERB	V	_	
+kinh hoảng	kinh hoảng	VERB	V	_	
+kinh nghiệm	kinh nghiệm	NOUN	N	_	
+kinh ngạc	kinh ngạc	VERB	V	_	
+kinh phí	kinh phí	NOUN	N	_	
+kinh tế	kinh tế	NOUN	N	_	
+kiêm	kiêm	VERB	V	_	
+kiên cố	kiên cố	ADJ	A	_	
+kiên quyết	kiên quyết	ADJ	A	_	
+kiếm	kiếm	VERB	V	_	
+kiến nghị	kiến nghị	VERB	V	_	
+kiến thức	kiến thức	NOUN	N	_	
+kiềng	kiềng	NOUN	N	_	
+kiều bào	kiều bào	NOUN	N	_	
+kiểm lâm	kiểm lâm	NOUN	N	_	
+kiểm soát	kiểm soát	VERB	V	_	
+kiểm tra	kiểm tra	VERB	V	_	
+kiểm điểm	kiểm điểm	VERB	V	_	
+kiện toàn	kiện toàn	VERB	V	_	
+kiện	kiện	VERB	V	_	
+kiệt sức	kiệt sức	ADJ	A	_	
+km	km	NOUN	Nu	_	
+kuala lumpur	kuala lumpur	NOUN	Np	_	
+kèm	kèm	VERB	V	_	
+kém	kém	ADJ	A	_	
+kéo dài	kéo dài	VERB	V	_	
+kéo	kéo	VERB	V	_	
+kênh	kênh	NOUN	N	_	
+kêu gào	kêu gào	VERB	V	_	
+kêu gọi	kêu gọi	VERB	V	_	
+kêu	kêu	VERB	V	_	
+kín đáo	kín đáo	ADJ	A	_	
+kính lúp	kính lúp	NOUN	N	_	
+kính lặn	kính lặn	NOUN	N	_	
+kính	kính	NOUN	N	_	
+kíp	kíp	NOUN	N	_	
+ký	ký	VERB	V	_	
+kẹo cao su	kẹo cao su	NOUN	N	_	
+kẹt	kẹt	VERB	V	_	
+kẻ	kẻ	NOUN	N	_	
+kẻ	kẻ	NOUN	Nc	_	
+kẽm	kẽm	NOUN	N	_	
+kế hoạch hóa	kế hoạch hóa	VERB	V	_	
+kế hoạch	kế hoạch	NOUN	N	_	
+kế tiếp	kế tiếp	VERB	V	_	
+kế toán	kế toán	NOUN	N	_	
+kế	kế	NOUN	N	_	
+kết luận	kết luận	VERB	V	_	
+kết quả	kết quả	NOUN	N	_	
+kết thúc	kết thúc	VERB	V	_	
+kể cả	kể cả	X	X	_	
+kể	kể	VERB	V	_	
+kịch bản	kịch bản	NOUN	N	_	
+kịp	kịp	ADJ	A	_	
+kịp	kịp	VERB	V	_	
+kỷ luật	kỷ luật	NOUN	N	_	
+kỷ luật	kỷ luật	VERB	V	_	
+kỷ niệm	kỷ niệm	VERB	V	_	
+kỹ thuật	kỹ thuật	NOUN	N	_	
+kỹ	kỹ	ADJ	A	_	
+la cà	la cà	VERB	V	_	
+lan truyền	lan truyền	VERB	V	_	
+lang bạt	lang bạt	VERB	V	_	
+lang thang	lang thang	VERB	V	_	
+lan	lan	NOUN	Np	_	
+lao công	lao công	NOUN	N	_	
+lao động	lao động	NOUN	N	_	
+lao động	lao động	VERB	V	_	
+lao	lao	VERB	V	_	
+lau chùi	lau chùi	VERB	V	_	
+lau	lau	VERB	V	_	
+len lách	len lách	VERB	V	_	
+leo lét	leo lét	ADJ	A	_	
+leo	leo	VERB	V	_	
+linh tính	linh tính	NOUN	N	_	
+liên cảng A5	liên cảng A5	NOUN	Np	_	
+liên hệ	liên hệ	VERB	V	_	
+liên hồi	liên hồi	ADJ	A	_	
+liên quan	liên quan	VERB	V	_	
+liên quân	liên quân	NOUN	N	_	
+liên tục	liên tục	ADJ	A	_	
+liên	liên	NOUN	Np	_	
+liên	liên	X	X	_	
+liên	liên	X	Z	_	
+liền	liền	ADJ	A	_	
+liền	liền	X	R	_	
+liều	liều	NOUN	Nc	_	
+liệt sĩ	liệt sĩ	NOUN	N	_	
+liệu	liệu	VERB	V	_	
+lo lắng	lo lắng	VERB	V	_	
+lo sợ	lo sợ	VERB	V	_	
+lo âu	lo âu	VERB	V	_	
+loan	loan	VERB	V	_	
+lo	lo	VERB	V	_	
+long	long	NOUN	Np	_	
+lon	lon	NOUN	N	_	
+loãng	loãng	ADJ	A	_	
+loại bỏ	loại bỏ	VERB	V	_	
+loại	loại	NOUN	N	_	
+loại	loại	NOUN	Nc	_	
+loại	loại	VERB	V	_	
+loạt	loạt	NOUN	Nc	_	
+luôn	luôn	X	R	_	
+luật pháp	luật pháp	NOUN	N	_	
+luật sư	luật sư	NOUN	N	_	
+luật	luật	NOUN	N	_	
+ly dị	ly dị	VERB	V	_	
+là	là	AUX	V	_	
+là	là	CCONJ	C	_	
+là	là	VERB	V	_	
+làm chứng	làm chứng	VERB	V	_	
+làm giàu	làm giàu	VERB	V	_	
+làm gương	làm gương	VERB	V	_	
+làm sao	làm sao	X	R	_	
+làm sao	làm sao	X	X	_	
+làm việc	làm việc	VERB	V	_	
+làm ăn	làm ăn	VERB	V	_	
+làm đồng	làm đồng	VERB	V	_	
+làm	làm	VERB	V	_	
+làng chơi	làng chơi	NOUN	N	_	
+làng	làng	NOUN	N	_	
+lành lặn	lành lặn	ADJ	A	_	
+lành mạnh	lành mạnh	ADJ	A	_	
+lành	lành	ADJ	A	_	
+lác đác	lác đác	ADJ	A	_	
+lái	lái	VERB	V	_	
+lá	lá	NOUN	N	_	
+lá	lá	NOUN	Nc	_	
+lán trại	lán trại	NOUN	N	_	
+lát	lát	NOUN	N	_	
+lâu lâu	lâu lâu	ADJ	A	_	
+lâu lâu	lâu lâu	X	R	_	
+lâu	lâu	ADJ	A	_	
+lãi	lãi	NOUN	N	_	
+lãng phí	lãng phí	VERB	V	_	
+lãnh sự	lãnh sự	NOUN	N	_	
+lãnh tụ	lãnh tụ	NOUN	N	_	
+lãnh đạo	lãnh đạo	NOUN	N	_	
+lãnh đạo	lãnh đạo	VERB	V	_	
+lãnh	lãnh	VERB	V	_	
+lão nông	lão nông	NOUN	N	_	
+lên tiếng	lên tiếng	VERB	V	_	
+lên đường	lên đường	VERB	V	_	
+lên	lên	ADP	E	_	
+lên	lên	VERB	V	_	
+lên	lên	X	R	_	
+lòng sông	lòng sông	NOUN	N	_	
+lòng	lòng	NOUN	N	_	
+lót	lót	VERB	V	_	
+lôi kéo	lôi kéo	VERB	V	_	
+lù lù	lù lù	ADJ	A	_	
+lùi	lùi	VERB	V	_	
+lú lẫn	lú lẫn	ADJ	A	_	
+lúa	lúa	NOUN	N	_	
+lúc	lúc	NOUN	N	_	
+lúng túng	lúng túng	VERB	V	_	
+lý do	lý do	NOUN	N	_	
+lý	lý	NOUN	N	_	
+lăn xả	lăn xả	VERB	V	_	
+lĩnh vực	lĩnh vực	NOUN	N	_	
+lũ lụt	lũ lụt	NOUN	N	_	
+lơ ngơ	lơ ngơ	ADJ	A	_	
+lơi lỏng	lơi lỏng	VERB	V	_	
+lưng	lưng	NOUN	N	_	
+lưu thông	lưu thông	VERB	V	_	
+lưu ý	lưu ý	VERB	V	_	
+lưu	lưu	VERB	V	_	
+lương bổng	lương bổng	NOUN	N	_	
+lương tâm	lương tâm	NOUN	N	_	
+lương	lương	NOUN	N	_	
+lượm	lượm	VERB	V	_	
+lượng	lượng	NOUN	N	_	
+lượt	lượt	NOUN	N	_	
+lạ kỳ	lạ kỳ	ADJ	A	_	
+lạ đời	lạ đời	ADJ	A	_	
+lạc	lạc	VERB	V	_	
+lại	lại	VERB	V	_	
+lại	lại	X	R	_	
+lạ	lạ	ADJ	A	_	
+lạnh lùng	lạnh lùng	ADJ	A	_	
+lạnh	lạnh	ADJ	A	_	
+lấn chiếm	lấn chiếm	VERB	V	_	
+lấp	lấp	VERB	V	_	
+lấy	lấy	VERB	V	_	
+lấy	lấy	X	R	_	
+lầm lũi	lầm lũi	ADJ	A	_	
+lầm than	lầm than	ADJ	A	_	
+lầm	lầm	VERB	V	_	
+lần lượt	lần lượt	X	R	_	
+lần	lần	NOUN	N	_	
+lầu	lầu	NOUN	N	_	
+lẩn	lẩn	VERB	V	_	
+lẫn	lẫn	X	R	_	
+lận đận	lận đận	ADJ	A	_	
+lập kế	lập kế	VERB	V	_	
+lập tức	lập tức	X	R	_	
+lập	lập	VERB	V	_	
+lật tẩy	lật tẩy	VERB	V	_	
+lật	lật	VERB	V	_	
+lậu	lậu	ADJ	A	_	
+lắm	lắm	PART	T	_	
+lắm	lắm	X	R	_	
+lắp đặt	lắp đặt	VERB	V	_	
+lắp	lắp	VERB	V	_	
+lặn lội	lặn lội	VERB	V	_	
+lặn ngụp	lặn ngụp	VERB	V	_	
+lặng lẽ	lặng lẽ	ADJ	A	_	
+lặn	lặn	VERB	V	_	
+lề đường	lề đường	NOUN	N	_	
+lễ phép	lễ phép	ADJ	A	_	
+lễ tân	lễ tân	NOUN	N	_	
+lễ độ	lễ độ	ADJ	A	_	
+lễ	lễ	NOUN	N	_	
+lệ phí	lệ phí	NOUN	N	_	
+lịch sử	lịch sử	ADJ	A	_	
+lịch trình	lịch trình	NOUN	N	_	
+lọt	lọt	VERB	V	_	
+lối thoát	lối thoát	NOUN	N	_	
+lỗi	lỗi	NOUN	N	_	
+lộ	lộ	VERB	V	_	
+lộn	lộn	VERB	V	_	
+lớn khôn	lớn khôn	ADJ	A	_	
+lớn khôn	lớn khôn	VERB	V	_	
+lớn	lớn	ADJ	A	_	
+lớn	lớn	VERB	V	_	
+lớp học	lớp học	NOUN	N	_	
+lớp	lớp	NOUN	N	_	
+lời lãi	lời lãi	NOUN	N	_	
+lời lẽ	lời lẽ	NOUN	N	_	
+lời	lời	NOUN	N	_	
+lỡ	lỡ	VERB	V	_	
+lợi ích	lợi ích	NOUN	N	_	
+lợi	lợi	NOUN	N	_	
+lửa	lửa	NOUN	N	_	
+lựa chọn	lựa chọn	VERB	V	_	
+lực lượng	lực lượng	NOUN	N	_	
+lực	lực	NOUN	N	_	
+m3	m3	NOUN	Nu	_	
+ma túy	ma túy	NOUN	N	_	
+mai một	mai một	VERB	V	_	
+mai	mai	NOUN	N	_	
+ma	ma	NOUN	N	_	
+mang thai	mang thai	VERB	V	_	
+mang	mang	VERB	V	_	
+marketing	marketing	NOUN	Nb	_	
+may mắn	may mắn	ADJ	A	_	
+may	may	ADJ	A	_	
+men	men	NOUN	N	_	
+men	men	VERB	V	_	
+minh bạch	minh bạch	ADJ	A	_	
+minh chứng	minh chứng	VERB	V	_	
+miếng	miếng	NOUN	Nc	_	
+miền	miền	NOUN	N	_	
+miệng	miệng	NOUN	N	_	
+miệt mài	miệt mài	ADJ	A	_	
+m	m	NOUN	Nu	_	
+mobile	mobile	NOUN	Nb	_	
+mong muốn	mong muốn	VERB	V	_	
+mong mỏi	mong mỏi	VERB	V	_	
+mong	mong	VERB	V	_	
+mua bán	mua bán	VERB	V	_	
+mua dâm	mua dâm	VERB	V	_	
+mua đi bán lại	mua đi bán lại	VERB	V	_	
+mua	mua	VERB	V	_	
+muối	muối	NOUN	N	_	
+muốn	muốn	VERB	V	_	
+muộn	muộn	ADJ	A	_	
+mà	mà	CCONJ	C	_	
+mà	mà	PART	T	_	
+màn hình	màn hình	NOUN	N	_	
+màn kịch	màn kịch	NOUN	N	_	
+màng	màng	VERB	V	_	
+màu	màu	NOUN	N	_	
+mách bảo	mách bảo	VERB	V	_	
+má	má	NOUN	N	_	
+máu xương	máu xương	NOUN	N	_	
+máu	máu	NOUN	N	_	
+máy fax	máy fax	NOUN	N	_	
+máy móc	máy móc	NOUN	N	_	
+máy tính	máy tính	NOUN	N	_	
+máy ảnh	máy ảnh	NOUN	N	_	
+máy	máy	NOUN	N	_	
+mâu thuẫn	mâu thuẫn	VERB	V	_	
+mây	mây	NOUN	N	_	
+mãi lộ	mãi lộ	NOUN	N	_	
+mãi	mãi	X	R	_	
+mãnh liệt	mãnh liệt	ADJ	A	_	
+mé	mé	NOUN	N	_	
+mép	mép	NOUN	N	_	
+mì	mì	NOUN	N	_	
+mình	mình	NOUN	N	_	
+mình	mình	PROPN	P	_	
+mìn	mìn	NOUN	N	_	
+mít	mít	NOUN	N	_	
+móc	móc	VERB	V	_	
+móng	móng	NOUN	N	_	
+món	món	NOUN	N	_	
+món	món	NOUN	Nc	_	
+mô hình	mô hình	NOUN	N	_	
+mô tả	mô tả	VERB	V	_	
+môi giới	môi giới	NOUN	N	_	
+môi giới	môi giới	VERB	V	_	
+môi trường	môi trường	NOUN	N	_	
+môi	môi	NOUN	N	_	
+mùa	mùa	NOUN	N	_	
+mùi	mùi	NOUN	N	_	
+mũi	mũi	NOUN	N	_	
+mũ	mũ	NOUN	N	_	
+mưa	mưa	NOUN	N	_	
+mưa	mưa	VERB	V	_	
+mưu	mưu	NOUN	N	_	
+mướp	mướp	NOUN	N	_	
+mười	mười	NUM	M	NumType=Card	
+mượn	mượn	VERB	V	_	
+mạch máu	mạch máu	NOUN	N	_	
+mại dâm	mại dâm	VERB	V	_	
+mạnh dạn	mạnh dạn	ADJ	A	_	
+mạnh mẽ	mạnh mẽ	ADJ	A	_	
+mạnh	mạnh	ADJ	A	_	
+mảnh	mảnh	NOUN	N	_	
+mảnh	mảnh	NOUN	Nc	_	
+mất mát	mất mát	NOUN	N	_	
+mất mát	mất mát	VERB	V	_	
+mất sức	mất sức	VERB	V	_	
+mất trí	mất trí	VERB	V	_	
+mất tích	mất tích	VERB	V	_	
+mất	mất	VERB	V	_	
+mấy	mấy	DET	L	_	
+mấy	mấy	NUM	M	NumType=Card	
+mầm	mầm	NOUN	N	_	
+mẫn cán	mẫn cán	ADJ	A	_	
+mẫu	mẫu	NOUN	N	_	
+mận	mận	NOUN	N	_	
+mắt	mắt	NOUN	N	_	
+mặc	mặc	VERB	V	_	
+mặt bằng	mặt bằng	NOUN	N	_	
+mặt hàng	mặt hàng	NOUN	N	_	
+mặt mày	mặt mày	NOUN	N	_	
+mặt nước	mặt nước	NOUN	N	_	
+mặt nặng mày nhẹ	mặt nặng mày nhẹ	X	X	_	
+mặt đất	mặt đất	NOUN	N	_	
+mặt	mặt	NOUN	N	_	
+mẹ con	mẹ con	NOUN	N	_	
+mẹ	mẹ	NOUN	N	_	
+mẻ	mẻ	NOUN	N	_	
+mềm	mềm	ADJ	A	_	
+mệt mỏi	mệt mỏi	ADJ	A	_	
+mệt	mệt	VERB	V	_	
+mịt mù	mịt mù	ADJ	A	_	
+mọc	mọc	VERB	V	_	
+mọi	mọi	DET	L	_	
+mọi	mọi	NOUN	N	_	
+mọi	mọi	NUM	M	NumType=Card	
+mỏ lết	mỏ lết	NOUN	Nb	_	
+mỏng	mỏng	ADJ	A	_	
+mối	mối	NOUN	N	_	
+mồ hôi nước mắt	mồ hôi nước mắt	X	X	_	
+mồ hôi	mồ hôi	NOUN	N	_	
+mổ	mổ	VERB	V	_	
+mỗi	mỗi	DET	L	_	
+mỗi	mỗi	NUM	M	NumType=Card	
+một cách	một cách	NOUN	N	_	
+một mình	một mình	X	X	_	
+một nửa	một nửa	DET	L	_	
+một số	một số	DET	L	_	
+một vài	một vài	DET	L	_	
+một ít	một ít	NUM	M	NumType=Card	
+một	một	NUM	M	NumType=Card	
+mới tinh	mới tinh	ADJ	A	_	
+mới	mới	ADJ	A	_	
+mới	mới	X	R	_	
+mời	mời	VERB	V	_	
+mở cửa	mở cửa	VERB	V	_	
+mở mang	mở mang	VERB	V	_	
+mở rộng	mở rộng	VERB	V	_	
+mở đầu	mở đầu	VERB	V	_	
+mở	mở	VERB	V	_	
+mục tiêu	mục tiêu	NOUN	N	_	
+mục đích	mục đích	NOUN	N	_	
+mục	mục	NOUN	N	_	
+mủi lòng	mủi lòng	VERB	V	_	
+mức	mức	NOUN	N	_	
+mừng quýnh	mừng quýnh	VERB	V	_	
+mừng tủi	mừng tủi	NOUN	N	_	
+mừng	mừng	ADJ	A	_	
+mừng	mừng	VERB	V	_	
+mỹ mãn	mỹ mãn	ADJ	A	_	
+mỹ nghệ	mỹ nghệ	NOUN	N	_	
+mỹ phẩm	mỹ phẩm	NOUN	N	_	
+nam bộ	nam bộ	NOUN	Np	_	
+nam	nam	NOUN	N	_	
+nam	nam	NOUN	Np	_	
+nanh nọc	nanh nọc	ADJ	A	_	
+nay	nay	NOUN	N	_	
+nay	nay	PROPN	P	_	
+neo	neo	VERB	V	_	
+ngang	ngang	ADJ	A	_	
+ngay	ngay	PART	T	_	
+ngay	ngay	X	R	_	
+nghe	nghe	VERB	V	_	
+nghi vấn	nghi vấn	NOUN	N	_	
+nghi vấn	nghi vấn	VERB	V	_	
+nghi	nghi	VERB	V	_	
+nghiêm minh	nghiêm minh	ADJ	A	_	
+nghiêm trang	nghiêm trang	ADJ	A	_	
+nghiêm trọng	nghiêm trọng	ADJ	A	_	
+nghiêm túc	nghiêm túc	ADJ	A	_	
+nghiên cứu	nghiên cứu	VERB	V	_	
+nghiến	nghiến	VERB	V	_	
+nghiện hút	nghiện hút	VERB	V	_	
+nghiện	nghiện	VERB	V	_	
+nghiệp dư	nghiệp dư	ADJ	A	_	
+nghèo khó	nghèo khó	ADJ	A	_	
+nghèo	nghèo	ADJ	A	_	
+nghĩa tình	nghĩa tình	NOUN	N	_	
+nghĩa vụ	nghĩa vụ	NOUN	N	_	
+nghĩa	nghĩa	NOUN	N	_	
+nghĩ	nghĩ	VERB	V	_	
+nghẹn ngào	nghẹn ngào	VERB	V	_	
+nghề nghiệp	nghề nghiệp	NOUN	N	_	
+nghề	nghề	NOUN	N	_	
+nghỉ tay	nghỉ tay	VERB	V	_	
+nghỉ việc	nghỉ việc	VERB	V	_	
+nghỉ	nghỉ	VERB	V	_	
+nghị quyết	nghị quyết	NOUN	N	_	
+nghị định	nghị định	NOUN	N	_	
+nghịch	nghịch	VERB	V	_	
+ngoan ngoãn	ngoan ngoãn	ADJ	A	_	
+ngoài	ngoài	ADP	E	_	
+ngoài	ngoài	NOUN	N	_	
+ngoại giao	ngoại giao	NOUN	N	_	
+ngoại ngữ	ngoại ngữ	NOUN	N	_	
+ngoại tình	ngoại tình	VERB	V	_	
+ngoại ô	ngoại ô	NOUN	N	_	
+ngoắt	ngoắt	VERB	V	_	
+nguy cơ	nguy cơ	NOUN	N	_	
+nguy hiểm	nguy hiểm	ADJ	A	_	
+nguyên nhân	nguyên nhân	NOUN	N	_	
+nguyên tắc	nguyên tắc	NOUN	N	_	
+nguyên văn	nguyên văn	NOUN	N	_	
+nguyên vẹn	nguyên vẹn	ADJ	A	_	
+nguyên	nguyên	NOUN	Np	_	
+nguyên	nguyên	X	Z	_	
+nguyễn công trứ	nguyễn công trứ	NOUN	Np	_	
+nguyễn thị dậu	nguyễn thị dậu	NOUN	Np	_	
+nguyễn văn linh	nguyễn văn linh	NOUN	Np	_	
+nguyễn văn nhã	nguyễn văn nhã	NOUN	Np	_	
+nguyễn văn tường	nguyễn văn tường	NOUN	Np	_	
+nguyện vọng	nguyện vọng	NOUN	N	_	
+nguôi ngoai	nguôi ngoai	VERB	V	_	
+nguồn gốc	nguồn gốc	NOUN	N	_	
+nguồn lực	nguồn lực	NOUN	N	_	
+nguồn	nguồn	NOUN	N	_	
+ngài	ngài	NOUN	N	_	
+ngành	ngành	NOUN	N	_	
+ngàn	ngàn	NOUN	N	_	
+ngày càng	ngày càng	X	X	_	
+ngày giờ	ngày giờ	NOUN	N	_	
+ngày kia	ngày kia	NOUN	N	_	
+ngày mai	ngày mai	NOUN	N	_	
+ngày một	ngày một	X	X	_	
+ngày tháng	ngày tháng	NOUN	N	_	
+ngày xưa	ngày xưa	NOUN	N	_	
+ngày đêm	ngày đêm	NOUN	N	_	
+ngày	ngày	NOUN	N	_	
+ngày	ngày	X	R	_	
+ngách	ngách	NOUN	N	_	
+ngâm	ngâm	VERB	V	_	
+ngân hàng	ngân hàng	NOUN	N	_	
+ngân sách	ngân sách	NOUN	N	_	
+ngã	ngã	NOUN	N	_	
+ngòi nổ	ngòi nổ	NOUN	N	_	
+ngói	ngói	NOUN	N	_	
+ngôi	ngôi	NOUN	N	_	
+ngôi	ngôi	NOUN	Nc	_	
+ngõ ngách	ngõ ngách	NOUN	N	_	
+ngõ	ngõ	NOUN	N	_	
+ngăn chặn	ngăn chặn	VERB	V	_	
+ngăn cản	ngăn cản	VERB	V	_	
+ngăn	ngăn	VERB	V	_	
+ngơ ngác	ngơ ngác	ADJ	A	_	
+người người	người người	NOUN	N	_	
+người nhà	người nhà	NOUN	N	_	
+người ta	người ta	NOUN	N	_	
+người thân	người thân	NOUN	N	_	
+người tình	người tình	NOUN	N	_	
+người yêu	người yêu	NOUN	N	_	
+người	người	NOUN	N	_	
+người	người	NOUN	Nc	_	
+ngạc nhiên	ngạc nhiên	ADJ	A	_	
+ngại	ngại	VERB	V	_	
+ngải	ngải	NOUN	N	_	
+ngả	ngả	NOUN	N	_	
+ngần ngại	ngần ngại	VERB	V	_	
+ngẩn ngơ	ngẩn ngơ	ADJ	A	_	
+ngẫm	ngẫm	VERB	V	_	
+ngập ngừng	ngập ngừng	VERB	V	_	
+ngật ngưỡng	ngật ngưỡng	ADJ	A	_	
+ngắn ngủi	ngắn ngủi	ADJ	A	_	
+ngặt nghèo	ngặt nghèo	ADJ	A	_	
+ngọc hà	ngọc hà	NOUN	Np	_	
+ngọn	ngọn	NOUN	Nc	_	
+ngọt	ngọt	ADJ	A	_	
+ngồi tù	ngồi tù	VERB	V	_	
+ngồi	ngồi	VERB	V	_	
+ngờ vực	ngờ vực	NOUN	N	_	
+ngờ vực	ngờ vực	VERB	V	_	
+ngờ	ngờ	VERB	V	_	
+ngỡ	ngỡ	VERB	V	_	
+ngủ	ngủ	VERB	V	_	
+nhan đề	nhan đề	NOUN	N	_	
+nhanh chóng	nhanh chóng	ADJ	A	_	
+nhanh nhẹn	nhanh nhẹn	ADJ	A	_	
+nhanh	nhanh	ADJ	A	_	
+nhao nhao	nhao nhao	VERB	V	_	
+nhau	nhau	NOUN	N	_	
+nhau	nhau	PROPN	P	_	
+nhi	nhi	NOUN	Np	_	
+nhiêu khê	nhiêu khê	ADJ	A	_	
+nhiều	nhiều	ADJ	A	_	
+nhiễm	nhiễm	VERB	V	_	
+nhiệm vụ	nhiệm vụ	NOUN	N	_	
+nhiệt	nhiệt	NOUN	N	_	
+nho nhã	nho nhã	ADJ	A	_	
+nhoáng	nhoáng	VERB	V	_	
+nhu cầu	nhu cầu	NOUN	N	_	
+nhu mì	nhu mì	ADJ	A	_	
+nhu	nhu	NOUN	Np	_	
+nhuốm	nhuốm	VERB	V	_	
+nhà bè	nhà bè	NOUN	Np	_	
+nhà giam	nhà giam	NOUN	N	_	
+nhà hàng	nhà hàng	NOUN	N	_	
+nhà khoa học	nhà khoa học	NOUN	N	_	
+nhà nghỉ	nhà nghỉ	NOUN	N	_	
+nhà nước	nhà nước	NOUN	N	_	
+nhà quê	nhà quê	NOUN	N	_	
+nhà trai	nhà trai	NOUN	N	_	
+nhà tình nghĩa	nhà tình nghĩa	NOUN	N	_	
+nhà văn hóa	nhà văn hóa	NOUN	N	_	
+nhà xe	nhà xe	NOUN	N	_	
+nhà đầu tư	nhà đầu tư	NOUN	N	_	
+nhà	nhà	NOUN	N	_	
+nhà	nhà	NOUN	Nc	_	
+nhàn	nhàn	ADJ	A	_	
+nhá	nhá	PART	T	_	
+nhân chứng	nhân chứng	NOUN	N	_	
+nhân danh	nhân danh	VERB	V	_	
+nhân dân	nhân dân	NOUN	N	_	
+nhân hậu	nhân hậu	ADJ	A	_	
+nhân tài	nhân tài	NOUN	N	_	
+nhân viên	nhân viên	NOUN	N	_	
+nhân vật	nhân vật	NOUN	N	_	
+nhân đạo	nhân đạo	NOUN	N	_	
+nhân	nhân	VERB	V	_	
+nhãn tiền	nhãn tiền	ADJ	A	_	
+nhé	nhé	PART	T	_	
+nhét	nhét	VERB	V	_	
+nhìn nhận	nhìn nhận	VERB	V	_	
+nhìn	nhìn	VERB	V	_	
+nhóm	nhóm	NOUN	N	_	
+nhóm	nhóm	NOUN	Nc	_	
+nhô	nhô	VERB	V	_	
+nhũng nhiễu	nhũng nhiễu	VERB	V	_	
+như thế nào	như thế nào	X	X	_	
+như thế này	như thế này	X	X	_	
+như vậy	như vậy	X	X	_	
+nhưng	nhưng	CCONJ	C	_	
+như	như	ADJ	A	_	
+như	như	CCONJ	C	_	
+nhạt phai	nhạt phai	VERB	V	_	
+nhảy	nhảy	VERB	V	_	
+nhấn mạnh	nhấn mạnh	VERB	V	_	
+nhấp nháy	nhấp nháy	VERB	V	_	
+nhất là	nhất là	X	X	_	
+nhất quyết	nhất quyết	ADJ	A	_	
+nhất thiết	nhất thiết	VERB	V	_	
+nhất định	nhất định	X	R	_	
+nhất	nhất	ADJ	A	_	
+nhất	nhất	NOUN	N	_	
+nhất	nhất	NUM	M	NumType=Card	
+nhất	nhất	X	R	_	
+nhầm	nhầm	VERB	V	_	
+nhận thức	nhận thức	VERB	V	_	
+nhận định	nhận định	VERB	V	_	
+nhận	nhận	VERB	V	_	
+nhập khẩu	nhập khẩu	VERB	V	_	
+nhật ký	nhật ký	NOUN	N	_	
+nhắc	nhắc	VERB	V	_	
+nhắm mắt	nhắm mắt	VERB	V	_	
+nhắn tin	nhắn tin	VERB	V	_	
+nhắn	nhắn	VERB	V	_	
+nhằm	nhằm	ADP	E	_	
+nhằm	nhằm	VERB	V	_	
+nhặt	nhặt	VERB	V	_	
+nhẹ nhàng	nhẹ nhàng	ADJ	A	_	
+nhẹ nhõm	nhẹ nhõm	ADJ	A	_	
+nhẹ tênh	nhẹ tênh	ADJ	A	_	
+nhỉ	nhỉ	PART	T	_	
+nhọc nhằn	nhọc nhằn	ADJ	A	_	
+nhỏ	nhỏ	ADJ	A	_	
+nhỏ	nhỏ	NOUN	N	_	
+nhớ nhung	nhớ nhung	NOUN	N	_	
+nhớ	nhớ	VERB	V	_	
+nhờ	nhờ	VERB	V	_	
+những	những	DET	L	_	
+niềm	niềm	NOUN	Nc	_	
+noi	noi	VERB	V	_	
+non trẻ	non trẻ	ADJ	A	_	
+nuôi	nuôi	VERB	V	_	
+nvơnn	nvơnn	NOUN	Ny	_	
+nào	nào	PART	T	_	
+nào	nào	PROPN	P	_	
+này	này	NOUN	N	_	
+này	này	PROPN	P	_	
+ná	ná	NOUN	N	_	
+nát	nát	ADJ	A	_	
+nâng	nâng	VERB	V	_	
+nè	nè	PART	T	_	
+ném	ném	VERB	V	_	
+nén	nén	NOUN	Nc	_	
+nét	nét	NOUN	N	_	
+nên	nên	CCONJ	C	_	
+nên	nên	VERB	V	_	
+nêu	nêu	VERB	V	_	
+nín	nín	VERB	V	_	
+nóc	nóc	NOUN	N	_	
+nói chuyện	nói chuyện	VERB	V	_	
+nói nhỏ	nói nhỏ	VERB	V	_	
+nói	nói	VERB	V	_	
+nóng bỏng	nóng bỏng	ADJ	A	_	
+nóng	nóng	ADJ	A	_	
+nó	nó	PROPN	P	_	
+nô nức	nô nức	ADJ	A	_	
+nông dân	nông dân	NOUN	N	_	
+nông thôn	nông thôn	NOUN	N	_	
+núm	núm	NOUN	Nc	_	
+núp bóng	núp bóng	VERB	V	_	
+năm	năm	NOUN	N	_	
+năm	năm	NUM	M	NumType=Card	
+năn nỉ	năn nỉ	VERB	V	_	
+năng lực	năng lực	NOUN	N	_	
+nơi	nơi	NOUN	N	_	
+nước hoa	nước hoa	NOUN	N	_	
+nước máy	nước máy	NOUN	N	_	
+nước mắt	nước mắt	NOUN	N	_	
+nước ngoài	nước ngoài	NOUN	N	_	
+nước	nước	NOUN	N	_	
+nạn nhân	nạn nhân	NOUN	N	_	
+nạn	nạn	NOUN	N	_	
+nạo vét	nạo vét	VERB	V	_	
+nấn ná	nấn ná	VERB	V	_	
+nấu	nấu	VERB	V	_	
+nắm	nắm	VERB	V	_	
+nắn nót	nắn nót	VERB	V	_	
+nắng mưa	nắng mưa	NOUN	N	_	
+nằm	nằm	VERB	V	_	
+nặc danh	nặc danh	ADJ	A	_	
+nặng lãi	nặng lãi	NOUN	N	_	
+nặng lời	nặng lời	ADJ	A	_	
+nặng nhọc	nặng nhọc	ADJ	A	_	
+nặng	nặng	ADJ	A	_	
+nến	nến	NOUN	N	_	
+nếu như	nếu như	CCONJ	C	_	
+nếu	nếu	CCONJ	C	_	
+nền	nền	NOUN	N	_	
+nọ	nọ	PROPN	P	_	
+nối	nối	VERB	V	_	
+nốt	nốt	X	R	_	
+nồng thắm	nồng thắm	ADJ	A	_	
+nổi bật	nổi bật	ADJ	A	_	
+nổi tiếng	nổi tiếng	ADJ	A	_	
+nổi	nổi	X	R	_	
+nổ	nổ	VERB	V	_	
+nỗ lực	nỗ lực	NOUN	N	_	
+nỗi	nỗi	NOUN	N	_	
+nỗi	nỗi	NOUN	Nc	_	
+nội bộ	nội bộ	NOUN	N	_	
+nội dung	nội dung	NOUN	N	_	
+nội đồng	nội đồng	NOUN	N	_	
+nội	nội	ADJ	A	_	
+nội	nội	NOUN	N	_	
+nộp	nộp	VERB	V	_	
+nợ	nợ	NOUN	N	_	
+nợ	nợ	VERB	V	_	
+nụ	nụ	NOUN	Nc	_	
+nứt	nứt	VERB	V	_	
+nửa đêm	nửa đêm	NOUN	N	_	
+nửa	nửa	DET	L	_	
+nửa	nửa	NUM	M	NumType=Card	
+nữ sinh	nữ sinh	NOUN	N	_	
+nữa	nữa	PART	T	_	
+nữa	nữa	X	R	_	
+nữ	nữ	NOUN	N	_	
+oan nghiệt	oan nghiệt	NOUN	N	_	
+oan	oan	ADJ	A	_	
+oxy	oxy	NOUN	N	_	
+oán trách	oán trách	NOUN	N	_	
+phan văn đu	phan văn đu	NOUN	Np	_	
+pha	pha	VERB	V	_	
+phe	phe	NOUN	N	_	
+phim	phim	NOUN	N	_	
+phiên tòa	phiên tòa	NOUN	N	_	
+phiêu bạt	phiêu bạt	VERB	V	_	
+phong trào	phong trào	NOUN	N	_	
+phong	phong	NOUN	Nc	_	
+photo	photo	PUNCT	NP	_	
+phu nhân	phu nhân	NOUN	N	_	
+phá bỏ	phá bỏ	VERB	V	_	
+phá sản	phá sản	VERB	V	_	
+phá án	phá án	VERB	V	_	
+phán đoán	phán đoán	VERB	V	_	
+pháp luật	pháp luật	NOUN	N	_	
+pháp lý	pháp lý	NOUN	N	_	
+phá	phá	VERB	V	_	
+pháp	pháp	NOUN	Np	_	
+phát hiện	phát hiện	VERB	V	_	
+phát huy	phát huy	VERB	V	_	
+phát triển	phát triển	VERB	V	_	
+phát tán	phát tán	VERB	V	_	
+phát	phát	VERB	V	_	
+phân công	phân công	VERB	V	_	
+phân cấp	phân cấp	VERB	V	_	
+phân phối	phân phối	VERB	V	_	
+phân tích	phân tích	VERB	V	_	
+phép	phép	NOUN	N	_	
+phê duyệt	phê duyệt	VERB	V	_	
+phía	phía	ADP	E	_	
+phía	phía	NOUN	N	_	
+phí	phí	NOUN	N	_	
+phòng chống	phòng chống	VERB	V	_	
+phòng khám	phòng khám	NOUN	N	_	
+phòng thường trực	phòng thường trực	NOUN	N	_	
+phòng	phòng	NOUN	N	_	
+phó chủ tịch	phó chủ tịch	NOUN	N	_	
+phóng khoáng	phóng khoáng	ADJ	A	_	
+phóng viên	phóng viên	NOUN	N	_	
+phóng	phóng	VERB	V	_	
+phó	phó	X	Z	_	
+phù hộ	phù hộ	VERB	V	_	
+phù hợp	phù hợp	VERB	V	_	
+phúc thẩm	phúc thẩm	VERB	V	_	
+phú	phú	NOUN	Np	_	
+phút	phút	NOUN	N	_	
+phút	phút	NOUN	Nu	_	
+phơi	phơi	VERB	V	_	
+phương châm	phương châm	NOUN	N	_	
+phương pháp	phương pháp	NOUN	N	_	
+phương thức	phương thức	NOUN	N	_	
+phương tiện	phương tiện	NOUN	N	_	
+phương án	phương án	NOUN	N	_	
+phường	phường	NOUN	N	_	
+phạm luật	phạm luật	VERB	V	_	
+phạm tội	phạm tội	VERB	V	_	
+phải	phải	ADJ	A	_	
+phải	phải	VERB	V	_	
+phản bội	phản bội	NOUN	N	_	
+phản hồi	phản hồi	VERB	V	_	
+phản xạ	phản xạ	NOUN	N	_	
+phản ứng	phản ứng	VERB	V	_	
+phấn khích	phấn khích	ADJ	A	_	
+phần mềm	phần mềm	NOUN	N	_	
+phần tử	phần tử	NOUN	N	_	
+phần	phần	NOUN	N	_	
+phẩm chất	phẩm chất	NOUN	N	_	
+phẫu thuật	phẫu thuật	VERB	V	_	
+phẳng lì	phẳng lì	ADJ	A	_	
+phố phường	phố phường	NOUN	N	_	
+phố	phố	NOUN	N	_	
+phổ biến	phổ biến	VERB	V	_	
+phổ cập	phổ cập	VERB	V	_	
+phụ nữ	phụ nữ	NOUN	N	_	
+phụ thuộc	phụ thuộc	VERB	V	_	
+phụ trách	phụ trách	VERB	V	_	
+phục kích	phục kích	VERB	V	_	
+phục vụ	phục vụ	VERB	V	_	
+phủ lý	phủ lý	NOUN	Np	_	
+phủi	phủi	VERB	V	_	
+phức tạp	phức tạp	ADJ	A	_	
+q.1	q.1	NOUN	Ny	_	
+qua loa	qua loa	ADJ	A	_	
+qua lại	qua lại	VERB	V	_	
+qua đời	qua đời	VERB	V	_	
+quai hàm	quai hàm	NOUN	N	_	
+quan hệ	quan hệ	NOUN	N	_	
+quan hệ	quan hệ	VERB	V	_	
+quan liêu	quan liêu	ADJ	A	_	
+quan trọng	quan trọng	ADJ	A	_	
+quan tâm	quan tâm	VERB	V	_	
+quan điểm	quan điểm	NOUN	N	_	
+quang gánh	quang gánh	NOUN	N	_	
+quang	quang	NOUN	Np	_	
+quanh	quanh	NOUN	N	_	
+qua	qua	ADP	E	_	
+qua	qua	VERB	V	_	
+qua	qua	X	R	_	
+quay phim	quay phim	VERB	V	_	
+quay	quay	VERB	V	_	
+quen biết	quen biết	VERB	V	_	
+quen thuộc	quen thuộc	ADJ	A	_	
+quen	quen	ADJ	A	_	
+quen	quen	VERB	V	_	
+qui hoạch	qui hoạch	NOUN	N	_	
+qui hoạch	qui hoạch	VERB	V	_	
+qui mô	qui mô	NOUN	N	_	
+qui trình	qui trình	NOUN	N	_	
+qui định	qui định	NOUN	N	_	
+qui định	qui định	VERB	V	_	
+quy chế	quy chế	NOUN	N	_	
+quy định	quy định	NOUN	N	_	
+quyết toán	quyết toán	VERB	V	_	
+quyết tâm	quyết tâm	VERB	V	_	
+quyết định	quyết định	NOUN	N	_	
+quyết định	quyết định	VERB	V	_	
+quyền lợi	quyền lợi	NOUN	N	_	
+quyền lực	quyền lực	NOUN	N	_	
+quyền	quyền	NOUN	N	_	
+quyển	quyển	NOUN	Nc	_	
+quà	quà	NOUN	N	_	
+quày quả	quày quả	ADJ	A	_	
+quá khứ	quá khứ	NOUN	N	_	
+quá trình	quá trình	NOUN	N	_	
+quá trời	quá trời	X	R	_	
+quá tải	quá tải	ADJ	A	_	
+quái vật	quái vật	NOUN	N	_	
+quán	quán	NOUN	N	_	
+quán	quán	NOUN	Nc	_	
+quá	quá	VERB	V	_	
+quá	quá	X	R	_	
+quân	quân	NOUN	N	_	
+quê hương	quê hương	NOUN	N	_	
+quê nhà	quê nhà	NOUN	N	_	
+quê quán	quê quán	NOUN	N	_	
+quên	quên	VERB	V	_	
+quê	quê	NOUN	N	_	
+quí	quí	NOUN	N	_	
+quý	quý	ADJ	A	_	
+quý	quý	NOUN	N	_	
+quăng	quăng	VERB	V	_	
+quơ quào	quơ quào	VERB	V	_	
+quạt điện	quạt điện	NOUN	N	_	
+quả tang	quả tang	NOUN	N	_	
+quả tang	quả tang	X	R	_	
+quản lý nhà nước	quản lý nhà nước	VERB	V	_	
+quản lý	quản lý	NOUN	N	_	
+quản lý	quản lý	VERB	V	_	
+quảng cáo	quảng cáo	NOUN	N	_	
+quả	quả	NOUN	N	_	
+quả	quả	NOUN	Nc	_	
+quả	quả	PART	T	_	
+quần chúng	quần chúng	NOUN	N	_	
+quần áo	quần áo	NOUN	N	_	
+quầng	quầng	NOUN	N	_	
+quần	quần	NOUN	N	_	
+quầy	quầy	NOUN	N	_	
+quận	quận	NOUN	N	_	
+quẹo	quẹo	VERB	V	_	
+quốc gia	quốc gia	NOUN	N	_	
+quốc huy	quốc huy	NOUN	N	_	
+quốc khánh	quốc khánh	NOUN	N	_	
+quốc lộ	quốc lộ	NOUN	N	_	
+quốc tế	quốc tế	ADJ	A	_	
+quốc tịch	quốc tịch	NOUN	N	_	
+ra mặt	ra mặt	VERB	V	_	
+ra sao	ra sao	VERB	V	_	
+ra sao	ra sao	X	X	_	
+ra vào	ra vào	VERB	V	_	
+ra đời	ra đời	VERB	V	_	
+ra	ra	ADP	E	_	
+ra	ra	VERB	V	_	
+ra	ra	X	R	_	
+rau	rau	NOUN	N	_	
+reo	reo	VERB	V	_	
+riêng	riêng	ADJ	A	_	
+rong ruổi	rong ruổi	VERB	V	_	
+ron	ron	NOUN	N	_	
+ron	ron	NOUN	Nb	_	
+rung	rung	VERB	V	_	
+run	run	VERB	V	_	
+ruộng	ruộng	NOUN	N	_	
+ruột	ruột	NOUN	N	_	
+rà soát	rà soát	VERB	V	_	
+ràng buộc	ràng buộc	VERB	V	_	
+rành rọt	rành rọt	ADJ	A	_	
+rào cản	rào cản	NOUN	N	_	
+rà	rà	VERB	V	_	
+rách nát	rách nát	ADJ	A	_	
+râu tóc	râu tóc	NOUN	N	_	
+rình	rình	VERB	V	_	
+rít	rít	VERB	V	_	
+rò rỉ	rò rỉ	VERB	V	_	
+rõ ràng	rõ ràng	ADJ	A	_	
+rõ	rõ	ADJ	A	_	
+rõ	rõ	VERB	V	_	
+rùng mình	rùng mình	VERB	V	_	
+rút lui	rút lui	VERB	V	_	
+rút	rút	VERB	V	_	
+răng	răng	NOUN	N	_	
+rơi	rơi	VERB	V	_	
+rượu	rượu	NOUN	N	_	
+rạch	rạch	NOUN	N	_	
+rạng	rạng	ADJ	A	_	
+rất đỗi	rất đỗi	X	R	_	
+rất	rất	X	R	_	
+rắn	rắn	NOUN	N	_	
+rằng	rằng	CCONJ	C	_	
+rẻ	rẻ	ADJ	A	_	
+rẽ	rẽ	VERB	V	_	
+rền	rền	ADJ	A	_	
+rối rít	rối rít	ADJ	A	_	
+rồi	rồi	CCONJ	C	_	
+rồi	rồi	PART	T	_	
+rồi	rồi	X	R	_	
+rộn ràng	rộn ràng	ADJ	A	_	
+rộng rãi	rộng rãi	ADJ	A	_	
+rộng	rộng	ADJ	A	_	
+rủi ro	rủi ro	ADJ	A	_	
+rủ	rủ	VERB	V	_	
+rừng	rừng	NOUN	N	_	
+rửa	rửa	VERB	V	_	
+sa ngã	sa ngã	VERB	V	_	
+sai phạm	sai phạm	ADJ	A	_	
+sai phạm	sai phạm	NOUN	N	_	
+sai phạm	sai phạm	VERB	V	_	
+sai trái	sai trái	ADJ	A	_	
+sai	sai	ADJ	A	_	
+san sẻ	san sẻ	VERB	V	_	
+sang	sang	ADP	E	_	
+sang	sang	VERB	V	_	
+san	san	VERB	V	_	
+sao	sao	PART	T	_	
+sao	sao	PROPN	P	_	
+sau cùng	sau cùng	NOUN	N	_	
+sau này	sau này	X	R	_	
+sau	sau	ADJ	A	_	
+sau	sau	ADP	E	_	
+sau	sau	NOUN	N	_	
+say mê	say mê	VERB	V	_	
+say sưa	say sưa	VERB	V	_	
+say xỉn	say xỉn	VERB	V	_	
+sim	sim	NOUN	N	_	
+sinh hoạt	sinh hoạt	NOUN	N	_	
+sinh nhật	sinh nhật	NOUN	N	_	
+sinh nở	sinh nở	VERB	V	_	
+sinh sống	sinh sống	VERB	V	_	
+sinh viên	sinh viên	NOUN	N	_	
+sinh	sinh	VERB	V	_	
+siêu thị	siêu thị	NOUN	N	_	
+siết	siết	VERB	V	_	
+so sánh	so sánh	VERB	V	_	
+soi	soi	VERB	V	_	
+song ngữ	song ngữ	ADJ	A	_	
+song	song	CCONJ	C	_	
+so	so	VERB	V	_	
+suy nghĩ	suy nghĩ	NOUN	N	_	
+suy nghĩ	suy nghĩ	VERB	V	_	
+suất	suất	NOUN	N	_	
+suốt	suốt	ADJ	A	_	
+sà lan	sà lan	NOUN	N	_	
+sáng choang	sáng choang	ADJ	A	_	
+sáng tỏ	sáng tỏ	ADJ	A	_	
+sáng	sáng	ADJ	A	_	
+sáng	sáng	NOUN	N	_	
+sát	sát	ADJ	A	_	
+sáu	sáu	NUM	M	NumType=Card	
+sân	sân	NOUN	N	_	
+sâu	sâu	ADJ	A	_	
+sòng phẳng	sòng phẳng	ADJ	A	_	
+sót	sót	VERB	V	_	
+sôi nổi	sôi nổi	ADJ	A	_	
+sôi	sôi	VERB	V	_	
+sông	sông	NOUN	N	_	
+súng	súng	NOUN	N	_	
+săn lùng	săn lùng	VERB	V	_	
+sơ hở	sơ hở	NOUN	N	_	
+sơ sinh	sơ sinh	ADJ	A	_	
+sơ sót	sơ sót	NOUN	N	_	
+sơ đồ	sơ đồ	NOUN	N	_	
+sạch sẽ	sạch sẽ	ADJ	A	_	
+sạp	sạp	NOUN	N	_	
+sạt lở	sạt lở	VERB	V	_	
+sản xuất	sản xuất	NOUN	N	_	
+sản xuất	sản xuất	VERB	V	_	
+sập	sập	VERB	V	_	
+sắc	sắc	ADJ	A	_	
+sắc	sắc	NOUN	N	_	
+sắm vai	sắm vai	VERB	V	_	
+sắp xếp	sắp xếp	VERB	V	_	
+sắp	sắp	X	R	_	
+sắt	sắt	NOUN	N	_	
+sẵn sàng	sẵn sàng	ADJ	A	_	
+sẽ	sẽ	X	R	_	
+số liệu	số liệu	NOUN	N	_	
+số lượng	số lượng	NOUN	N	_	
+số phận	số phận	NOUN	N	_	
+sốc	sốc	NOUN	N	_	
+sống	sống	NOUN	N	_	
+sống	sống	VERB	V	_	
+số	số	NOUN	N	_	
+sốt ruột	sốt ruột	VERB	V	_	
+sổ đỏ	sổ đỏ	NOUN	N	_	
+sổ	sổ	NOUN	N	_	
+sớm	sớm	ADJ	A	_	
+sớm	sớm	NOUN	N	_	
+sờ mó	sờ mó	VERB	V	_	
+sở tại	sở tại	ADJ	A	_	
+sở	sở	NOUN	N	_	
+sợi	sợi	NOUN	Nc	_	
+sợ	sợ	VERB	V	_	
+sụp đổ	sụp đổ	VERB	V	_	
+sụt giảm	sụt giảm	VERB	V	_	
+sụt sùi	sụt sùi	ADJ	A	_	
+sứ mạng	sứ mạng	NOUN	N	_	
+sứ quán	sứ quán	NOUN	N	_	
+sức khỏe	sức khỏe	NOUN	N	_	
+sức mạnh	sức mạnh	NOUN	N	_	
+sức sống	sức sống	NOUN	N	_	
+sức	sức	NOUN	N	_	
+sử dụng	sử dụng	VERB	V	_	
+sửa	sửa	VERB	V	_	
+sững	sững	VERB	V	_	
+sự cố	sự cố	NOUN	N	_	
+sự kiện	sự kiện	NOUN	N	_	
+sự nghiệp	sự nghiệp	NOUN	N	_	
+sự thật	sự thật	NOUN	N	_	
+sự việc	sự việc	NOUN	N	_	
+sực	sực	VERB	V	_	
+sự	sự	NOUN	N	_	
+sự	sự	NOUN	Nc	_	
+tai	tai	NOUN	N	_	
+tan	tan	VERB	V	_	
+ta	ta	PROPN	P	_	
+taxi	taxi	NOUN	N	_	
+taxi	taxi	NOUN	Nb	_	
+tay	tay	NOUN	N	_	
+teo	teo	VERB	V	_	
+tha thứ	tha thứ	VERB	V	_	
+tham gia	tham gia	VERB	V	_	
+tham khảo	tham khảo	VERB	V	_	
+tham nhũng	tham nhũng	VERB	V	_	
+tham quan	tham quan	VERB	V	_	
+tham vọng	tham vọng	NOUN	N	_	
+tham ô	tham ô	VERB	V	_	
+thanh nhàn	thanh nhàn	NOUN	Np	_	
+thanh niên	thanh niên	NOUN	N	_	
+thanh toán	thanh toán	VERB	V	_	
+thanh tra	thanh tra	NOUN	N	_	
+thanh tra	thanh tra	VERB	V	_	
+than	than	VERB	V	_	
+thau	thau	NOUN	N	_	
+thay da đổi thịt	thay da đổi thịt	X	X	_	
+thay đổi	thay đổi	VERB	V	_	
+thay	thay	PART	T	_	
+thay	thay	VERB	V	_	
+theo dõi	theo dõi	VERB	V	_	
+theo	theo	ADP	E	_	
+theo	theo	VERB	V	_	
+theo	theo	X	R	_	
+the	the	NOUN	N	_	
+thi công	thi công	VERB	V	_	
+thi hành	thi hành	VERB	V	_	
+thi đua	thi đua	VERB	V	_	
+thiết kế	thiết kế	NOUN	N	_	
+thiết lập	thiết lập	VERB	V	_	
+thiếu niên	thiếu niên	NOUN	N	_	
+thiếu sót	thiếu sót	NOUN	N	_	
+thiếu úy	thiếu úy	NOUN	N	_	
+thiếu	thiếu	VERB	V	_	
+thiện	thiện	ADJ	A	_	
+thiệt hơn	thiệt hơn	ADJ	A	_	
+thiệt	thiệt	ADJ	A	_	
+thiệt	thiệt	PART	T	_	
+thoi thóp	thoi thóp	VERB	V	_	
+thoát	thoát	VERB	V	_	
+thoại	thoại	NOUN	N	_	
+thoải mái	thoải mái	ADJ	A	_	
+thu giữ	thu giữ	VERB	V	_	
+thu hút	thu hút	VERB	V	_	
+thu hẹp	thu hẹp	VERB	V	_	
+thu hồi	thu hồi	VERB	V	_	
+thu nhập	thu nhập	NOUN	N	_	
+thu thập	thu thập	VERB	V	_	
+thu	thu	VERB	V	_	
+thuê	thuê	VERB	V	_	
+thuận lợi	thuận lợi	NOUN	N	_	
+thuế	thuế	NOUN	N	_	
+thuốc lá	thuốc lá	NOUN	N	_	
+thuốc	thuốc	NOUN	N	_	
+thuộc	thuộc	VERB	V	_	
+thuở	thuở	NOUN	N	_	
+thành công	thành công	VERB	V	_	
+thành hôn	thành hôn	VERB	V	_	
+thành lập	thành lập	VERB	V	_	
+thành niên	thành niên	ADJ	A	_	
+thành phố	thành phố	NOUN	N	_	
+thành quả	thành quả	NOUN	N	_	
+thành thạo	thành thạo	ADJ	A	_	
+thành thật	thành thật	ADJ	A	_	
+thành viên	thành viên	NOUN	N	_	
+thành ủy	thành ủy	NOUN	N	_	
+thành	thành	NOUN	N	_	
+thành	thành	VERB	V	_	
+thái độ	thái độ	NOUN	N	_	
+thám tử	thám tử	NOUN	N	_	
+thán phục	thán phục	VERB	V	_	
+tháng	tháng	NOUN	N	_	
+tháo dỡ	tháo dỡ	VERB	V	_	
+tháo gỡ	tháo gỡ	VERB	V	_	
+tháo	tháo	VERB	V	_	
+tháp tùng	tháp tùng	VERB	V	_	
+thâm tâm	thâm tâm	NOUN	N	_	
+thâm	thâm	ADJ	A	_	
+thân chủ	thân chủ	NOUN	N	_	
+thân thuộc	thân thuộc	ADJ	A	_	
+thân thể	thân thể	NOUN	N	_	
+thân tình	thân tình	ADJ	A	_	
+thân xác	thân xác	NOUN	N	_	
+thân	thân	ADJ	A	_	
+thân	thân	NOUN	N	_	
+thép	thép	NOUN	N	_	
+thêm	thêm	VERB	V	_	
+thêm	thêm	X	R	_	
+thì	thì	CCONJ	C	_	
+thí nghiệm	thí nghiệm	VERB	V	_	
+thích	thích	VERB	V	_	
+thôi	thôi	PART	T	_	
+thôi	thôi	VERB	V	_	
+thông báo	thông báo	VERB	V	_	
+thông cảm	thông cảm	VERB	V	_	
+thông lệ	thông lệ	NOUN	N	_	
+thông minh	thông minh	ADJ	A	_	
+thông qua	thông qua	VERB	V	_	
+thông số	thông số	NOUN	N	_	
+thông thoáng	thông thoáng	ADJ	A	_	
+thông thường	thông thường	ADJ	A	_	
+thông tin	thông tin	NOUN	N	_	
+thông tin	thông tin	VERB	V	_	
+thông tấn xã	thông tấn xã	NOUN	Np	_	
+thôn	thôn	NOUN	N	_	
+thù hận	thù hận	VERB	V	_	
+thùng	thùng	NOUN	N	_	
+thú thật	thú thật	VERB	V	_	
+thú vị	thú vị	ADJ	A	_	
+thúc giục	thúc giục	VERB	V	_	
+thúng	thúng	NOUN	N	_	
+thăm	thăm	VERB	V	_	
+thăng bằng	thăng bằng	NOUN	N	_	
+thăng	thăng	VERB	V	_	
+thư ký riêng	thư ký riêng	NOUN	N	_	
+thư ký	thư ký	NOUN	N	_	
+thư điện tử	thư điện tử	NOUN	N	_	
+thưa	thưa	VERB	V	_	
+thư	thư	NOUN	N	_	
+thư	thư	NOUN	Np	_	
+thương binh	thương binh	NOUN	N	_	
+thương lượng	thương lượng	VERB	V	_	
+thương mại	thương mại	NOUN	N	_	
+thương thảo	thương thảo	VERB	V	_	
+thương tích	thương tích	NOUN	N	_	
+thương yêu	thương yêu	VERB	V	_	
+thương	thương	VERB	V	_	
+thước đo	thước đo	NOUN	N	_	
+thước	thước	NOUN	N	_	
+thước	thước	NOUN	Nc	_	
+thường trực	thường trực	NOUN	N	_	
+thường trực	thường trực	VERB	V	_	
+thường xuyên	thường xuyên	ADJ	A	_	
+thường	thường	ADJ	A	_	
+thường	thường	X	R	_	
+thưởng	thưởng	VERB	V	_	
+thạo	thạo	ADJ	A	_	
+thảm hại	thảm hại	ADJ	A	_	
+thảng thốt	thảng thốt	VERB	V	_	
+thảo hiền	thảo hiền	ADJ	A	_	
+thảo luận	thảo luận	VERB	V	_	
+thả	thả	VERB	V	_	
+thấm	thấm	VERB	V	_	
+thấp thoáng	thấp thoáng	VERB	V	_	
+thấp thỏm	thấp thỏm	VERB	V	_	
+thấp	thấp	ADJ	A	_	
+thất bại	thất bại	VERB	V	_	
+thất nghiệp	thất nghiệp	VERB	V	_	
+thất thoát	thất thoát	VERB	V	_	
+thất thu	thất thu	VERB	V	_	
+thất vọng	thất vọng	VERB	V	_	
+thấu	thấu	VERB	V	_	
+thấy	thấy	VERB	V	_	
+thần kỳ	thần kỳ	ADJ	A	_	
+thần trí	thần trí	NOUN	N	_	
+thầy cô	thầy cô	NOUN	N	_	
+thầy	thầy	NOUN	N	_	
+thẩm quyền	thẩm quyền	NOUN	N	_	
+thẩm vấn	thẩm vấn	VERB	V	_	
+thẩm định	thẩm định	VERB	V	_	
+thậm chí	thậm chí	X	R	_	
+thật sự	thật sự	ADJ	A	_	
+thật	thật	ADJ	A	_	
+thật	thật	PART	T	_	
+thật	thật	X	R	_	
+thắc mắc	thắc mắc	VERB	V	_	
+thắng	thắng	NOUN	Np	_	
+thắp	thắp	VERB	V	_	
+thắt	thắt	VERB	V	_	
+thằng	thằng	NOUN	Nc	_	
+thẳng thắn	thẳng thắn	ADJ	A	_	
+thẳng	thẳng	ADJ	A	_	
+thế hệ	thế hệ	NOUN	N	_	
+thế là	thế là	CCONJ	C	_	
+thế nào	thế nào	PROPN	P	_	
+thế	thế	PART	T	_	
+thế	thế	PROPN	P	_	
+thềm	thềm	NOUN	N	_	
+thể hiện	thể hiện	VERB	V	_	
+thỉnh	thỉnh	VERB	V	_	
+thị trường	thị trường	NOUN	N	_	
+thị trấn	thị trấn	NOUN	N	_	
+thịnh nộ	thịnh nộ	NOUN	N	_	
+thịt	thịt	NOUN	N	_	
+thỏ thẻ	thỏ thẻ	ADJ	A	_	
+thỏa thuận	thỏa thuận	VERB	V	_	
+thỏa đáng	thỏa đáng	ADJ	A	_	
+thống nhất	thống nhất	ADJ	A	_	
+thống nhất	thống nhất	VERB	V	_	
+thổi	thổi	VERB	V	_	
+thờ cúng	thờ cúng	VERB	V	_	
+thời bình	thời bình	NOUN	N	_	
+thời gian	thời gian	NOUN	N	_	
+thời hạn	thời hạn	NOUN	N	_	
+thời khắc	thời khắc	NOUN	N	_	
+thời kỳ	thời kỳ	NOUN	N	_	
+thời điểm	thời điểm	NOUN	N	_	
+thời	thời	NOUN	N	_	
+thở phào	thở phào	VERB	V	_	
+thở	thở	VERB	V	_	
+thợ may	thợ may	NOUN	N	_	
+thợ	thợ	NOUN	N	_	
+thủ công	thủ công	VERB	V	_	
+thủ lĩnh	thủ lĩnh	NOUN	N	_	
+thủ phạm	thủ phạm	NOUN	N	_	
+thủ tướng	thủ tướng	NOUN	N	_	
+thủ tục	thủ tục	NOUN	N	_	
+thủ đức	thủ đức	NOUN	Np	_	
+thủy lợi	thủy lợi	NOUN	N	_	
+thủy thần	thủy thần	NOUN	N	_	
+thủy điện	thủy điện	NOUN	N	_	
+thứ bảy	thứ bảy	NOUN	N	_	
+thứ hai	thứ hai	NOUN	N	_	
+thứ sáu	thứ sáu	NOUN	N	_	
+thứ trưởng	thứ trưởng	NOUN	N	_	
+thức	thức	VERB	V	_	
+thứ	thứ	NOUN	N	_	
+thừa kế	thừa kế	VERB	V	_	
+thừa nhận	thừa nhận	VERB	V	_	
+thừa	thừa	ADJ	A	_	
+thử	thử	VERB	V	_	
+thực hiện	thực hiện	VERB	V	_	
+thực tế	thực tế	ADJ	A	_	
+thực tế	thực tế	NOUN	N	_	
+tia	tia	NOUN	Nc	_	
+tin cậy	tin cậy	VERB	V	_	
+tin tưởng	tin tưởng	VERB	V	_	
+tinh thần	tinh thần	NOUN	N	_	
+tin	tin	NOUN	N	_	
+tin	tin	VERB	V	_	
+tiêu biểu	tiêu biểu	ADJ	A	_	
+tiêu chuẩn	tiêu chuẩn	NOUN	N	_	
+tiêu chí	tiêu chí	NOUN	N	_	
+tiêu cực	tiêu cực	ADJ	A	_	
+tiêu cực	tiêu cực	NOUN	N	_	
+tiêu tan	tiêu tan	VERB	V	_	
+tiêu thụ	tiêu thụ	VERB	V	_	
+tiếc	tiếc	VERB	V	_	
+tiến hành	tiến hành	VERB	V	_	
+tiến độ	tiến độ	NOUN	N	_	
+tiếng nói	tiếng nói	NOUN	N	_	
+tiếng tăm	tiếng tăm	NOUN	N	_	
+tiếng	tiếng	NOUN	N	_	
+tiếng	tiếng	NOUN	Nu	_	
+tiến	tiến	VERB	V	_	
+tiếp cận	tiếp cận	VERB	V	_	
+tiếp diễn	tiếp diễn	VERB	V	_	
+tiếp lời	tiếp lời	VERB	V	_	
+tiếp theo	tiếp theo	VERB	V	_	
+tiếp thị	tiếp thị	NOUN	Np	_	
+tiếp thị	tiếp thị	VERB	V	_	
+tiếp tục	tiếp tục	VERB	V	_	
+tiếp viên	tiếp viên	NOUN	N	_	
+tiếp	tiếp	VERB	V	_	
+tiếp	tiếp	X	R	_	
+tiết lộ	tiết lộ	VERB	V	_	
+tiết	tiết	NOUN	N	_	
+tiền bạc	tiền bạc	NOUN	N	_	
+tiền phong	tiền phong	ADJ	A	_	
+tiền	tiền	NOUN	N	_	
+tiểu học	tiểu học	NOUN	N	_	
+tiễn	tiễn	VERB	V	_	
+tiệc	tiệc	NOUN	N	_	
+tiệm	tiệm	NOUN	N	_	
+to lớn	to lớn	ADJ	A	_	
+tong tả	tong tả	ADJ	A	_	
+to	to	ADJ	A	_	
+toàn bộ	toàn bộ	DET	L	_	
+toàn diện	toàn diện	ADJ	A	_	
+toàn quyền	toàn quyền	NOUN	N	_	
+toàn thân	toàn thân	NOUN	N	_	
+toàn	toàn	NOUN	N	_	
+toán	toán	NOUN	Nc	_	
+tp	tp	NOUN	Ny	_	
+trai gái	trai gái	NOUN	N	_	
+trai	trai	NOUN	N	_	
+trang lứa	trang lứa	NOUN	N	_	
+trang trí	trang trí	VERB	V	_	
+trang trại	trang trại	NOUN	N	_	
+trang trọng	trang trọng	ADJ	A	_	
+trang	trang	NOUN	N	_	
+trang	trang	NOUN	Nc	_	
+tranh thủ	tranh thủ	VERB	V	_	
+tranh	tranh	NOUN	N	_	
+tra	tra	VERB	V	_	
+trau dồi	trau dồi	VERB	V	_	
+tre	tre	NOUN	N	_	
+trinh sát	trinh sát	VERB	V	_	
+triển khai	triển khai	VERB	V	_	
+triển lãm	triển lãm	VERB	V	_	
+triệt để	triệt để	ADJ	A	_	
+triệu	triệu	NUM	M	NumType=Card	
+trong sạch	trong sạch	ADJ	A	_	
+trong sạch	trong sạch	NOUN	N	_	
+trong	trong	ADP	E	_	
+trong	trong	NOUN	N	_	
+trung học	trung học	NOUN	N	_	
+trung tâm	trung tâm	ADJ	A	_	
+trung tâm	trung tâm	NOUN	N	_	
+trung ương	trung ương	NOUN	N	_	
+truy lùng	truy lùng	VERB	V	_	
+truy tố	truy tố	VERB	V	_	
+truyền hình	truyền hình	NOUN	N	_	
+truyền thống	truyền thống	ADJ	A	_	
+truyền thống	truyền thống	NOUN	N	_	
+trà trộn	trà trộn	VERB	V	_	
+tràm	tràm	NOUN	N	_	
+tràn ngập	tràn ngập	VERB	V	_	
+tràn	tràn	VERB	V	_	
+trà	trà	NOUN	N	_	
+trách cứ	trách cứ	VERB	V	_	
+trách nhiệm	trách nhiệm	NOUN	N	_	
+trách nhiệm	trách nhiệm	VERB	V	_	
+trách	trách	VERB	V	_	
+trái lại	trái lại	X	X	_	
+trái	trái	ADJ	A	_	
+trái	trái	NOUN	N	_	
+trái	trái	NOUN	Nc	_	
+tránh	tránh	VERB	V	_	
+trên	trên	ADJ	A	_	
+trên	trên	ADP	E	_	
+trên	trên	NOUN	N	_	
+trình bày	trình bày	VERB	V	_	
+trình diện	trình diện	VERB	V	_	
+trình độ	trình độ	NOUN	N	_	
+trình	trình	VERB	V	_	
+trí thức	trí thức	NOUN	N	_	
+trích	trích	VERB	V	_	
+trò chuyện	trò chuyện	NOUN	N	_	
+tròn	tròn	ADJ	A	_	
+trò	trò	NOUN	N	_	
+trót	trót	VERB	V	_	
+trôi	trôi	VERB	V	_	
+trông chờ	trông chờ	VERB	V	_	
+trông cậy	trông cậy	VERB	V	_	
+trông đợi	trông đợi	VERB	V	_	
+trông	trông	VERB	V	_	
+trùm	trùm	NOUN	N	_	
+trùng	trùng	VERB	V	_	
+trú chân	trú chân	VERB	V	_	
+trúc	trúc	NOUN	N	_	
+trú	trú	VERB	V	_	
+trăm	trăm	NUM	M	NumType=Card	
+trăng hoa	trăng hoa	NOUN	N	_	
+trũng	trũng	ADJ	A	_	
+trơ trơ	trơ trơ	ADJ	A	_	
+trơ	trơ	ADJ	A	_	
+trưa	trưa	NOUN	N	_	
+trước mắt	trước mắt	NOUN	N	_	
+trước nhất	trước nhất	NOUN	N	_	
+trước đây	trước đây	NOUN	N	_	
+trước	trước	ADJ	A	_	
+trước	trước	ADP	E	_	
+trước	trước	NOUN	N	_	
+trường học	trường học	NOUN	N	_	
+trường hợp	trường hợp	NOUN	N	_	
+trường	trường	NOUN	N	_	
+trưởng	trưởng	X	Z	_	
+trại	trại	NOUN	N	_	
+trạm	trạm	NOUN	N	_	
+trả lời	trả lời	NOUN	N	_	
+trả lời	trả lời	VERB	V	_	
+trả thù	trả thù	VERB	V	_	
+trả	trả	VERB	V	_	
+trấn an	trấn an	VERB	V	_	
+trầm mình	trầm mình	VERB	V	_	
+trầm ngâm	trầm ngâm	ADJ	A	_	
+trận	trận	NOUN	N	_	
+trật tự	trật tự	NOUN	N	_	
+trằn trọc	trằn trọc	VERB	V	_	
+trẻ con	trẻ con	NOUN	N	_	
+trẻ	trẻ	ADJ	A	_	
+trẻ	trẻ	NOUN	N	_	
+trễ tràng	trễ tràng	ADJ	A	_	
+trị giá	trị giá	VERB	V	_	
+trọng dụng	trọng dụng	VERB	V	_	
+trọng lượng	trọng lượng	NOUN	N	_	
+trọng thương	trọng thương	ADJ	A	_	
+trọng trách	trọng trách	NOUN	N	_	
+trọ	trọ	VERB	V	_	
+trốn	trốn	VERB	V	_	
+trồi	trồi	VERB	V	_	
+trồng	trồng	VERB	V	_	
+trộm cắp	trộm cắp	VERB	V	_	
+trớ trêu	trớ trêu	ADJ	A	_	
+trời	trời	NOUN	N	_	
+trờ	trờ	VERB	V	_	
+trở lại	trở lại	VERB	V	_	
+trở mình	trở mình	VERB	V	_	
+trở ngại	trở ngại	NOUN	N	_	
+trở nên	trở nên	VERB	V	_	
+trở thành	trở thành	VERB	V	_	
+trở về	trở về	VERB	V	_	
+trở	trở	VERB	V	_	
+trợ cấp	trợ cấp	VERB	V	_	
+trợ giúp	trợ giúp	VERB	V	_	
+trụ sở	trụ sở	NOUN	N	_	
+trục trặc	trục trặc	NOUN	N	_	
+trữ lượng	trữ lượng	NOUN	N	_	
+trực tiếp	trực tiếp	ADJ	A	_	
+trực tiếp	trực tiếp	VERB	V	_	
+trực tuyến	trực tuyến	ADJ	A	_	
+trực	trực	VERB	V	_	
+tui	tui	PROPN	P	_	
+tung tăng	tung tăng	VERB	V	_	
+tuy	tuy	CCONJ	C	_	
+tuyên bố	tuyên bố	VERB	V	_	
+tuyến	tuyến	NOUN	N	_	
+tuyệt vọng	tuyệt vọng	VERB	V	_	
+tuyệt vời	tuyệt vời	ADJ	A	_	
+tuyệt đối	tuyệt đối	ADJ	A	_	
+tuân thủ	tuân thủ	VERB	V	_	
+tuấn	tuấn	NOUN	Np	_	
+tuần tra	tuần tra	VERB	V	_	
+tuần	tuần	NOUN	N	_	
+tuổi thọ	tuổi thọ	NOUN	N	_	
+tuổi trẻ	tuổi trẻ	NOUN	N	_	
+tuổi	tuổi	NOUN	N	_	
+tài chính	tài chính	NOUN	N	_	
+tài nghệ	tài nghệ	NOUN	N	_	
+tài nguyên	tài nguyên	NOUN	N	_	
+tài sản	tài sản	NOUN	N	_	
+tài xế	tài xế	NOUN	N	_	
+tài	tài	NOUN	N	_	
+tàn bạo	tàn bạo	ADJ	A	_	
+tàu	tàu	NOUN	N	_	
+tá túc	tá túc	VERB	V	_	
+tác động	tác động	NOUN	N	_	
+tách	tách	VERB	V	_	
+tái	tái	X	X	_	
+tái	tái	X	Z	_	
+tám	tám	NUM	M	NumType=Card	
+tán	tán	NOUN	N	_	
+tâm can	tâm can	NOUN	N	_	
+tâm nhang	tâm nhang	NOUN	N	_	
+tâm sự	tâm sự	VERB	V	_	
+tâm trạng	tâm trạng	NOUN	N	_	
+tâm tư	tâm tư	NOUN	N	_	
+tâmsự	tâmsự	NOUN	N	_	
+tây nguyên	tây nguyên	NOUN	Np	_	
+té	té	VERB	V	_	
+tên tuổi	tên tuổi	NOUN	N	_	
+tên	tên	NOUN	N	_	
+tê	tê	ADJ	A	_	
+tìm hiểu	tìm hiểu	VERB	V	_	
+tìm	tìm	VERB	V	_	
+tình cảm	tình cảm	NOUN	N	_	
+tình cờ	tình cờ	ADJ	A	_	
+tình huống	tình huống	NOUN	N	_	
+tình hình	tình hình	NOUN	N	_	
+tình nguyện	tình nguyện	VERB	V	_	
+tình nhân	tình nhân	NOUN	N	_	
+tình thương	tình thương	NOUN	N	_	
+tình thế	tình thế	NOUN	N	_	
+tình trạng	tình trạng	NOUN	N	_	
+tình yêu	tình yêu	NOUN	N	_	
+tình địch	tình địch	NOUN	N	_	
+tình	tình	NOUN	N	_	
+tích cực	tích cực	ADJ	A	_	
+tím	tím	ADJ	A	_	
+tín dụng	tín dụng	NOUN	N	_	
+tín hiệu	tín hiệu	NOUN	N	_	
+tính	tính	NOUN	N	_	
+tính	tính	VERB	V	_	
+tí	tí	NOUN	N	_	
+tò vò	tò vò	NOUN	N	_	
+tòa	tòa	NOUN	N	_	
+tóm tắt	tóm tắt	VERB	V	_	
+tôi	tôi	NOUN	N	_	
+tôi	tôi	PROPN	P	_	
+tôn vinh	tôn vinh	VERB	V	_	
+tù túng	tù túng	ADJ	A	_	
+tù	tù	NOUN	N	_	
+tùy thân	tùy thân	ADJ	A	_	
+túc trực	túc trực	VERB	V	_	
+túi	túi	NOUN	N	_	
+túng quẫn	túng quẫn	ADJ	A	_	
+túng	túng	ADJ	A	_	
+tăng cường	tăng cường	VERB	V	_	
+tăng trưởng	tăng trưởng	VERB	V	_	
+tăng	tăng	VERB	V	_	
+tđ	tđ	NOUN	Ny	_	
+tư cách pháp nhân	tư cách pháp nhân	NOUN	N	_	
+tư cách	tư cách	NOUN	N	_	
+tư trang	tư trang	NOUN	N	_	
+tư	tư	ADJ	A	_	
+tư	tư	NUM	M	NumType=Card	
+tươi cười	tươi cười	ADJ	A	_	
+tươi đẹp	tươi đẹp	ADJ	A	_	
+tương lai	tương lai	NOUN	N	_	
+tương tự	tương tự	ADJ	A	_	
+tương đương	tương đương	VERB	V	_	
+tương đối	tương đối	ADJ	A	_	
+tưởng	tưởng	VERB	V	_	
+tượng	tượng	NOUN	N	_	
+tại sao	tại sao	X	X	_	
+tại	tại	ADP	E	_	
+tạm bợ	tạm bợ	ADJ	A	_	
+tạm	tạm	ADJ	A	_	
+tạo hóa	tạo hóa	NOUN	N	_	
+tạo	tạo	VERB	V	_	
+tản cư	tản cư	VERB	V	_	
+tấm	tấm	NOUN	Nc	_	
+tấn công	tấn công	VERB	V	_	
+tấn	tấn	NOUN	Nu	_	
+tất cả	tất cả	DET	L	_	
+tất cả	tất cả	PROPN	P	_	
+tầm nhìn xa	tầm nhìn xa	NOUN	N	_	
+tầng	tầng	NOUN	N	_	
+tận cùng	tận cùng	ADJ	A	_	
+tận mắt	tận mắt	ADJ	A	_	
+tận thu	tận thu	VERB	V	_	
+tận	tận	ADP	E	_	
+tập huấn	tập huấn	VERB	V	_	
+tập họp	tập họp	VERB	V	_	
+tập luyện	tập luyện	VERB	V	_	
+tập thể	tập thể	ADJ	A	_	
+tập thể	tập thể	NOUN	N	_	
+tập trung	tập trung	VERB	V	_	
+tập	tập	NOUN	Nc	_	
+tập	tập	VERB	V	_	
+tắm	tắm	VERB	V	_	
+tắt	tắt	ADJ	A	_	
+tằn tiện	tằn tiện	VERB	V	_	
+tặng	tặng	VERB	V	_	
+tế bào	tế bào	NOUN	N	_	
+tết	tết	NOUN	N	_	
+tề chỉnh	tề chỉnh	ADJ	A	_	
+tệ hại	tệ hại	ADJ	A	_	
+tỉ phú	tỉ phú	NOUN	N	_	
+tỉa	tỉa	VERB	V	_	
+tỉnh ngộ	tỉnh ngộ	VERB	V	_	
+tỉnh	tỉnh	NOUN	N	_	
+tỉ	tỉ	NOUN	N	_	
+tỉ	tỉ	NOUN	Ny	_	
+tỉ	tỉ	NUM	M	NumType=Card	
+tọt	tọt	X	R	_	
+tỏ vẻ	tỏ vẻ	VERB	V	_	
+tỏ	tỏ	VERB	V	_	
+tố cáo	tố cáo	VERB	V	_	
+tốc độ	tốc độ	NOUN	N	_	
+tối mật	tối mật	ADJ	A	_	
+tối tối	tối tối	NOUN	N	_	
+tối đa	tối đa	ADJ	A	_	
+tối ưu	tối ưu	ADJ	A	_	
+tối	tối	ADJ	A	_	
+tối	tối	NOUN	N	_	
+tốp	tốp	NOUN	Nc	_	
+tốt nghiệp	tốt nghiệp	VERB	V	_	
+tốt	tốt	ADJ	A	_	
+tồn tại	tồn tại	VERB	V	_	
+tổ chức	tổ chức	NOUN	N	_	
+tổ chức	tổ chức	VERB	V	_	
+tổ tiên	tổ tiên	NOUN	N	_	
+tổ trưởng	tổ trưởng	NOUN	N	_	
+tổng công ty	tổng công ty	NOUN	N	_	
+tổng khởi nghĩa	tổng khởi nghĩa	VERB	V	_	
+tổng kết	tổng kết	VERB	V	_	
+tổng tấn công	tổng tấn công	VERB	V	_	
+tổ	tổ	NOUN	N	_	
+tội phạm	tội phạm	NOUN	N	_	
+tội ác	tội ác	NOUN	N	_	
+tội	tội	NOUN	N	_	
+tới nơi tới chốn	tới nơi tới chốn	X	X	_	
+tới tấp	tới tấp	ADJ	A	_	
+tới	tới	ADP	E	_	
+tới	tới	PART	T	_	
+tới	tới	VERB	V	_	
+tới	tới	X	R	_	
+tờ	tờ	NOUN	Nc	_	
+tụ tập	tụ tập	VERB	V	_	
+tủi nhục	tủi nhục	ADJ	A	_	
+tủi	tủi	ADJ	A	_	
+tủ	tủ	NOUN	N	_	
+tứ tán	tứ tán	VERB	V	_	
+tức giận	tức giận	VERB	V	_	
+tức thời	tức thời	X	R	_	
+tức tốc	tức tốc	X	R	_	
+tức	tức	ADP	E	_	
+từ bỏ	từ bỏ	VERB	V	_	
+từ từ	từ từ	ADJ	A	_	
+từng	từng	NOUN	N	_	
+từng	từng	PROPN	P	_	
+từng	từng	X	R	_	
+từ	từ	ADP	E	_	
+tử tế	tử tế	ADJ	A	_	
+tự do	tự do	ADJ	A	_	
+tự hào	tự hào	ADJ	A	_	
+tự nguyện	tự nguyện	VERB	V	_	
+tự phê	tự phê	VERB	V	_	
+tự túc	tự túc	ADJ	A	_	
+tự vẫn	tự vẫn	VERB	V	_	
+tự ái	tự ái	VERB	V	_	
+tựa đề	tựa đề	NOUN	N	_	
+tự	tự	PROPN	P	_	
+ubnd	ubnd	NOUN	Ny	_	
+ui	ui	PART	T	_	
+ung thư	ung thư	NOUN	N	_	
+uy tín	uy tín	NOUN	N	_	
+uống	uống	VERB	V	_	
+uốn	uốn	VERB	V	_	
+vai	vai	NOUN	N	_	
+vay	vay	VERB	V	_	
+ve chai	ve chai	NOUN	N	_	
+vi phạm	vi phạm	VERB	V	_	
+vinh dự	vinh dự	ADJ	A	_	
+viết	viết	VERB	V	_	
+việc làm	việc làm	NOUN	N	_	
+việc	việc	NOUN	N	_	
+việc	việc	NOUN	Nc	_	
+viện kiểm sát	viện kiểm sát	NOUN	N	_	
+viện phí	viện phí	NOUN	N	_	
+viện trưởng	viện trưởng	NOUN	N	_	
+viện	viện	NOUN	N	_	
+việt kiều	việt kiều	NOUN	N	_	
+việt kiều	việt kiều	NOUN	Np	_	
+vks	vks	NOUN	Ny	_	
+vn	vn	NOUN	Ny	_	
+vong hồn	vong hồn	NOUN	N	_	
+vu khống	vu khống	VERB	V	_	
+vui mừng	vui mừng	ADJ	A	_	
+vui mừng	vui mừng	VERB	V	_	
+vui vẻ	vui vẻ	ADJ	A	_	
+vui	vui	ADJ	A	_	
+vui	vui	VERB	V	_	
+vài	vài	DET	L	_	
+vàng mã	vàng mã	NOUN	N	_	
+vàng vọt	vàng vọt	ADJ	A	_	
+vàng	vàng	ADJ	A	_	
+vàng	vàng	NOUN	N	_	
+vành	vành	NOUN	N	_	
+vào	vào	ADP	E	_	
+vào	vào	VERB	V	_	
+vào	vào	X	R	_	
+và	và	SCONJ	CC	_	
+vách	vách	NOUN	N	_	
+ván	ván	NOUN	N	_	
+vá	vá	VERB	V	_	
+vâng vâng dạ dạ	vâng vâng dạ dạ	X	X	_	
+vân	vân	NOUN	N	_	
+vãn	vãn	VERB	V	_	
+vì sao	vì sao	X	X	_	
+vì vậy	vì vậy	CCONJ	C	_	
+vì	vì	ADP	E	_	
+ví	ví	NOUN	N	_	
+ví	ví	VERB	V	_	
+vòi hơi	vòi hơi	NOUN	N	_	
+vòi rồng	vòi rồng	NOUN	N	_	
+vòng quanh	vòng quanh	VERB	V	_	
+vòng tròn	vòng tròn	NOUN	N	_	
+vòng	vòng	NOUN	N	_	
+vòng	vòng	VERB	V	_	
+vò	vò	VERB	V	_	
+vô can	vô can	ADJ	A	_	
+vô cùng	vô cùng	X	R	_	
+vô cảm	vô cảm	ADJ	A	_	
+vô cảm	vô cảm	VERB	V	_	
+vô hiệu	vô hiệu	ADJ	A	_	
+vô tình	vô tình	ADJ	A	_	
+vô tư	vô tư	ADJ	A	_	
+vô vàn	vô vàn	DET	L	_	
+vô ích	vô ích	ADJ	A	_	
+vô	vô	VERB	V	_	
+vô	vô	X	R	_	
+võng	võng	ADJ	A	_	
+vùng đất	vùng đất	NOUN	N	_	
+vùng	vùng	NOUN	N	_	
+văn bản	văn bản	NOUN	N	_	
+văn hóa	văn hóa	NOUN	N	_	
+văn nghệ	văn nghệ	NOUN	N	_	
+văn phòng	văn phòng	NOUN	N	_	
+vĩnh viễn	vĩnh viễn	ADJ	A	_	
+vũ bão	vũ bão	NOUN	N	_	
+vơi	vơi	VERB	V	_	
+vướng mắc	vướng mắc	NOUN	N	_	
+vướng	vướng	VERB	V	_	
+vườn	vườn	NOUN	N	_	
+vượt	vượt	VERB	V	_	
+vạch	vạch	VERB	V	_	
+vấn đề	vấn đề	NOUN	N	_	
+vất vả	vất vả	ADJ	A	_	
+vất vả	vất vả	NOUN	N	_	
+vẫn	vẫn	X	R	_	
+vận dụng	vận dụng	VERB	V	_	
+vận tải	vận tải	VERB	V	_	
+vận động	vận động	VERB	V	_	
+vật chất	vật chất	NOUN	N	_	
+vật lộn	vật lộn	VERB	V	_	
+vật tư	vật tư	NOUN	N	_	
+vật vờ	vật vờ	ADJ	A	_	
+vậy mà	vậy mà	CCONJ	C	_	
+vậy sao	vậy sao	X	X	_	
+vậy	vậy	PART	T	_	
+vậy	vậy	PROPN	P	_	
+vắn tắt	vắn tắt	ADJ	A	_	
+vắng	vắng	ADJ	A	_	
+vắt	vắt	VERB	V	_	
+vẻ	vẻ	NOUN	N	_	
+vẽ	vẽ	NOUN	N	_	
+vẽ	vẽ	VERB	V	_	
+vết thương	vết thương	NOUN	N	_	
+vết	vết	NOUN	N	_	
+về	về	ADP	E	_	
+về	về	VERB	V	_	
+về	về	X	R	_	
+vỉa hè	vỉa hè	NOUN	N	_	
+vị thành niên	vị thành niên	ADJ	A	_	
+vị trí	vị trí	NOUN	N	_	
+vị	vị	NOUN	Nc	_	
+vọng	vọng	VERB	V	_	
+vốn dĩ	vốn dĩ	X	R	_	
+vốn	vốn	NOUN	N	_	
+vội vã	vội vã	ADJ	A	_	
+vội	vội	ADJ	A	_	
+với	với	ADP	E	_	
+với	với	CCONJ	C	_	
+với	với	VERB	V	_	
+vờ	vờ	VERB	V	_	
+vỡ lở	vỡ lở	VERB	V	_	
+vỡ	vỡ	VERB	V	_	
+vợ chồng	vợ chồng	NOUN	N	_	
+vợ	vợ	NOUN	N	_	
+vụ trưởng	vụ trưởng	NOUN	N	_	
+vụ việc	vụ việc	NOUN	N	_	
+vụ án	vụ án	NOUN	N	_	
+vụng	vụng	ADJ	A	_	
+vụn	vụn	ADJ	A	_	
+vụ	vụ	NOUN	N	_	
+vụ	vụ	NOUN	Nc	_	
+vừa vặn	vừa vặn	ADJ	A	_	
+vừa	vừa	ADJ	A	_	
+vừa	vừa	X	R	_	
+vững chãi	vững chãi	ADJ	A	_	
+vững chắc	vững chắc	ADJ	A	_	
+vững mạnh	vững mạnh	ADJ	A	_	
+vững vàng	vững vàng	ADJ	A	_	
+vững	vững	ADJ	A	_	
+vực	vực	NOUN	N	_	
+www . anangquangnamfund . org	www . anangquangnamfund . org	NOUN	Np	_	
+xanh ngắt	xanh ngắt	ADJ	A	_	
+xanh xao	xanh xao	ADJ	A	_	
+xanh	xanh	ADJ	A	_	
+xa	xa	ADJ	A	_	
+xe cơ giới	xe cơ giới	NOUN	N	_	
+xe hàng	xe hàng	NOUN	N	_	
+xe hơi	xe hơi	NOUN	N	_	
+xe lửa	xe lửa	NOUN	N	_	
+xe máy	xe máy	NOUN	N	_	
+xe tăng	xe tăng	NOUN	N	_	
+xe tải	xe tải	NOUN	N	_	
+xe ôm	xe ôm	NOUN	N	_	
+xe đạp	xe đạp	NOUN	N	_	
+xem bói	xem bói	VERB	V	_	
+xem lại	xem lại	VERB	V	_	
+xem xét	xem xét	VERB	V	_	
+xem	xem	VERB	V	_	
+xem	xem	X	R	_	
+xen	xen	VERB	V	_	
+xe	xe	NOUN	N	_	
+xin lỗi	xin lỗi	VERB	V	_	
+xin phép	xin phép	VERB	V	_	
+xinh đẹp	xinh đẹp	ADJ	A	_	
+xin	xin	VERB	V	_	
+xoay	xoay	VERB	V	_	
+xong	xong	VERB	V	_	
+xong	xong	X	R	_	
+xui	xui	VERB	V	_	
+xung phong	xung phong	VERB	V	_	
+xung quanh	xung quanh	NOUN	N	_	
+xuân lộc	xuân lộc	NOUN	N	_	
+xuân sắc	xuân sắc	NOUN	N	_	
+xuân	xuân	NOUN	N	_	
+xuôi ngược	xuôi ngược	ADJ	A	_	
+xuôi	xuôi	VERB	V	_	
+xuất hiện	xuất hiện	VERB	V	_	
+xuất khẩu	xuất khẩu	VERB	V	_	
+xuất phát	xuất phát	VERB	V	_	
+xuất trình	xuất trình	VERB	V	_	
+xuất xứ	xuất xứ	NOUN	N	_	
+xuống đá	xuống đá	NOUN	Np	_	
+xuống	xuống	ADP	E	_	
+xuống	xuống	VERB	V	_	
+xuống	xuống	X	R	_	
+xác minh	xác minh	VERB	V	_	
+xác nhận	xác nhận	NOUN	N	_	
+xác nhận	xác nhận	VERB	V	_	
+xác định	xác định	VERB	V	_	
+xáng	xáng	NOUN	N	_	
+xát	xát	VERB	V	_	
+xâu chuỗi	xâu chuỗi	VERB	V	_	
+xây dựng	xây dựng	VERB	V	_	
+xây	xây	VERB	V	_	
+xã hội hóa	xã hội hóa	VERB	V	_	
+xã hội	xã hội	NOUN	N	_	
+xã	xã	NOUN	N	_	
+xét xử	xét xử	VERB	V	_	
+xét	xét	VERB	V	_	
+xé	xé	VERB	V	_	
+xóa sổ	xóa sổ	VERB	V	_	
+xóa đói giảm nghèo	xóa đói giảm nghèo	X	X	_	
+xóa	xóa	VERB	V	_	
+xóm	xóm	NOUN	N	_	
+xót xa	xót xa	ADJ	A	_	
+xôi	xôi	NOUN	N	_	
+xôn xao	xôn xao	ADJ	A	_	
+xôn xao	xôn xao	VERB	V	_	
+xông	xông	VERB	V	_	
+xú uế	xú uế	ADJ	A	_	
+xúc động	xúc động	NOUN	N	_	
+xúc động	xúc động	VERB	V	_	
+xưa	xưa	ADJ	A	_	
+xưa	xưa	NOUN	N	_	
+xưng	xưng	VERB	V	_	
+xương sống	xương sống	NOUN	N	_	
+xưởng	xưởng	NOUN	N	_	
+xảy ra	xảy ra	VERB	V	_	
+xảy	xảy	VERB	V	_	
+xấp xỉ	xấp xỉ	ADJ	A	_	
+xấu hổ	xấu hổ	VERB	V	_	
+xấu	xấu	ADJ	A	_	
+xẻng	xẻng	NOUN	N	_	
+xởi lởi	xởi lởi	ADJ	A	_	
+xứng đáng	xứng đáng	ADJ	A	_	
+xứng đôi vừa lứa	xứng đôi vừa lứa	X	X	_	
+xử lý	xử lý	VERB	V	_	
+xử phạt	xử phạt	VERB	V	_	
+xử	xử	VERB	V	_	
+y dược	y dược	NOUN	N	_	
+y học	y học	NOUN	N	_	
+y nguyên	y nguyên	ADJ	A	_	
+y tá	y tá	NOUN	N	_	
+yên tâm	yên tâm	ADJ	A	_	
+yêu cầu	yêu cầu	NOUN	N	_	
+yêu cầu	yêu cầu	VERB	V	_	
+yêu quí	yêu quí	VERB	V	_	
+yêu	yêu	VERB	V	_	
+yết kiêu	yết kiêu	NOUN	Np	_	
+yếu tố	yếu tố	NOUN	N	_	
+À	À	INTJ	I	_	
+Ông bà	Ông bà	NOUN	N	_	
+Ông	Ông	NOUN	N	_	
+Ô	Ô	INTJ	I	_	
+Úc	Úc	NOUN	Np	_	
+ào ạt	ào ạt	ADJ	A	_	
+ào	ào	VERB	V	_	
+à	à	PART	T	_	
+ách tắc	ách tắc	VERB	V	_	
+ánh sáng	ánh sáng	NOUN	N	_	
+án	án	NOUN	N	_	
+áo lặn	áo lặn	NOUN	N	_	
+áo	áo	NOUN	N	_	
+áp dụng	áp dụng	VERB	V	_	
+áp lực	áp lực	NOUN	N	_	
+âm mưu	âm mưu	NOUN	N	_	
+âm thầm	âm thầm	ADJ	A	_	
+ép	ép	VERB	V	_	
+êm dịu	êm dịu	ADJ	A	_	
+êm đẹp	êm đẹp	ADJ	A	_	
+ì ạch	ì ạch	ADJ	A	_	
+í ới	í ới	ADJ	A	_	
+ít lâu	ít lâu	NOUN	N	_	
+ít nhất	ít nhất	X	X	_	
+ít ỏi	ít ỏi	ADJ	A	_	
+ít	ít	ADJ	A	_	
+ôm	ôm	VERB	V	_	
+ôn tồn	ôn tồn	ADJ	A	_	
+ông bà	ông bà	NOUN	N	_	
+ông già	ông già	NOUN	N	_	
+ông ta	ông ta	NOUN	N	_	
+ông ta	ông ta	PROPN	P	_	
+ông	ông	NOUN	N	_	
+ông	ông	NOUN	Nc	_	
+ông	ông	PROPN	P	_	
+ôtô	ôtô	NOUN	N	_	
+ô	ô	NOUN	N	_	
+ùn tắc	ùn tắc	VERB	V	_	
+ú ớ	ú ớ	ADJ	A	_	
+út	út	ADJ	A	_	
+ý kiến	ý kiến	NOUN	N	_	
+ý muốn	ý muốn	NOUN	N	_	
+ý nghĩa	ý nghĩa	NOUN	N	_	
+ăn chơi	ăn chơi	VERB	V	_	
+ăn học	ăn học	VERB	V	_	
+ăn hỏi	ăn hỏi	VERB	V	_	
+ăn mặc	ăn mặc	VERB	V	_	
+ăn	ăn	VERB	V	_	
+ĐTDĐ	ĐTDĐ	NOUN	Ny	_	
+ĐT	ĐT	NOUN	Ny	_	
+Đa số	Đa số	DET	L	_	
+Đang	Đang	X	R	_	
+Đoàn	Đoàn	NOUN	Np	_	
+Đu	Đu	NOUN	Np	_	
+Đà Lạt	Đà Lạt	NOUN	Np	_	
+Đà Nẵng	Đà Nẵng	NOUN	Np	_	
+Đào	Đào	NOUN	Np	_	
+Đáng lẽ	Đáng lẽ	X	R	_	
+Đây	Đây	PROPN	P	_	
+Đã	Đã	X	R	_	
+Đó	Đó	PROPN	P	_	
+Đơn	Đơn	NOUN	N	_	
+Đường đất	Đường đất	NOUN	N	_	
+Đại	Đại	NOUN	Np	_	
+Đảng	Đảng	NOUN	Np	_	
+Đất	Đất	NOUN	N	_	
+Đấy	Đấy	PROPN	P	_	
+Đặc biệt	Đặc biệt	ADJ	A	_	
+Đặng Công Lân	Đặng Công Lân	NOUN	Np	_	
+Đặng Văn Ngữ	Đặng Văn Ngữ	NOUN	Np	_	
+Đặng Văn Tình	Đặng Văn Tình	NOUN	Np	_	
+Đền	Đền	NOUN	N	_	
+Để	Để	CCONJ	C	_	
+Định Quán	Định Quán	NOUN	Np	_	
+Đối với	Đối với	ADP	E	_	
+Đồng Nai	Đồng Nai	NOUN	Np	_	
+Đỗ Quốc Việt	Đỗ Quốc Việt	NOUN	Np	_	
+Đừng	Đừng	X	R	_	
+đan lát	đan lát	VERB	V	_	
+đang	đang	X	R	_	
+đan	đan	VERB	V	_	
+đau lòng	đau lòng	ADJ	A	_	
+đau thương	đau thương	ADJ	A	_	
+đau đớn	đau đớn	VERB	V	_	
+đau	đau	ADJ	A	_	
+đau	đau	NOUN	N	_	
+đau	đau	VERB	V	_	
+đem	đem	VERB	V	_	
+đen	đen	ADJ	A	_	
+đeo đuổi	đeo đuổi	VERB	V	_	
+đeo	đeo	VERB	V	_	
+đi lại	đi lại	VERB	V	_	
+đi nữa	đi nữa	X	X	_	
+đi tới đi lui	đi tới đi lui	VERB	V	_	
+đi đứng	đi đứng	VERB	V	_	
+đinh	đinh	NOUN	N	_	
+điên	điên	VERB	V	_	
+đi	đi	PART	T	_	
+đi	đi	VERB	V	_	
+đi	đi	X	R	_	
+điếu	điếu	NOUN	Nc	_	
+điềm nhiên	điềm nhiên	ADJ	A	_	
+điềm tĩnh	điềm tĩnh	ADJ	A	_	
+điều khiển	điều khiển	VERB	V	_	
+điều khoản	điều khoản	NOUN	N	_	
+điều kiện	điều kiện	NOUN	N	_	
+điều phối	điều phối	VERB	V	_	
+điều tra	điều tra	NOUN	N	_	
+điều tra	điều tra	VERB	V	_	
+điều	điều	NOUN	N	_	
+điểm chỉ	điểm chỉ	NOUN	N	_	
+điểm chỉ	điểm chỉ	VERB	V	_	
+điểm	điểm	NOUN	N	_	
+điện thoại di động	điện thoại di động	NOUN	N	_	
+điện thoại	điện thoại	NOUN	N	_	
+điện tử	điện tử	NOUN	N	_	
+điện	điện	NOUN	N	_	
+điện	điện	VERB	V	_	
+đo đạc	đo đạc	VERB	V	_	
+đon đả	đon đả	ADJ	A	_	
+đong	đong	VERB	V	_	
+đoàn kết	đoàn kết	VERB	V	_	
+đoàn	đoàn	NOUN	N	_	
+đoàn	đoàn	NOUN	Nc	_	
+đoàn	đoàn	NOUN	Np	_	
+đoán	đoán	VERB	V	_	
+đoạn tuyệt	đoạn tuyệt	VERB	V	_	
+đoạn	đoạn	NOUN	N	_	
+đoạn	đoạn	NOUN	Nc	_	
+đua chen	đua chen	VERB	V	_	
+đua	đua	VERB	V	_	
+đuổi	đuổi	VERB	V	_	
+đàm thoại	đàm thoại	NOUN	N	_	
+đàn bà	đàn bà	NOUN	N	_	
+đàn áp	đàn áp	VERB	V	_	
+đàn ông	đàn ông	NOUN	N	_	
+đàng hoàng	đàng hoàng	ADJ	A	_	
+đào tạo	đào tạo	VERB	V	_	
+đào	đào	NOUN	Np	_	
+đà	đà	NOUN	N	_	
+đám cưới	đám cưới	NOUN	N	_	
+đám	đám	NOUN	Nc	_	
+đáng lẽ	đáng lẽ	X	R	_	
+đáng	đáng	VERB	V	_	
+đánh ghen	đánh ghen	VERB	V	_	
+đánh vần	đánh vần	VERB	V	_	
+đánh đổi	đánh đổi	VERB	V	_	
+đánh	đánh	VERB	V	_	
+đáp ứng	đáp ứng	VERB	V	_	
+đáy	đáy	NOUN	N	_	
+đá	đá	NOUN	N	_	
+đâm	đâm	VERB	V	_	
+đâu	đâu	PROPN	P	_	
+đâu	đâu	X	R	_	
+đây	đây	NOUN	N	_	
+đây	đây	PART	T	_	
+đây	đây	PROPN	P	_	
+đã	đã	X	R	_	
+đèn pin	đèn pin	NOUN	N	_	
+đèn	đèn	NOUN	N	_	
+đè	đè	VERB	V	_	
+đêm	đêm	NOUN	N	_	
+đòi hỏi	đòi hỏi	VERB	V	_	
+đòi	đòi	VERB	V	_	
+đò	đò	NOUN	N	_	
+đói	đói	VERB	V	_	
+đóng cửa	đóng cửa	VERB	V	_	
+đóng góp	đóng góp	VERB	V	_	
+đóng	đóng	VERB	V	_	
+đón	đón	VERB	V	_	
+đó	đó	PROPN	P	_	
+đôi	đôi	DET	L	_	
+đôi	đôi	NUM	M	NumType=Card	
+đôla	đôla	NOUN	Nu	_	
+đông	đông	ADJ	A	_	
+đô	đô	NOUN	N	_	
+đúng	đúng	ADJ	A	_	
+đút	đút	VERB	V	_	
+đăng ký	đăng ký	VERB	V	_	
+đăng	đăng	VERB	V	_	
+đ	đ	NOUN	Nu	_	
+đĩ	đĩ	NOUN	N	_	
+đơm đặt	đơm đặt	VERB	V	_	
+đơn giản	đơn giản	ADJ	A	_	
+đơn phương	đơn phương	ADJ	A	_	
+đơn vị	đơn vị	NOUN	N	_	
+đơn độc	đơn độc	ADJ	A	_	
+đơn	đơn	NOUN	N	_	
+đưa đẩy	đưa đẩy	VERB	V	_	
+đưa	đưa	VERB	V	_	
+đường dây	đường dây	NOUN	N	_	
+đường ray	đường ray	NOUN	N	_	
+đường ống	đường ống	NOUN	N	_	
+đường	đường	NOUN	N	_	
+được chăng hay chớ	được chăng hay chớ	X	X	_	
+được	được	PART	T	_	
+được	được	VERB	V	_	
+được	được	X	R	_	
+đượm	đượm	VERB	V	_	
+đại diện	đại diện	NOUN	N	_	
+đại diện	đại diện	VERB	V	_	
+đại học	đại học	NOUN	N	_	
+đạm bạc	đạm bạc	ADJ	A	_	
+đạn	đạn	NOUN	N	_	
+đạo đức	đạo đức	NOUN	N	_	
+đạp	đạp	VERB	V	_	
+đạt	đạt	VERB	V	_	
+đảm bảo	đảm bảo	VERB	V	_	
+đảng bộ	đảng bộ	NOUN	N	_	
+đảng viên	đảng viên	NOUN	N	_	
+đất liền	đất liền	NOUN	N	_	
+đất nước	đất nước	NOUN	N	_	
+đất đai	đất đai	NOUN	N	_	
+đất	đất	NOUN	N	_	
+đấu tranh	đấu tranh	VERB	V	_	
+đấy	đấy	PART	T	_	
+đấy	đấy	PROPN	P	_	
+đầm đìa	đầm đìa	ADJ	A	_	
+đầu tiên	đầu tiên	ADJ	A	_	
+đầu tiên	đầu tiên	NOUN	N	_	
+đầu tàu	đầu tàu	NOUN	N	_	
+đầu tư	đầu tư	VERB	V	_	
+đầu	đầu	NOUN	N	_	
+đầy rẫy	đầy rẫy	ADJ	A	_	
+đầy đủ	đầy đủ	ADJ	A	_	
+đầy	đầy	ADJ	A	_	
+đẩy mạnh	đẩy mạnh	VERB	V	_	
+đẩy	đẩy	VERB	V	_	
+đẫy đà	đẫy đà	ADJ	A	_	
+đậm	đậm	ADJ	A	_	
+đập	đập	VERB	V	_	
+đậu hũ	đậu hũ	NOUN	N	_	
+đậu	đậu	NOUN	N	_	
+đậu	đậu	VERB	V	_	
+đắng	đắng	ADJ	A	_	
+đắp	đắp	VERB	V	_	
+đặc biệt	đặc biệt	ADJ	A	_	
+đặc chủng	đặc chủng	ADJ	A	_	
+đặc dụng	đặc dụng	ADJ	A	_	
+đặc nhiệm	đặc nhiệm	NOUN	N	_	
+đặt cược	đặt cược	VERB	V	_	
+đặt cọc	đặt cọc	VERB	V	_	
+đặt hàng	đặt hàng	VERB	V	_	
+đặt	đặt	VERB	V	_	
+đẹp trai	đẹp trai	ADJ	A	_	
+đẹp	đẹp	ADJ	A	_	
+đếm	đếm	VERB	V	_	
+đến nơi đến chốn	đến nơi đến chốn	X	X	_	
+đến	đến	ADP	E	_	
+đến	đến	PART	T	_	
+đến	đến	VERB	V	_	
+đến	đến	X	R	_	
+đề cập	đề cập	VERB	V	_	
+đề nghị	đề nghị	NOUN	N	_	
+đề nghị	đề nghị	VERB	V	_	
+đền bù	đền bù	VERB	V	_	
+đền	đền	NOUN	N	_	
+đều	đều	ADJ	A	_	
+đều	đều	X	R	_	
+để lại	để lại	VERB	V	_	
+để	để	ADP	E	_	
+để	để	VERB	V	_	
+địa bàn	địa bàn	NOUN	N	_	
+địa chỉ	địa chỉ	NOUN	N	_	
+địa phương	địa phương	NOUN	N	_	
+địa vị	địa vị	NOUN	N	_	
+địa điểm	địa điểm	NOUN	N	_	
+địa ốc	địa ốc	NOUN	N	_	
+định cư	định cư	VERB	V	_	
+định mệnh	định mệnh	NOUN	N	_	
+định thần	định thần	VERB	V	_	
+định	định	VERB	V	_	
+đọc	đọc	VERB	V	_	
+đỏ chót	đỏ chót	ADJ	A	_	
+đỏ gay	đỏ gay	ADJ	A	_	
+đỏ	đỏ	ADJ	A	_	
+đối chất	đối chất	VERB	V	_	
+đối diện	đối diện	VERB	V	_	
+đối thoại	đối thoại	VERB	V	_	
+đối tượng	đối tượng	NOUN	N	_	
+đối với	đối với	ADP	E	_	
+đối với	đối với	X	X	_	
+đốm	đốm	NOUN	Nc	_	
+đống đa	đống đa	NOUN	N	_	
+đốt	đốt	VERB	V	_	
+đồ dùng	đồ dùng	NOUN	N	_	
+đồ nghề	đồ nghề	NOUN	N	_	
+đồ vật	đồ vật	NOUN	N	_	
+đồn bót	đồn bót	NOUN	N	_	
+đồng bào	đồng bào	NOUN	N	_	
+đồng bộ	đồng bộ	ADJ	A	_	
+đồng chí	đồng chí	NOUN	N	_	
+đồng hành	đồng hành	VERB	V	_	
+đồng hồ mặt trời	đồng hồ mặt trời	NOUN	N	_	
+đồng hồ	đồng hồ	NOUN	N	_	
+đồng minh	đồng minh	NOUN	N	_	
+đồng nghiệp	đồng nghiệp	NOUN	N	_	
+đồng quà tấm bánh	đồng quà tấm bánh	X	X	_	
+đồng thanh	đồng thanh	VERB	V	_	
+đồng thời	đồng thời	X	R	_	
+đồng ý	đồng ý	VERB	V	_	
+đồng đội	đồng đội	NOUN	N	_	
+đồng	đồng	NOUN	N	_	
+đồng	đồng	NOUN	Nu	_	
+đổi mới	đổi mới	NOUN	N	_	
+đổi mới	đổi mới	VERB	V	_	
+đổi thay	đổi thay	NOUN	N	_	
+đổi	đổi	VERB	V	_	
+đổ	đổ	VERB	V	_	
+độ lượng	độ lượng	ADJ	A	_	
+độc giả	độc giả	NOUN	N	_	
+độc kế	độc kế	NOUN	N	_	
+độc	độc	ADJ	A	_	
+đội ngũ	đội ngũ	NOUN	N	_	
+đội nón ra đi	đội nón ra đi	X	X	_	
+đội trưởng	đội trưởng	NOUN	N	_	
+đội	đội	NOUN	N	_	
+đội	đội	VERB	V	_	
+động cơ	động cơ	NOUN	N	_	
+động thái	động thái	NOUN	N	_	
+động viên	động viên	VERB	V	_	
+động	động	VERB	V	_	
+đột ngột	đột ngột	ADJ	A	_	
+đột nhập	đột nhập	VERB	V	_	
+độ	độ	NOUN	N	_	
+đớn đau	đớn đau	ADJ	A	_	
+đời thường	đời thường	ADJ	A	_	
+đời	đời	NOUN	N	_	
+đỡ	đỡ	VERB	V	_	
+đợi	đợi	VERB	V	_	
+đợt	đợt	NOUN	N	_	
+đụng	đụng	VERB	V	_	
+đủ	đủ	ADJ	A	_	
+đủ	đủ	VERB	V	_	
+đứa	đứa	NOUN	N	_	
+đứa	đứa	NOUN	Nc	_	
+đứng dậy	đứng dậy	VERB	V	_	
+đứng như trời trồng	đứng như trời trồng	X	X	_	
+đứng	đứng	VERB	V	_	
+đứt quãng	đứt quãng	VERB	V	_	
+đừng	đừng	VERB	V	_	
+ưu tiên	ưu tiên	ADJ	A	_	
+ưu việt	ưu việt	ADJ	A	_	
+ưu ái	ưu ái	NOUN	N	_	
+ưu đãi	ưu đãi	ADJ	A	_	
+ưu đãi	ưu đãi	VERB	V	_	
+ước tính	ước tính	VERB	V	_	
+ạ	ạ	PART	T	_	
+ảm đạm	ảm đạm	ADJ	A	_	
+ảnh hưởng	ảnh hưởng	VERB	V	_	
+ảnh	ảnh	NOUN	N	_	
+Ấy	Ấy	PART	T	_	
+ấm	ấm	NOUN	N	_	
+ấn tượng	ấn tượng	ADJ	A	_	
+ấy	ấy	PROPN	P	_	
+ập	ập	VERB	V	_	
+ếm	ếm	VERB	V	_	
+ốm đau	ốm đau	ADJ	A	_	
+ốm đau	ốm đau	VERB	V	_	
+ốm	ốm	VERB	V	_	
+ống kính	ống kính	NOUN	N	_	
+ống	ống	NOUN	N	_	
+ốp	ốp	VERB	V	_	
+ố	ố	ADJ	A	_	
+ồn ã	ồn ã	ADJ	A	_	
+ổn	ổn	ADJ	A	_	
+ở vậy	ở vậy	VERB	V	_	
+ở	ở	ADP	E	_	
+ở	ở	VERB	V	_	
+Ủa	Ủa	INTJ	I	_	
+ủng hộ	ủng hộ	VERB	V	_	
+ủy ban	ủy ban	NOUN	N	_	
+ủy quyền	ủy quyền	VERB	V	_	
+ứng cứu	ứng cứu	VERB	V	_	
+–	–	PUNCT	-	_	

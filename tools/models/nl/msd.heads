@@ -1,0 +1,331 @@
+PROPN	Number=Sing
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Subcat=Tran	Tense=Past	VerbForm=Fin
+PRON	Case=Acc,Dat	Number=Plur	Person=3	PronType=Prs
+ADJ	Degree=Pos
+NOUN	Number=Plur
+PUNCT	PunctType=Peri
+PRON	Case=Nom	Number=Plur,Sing	Person=3	PronType=Prs
+ADP	AdpType=Prep
+PRON	Number=Sing	Person=3	Poss=Yes	PronType=Prs
+NOUN	Number=Sing
+AUX	Aspect=Imp	Mood=Ind	Number=Plur	Tense=Pres	VerbForm=Fin
+VERB	VerbForm=Inf	VerbType=Mod
+VERB	Subcat=Intr	VerbForm=Inf
+PUNCT	PunctType=Comm
+CCONJ	_
+PRON	PronType=Dem
+AUX	Aspect=Imp	Mood=Ind	Number=Sing	Tense=Past	VerbForm=Fin
+VERB	Subcat=Tran	Tense=Past	VerbForm=Part
+PRON	PronType=Ind
+DET	Definite=Def	PronType=Art
+ADJ	Case=Nom	Degree=Pos
+PRON	PronType=Rel
+ADV	PronType=Dem
+ADV	Degree=Pos
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Subcat=Tran	Tense=Past	VerbForm=Fin
+PRON	PronType=Rcp
+AUX	VerbForm=Inf
+SCONJ	_
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Tense=Past	VerbForm=Fin	VerbType=Mod
+ADJ	Degree=Pos	Variant=Short
+ADV	PartType=Vbp
+PROPN	_
+DET	Definite=Def	Gender=Neut	PronType=Art
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Subcat=Intr	Tense=Past	VerbForm=Fin
+PRON	Number=Plur	Person=3	Poss=Yes	PronType=Prs
+VERB	Subcat=Intr	Tense=Pres	VerbForm=Part
+ADJ	Case=Nom	Degree=Sup
+DET	Definite=Ind	Number=Sing	PronType=Art
+AUX	Tense=Past	VerbForm=Part
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Tense=Past	VerbForm=Fin	VerbType=Mod
+AUX	VerbForm=Inf	VerbType=Aux,Cop
+ADP	AdpType=Prep	PartType=Inf
+VERB	Subcat=Tran	VerbForm=Inf
+NUM	Definite=Def	NumType=Card
+PRON	Case=Nom	Number=Sing	Person=3	PronType=Prs
+PUNCT	PunctType=Colo
+PUNCT	PunctType=Quot
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Subcat=Intr	Tense=Pres	VerbForm=Fin
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Subcat=Intr	Tense=Past	VerbForm=Fin
+AUX	Aspect=Imp	Mood=Ind	Number=Sing	Tense=Past	VerbForm=Fin	VerbType=Aux,Cop
+AUX	Subcat=Intr	VerbForm=Inf
+DET	Degree=Cmp	NumType=Card	PronType=Ind
+PRON	Case=Acc,Dat	Number=Sing	Person=3	PronType=Prs
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Reflex=Yes	Tense=Past	VerbForm=Fin
+PRON	Number=Plur,Sing	Person=3	PronType=Prs	Reflex=Yes
+AUX	Aspect=Imp	Mood=Ind	Number=Sing	Subcat=Intr	Tense=Past	VerbForm=Fin
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Subcat=Tran	Tense=Pres	VerbForm=Fin
+PRON	Case=Nom	Number=Plur	Person=1	PronType=Prs
+PUNCT	PunctType=Excl
+PRON	Case=Nom	Number=Sing	Person=1	PronType=Prs
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin	VerbType=Mod
+ADV	PronType=Ind
+ADV	AdvType=Ex
+AUX	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin
+VERB	Subcat=Intr	Tense=Past	VerbForm=Part
+AUX	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	VerbType=Aux,Cop
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	VerbType=Mod
+ADV	PronType=Rel
+PRON	PronType=Int
+PUNCT	PunctType=Qest
+AUX	Aspect=Imp	Mood=Ind	Number=Sing	Person=2	Tense=Pres	VerbForm=Fin
+PRON	Case=Nom	Number=Sing	Person=2	PronType=Prs
+ADJ	Degree=Cmp	Variant=Short
+AUX	Aspect=Imp	Mood=Ind	Number=Plur	Tense=Pres	VerbForm=Fin	VerbType=Aux,Cop
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Subcat=Tran	Tense=Pres	VerbForm=Fin
+AUX	Aspect=Imp	Mood=Ind	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin
+VERB	Mood=Imp	Subcat=Intr	VerbForm=Fin
+AUX	Aspect=Imp	Mood=Ind	Number=Sing	Person=1	Subcat=Tran	Tense=Pres	VerbForm=Fin
+AUX	Subcat=Tran	VerbForm=Inf
+PRON	Case=Acc,Dat	Number=Sing	Person=1	PronType=Prs
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Subcat=Intr	Tense=Pres	VerbForm=Fin
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=1	Reflex=Yes	Tense=Pres	VerbForm=Fin
+PRON	Number=Sing	Person=2	PronType=Prs	Reflex=Yes
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=2	Reflex=Yes	Tense=Pres	VerbForm=Fin
+VERB	Mood=Imp	Subcat=Tran	VerbForm=Fin
+ADV	Degree=Cmp
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=1	Subcat=Tran	Tense=Pres	VerbForm=Fin
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=2	Tense=Pres	VerbForm=Fin	VerbType=Mod
+PRON	Case=Acc,Dat	Number=Sing	Person=2	PronType=Prs
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=2	Subcat=Tran	Tense=Pres	VerbForm=Fin
+X	_
+ADJ	Degree=Cmp
+X	Gender=Neut	Number=Sing
+PRON	Number=Sing	Person=1	Poss=Yes	PronType=Prs
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=2	Subcat=Intr	Tense=Pres	VerbForm=Fin
+AUX	Aspect=Imp	Mood=Ind	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin	VerbType=Aux,Cop
+PRON	Case=Acc,Dat	Number=Plur	Person=2	PronType=Prs
+X	Definite=Def	Degree=Sup	Gender=Neut	PronType=Ind
+X	Definite=Def	Degree=Sup	Gender=Neut
+ADP	AdpType=Circ
+X	Number=Sing
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Reflex=Yes	Tense=Pres	VerbForm=Fin
+PRON	Case=Acc,Dat	Number=Plur	Person=1	PronType=Prs
+ADJ	Case=Gen	Degree=Pos
+DET	Degree=Pos	NumType=Card	PronType=Ind
+DET	Case=Nom	Degree=Pos	NumType=Card	PronType=Ind
+AUX	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Reflex=Yes	Tense=Pres	VerbForm=Fin
+PRON	Case=Dat	PronType=Dem
+X	PronType=Int
+AUX	Aspect=Imp	Mood=Ind	Number=Sing	Person=2	Subcat=Tran	Tense=Pres	VerbForm=Fin
+X	Number=Sing	PronType=Int
+X	Number=Plur	PronType=Int
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Reflex=Yes	Tense=Pres	VerbForm=Fin
+ADJ	Degree=Pos	Number=Plur
+PRON	Number=Plur	Person=1	Poss=Yes	PronType=Prs
+X	Degree=Pos	Number=Sing	Person=3
+VERB	Case=Nom	Subcat=Intr	Tense=Pres	VerbForm=Part
+ADV	PronType=Int
+ADJ	Degree=Sup
+DET	Case=Gen	Definite=Def	Number=Sing	PronType=Art
+NOUN	Case=Gen	Number=Sing
+AUX	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Subcat=Tran	Tense=Pres	VerbForm=Fin
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Tense=Pres	VerbForm=Fin	VerbType=Mod
+DET	Gender=Masc	Number=Sing	PronType=Tot
+X	Degree=Pos
+INTJ	_
+AUX	Aspect=Imp	Mood=Ind	Number=Sing	Subcat=Tran	Tense=Past	VerbForm=Fin
+NUM	Definite=Def	Degree=Pos	NumType=Card
+NUM	NumForm=Digit	NumType=Card
+NUM	Definite=Def	Number=Sing	NumType=Card
+X	Definite=Def	Degree=Pos	Variant=Short
+AUX	Aspect=Imp	Mood=Ind	Number=Sing	Person=2	Tense=Pres	VerbForm=Fin	VerbType=Aux,Cop
+AUX	Subcat=Tran	Tense=Past	VerbForm=Part
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=1	Subcat=Intr	Tense=Pres	VerbForm=Fin
+PRON	Number=Sing	Person=2	Poss=Yes	PronType=Prs
+X	Gender=Neut
+PUNCT	PunctType=Semi
+X	Case=Gen	Definite=Def	Number=Sing
+AUX	Aspect=Imp	Mood=Ind	Number=Plur	Subcat=Tran	Tense=Pres	VerbForm=Fin
+AUX	Aspect=Imp	Mood=Ind	Number=Sing	Person=1	Subcat=Intr	Tense=Pres	VerbForm=Fin
+AUX	Aspect=Imp	Mood=Ind	Number=Sing	Person=2	Subcat=Intr	Tense=Pres	VerbForm=Fin
+AUX	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Subcat=Intr	Tense=Pres	VerbForm=Fin
+PRON	Case=Acc,Dat	Number=Plur,Sing	Person=3	PronType=Prs
+PRON	Number=Sing	Person=1	PronType=Prs	Reflex=Yes
+X	Degree=Pos	Variant=Short
+X	Degree=Cmp	Variant=Short
+X	Degree=Cmp	PronType=Ind
+X	Aspect=Imp	Degree=Pos	Mood=Ind	Number=Sing	Person=2	Subcat=Tran	Tense=Pres	VerbForm=Fin
+AUX	Aspect=Imp	Mood=Ind	Number=Plur	Tense=Past	VerbForm=Fin
+X	Definite=Def	Number=Sing
+AUX	Aspect=Imp	Mood=Ind	Number=Plur	Subcat=Intr	Tense=Pres	VerbForm=Fin
+ADJ	Case=Nom	Degree=Cmp
+X	Number=Sing	PronType=Ind
+AUX	Aspect=Imp	Mood=Ind	Number=Plur	Subcat=Tran	Tense=Past	VerbForm=Fin
+VERB	Case=Nom	Subcat=Tran	Tense=Past	VerbForm=Part
+DET	Case=Nom	Degree=Cmp	NumType=Card	PronType=Ind
+X	Definite=Def	Gender=Neut	Number=Sing
+X	Degree=Pos	Number=Sing
+SYM	_
+AUX	Subcat=Intr	Tense=Past	VerbForm=Part
+VERB	Number=Plur	Subcat=Tran	Tense=Past	VerbForm=Part
+X	Degree=Pos	Number=Plur
+PROPN	Case=Gen	Number=Sing
+ADJ	Definite=Def	NumType=Ord
+X	Foreign=Yes
+PROPN	Number=Plur
+X	Degree=Pos	Number=Sing	Tense=Past	VerbForm=Part
+X	Case=Nom	Degree=Pos
+X	Degree=Pos	Mood=Imp	Variant=Short	VerbForm=Fin
+PUNCT	_
+DET	Gender=Fem	Number=Sing	PronType=Art
+X	Number=Sing	Subcat=Tran	Tense=Past	VerbForm=Part
+PUNCT	PunctSide=Ini	PunctType=Brck
+PUNCT	PunctSide=Fin	PunctType=Brck
+ADV	Degree=Sup
+DET	Case=Nom	Degree=Sup	NumType=Card	PronType=Ind
+AUX	Aspect=Imp	Mood=Ind	Number=Plur	Tense=Past	VerbForm=Fin	VerbType=Aux,Cop
+ADJ	Number=Sing
+X	Number=Sing	Subcat=Tran
+ADP	AdpType=Preppron	Gender=Fem	Number=Sing
+AUX	Tense=Past	VerbForm=Part	VerbType=Aux,Cop
+ADP	AdpType=Preppron	Gender=Masc	Number=Sing
+ADJ	_
+X	Number=Plur
+X	Degree=Cmp	Gender=Neut
+DET	Gender=Masc	Number=Sing	PronType=Art
+X	Aspect=Imp	Mood=Ind	Number=Sing	Tense=Past	VerbForm=Fin
+DET	Gender=Masc	Number=Plur	PronType=Art
+DET	Gender=Fem	Number=Sing	Number[psor]=Plur	Person=1	Poss=Yes	PronType=Prs
+AUX	Aspect=Imp	Mood=Ind	Number=Plur	Subcat=Intr	Tense=Past	VerbForm=Fin
+ADP	AdpType=Preppron	Gender=Masc	Number=Plur
+VERB	Reflex=Yes	VerbForm=Inf
+VERB	Case=Nom	Subcat=Intr	Tense=Past	VerbForm=Part
+X	Definite=Def	Degree=Cmp	Gender=Neut
+X	Number=Sing	PronType=Rel
+X	Degree=Pos	Number=Sing	Person=2
+PRON	Case=Gen	PronType=Rel
+X	Degree=Pos	Number=Plur	Variant=Short
+DET	Case=Gen	Definite=Def	PronType=Art
+X	Degree=Pos	Number=Sing	Variant=Short
+ADP	AdpType=Preppron	Gender=Fem	Number=Plur
+X	Case=Dat	Degree=Pos	Number=Sing
+ADJ	Case=Nom	Degree=Cmp	Variant=Short
+X	Definite=Def	Number=Plur
+PRON	Case=Gen	PronType=Dem
+VERB	Reflex=Yes	Tense=Past	VerbForm=Part
+X	Definite=Def	Number=Sing	Tense=Past	VerbForm=Part
+ADV	Number=Sing
+NUM	NumType=Card
+X	Degree=Pos	Number=Sing	Person=1	Poss=Yes	PronType=Prs
+X	Definite=Def	Degree=Pos	Number=Sing
+X	Number=Plur	PronType=Ind
+X	Definite=Def	Number=Sing	Tense=Pres	VerbForm=Part
+X	Number=Plur,Sing	Person=3
+NUM	Definite=Def	Number=Plur	NumType=Card
+X	Degree=Cmp
+X	Case=Nom	Degree=Sup	PronType=Ind
+VERB	Tense=Past	VerbForm=Part	VerbType=Mod
+X	Definite=Def	Degree=Pos
+ADV	_
+PRON	Case=Nom	Number=Plur	Person=2	PronType=Prs
+X	Case=Nom	Definite=Def	Degree=Sup	Gender=Neut
+ADJ	Case=Gen	Degree=Cmp
+AUX	Reflex=Yes	VerbForm=Inf
+PRON	Case=Gen	PronType=Ind
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Reflex=Yes	Tense=Past	VerbForm=Fin
+PRON	Number=Plur	Person=1	PronType=Prs	Reflex=Yes
+X	Case=Nom	Degree=Pos	Number=Sing
+X	Case=Nom	Degree=Sup
+ADJ	Case=Nom	Degree=Pos	Variant=Short
+X	Subcat=Tran	Tense=Past	VerbForm=Part
+X	PronType=Ind
+DET	Degree=Pos	Number=Plur	NumType=Card	PronType=Ind
+NOUN	Case=Dat	Number=Sing
+X	Degree=Pos	PronType=Dem
+X	Aspect=Imp	Mood=Ind	Number=Sing	Person=2	PronType=Dem	Tense=Pres	VerbForm=Fin
+AUX	Subcat=Intr	Tense=Pres	VerbForm=Part
+AUX	Case=Nom	Subcat=Intr	Tense=Pres	VerbForm=Part
+X	Case=Dat	Number=Sing
+VERB	Case=Nom	Reflex=Yes	Tense=Pres	VerbForm=Part
+PUNCT	Subcat=Tran	Tense=Past	VerbForm=Part
+X	Case=Nom	Degree=Pos	Number=Plur
+X	PronType=Rel
+X	PronType=Dem
+AUX	Case=Nom	Reflex=Yes	Tense=Pres	VerbForm=Part
+VERB	Case=Nom	Subcat=Tran	Tense=Pres	VerbForm=Part
+DET	Degree=Sup	NumType=Card	PronType=Ind
+VERB	Degree=Cmp	Subcat=Tran	Tense=Past	VerbForm=Part
+X	Mood=Sub	Number=Sing	VerbForm=Fin
+X	Mood=Sub	VerbForm=Fin
+DET	Gender=Fem	Number=Plur	PronType=Art
+VERB	Degree=Cmp	Subcat=Intr	Tense=Pres	VerbForm=Part
+X	Number=Plur	Tense=Past	VerbForm=Part
+X	Case=Nom	Degree=Sup	Number=Sing	Person=2	Poss=Yes	PronType=Prs
+X	Case=Nom	Definite=Def	Degree=Cmp	Gender=Neut
+X	Number=Plur	Person=1	Poss=Yes	PronType=Prs	VerbForm=Inf
+X	Case=Nom	Degree=Pos	Gender=Neut
+X	Number=Sing	Tense=Past	VerbForm=Part
+X	Case=Gen	Number=Plur	PronType=Ind
+AUX	Aspect=Imp	Mood=Ind	Number=Plur	Reflex=Yes	Tense=Pres	VerbForm=Fin
+X	VerbForm=Inf
+VERB	Number=Plur	Subcat=Intr	Tense=Past	VerbForm=Part
+X	Degree=Pos	VerbForm=Inf
+X	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin
+AUX	Aspect=Imp	Mood=Ind	Number=Plur	Reflex=Yes	Tense=Past	VerbForm=Fin
+X	Degree=Pos	Number=Sing	Subcat=Tran	Tense=Past	VerbForm=Part
+AUX	Aspect=Imp	Mood=Ind	Number=Sing	Reflex=Yes	Tense=Past	VerbForm=Fin
+X	VerbForm=Inf	VerbType=Mod
+VERB	Subcat=Tran	Tense=Pres	VerbForm=Part
+X	Aspect=Imp	Mood=Ind	Number=Sing	Subcat=Intr	Tense=Pres	VerbForm=Inf
+X	Number=Sing	PronType=Dem
+NUM	Case=Nom	Definite=Def	Degree=Pos	NumType=Card
+PRON	Case=Gen	Number=Sing	Person=3	Poss=Yes	PronType=Prs
+VERB	Number=Plur	Subcat=Intr	Tense=Pres	VerbForm=Part
+ADP	AdpType=Post
+AUX	Reflex=Yes	Tense=Past	VerbForm=Part
+X	Number=Plur	Subcat=Tran	Tense=Past	VerbForm=Part
+X	Case=Gen	Number=Plur	PronType=Dem
+VERB	Mood=Sub	Subcat=Intr	VerbForm=Fin
+VERB	Mood=Sub	Subcat=Tran	VerbForm=Fin
+X	Case=Gen	Number=Sing	PronType=Ind
+X	VerbType=Aux,Cop
+X	Aspect=Imp	Mood=Ind	Number=Sing	Person=2	Subcat=Tran	Tense=Pres	VerbForm=Fin
+AUX	Mood=Sub	VerbForm=Fin
+X	Definite=Def	Degree=Sup	Gender=Neut	Number=Sing
+X	Degree=Pos	Variant=Short	VerbForm=Inf
+NUM	Definite=Def	Degree=Pos	Number=Sing	NumType=Card
+X	Gender=Com	Number=Sing
+X	Number=Sing	Person=3
+X	Subcat=Intr	Tense=Past	VerbForm=Part
+DET	Degree=Sup	Number=Plur	NumType=Card	PronType=Ind
+X	Number=Sing	Tense=Pres	VerbForm=Part
+X	Degree=Pos	Number=Sing	PronType=Ind
+ADV	PunctType=Comm
+X	Person=3	PronType=Prs	Reflex=Yes
+AUX	Case=Nom	Tense=Pres	VerbForm=Part	VerbType=Aux,Cop
+X	Case=Gen	Number=Sing	Person=3	Poss=Yes	PronType=Prs	VerbForm=Inf
+X	Degree=Cmp	Number=Sing	Person=3
+X	Case=Nom	Degree=Cmp
+AUX	Case=Nom	Subcat=Tran	Tense=Past	VerbForm=Part
+AUX	Case=Nom	Tense=Pres	VerbForm=Part
+X	Definite=Def	Gender=Neut	Number=Plur	Person=3
+X	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Subcat=Tran	Tense=Pres	VerbForm=Fin
+X	Degree=Pos	Number=Plur	Person=2	Subcat=Tran
+X	Gender=Neut	VerbForm=Inf
+X	Aspect=Imp	Mood=Ind	Person=3	PronType=Dem	Tense=Pres	VerbForm=Inf
+X	Definite=Def	Gender=Neut
+PRON	Case=Gen	PronType=Rcp
+X	Aspect=Imp	Definite=Def	Mood=Ind	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	VerbType=Mod
+X	Aspect=Imp	Mood=Ind	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin
+X	Definite=Def
+X	Case=Nom	Definite=Def	Degree=Sup
+X	Aspect=Imp	Degree=Pos	Mood=Ind	Number=Sing	Person=2	Tense=Pres	VerbForm=Inf
+X	Aspect=Imp	Definite=Def	Mood=Ind	Number=Sing	Person=3	PronType=Ind	Tense=Pres	VerbForm=Fin
+X	Number=Sing	Subcat=Intr	Tense=Pres	VerbForm=Part
+X	Degree=Pos	Gender=Neut	Number=Sing
+X	Definite=Def	Number=Sing	Person=1
+X	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	PronType=Ind	Tense=Pres	VerbForm=Fin
+X	Case=Nom	Number=Sing	Tense=Past	VerbForm=Part
+DET	Case=Dat	Definite=Def	Gender=Com	PronType=Art
+X	Case=Gen	Number=Sing
+X	Aspect=Imp	Mood=Ind	Number=Sing	Person=2	PronType=Rel	Tense=Pres	VerbForm=Fin
+VERB	Mood=Sub	VerbForm=Fin	VerbType=Mod
+X	Degree=Pos	Subcat=Tran
+X	Aspect=Imp	Degree=Pos	Mood=Ind	Number=Sing	Person=2	Tense=Past	VerbForm=Part
+AUX	Mood=Sub	VerbForm=Fin	VerbType=Aux,Cop
+AUX	Mood=Imp	VerbForm=Fin
+X	Degree=Pos	Mood=Sub	VerbForm=Fin
+VERB	Mood=Imp	Reflex=Yes	VerbForm=Fin
+PRON	Number=Plur	Person=2	Poss=Yes	PronType=Prs
+AUX	Mood=Imp	VerbForm=Fin	VerbType=Aux,Cop

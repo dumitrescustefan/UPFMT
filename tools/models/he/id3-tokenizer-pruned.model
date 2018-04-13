@@ -1,0 +1,321 @@
+252
+c:.
+cl2:_
+cl3:ד
+cl4:ם
+cr0:_
+cr1:_
+cr2:_
+upper:false
+prevpo:0
+prevep:0
+prevcp:0
+prevu:1
+prevcap:0
+prevpc:0
+nextpo:0
+nextep:0
+nextcp:0
+nextu:1
+nextcap:0
+nextpc:0
+c:"
+cl3:מ
+cl4:ג
+cr0:ב
+cl2:ו
+cl3:נ
+cl4:ה
+cl3:_
+cl4:_
+c:,
+cl2:ס
+cl3:ו
+cl4:ע
+prevcp:1
+cl2:ר
+cl3:א
+cl4:ל
+cl3:ל
+cl4:ק
+nextcp:1
+cl2:מ
+cl4:כ
+cr0:ל
+prevep:1
+nextep:1
+cl3:כ
+cl4:ך
+c::
+cl2:א
+cl4:ת
+cl3:ח
+cl4:ד
+cl3:י
+cl4:ן
+cr0:ת
+cr1:ה
+cr2:י
+prevpo:1
+prevu:0
+prevpc:1
+cl2:ז
+c:;
+cr0:ה
+cl4:ף
+cl2:י
+cl2:פ
+cl3:ג
+cl2:ל
+c:-
+cl3:ת
+cr0:נ
+cr1:י
+cr2:צ
+cl3:ה
+cl4:ב
+cr0:ס
+cr1:ו
+cr2:ב
+cl3:ר
+cl4:ו
+cr0:,
+cl4:"
+cl2:ב
+cl4:י
+cr0:כ
+cr1:נ
+cr2:ס
+cl2:ה
+cl2:צ
+cl3:ע
+cl3:צ
+cl2:ע
+cl3:ז
+cl3:0
+cl4:0
+cl2:נ
+cl4:ש
+cr0:ף
+nextpo:1
+nextu:0
+cl3:ש
+cl2:ק
+cl2:ד
+cl4:ס
+cl3:פ
+cl4:ח
+cr0:ח
+cl4:ר
+cr1:,
+cl3:"
+cr0:ר
+cr0:ש
+cr1:ע
+cr2:ת
+cr1:א
+cr2:נ
+cl3:ב
+cr1:ר
+cr2:ם
+cr0:י
+cr1:ד
+nextpc:1
+cr0:א
+cl2:ח
+cl3:ק
+cr0:ם
+cl2:ט
+cl3:ט
+cr2:ח
+cl2:ש
+cr0:.
+cr1:ך
+c:(
+cr0:"
+cl4:(
+c:)
+cl2:0
+cr0:ע
+cr1:מ
+cr2:ו
+cr1:ת
+cr0:)
+cl4:)
+cl3:ם
+cl2:ת
+cr1:ש
+c:?
+cr0:פ
+cl2:כ
+cr0:ק
+cr2:ט
+cr0:ו
+cl3:ס
+cr2:א
+cr2:ל
+cr1:פ
+cl4:?
+cr1:ל
+cr2:כ
+cl4:א
+cr0:מ
+c:!
+cl4:!
+cr1:.
+cl3:!
+cr2:ר
+cr2:ד
+cr1:)
+cr2:,
+cl2:"
+cr0:צ
+cr0:ד
+cr1:ס
+cr2:ך
+cl2:ג
+cr2:ש
+cr2:"
+cr0:;
+cl3:ך
+cr0:ז
+cl2:-
+cr0:ץ
+cr2:ק
+cr2:ה
+cl3:ן
+cr2:ע
+cr1:ט
+cl4:ט
+cl4:ץ
+cr2:פ
+cr1:ק
+cr2:-
+cr2:.
+cr1:ז
+cr2:)
+cl3:(
+cl4:.
+cl2:(
+cl3:.
+cl2:.
+cr0:?
+cr0::
+cr0:ט
+cr2:מ
+cl4:ז
+cl3:ץ
+cl3:?
+cr0:ג
+cl4:צ
+cr1:ג
+cr1:-
+cr1:ב
+cr1:ם
+nextpc:4
+cr1:"
+cr2:ן
+cl4:פ
+cr1:ח
+cl3:ף
+cr1:צ
+cr1:ף
+cr2:ף
+cr2:ג
+cr0:0
+cr1:0
+cr1:כ
+cl4:נ
+cr0:ך
+cr2:0
+cr1:ן
+c:%
+cr2:%
+cl4:%
+cl3:%
+cl4:מ
+cl3:-
+nextpc:2
+cl4:,
+cr1:%
+cr2:ז
+cr0:ן
+prevpc:2
+nextpc:3
+cr2::
+cl2:ך
+cr2:ץ
+cr1:;
+cr2:;
+cr1::
+cl2:ן
+cl3:)
+cl2:ם
+4
+SP_LEFT
+NULL
+SP_RIGHT
+sp_left_right
+62
+29 2 18
+5 3 4
+133 -3 -2
+6 5 15
+63 -3 6
+133 7 8
+142 -2 -3
+24 -3 9
+9 10 14
+152 -3 11
+43 -3 12
+112 -3 13
+161 -3 -2
+81 -2 -3
+142 -2 16
+134 -2 17
+131 -2 -3
+5 19 42
+2 20 36
+1 21 -1
+20 22 -2
+10 23 31
+104 24 25
+28 -2 -1
+84 -2 26
+45 27 29
+23 -2 28
+160 -2 -1
+39 30 -1
+26 -1 -2
+153 -2 32
+14 -1 33
+46 -1 34
+38 -1 35
+143 -1 -2
+199 37 39
+1 38 -1
+82 -1 -2
+175 40 -1
+14 -1 41
+1 -2 -1
+69 -4 43
+131 44 46
+197 45 -1
+1 -2 -1
+81 47 48
+1 -2 -1
+142 49 50
+197 -2 -1
+135 51 52
+21 -4 -1
+202 53 54
+1 -2 -1
+178 -1 55
+134 56 57
+1 -2 -1
+201 -1 58
+4 -4 59
+47 -4 60
+85 61 -2
+14 -2 62
+9 -2 -2

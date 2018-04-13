@@ -1,0 +1,496 @@
+441
+c::
+cl1:_
+cl2:_
+cl3:_
+cl4:0
+cr0:0
+cr1:_
+cr2:_
+cr3:_
+upper:false
+prevpo:0
+prevep:0
+prevcp:0
+prevu:0
+prevcap:0
+prevpc:0
+nextpo:0
+nextep:0
+nextcp:1
+nextu:1
+nextcap:0
+nextpc:0
+c:-
+cl1:0
+cl2:0
+cl3:0
+cr1:0
+cr2:-
+cr3:0
+prevcp:1
+prevu:1
+nextep:1
+nextu:0
+nextcap:1
+cl2:-
+c:,
+cl1:χ
+cl2:θ
+cl3:ε
+cl4:ς
+cr0:_
+upper:true
+nextcp:0
+cl1:μ
+cl2:π
+cl3:ά
+cl4:ο
+prevcap:1
+cr2:0
+c:.
+cl1:ε
+cl3:τ
+cl4:ό
+c:'
+cr0:.
+cl4:'
+cl1:ρ
+cl2:ο
+cl3:ν
+c:(
+cl4:_
+cr2:ο
+c:)
+nextpc:1
+cl1:π
+cl2:τ
+cl3:ό
+cl4:)
+cl1:τ
+cl2:ό
+cl3:σ
+prevep:1
+prevpc:1
+cl1:σ
+cl4:ρ
+c:«
+cr0:σ
+cr1:α
+cr2:ν
+c:»
+cl1:α
+cl2:μ
+cl3:έ
+cr0:,
+cl2:έ
+cl3:ς
+cl4:»
+cl1:ά
+cl3:ω
+cl4:ν
+cl1:ο
+cl2:ν
+cl4:α
+cl3:ο
+cl4:υ
+cl1:υ
+cl2:σ
+cl3:ί
+cl2:γ
+cl1:λ
+cl2:ί
+c:"
+cr1:τ
+cr2:ε
+cr3:ν
+cl1:ν
+cl3:α
+cl4:"
+cl1:ύ
+cl2:λ
+cl1:ί
+cl4:ι
+cl1:έ
+cl3:ρ
+cl2:κ
+cl2:υ
+cl1:δ
+cl2:ρ
+cl2:η
+cl2:ε
+cl3:ζ
+cl1:ι
+cl4:κ
+cr0:μ
+cr1:έ
+cr2:λ
+cr3:η
+cl1:ω
+cl3:ώ
+cl3:υ
+cl1:η
+cl3:η
+cl1:ώ
+cl3:ύ
+cl2:ι
+cl3:κ
+cl1:φ
+cl3:μ
+cl2:α
+cr0:ο
+cr1:λ
+cr2:ό
+cr3:κ
+cl3:φ
+cl4:ή
+cl4:ί
+cl3:ι
+cl2:ώ
+cr1:ι
+cl1:θ
+cr0:έ
+cr1:χ
+cr3:ι
+cl3:λ
+cr0:τ
+cr1:ο
+cl4:μ
+cl3:ψ
+cl4:η
+cl1:β
+cl4:φ
+cl1:ό
+cr0:η
+cl2:ά
+cl3:χ
+cr0:δ
+cr1:ε
+cl2:δ
+cl4:ε
+cl1:γ
+cl4:ά
+cl4:ύ
+cl1:l
+cl2:a
+cl3:n
+cl4:d
+cl1:κ
+cl1:ψ
+c:/
+cr2:/
+cl2:/
+cl1:ή
+cr3:ο
+cl3:δ
+cl3:θ
+cl2:χ
+cl4:π
+cr0:χ
+cr1:.
+cl3:.
+cl4:χ
+cl2:φ
+cl1:t
+cl2:s
+cl3:o
+cl4:n
+cl3:ή
+cl4:ω
+cl2:ω
+cl2:ύ
+cl3:γ
+cl4:ώ
+cl4:σ
+cl4:-
+cl2:d
+cl3:a
+cl4:m
+cl3:π
+cr0:κ
+cr2:τ
+cr3:έ
+cr1:η
+cr2:μ
+cr0:θ
+cl4:%
+cl4:λ
+cr0:π
+cr2:ρ
+cr3:ά
+cl4:β
+cl2:ή
+cl4:έ
+cl1:ζ
+cr0:λ
+cr1:ά
+cr3:π
+cl4:.
+cr0:ε
+cr1:δ
+c:;
+cl2:ξ
+c:!
+cl3:ξ
+cl2:ψ
+cr2:ι
+cr3:ρ
+cr0:a
+cr1:d
+cr2:e
+cr3:c
+cl1:e
+cl2:c
+cl3:c
+cl4:o
+cl1:c
+cr2:%
+cr3:)
+cl1:(
+cr3:α
+cr1:π
+cr3:λ
+cr1:ρ
+cl2:ζ
+cl4:τ
+cr1:κ
+cr3:ε
+cl1:r
+cl2:i
+cl4:k
+cl2:ϊ
+cr1:ν
+cr2:ώ
+cl2:β
+cr0:p
+cr1:r
+cr3:s
+cr0:f
+cr1:s
+cr2:a
+cl2:f
+cl3:s
+cl4:a
+cl1:f
+cl1:u
+cr1:,
+cl1:a
+cl2:n
+cl3:-
+cr1:t
+cr2:t
+cr3:i
+cl3:k
+cl4:i
+cr0:i
+cr1:a
+cr2:r
+cl1:i
+cl3:r
+cl4:c
+cl1:ξ
+cr0:t
+cr1:o
+cr2:u
+cr3:r
+cl2:o
+cl4:s
+cr0:γ
+cr2:α
+cr1:u
+cr2:i
+cl3:l
+cl4:y
+cl2:l
+cl3:y
+cr1:h
+cr2:o
+cr3:m
+cl1:o
+cr0:n
+cr1:e
+cr2:c
+cr3:k
+cl3:e
+cl1:s
+cl2:e
+cr2:s
+cr3:»
+cl1:«
+cl3:t
+cr0:j
+cr2:h
+cr3:n
+cr3:.
+cl1:.
+prevpc:2
+cr0:α
+cr1:ί
+cr3:τ
+cr0:φ
+cr0::
+cr0:b
+cl3:i
+cr2:ή
+cr3:ξ
+cr0:ά
+cr1:μ
+cr3:σ
+cr2:υ
+cr1:ύ
+cr3:φ
+prevpo:1
+cr3:ς
+cl4:δ
+nextpo:1
+c:·
+cr2:.
+cr3:υ
+cr3:,
+cr1:ό
+cr2:κ
+cr2:)
+cl2:(
+cl4:h
+cl4:g
+cl2:b
+cr2:ά
+cr3:μ
+cl4:r
+cl1:m
+cl3:d
+cl4:t
+cl1:k
+cl3:h
+cl4:l
+cl1:b
+cl2:t
+cl2:j
+cl1:n
+cr0:l
+cl4:e
+cr2:έ
+cr1:l
+cr2:π
+cr0:s
+cr1:c
+cl1:p
+cl4:ΰ
+cr0:ι
+cr3:ω
+cl1:g
+cl2:h
+cl4:ζ
+cl4:ϊ
+cl2:g
+cl3:j
+cl4:γ
+cl2:m
+cl3:u
+cl2:r
+cr0:e
+cr2:σ
+cr1:γ
+cl4:f
+cr0:ό
+cr1:σ
+cr1:ώ
+cr2:δ
+cr1:β
+cr0:ή
+cr0:β
+cr2:η
+cr3:θ
+cr0:=
+c:=
+cl4:(
+cr1:i
+cr2:n
+cr3:u
+cr1:%
+cl2:.
+cr1:υ
+cr3:ί
+cr2:,
+cl2:,
+cr2:ύ
+cl3:β
+cl3:b
+cl4:p
+cl3:p
+cl1:d
+cr2:l
+cl2:p
+cr2:p
+cr3:a
+cl1:w
+cr2:χ
+nextpc:2
+cr0:ν
+cr0:g
+cr3:g
+cr2:θ
+cr3:"
+cl1:"
+cl2:u
+cr3:χ
+cr0:ύ
+cl2:ΐ
+cl3::
+cr3:ό
+cr1:n
+cl2:q
+2
+SPLIT
+NULL
+50
+50 2 19
+3 3 11
+39 4 5
+10 -2 -1
+138 -1 6
+417 -1 7
+187 8 9
+21 -2 -1
+14 -2 10
+15 -2 -2
+34 12 13
+6 -2 -1
+2 14 15
+20 -1 -2
+254 -2 16
+52 17 18
+18 -2 -2
+182 -2 -1
+36 -2 20
+41 21 49
+3 22 24
+386 23 -2
+20 -1 -2
+21 25 44
+345 -1 26
+1 -2 -2
+12 28 -2
+93 29 30
+82 -1 -2
+112 -1 31
+18 32 -1
+47 -2 33
+97 -2 34
+290 -2 35
+2 -2 36
+19 -2 37
+65 -2 38
+66 -2 39
+117 -2 40
+91 -1 -1
+18 -2 42
+44 -1 43
+47 -1 -2
+1 45 47
+12 46 -2
+38 -2 -1
+54 -1 -1
+296 -2 -1
+1 50 -2
+19 -1 -2

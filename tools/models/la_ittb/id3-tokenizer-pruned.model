@@ -1,0 +1,224 @@
+145
+c:,
+cl2:n
+cl3:d
+cl4:i
+cr0:_
+cr1:_
+cr2:_
+upper:false
+prevpo:0
+prevep:0
+prevcp:0
+prevu:0
+prevcap:0
+prevpc:0
+nextpo:0
+nextep:0
+nextcp:0
+nextu:0
+nextcap:0
+nextpc:0
+c:.
+cl2:e
+cl3:s
+cl4:t
+cl2:m
+cl3:u
+cl4:s
+cl2:t
+cl3:e
+cl4:r
+cl3:n
+cl3:a
+cl4:m
+cl2:l
+cl4:x
+cl2:c
+cl3:t
+cl4:a
+c::
+cl2:o
+cl4:e
+cl4:o
+cl3:i
+cl2:i
+c:;
+cl2:a
+cl3:r
+cl2:d
+cl2:u
+cl2:s
+cl3:l
+cl2:r
+cl2:b
+cl2:p
+cl3:o
+nextep:1
+nextcp:1
+nextpc:1
+cl3:c
+cl4:h
+prevep:1
+prevcp:1
+cr0::
+prevpc:1
+cl4:.
+cl2:g
+cl4:l
+cl2:q
+cl2:h
+cl4:c
+cl4:d
+cl2:v
+cl4:u
+cl2:y
+cl3:m
+cl4:n
+nextu:1
+prevu:1
+cl2:_
+cl3:v
+cl2:-
+cl3:0
+cl4:0
+cl4:p
+cl3:_
+cl4:g
+cl2:0
+cl3:-
+cl3:g
+cl2:x
+nextpc:2
+cr0:.
+cl3:b
+cl3:x
+cl3:h
+cl4:v
+cr0:,
+cl2:f
+cl3:p
+cl4:b
+c:?
+nextpo:1
+cl4:-
+cl3:y
+c:(
+cl4:_
+cr0:q
+cr1:u
+cr2:a
+c:)
+cl4:)
+cr0:;
+cr0:p
+cr1:o
+cr2:s
+cr0:s
+cr1:c
+cr2:i
+cr0:e
+cr1:t
+cl2:j
+cr1:i
+cr2:c
+cl3:q
+cr0:u
+cr1:n
+cr2:d
+prevpc:2
+cr0:t
+cr1:e
+cr2:r
+cr0:c
+cr2:j
+cr0:a
+cr1:d
+cr2:o
+cr1:l
+cr0:i
+cr2:q
+cr2:m
+cr0:n
+cr2:n
+cl2:z
+cl3:z
+cr2:t
+3
+SP_LEFT
+NULL
+SP_RIGHT
+73
+18 2 70
+5 3 68
+84 -2 4
+56 5 39
+96 -2 6
+60 -2 7
+67 8 9
+25 -2 -2
+70 10 12
+10 11 -1
+1 -1 -2
+46 13 16
+24 14 15
+31 -1 -2
+33 -2 -1
+69 17 19
+27 -2 18
+10 -1 -2
+100 -2 20
+24 21 32
+44 22 23
+23 -2 -1
+51 24 25
+1 -1 -1
+2 26 29
+43 27 -1
+20 -1 28
+21 -1 -1
+23 30 -1
+20 31 -1
+21 -1 -1
+76 33 34
+32 -2 -1
+55 35 36
+36 -2 -1
+43 37 -1
+33 38 -1
+1 -1 -2
+100 -2 40
+60 -2 41
+76 42 44
+66 -2 43
+52 -2 -1
+21 45 -1
+12 46 66
+104 -2 47
+70 48 51
+69 -1 49
+44 -2 50
+43 -1 -1
+85 52 53
+27 -2 -1
+55 54 55
+10 -1 -2
+31 56 60
+40 57 58
+27 -1 -1
+22 59 -1
+24 -1 -1
+23 61 64
+46 62 63
+24 -2 -1
+22 -1 -1
+30 65 -1
+44 -2 -1
+65 -1 67
+10 -2 -1
+21 -2 69
+6 -1 -3
+21 71 -1
+17 72 -2
+28 -1 73
+41 -1 -2

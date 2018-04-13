@@ -1,0 +1,289 @@
+248
+c:,
+cl2:e
+cl3:r
+cl4:o
+cr0:_
+cr1:_
+cr2:_
+upper:true
+prevpo:0
+prevep:0
+prevcp:0
+prevu:0
+prevcap:0
+prevpc:0
+nextpo:0
+nextep:0
+nextcp:0
+nextu:0
+nextcap:0
+nextpc:0
+c:.
+cl2:r
+cl4:i
+upper:false
+nextep:1
+nextcp:1
+nextcap:1
+cl2:l
+cl3:d
+cl4:e
+prevep:1
+prevcp:1
+prevpc:1
+c:"
+cl2:_
+cl3:_
+cl4:_
+cr0:h
+cr1:e
+cr2:r
+prevcap:1
+cl2:s
+cl3:o
+cl4:a
+cl3:b
+cl4:k
+cl2:d
+cl3:i
+cl4:z
+cl2:n
+cl3:a
+cl2:z
+cl3:e
+cl4:n
+cl2:a
+cl3:n
+cl4:y
+cl2:h
+cl2:m
+cl3:p
+cl4:s
+cl4:t
+cl3:t
+cl2:t
+cl3:s
+cl3:k
+cl2:u
+c:?
+cl2:g
+cr0:j
+cr1:o
+cr2:k
+cl2:i
+cl4:u
+cr0:u
+cr1:n
+cr2:e
+nextpo:1
+cl4:-
+cl3:g
+cr0:t
+cr2:u
+cl4:0
+cr0:0
+cr1:0
+cr2:0
+cl3:l
+cl2:o
+cl3:m
+cl2:k
+cl2:%
+cl3:0
+c:(
+cr2:-
+c:)
+cl2:-
+cr0:.
+cl2:0
+cl4:)
+cr0:s
+cr2:n
+cl3:u
+cl3:x
+nextu:1
+cl4:"
+c::
+cl3:z
+cr0:k
+cr2:m
+cr0:a
+cr1:r
+cr2:g
+cr0:e
+cr1:m
+cr2:a
+cr0:o
+cr1:s
+c:;
+cr0:l
+cr1:a
+cr2:t
+prevu:1
+cr0:g
+cr2:b
+cr0:b
+cr1:u
+cl4:m
+cr2:c
+cr2:l
+c:!
+cr1:t
+cr2:s
+cl2:b
+cr1:i
+cl2:x
+cl2:p
+cr2:z
+cl4:r
+cr1:z
+nextpc:1
+cr1:.
+cl3:(
+cr2:.
+cl2:.
+cr0:)
+cl4:.
+cr0:z
+cr1:"
+cl3:"
+cr1:-
+cl3:-
+cr0:f
+cl2:v
+cl4:d
+cr2:,
+prevpo:1
+cr1:,
+cl3:.
+cr0:,
+cr2:x
+cr2:"
+cr0:"
+cr2:o
+cr1:d
+cr0:i
+cr1:)
+cr0:m
+cl3:%
+cr2:i
+cl4:l
+cl2:c
+cl3:h
+cl3:c
+cr2:j
+cr2:h
+cr2:d
+cr0:p
+cr0:d
+cr0:n
+cr2:f
+nextpc:3
+cr1:l
+cl2:f
+cl3:y
+cr1:g
+cl4:w
+cr1:x
+prevpc:4
+cl4:,
+cl4:v
+cl4:f
+cr2:!
+cr1:!
+cr0:!
+prevpc:3
+cl4:x
+c:«
+c:»
+cl4:»
+cl4:j
+cr2:p
+cr2:v
+cl4:g
+cl2:j
+cl3:ñ
+cr2:?
+cr1:?
+cr0:?
+c:'
+prevpc:2
+cr1:h
+cr0:%
+nextpc:2
+cl4:c
+cr1:b
+cr2:)
+cl2:(
+cl4:b
+cr1:k
+cl3:f
+cl4:h
+c:[
+c:]
+cl4:
+cr0:v
+cr1:p
+cr0:-
+cr2::
+cl2::
+cr0:r
+cr1:f
+cl2:y
+cl3:v
+cl3:,
+cr1:y
+cl2:,
+cr1:c
+cl2:ñ
+cr0:c
+cr0:x
+cl3:j
+cr0:;
+cr2:y
+cl2:w
+cl2:/
+cl4:p
+cr1::
+cr2:q
+3
+SP_LEFT
+SP_RIGHT
+NULL
+35
+6 2 30
+83 3 7
+95 -1 4
+21 5 6
+50 -1 -3
+5 -1 -3
+146 8 11
+21 9 -1
+144 -1 10
+80 -1 -3
+36 12 18
+37 13 16
+93 -2 14
+19 -3 15
+1 -3 -2
+8 -3 17
+145 -3 -1
+8 19 28
+23 20 23
+48 -3 21
+135 -3 22
+108 -3 -1
+158 24 25
+105 -1 -3
+190 26 27
+48 -3 -1
+108 -3 -1
+158 29 -1
+13 -1 -3
+37 31 32
+21 -3 -2
+141 33 -3
+97 34 35
+146 -3 -1
+1 -1 -3

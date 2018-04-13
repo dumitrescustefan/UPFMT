@@ -1,0 +1,5226 @@
+2115
+ff_0:</s>
+ff_1:<UNK>_
+ff_2:|
+ff_3:|
+ff_4:|
+ff_5:|
+ff_6:|
+ff_7:|
+ff_8:|
+ff_9:|
+ff_10:NONE
+ff_11:</s>
+ff_12:<UNK>_
+ff_13:|
+ff_14:|
+ff_15:|
+ff_16:|
+ff_17:|
+ff_18:|
+ff_19:|
+ff_20:|
+ff_21:NONE
+ff_22:<OOV>
+ff_23:ADJ
+ff_24:в
+ff_25:и
+ff_26:с
+ff_27:о
+ff_28:е
+ff_29:н
+ff_30:н
+ff_31:а
+ff_32:F-UPPER-SSTART
+ff_33:<OOV>
+ff_34:PUNCT
+ff_35:,
+ff_36:|
+ff_37:|
+ff_38:|
+ff_39:|
+ff_40:|
+ff_41:|
+ff_42:,
+ff_43:ALL_LOWER
+ff_44:<OOV>
+ff_45:ADJ
+ff_46:ч
+ff_47:о
+ff_48:т
+ff_49:и
+ff_50:у
+ff_51:с
+ff_52:н
+ff_53:а
+ff_54:ALL_LOWER
+ff_11:<OOV>
+ff_12:ADJ
+ff_13:в
+ff_14:и
+ff_15:с
+ff_16:о
+ff_17:е
+ff_18:н
+ff_19:н
+ff_20:а
+ff_21:F-UPPER-SSTART
+ff_23:PUNCT
+ff_24:,
+ff_25:|
+ff_26:|
+ff_27:|
+ff_28:|
+ff_29:|
+ff_30:|
+ff_31:,
+ff_32:ALL_LOWER
+ff_34:ADJ
+ff_35:ч
+ff_36:о
+ff_37:т
+ff_38:и
+ff_39:у
+ff_40:с
+ff_41:н
+ff_42:а
+ff_45:NOUN
+ff_46:т
+ff_47:а
+ff_48:й
+ff_49:г
+ff_50:а
+ff_51:й
+ff_52:г
+ff_0:<OOV>
+ff_1:ADJ
+ff_2:в
+ff_3:и
+ff_4:с
+ff_5:о
+ff_6:е
+ff_7:н
+ff_8:н
+ff_9:а
+ff_10:F-UPPER-SSTART
+ff_12:PUNCT
+ff_13:,
+ff_20:,
+ff_21:ALL_LOWER
+ff_24:ч
+ff_25:о
+ff_26:т
+ff_27:и
+ff_28:у
+ff_29:с
+ff_34:NOUN
+ff_35:т
+ff_36:а
+ff_37:й
+ff_38:г
+ff_39:а
+ff_40:й
+ff_41:г
+ff_45:PUNCT
+ff_46:,
+ff_47:|
+ff_48:|
+ff_49:|
+ff_50:|
+ff_51:|
+ff_52:|
+ff_53:,
+ff_1:PUNCT
+ff_2:,
+ff_9:,
+ff_10:ALL_LOWER
+ff_13:ч
+ff_14:о
+ff_15:т
+ff_16:и
+ff_17:у
+ff_18:с
+ff_23:NOUN
+ff_24:т
+ff_25:а
+ff_26:й
+ff_27:г
+ff_28:а
+ff_29:й
+ff_30:г
+ff_46:б
+ff_47:у
+ff_49:н
+ff_2:ч
+ff_3:о
+ff_4:т
+ff_5:и
+ff_6:у
+ff_7:с
+ff_12:NOUN
+ff_13:т
+ff_14:а
+ff_15:й
+ff_16:г
+ff_17:а
+ff_18:й
+ff_19:г
+ff_35:б
+ff_36:у
+ff_38:н
+ff_45:CCONJ
+ff_46:й
+ff_53:й
+ff_1:NOUN
+ff_2:т
+ff_3:а
+ff_4:й
+ff_5:г
+ff_6:а
+ff_7:й
+ff_8:г
+ff_24:б
+ff_25:у
+ff_27:н
+ff_34:CCONJ
+ff_35:й
+ff_42:й
+ff_46:н
+ff_47:е
+ff_48:п
+ff_49:р
+ff_51:з
+ff_13:б
+ff_14:у
+ff_16:н
+ff_23:CCONJ
+ff_24:й
+ff_31:й
+ff_35:н
+ff_36:е
+ff_37:п
+ff_38:р
+ff_40:з
+ff_2:б
+ff_3:у
+ff_5:н
+ff_12:CCONJ
+ff_13:й
+ff_20:й
+ff_24:н
+ff_25:е
+ff_26:п
+ff_27:р
+ff_29:з
+ff_45:SCONJ
+ff_46:я
+ff_47:к
+ff_52:я
+ff_53:к
+ff_1:CCONJ
+ff_2:й
+ff_9:й
+ff_13:н
+ff_14:е
+ff_15:п
+ff_16:р
+ff_18:з
+ff_34:SCONJ
+ff_35:я
+ff_36:к
+ff_41:я
+ff_42:к
+ff_46:а
+ff_47:ф
+ff_48:р
+ff_50:ь
+ff_51:к
+ff_52:и
+ff_2:н
+ff_3:е
+ff_4:п
+ff_5:р
+ff_7:з
+ff_23:SCONJ
+ff_24:я
+ff_25:к
+ff_30:я
+ff_31:к
+ff_35:а
+ff_36:ф
+ff_37:р
+ff_39:ь
+ff_40:к
+ff_41:и
+ff_46:п
+ff_47:р
+ff_48:а
+ff_49:л
+ff_51:л
+ff_52:і
+ff_53:с
+ff_12:SCONJ
+ff_13:я
+ff_14:к
+ff_19:я
+ff_20:к
+ff_24:а
+ff_25:ф
+ff_26:р
+ff_28:ь
+ff_29:к
+ff_30:и
+ff_35:п
+ff_36:р
+ff_37:а
+ff_38:л
+ff_40:л
+ff_41:і
+ff_42:с
+ff_1:SCONJ
+ff_2:я
+ff_3:к
+ff_8:я
+ff_9:к
+ff_13:а
+ff_14:ф
+ff_15:р
+ff_17:ь
+ff_18:к
+ff_19:и
+ff_24:п
+ff_25:р
+ff_26:а
+ff_27:л
+ff_29:л
+ff_30:і
+ff_31:с
+ff_45:VERB
+ff_46:с
+ff_47:т
+ff_48:о
+ff_49:я
+ff_50:о
+ff_51:я
+ff_52:л
+ff_2:а
+ff_3:ф
+ff_4:р
+ff_6:ь
+ff_7:к
+ff_8:и
+ff_13:п
+ff_14:р
+ff_15:а
+ff_16:л
+ff_18:л
+ff_19:і
+ff_20:с
+ff_34:VERB
+ff_35:с
+ff_36:т
+ff_37:о
+ff_38:я
+ff_39:о
+ff_40:я
+ff_41:л
+ff_45:ADV
+ff_48:в
+ff_49:к
+ff_50:к
+ff_51:о
+ff_53:о
+ff_2:п
+ff_3:р
+ff_4:а
+ff_5:л
+ff_7:л
+ff_8:і
+ff_9:с
+ff_23:VERB
+ff_24:с
+ff_25:т
+ff_26:о
+ff_27:я
+ff_28:о
+ff_29:я
+ff_30:л
+ff_34:ADV
+ff_37:в
+ff_38:к
+ff_39:к
+ff_40:о
+ff_42:о
+ff_46:з
+ff_48:ч
+ff_49:а
+ff_50:в
+ff_51:а
+ff_12:VERB
+ff_13:с
+ff_14:т
+ff_15:о
+ff_16:я
+ff_17:о
+ff_18:я
+ff_19:л
+ff_23:ADV
+ff_26:в
+ff_27:к
+ff_28:к
+ff_29:о
+ff_31:о
+ff_35:з
+ff_37:ч
+ff_38:а
+ff_39:в
+ff_40:а
+ff_46:.
+ff_53:.
+ff_1:VERB
+ff_2:с
+ff_3:т
+ff_4:о
+ff_5:я
+ff_6:о
+ff_7:я
+ff_8:л
+ff_12:ADV
+ff_15:в
+ff_16:к
+ff_17:к
+ff_18:о
+ff_20:о
+ff_24:з
+ff_26:ч
+ff_27:а
+ff_28:в
+ff_29:а
+ff_35:.
+ff_42:.
+ff_44:</s>
+ff_45:<UNK>_
+ff_46:|
+ff_53:|
+ff_54:NONE
+ff_1:ADV
+ff_4:в
+ff_5:к
+ff_6:к
+ff_7:о
+ff_9:о
+ff_13:з
+ff_15:ч
+ff_16:а
+ff_17:в
+ff_18:а
+ff_24:.
+ff_31:.
+ff_33:</s>
+ff_34:<UNK>_
+ff_35:|
+ff_42:|
+ff_43:NONE
+ff_23:PART
+ff_31:е
+ff_35:ш
+ff_37:л
+ff_38:е
+ff_39:е
+ff_42:е
+ff_46:л
+ff_47:и
+ff_48:с
+ff_49:т
+ff_50:л
+ff_51:и
+ff_52:с
+ff_53:т
+ff_12:PART
+ff_20:е
+ff_24:ш
+ff_26:л
+ff_27:е
+ff_35:л
+ff_36:и
+ff_37:с
+ff_38:т
+ff_39:л
+ff_40:и
+ff_41:с
+ff_42:т
+ff_1:PART
+ff_9:е
+ff_13:ш
+ff_15:л
+ff_16:е
+ff_24:л
+ff_27:т
+ff_28:л
+ff_29:и
+ff_30:с
+ff_31:т
+ff_45:PART
+ff_53:е
+ff_2:ш
+ff_4:л
+ff_5:е
+ff_13:л
+ff_16:т
+ff_17:л
+ff_18:и
+ff_19:с
+ff_20:т
+ff_34:PART
+ff_46:в
+ff_49:у
+ff_50:т
+ff_51:ь
+ff_53:я
+ff_2:л
+ff_5:т
+ff_6:л
+ff_7:и
+ff_8:с
+ff_9:т
+ff_35:в
+ff_38:у
+ff_39:т
+ff_40:ь
+ff_42:я
+ff_46:г
+ff_47:і
+ff_48:л
+ff_50:і
+ff_52:к
+ff_27:у
+ff_28:т
+ff_29:ь
+ff_31:я
+ff_35:г
+ff_36:і
+ff_39:і
+ff_41:к
+ff_16:у
+ff_17:т
+ff_18:ь
+ff_20:я
+ff_24:г
+ff_25:і
+ff_28:і
+ff_30:к
+ff_5:у
+ff_6:т
+ff_7:ь
+ff_9:я
+ff_13:г
+ff_14:і
+ff_17:і
+ff_19:к
+ff_28:р
+ff_30:в
+ff_31:і
+ff_35:к
+ff_37:д
+ff_40:д
+ff_41:р
+ff_42:и
+ff_17:р
+ff_19:в
+ff_20:і
+ff_24:к
+ff_26:д
+ff_29:д
+ff_30:р
+ff_31:и
+ff_49:е
+ff_50:и
+ff_51:в
+ff_52:ш
+ff_53:и
+ff_6:р
+ff_8:в
+ff_9:і
+ff_13:к
+ff_15:д
+ff_18:д
+ff_19:р
+ff_20:и
+ff_39:и
+ff_40:в
+ff_41:ш
+ff_45:PRON
+ff_47:с
+ff_48:і
+ff_49:х
+ff_53:х
+ff_2:к
+ff_4:д
+ff_7:д
+ff_8:р
+ff_9:и
+ff_28:и
+ff_29:в
+ff_30:ш
+ff_34:PRON
+ff_36:с
+ff_37:і
+ff_38:х
+ff_42:х
+ff_45:ADP
+ff_46:у
+ff_53:у
+ff_17:и
+ff_18:в
+ff_19:ш
+ff_23:PRON
+ff_25:с
+ff_26:і
+ff_27:х
+ff_31:х
+ff_34:ADP
+ff_35:у
+ff_42:у
+ff_47:м
+ff_51:н
+ff_53:і
+ff_6:и
+ff_7:в
+ff_8:ш
+ff_12:PRON
+ff_14:с
+ff_15:і
+ff_16:х
+ff_20:х
+ff_23:ADP
+ff_24:у
+ff_31:у
+ff_36:м
+ff_40:н
+ff_42:і
+ff_46:д
+ff_52:д
+ff_1:PRON
+ff_3:с
+ff_4:і
+ff_5:х
+ff_6:в
+ff_9:х
+ff_12:ADP
+ff_13:у
+ff_20:у
+ff_25:м
+ff_35:д
+ff_41:д
+ff_48:н
+ff_49:ц
+ff_52:ц
+ff_1:ADP
+ff_2:у
+ff_9:у
+ff_14:м
+ff_24:д
+ff_30:д
+ff_37:н
+ff_38:ц
+ff_41:ц
+ff_2:з
+ff_3:м
+ff_13:д
+ff_19:д
+ff_26:н
+ff_27:ц
+ff_30:ц
+ff_48:г
+ff_53:ь
+ff_2:д
+ff_8:д
+ff_15:н
+ff_16:ц
+ff_19:ц
+ff_37:г
+ff_42:ь
+ff_46:р
+ff_48:д
+ff_50:д
+ff_52:м
+ff_4:н
+ff_5:ц
+ff_8:ц
+ff_26:г
+ff_31:ь
+ff_35:р
+ff_39:д
+ff_41:м
+ff_15:г
+ff_20:ь
+ff_24:р
+ff_28:д
+ff_30:м
+ff_4:г
+ff_9:ь
+ff_13:р
+ff_17:д
+ff_19:м
+ff_49:в
+ff_50:р
+ff_2:р
+ff_6:д
+ff_8:м
+ff_38:в
+ff_39:р
+ff_53:з
+ff_27:в
+ff_42:з
+ff_49:і
+ff_2:г
+ff_16:в
+ff_31:з
+ff_38:і
+ff_46:х
+ff_49:с
+ff_5:в
+ff_7:а
+ff_20:з
+ff_27:і
+ff_35:х
+ff_38:с
+ff_49:ь
+ff_50:г
+ff_51:е
+ff_52:т
+ff_9:з
+ff_16:і
+ff_24:х
+ff_27:с
+ff_38:ь
+ff_39:г
+ff_40:е
+ff_41:т
+ff_5:і
+ff_13:х
+ff_16:с
+ff_27:ь
+ff_28:г
+ff_29:е
+ff_30:т
+ff_2:х
+ff_5:с
+ff_16:ь
+ff_17:г
+ff_18:е
+ff_19:т
+ff_51:п
+ff_53:д
+ff_5:ь
+ff_6:г
+ff_7:е
+ff_8:т
+ff_40:п
+ff_42:д
+ff_48:б
+ff_49:о
+ff_50:н
+ff_52:б
+ff_29:п
+ff_31:д
+ff_37:б
+ff_38:о
+ff_39:н
+ff_41:б
+ff_46:і
+ff_18:п
+ff_20:д
+ff_26:б
+ff_28:н
+ff_30:б
+ff_35:і
+ff_50:п
+ff_3:і
+ff_7:п
+ff_9:д
+ff_15:б
+ff_17:н
+ff_19:б
+ff_24:і
+ff_39:п
+ff_50:й
+ff_4:б
+ff_6:н
+ff_8:б
+ff_13:і
+ff_28:п
+ff_39:й
+ff_46:к
+ff_2:і
+ff_17:п
+ff_28:й
+ff_6:п
+ff_17:й
+ff_6:й
+ff_26:м
+ff_29:т
+ff_30:а
+ff_31:м
+ff_41:п
+ff_48:х
+ff_15:м
+ff_18:т
+ff_19:а
+ff_20:м
+ff_30:п
+ff_37:х
+ff_4:м
+ff_7:т
+ff_8:а
+ff_9:м
+ff_19:п
+ff_26:х
+ff_8:п
+ff_15:х
+ff_4:х
+ff_47:л
+ff_48:и
+ff_36:л
+ff_37:и
+ff_52:а
+ff_25:л
+ff_26:и
+ff_41:а
+ff_48:м
+ff_14:л
+ff_15:и
+ff_37:м
+ff_50:б
+ff_51:і
+ff_3:л
+ff_4:и
+ff_39:б
+ff_40:і
+ff_50:м
+ff_52:р
+ff_28:б
+ff_29:і
+ff_39:м
+ff_17:б
+ff_18:і
+ff_28:м
+ff_6:б
+ff_7:і
+ff_17:м
+ff_27:д
+ff_30:о
+ff_41:з
+ff_16:д
+ff_19:о
+ff_30:з
+ff_47:н
+ff_48:у
+ff_5:д
+ff_8:о
+ff_19:з
+ff_36:н
+ff_37:у
+ff_50:с
+ff_8:з
+ff_25:н
+ff_26:у
+ff_39:с
+ff_46:о
+ff_14:н
+ff_15:у
+ff_28:с
+ff_35:о
+ff_3:н
+ff_4:у
+ff_17:с
+ff_24:о
+ff_45:DET
+ff_48:ш
+ff_6:с
+ff_8:к
+ff_13:о
+ff_34:DET
+ff_37:ш
+ff_2:о
+ff_23:DET
+ff_26:ш
+ff_12:DET
+ff_15:ш
+ff_1:DET
+ff_4:ш
+ff_6:і
+ff_46:щ
+ff_52:щ
+ff_35:щ
+ff_41:щ
+ff_5:а
+ff_24:щ
+ff_30:щ
+ff_45:AUX
+ff_49:ш
+ff_13:щ
+ff_19:щ
+ff_34:AUX
+ff_38:ш
+ff_48:ж
+ff_49:ч
+ff_51:ж
+ff_52:ч
+ff_2:щ
+ff_8:щ
+ff_23:AUX
+ff_27:ш
+ff_37:ж
+ff_38:ч
+ff_40:ж
+ff_41:ч
+ff_52:з
+ff_12:AUX
+ff_16:ш
+ff_26:ж
+ff_27:ч
+ff_29:ж
+ff_30:ч
+ff_50:е
+ff_51:д
+ff_1:AUX
+ff_5:ш
+ff_15:ж
+ff_16:ч
+ff_18:ж
+ff_19:ч
+ff_4:ж
+ff_5:ч
+ff_7:ж
+ff_8:ч
+ff_47:в
+ff_36:в
+ff_51:г
+ff_25:в
+ff_40:г
+ff_50:я
+ff_51:р
+ff_52:у
+ff_14:в
+ff_29:г
+ff_39:я
+ff_40:р
+ff_41:у
+ff_3:в
+ff_18:г
+ff_28:я
+ff_29:р
+ff_30:у
+ff_7:г
+ff_17:я
+ff_18:р
+ff_19:у
+ff_48:щ
+ff_50:щ
+ff_37:щ
+ff_39:щ
+ff_49:ю
+ff_50:ч
+ff_26:щ
+ff_28:щ
+ff_38:ю
+ff_39:ч
+ff_52:х
+ff_15:щ
+ff_17:щ
+ff_27:ю
+ff_28:ч
+ff_41:х
+ff_4:щ
+ff_6:щ
+ff_16:ю
+ff_17:ч
+ff_30:х
+ff_5:ю
+ff_6:ч
+ff_19:х
+ff_8:х
+ff_48:-
+ff_51:-
+ff_37:-
+ff_40:-
+ff_26:-
+ff_29:-
+ff_15:-
+ff_18:-
+ff_4:-
+ff_7:-
+ff_51:м
+ff_40:м
+ff_29:м
+ff_18:м
+ff_7:м
+ff_48:к
+ff_37:к
+ff_26:к
+ff_15:к
+ff_47:’
+ff_48:ю
+ff_53:в
+ff_4:к
+ff_36:’
+ff_37:ю
+ff_42:в
+ff_25:’
+ff_26:ю
+ff_31:в
+ff_47:ш
+ff_51:ш
+ff_14:’
+ff_15:ю
+ff_20:в
+ff_36:ш
+ff_40:ш
+ff_47:г
+ff_3:’
+ff_4:ю
+ff_9:в
+ff_25:ш
+ff_29:ш
+ff_36:г
+ff_48:е
+ff_51:т
+ff_53:м
+ff_14:ш
+ff_18:ш
+ff_25:г
+ff_37:е
+ff_40:т
+ff_42:м
+ff_52:о
+ff_3:ш
+ff_7:ш
+ff_14:г
+ff_26:е
+ff_41:о
+ff_3:г
+ff_15:е
+ff_4:е
+ff_32:ALL_CAPS
+ff_38:з
+ff_46:—
+ff_53:—
+ff_21:ALL_CAPS
+ff_27:з
+ff_35:—
+ff_42:—
+ff_10:ALL_CAPS
+ff_16:з
+ff_24:—
+ff_31:—
+ff_5:з
+ff_13:—
+ff_20:—
+ff_51:у
+ff_2:—
+ff_9:—
+ff_40:у
+ff_29:у
+ff_48:ц
+ff_18:у
+ff_37:ц
+ff_50:х
+ff_7:у
+ff_26:ц
+ff_39:х
+ff_15:ц
+ff_28:х
+ff_4:ц
+ff_17:х
+ff_24:м
+ff_28:ц
+ff_13:м
+ff_17:ц
+ff_46:м
+ff_2:м
+ff_6:ц
+ff_35:м
+ff_52:в
+ff_41:в
+ff_49:’
+ff_50:’
+ff_38:’
+ff_39:’
+ff_27:’
+ff_28:’
+ff_16:’
+ff_17:’
+ff_52:п
+ff_49:б
+ff_38:б
+ff_27:б
+ff_16:б
+ff_5:б
+ff_51:ч
+ff_40:ч
+ff_49:м
+ff_29:ч
+ff_38:м
+ff_18:ч
+ff_27:м
+ff_6:я
+ff_7:ч
+ff_16:м
+ff_5:м
+ff_48:з
+ff_50:з
+ff_4:ч
+ff_6:м
+ff_37:з
+ff_39:з
+ff_26:з
+ff_28:з
+ff_53:ю
+ff_15:з
+ff_17:з
+ff_42:ю
+ff_4:з
+ff_6:з
+ff_31:ю
+ff_20:ю
+ff_47:п
+ff_36:п
+ff_47:х
+ff_25:п
+ff_36:х
+ff_49:з
+ff_14:п
+ff_25:х
+ff_3:п
+ff_14:х
+ff_3:х
+ff_46:«
+ff_53:«
+ff_35:«
+ff_42:«
+ff_24:«
+ff_31:«
+ff_46:»
+ff_53:»
+ff_13:«
+ff_20:«
+ff_35:»
+ff_42:»
+ff_2:«
+ff_9:«
+ff_24:»
+ff_31:»
+ff_13:»
+ff_20:»
+ff_2:»
+ff_9:»
+ff_48:я
+ff_49:ж
+ff_52:ж
+ff_37:я
+ff_38:ж
+ff_41:ж
+ff_26:я
+ff_27:ж
+ff_30:ж
+ff_53:ж
+ff_15:я
+ff_16:ж
+ff_19:ж
+ff_42:ж
+ff_4:я
+ff_5:ж
+ff_8:ж
+ff_31:ж
+ff_20:ж
+ff_7:р
+ff_9:ж
+ff_49:п
+ff_38:п
+ff_27:п
+ff_16:п
+ff_5:п
+ff_47:ч
+ff_36:ч
+ff_25:ч
+ff_14:ч
+ff_3:ч
+ff_50:ш
+ff_39:ш
+ff_51:б
+ff_28:ш
+ff_40:б
+ff_17:ш
+ff_29:б
+ff_51:ю
+ff_6:ш
+ff_18:б
+ff_40:ю
+ff_7:б
+ff_29:ю
+ff_18:ю
+ff_7:ю
+ff_23:INTJ
+ff_12:INTJ
+ff_53:є
+ff_42:є
+ff_31:є
+ff_20:є
+ff_8:у
+ff_9:є
+ff_36:я
+ff_25:я
+ff_14:я
+ff_3:я
+ff_47:д
+ff_52:є
+ff_53:ї
+ff_36:д
+ff_41:є
+ff_42:ї
+ff_25:д
+ff_30:є
+ff_31:ї
+ff_14:д
+ff_19:є
+ff_20:ї
+ff_3:д
+ff_8:є
+ff_9:ї
+ff_52:е
+ff_53:р
+ff_41:е
+ff_42:р
+ff_30:е
+ff_31:р
+ff_19:е
+ff_20:р
+ff_8:е
+ff_9:р
+ff_6:х
+ff_46:ш
+ff_46:-
+ff_53:-
+ff_35:-
+ff_42:-
+ff_24:-
+ff_31:-
+ff_13:-
+ff_20:-
+ff_2:-
+ff_9:-
+ff_53:н
+ff_42:н
+ff_31:н
+ff_20:н
+ff_9:н
+ff_9:ю
+ff_5:’
+ff_24:ї
+ff_30:ї
+ff_13:ї
+ff_19:ї
+ff_2:ї
+ff_8:ї
+ff_47:ю
+ff_36:ю
+ff_25:ю
+ff_14:ю
+ff_49:й
+ff_38:й
+ff_27:й
+ff_16:й
+ff_5:й
+ff_3:ю
+ff_46:ц
+ff_35:ц
+ff_24:ц
+ff_13:ц
+ff_2:ц
+ff_49:д
+ff_38:д
+ff_47:-
+ff_36:-
+ff_25:-
+ff_14:-
+ff_3:-
+ff_1:INTJ
+ff_50:ж
+ff_39:ж
+ff_28:ж
+ff_17:ж
+ff_6:ж
+ff_25:ь
+ff_14:ь
+ff_3:ь
+ff_45:PROPN
+ff_54:F-UPPER
+ff_34:PROPN
+ff_43:F-UPPER
+ff_23:PROPN
+ff_32:F-UPPER
+ff_12:PROPN
+ff_21:F-UPPER
+ff_1:PROPN
+ff_10:F-UPPER
+ff_47:ц
+ff_36:ц
+ff_25:ц
+ff_14:ц
+ff_3:ц
+ff_51:ц
+ff_40:ц
+ff_29:ц
+ff_46:(
+ff_53:(
+ff_18:ц
+ff_35:(
+ff_42:(
+ff_49:ф
+ff_7:ц
+ff_24:(
+ff_31:(
+ff_38:ф
+ff_48:ф
+ff_13:(
+ff_20:(
+ff_27:ф
+ff_37:ф
+ff_46:)
+ff_53:)
+ff_2:(
+ff_9:(
+ff_16:ф
+ff_26:ф
+ff_35:)
+ff_42:)
+ff_5:ф
+ff_15:ф
+ff_24:)
+ff_31:)
+ff_4:ф
+ff_13:)
+ff_20:)
+ff_35:/
+ff_42:/
+ff_24:/
+ff_31:/
+ff_46:/
+ff_53:/
+ff_13:/
+ff_20:/
+ff_2:/
+ff_9:/
+ff_46:!
+ff_53:!
+ff_35:!
+ff_42:!
+ff_24:!
+ff_31:!
+ff_47:з
+ff_36:з
+ff_25:з
+ff_49:ї
+ff_52:ї
+ff_14:з
+ff_38:ї
+ff_41:ї
+ff_53:г
+ff_3:з
+ff_27:ї
+ff_42:г
+ff_16:ї
+ff_31:г
+ff_5:ї
+ff_20:г
+ff_9:г
+ff_47:ж
+ff_36:ж
+ff_25:ж
+ff_14:ж
+ff_3:ж
+ff_46::
+ff_53::
+ff_35::
+ff_42::
+ff_24::
+ff_31::
+ff_54:ALL_CAPS
+ff_13::
+ff_20::
+ff_43:ALL_CAPS
+ff_2::
+ff_9::
+ff_2:)
+ff_9:)
+ff_53:б
+ff_42:б
+ff_31:б
+ff_20:б
+ff_9:б
+ff_46:…
+ff_53:…
+ff_35:…
+ff_42:…
+ff_24:…
+ff_31:…
+ff_47:б
+ff_36:б
+ff_46:“
+ff_53:“
+ff_25:б
+ff_35:“
+ff_42:“
+ff_14:б
+ff_24:“
+ff_31:“
+ff_3:б
+ff_13:“
+ff_20:“
+ff_2:“
+ff_9:“
+ff_46:”
+ff_53:”
+ff_35:”
+ff_42:”
+ff_24:”
+ff_31:”
+ff_13:”
+ff_20:”
+ff_48:є
+ff_2:”
+ff_9:”
+ff_37:є
+ff_26:є
+ff_15:є
+ff_4:є
+ff_46:b
+ff_47:e
+ff_48:g
+ff_49:o
+ff_50:o
+ff_51:n
+ff_52:i
+ff_53:a
+ff_35:b
+ff_36:e
+ff_37:g
+ff_38:o
+ff_39:o
+ff_40:n
+ff_41:i
+ff_42:a
+ff_45:X
+ff_46:m
+ff_47:a
+ff_48:c
+ff_49:u
+ff_50:l
+ff_51:a
+ff_52:t
+ff_24:b
+ff_25:e
+ff_26:g
+ff_27:o
+ff_28:o
+ff_29:n
+ff_30:i
+ff_31:a
+ff_34:X
+ff_35:m
+ff_36:a
+ff_37:c
+ff_38:u
+ff_39:l
+ff_40:a
+ff_41:t
+ff_13:b
+ff_14:e
+ff_15:g
+ff_16:o
+ff_17:o
+ff_18:n
+ff_19:i
+ff_20:a
+ff_23:X
+ff_24:m
+ff_25:a
+ff_26:c
+ff_27:u
+ff_28:l
+ff_29:a
+ff_30:t
+ff_2:b
+ff_3:e
+ff_4:g
+ff_5:o
+ff_6:o
+ff_7:n
+ff_8:i
+ff_9:a
+ff_12:X
+ff_13:m
+ff_14:a
+ff_15:c
+ff_16:u
+ff_17:l
+ff_18:a
+ff_19:t
+ff_1:X
+ff_2:m
+ff_3:a
+ff_4:c
+ff_5:u
+ff_6:l
+ff_7:a
+ff_8:t
+ff_46:c
+ff_48:r
+ff_50:a
+ff_51:r
+ff_52:u
+ff_53:m
+ff_35:c
+ff_37:r
+ff_39:a
+ff_40:r
+ff_41:u
+ff_42:m
+ff_49:v
+ff_52:v
+ff_53:i
+ff_24:c
+ff_26:r
+ff_28:a
+ff_29:r
+ff_30:u
+ff_31:m
+ff_38:v
+ff_41:v
+ff_42:i
+ff_13:c
+ff_15:r
+ff_17:a
+ff_18:r
+ff_19:u
+ff_20:m
+ff_27:v
+ff_30:v
+ff_31:i
+ff_2:c
+ff_4:r
+ff_6:a
+ff_7:r
+ff_8:u
+ff_9:m
+ff_16:v
+ff_19:v
+ff_20:i
+ff_5:v
+ff_8:v
+ff_9:i
+ff_46:ф
+ff_35:ф
+ff_24:ф
+ff_13:ф
+ff_2:ф
+ff_52:й
+ff_41:й
+ff_30:й
+ff_49:i
+ff_50:r
+ff_51:i
+ff_52:c
+ff_19:й
+ff_38:i
+ff_39:r
+ff_40:i
+ff_41:c
+ff_46:p
+ff_48:p
+ff_49:a
+ff_50:p
+ff_52:y
+ff_8:й
+ff_27:i
+ff_28:r
+ff_29:i
+ff_30:c
+ff_35:p
+ff_37:p
+ff_38:a
+ff_39:p
+ff_41:y
+ff_16:i
+ff_17:r
+ff_18:i
+ff_19:c
+ff_24:p
+ff_26:p
+ff_27:a
+ff_28:p
+ff_30:y
+ff_5:i
+ff_6:r
+ff_7:i
+ff_8:c
+ff_13:p
+ff_15:p
+ff_16:a
+ff_17:p
+ff_19:y
+ff_2:p
+ff_4:p
+ff_5:a
+ff_6:p
+ff_8:y
+ff_24:ж
+ff_13:ж
+ff_2:ж
+ff_50:ц
+ff_39:ц
+ff_46:ж
+ff_35:ж
+ff_53:п
+ff_42:п
+ff_31:п
+ff_20:п
+ff_9:п
+ff_49:щ
+ff_38:щ
+ff_27:щ
+ff_48:’
+ff_16:щ
+ff_37:’
+ff_5:щ
+ff_26:’
+ff_15:’
+ff_53:ш
+ff_42:ш
+ff_31:ш
+ff_20:ш
+ff_9:ш
+ff_51:’
+ff_40:’
+ff_29:’
+ff_45:NUM
+ff_18:’
+ff_34:NUM
+ff_7:’
+ff_23:NUM
+ff_12:NUM
+ff_1:NUM
+ff_45:INTJ
+ff_34:INTJ
+ff_48:ї
+ff_37:ї
+ff_26:ї
+ff_15:ї
+ff_4:ї
+ff_50:ю
+ff_39:ю
+ff_28:ю
+ff_17:ю
+ff_6:ю
+ff_49:r
+ff_51:e
+ff_52:r
+ff_38:r
+ff_40:e
+ff_41:r
+ff_46:l
+ff_48:b
+ff_49:e
+ff_50:t
+ff_52:n
+ff_27:r
+ff_29:e
+ff_30:r
+ff_35:l
+ff_37:b
+ff_38:e
+ff_39:t
+ff_41:n
+ff_16:r
+ff_18:e
+ff_19:r
+ff_24:l
+ff_26:b
+ff_27:e
+ff_28:t
+ff_30:n
+ff_5:r
+ff_7:e
+ff_8:r
+ff_13:l
+ff_15:b
+ff_16:e
+ff_17:t
+ff_19:n
+ff_2:l
+ff_4:b
+ff_5:e
+ff_6:t
+ff_8:n
+ff_46:e
+ff_47:q
+ff_48:u
+ff_50:q
+ff_51:u
+ff_53:s
+ff_35:e
+ff_36:q
+ff_37:u
+ff_39:q
+ff_40:u
+ff_42:s
+ff_24:e
+ff_25:q
+ff_26:u
+ff_28:q
+ff_29:u
+ff_31:s
+ff_13:e
+ff_14:q
+ff_15:u
+ff_17:q
+ff_18:u
+ff_20:s
+ff_2:e
+ff_3:q
+ff_4:u
+ff_6:q
+ff_7:u
+ff_9:s
+ff_13:…
+ff_20:…
+ff_2:…
+ff_9:…
+ff_46:f
+ff_47:o
+ff_49:m
+ff_50:m
+ff_35:f
+ff_36:o
+ff_38:m
+ff_39:m
+ff_24:f
+ff_25:o
+ff_27:m
+ff_28:m
+ff_13:f
+ff_14:o
+ff_16:m
+ff_17:m
+ff_2:f
+ff_3:o
+ff_5:m
+ff_6:m
+ff_47:я
+ff_53:л
+ff_42:л
+ff_31:л
+ff_20:л
+ff_51:щ
+ff_40:щ
+ff_29:щ
+ff_18:щ
+ff_7:щ
+ff_52:’
+ff_41:’
+ff_30:’
+ff_19:’
+ff_4:’
+ff_8:’
+ff_6:’
+ff_46:є
+ff_35:є
+ff_24:є
+ff_13:є
+ff_2:є
+ff_36:ь
+ff_51:х
+ff_40:х
+ff_29:х
+ff_47:ь
+ff_18:х
+ff_7:х
+ff_51:є
+ff_40:є
+ff_29:є
+ff_18:є
+ff_46:?
+ff_53:?
+ff_35:?
+ff_42:?
+ff_24:?
+ff_31:?
+ff_53:ч
+ff_42:ч
+ff_31:ч
+ff_20:ч
+ff_9:ч
+ff_26:ь
+ff_15:ь
+ff_4:ь
+ff_46:е
+ff_35:е
+ff_24:е
+ff_13:е
+ff_2:е
+ff_46:ї
+ff_35:ї
+ff_50:ї
+ff_39:ї
+ff_28:ї
+ff_17:ї
+ff_6:ї
+ff_9:л
+ff_48:ь
+ff_37:ь
+ff_47:ї
+ff_36:ї
+ff_25:ї
+ff_14:ї
+ff_3:ї
+ff_49:є
+ff_38:є
+ff_27:є
+ff_16:є
+ff_5:є
+ff_7:є
+ff_47:й
+ff_36:й
+ff_25:й
+ff_14:й
+ff_3:й
+ff_41:ь
+ff_30:ь
+ff_19:ь
+ff_8:ь
+ff_51:ї
+ff_40:ї
+ff_29:ї
+ff_18:ї
+ff_7:ї
+ff_46:ґ
+ff_35:ґ
+ff_24:ґ
+ff_13:ґ
+ff_2:ґ
+ff_47:є
+ff_36:є
+ff_25:є
+ff_14:є
+ff_52:ь
+ff_47:ґ
+ff_36:ґ
+ff_25:ґ
+ff_14:ґ
+ff_3:ґ
+ff_50:є
+ff_39:є
+ff_28:є
+ff_17:є
+ff_6:є
+ff_46:ю
+ff_35:ю
+ff_24:ю
+ff_13:ю
+ff_2:ю
+ff_50:ф
+ff_39:ф
+ff_28:ф
+ff_17:ф
+ff_6:ф
+ff_49:ґ
+ff_38:ґ
+ff_27:ґ
+ff_16:ґ
+ff_5:ґ
+ff_46:0
+ff_47:0
+ff_52:0
+ff_53:0
+ff_35:0
+ff_36:0
+ff_41:0
+ff_42:0
+ff_24:0
+ff_25:0
+ff_30:0
+ff_31:0
+ff_13:0
+ff_14:0
+ff_19:0
+ff_20:0
+ff_2:0
+ff_3:0
+ff_8:0
+ff_9:0
+ff_52:ю
+ff_41:ю
+ff_30:ю
+ff_19:ю
+ff_8:ю
+ff_48:ґ
+ff_37:ґ
+ff_26:ґ
+ff_15:ґ
+ff_4:ґ
+ff_51:ґ
+ff_40:ґ
+ff_29:ґ
+ff_18:ґ
+ff_53:ґ
+ff_42:ґ
+ff_31:ґ
+ff_20:ґ
+ff_9:ґ
+ff_51:ф
+ff_40:ф
+ff_29:ф
+ff_18:ф
+ff_7:ф
+ff_52:ґ
+ff_41:ґ
+ff_30:ґ
+ff_19:ґ
+ff_53:ф
+ff_42:ф
+ff_31:ф
+ff_20:ф
+ff_9:ф
+ff_8:ґ
+ff_47:щ
+ff_36:щ
+ff_25:щ
+ff_14:щ
+ff_3:щ
+ff_39:ґ
+ff_28:ґ
+ff_17:ґ
+ff_6:ґ
+ff_3:є
+ff_52:ф
+ff_41:ф
+ff_30:ф
+ff_19:ф
+ff_8:ф
+ff_53:ц
+ff_42:ц
+ff_31:ц
+ff_20:ц
+ff_9:ц
+ff_7:ґ
+ff_50:ґ
+ff_49:-
+ff_50:-
+ff_38:-
+ff_39:-
+ff_27:-
+ff_28:-
+ff_16:-
+ff_17:-
+ff_5:-
+ff_6:-
+ff_48:0
+ff_49:0
+ff_50:0
+ff_51:0
+ff_37:0
+ff_38:0
+ff_39:0
+ff_40:0
+ff_26:0
+ff_27:0
+ff_28:0
+ff_29:0
+ff_15:0
+ff_16:0
+ff_17:0
+ff_18:0
+ff_13:!
+ff_20:!
+ff_2:!
+ff_9:!
+ff_46:g
+ff_47:m
+ff_48:a
+ff_49:t
+ff_50:g
+ff_51:m
+ff_52:a
+ff_53:t
+ff_35:g
+ff_36:m
+ff_37:a
+ff_38:t
+ff_39:g
+ff_40:m
+ff_41:a
+ff_42:t
+ff_24:g
+ff_25:m
+ff_26:a
+ff_27:t
+ff_28:g
+ff_29:m
+ff_30:a
+ff_31:t
+ff_13:g
+ff_14:m
+ff_15:a
+ff_16:t
+ff_17:g
+ff_18:m
+ff_19:a
+ff_20:t
+ff_48:m
+ff_49:p
+ff_51:p
+ff_37:m
+ff_38:p
+ff_40:p
+ff_26:m
+ff_27:p
+ff_29:p
+ff_15:m
+ff_16:p
+ff_18:p
+ff_4:m
+ff_5:p
+ff_7:p
+ff_47:?
+ff_52:?
+ff_36:?
+ff_41:?
+ff_25:?
+ff_30:?
+ff_45:SYM
+ff_47:(
+ff_52::
+ff_34:SYM
+ff_36:(
+ff_41::
+ff_13:?
+ff_20:?
+ff_23:SYM
+ff_25:(
+ff_30::
+ff_13:.
+ff_20:.
+ff_2:.
+ff_9:.
+ff_46:x
+ff_47:x
+ff_52:x
+ff_53:x
+ff_35:x
+ff_36:x
+ff_41:x
+ff_42:x
+ff_24:x
+ff_25:x
+ff_30:x
+ff_31:x
+ff_13:x
+ff_14:x
+ff_19:x
+ff_20:x
+ff_2:x
+ff_3:x
+ff_8:x
+ff_9:x
+ff_4:0
+ff_5:0
+ff_6:0
+ff_7:0
+ff_49:x
+ff_52:-
+ff_38:x
+ff_41:-
+ff_27:x
+ff_30:-
+ff_16:x
+ff_19:-
+ff_5:x
+ff_8:-
+ff_2:?
+ff_9:?
+ff_46:;
+ff_53:;
+ff_35:;
+ff_42:;
+ff_24:;
+ff_31:;
+ff_13:;
+ff_20:;
+ff_2:;
+ff_9:;
+ff_47:.
+ff_48:.
+ff_51:!
+ff_52:.
+ff_36:.
+ff_37:.
+ff_40:!
+ff_41:.
+ff_25:.
+ff_26:.
+ff_29:!
+ff_30:.
+ff_46:i
+ff_47:i
+ff_48:i
+ff_35:i
+ff_36:i
+ff_37:i
+ff_46:–
+ff_53:–
+ff_24:i
+ff_25:i
+ff_26:i
+ff_35:–
+ff_42:–
+ff_47:v
+ff_53:v
+ff_13:i
+ff_14:i
+ff_15:i
+ff_24:–
+ff_31:–
+ff_36:v
+ff_42:v
+ff_2:i
+ff_3:i
+ff_4:i
+ff_13:–
+ff_20:–
+ff_25:v
+ff_31:v
+ff_2:–
+ff_9:–
+ff_14:v
+ff_20:v
+ff_3:v
+ff_9:v
+ff_31:p
+ff_46:s
+ff_20:p
+ff_35:s
+ff_9:p
+ff_24:s
+ff_13:s
+ff_2:s
+639
+Case=Nom|Gender=Fem
+_
+Animacy=Inan|Case=Nom|Gender=Fem
+Case=Nom|Degree=Pos|Gender=Fem
+Case=Nom|Gender=Masc
+Animacy=Inan|Case=Nom|Gender=Masc
+Aspect=Imp|Gender=Fem|Mood=Ind|Tense=Past|VerbForm=Fin
+Aspect=Perf|Case=Nom|Gender=Fem|VerbForm=Part|Voice=Pass
+Polarity=Neg
+Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin
+Case=Nom|Number=Plur
+Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur
+Aspect=Perf|Tense=Past|VerbForm=Conv
+Animacy=Inan|Case=Acc|Number=Ptan|PronType=Tot
+Case=Loc
+Animacy=Inan|Case=Loc|Gender=Neut
+Case=Gen
+Animacy=Inan|Case=Gen|Gender=Neut
+Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin
+Case=Ins|Degree=Pos|Number=Plur
+Case=Ins|Number=Plur
+Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur
+Case=Gen|Gender=Masc
+Animacy=Inan|Case=Gen|Gender=Masc
+PronType=Ind
+Case=Acc
+Animacy=Inan|Case=Acc|Gender=Neut
+Case=Acc|Gender=Neut|Person=3|PronType=Prs
+Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur
+PronType=Dem
+Case=Loc|Number=Plur|Person=3|PronType=Prs
+Aspect=Imp|Gender=Neut|Mood=Ind|Tense=Past|VerbForm=Fin
+Animacy=Inan|Case=Nom|Gender=Neut
+Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin
+Case=Ins
+Case=Ins|Number=Plur|Person=3|PronType=Prs
+Case=Nom|Degree=Pos|Number=Plur
+Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur
+Case=Nom|Number=Plur|PronType=Ind
+Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur
+Aspect=Imp|Tense=Past|VerbForm=Conv
+Case=Nom|Degree=Cmp|Number=Plur
+Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur
+Animacy=Inan|Case=Acc|Gender=Masc|NumType=Ord
+Animacy=Inan|Case=Acc|Gender=Masc
+Aspect=Perf|Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass
+Case=Gen|Degree=Pos|Gender=Masc
+Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur
+Case=Ins|Gender=Masc|NumType=Ord
+Animacy=Inan|Case=Ins|Gender=Masc
+Case=Loc|Gender=Masc|NumType=Ord
+Animacy=Inan|Case=Loc|Gender=Masc
+Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur
+Animacy=Inan|Case=Loc|Gender=Fem
+Aspect=Imp|Gender=Masc|Mood=Ind|Tense=Past|VerbForm=Fin
+Aspect=Perf|Gender=Masc|Mood=Ind|Tense=Past|VerbForm=Fin
+Animacy=Inan|Case=Acc|Gender=Neut|PronType=Tot
+Animacy=Inan|Case=Acc|Gender=Neut|PronType=Rel
+Degree=Pos
+Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur
+Animacy=Inan|Case=Acc|Gender=Fem
+Animacy=Inan|Case=Nom|Number=Ptan
+Case=Nom|Number=Plur|Person=3|PronType=Prs
+Animacy=Inan|Case=Gen|Gender=Masc|Style=Odd
+Animacy=Inan|Case=Acc|Gender=Masc|Style=Odd
+Case=Nom|Degree=Pos|Gender=Neut
+Case=Nom|Gender=Neut
+Animacy=Anim|Case=Nom|Gender=Masc
+Case=Dat|PronType=Prs|Reflex=Yes
+Aspect=Perf|Case=Loc|Gender=Fem|VerbForm=Part|Voice=Pass
+Aspect=Imp|Case=Gen|Gender=Masc|VerbForm=Part|Voice=Pass
+Animacy=Anim|Case=Gen|Gender=Masc
+Aspect=Imp|Tense=Pres|VerbForm=Conv
+Case=Acc|Gender=Masc|Person=3|PronType=Prs
+Animacy=Inan|Case=Nom|Gender=Neut|PronType=Dem
+Animacy=Inan|Case=Nom|Gender=Neut|PronType=Ind
+Animacy=Inan|Case=Loc|Number=Ptan
+Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+Case=Loc|Degree=Pos|Gender=Masc
+Case=Gen|Gender=Fem|PronType=Ind
+Case=Gen|Gender=Fem
+Animacy=Inan|Case=Gen|Gender=Fem|Style=Odd
+Case=Acc|Gender=Fem|PronType=Ind
+Case=Acc|Gender=Fem
+Aspect=Imp|VerbForm=Inf
+Case=Nom|Gender=Masc|PronType=Dem
+Case=Acc|Number=Plur|Person=3|PronType=Prs
+Animacy=Inan|Case=Ins|Gender=Fem
+Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur
+Case=Loc|Gender=Masc
+Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur
+Case=Gen|Number=Plur|Person=3|PronType=Prs
+Case=Gen|Number=Plur|PronType=Dem
+Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur
+Case=Nom|Number=Plur|PronType=Dem
+Case=Loc|Number=Plur|PronType=Rel
+Animacy=Inan|Case=Acc|Gender=Neut|PronType=Ind
+Case=Nom|Gender=Masc|Person=3|PronType=Prs
+Aspect=Perf|Gender=Fem|Mood=Ind|Tense=Past|VerbForm=Fin
+Case=Ins|Degree=Pos|Gender=Fem
+Animacy=Anim|Case=Gen|Gender=Fem|NameType=Giv
+Animacy=Anim|Case=Gen|Gender=Fem|NameType=Pat
+Case=Acc|Gender=Fem|Poss=Yes|PronType=Prs|Reflex=Yes
+Case=Acc|Gender=Fem|PronType=Rel
+Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv
+Animacy=Anim|Case=Nom|Gender=Fem|NameType=Pat
+Case=Dat|Gender=Fem|PronType=Tot
+Animacy=Anim|Case=Dat|Gender=Fem
+Case=Loc|Gender=Fem|PronType=Dem
+Case=Nom|Degree=Pos|Gender=Masc
+Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur
+Case=Nom|Gender=Fem|Person=3|PronType=Prs
+Animacy=Inan|Case=Acc|Number=Plur|PronType=Ind
+Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur
+Case=Gen|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes
+Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur
+Animacy=Inan|Case=Acc|Number=Plur
+Case=Loc|Gender=Masc|PronType=Dem
+PronType=Rel
+Aspect=Perf|VerbForm=Inf
+Animacy=Inan|Case=Gen|Gender=Neut|PronType=Ind
+Animacy=Inan
+Case=Nom|Gender=Masc|PronType=Rel
+Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur
+Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur
+Case=Loc|Gender=Neut
+Animacy=Anim|Case=Nom|Gender=Fem
+Case=Gen|Degree=Pos|Gender=Fem
+Animacy=Inan|Case=Gen|Gender=Fem
+Animacy=Anim|Case=Gen|Gender=Fem
+Case=Ins|Gender=Fem|PronType=Dem
+Animacy=Anim|Case=Acc|Gender=Masc|PronType=Rel
+Aspect=Perf|Case=Gen|Gender=Fem|VerbForm=Part|Voice=Pass
+Foreign=Yes
+Animacy=Inan|Aspect=Perf|Case=Acc|Gender=Masc|VerbForm=Part|Voice=Act
+Case=Loc|Degree=Pos|Gender=Fem
+Case=Loc|Gender=Fem
+Aspect=Perf|Case=Ins|Gender=Fem|VerbForm=Part|Voice=Pass
+Case=Nom|Gender=Fem|PronType=Prs|Reflex=Yes
+Case=Gen|PronType=Prs|Reflex=Yes
+Animacy=Inan|Case=Acc|Gender=Masc|PronType=Dem
+Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc
+Hyph=Yes
+Animacy=Inan|Aspect=Imp|Case=Acc|Gender=Masc|VerbForm=Part|Voice=Pass
+Aspect=Perf|Case=Gen|Gender=Masc|VerbForm=Part|Voice=Pass
+Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur
+Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur
+Case=Gen|Gender=Fem|PronType=Dem
+Case=Nom|Number=Plur|PronType=Tot
+Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv
+Animacy=Inan|Case=Gen|Gender=Neut|PronType=Dem
+Case=Acc|PronType=Prs|Reflex=Yes
+Animacy=Inan|Case=Ins|Gender=Neut
+Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+Case=Ins|Number=Plur|PronType=Ind
+Animacy=Anim|Case=Ins|Gender=Fem|Number=Plur
+Degree=Cmp
+Case=Gen|Gender=Masc|PronType=Ind
+Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin
+Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin
+Case=Acc|Gender=Masc|NumType=Card
+Animacy=Inan|Case=Acc|Gender=Neut|PronType=Dem
+Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur
+Animacy=Anim|Case=Acc|Gender=Fem
+Case=Loc|PronType=Prs|Reflex=Yes
+Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv
+Animacy=Anim|Case=Acc|Gender=Masc
+Animacy=Anim|Case=Acc|Gender=Fem|NameType=Giv
+Animacy=Anim|Case=Acc|Gender=Fem|NameType=Pat
+Animacy=Anim|Case=Acc|Gender=Fem|NameType=Sur
+Case=Acc|Number=Plur|NumType=Card
+Case=Gen|Number=Plur|PronType=Tot
+Case=Acc|Gender=Fem|NumType=Card
+Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur
+Case=Ins|Gender=Fem
+Case=Ins|Number=Plur|PronType=Tot
+Case=Nom|Number=Plur|NumType=Card
+Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Plur
+Case=Gen|Number=Plur
+PronType=Tot
+Animacy=Inan|Aspect=Perf|Case=Acc|Gender=Masc|VerbForm=Part|Voice=Pass
+Case=Gen|Gender=Masc|PronType=Rel
+Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur
+Aspect=Perf|Case=Nom|Gender=Masc|VerbForm=Part|Voice=Pass
+Case=Acc|Degree=Pos|Gender=Fem
+Case=Ins|Degree=Pos|Gender=Masc
+Abbr=Yes|Animacy=Inan|Case=Gen|Gender=Masc
+Animacy=Anim|Case=Ins|Gender=Masc
+Animacy=Inan|Case=Acc|Number=Plur|PronType=Tot
+Aspect=Perf|Case=Gen|Gender=Fem|VerbForm=Part|Voice=Act
+Case=Gen|Gender=Masc|Person=3|PrepCase=Pre|PronType=Prs
+Case=Ins|Gender=Masc
+Animacy=Inan|Case=Ins|Number=Plur
+Animacy=Inan|Case=Dat|Gender=Fem
+Case=Ins|Gender=Masc|Person=3|PrepCase=Pre|PronType=Prs
+Animacy=Inan|Case=Nom|Gender=Masc|Style=Odd
+Case=Acc|Gender=Neut|NumType=Card
+Case=Gen|Gender=Masc|Person=3|Poss=Yes|PronType=Prs
+Aspect=Perf|Case=Loc|Degree=Pos|Gender=Masc|VerbForm=Part|Voice=Pass
+Case=Ins|Gender=Neut
+Case=Ins|Gender=Masc|Poss=Yes|PronType=Prs|Reflex=Yes
+Animacy=Inan|Case=Acc|Number=Plur|PronType=Dem
+Aspect=Imp|Case=Acc|Gender=Fem|VerbForm=Part|Voice=Pass
+Case=Ins|Number=Plur|PronType=Rel
+Case=Acc|Gender=Fem|Person=3|Poss=Yes|PronType=Prs
+Case=Acc|Gender=Neut|PronType=Tot
+Case=Nom|Gender=Masc|PronType=Tot|Variant=Short
+Animacy=Inan|Case=Acc|Gender=Masc|NumType=Card
+Case=Nom|Gender=Fem|PronType=Ind
+Case=Ins|Number=Plur|NumType=Card
+Case=Gen|Gender=Fem|Person=3|Poss=Yes|PronType=Prs
+Case=Acc|Gender=Fem|PronType=Dem
+Case=Loc|Gender=Neut|Poss=Yes|PronType=Prs|Reflex=Yes
+Case=Loc|Degree=Pos|Gender=Neut
+Animacy=Inan|Case=Acc|Gender=Masc|PronType=Ind
+Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur|Style=Odd
+Animacy=Inan|Case=Acc|Gender=Masc|PronType=Tot
+Case=Nom|Gender=Masc|NumType=Card
+Animacy=Anim|Case=Acc|Number=Plur
+Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Style=Rare|Tense=Pres|VerbForm=Fin
+Case=Acc|Gender=Fem|PronType=Tot
+Animacy=Inan|Case=Acc|Gender=Masc|Poss=Yes|PronType=Prs|Reflex=Yes
+Animacy=Inan|Case=Acc|Number=Plur|Style=Odd
+Case=Dat|Gender=Masc|Person=3|PronType=Prs
+Animacy=Inan|Case=Ins|Number=Ptan
+Case=Dat|Gender=Fem|Person=3|PronType=Prs
+Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Style=Odd|Tense=Pres|VerbForm=Fin
+Animacy=Inan|Case=Dat|Gender=Masc
+Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur
+Aspect=Perf|Case=Nom|Number=Plur|Style=Rare|VerbForm=Part|Voice=Pass
+Aspect=Perf|Case=Acc|Gender=Neut|VerbForm=Part|Voice=Pass
+Abbr=Yes|Animacy=Inan|Case=Gen|Gender=Fem
+Animacy=Anim|Case=Nom|Number=Plur|Person=1|PronType=Prs
+Animacy=Anim|Case=Acc|Number=Ptan|PronType=Tot
+Animacy=Anim|Case=Gen|Gender=Masc|PronType=Rel
+Aspect=Perf|Gender=Neut|Mood=Ind|Tense=Past|VerbForm=Fin
+Animacy=Inan|Case=Ins|Gender=Neut|PronType=Dem
+Animacy=Anim|Case=Acc|Gender=Masc|Person=1|Poss=Yes|PronType=Prs
+Aspect=Perf|Mood=Ind|Number=Plur|Style=Odd|Tense=Past|VerbForm=Fin
+Case=Gen|Gender=Masc|NumType=Ord
+Case=Loc|Degree=Pos|Number=Plur
+Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur
+Case=Acc|Gender=Neut|Person=1|Poss=Yes|PronType=Prs
+Case=Ins|Degree=Pos|Gender=Neut
+Case=Gen|Degree=Pos|Number=Plur
+Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs
+Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs
+Case=Nom|Gender=Fem|Person=1|Poss=Yes|PronType=Prs
+Case=Gen|Degree=Pos|Gender=Masc|NumType=Ord
+Case=Gen|Gender=Neut|PronType=Ind
+Case=Gen|Gender=Masc|NumType=Card
+Animacy=Inan|Case=Gen|Number=Ptan
+Case=Ins|Gender=Masc|Person=3|PronType=Prs
+Case=Ins|Number=Plur|Person=1|Poss=Yes|PronType=Prs
+Animacy=Anim|Case=Ins|Number=Ptan
+Case=Gen|Degree=Pos|Gender=Neut
+Case=Nom|Gender=Neut|Person=3|PronType=Prs
+Aspect=Perf|Case=Nom|Gender=Neut|VerbForm=Part|Voice=Pass
+Case=Acc|Gender=Fem|PronType=Prs|Reflex=Yes
+Case=Ins|Degree=Sup|Number=Plur
+Case=Acc|Number=Plur|NumType=Card|PronType=Ind
+Animacy=Anim|Case=Dat|Number=Plur|Person=1|PronType=Prs
+Animacy=Inan|Case=Nom|Gender=Neut|PronType=Rel
+Case=Loc|Gender=Fem|Person=1|Poss=Yes|PronType=Prs
+Animacy=Anim|Aspect=Perf|Case=Nom|Number=Ptan|Voice=Act
+Animacy=Anim|Case=Acc|Number=Plur|Person=1|PronType=Prs
+Case=Gen|Gender=Neut
+Case=Loc|Gender=Fem|PronType=Rel
+Case=Nom|Gender=Masc|Person=1|Poss=Yes|PronType=Prs
+Animacy=Inan|Case=Loc|Gender=Masc|Style=Odd
+Animacy=Inan|Case=Loc|Number=Ptan|NumType=Ord
+Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur|Style=Odd
+Case=Ins|Gender=Fem|Person=1|Poss=Yes|PronType=Prs
+Animacy=Anim|Case=Ins|Gender=Fem
+Animacy=Anim|Case=Gen|Number=Plur|Person=1|PronType=Prs
+PronType=Neg
+Animacy=Anim|Case=Acc|Gender=Fem|Number=Plur
+Case=Nom|Number=Plur|PronType=Rel
+Animacy=Anim|Case=Acc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes
+Case=Acc|Gender=Fem|Person=3|PronType=Prs
+Case=Nom|Gender=Fem|PronType=Rel
+Case=Ins|Degree=Sup|Gender=Fem
+Abbr=Yes|Animacy=Anim|Case=Nom|Gender=Fem
+Animacy=Inan|Case=Acc|Gender=Fem|Style=Odd
+Case=Acc|Gender=Neut|PronType=Dem
+Case=Acc|Gender=Fem|Person=1|Poss=Yes|PronType=Prs
+Case=Ins|Gender=Fem|PronType=Ind
+PronType=Int
+Abbr=Yes|Animacy=Anim|Case=Ins|Gender=Fem
+Case=Acc|Degree=Pos|Gender=Neut
+Case=Gen|Number=Plur|Style=Odd
+Animacy=Anim|Case=Gen|Gender=Masc|Style=Odd
+Animacy=Anim|Case=Dat|Gender=Masc|Style=Odd
+Case=Nom|Number=Plur|Person=1|Poss=Yes|PronType=Prs
+Case=Gen|Gender=Masc|Person=1|Poss=Yes|PronType=Prs
+Case=Gen|Gender=Neut|Person=3|Poss=Yes|PronType=Prs
+Case=Nom|Gender=Fem|Style=Odd
+Case=Gen|Gender=Fem|Person=1|Poss=Yes|PronType=Prs
+Case=Loc|Number=Plur|Person=1|Poss=Yes|PronType=Prs
+Animacy=Inan|Case=Acc|Gender=Neut|Style=Odd
+Animacy=Anim|Case=Nom|Gender=Masc|Style=Odd
+Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+Aspect=Perf|Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass
+Case=Loc|Number=Plur
+Animacy=Inan|Case=Acc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes
+Animacy=Anim|Case=Nom|Number=Ptan
+Degree=Sup
+Animacy=Anim|Case=Ins|Gender=Masc|NameType=Giv
+Case=Loc|Gender=Masc|Style=Odd
+PronType=Prs
+Animacy=Anim|Case=Acc|Degree=Pos|Number=Plur
+Animacy=Inan|Case=Acc|Degree=Sup|Number=Plur
+Case=Gen|Gender=Masc|PronType=Dem
+Case=Ins|Gender=Masc|PronType=Dem
+Aspect=Perf|Case=Ins|Degree=Pos|Gender=Neut|VerbForm=Part|Voice=Pass
+Case=Nom|Gender=Masc|PronType=Ind
+Animacy=Inan|Case=Loc|Gender=Fem|Style=Odd
+Case=Loc|Degree=Pos|Gender=Fem|NumType=Ord
+Case=Nom|Gender=Fem|NumType=Ord
+Case=Ins|Gender=Fem|Poss=Yes|PronType=Prs|Reflex=Yes
+NumType=Card
+Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|VerbForm=Part|Voice=Pass
+Case=Nom|Degree=Sup|Gender=Fem
+Aspect=Perf|Mood=Ind|Person=0|VerbForm=Fin
+Animacy=Anim|Case=Ins|Number=Plur|Person=1|PronType=Prs
+Animacy=Anim|Case=Acc|Number=Plur|Person=1|Poss=Yes|PronType=Prs
+Case=Nom|Number=Plur|Style=Odd
+Case=Loc|Number=Plur|PronType=Ind
+Aspect=Imp|Case=Ins|Gender=Fem|VerbForm=Part|Voice=Pass
+Case=Acc|Gender=Neut
+Animacy=Inan|Case=Gen|Gender=Fem|Style=Rare
+Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Voice=Pass
+Case=Loc|Degree=Pos|Gender=Masc|NumType=Ord
+Aspect=Imp|Mood=Ind|Number=Plur|Style=Odd|Tense=Past|VerbForm=Fin
+Case=Acc|Gender=Neut|PronType=Ind
+Animacy=Anim|Case=Nom|Gender=Masc|PronType=Rel
+Animacy=Inan|Case=Ins|Gender=Neut|PronType=Ind
+Case=Ins|Gender=Neut|PronType=Dem
+Case=Nom|Gender=Masc|PronType=Prs|Reflex=Yes
+Animacy=Anim|Case=Gen|Number=Plur
+Case=Loc|Gender=Neut|PronType=Ind
+Animacy=Inan|Case=Acc|Degree=Cmp|Number=Plur
+Case=Nom|Gender=Neut|PronType=Tot
+Case=Nom|Degree=Sup|Gender=Neut
+Case=Gen|Degree=Sup|Gender=Masc
+Animacy=Anim|Case=Dat|Number=Sing|Person=1|PronType=Prs
+Animacy=Anim|Case=Acc|Number=Ptan
+Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|Style=Rare
+Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur|Style=Odd
+Animacy=Anim|Case=Acc|Degree=Pos|Number=Plur|NumType=Ord
+Case=Nom|Gender=Neut|PronType=Prs|Reflex=Yes
+Case=Ins|Gender=Fem|NumType=Ord
+Case=Gen|Gender=Fem|NumType=Card
+Case=Loc|Gender=Neut|Person=1|Poss=Yes|PronType=Prs
+Animacy=Anim|Case=Dat|Gender=Masc|NameType=Giv
+Case=Gen|Gender=Neut|Poss=Yes|PronType=Prs|Reflex=Yes
+Animacy=Inan|Case=Gen|Gender=Neut|PronType=Int
+Animacy=Anim|Case=Dat|Number=Sing|Person=2|PronType=Prs
+Animacy=Anim|Foreign=Yes|Number=Sing|Person=2|PronType=Prs
+Case=Nom|Foreign=Yes|Gender=Masc
+Case=Ins|Number=Plur|Person=2|Poss=Yes|PronType=Prs
+Animacy=Anim|Case=Gen|Number=Sing|Person=2|PronType=Prs
+Animacy=Inan|Case=Gen|Gender=Neut|PronType=Rel
+Animacy=Anim|Case=Nom|Number=Sing|Person=2|PronType=Prs
+Case=Dat|Gender=Masc|PronType=Rel
+Animacy=Anim|Case=Dat|Gender=Masc
+Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Style=Odd
+Animacy=Anim|Case=Acc|Gender=Masc|NameType=Giv
+Case=Acc|Gender=Neut|Poss=Yes|PronType=Prs|Reflex=Yes
+Case=Ins|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+Case=Gen|Gender=Masc|PronType=Tot
+Aspect=Perf|Case=Ins|Number=Plur|VerbForm=Part|Voice=Pass
+Case=Loc|Gender=Fem|Person=3|Poss=Yes|PronType=Prs
+Animacy=Anim|Case=Nom|Gender=Fem|Variant=Uncontr
+Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur
+Case=Acc|Gender=Neut|PronType=Rel
+Case=Loc|Gender=Masc|Person=3|Poss=Yes|PronType=Prs
+Animacy=Anim|Case=Dat|Gender=Masc|NameType=Sur
+Animacy=Anim|Case=Nom|Number=Ptan|PronType=Tot
+Aspect=Perf|Case=Gen|Gender=Neut|VerbForm=Part|Voice=Pass
+Case=Dat|Number=Plur|Person=3|PronType=Prs
+Case=Gen|Number=Plur|Person=3|PrepCase=Pre|PronType=Prs
+Animacy=Anim|Case=Acc|Number=Plur|PronType=Ind
+Case=Ins|Number=Plur|PronType=Dem
+Animacy=Inan|Animacy[gram]=Anim|Case=Acc|Gender=Masc
+Animacy=Anim|Aspect=Perf|Case=Acc|Gender=Masc|VerbForm=Part|Voice=Pass
+Case=Ins|Gender=Neut|NumType=Card
+Animacy=Inan|Case=Nom|Gender=Neut|PronType=Tot
+Animacy=Inan|Case=Acc|Number=Ptan
+Animacy=Anim|Case=Gen|Number=Sing|Person=1|PronType=Prs
+Case=Ins|Gender=Masc|PronType=Ind
+Case=Gen|Number=Plur|NumType=Card
+Animacy=Anim|Case=Acc|Number=Plur|PronType=Rel
+Case=Ins|Degree=Cmp|Number=Plur
+Animacy=Inan|Case=Loc|Gender=Neut|PronType=Tot
+Animacy=Anim|Case=Acc|Gender=Masc|NumType=Ord
+Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+Animacy=Inan|Case=Loc|Gender=Masc|NumType=Ord
+Animacy=Anim|Case=Nom|Number=Ptan|PronType=Dem
+Case=Gen|Gender=Masc|PronType=Neg
+Case=Gen|Gender=Fem|PronType=Neg
+Animacy=Inan|Case=Gen|Gender=Masc|NumType=Ord
+Animacy=Anim|Case=Ins|Gender=Masc|NumType=Ord
+Case=Ins|PronType=Prs|Reflex=Yes
+Animacy=Anim|Aspect=Perf|Case=Acc|Number=Plur|VerbForm=Part|Voice=Pass
+Animacy=Anim|Case=Ins|Number=Plur
+Case=Acc|Degree=Pos|Gender=Fem|NumType=Ord
+Animacy=Anim|Case=Acc|Number=Sing|Person=1|PronType=Prs
+Case=Gen|Number=Plur|NumType=Card|PronType=Ind
+Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur|NumType=Ord
+Animacy=Anim|Case=Nom|PronType=Ind
+Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Style=Odd
+Aspect=Perf|Case=Ins|Gender=Masc|VerbForm=Part|Voice=Pass
+Case=Loc|Gender=Neut|NumType=Ord
+Case=Gen|Gender=Neut|NumType=Ord
+Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur|Number=Plur
+Case=Nom|Gender=Fem|Person=3|Poss=Yes|PronType=Prs
+Case=Acc|Gender=Fem|Variant=Uncontr
+Animacy=Anim|Case=Loc|Gender=Masc|Number=Plur
+Case=Nom|Gender=Fem|PronType=Tot
+Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur
+Animacy=Inan|Case=Ins|Gender=Neut|PronType=Rel
+Aspect=Perf|Case=Loc|Gender=Masc|VerbForm=Part|Voice=Pass
+Animacy=Inan|Case=Acc|Gender=Masc|Person=1|Poss=Yes|PronType=Prs
+Case=Ins|Number=Plur|Style=Odd
+Aspect=Imp|Case=Ins|Number=Plur|VerbForm=Part|Voice=Pass
+Case=Nom|Degree=Sup|Gender=Masc
+Case=Gen|Number=Plur|PronType=Neg
+Case=Loc|Gender=Masc|PronType=Prs|Reflex=Yes
+Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|Style=Odd
+Animacy=Anim|Case=Acc|Number=Plur|PronType=Tot
+Case=Gen|Gender=Neut|PronType=Tot
+Case=Nom|Degree=Cmp|Gender=Masc
+Animacy=Anim|Case=Dat|Gender=Masc|PronType=Tot
+Animacy=Inan|Case=Loc|Gender=Neut|PronType=Dem
+Case=Nom|Gender=Neut|PronType=Dem
+Case=Loc|Number=Plur|PronType=Tot
+Animacy=Inan|Case=Nom|Foreign=Yes|Number=Sing
+Animacy=Inan|Case=Gen|Foreign=Yes|Gender=Masc|Number=Plur
+Animacy=Anim|Case=Gen|Foreign=Yes|Gender=Fem|Number=Plur
+Case=Gen|Foreign=Yes|Number=Plur
+Animacy=Inan|Case=Gen|Foreign=Yes|Gender=Fem|Number=Plur
+Case=Gen|Gender=Neut|PronType=Dem
+Aspect=Imp|Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass
+Animacy=Anim|Case=Acc|Gender=Masc|NameType=Sur
+Aspect=Perf|Case=Ins|Degree=Pos|Number=Plur|VerbForm=Part|Voice=Pass
+Case=Loc|Gender=Masc|PronType=Rel
+Case=Dat|Gender=Masc
+Case=Gen|Gender=Fem|PronType=Rel
+Case=Loc|Gender=Fem|PronType=Prs|Reflex=Yes
+Case=Ins|Gender=Masc|PronType=Tot
+Animacy=Inan|Case=Gen|PronType=Neg
+Animacy=Inan|Case=Acc|Number=Plur|Person=1|Poss=Yes|PronType=Prs
+Case=Gen|Degree=Sup|Number=Plur
+Case=Nom|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+Case=Dat|Number=Plur
+Animacy=Anim|Case=Gen|Number=Ptan|PronType=Tot
+Animacy=Anim|Case=Gen|Gender=Masc|NumType=Ord
+Animacy=Anim|Case=Nom|Gender=Fem|PronType=Dem
+Case=Acc|Gender=Fem|Person=3|PrepCase=Pre|PronType=Prs
+Case=Nom|Gender=Fem|PronType=Dem
+Case=Dat|Gender=Masc|Person=1|Poss=Yes|PronType=Prs
+Case=Nom|Gender=Masc|NumType=Ord
+Animacy=Anim|Case=Nom|Gender=Fem|NameType=Sur
+Animacy=Anim|Case=Acc|PronType=Ind
+Animacy=Anim|Case=Dat|Gender=Neut|Number=Plur
+Aspect=Perf|Case=Acc|Gender=Fem|VerbForm=Part|Voice=Act
+Case=Loc|Gender=Fem|PronType=Ind
+Animacy=Anim|Case=Nom|Gender=Masc|PronType=Prs|Reflex=Yes
+Case=Loc|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+Animacy=Inan|Case=Ins|Gender=Masc|Style=Rare
+Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc
+Animacy=Inan|Case=Acc|Gender=Masc|PronType=Rel
+Aspect=Imp|Case=Gen|Gender=Neut|VerbForm=Part|Voice=Pass
+Aspect=Perf|Gender=Fem|Mood=Ind|Style=Odd|Tense=Past|VerbForm=Fin
+Case=Ins|Gender=Masc|NumType=Card
+Degree=Abs
+Aspect=Perf|Case=Ins|Degree=Pos|Gender=Masc|VerbForm=Part|Voice=Pass
+Case=Acc|Number=Plur|Person=3|PrepCase=Pre|PronType=Prs
+Case=Acc|Degree=Sup|Gender=Fem
+Animacy=Anim|Case=Ins|Number=Sing|Person=1|PronType=Prs
+Case=Nom|Gender=Masc|Person=3|Poss=Yes|PronType=Prs
+Case=Ins|Gender=Fem|PronType=Rel
+Case=Acc|Gender=Fem|NumType=Ord
+Aspect=Perf|Case=Loc|Number=Plur|VerbForm=Part|Voice=Pass
+Case=Nom|Gender=Masc|PronType=Tot
+Aspect=Perf|Case=Acc|Gender=Fem|VerbForm=Part|Voice=Pass
+Case=Gen|Degree=Cmp|Gender=Masc
+Case=Gen|Degree=Sup|Gender=Fem
+Animacy=Inan|Case=Acc|Gender=Masc|PronType=Prs|Reflex=Yes
+Case=Loc|Gender=Masc|PronType=Ind
+Animacy=Anim|Case=Dat|Gender=Fem|Number=Plur
+Animacy=Inan|Case=Ins|Gender=Fem|Style=Odd
+Case=Dat|Gender=Fem|PronType=Ind
+Case=Nom|Number=Plur|NumType=Card|PronType=Ind
+Animacy=Anim|Case=Ins|Gender=Masc|NameType=Sur
+Animacy=Anim|Case=Nom|Gender=Fem|Style=Odd
+Case=Acc|Gender=Masc|Person=3|Poss=Yes|PronType=Prs
+Case=Ins|Gender=Masc|Person=3|Poss=Yes|PronType=Prs
+Abbr=Yes|Animacy=Inan|Case=Loc|Gender=Masc
+Case=Gen|Degree=Pos|Number=Plur|NumType=Ord
+Animacy=Inan|Case=Nom|Foreign=Yes|Gender=Neut
+Case=Nom|Gender=Neut|Person=1|Poss=Yes|PronType=Prs
+Case=Nom|Number=Plur|PronType=Prs|Reflex=Yes
+Case=Ins|Degree=Sup|Gender=Neut
+Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin
+Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|NumType=Ord
+Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+Case=Ins|Degree=Sup|Gender=Masc
+Case=Gen|Gender=Fem|Person=3|PrepCase=Pre|PronType=Prs
+Aspect=Imp|Gender=Neut|Mood=Ind|Style=Odd|Tense=Past|VerbForm=Fin
+Case=Ins|Gender=Neut|Poss=Yes|PronType=Prs|Reflex=Yes
+Animacy=Anim|Case=Acc|Gender=Masc|PronType=Tot
+Case=Loc|Degree=Sup|Number=Plur
+Animacy=Inan|Case=Gen|Number=Ptan|NumType=Ord
+Aspect=Perf|Case=Ins|Degree=Pos|Gender=Fem|VerbForm=Part|Voice=Pass
+Case=Gen|Gender=Neut|Person=1|Poss=Yes|PronType=Prs
+Animacy=Inan|Case=Acc|Number=Plur|PronType=Rel
+Animacy=Anim|Case=Ins|Gender=Fem|NameType=Giv
+Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur
+Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin
+Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin
+Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin
+Animacy=Anim|Case=Gen|Number=Plur|Person=2|PronType=Prs
+Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin
+Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin
+Abbr=Yes|Animacy=Inan|Case=Nom|Gender=Masc
+Animacy=Anim|Case=Dat|Number=Plur|Person=2|PronType=Prs
+Animacy=Anim|Case=Nom|Gender=Neut|Number=Plur
+Animacy=Inan|Case=Acc|Degree=Cmp|Gender=Masc
+Case=Gen|Number=Plur|PronType=Rel
+Aspect=Imp|Case=Ins|Gender=Neut|VerbForm=Part|Voice=Pass
+Animacy=Anim|Case=Nom|Gender=Masc|PronType=Int
+Animacy=Anim|Case=Dat|Number=Ptan|PronType=Tot
+Animacy=Inan|Case=Gen|Foreign=Yes|Gender=Masc
+Animacy=Anim|Case=Voc|Gender=Masc|Number=Plur
+Case=Ins|Number=Plur|NumType=Card|PronType=Ind
+Animacy=Inan|Foreign=Yes
+Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin
+Aspect=Perf|Mood=Imp|Number=Plur|Person=1|VerbForm=Fin
+Animacy=Anim|Case=Ins|Number=Plur|Person=2|PronType=Prs
+Case=Gen|Number=Plur|PronType=Ind
+Case=Gen|Degree=Pos|Gender=Fem|NumType=Ord
+Abbr=Yes|Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur
+Case=Ins|Degree=Cmp|Gender=Fem
+Case=Dat|Number=Plur|Person=2|Poss=Yes|PronType=Prs
+Animacy=Anim|Case=Gen|Gender=Masc|PronType=Int
+Animacy=Anim|Case=Gen|Gender=Fem|NameType=Sur
+Animacy=Anim|Case=Voc|Gender=Neut|Number=Plur
+Case=Loc|Gender=Neut|PronType=Dem
+Animacy=Inan|Case=Acc|Gender=Masc|Person=2|Poss=Yes|PronType=Prs
+Case=Loc|Gender=Masc|PronType=Tot
+Animacy=Inan|Case=Acc|Gender=Neut|PronType=Int
+Animacy=Inan|Case=Voc|Number=Ptan
+Abbr=Yes
+Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Neut
+Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin
+Animacy=Anim|Case=Acc|Number=Plur|PronType=Dem
+Animacy=Anim|Case=Nom|Number=Plur|Person=2|PronType=Prs
+Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin
+Case=Loc|Gender=Fem|Poss=Yes|PronType=Prs|Reflex=Yes
+Case=Loc|Number=Plur|NumType=Card
+Animacy=Inan|Case=Gen|Gender=Neut|PronType=Tot
+Case=Dat|Gender=Masc|PronType=Prs|Reflex=Yes
+Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin
+Animacy=Inan|Animacy[gram]=Anim|Case=Acc|Gender=Masc|Style=Odd
+Case=Ins|Gender=Neut|Person=3|Poss=Yes|PronType=Prs
+Case=Loc|Gender=Neut|Person=3|Poss=Yes|PronType=Prs
+Animacy=Anim|Case=Gen|Gender=Masc|PronType=Dem
+Animacy=Anim|Case=Nom|Number=Plur
+Aspect=Imp|Case=Nom|Gender=Masc|VerbForm=Part|Voice=Pass
+Animacy=Anim|Case=Dat|Gender=Masc|PronType=Ind
+Animacy=Anim|Case=Nom|PronType=Neg
+Case=Nom|Gender=Masc|Variant=Short
+Animacy=Anim|Case=Acc|Gender=Masc|PronType=Ind
+Abbr=Yes|Animacy=Inan|Case=Nom|Gender=Fem
+Abbr=Yes|Animacy=Inan|Case=Loc|Gender=Neut
+Animacy=Anim|Case=Acc|Gender=Masc|Person=3|Poss=Yes|PronType=Prs
+Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin
+Case=Nom|Degree=Sup|Number=Plur
+Case=Gen|Number=Plur|NumType=Ord
+Abbr=Yes|Animacy=Inan|Case=Gen|Number=Ptan
+Abbr=Yes|Animacy=Inan|Case=Loc|Gender=Fem
+Animacy=Anim|Case=Nom|Number=Plur|Person=2|Polite=Form|PronType=Prs
+Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin
+Animacy=Anim|Case=Voc|Gender=Fem|NameType=Giv
+Animacy=Inan|Case=Nom|Number=Ptan|PronType=Tot
+Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Fem
+Animacy=Anim|Case=Voc|Gender=Masc
+Aspect=Imp|Case=Acc|Gender=Fem|Style=Odd|Tense=Pres|VerbForm=Part|Voice=Act
+Case=Gen|Gender=Masc|Poss=Yes|PronType=Prs|Reflex=Yes
+Animacy=Anim|Case=Gen|Number=Plur|Person=2|Polite=Form|PronType=Prs
+Animacy=Anim|Case=Dat|Number=Plur|Person=2|Polite=Form|PronType=Prs
+Case=Dat|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes
+Animacy=Anim|Aspect=Perf|Case=Dat|Number=Plur|Voice=Pass
+Case=Dat|Number=Plur|NumType=Card
+Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur|Style=Coll
+Animacy=Anim|Case=Acc|Number=Plur|Person=2|Polite=Form|PronType=Prs
+Animacy=Inan|Case=Dat|PronType=Neg
+Case=Loc|Gender=Masc|Person=3|PrepCase=Pre|PronType=Prs
+Animacy=Anim|Case=Nom|Number=Plur|PronType=Dem
+Case=Nom|Gender=Neut|Person=3|Poss=Yes|PronType=Prs
+Animacy=Anim|Case=Dat|PronType=Neg
+Case=Dat|Gender=Masc|PronType=Ind
+Case=Nom|Degree=Cmp|Gender=Fem
+Animacy=Anim|Case=Dat|Gender=Fem|PronType=Dem
+Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|Style=Coll
+Animacy=Inan|Case=Acc|PronType=Neg
+Case=Nom|Degree=Pos|Gender=Fem|NumType=Ord
+Animacy=Anim|Aspect=Imp|Case=Gen|Number=Ptan|Tense=Pres|Voice=Act
+Animacy=Inan|Case=Dat|Gender=Neut
+Aspect=Perf|Case=Dat|Number=Plur|VerbForm=Part|Voice=Pass
+Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur
+Animacy=Inan|Aspect=Imp|Case=Gen|Number=Ptan|Tense=Pres|Voice=Act
+Case=Gen|Gender=Fem|NumType=Ord
+Aspect=Perf|Case=Loc|Gender=Neut|VerbForm=Part|Voice=Pass
+Case=Acc|Degree=Cmp|Gender=Fem
+Case=Loc|Degree=Cmp|Number=Plur
+Animacy=Anim|Case=Loc|Gender=Fem|Number=Plur
+Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs|Style=Odd
+Animacy=Inan|Aspect=Perf|Case=Acc|Degree=Pos|Gender=Masc|VerbForm=Part|Voice=Pass
+Case=Voc|Gender=Masc
+Case=Voc|Degree=Pos|Gender=Masc
+Animacy=Anim|Case=Acc|Gender=Masc|PronType=Dem
+Case=Gen|Gender=Fem|Person=2|Poss=Yes|PronType=Prs
+Abbr=Yes|Animacy=Inan
+Case=Nom|Degree=Pos|Gender=Masc|NumType=Ord
+Animacy=Anim|Case=Ins|Number=Plur|Person=2|Polite=Form|PronType=Prs
+Case=Gen|Gender=Neut|Person=2|Poss=Yes|PronType=Prs
+PronType=Dem|Style=Odd
+Abbr=Yes|Animacy=Anim
+Animacy=Anim|Aspect=Imp|Case=Nom|Gender=Masc|Tense=Pres|Voice=Act
+Animacy=Inan|Aspect=Imp|Case=Acc|Number=Plur|VerbForm=Part|Voice=Pass
+Case=Ins|Gender=Masc|PronType=Rel
+Animacy=Inan|Case=Acc|PronType=Ind
+Animacy=Anim|Case=Acc|Gender=Masc|Person=2|Poss=Yes|PronType=Prs
+Case=Gen|Number=Plur|Person=2|Poss=Yes|PronType=Prs
+Case=Ins|Gender=Neut|PronType=Ind
+Case=Nom|Gender=Masc|Person=2|Poss=Yes|PronType=Prs
+2469
+142 2 976
+534 3 216
+658 4 58
+397 5 42
+692 6 8
+210 -129 7
+1 -29 -43
+212 9 10
+143 -156 -22
+400 11 20
+206 -53 12
+4 13 16
+395 14 15
+137 -183 -225
+27 -156 -22
+154 17 18
+144 -22 -183
+105 -225 19
+111 -225 -29
+183 21 23
+86 22 -53
+5 -29 -53
+982 24 26
+6 -125 25
+143 -183 -29
+292 -183 27
+369 28 33
+37 29 30
+27 -53 -29
+377 -29 31
+28 -183 32
+101 -183 -22
+286 34 35
+5 -53 -183
+968 36 37
+17 -29 -53
+678 -29 38
+137 39 40
+46 -22 -29
+63 -53 41
+150 -53 -22
+345 43 53
+682 44 46
+286 -225 45
+15 -53 -125
+209 47 48
+4 -193 -129
+173 -29 49
+144 50 51
+4 -29 -22
+60 -53 52
+77 -53 -183
+497 54 55
+45 -156 -255
+16 56 57
+4 -12 -43
+25 -406 -129
+814 59 69
+847 60 66
+61 61 62
+112 -130 -129
+37 63 65
+4 64 -125
+36 -82 -43
+5 -40 -111
+475 -82 67
+136 -130 68
+259 -130 -129
+608 70 86
+459 71 75
+31 72 -43
+86 73 74
+6 -61 -389
+144 -129 -130
+609 76 78
+188 77 -125
+27 -43 -130
+64 79 80
+110 -43 -125
+27 -331 81
+535 82 83
+16 -216 -43
+300 84 85
+37 -43 -129
+497 -331 -129
+159 87 101
+39 88 93
+539 89 91
+510 90 -129
+64 -40 -43
+104 -130 92
+173 -130 -129
+519 94 95
+31 -111 -12
+175 96 99
+5 97 -38
+30 -412 98
+58 -389 -129
+542 100 -129
+31 -129 -125
+657 102 112
+110 103 104
+1186 -129 -125
+459 105 109
+289 106 107
+58 -130 -61
+31 108 -40
+4 -62 -389
+85 -38 110
+81 -111 111
+4 -306 -111
+16 113 148
+497 114 115
+1 -554 -130
+297 116 120
+35 117 118
+113 -223 -125
+12 119 -40
+48 -125 -38
+173 121 132
+332 122 123
+35 -111 -40
+55 124 129
+54 -12 125
+29 -125 126
+6 -125 127
+106 128 -43
+101 -43 -38
+181 130 131
+31 -12 -43
+148 -125 -129
+46 133 135
+31 -111 134
+216 -129 -43
+393 -43 136
+187 137 139
+27 -40 138
+31 -607 -125
+622 140 143
+35 -12 141
+1 -111 142
+4 -38 -570
+170 -12 144
+81 -12 145
+395 146 147
+1 -111 -12
+47 -111 -40
+458 149 157
+842 150 151
+5 -129 -125
+591 152 153
+1 -111 -125
+635 154 155
+6 -12 -111
+156 -12 156
+108 -43 -12
+386 158 167
+35 159 164
+847 160 161
+17 -43 -412
+137 -40 162
+406 -38 163
+31 -38 -12
+226 165 166
+26 -111 -12
+25 -12 -43
+682 168 171
+45 169 170
+98 -130 -111
+57 -125 -40
+451 172 175
+365 -129 173
+30 -130 174
+35 -38 -12
+847 176 181
+154 177 180
+17 178 179
+47 -389 -38
+5 -129 -43
+31 -111 -40
+494 182 186
+314 -38 183
+31 -125 184
+1 -12 185
+203 -12 -389
+387 187 189
+53 -38 188
+4 -40 -129
+110 190 192
+161 191 -43
+37 -125 -12
+393 193 197
+183 -125 194
+4 -43 195
+57 196 -12
+28 -12 -43
+851 -40 198
+123 199 202
+377 200 201
+25 -12 -125
+6 -40 -43
+210 203 205
+555 204 -12
+1 -38 -125
+307 -12 206
+133 -38 207
+48 -38 208
+482 209 210
+47 -125 -38
+60 -38 211
+411 -43 212
+256 -43 213
+111 -43 214
+163 -43 215
+618 -43 -125
+521 217 344
+608 218 257
+16 219 254
+411 -129 220
+137 221 222
+311 -54 -129
+30 223 225
+31 -16 224
+54 -54 -52
+632 226 230
+96 227 228
+26 -317 -16
+114 -16 229
+184 -16 -54
+509 -16 231
+761 232 234
+26 233 -52
+45 -16 -52
+587 235 238
+210 236 237
+15 -16 -43
+48 -54 -52
+386 -54 239
+1145 -91 240
+622 -52 241
+460 -52 242
+482 -54 243
+431 -54 244
+372 -54 245
+382 -54 246
+279 -54 247
+542 -54 248
+290 249 250
+28 -52 -54
+127 251 -52
+115 -54 252
+393 -54 253
+519 -54 -52
+173 255 256
+17 -54 -125
+26 -130 -129
+208 258 260
+480 259 -54
+15 -129 -108
+610 261 272
+663 262 269
+30 263 265
+31 -16 264
+4 -52 -270
+761 266 267
+28 -52 -16
+509 268 -52
+4 -16 -366
+35 -129 270
+37 -164 271
+83 -125 -194
+17 273 301
+173 274 283
+560 275 278
+333 276 277
+29 -38 -111
+35 -125 -108
+530 279 280
+29 -43 -12
+48 281 282
+25 -27 -60
+155 -62 -16
+76 284 293
+103 285 286
+31 -43 -52
+840 -43 287
+36 288 289
+4 -12 -129
+169 290 291
+1 -129 -111
+25 -38 292
+79 -306 -40
+39 294 297
+29 -62 295
+38 296 -40
+55 -536 -40
+318 298 300
+30 -40 299
+48 -293 -12
+48 -60 -38
+814 302 307
+632 303 305
+26 -130 304
+48 -82 -43
+904 306 -129
+29 -27 -130
+617 308 319
+4 309 316
+27 310 311
+62 -43 -16
+318 312 313
+48 -194 -270
+694 314 315
+61 -54 -228
+165 -54 -43
+529 317 318
+6 -125 -40
+124 -16 -129
+159 320 321
+30 -40 -129
+459 322 325
+396 -38 323
+358 324 -125
+26 -45 -62
+470 326 330
+469 327 328
+35 -38 -12
+4 -366 329
+35 -62 -127
+585 331 333
+474 -12 332
+31 -332 -125
+358 334 339
+35 335 337
+5 -265 336
+25 -12 -40
+5 -129 338
+27 -125 -91
+4 340 341
+31 -306 -40
+59 -12 342
+45 -43 343
+144 -43 -40
+596 345 403
+392 346 351
+546 -61 347
+463 348 350
+4 -24 349
+49 -270 -64
+586 -61 -24
+159 352 358
+736 353 354
+4 -61 -64
+767 355 357
+4 -24 356
+26 -24 -61
+143 -64 -24
+15 359 374
+510 360 366
+55 361 365
+608 362 -61
+81 363 364
+46 -61 -24
+182 -61 -52
+145 -16 -61
+569 -61 367
+77 368 370
+397 -52 369
+1 -16 -24
+30 -64 371
+84 -64 372
+65 -61 373
+446 -61 -24
+663 375 377
+277 376 -52
+39 -16 -366
+459 378 383
+36 379 382
+63 -52 380
+125 -61 381
+519 -61 -164
+189 -52 -61
+608 384 386
+16 -61 385
+30 -61 -24
+275 387 389
+6 -366 388
+44 -164 -284
+54 390 395
+414 391 392
+5 -284 -164
+6 393 -61
+16 -589 394
+86 -61 -24
+264 396 398
+26 -61 397
+16 -164 -398
+1221 -24 399
+567 -293 400
+786 -284 401
+263 -24 402
+691 -24 -61
+32 404 496
+166 405 423
+520 406 407
+1 -3 -18
+210 408 409
+57 -72 -64
+379 410 411
+45 -385 -167
+1070 412 413
+27 -72 -167
+126 414 420
+35 415 -24
+346 -18 416
+60 417 418
+4 -18 -385
+54 -385 419
+139 -18 -72
+135 421 422
+441 -18 -24
+26 -385 -18
+159 424 431
+508 425 426
+100 -3 -18
+520 -18 427
+391 428 429
+29 -18 -24
+463 -24 430
+103 -68 -72
+608 432 441
+539 433 434
+31 -91 -24
+137 435 436
+35 -18 -72
+598 437 438
+4 -72 -53
+332 -72 439
+26 -18 440
+29 -18 -24
+705 442 449
+374 443 444
+44 -529 -497
+59 445 446
+5 -111 -24
+104 -549 447
+28 -3 448
+36 -3 -167
+529 450 453
+4 -566 451
+126 -91 452
+101 -91 -60
+547 454 460
+658 455 456
+36 -225 -53
+496 457 458
+4 -24 -167
+6 459 -385
+291 -167 -64
+760 461 465
+144 462 463
+16 -127 -68
+26 -3 464
+76 -167 -24
+187 466 472
+198 467 468
+1 -167 -91
+459 469 470
+15 -64 -127
+12 -127 471
+59 -127 -3
+431 473 477
+173 474 475
+35 -385 -60
+30 -127 476
+77 -53 -3
+489 478 481
+510 -3 479
+125 -60 480
+39 -60 -127
+345 -24 482
+49 483 484
+1019 -3 -18
+125 485 487
+332 -18 486
+570 -127 -3
+205 -127 488
+457 -127 489
+657 -127 490
+368 491 492
+132 -3 -127
+621 493 494
+53 -3 -127
+182 -127 495
+303 -127 -3
+763 497 543
+811 498 523
+878 -188 499
+15 500 507
+37 501 503
+1 -153 502
+102 -188 -50
+99 504 505
+28 -153 -50
+80 -50 506
+25 -50 -188
+738 -153 508
+237 509 510
+16 -188 -471
+194 511 513
+57 512 -188
+29 -188 -50
+1035 -153 514
+580 515 517
+17 -45 516
+137 -188 -50
+25 518 519
+1 -50 -153
+562 -153 520
+530 521 -50
+137 522 -50
+45 -153 -50
+762 524 529
+175 -520 525
+881 526 528
+1 -466 527
+4 -597 -492
+47 -94 -421
+246 530 533
+481 531 532
+30 -421 -94
+48 -613 -153
+1194 534 537
+77 535 536
+12 -153 -188
+58 -153 -50
+5 538 542
+16 539 540
+15 -188 -6
+27 -196 541
+29 -403 -94
+16 -45 -595
+498 544 608
+30 545 569
+159 -18 546
+608 547 550
+64 -27 548
+15 -24 549
+312 -27 -18
+166 551 552
+31 -18 -24
+617 553 554
+29 -91 -27
+836 555 557
+15 -91 556
+133 -33 -60
+45 558 567
+331 -18 559
+711 560 561
+16 -18 -27
+1000 -27 562
+50 -27 563
+39 564 -33
+268 -27 565
+84 566 -33
+15 -33 -27
+102 -18 568
+25 -91 -27
+295 -3 570
+459 571 573
+76 572 -127
+27 -127 -3
+1123 574 576
+374 -292 575
+96 -33 -24
+561 577 581
+16 578 579
+153 -18 -33
+17 580 -18
+95 -18 -27
+36 582 585
+344 583 584
+15 -374 -27
+179 -72 -24
+704 586 588
+25 -72 587
+53 -72 -24
+37 589 597
+173 590 593
+29 -3 591
+45 592 -18
+35 -167 -18
+110 594 595
+17 -91 -18
+27 -91 596
+46 -167 -27
+135 598 604
+509 599 600
+85 -3 -27
+374 -60 601
+54 -27 602
+110 603 -18
+50 -18 -33
+500 605 606
+12 -60 -33
+187 -24 607
+46 -91 -3
+971 609 664
+295 610 654
+683 611 614
+99 612 613
+15 -367 -124
+29 -94 -48
+358 615 618
+38 616 617
+27 -48 -174
+5 -48 -45
+711 -48 619
+516 620 625
+495 621 622
+46 -174 -367
+380 -116 623
+987 -116 624
+29 -116 -48
+48 626 629
+30 -116 627
+509 -252 628
+53 -252 -48
+270 630 634
+161 631 632
+53 -48 -116
+288 633 -48
+36 -48 -116
+508 -48 635
+356 636 637
+4 -252 -48
+600 638 639
+46 -174 -48
+221 -348 640
+386 -174 641
+154 -116 642
+552 -174 643
+359 -116 644
+441 -174 645
+268 646 647
+4 -174 -48
+28 648 649
+29 -174 -48
+117 650 651
+15 -174 -48
+181 -174 652
+427 -48 653
+721 -48 -116
+6 655 660
+672 656 658
+16 -3 657
+5 -124 -61
+1 -6 659
+55 -45 -6
+811 661 662
+28 -45 -94
+137 -116 663
+17 -48 -124
+1084 665 690
+811 666 674
+887 667 668
+28 -24 -493
+614 -274 669
+1154 -274 670
+256 671 672
+5 -88 -274
+619 -274 673
+744 -274 -88
+295 675 676
+208 -589 -61
+733 677 679
+15 -274 678
+16 -88 -164
+814 680 681
+49 -493 -88
+711 682 683
+37 -61 -611
+159 -24 684
+392 -24 685
+759 -24 686
+15 687 688
+346 -61 -88
+28 -164 689
+111 -16 -61
+579 691 736
+271 692 697
+27 693 695
+1 -271 694
+6 -515 -347
+99 -219 696
+35 -610 -614
+71 698 700
+4 -6 699
+117 -6 -45
+137 701 705
+63 702 704
+25 -146 703
+30 -349 -89
+4 -6 -242
+246 706 712
+539 -146 707
+57 708 709
+4 -146 -89
+170 -419 710
+380 -242 711
+16 -77 -242
+46 713 715
+144 714 -89
+16 -430 -45
+831 716 717
+4 -242 -45
+455 718 719
+4 -89 -45
+143 720 722
+37 -146 721
+5 -619 -77
+657 -77 723
+393 -89 724
+194 725 726
+35 -242 -146
+406 727 728
+35 -146 -242
+911 -242 729
+585 730 731
+144 -146 -89
+79 -89 732
+204 -89 733
+1271 -89 734
+238 735 -146
+35 -89 -146
+1183 737 753
+17 738 742
+571 739 740
+5 -129 -52
+199 741 -54
+15 -40 -12
+529 743 747
+5 -129 744
+71 745 746
+37 -43 -38
+154 -38 -125
+110 748 750
+1 -129 749
+4 -54 -40
+912 751 -129
+86 752 -129
+4 -52 -125
+371 754 774
+657 -301 755
+496 756 758
+28 -68 757
+4 -167 -402
+149 759 762
+617 760 -18
+45 -72 761
+61 -167 -458
+182 763 764
+1 -68 -300
+761 765 767
+365 766 -33
+37 -27 -33
+95 768 769
+45 -18 -33
+346 770 772
+291 -33 771
+51 -33 -27
+46 -91 773
+137 -583 -27
+593 775 798
+442 776 782
+111 777 778
+57 -347 -277
+456 779 780
+35 -340 -229
+36 781 -94
+16 -94 -116
+143 783 785
+63 -229 784
+139 -277 -124
+31 786 787
+5 -94 -124
+194 788 790
+4 -442 789
+25 -252 -94
+454 791 793
+29 -94 792
+6 -367 -277
+114 -229 794
+25 795 796
+63 -94 -124
+52 -124 797
+424 -124 -94
+650 799 829
+705 800 808
+159 -124 801
+60 -68 802
+608 -61 803
+610 -61 804
+358 -61 805
+321 -61 806
+5 -3 807
+48 -3 -61
+208 809 813
+31 810 811
+123 -68 -45
+27 -6 812
+62 -65 -68
+610 814 815
+36 -124 -61
+86 816 820
+37 817 818
+17 -6 -124
+4 -3 819
+15 -229 -272
+15 821 823
+340 822 -124
+35 -272 -6
+442 824 826
+36 -124 825
+1 -94 -6
+159 -124 827
+54 -174 828
+112 -94 -45
+424 830 833
+291 -589 831
+139 -33 832
+204 -33 -27
+105 834 851
+1285 -134 835
+123 836 842
+28 837 838
+25 -68 -438
+102 -65 839
+30 840 841
+35 -3 -196
+180 -45 -6
+37 843 849
+127 844 846
+45 845 -68
+4 -588 -626
+147 847 848
+28 -45 -68
+152 -440 -6
+27 -116 850
+53 -174 -68
+159 852 870
+762 853 855
+36 -116 854
+117 -94 -6
+143 -229 856
+995 857 860
+37 858 859
+27 -124 -6
+4 -68 -556
+1195 861 862
+27 -229 -68
+532 863 865
+4 -439 864
+6 -68 -229
+101 866 867
+37 -45 -68
+856 868 -94
+28 -45 869
+35 -232 -94
+608 871 889
+1194 872 874
+110 -116 873
+4 -252 -219
+259 875 877
+25 -277 876
+16 -375 -555
+1760 -61 878
+183 879 880
+115 -45 -94
+1076 881 883
+6 -45 882
+45 -6 -229
+69 -556 884
+293 -300 885
+1214 886 888
+35 887 -45
+28 -45 -94
+220 -94 -45
+4 890 925
+71 891 897
+1611 892 894
+16 -544 893
+17 -626 -6
+30 -61 895
+59 -277 896
+77 -6 -45
+15 898 905
+188 899 900
+65 -252 -6
+449 -6 901
+39 902 904
+271 -68 903
+26 -68 -6
+27 -6 -68
+617 -45 906
+872 907 909
+17 -252 908
+1 -6 -502
+891 910 911
+26 -174 -68
+912 912 914
+181 -68 913
+86 -68 -45
+573 -68 915
+432 916 917
+25 -6 -68
+149 -68 918
+829 919 920
+1 -68 -45
+584 -45 921
+822 -45 922
+1079 -45 923
+29 -45 924
+47 -45 -6
+208 926 944
+204 -6 927
+103 -45 928
+5 929 931
+35 -6 930
+102 -6 -68
+115 932 933
+6 -196 -6
+509 -68 934
+291 935 937
+35 936 -68
+30 -68 -45
+738 938 939
+28 -68 -6
+411 940 941
+36 -6 -196
+95 942 943
+646 -45 -6
+146 -6 -45
+1611 945 947
+363 946 -94
+29 -124 -45
+505 948 949
+28 -61 -94
+173 950 960
+562 951 953
+15 -124 952
+25 -187 -116
+234 954 955
+6 -68 -375
+461 -45 956
+48 -582 957
+197 -124 958
+332 -45 959
+29 -45 -6
+452 961 965
+197 962 963
+37 -277 -94
+139 -68 964
+37 -6 -68
+1078 966 967
+38 -277 -632
+192 968 970
+17 969 -94
+15 -45 -68
+16 -6 971
+553 -68 972
+976 973 -45
+5 -68 974
+125 975 -45
+112 -45 -6
+71 977 1244
+594 978 1072
+677 979 988
+994 -35 980
+653 981 982
+33 -17 -35
+1081 983 984
+80 -17 -35
+988 985 986
+15 -35 -17
+889 -35 987
+1585 -35 -17
+621 -17 989
+508 990 996
+25 -17 991
+70 992 993
+814 -35 -17
+1060 -26 994
+662 -26 995
+353 -26 -35
+69 997 1036
+564 998 1002
+314 -26 999
+57 -15 1000
+58 -15 1001
+102 -15 -17
+599 1003 1005
+77 -26 1004
+39 -26 -15
+585 1006 1009
+151 1007 1008
+25 -26 -15
+335 -26 -15
+568 1010 1013
+843 1011 1012
+6 -17 -26
+260 -17 -15
+653 -15 1014
+15 1015 1019
+115 1016 1017
+355 -17 -26
+351 -17 1018
+1000 -17 -15
+86 1020 1023
+617 1021 -26
+25 -26 1022
+48 -15 -17
+115 1024 1032
+582 1025 1029
+448 -15 1026
+120 -15 1027
+223 -15 1028
+59 -15 -26
+1180 -15 1030
+85 -17 1031
+224 -17 -26
+784 1033 1034
+44 -26 -17
+717 -26 1035
+53 -26 -15
+393 1037 1046
+1000 1038 1039
+137 -26 -35
+653 -35 1040
+326 -35 1041
+82 -35 1042
+506 1043 1044
+96 -26 -17
+106 -17 1045
+180 -17 -26
+725 1047 1048
+30 -35 -17
+342 -26 1049
+599 1050 1052
+77 -26 1051
+61 -26 -15
+568 1053 1057
+365 1054 1056
+39 -26 1055
+53 -26 -15
+97 -26 -15
+585 1058 1060
+86 -15 1059
+55 -26 -15
+70 1061 -15
+555 -15 1062
+653 1063 1064
+123 -26 -15
+309 -15 1065
+1177 -15 1066
+1351 -15 1067
+511 1068 1069
+61 -26 -15
+444 1070 1071
+698 -26 -15
+190 -15 -26
+575 1073 1136
+70 1074 1100
+26 1075 1079
+658 -233 1076
+76 1077 1078
+25 -559 -364
+122 -559 -584
+69 1080 1081
+155 -359 -247
+1219 1082 1087
+579 1083 1085
+17 1084 -87
+78 -87 -92
+1183 -280 1086
+197 -226 -381
+857 1088 1092
+526 1089 1090
+4 -553 -58
+199 -58 1091
+297 -58 -263
+15 1093 1095
+32 -459 1094
+98 -399 -75
+132 -75 1096
+17 -162 1097
+125 -162 1098
+551 -162 1099
+64 -162 -75
+295 1101 1103
+602 1102 -98
+15 -600 -606
+144 1104 1116
+760 1105 1109
+25 1106 1108
+406 -528 1107
+174 -528 -593
+30 -262 -469
+25 1110 1113
+16 1111 1112
+15 -524 -598
+4 -524 -592
+608 1114 1115
+64 -266 -275
+85 -275 -266
+26 1117 1125
+30 1118 1124
+579 1119 1123
+683 1120 1121
+15 -382 -87
+79 1122 -92
+6 -31 -479
+1 -195 -253
+15 -422 -237
+460 1126 1131
+424 1127 1130
+35 -57 1128
+5 -388 1129
+87 -388 -57
+83 -587 -379
+30 1132 1133
+115 -510 -460
+173 -533 1134
+4 1135 -336
+117 -336 -533
+69 1137 1146
+1167 1138 1139
+542 -154 -78
+1260 1140 1144
+55 1141 1142
+15 -122 -2
+296 -631 1143
+330 -631 -555
+1610 -321 1145
+1445 -134 -2
+845 1147 1196
+521 1148 1157
+460 1149 1153
+86 -189 1150
+358 1151 -149
+5 -189 1152
+61 -189 -149
+70 1154 1155
+482 -202 -95
+4 1156 -278
+1 -113 -518
+70 1158 1168
+1183 1159 1165
+994 1160 1161
+1 -499 -567
+58 1162 1163
+15 -498 -198
+409 -302 1164
+16 -470 -211
+85 -461 1166
+1 -461 1167
+100 -620 -212
+145 1169 1175
+295 1170 1172
+608 -109 1171
+65 -424 -269
+4 1173 -141
+126 1174 -86
+39 -141 -86
+110 1176 1181
+1183 1177 1179
+143 -148 1178
+4 -294 -453
+15 1180 -503
+1 -286 -248
+244 1182 1184
+32 -281 1183
+126 -376 -104
+460 1185 1189
+424 1186 1188
+38 1187 -206
+1 -206 -343
+4 -420 -221
+26 1190 1191
+579 -93 -314
+1 1192 1194
+30 -269 1193
+12 -639 -339
+15 -424 1195
+4 -118 -551
+31 1197 1200
+423 -9 1198
+15 1199 -232
+24 -11 -2
+761 1201 1206
+366 1202 1203
+210 -2 -30
+291 1204 -2
+174 -171 1205
+411 -171 -177
+971 1207 1208
+110 -2 -55
+1610 1209 1216
+520 1210 1214
+32 1211 -173
+65 -161 1212
+250 1213 -218
+50 -161 -197
+114 1215 -321
+4 -392 -171
+339 1217 1222
+295 1218 1219
+37 -78 -55
+1167 -78 1220
+377 1221 -397
+4 -78 -85
+621 1223 1227
+366 1224 1226
+120 1225 -119
+99 -119 -288
+4 -310 -2
+1260 1228 1234
+4 1229 1231
+88 -283 1230
+15 -289 -555
+17 1232 1233
+64 -577 -166
+32 -232 -163
+24 1235 1239
+1244 1236 1238
+15 1237 -615
+4 -407 -627
+52 -555 -240
+247 1240 1243
+366 1241 1242
+84 -288 -119
+70 -2 -134
+521 -202 -2
+339 1245 1527
+534 1246 1328
+346 1247 1287
+440 -239 1248
+984 1249 1250
+112 -34 -19
+393 1251 1258
+599 -34 1252
+397 1253 1257
+79 -34 1254
+16 1255 1256
+45 -34 -19
+26 -34 -19
+224 -34 -19
+110 1259 1266
+290 1260 1262
+97 -34 1261
+614 -34 -19
+1140 1263 1264
+4 -334 -19
+365 -19 1265
+170 -19 -34
+797 -19 1267
+258 1268 1269
+6 -19 -34
+379 1270 1271
+144 -34 -19
+353 1272 1273
+5 -19 -34
+734 1274 1276
+26 -19 1275
+38 -19 -34
+216 1277 1279
+25 -19 1278
+39 -34 -19
+891 -19 1280
+486 1281 1282
+290 -19 -34
+4 1283 -34
+272 1284 1285
+26 -34 -19
+26 1286 -34
+86 -34 -19
+705 1288 1326
+397 1289 1309
+1077 1290 1291
+25 -85 -120
+138 -120 1292
+86 1293 1295
+506 1294 -85
+290 -120 -85
+396 1296 1301
+50 -120 1297
+327 -120 1298
+4 1299 -85
+672 1300 -85
+65 -85 -120
+35 1302 1303
+104 -85 -120
+98 -120 1304
+598 -120 1305
+277 -120 1306
+564 1307 -85
+16 -85 1308
+58 -85 -120
+112 1310 1315
+25 -120 1311
+290 1312 1314
+4 -120 1313
+6 -85 -120
+144 -120 -85
+500 1316 1317
+80 -120 -85
+507 1318 1319
+38 -120 -85
+540 1320 1321
+38 -85 -120
+587 1322 1323
+53 -85 -120
+694 -85 1324
+356 1325 -120
+16 -85 -120
+883 -73 1327
+342 -526 -13
+971 1329 1372
+532 1330 1333
+66 1331 1332
+277 -55 -56
+660 -56 -55
+1009 -56 1334
+290 1335 1346
+562 1336 1339
+172 -56 1337
+637 1338 -55
+113 -55 -56
+161 1340 1342
+318 -56 1341
+219 -56 -55
+291 1343 -56
+344 -55 1344
+135 -56 1345
+37 -55 -56
+393 1347 1352
+762 1348 -56
+58 -56 1349
+211 1350 -55
+5 1351 -56
+1 -56 -55
+30 1353 1355
+17 -56 1354
+4 -55 -56
+722 -56 1356
+209 1357 1362
+110 -55 1358
+762 1359 -56
+88 -55 1360
+49 -55 1361
+64 -55 -56
+112 -55 1363
+271 1364 1366
+28 -55 1365
+87 -55 -56
+695 -56 1367
+1002 -56 1368
+54 1369 1370
+1 -55 -56
+509 1371 -55
+17 -56 -55
+459 1373 1416
+460 1374 1397
+458 1375 1387
+701 -334 1376
+183 1377 1379
+54 -34 1378
+79 -34 -19
+290 1380 1383
+110 1381 1382
+50 -34 -19
+38 -19 -34
+307 1384 1385
+80 -34 -19
+124 -19 1386
+152 -19 -34
+496 1388 1396
+367 -85 1389
+542 -85 1390
+25 1391 1392
+99 -120 -85
+334 -85 1393
+769 -85 1394
+804 1395 -120
+102 -85 -120
+932 -73 -13
+346 1398 1405
+32 1399 1404
+239 -7 1400
+254 -7 1401
+372 -7 1402
+690 1403 -99
+49 -99 -7
+111 -236 -32
+650 1406 1408
+48 1407 -78
+6 -10 -78
+658 1409 1412
+424 -506 1410
+38 -508 1411
+15 -557 -560
+705 1413 1414
+27 -523 -585
+5 1415 -78
+25 -521 -397
+32 1417 1430
+114 -99 1418
+734 1419 1420
+48 -7 -99
+756 -99 1421
+290 1422 1425
+110 1423 1424
+53 -7 -99
+104 -99 -7
+292 1426 1428
+672 -7 1427
+83 -7 -99
+193 -99 1429
+581 -99 -7
+458 1431 1449
+370 1432 1440
+485 -32 1433
+137 -32 1434
+91 -511 1435
+672 -236 1436
+79 -236 1437
+116 -236 1438
+125 -32 1439
+16 -236 -32
+460 1441 1448
+25 -7 1442
+102 -475 1443
+87 -7 1444
+64 1445 1447
+199 -7 1446
+174 -7 -99
+46 -7 -99
+1 -525 -324
+371 1450 1459
+346 1451 1456
+181 -32 1452
+612 -236 1453
+37 -236 1454
+277 -236 1455
+65 -236 -32
+31 -324 1457
+292 1458 -508
+5 -539 -540
+705 1460 1472
+650 1461 1467
+802 1462 1463
+26 -522 -525
+35 -579 1464
+342 1465 -154
+64 -579 1466
+4 -78 -154
+1 1468 1469
+12 -522 -525
+45 1470 1471
+91 -78 -523
+26 -523 -585
+562 1473 1483
+1167 -78 1474
+26 -55 1475
+297 -55 1476
+787 1477 1479
+259 -56 1478
+48 -56 -55
+174 -55 1480
+626 1481 1482
+54 -56 -55
+187 -55 -56
+497 1484 1500
+1123 1485 1486
+1 -78 -10
+500 1487 1489
+25 1488 -154
+4 -10 -525
+46 -154 1490
+59 1491 1492
+1 -154 -227
+182 -227 1493
+382 -154 1494
+430 -154 1495
+748 1496 1497
+238 -78 -154
+292 1498 1499
+1 -78 -154
+96 -154 -78
+1167 1501 1505
+912 -10 1502
+499 1503 -78
+4 -227 1504
+15 -78 -220
+424 1506 1510
+318 -78 1507
+17 -10 1508
+161 -78 1509
+6 -506 -10
+650 1511 1513
+83 -526 1512
+15 -521 -508
+1600 1514 1516
+127 -160 1515
+1 -565 -159
+1084 1517 1519
+137 -521 1518
+139 -521 -397
+495 1520 1521
+50 -521 -397
+48 1522 1524
+127 1523 -159
+4 -526 -397
+12 -560 1525
+27 -397 1526
+93 -526 -56
+24 1528 1946
+271 1529 1665
+197 1530 1591
+29 1531 1538
+30 1532 1536
+210 1533 1534
+17 -181 -45
+65 -181 1535
+262 -571 -184
+123 1537 -45
+6 -110 -5
+439 1539 1543
+39 1540 1541
+35 -110 -530
+145 -427 1542
+1 -5 -135
+147 1544 1548
+30 1545 1547
+144 1546 -184
+15 -144 -181
+410 -110 -5
+113 1549 1552
+115 1550 1551
+110 -181 -44
+6 -184 -110
+99 1553 1556
+212 1554 1555
+15 -621 -184
+28 -623 -5
+984 1557 1558
+39 -507 -433
+569 1559 1561
+239 1560 -45
+16 -142 -184
+26 1562 1565
+4 1563 1564
+1 -622 -110
+25 -45 -142
+269 1566 1569
+678 -45 1567
+103 -45 1568
+549 -45 -5
+110 1570 1574
+39 1571 1572
+76 -110 -142
+155 -142 1573
+28 -5 -45
+161 1575 1579
+623 -45 1576
+39 -5 1577
+1 -5 1578
+17 -5 -142
+104 -110 1580
+561 -110 1581
+112 1582 1583
+49 -5 -45
+562 1584 1585
+323 -5 -45
+454 -45 1586
+53 -45 1587
+175 -110 1588
+278 -110 1589
+327 -110 1590
+47 -110 -5
+579 1592 1636
+568 1593 1604
+115 1594 1600
+334 1595 1596
+15 -485 -514
+522 1597 1598
+105 -304 -241
+50 -241 1599
+143 -241 -304
+16 1601 -179
+15 1602 -245
+25 -618 1603
+99 -454 -304
+147 1605 1611
+30 1606 1609
+379 1607 -303
+16 -219 1608
+17 -405 -444
+80 -311 1610
+15 -454 -245
+310 1612 1615
+6 1613 1614
+15 -241 -291
+29 -303 -311
+884 1616 1618
+291 -303 1617
+4 -501 -485
+761 -303 1619
+441 1620 1622
+612 -219 1621
+79 -179 -245
+526 1623 1625
+5 -219 1624
+27 -245 -350
+915 1626 1627
+4 -245 -291
+88 1628 1631
+16 1629 1630
+15 -444 -179
+1 -245 -241
+78 -441 1632
+154 1633 1635
+482 -245 1634
+63 -245 -179
+193 -245 -179
+147 1637 1639
+35 -413 1638
+4 -612 -532
+483 1640 1642
+17 1641 -456
+6 -200 -49
+290 1643 1645
+29 -413 1644
+39 -45 -186
+726 1646 1648
+4 -509 1647
+25 -315 -200
+15 1649 1651
+932 -200 1650
+46 -244 -192
+441 1652 1653
+77 -244 -186
+25 1654 1655
+4 -478 -200
+386 1656 1657
+6 -505 -244
+26 1658 1659
+4 -200 -244
+358 1660 1663
+340 1661 1662
+5 -186 -200
+1 -200 -192
+57 -192 1664
+104 -192 -186
+521 1666 1721
+563 1667 1670
+29 -410 1668
+64 -312 1669
+6 -342 -580
+608 1671 1675
+84 1672 1673
+173 -117 -114
+27 -114 1674
+151 -342 -117
+397 1676 1681
+31 1677 1680
+106 1678 1679
+26 -633 -11
+102 -322 -46
+79 -37 -11
+704 1682 1686
+31 1683 1685
+48 -322 1684
+84 -114 -46
+77 -37 -11
+705 1687 1688
+37 -230 -46
+345 1689 1691
+15 -46 1690
+25 -322 -117
+99 1692 1693
+110 -327 -37
+885 1694 1696
+372 1695 -37
+1 -117 -42
+617 1697 1698
+5 -117 -37
+573 -117 1699
+344 1700 1704
+77 -114 1701
+57 -117 1702
+28 1703 -37
+54 -37 -11
+298 -37 1705
+380 1706 1707
+17 -114 -117
+646 1708 1709
+82 -117 -114
+1202 1710 1711
+1 -117 -114
+447 1712 1715
+17 1713 1714
+53 -117 -11
+30 -114 -117
+307 -117 1716
+711 1717 1718
+115 -114 -11
+237 -117 1719
+90 -37 1720
+489 -37 -11
+811 1722 1755
+1084 1723 1737
+145 -282 1724
+29 1725 1728
+110 -138 1726
+15 -329 1727
+30 -516 -100
+223 1729 1730
+5 -352 -545
+84 -138 1731
+16 1732 1734
+35 -175 1733
+206 -175 -100
+88 1735 1736
+25 -175 -100
+45 -175 -100
+984 1738 1739
+6 -489 -543
+393 1740 1742
+6 1741 -128
+1 -133 -190
+561 1743 1744
+25 -128 -133
+454 1745 1747
+269 -81 1746
+30 -133 -615
+109 -128 1748
+516 1749 1752
+6 -128 1750
+526 -81 1751
+17 -81 -128
+557 -128 1753
+363 1754 -81
+35 -81 -128
+371 1756 1805
+37 1757 1763
+46 -143 1758
+55 1759 1762
+311 1760 1761
+1 -396 -249
+25 -386 -23
+26 -267 -380
+582 1764 1775
+291 1765 1767
+60 -240 1766
+16 -240 -47
+48 1768 1769
+1 -415 -47
+727 1770 1771
+1 -249 -47
+64 -47 1772
+66 1773 1774
+60 -23 -47
+212 -47 -23
+159 1776 1790
+502 1777 1780
+79 1778 1779
+4 -71 -474
+116 -345 -47
+65 1781 1784
+95 -23 1782
+4 -249 1783
+39 -345 -145
+316 -256 1785
+508 -267 1786
+5 1787 1789
+544 -267 1788
+79 -256 -47
+122 -47 -23
+17 1791 1799
+173 1792 1797
+28 1793 1794
+15 -256 -47
+124 -472 1795
+16 1796 -267
+26 -267 -23
+1151 -488 1798
+65 -240 -23
+57 1800 1801
+61 -267 -23
+1 1802 1803
+61 -145 -267
+444 1804 -167
+4 -472 -267
+596 1806 1850
+658 1807 1829
+379 1808 1813
+205 1809 1810
+77 -199 -79
+16 1811 -448
+35 -414 1812
+150 -333 -90
+1322 1814 1815
+58 -616 -309
+496 1816 1817
+4 -51 -423
+361 1818 1819
+4 -79 -214
+268 1820 1821
+395 -126 -79
+410 -126 1822
+668 1823 1824
+16 -126 -90
+58 -90 1825
+44 1826 -126
+619 -90 1827
+98 -90 1828
+50 -90 -79
+1086 1830 1831
+58 -203 -484
+290 1832 1836
+379 1833 1835
+15 -487 1834
+31 -84 -467
+15 -407 -185
+145 1837 1838
+31 -185 -480
+103 1839 1841
+58 -590 1840
+65 -84 -185
+6 1842 1847
+76 1843 -185
+280 1844 1845
+5 -185 -617
+375 -185 1846
+343 -185 -84
+522 -203 1848
+50 -487 1849
+93 -185 -84
+32 1851 1876
+397 -8 1852
+563 1853 1855
+4 -609 1854
+15 -605 -323
+704 1856 1857
+348 -4 -8
+519 1858 1861
+12 1859 1860
+39 -8 -319
+1 -4 -1
+393 1862 1863
+35 -297 -4
+497 1864 1865
+528 -4 -1
+182 -4 1866
+290 -4 1867
+46 -1 1868
+26 -4 1869
+29 -4 1870
+80 -4 1871
+298 -4 1872
+349 -4 1873
+158 -4 1874
+169 -4 1875
+307 -4 -1
+295 1877 1897
+197 1878 1891
+599 1879 1884
+29 1880 1881
+30 -70 -137
+48 -136 1882
+485 -136 1883
+44 -137 -136
+115 1885 1889
+104 1886 1888
+5 -110 1887
+6 -463 -5
+15 -142 -45
+268 1890 -137
+1 -318 -136
+579 1892 1894
+1 -304 1893
+57 -245 -179
+16 1895 1896
+15 -126 -90
+29 -49 -192
+534 1898 1919
+734 1899 1911
+144 1900 1901
+25 -426 -372
+482 1902 1904
+39 -20 1903
+15 -425 -426
+25 -372 1905
+599 -372 1906
+411 -21 1907
+395 -21 1908
+5 -21 1909
+682 1910 -20
+39 -20 -21
+145 -260 1912
+1151 1913 1914
+28 -20 -394
+115 1915 -20
+25 1916 1917
+26 -20 -446
+209 -20 1918
+65 -20 -21
+424 1920 1935
+115 1921 1929
+1 1922 1923
+31 -66 -330
+727 1924 1925
+27 -330 -290
+83 1926 1927
+156 -330 -231
+65 -330 1928
+612 -330 -67
+209 -344 1930
+617 -290 1931
+232 -258 1932
+15 -67 1933
+159 -67 1934
+57 -67 -66
+31 1936 1941
+498 1937 1939
+39 -1 1938
+61 -1 -4
+117 1940 -84
+4 -360 -66
+16 1942 1944
+1 -319 1943
+15 -418 -574
+38 1945 -615
+4 -581 -627
+845 1947 2133
+370 1948 2014
+149 1949 1990
+196 1950 1964
+599 1951 1956
+609 1952 1953
+54 -377 -373
+4 1954 1955
+79 -198 -455
+64 -568 -211
+125 1957 1961
+84 1958 1960
+4 -205 1959
+96 -296 -498
+4 -198 -370
+61 -602 1962
+127 -482 1963
+77 -482 -417
+28 1965 1980
+143 1966 1968
+582 -313 1967
+52 -624 -443
+76 1969 1977
+269 1970 1971
+1 -432 -371
+582 -295 1972
+38 1973 1975
+330 -158 1974
+15 -250 -313
+4 1976 -238
+1 -250 -517
+376 -158 1978
+1 -575 1979
+4 -629 -636
+115 1981 1986
+340 1982 1983
+1 -356 -591
+98 1984 1985
+17 -250 -296
+4 -132 -400
+133 1987 1988
+171 -513 -182
+35 1989 -132
+15 -578 -371
+658 1991 2003
+115 1992 1995
+143 -118 1993
+25 -552 1994
+28 -354 -550
+4 1996 2000
+16 1997 1999
+28 1998 -447
+1 -491 -429
+17 -564 -604
+6 2001 2002
+5 -537 -341
+77 -377 -365
+1330 2004 2009
+579 2005 2006
+17 -115 -279
+59 -512 2007
+15 -561 2008
+65 -594 -201
+342 2010 2011
+62 -158 -320
+4 2012 2013
+1 -326 -246
+48 -328 -383
+271 2015 2049
+579 2016 2034
+144 2017 2023
+209 2018 2020
+379 -326 2019
+64 -299 -246
+25 -637 2021
+126 2022 -93
+15 -93 -558
+244 2024 2028
+964 2025 2026
+4 -383 -393
+132 2027 -531
+54 -531 -96
+316 2029 2031
+6 -328 2030
+25 -172 -431
+30 -428 2032
+15 2033 -542
+1 -328 -428
+105 2035 2037
+37 2036 -123
+91 -123 -473
+144 2038 2043
+125 2039 2040
+39 -86 -141
+5 2041 2042
+1 -314 -490
+25 -546 -338
+763 2044 2046
+1 -451 2045
+4 -634 -391
+25 -217 2047
+117 -215 2048
+77 -215 -316
+144 2050 2071
+846 2051 2059
+147 2052 2055
+1183 2053 2054
+25 -625 -298
+15 -264 -273
+32 -248 2056
+521 -294 2057
+1 2058 -286
+17 -243 -503
+143 2060 2065
+424 2061 2062
+16 -436 -285
+397 2063 2064
+32 -461 -95
+28 -148 -384
+395 2066 2068
+6 -261 2067
+32 -139 -495
+115 2069 2070
+4 -450 -259
+1 -351 -504
+530 2072 2083
+110 2073 2078
+111 2074 2076
+347 2075 -278
+32 -281 -518
+31 -221 2077
+17 -207 -107
+32 2079 2082
+358 2080 -261
+1 -495 2081
+98 -495 -261
+48 -261 -409
+577 2084 2093
+114 2085 2086
+568 -437 -172
+244 2087 2091
+369 2088 2090
+159 -113 2089
+5 -39 -113
+4 -268 -468
+197 -222 2092
+25 -189 -176
+342 2094 2102
+562 2095 2097
+931 -103 2096
+547 -369 -305
+270 2098 2099
+127 -483 -449
+5 -341 2100
+16 -213 2101
+17 -80 -361
+1183 2103 2105
+508 -148 2104
+110 -401 -80
+684 2106 2112
+509 2107 2108
+239 -113 -39
+15 2109 2111
+1 -494 2110
+4 -495 -109
+16 -261 -287
+658 2113 2118
+526 2114 2115
+26 -384 -155
+86 2116 2117
+16 -204 -462
+6 -254 -354
+25 2119 2121
+199 2120 -486
+27 -217 -206
+1084 2122 2124
+508 -131 2123
+4 -205 -287
+561 2125 2127
+1 -215 2126
+6 -316 -638
+32 2128 2129
+4 -461 -209
+85 2130 2131
+31 -417 -209
+495 -83 2132
+582 -83 -335
+1260 2134 2284
+608 2135 2174
+609 2136 2145
+370 2137 2140
+28 -52 2138
+86 2139 -16
+1 -150 -270
+510 -52 2141
+210 2142 2143
+1 -77 -52
+132 -52 2144
+239 -548 -54
+521 2146 2151
+459 2147 2148
+5 -129 -54
+86 2149 2150
+1 -18 -54
+46 -16 -52
+144 2152 2158
+65 2153 2155
+147 -27 2154
+31 -101 -445
+5 2156 2157
+1 -308 -519
+36 -168 -147
+32 -24 2159
+596 2160 2163
+37 2161 2162
+4 -232 -61
+79 -64 -24
+125 2164 2168
+332 2165 2167
+15 -308 2166
+16 -535 -50
+15 -18 -232
+183 2169 2170
+5 -252 -24
+1194 -308 2171
+27 -500 2172
+534 -129 2173
+126 -129 -45
+31 2175 2192
+534 2176 2178
+164 -102 2177
+144 -101 -129
+32 2179 2184
+506 2180 2181
+27 -106 -147
+15 -3 2182
+413 -368 2183
+458 -105 -150
+39 2185 2189
+337 2186 2188
+35 -170 2187
+49 -168 -147
+63 -54 -61
+931 -368 2190
+46 -355 2191
+84 -169 -166
+39 2193 2252
+340 2194 2203
+135 2195 2200
+5 2196 2197
+51 -178 -105
+137 2198 2199
+45 -6 -416
+96 -378 -464
+292 -150 2201
+1 -163 2202
+32 -147 -445
+17 2204 2224
+1105 2205 2210
+173 2206 2209
+32 2207 2208
+46 -187 -3
+28 -18 -6
+618 -52 -54
+144 2211 2213
+90 -378 2212
+155 -308 -166
+135 2214 2218
+125 2215 2216
+96 -586 -166
+26 -3 2217
+4 -389 -538
+50 -6 2219
+806 2220 2221
+1 -166 -147
+36 2222 2223
+27 -589 -3
+26 -3 -163
+1263 2225 2229
+65 -147 2226
+62 -147 2227
+103 2228 -163
+57 -16 -548
+391 2230 2234
+529 2231 2232
+5 -6 -12
+809 2233 -147
+4 -52 -18
+763 2235 2236
+35 -496 -308
+159 2237 2246
+1 2238 2239
+392 -166 -163
+518 -147 2240
+55 2241 2244
+126 2242 2243
+114 -6 -129
+4 -166 -147
+311 2245 -150
+6 -166 -6
+63 2247 2248
+45 -355 -129
+365 2249 2250
+35 -225 -170
+58 -163 2251
+4 -163 -166
+968 2253 2256
+971 -163 2254
+530 -163 2255
+405 -163 -166
+520 2257 2263
+79 2258 2259
+44 -147 -150
+325 2260 2261
+32 -24 -355
+1 -527 2262
+5 -187 -445
+268 2264 2268
+1183 -101 2265
+1035 2266 -163
+98 2267 -105
+32 -105 -163
+108 2269 2278
+411 2270 2271
+4 -168 -101
+347 2272 2274
+16 -163 2273
+4 -308 -166
+448 2275 2276
+15 -105 -232
+132 -166 2277
+144 -166 -150
+964 2279 2281
+110 2280 -166
+1 -163 -147
+86 2282 2283
+12 -576 -166
+44 -105 -166
+575 2285 2352
+31 2286 2293
+25 2287 2289
+32 -112 2288
+28 -257 -63
+424 2290 -346
+608 2291 2292
+45 -390 -408
+1 -162 -408
+371 2294 2316
+196 2295 2300
+526 2296 2299
+198 -28 2297
+250 2298 -74
+77 -74 -28
+101 -28 -74
+932 2301 2306
+109 2302 2305
+77 -121 2303
+564 2304 -363
+84 -363 -357
+15 -452 -608
+530 2307 2309
+86 -235 2308
+4 -547 -132
+209 2310 2311
+38 -573 -191
+221 2312 2314
+4 -513 2313
+15 -563 -635
+99 -121 2315
+173 -569 -151
+110 2317 2331
+733 2318 2322
+608 2319 2320
+28 -404 -165
+831 -69 2321
+4 -358 -404
+27 2323 2327
+15 2324 2326
+106 2325 -76
+39 -76 -97
+35 -76 -97
+196 -224 2328
+15 2329 2330
+28 -121 -572
+6 -434 -465
+658 2332 2339
+734 2333 2334
+26 -36 -325
+112 2335 2336
+76 -541 -628
+4 2337 2338
+1 -435 -599
+25 -395 -603
+424 2340 2344
+340 2341 2342
+36 -140 -152
+1 -75 2343
+123 -362 -162
+4 2345 2349
+1 2346 2347
+25 -534 -411
+16 -558 2348
+25 -14 -481
+506 2350 2351
+17 -457 -337
+84 -601 -234
+366 2353 2427
+622 2354 2360
+531 2355 2357
+92 -288 2356
+106 -2 -30
+144 -180 2358
+37 -2 2359
+54 -2 -25
+371 2361 2391
+858 2362 2364
+1 -288 2363
+15 -119 -25
+510 2365 2366
+103 -2 -59
+1129 -59 2367
+703 -59 2368
+183 2369 2371
+64 -2 2370
+114 -2 -59
+109 -59 2372
+214 -59 2373
+995 2374 2375
+238 -2 -59
+457 -2 2376
+326 2377 2378
+79 -2 -59
+25 -59 2379
+245 -59 2380
+305 -59 2381
+832 2382 2383
+1 -59 -2
+549 2384 2385
+1 -2 -59
+406 2386 2387
+15 -59 -2
+38 2388 -2
+290 2389 2390
+1 -2 -59
+147 -59 -2
+424 2392 2403
+621 2393 2395
+29 -157 2394
+200 -2 -59
+144 2396 2398
+563 -307 2397
+12 -307 -2
+147 -25 2399
+395 -477 2400
+29 -2 2401
+36 2402 -157
+15 -2 -157
+460 2404 2405
+521 -30 -25
+534 2406 2412
+112 -119 2407
+346 2408 2409
+85 -25 -276
+577 2410 -2
+79 -119 2411
+123 -288 -30
+246 -276 2413
+495 2414 2418
+143 2415 2416
+15 -30 -2
+25 -134 2417
+84 -119 -2
+290 2419 2420
+111 -30 -2
+762 2421 2423
+147 -30 2422
+132 -30 -2
+210 2424 2426
+143 2425 -2
+1 -30 -630
+181 -157 -2
+182 2428 2436
+371 2429 2430
+28 -32 -539
+534 2431 2433
+346 -34 2432
+15 -41 -85
+32 -7 2434
+1 2435 -506
+48 -522 -557
+594 2437 2445
+109 -26 2438
+210 2439 2440
+290 -35 -17
+344 2441 2442
+15 -35 -26
+815 2443 -17
+16 2444 -17
+1 -26 -35
+1610 2446 2469
+532 2447 2451
+183 2448 2449
+85 -218 -208
+28 -197 2450
+15 -161 -173
+534 2452 2453
+64 -562 -392
+1849 -321 2454
+1763 2455 2457
+32 -210 2456
+4 -596 -392
+657 2458 2463
+358 2459 2461
+17 -173 2460
+4 -171 -387
+277 -251 2462
+59 -251 -353
+370 2464 2465
+17 -476 -251
+345 -171 2466
+968 -171 2467
+125 2468 -177
+29 -177 -171
+1291 -134 -2

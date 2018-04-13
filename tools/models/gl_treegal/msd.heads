@@ -1,0 +1,223 @@
+NOUN	Gender=Masc	Number=Sing
+_	_
+ADP	AdpType=Prep
+DET	Definite=Def	Gender=Fem	Number=Sing	PronType=Art
+NOUN	Gender=Fem	Number=Sing
+PUNCT	_
+ADJ	Gender=Fem	Number=Sing
+DET	Definite=Def	Gender=Fem	Number=Plur	PronType=Art
+NOUN	Gender=Fem	Number=Plur
+ADJ	Gender=Fem	Number=Plur
+CCONJ	_
+ADJ	Degree=Cmp	Gender=Masc	Number=Sing
+VERB	Gender=Masc	Number=Plur	VerbForm=Part
+VERB	VerbForm=Inf
+DET	Definite=Def	Gender=Masc	Number=Sing	PronType=Art
+DET	Gender=Fem	Number=Sing	PronType=Dem
+DET	Definite=Def	Gender=Masc	Number=Plur	PronType=Art
+NOUN	Gender=Masc	Number=Plur
+VERB	Mood=Ind	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin
+ADV	_
+DET	Gender=Fem	Number=Sing	Number[psor]=Plur	Person=1	Poss=Yes	PronType=Prs
+PRON	Gender=Masc	Number=Plur	Person=1	PronType=Prs
+PRON	Gender=Masc	Number=Plur	PronType=Ind
+DET	Definite=Ind	Gender=Fem	Number=Sing	PronType=Art
+PRON	Gender=Fem	Number=Sing	PronType=Rel
+VERB	Mood=Sub	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin
+VERB	Gender=Fem	Number=Sing	VerbForm=Part
+ADJ	Gender=Masc	Number=Plur
+AUX	VerbForm=Inf
+NOUN	Gender=Com	Number=Plur
+NUM	Gender=Fem	Number=Plur	NumType=Card
+VERB	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin
+ADV	PronType=Rel
+PROPN	_
+DET	Gender=Masc	Number=Plur	Number[psor]=Sing	Person=3	Poss=Yes	PronType=Prs
+SCONJ	_
+PRON	Gender=Masc	Number=Plur	PronType=Rel
+VERB	Mood=Ind	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin
+ADJ	Gender=Masc	Number=Sing
+VERB	Number=Plur	Person=3	VerbForm=Inf
+VERB	Mood=Ind	Number=Sing	Person=3	Tense=Fut	VerbForm=Fin
+PRON	Case=Dat	Clitic=Yes	Gender=Fem	Number=Sing	Person=3	PronType=Prs
+PROPN	Gender=Fem	Number=Sing
+AUX	Mood=Ind	Number=Sing	Person=3	Tense=Fut	VerbForm=Fin
+PROPN	Gender=Masc	Number=Sing
+PRON	Gender=Masc	Number=Sing	PronType=Ind
+AUX	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin
+PRON	Gender=Masc	Number=Sing	Person=3	PronType=Art
+DET	Definite=Ind	Gender=Masc	Number=Sing	PronType=Art
+AUX	Mood=Ind	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin
+PRON	Clitic=Yes	Gender=Com	Person=3	PronType=Prs
+PROPN	Gender=Masc
+DET	Gender=Fem	Number=Sing	Number[psor]=Sing	Person=3	Poss=Yes	PronType=Prs
+VERB	VerbForm=Ger
+DET	Gender=Masc	Number=Plur	PronType=Ind
+PRON	Case=Acc	Clitic=Yes	Gender=Masc	Number=Sing	Person=3	PronType=Prs
+VERB	Mood=Ind	Number=Plur	Person=3	Tense=Imp	VerbForm=Fin
+VERB	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Fin
+NUM	NumType=Card
+ADJ	_
+DET	Gender=Masc	Number=Sing	PronType=Dem
+AUX	Mood=Ind	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin
+PRON	Gender=Fem	Number=Plur	PronType=Rel
+CCONJ	Polarity=Neg
+PRON	Case=Dat	Clitic=Yes	Gender=Com	Number=Sing	Person=3	PronType=Prs
+AUX	Mood=Ind	Number=Plur	Person=1	Tense=Imp	VerbForm=Fin
+VERB	Mood=Sub	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin
+VERB	Mood=Ind	Number=Sing	Person=3	Tense=Imp	VerbForm=Fin
+PRON	Case=Nom	Gender=Masc	Number=Sing	Person=3	PronType=Prs
+ADV	Polarity=Neg
+NUM	Gender=Fem	Number=Sing	NumType=Ord
+DET	Gender=Masc	Number=Sing	PronType=Ind
+PRON	Gender=Masc	Number=Sing	PronType=Rel
+AUX	Mood=Cnd,Ind	Number=Sing	Person=3	VerbForm=Fin
+AUX	Mood=Sub	Number=Sing	Person=3	Tense=Past	VerbForm=Fin
+PRON	Case=Dat	Clitic=Yes	Gender=Masc	Number=Sing	Person=3	PronType=Prs
+NUM	Gender=Masc	Number=Sing	NumType=Card
+NUM	Gender=Masc	Number=Sing	NumType=Ord
+AUX	Mood=Ind	Number=Sing	Person=3	Tense=Imp	VerbForm=Fin
+AUX	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Fin
+VERB	Gender=Masc	Number=Sing	VerbForm=Part
+PRON	Gender=Masc	Number=Sing	Person=3	PronType=Prs
+VERB	Mood=Ind	Number=Plur	Person=3	Tense=Fut	VerbForm=Fin
+NUM	Gender=Masc	Number=Plur	NumType=Card
+DET	Gender=Fem	Number=Sing	PronType=Ind
+ADP	AdpType=Prep	Polarity=Neg
+DET	Gender=Fem	Number=Plur	Number[psor]=Plur	Person=3	Poss=Yes	PronType=Prs
+DET	Gender=Fem	Number=Plur	PronType=Ind
+VERB	Mood=Sub	Number=Sing	Person=3	Tense=Past	VerbForm=Fin
+PROPN	Gender=Fem
+DET	Gender=Fem	Number=Sing	Number[psor]=Plur	Person=3	Poss=Yes	PronType=Prs
+ADJ	Gender=Com	Number=Sing
+PRON	Gender=Masc	Number=Plur	Person=3	PronType=Art
+VERB	Mood=Ind	Number=Plur	Person=3	Tense=Past	VerbForm=Fin
+DET	Gender=Fem	Number=Plur	PronType=Dem
+PRON	Case=Nom	Gender=Com	Number=Sing	Person=3	PronType=Prs
+VERB	Mood=Ind	Number=Sing	Person=1	Tense=Pqp	VerbForm=Fin
+VERB	Mood=Ind	Number=Plur	Person=1	Tense=Past	VerbForm=Fin
+DET	Gender=Masc	Number=Sing	Number[psor]=Plur	Person=1	Poss=Yes	PronType=Prs
+ADJ	Degree=Sup	Gender=Fem	Number=Sing
+PRON	Gender=Fem	Number=Sing	Person=3	PronType=Prs
+VERB	Mood=Ind	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin
+PRON	Case=Nom	Gender=Com	Number=Sing	Person=1	PronType=Prs
+DET	Gender=Masc	Number=Sing	Number[psor]=Sing	Person=3	Poss=Yes	PronType=Prs
+VERB	Gender=Fem	Number=Plur	VerbForm=Part
+ADJ	Degree=Cmp	Gender=Fem	Number=Plur
+DET	Gender=Masc	Number=Plur	PronType=Dem
+AUX	Mood=Ind	Number=Sing	Person=3	Tense=Pqp	VerbForm=Fin
+DET	Gender=Masc	Number=Plur	Number[psor]=Plur	Person=3	Poss=Yes	PronType=Prs
+PRON	Gender=Neut	Number=Sing	PronType=Dem
+AUX	Mood=Ind	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin
+PRON	Gender=Masc	Number=Sing	PronType=Int
+ADV	PronType=Int
+VERB	Mood=Ind	Number=Sing	Person=1	Tense=Fut	VerbForm=Fin
+ADJ	Degree=Cmp	Gender=Fem	Number=Sing
+PRON	Case=Dat	Clitic=Yes	Gender=Masc	Number=Plur	Person=3	PronType=Prs
+DET	Gender=Masc	Number=Plur	Number[psor]=Plur	Person=1	Poss=Yes	PronType=Prs
+AUX	Mood=Cnd,Ind	Number=Plur	Person=1
+AUX	Number=Plur	Person=1	VerbForm=Inf
+ADJ	Gender=Com	Number=Plur
+VERB	Number=Plur	Person=1	VerbForm=Inf
+DET	Gender=Masc	Number=Sing	PronType=Int
+PRON	Gender=Masc	Number=Sing	PronType=Dem
+ADJ	Number=Sing
+PRON	Gender=Com	Number=Sing	PronType=Ind
+ADJ	Degree=Cmp	Gender=Masc	Number=Plur
+VERB	Mood=Ind	Number=Plur	Person=1	Tense=Fut	VerbForm=Fin
+PRON	Gender=Com	Number=Sing	PronType=Rel
+DET	Definite=Ind	Gender=Fem	Number=Plur	PronType=Art
+AUX	Mood=Ind	Number=Plur	Person=3	Tense=Fut	VerbForm=Fin
+PRON	Gender=Fem	Number=Sing	Person=3	PronType=Art
+AUX	Mood=Ind	Number=Plur	Person=1	Tense=Past	VerbForm=Fin
+PROPN	Gender=Fem	Number=Plur
+AUX	Mood=Sub	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin
+PRON	PronType=Prs
+PRON	Gender=Fem	Number=Plur	PronType=Ind
+VERB	Mood=Cnd,Ind	Number=Sing	Person=3	VerbForm=Fin
+PRON	Case=Dat	Clitic=Yes	Gender=Com	Number=Sing	Person=1	PronType=Prs
+VERB	Mood=Ind	Number=Sing	Person=1	Tense=Past	VerbForm=Fin
+PRON	Case=Dat	Clitic=Yes	Gender=Com	Number=Plur	Person=1	PronType=Prs
+NOUN	_
+PRON	Gender=Com	Number=Sing	Person=1	PronType=Prs
+DET	PronType=Art
+PRON	Case=Acc	Clitic=Yes	Gender=Com	Number=Plur	Person=1	PronType=Prs
+DET	Gender=Fem	Number=Plur	Number[psor]=Sing	Person=3	Poss=Yes	PronType=Prs
+X	_
+VERB	Mood=Cnd,Ind	Number=Plur	Person=3	VerbForm=Fin
+AUX	Mood=Sub	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin
+VERB	Mood=Ind	Number=Sing	Person=3	Tense=Pqp	VerbForm=Fin
+DET	Definite=Ind	Gender=Masc	Number=Plur	PronType=Art
+PRON	Case=Acc	Clitic=Yes	Gender=Fem	Number=Plur	Person=3	PronType=Prs
+ADP	_
+DET	Gender=Masc	Number=Plur	Number[psor]=Sing	Person=1	Poss=Yes	PronType=Prs
+AUX	Mood=Ind	Number=Plur	Person=3	Tense=Imp	VerbForm=Fin
+PRON	Gender=Com	PronType=Int
+PRON	Gender=Masc	Number=Plur	PronType=Dem
+PRON	Gender=Fem	Number=Sing	PronType=Ind
+DET	Gender=Masc	Number=Plur	PronType=Int
+AUX	VerbForm=Ger
+ADJ	Degree=Sup	Gender=Masc	Number=Sing
+AUX	Mood=Sub	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin
+PRON	Clitic=Yes	Gender=Masc	Number=Plur	Person=1	PronType=Prs
+PRON	PronType=Ind
+PRON	Gender=Com	Number=Plur	PronType=Rel
+PRON	Gender=Fem	Number=Plur	Person=3	PronType=Prs
+PROPN	Gender=Masc	Number=Plur
+PRON	Gender=Com	Number=Plur	Person=1	PronType=Prs
+PRON	Case=Acc	Clitic=Yes	Gender=Fem	Number=Sing	Person=3	PronType=Prs
+AUX	Mood=Ind	Number=Sing	Person=2	Tense=Pres	VerbForm=Fin
+VERB	Mood=Ind	Number=Sing	Person=2	Tense=Pres	VerbForm=Fin
+PRON	Case=Dat	Clitic=Yes	Gender=Com	Number=Sing	Person=2	PronType=Prs
+PRON	Case=Dat	Clitic=Yes	Gender=Com	Number=Plur	Person=3	PronType=Prs
+PRON	Case=Acc	Clitic=Yes	Gender=Masc	Number=Plur	Person=3	PronType=Prs
+AUX	Mood=Sub	Number=Plur	Person=3	Tense=Past	VerbForm=Fin
+DET	Gender=Fem	Number=Plur	PronType=Rel
+VERB	Mood=Sub	Number=Plur	Person=3	Tense=Past	VerbForm=Fin
+VERB	Mood=Sub	Number=Plur	Person=1	Tense=Past	VerbForm=Fin
+ADJ	Gender=Com
+PRON	Gender=Fem	Number=Sing	PronType=Dem
+PRON	Gender=Com	PronType=Rel
+AUX	Gender=Masc	Number=Sing	VerbForm=Part
+PRON	Gender=Com	Number=Sing	PronType=Int
+PRON	Gender=Fem	Number=Plur	PronType=Dem
+DET	Gender=Masc	Number=Sing	Number[psor]=Plur	Person=3	Poss=Yes	PronType=Prs
+INTJ	_
+VERB	Mood=Sub	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin
+NOUN	Gender=Com	Number=Sing
+PRON	Case=Acc	Clitic=Yes	Gender=Com	Number=Sing	Person=1	PronType=Prs
+VERB	Mood=Ind	Number=Sing	Person=1	Tense=Imp	VerbForm=Fin
+DET	Gender=Fem	Number=Plur	Number[psor]=Plur	Person=1	Poss=Yes	PronType=Prs
+PRON	Case=Nom	Gender=Com	Number=Plur	Person=1	PronType=Prs
+DET	Gender=Fem	Number=Sing	Number[psor]=Sing	Person=1	Poss=Yes	PronType=Prs
+DET	Gender=Masc	Number=Sing	Number[psor]=Sing	Person=1	Poss=Yes	PronType=Prs
+PRON	Gender=Fem	Number=Plur	Person=3	PronType=Art
+NUM	Gender=Fem	Number=Sing	NumType=Card
+AUX	Mood=Ind	Number=Plur	Person=3	Tense=Past	VerbForm=Fin
+PRON	Gender=Masc	Number=Plur	Person=3	PronType=Prs
+PRON	Case=Acc	Clitic=Yes	Gender=Masc	Number=Plur	Person=1	PronType=Prs
+NUM	Gender=Com	Number=Plur	NumType=Card
+NUM	Gender=Masc	Number=Plur	NumType=Ord
+DET	Gender=Fem	Number=Sing	PronType=Rel
+VERB	Mood=Ind	VerbForm=Fin
+PRON	Case=Nom	Gender=Masc	Number=Sing	Person=2	PronType=Prs
+PRON	Case=Acc	Clitic=Yes	Gender=Masc	Number=Sing	Person=2	PronType=Prs
+PRON	Case=Dat	Clitic=Yes	Gender=Masc	Number=Sing	Person=1	PronType=Prs
+VERB	Mood=Imp	Number=Sing	Person=2	VerbForm=Fin
+VERB	Mood=Ind	Number=Plur	Person=3	Tense=Pqp	VerbForm=Fin
+PRON	Case=Dat	Clitic=Yes	Gender=Fem	Number=Plur	Person=3	PronType=Prs
+AUX	Mood=Ind	Number=Plur	Person=3	Tense=Pqp	VerbForm=Fin
+SYM	_
+ADJ	AdpType=Prep
+VERB	Mood=Ind	Number=Sing	Person=2	Tense=Past	VerbForm=Fin
+DET	Gender=Fem	Number=Plur	PronType=Int
+VERB	Mood=Ind	Number=Plur	Person=1	Tense=Imp	VerbForm=Fin
+PRON	Case=Acc	Clitic=Yes	Gender=Masc	Number=Sing	Person=1	PronType=Prs
+PRON	Clitic=Yes	Gender=Masc	Number=Sing	Person=1	PronType=Prs
+PRON	Gender=Fem	Number=Sing	PronType=Int
+PRON	Gender=Fem	Number=Plur	PronType=Int
+VERB	Mood=Sub	Number=Sing	Person=2	Tense=Pres	VerbForm=Fin
+PRON	Gender=Masc	Number=Plur	PronType=Int
+PRON	Clitic=Yes	Gender=Com	Number=Sing	Person=1	PronType=Prs
+PRON	Case=Nom	Gender=Fem	Number=Sing	Person=1	PronType=Prs
+PRON	Case=Nom	Gender=Masc	Number=Plur	Person=3	PronType=Prs

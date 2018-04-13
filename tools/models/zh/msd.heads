@@ -1,0 +1,31 @@
+AUX	_
+ADJ	_
+PUNCT	_
+ADV	_
+VERB	_
+NUM	NumType=Card
+NOUN	_
+PRON	Number=Plur	Person=3
+PART	_
+PRON	Person=2
+PART	Case=Gen
+PART	Aspect=Prog
+PRON	_
+PRON	Person=3
+X	_
+ADP	_
+DET	_
+CCONJ	_
+PROPN	_
+ADV	Polarity=Neg
+VERB	Voice=Pass
+PART	Aspect=Perf
+PRON	Number=Plur	Person=1
+VERB	Voice=Cau
+PART	Number=Plur
+NOUN	Number=Plur
+ADP	Voice=Cau
+X	Mood=Inter
+SYM	_
+PRON	Person=1
+X	Aspect=Perf

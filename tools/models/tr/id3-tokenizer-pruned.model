@@ -1,0 +1,283 @@
+244
+c:.
+cl2:l
+cl3:a
+cl4:r
+cr0:_
+cr1:_
+cr2:_
+upper:false
+prevpo:0
+prevep:0
+prevcp:0
+prevu:0
+prevcap:0
+prevpc:0
+nextpo:0
+nextep:0
+nextcp:0
+nextu:0
+nextcap:1
+nextpc:0
+cl2:d
+cl3:i
+cl4:m
+nextep:1
+nextcp:1
+c:,
+cl2:n
+cl3:d
+cl4:a
+upper:true
+prevep:1
+prevcp:1
+prevpc:1
+nextcap:0
+cl4:k
+cl2:r
+cl4:u
+prevcap:1
+cl3:u
+cl4:z
+cl3:ı
+nextpc:3
+cr0:.
+cr1:.
+cl4:.
+cl2:u
+cl3:.
+cl2:e
+cl4:e
+cl2:ş
+cl3:t
+cl4:ı
+nextpo:1
+cl3:e
+cl2:b
+cl2:y
+cl2:_
+cl3:_
+cl4:_
+nextpc:1
+cl4:i
+cl2:t
+cl3:o
+cl2:i
+cl3:ş
+cl2:m
+cl4:ş
+c:?
+cl3:y
+cl4:?
+cl3:r
+cl2:s
+cl4:n
+cl3:b
+cl2:h
+cl4:l
+cl3:ü
+c::
+cl2:a
+cl3:s
+cl2:z
+cl2:v
+nextu:1
+cl4:v
+cl2:ı
+cl3:ğ
+c:(
+cr0:u
+cr1:y
+cr2:u
+c:)
+cl3:n
+cr0:i̇
+cr1:s
+cr2:i
+cl4:ç
+cl2:o
+cl3:m
+c:-
+cl2:ö
+cl4:t
+cr0:b
+cr1:i
+cr2:n
+cl4:h
+cl2:k
+cl3:k
+cl2:g
+prevpo:1
+cl2:'
+cl2:ğ
+cl2:c
+cl4:"
+cl4:ü
+cl3:l
+cl4:f
+cl4:p
+prevu:1
+cl2:ç
+cl3:c
+cl3:h
+c:!
+cl4:!
+cl3:!
+cl2:f
+c:;
+cr0:a
+cr1:l
+cl4:y
+cl3:v
+cr0:p
+cr1:o
+cr2:z
+cr0:y
+cr1:a
+cr2:r
+cr0:c
+cr1:e
+cr2:p
+cr0:g
+cr1:u
+cr2:l
+cr0:)
+cr0:,
+cl4:)
+cr1:r
+cr2:s
+cr0:s
+cr0::
+cr2:t
+cl4:j
+cl4:s
+prevpc:2
+cl3:z
+cr2:k
+cl4:o
+cr0:ç
+cl2:ü
+cr2:y
+prevpc:3
+cr0:k
+cl2:p
+cl3:ç
+cl3:g
+cr2:.
+cl3:?
+cl2:?
+cr0:t
+cr1:h
+cl4:'
+cl2:i̇
+cr0:d
+cr1:ö
+cr1:v
+cr0:o
+cr1:k
+cl4:(
+cl3:(
+cl2:j
+cr0:e
+cr0:i
+cl4:b
+cr0:f
+cr0:r
+cr2:f
+cl4:d
+cr2:d
+cr1:d
+cr2:e
+cl4:ğ
+cl4:i̇
+cr2:a
+cr0:v
+cr1:b
+cl3:0
+cl4:0
+cr0:0
+cr1:0
+cl2:!
+cr0:h
+cr1:ı
+cl2:x
+cr0:n
+cr2:)
+cl2:(
+cr1:ü
+cr2:m
+cr2:h
+cr0:ö
+cr1:z
+cr0:m
+cr2:ç
+cr2:ş
+cl4:,
+cl4:g
+cr0:ş
+cr2:b
+cl3:j
+cl4::
+cr0:!
+cr1:)
+cr1:ğ
+cr1:n
+cr1:m
+cl4:-
+cr1:ş
+cr0:?
+cl3:f
+cl3:'
+nextpc:2
+cr1:t
+cl3:ö
+cl3:,
+cl2:,
+cr0:l
+cr2:w
+cr2:o
+cr2:g
+cl3:p
+cl3::
+cl2::
+cl4:w
+cr2:ı
+cr2:c
+4
+SP_LEFT
+NULL
+SP_RIGHT
+sp_left_right
+32
+59 2 6
+7 3 5
+8 4 -3
+127 -3 -2
+26 -2 -3
+45 7 8
+1 -2 -1
+99 9 15
+6 10 12
+144 -1 11
+19 -1 -4
+195 -2 13
+40 14 -4
+10 -4 -2
+7 16 32
+116 17 18
+20 -1 -2
+1 19 -1
+19 20 22
+57 21 -1
+4 -2 -1
+17 23 -1
+120 -2 24
+40 25 28
+11 26 -1
+13 27 -2
+22 -1 -1
+61 29 -1
+11 30 -1
+48 -2 31
+107 -2 -1
+1 -2 -1

@@ -1,0 +1,162 @@
+129
+c:,
+cl1:a
+cl2:t
+cl3:i
+cl4:o
+cr0:_
+cr1:_
+cr2:_
+cr3:_
+upper:false
+prevpo:0
+prevep:0
+prevcp:0
+prevu:0
+prevcap:0
+prevpc:0
+nextpo:0
+nextep:1
+nextcp:1
+nextu:0
+nextcap:1
+nextpc:0
+cl1:e
+cl2:n
+cl3:d
+cl4:e
+upper:true
+prevep:1
+prevcp:1
+nextep:0
+nextcp:0
+nextcap:0
+cl1:b
+cl2:e
+cl3:a
+cl4:s
+c:.
+cl1:r
+cl2:i
+cl3:n
+cl4:t
+cl1:_
+cl2:l
+cl3:e
+cl1:l
+cl2:a
+c::
+cl1:m
+cl3:r
+cl2:c
+cl2:_
+prevpc:1
+cl1:t
+cl1:o
+cl3:l
+prevcap:1
+cl1:i
+cl2:v
+cl2:r
+nextu:1
+cl3:o
+cl1:n
+cl3:u
+cl4:r
+cl2:m
+cl4:a
+cl2:b
+cl4:m
+cl1:f
+cl3:c
+c:;
+cl3:h
+cl4:i
+cl2:s
+cl1:s
+cl2:u
+cl1:c
+cl3:v
+cl1:p
+cl2:d
+cl3:s
+cl1:d
+cl2:g
+cl1:u
+nextpc:1
+cl3:b
+cl2:p
+cl4:u
+cl1:x
+cl4:x
+c:?
+cl3:t
+cl2:o
+cl3:p
+cl1:g
+cl1:y
+cl2:x
+cl1:v
+cl3:g
+c:!
+cl1:q
+cl4:c
+cl3:m
+cl1:h
+cl4:n
+cl2:q
+cl4:l
+prevu:1
+cl3:_
+cl2:f
+cl4:q
+nextpo:1
+c:'
+cl4:_
+cl4:d
+cl4:p
+cl2:k
+cr0:,
+cl4:.
+prevpo:1
+cr0:;
+cl4:'
+c:†
+c:(
+c:)
+cl2:h
+cl3:x
+cl2:y
+cl4:)
+2
+NULL
+SPLIT
+28
+1 -1 2
+51 3 12
+10 4 -1
+12 5 7
+109 6 -2
+71 -2 -1
+18 -1 8
+113 9 -1
+16 10 11
+21 -1 -1
+21 -2 -2
+17 13 20
+117 -1 14
+123 -1 15
+52 16 17
+35 -1 -2
+77 18 -2
+76 19 -2
+37 -2 -2
+47 -2 21
+37 22 -1
+41 23 24
+4 -1 -2
+63 25 -1
+39 -1 26
+3 -2 27
+24 -2 28
+57 -2 -1

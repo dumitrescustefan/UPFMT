@@ -1,0 +1,3941 @@
+2289
+ff_0:a
+ff_1:ADP_AdpType=Prep
+ff_2:P
+ff_3:</s>
+ff_4:NOUN_Gender=Fem|Number=Sing
+ff_5:NOUN
+ff_6:</s>
+ff_7:NULL
+ff_8:</s>
+ff_9:NULL
+ff_10:</s>
+ff_11:NULL
+ff_12:</s>
+ff_13:NULL
+ff_14:</s>
+ff_15:NULL
+ff_16:</s>
+ff_17:NULL
+ff_18:</s>
+ff_19:NULL
+ff_20:</s>
+ff_21:NULL
+ff_1:DET_Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_2:Ddfs
+ff_0:</s>
+ff_1:NOUN_Gender=Fem|Number=Sing
+ff_2:Scfs
+ff_4:NOUN_Gender=Masc|Number=Sing
+ff_6:a
+ff_7:ADP_AdpType=Prep
+ff_8:a
+ff_9:DET_Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_14:a
+ff_15:DET_Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_16:a
+ff_17:ADP_AdpType=Prep
+ff_0:,
+ff_1:PUNCT__
+ff_2:Q,
+ff_6:,
+ff_7:PUNCT__
+ff_8:galega
+ff_9:ADJ_Gender=Fem|Number=Sing
+ff_14:galega
+ff_15:ADJ_Gender=Fem|Number=Sing
+ff_16:,
+ff_17:PUNCT__
+ff_0:galega
+ff_1:ADJ_Gender=Fem|Number=Sing
+ff_2:A0fs
+ff_9:NOUN_Gender=Fem|Number=Plur
+ff_15:NOUN_Gender=Fem|Number=Plur
+ff_0:en
+ff_4:NOUN_Gender=Fem|Number=Plur
+ff_0:as
+ff_1:DET_Definite=Def|Gender=Fem|Number=Plur|PronType=Art
+ff_2:Ddfp
+ff_1:NOUN_Gender=Fem|Number=Plur
+ff_2:Scfp
+ff_6:en
+ff_9:ADJ_Gender=Fem|Number=Plur
+ff_14:as
+ff_15:DET_Definite=Def|Gender=Fem|Number=Plur|PronType=Art
+ff_16:as
+ff_17:DET_Definite=Def|Gender=Fem|Number=Plur|PronType=Art
+ff_1:ADJ_Gender=Fem|Number=Plur
+ff_2:A0fp
+ff_0:e
+ff_1:CCONJ__
+ff_2:Cc
+ff_1:ADJ_Degree=Cmp|Gender=Masc|Number=Sing
+ff_2:Acms
+ff_1:NOUN_Gender=Masc|Number=Sing
+ff_2:Scms
+ff_6:e
+ff_7:CCONJ__
+ff_9:ADJ_Degree=Cmp|Gender=Masc|Number=Sing
+ff_15:ADJ_Degree=Cmp|Gender=Masc|Number=Sing
+ff_16:e
+ff_17:CCONJ__
+ff_0:.
+ff_2:Q.
+ff_4:VERB_VerbForm=Inf
+ff_5:VERB
+ff_1:VERB_VerbForm=Inf
+ff_2:V0f000
+ff_4:VERB_Gender=Masc|Number=Plur|VerbForm=Part
+ff_9:NOUN_Gender=Masc|Number=Sing
+ff_15:NOUN_Gender=Masc|Number=Sing
+ff_0:o
+ff_1:DET_Definite=Def|Gender=Masc|Number=Sing|PronType=Art
+ff_2:Ddms
+ff_9:NOUN_Gender=Fem|Number=Sing
+ff_14:o
+ff_15:DET_Definite=Def|Gender=Masc|Number=Sing|PronType=Art
+ff_16:o
+ff_17:DET_Definite=Def|Gender=Masc|Number=Sing|PronType=Art
+ff_0:de
+ff_1:DET_Gender=Fem|Number=Sing|PronType=Dem
+ff_2:Edfs
+ff_6:de
+ff_9:DET_Gender=Fem|Number=Sing|PronType=Dem
+ff_15:DET_Gender=Fem|Number=Sing|PronType=Dem
+ff_16:de
+ff_0:"
+ff_2:Q"
+ff_4:VERB_Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+ff_0:os
+ff_1:DET_Definite=Def|Gender=Masc|Number=Plur|PronType=Art
+ff_2:Ddmp
+ff_3:galegos
+ff_4:NOUN_Gender=Masc|Number=Plur
+ff_0:galegos
+ff_1:NOUN_Gender=Masc|Number=Plur
+ff_2:Scmp
+ff_6:os
+ff_7:DET_Definite=Def|Gender=Masc|Number=Plur|PronType=Art
+ff_16:os
+ff_17:DET_Definite=Def|Gender=Masc|Number=Plur|PronType=Art
+ff_10:"
+ff_11:PUNCT__
+ff_12:"
+ff_13:PUNCT__
+ff_18:galegos
+ff_19:NOUN_Gender=Masc|Number=Plur
+ff_21:VERB_VerbForm=Inf
+ff_8:e
+ff_9:CCONJ__
+ff_1:VERB_Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+ff_2:Vpi10p
+ff_6:"
+ff_8:"
+ff_9:PUNCT__
+ff_14:galegos
+ff_15:NOUN_Gender=Masc|Number=Plur
+ff_17:VERB_VerbForm=Inf
+ff_15:ADV__
+ff_17:ADV__
+ff_1:ADV__
+ff_2:Wn
+ff_11:ADJ_Gender=Fem|Number=Sing
+ff_13:ADJ_Gender=Fem|Number=Sing
+ff_19:ADJ_Gender=Fem|Number=Sing
+ff_21:ADJ_Gender=Fem|Number=Sing
+ff_0:nosa
+ff_1:DET_Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs
+ff_2:Md1pfs
+ff_7:DET_Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_14:nosa
+ff_15:DET_Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs
+ff_16:dereito
+ff_17:NOUN_Gender=Masc|Number=Sing
+ff_0:política
+ff_7:ADJ_Gender=Fem|Number=Sing
+ff_17:ADJ_Gender=Fem|Number=Sing
+ff_4:ADJ_Gender=Fem|Number=Sing
+ff_5:ADJ
+ff_3:política
+ff_8:,
+ff_3:dereito
+ff_0:dereito
+ff_9:VERB_VerbForm=Inf
+ff_9:PRON_Gender=Masc|Number=Plur|Person=1|PronType=Prs
+ff_15:PRON_Gender=Masc|Number=Plur|Person=1|PronType=Prs
+ff_0:sobre
+ff_4:PRON_Gender=Masc|Number=Plur|Person=1|PronType=Prs
+ff_5:PRON
+ff_1:PRON_Gender=Masc|Number=Plur|Person=1|PronType=Prs
+ff_2:Rtp1mp
+ff_6:sobre
+ff_9:PRON_Gender=Masc|Number=Plur|PronType=Ind
+ff_15:PRON_Gender=Masc|Number=Plur|PronType=Ind
+ff_16:sobre
+ff_1:PRON_Gender=Masc|Number=Plur|PronType=Ind
+ff_2:Inmp
+ff_15:NOUN_Gender=Fem|Number=Sing
+ff_17:DET_Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_0:unha
+ff_1:DET_Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+ff_2:Difs
+ff_9:VERB_Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_14:unha
+ff_15:DET_Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+ff_0:que
+ff_1:PRON_Gender=Fem|Number=Sing|PronType=Rel
+ff_2:Tnfs
+ff_4:VERB_Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_1:VERB_Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_2:Vps30s
+ff_6:que
+ff_7:PRON_Gender=Fem|Number=Sing|PronType=Rel
+ff_9:NOUN_Gender=Masc|Number=Plur
+ff_17:NOUN_Gender=Fem|Number=Sing
+ff_11:VERB_Gender=Fem|Number=Sing|VerbForm=Part
+ff_13:VERB_Gender=Fem|Number=Sing|VerbForm=Part
+ff_19:VERB_Gender=Fem|Number=Sing|VerbForm=Part
+ff_21:VERB_Gender=Fem|Number=Sing|VerbForm=Part
+ff_7:VERB_Gender=Fem|Number=Sing|VerbForm=Part
+ff_9:VERB_Gender=Fem|Number=Sing|VerbForm=Part
+ff_15:VERB_Gender=Fem|Number=Sing|VerbForm=Part
+ff_17:VERB_Gender=Fem|Number=Sing|VerbForm=Part
+ff_1:VERB_Gender=Fem|Number=Sing|VerbForm=Part
+ff_2:V0p0fs
+ff_4:VERB_Gender=Fem|Number=Sing|VerbForm=Part
+ff_8:de
+ff_9:ADP_AdpType=Prep
+ff_0:con
+ff_7:NOUN_Gender=Masc|Number=Sing
+ff_8:política
+ff_14:con
+ff_15:ADP_AdpType=Prep
+ff_17:ADJ_Gender=Masc|Number=Plur
+ff_1:ADJ_Gender=Masc|Number=Plur
+ff_2:A0mp
+ff_9:VERB_Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+ff_3:que
+ff_4:PRON_Gender=Fem|Number=Sing|PronType=Rel
+ff_9:NOUN_Gender=Com|Number=Plur
+ff_0:ser
+ff_1:AUX_VerbForm=Inf
+ff_4:NOUN_Gender=Com|Number=Plur
+ff_1:NOUN_Gender=Com|Number=Plur
+ff_2:Scap
+ff_6:ser
+ff_7:AUX_VerbForm=Inf
+ff_8:ser
+ff_9:AUX_VerbForm=Inf
+ff_3:proposta
+ff_6:bases
+ff_7:NOUN_Gender=Fem|Number=Plur
+ff_10:proposta
+ff_11:NOUN_Gender=Fem|Number=Sing
+ff_12:.
+ff_14:,
+ff_15:PUNCT__
+ff_16:bases
+ff_17:NOUN_Gender=Fem|Number=Plur
+ff_19:NOUN_Gender=Fem|Number=Sing
+ff_20:,
+ff_21:PUNCT__
+ff_3:bases
+ff_1:NUM_Gender=Fem|Number=Plur|NumType=Card
+ff_2:Ncdfp
+ff_0:bases
+ff_9:NUM_Gender=Fem|Number=Plur|NumType=Card
+ff_15:NUM_Gender=Fem|Number=Plur|NumType=Card
+ff_16:en
+ff_0:proposta
+ff_4:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_0:como
+ff_1:ADV_PronType=Rel
+ff_2:Wr
+ff_14:como
+ff_15:ADV_PronType=Rel
+ff_16:como
+ff_17:ADV_PronType=Rel
+ff_17:PROPN__
+ff_4:PROPN__
+ff_5:PROPN
+ff_1:PROPN__
+ff_2:Sp00
+ff_0:seus
+ff_1:DET_Gender=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_2:Md3smp
+ff_14:de
+ff_16:seus
+ff_17:DET_Gender=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_0:así
+ff_6:como
+ff_7:SCONJ__
+ff_8:como
+ff_9:SCONJ__
+ff_1:SCONJ__
+ff_2:Cs
+ff_3:así
+ff_4:ADV__
+ff_5:ADV
+ff_6:así
+ff_7:ADV__
+ff_9:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+ff_0:entre
+ff_3:todos
+ff_4:PRON_Gender=Masc|Number=Plur|PronType=Ind
+ff_0:todos
+ff_4:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+ff_6:entre
+ff_8:entre
+ff_1:PRON_Gender=Masc|Number=Plur|PronType=Rel
+ff_2:Tnmp
+ff_1:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+ff_2:Vpi30p
+ff_6:todos
+ff_7:PRON_Gender=Masc|Number=Plur|PronType=Ind
+ff_15:PRON_Gender=Masc|Number=Plur|PronType=Rel
+ff_6:o
+ff_7:DET_Definite=Def|Gender=Masc|Number=Sing|PronType=Art
+ff_8:galego
+ff_9:ADJ_Gender=Masc|Number=Sing
+ff_14:galego
+ff_15:ADJ_Gender=Masc|Number=Sing
+ff_0:galego
+ff_1:ADJ_Gender=Masc|Number=Sing
+ff_2:A0ms
+ff_7:ADV_PronType=Rel
+ff_14:"
+ff_6:dereito
+ff_8:dereito
+ff_10:dereito
+ff_11:NOUN_Gender=Masc|Number=Sing
+ff_12:dereito
+ff_13:NOUN_Gender=Masc|Number=Sing
+ff_3:como
+ff_4:ADV_PronType=Rel
+ff_9:VERB_Number=Plur|Person=3|VerbForm=Inf
+ff_15:VERB_Number=Plur|Person=3|VerbForm=Inf
+ff_4:VERB_Number=Plur|Person=3|VerbForm=Inf
+ff_1:VERB_Number=Plur|Person=3|VerbForm=Inf
+ff_2:V0f30p
+ff_8:vida
+ff_14:vida
+ff_3:vida
+ff_12:política
+ff_0:vida
+ff_4:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin
+ff_0:lle
+ff_1:PRON_Case=Dat|Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+ff_2:Rad3fs
+ff_13:NOUN_Gender=Fem|Number=Sing
+ff_2:A00s
+ff_4:PROPN_Gender=Fem|Number=Sing
+ff_1:PROPN_Gender=Fem|Number=Sing
+ff_2:Spfs
+ff_2:Acfs
+ff_1:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin
+ff_2:Vfi30s
+ff_0:por
+ff_6:por
+ff_16:unha
+ff_17:DET_Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+ff_17:ADJ_Gender=Masc|Number=Sing
+ff_11:NOUN_Gender=Fem|Number=Plur
+ff_13:NOUN_Gender=Fem|Number=Plur
+ff_6:con
+ff_9:VERB_Gender=Masc|Number=Plur|VerbForm=Part
+ff_14:os
+ff_15:DET_Definite=Def|Gender=Masc|Number=Plur|PronType=Art
+ff_1:VERB_Gender=Masc|Number=Plur|VerbForm=Part
+ff_2:V0p0mp
+ff_17:PROPN_Gender=Masc|Number=Sing
+ff_4:PROPN_Gender=Masc|Number=Sing
+ff_1:PROPN_Gender=Masc|Number=Sing
+ff_2:Spms
+ff_8:o
+ff_9:DET_Definite=Def|Gender=Masc|Number=Sing|PronType=Art
+ff_0:para
+ff_6:para
+ff_1:PRON_Gender=Masc|Number=Sing|PronType=Ind
+ff_2:Inms
+ff_3:o
+ff_4:PRON_Gender=Masc|Number=Sing|Person=3|PronType=Art
+ff_7:NOUN_Gender=Masc|Number=Plur
+ff_4:PRON_Gender=Masc|Number=Sing|PronType=Ind
+ff_9:ADJ_Gender=Masc|Number=Plur
+ff_0:é
+ff_1:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_2:Vpi30s
+ff_8:.
+ff_0:un
+ff_1:DET_Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
+ff_2:Dims
+ff_14:un
+ff_15:DET_Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
+ff_16:un
+ff_17:DET_Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
+ff_0:xa
+ff_4:AUX_Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+ff_5:AUX
+ff_11:SCONJ__
+ff_12:...
+ff_19:AUX_Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+ff_21:AUX_Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+ff_1:AUX_Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+ff_6:xa
+ff_8:xa
+ff_9:ADV__
+ff_0:...
+ff_2:Q...
+ff_11:PROPN__
+ff_18:se
+ff_19:PRON_Clitic=Yes|Gender=Com|Person=3|PronType=Prs
+ff_21:NOUN_Gender=Masc|Number=Sing
+ff_0:se
+ff_1:PRON_Clitic=Yes|Gender=Com|Person=3|PronType=Prs
+ff_2:Rao3aa
+ff_7:NUM_Gender=Fem|Number=Plur|NumType=Card
+ff_2:Wm
+ff_1:PROPN_Gender=Masc
+ff_2:Spm0
+ff_4:PROPN_Gender=Masc
+ff_11:PROPN_Gender=Fem|Number=Sing
+ff_13:PROPN_Gender=Fem|Number=Sing
+ff_0:súa
+ff_1:DET_Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_2:Md3sfs
+ff_9:PROPN_Gender=Fem|Number=Sing
+ff_16:súa
+ff_17:DET_Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_7:PROPN_Gender=Fem|Number=Sing
+ff_4:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ff_8:nosa
+ff_9:DET_Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs
+ff_4:VERB_VerbForm=Ger
+ff_1:VERB_VerbForm=Ger
+ff_2:V0x000
+ff_0:algúns
+ff_1:DET_Gender=Masc|Number=Plur|PronType=Ind
+ff_2:Idmp
+ff_9:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin
+ff_14:algúns
+ff_15:DET_Gender=Masc|Number=Plur|PronType=Ind
+ff_4:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin
+ff_1:PRON_Case=Acc|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_2:Raa3ms
+ff_1:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin
+ff_2:Vii30p
+ff_7:PRON_Gender=Masc|Number=Plur|PronType=Rel
+ff_15:PRON_Case=Acc|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_17:PRON_Case=Acc|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_14:que
+ff_15:ADJ_Gender=Masc|Number=Plur
+ff_16:por
+ff_7:DET_Gender=Masc|Number=Plur|PronType=Ind
+ff_15:VERB_VerbForm=Inf
+ff_17:DET_Gender=Masc|Number=Plur|PronType=Ind
+ff_14:súa
+ff_15:DET_Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_11:ADJ_Gender=Masc|Number=Plur
+ff_13:PROPN__
+ff_18:obra
+ff_20:obra
+ff_21:NOUN_Gender=Fem|Number=Sing
+ff_16:para
+ff_7:ADJ_Gender=Masc|Number=Plur
+ff_9:PROPN__
+ff_14:obra
+ff_16:obra
+ff_3:obra
+ff_0:obra
+ff_8:súa
+ff_9:DET_Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_6:.
+ff_1:NUM_NumType=Card
+ff_2:N0000
+ff_1:ADJ__
+ff_2:A00p
+ff_15:NUM_NumType=Card
+ff_17:ADJ__
+ff_4:SCONJ__
+ff_5:SCONJ
+ff_7:PROPN__
+ff_1:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_17:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_15:PROPN__
+ff_15:PROPN_Gender=Fem|Number=Sing
+ff_8:en
+ff_8:país
+ff_3:país
+ff_0:este
+ff_1:DET_Gender=Masc|Number=Sing|PronType=Dem
+ff_2:Edms
+ff_0:país
+ff_8:este
+ff_9:DET_Gender=Masc|Number=Sing|PronType=Dem
+ff_14:este
+ff_15:DET_Gender=Masc|Number=Sing|PronType=Dem
+ff_1:AUX_Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+ff_6:as
+ff_7:DET_Definite=Def|Gender=Fem|Number=Plur|PronType=Art
+ff_15:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+ff_1:PRON_Gender=Fem|Number=Plur|PronType=Rel
+ff_2:Tnfp
+ff_3:facer
+ff_6:facer
+ff_7:VERB_VerbForm=Inf
+ff_8:facer
+ff_0:facer
+ff_7:PRON_Gender=Fem|Number=Plur|PronType=Rel
+ff_10:que
+ff_11:PRON_Gender=Fem|Number=Plur|PronType=Rel
+ff_13:NOUN_Gender=Masc|Number=Plur
+ff_16:que
+ff_17:PRON_Gender=Fem|Number=Plur|PronType=Rel
+ff_20:que
+ff_21:PRON_Gender=Fem|Number=Plur|PronType=Rel
+ff_0::
+ff_2:Q:
+ff_11:ADJ_Gender=Masc|Number=Sing
+ff_13:ADJ_Gender=Masc|Number=Sing
+ff_1:CCONJ_Polarity=Neg
+ff_4:CCONJ_Polarity=Neg
+ff_5:CCONJ
+ff_1:PRON_Case=Dat|Clitic=Yes|Gender=Com|Number=Sing|Person=3|PronType=Prs
+ff_2:Rad3as
+ff_7:ADJ_Gender=Masc|Number=Sing
+ff_4:ADJ_Gender=Masc|Number=Sing
+ff_9:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_15:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_10:de
+ff_11:ADP_AdpType=Prep
+ff_18:que
+ff_19:SCONJ__
+ff_15:SCONJ__
+ff_10:mundo
+ff_12:mundo
+ff_6:mundo
+ff_8:mundo
+ff_3:mundo
+ff_0:mundo
+ff_0:máis
+ff_6:máis
+ff_8:máis
+ff_1:AUX_Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin
+ff_2:Vii10p
+ff_0:pero
+ff_3:de
+ff_4:ADP_AdpType=Prep
+ff_5:ADP
+ff_14:pero
+ff_16:pero
+ff_17:SCONJ__
+ff_4:VERB_Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+ff_2:Zg00
+ff_19:PROPN__
+ff_21:PROPN__
+ff_1:VERB_Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+ff_2:Vps30p
+ff_7:NOUN_Gender=Fem|Number=Sing
+ff_6:unha
+ff_7:DET_Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+ff_14:despois
+ff_16:despois
+ff_0:despois
+ff_4:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin
+ff_1:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin
+ff_2:Vii30s
+ff_16:xa
+ff_8:unha
+ff_9:DET_Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+ff_3:vai
+ff_0:aínda
+ff_0:só
+ff_1:PRON_Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_2:Rtn3ms
+ff_14:só
+ff_17:PRON_Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_6:un
+ff_7:DET_Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
+ff_16:"
+ff_8:con
+ff_0:porque
+ff_8:os
+ff_9:DET_Definite=Def|Gender=Masc|Number=Plur|PronType=Art
+ff_0:non
+ff_1:ADV_Polarity=Neg
+ff_6:porque
+ff_16:se
+ff_17:PRON_Clitic=Yes|Gender=Com|Person=3|PronType=Prs
+ff_1:NUM_Gender=Fem|Number=Sing|NumType=Ord
+ff_2:Nodfs
+ff_15:NUM_Gender=Fem|Number=Sing|NumType=Ord
+ff_17:NUM_Gender=Fem|Number=Sing|NumType=Ord
+ff_0:ou
+ff_6:ou
+ff_14:para
+ff_0:mesmo
+ff_1:DET_Gender=Masc|Number=Sing|PronType=Ind
+ff_2:Idms
+ff_9:VERB_VerbForm=Ger
+ff_17:PROPN_Gender=Masc
+ff_7:PROPN_Gender=Masc
+ff_9:PROPN_Gender=Masc
+ff_1:PRON_Gender=Masc|Number=Sing|PronType=Rel
+ff_2:Tnms
+ff_7:PRON_Gender=Masc|Number=Sing|PronType=Rel
+ff_9:VERB_Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+ff_15:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_17:NOUN_Gender=Masc|Number=Plur
+ff_15:VERB_Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_14:lle
+ff_15:PRON_Case=Dat|Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+ff_16:lle
+ff_17:PRON_Case=Dat|Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+ff_7:PROPN_Gender=Masc|Number=Sing
+ff_9:PROPN_Gender=Masc|Number=Sing
+ff_8:socialistas
+ff_3:socialistas
+ff_0:socialistas
+ff_1:AUX_Mood=Cnd,Ind|Number=Sing|Person=3|VerbForm=Fin
+ff_2:Vci30s
+ff_15:AUX_Mood=Cnd,Ind|Number=Sing|Person=3|VerbForm=Fin
+ff_14:socialistas
+ff_15:NOUN_Gender=Com|Number=Plur
+ff_16:entre
+ff_19:PROPN_Gender=Masc|Number=Sing
+ff_2:Zgms
+ff_3:despois
+ff_8:as
+ff_9:DET_Definite=Def|Gender=Fem|Number=Plur|PronType=Art
+ff_1:AUX_Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ff_2:Ves30s
+ff_15:PROPN_Gender=Masc|Number=Sing
+ff_17:AUX_Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ff_17:ADJ_Gender=Fem|Number=Plur
+ff_0:esta
+ff_8:esta
+ff_14:esta
+ff_15:PROPN_Gender=Masc
+ff_1:PRON_Case=Dat|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_2:Rad3ms
+ff_0:(
+ff_2:Q(
+ff_6:(
+ff_8:)
+ff_15:NUM_Gender=Masc|Number=Sing|NumType=Card
+ff_17:NUM_Gender=Masc|Number=Sing|NumType=Card
+ff_4:NUM_Gender=Masc|Number=Sing|NumType=Card
+ff_5:NUM
+ff_1:NUM_Gender=Masc|Number=Sing|NumType=Card
+ff_2:Ncnms
+ff_0:)
+ff_2:Q)
+ff_9:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin
+ff_14:non
+ff_15:ADV_Polarity=Neg
+ff_1:NUM_Gender=Masc|Number=Sing|NumType=Ord
+ff_2:Nodms
+ff_15:NUM_Gender=Masc|Number=Sing|NumType=Ord
+ff_17:NUM_Gender=Masc|Number=Sing|NumType=Ord
+ff_0:senón
+ff_8:mesmo
+ff_9:PRON_Gender=Masc|Number=Sing|PronType=Ind
+ff_14:senón
+ff_3:mesmo
+ff_8:lo
+ff_9:PRON_Case=Acc|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_14:lo
+ff_0:lo
+ff_0:era
+ff_1:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin
+ff_14:era
+ff_15:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin
+ff_0:la
+ff_14:la
+ff_16:la
+ff_4:VERB_Gender=Masc|Number=Sing|VerbForm=Part
+ff_21:ADJ_Gender=Masc|Number=Sing
+ff_0:foi
+ff_1:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ff_2:Vei30s
+ff_1:VERB_Gender=Masc|Number=Sing|VerbForm=Part
+ff_2:V0p0ms
+ff_14:foi
+ff_15:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ff_20:socialistas
+ff_21:NOUN_Gender=Masc|Number=Plur
+ff_3:máis
+ff_6:aínda
+ff_8:aínda
+ff_0:tamén
+ff_10:se
+ff_11:PRON_Clitic=Yes|Gender=Com|Person=3|PronType=Prs
+ff_13:PRON_Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_19:PRON_Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_20:se
+ff_21:PRON_Clitic=Yes|Gender=Com|Person=3|PronType=Prs
+ff_16:máis
+ff_6:se
+ff_7:PRON_Clitic=Yes|Gender=Com|Person=3|PronType=Prs
+ff_9:PRON_Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_15:PRON_Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_4:PRON_Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_1:PRON_Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_2:Rtp3ms
+ff_3:hai
+ff_0:hai
+ff_0:?
+ff_2:Q?
+ff_9:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin
+ff_17:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin
+ff_4:PRON_Gender=Masc|Number=Sing|PronType=Rel
+ff_4:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin
+ff_11:PROPN_Gender=Masc
+ff_13:PROPN_Gender=Masc
+ff_19:PROPN_Gender=Masc
+ff_21:PROPN_Gender=Masc
+ff_1:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin
+ff_2:Vfi30p
+ff_14:tamén
+ff_16:tamén
+ff_0:teñen
+ff_4:NUM_Gender=Masc|Number=Plur|NumType=Card
+ff_11:NUM_Gender=Masc|Number=Plur|NumType=Card
+ff_19:PROPN_Gender=Fem|Number=Sing
+ff_21:NUM_Gender=Masc|Number=Plur|NumType=Card
+ff_1:NUM_Gender=Masc|Number=Plur|NumType=Card
+ff_2:Ncdmp
+ff_7:NUM_Gender=Masc|Number=Plur|NumType=Card
+ff_17:NUM_Gender=Masc|Number=Plur|NumType=Card
+ff_1:DET_Gender=Fem|Number=Sing|PronType=Ind
+ff_2:Idfs
+ff_9:DET_Gender=Fem|Number=Sing|PronType=Ind
+ff_15:DET_Gender=Fem|Number=Sing|PronType=Ind
+ff_10:por
+ff_19:PRON_Gender=Masc|Number=Sing|PronType=Rel
+ff_6:lo
+ff_1:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin
+ff_15:PRON_Gender=Masc|Number=Sing|PronType=Rel
+ff_14:se
+ff_15:PRON_Clitic=Yes|Gender=Com|Person=3|PronType=Prs
+ff_8:medios
+ff_14:medios
+ff_3:medios
+ff_0:medios
+ff_0:sen
+ff_1:ADP_AdpType=Prep|Polarity=Neg
+ff_6:sen
+ff_7:ADP_AdpType=Prep|Polarity=Neg
+ff_8:sen
+ff_9:ADP_AdpType=Prep|Polarity=Neg
+ff_0:súas
+ff_1:DET_Gender=Fem|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_2:Md3pfp
+ff_8:súas
+ff_9:DET_Gender=Fem|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_14:súas
+ff_15:DET_Gender=Fem|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_1:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ff_15:PRON_Case=Dat|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_15:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin
+ff_17:PRON_Gender=Masc|Number=Sing|PronType=Rel
+ff_8:proxecto
+ff_14:proxecto
+ff_3:proxecto
+ff_0:proxecto
+ff_21:NOUN_Gender=Fem|Number=Plur
+ff_7:DET_Gender=Fem|Number=Sing|PronType=Dem
+ff_0:outras
+ff_1:DET_Gender=Fem|Number=Plur|PronType=Ind
+ff_2:Idfp
+ff_14:outras
+ff_15:DET_Gender=Fem|Number=Plur|PronType=Ind
+ff_16:outras
+ff_17:DET_Gender=Fem|Number=Plur|PronType=Ind
+ff_16:proxecto
+ff_9:VERB_Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ff_4:VERB_Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ff_1:VERB_Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ff_0:novo
+ff_8:novo
+ff_17:PROPN_Gender=Fem|Number=Sing
+ff_2:D0fs
+ff_0:onde
+ff_0:está
+ff_6:onde
+ff_14:está
+ff_16:está
+ff_17:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_2:Zgfs
+ff_9:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ff_1:PROPN_Gender=Fem
+ff_2:Spf0
+ff_7:PROPN_Gender=Fem
+ff_9:PROPN_Gender=Fem
+ff_4:PROPN_Gender=Fem
+ff_15:PROPN_Gender=Fem
+ff_0:son
+ff_3:futuro
+ff_0:futuro
+ff_16:non
+ff_17:ADV_Polarity=Neg
+ff_1:DET_Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_2:Md3pfs
+ff_9:DET_Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_0:desde
+ff_4:ADJ_Gender=Com|Number=Sing
+ff_6:desde
+ff_16:desde
+ff_3:a
+ff_3:anos
+ff_10:e
+ff_11:CCONJ__
+ff_12:se
+ff_13:PRON_Clitic=Yes|Gender=Com|Person=3|PronType=Prs
+ff_18:a
+ff_19:ADP_AdpType=Prep
+ff_20:anos
+ff_0:anos
+ff_8:se
+ff_9:PRON_Clitic=Yes|Gender=Com|Person=3|PronType=Prs
+ff_16:anos
+ff_1:PRON_Gender=Masc|Number=Plur|Person=3|PronType=Art
+ff_7:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+ff_9:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+ff_11:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+ff_13:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+ff_4:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+ff_1:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+ff_2:Vei30p
+ff_3:os
+ff_4:PRON_Gender=Masc|Number=Plur|Person=3|PronType=Art
+ff_14:xa
+ff_16:mundo
+ff_7:CCONJ_Polarity=Neg
+ff_9:CCONJ_Polarity=Neg
+ff_4:ADJ_Gender=Masc|Number=Plur
+ff_8:desde
+ff_3:fai
+ff_15:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+ff_17:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+ff_11:VERB_VerbForm=Inf
+ff_19:NOUN_Gender=Masc|Number=Sing
+ff_0:outro
+ff_9:VERB_Gender=Masc|Number=Sing|VerbForm=Part
+ff_14:outro
+ff_15:DET_Gender=Masc|Number=Sing|PronType=Ind
+ff_0:moi
+ff_6:moi
+ff_1:DET_Gender=Fem|Number=Plur|PronType=Dem
+ff_2:Edfp
+ff_15:DET_Gender=Fem|Number=Plur|PronType=Dem
+ff_17:DET_Gender=Fem|Number=Plur|PronType=Dem
+ff_13:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+ff_20:...
+ff_15:VERB_VerbForm=Ger
+ff_16:...
+ff_10:a
+ff_11:DET_Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_20:a
+ff_21:DET_Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_8:un
+ff_9:DET_Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
+ff_7:PRON_Case=Acc|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_3:goberno
+ff_0:goberno
+ff_19:NOUN_Gender=Fem|Number=Plur
+ff_0:tanto
+ff_6:tanto
+ff_1:PRON_Case=Nom|Gender=Com|Number=Sing|Person=3|PronType=Prs
+ff_2:Rtn3as
+ff_2:Q¿
+ff_16:mesmo
+ff_17:DET_Gender=Masc|Number=Sing|PronType=Ind
+ff_8:?
+ff_16:socialistas
+ff_4:VERB_Mood=Ind|Number=Sing|Person=1|Tense=Pqp|VerbForm=Fin
+ff_8:ten
+ff_3:ten
+ff_0:ten
+ff_12:a
+ff_13:ADP_AdpType=Prep
+ff_9:NUM_Gender=Masc|Number=Plur|NumType=Card
+ff_15:NUM_Gender=Masc|Number=Plur|NumType=Card
+ff_2:Ncnmp
+ff_4:ADJ_Gender=Fem|Number=Plur
+ff_11:ADJ_Gender=Fem|Number=Plur
+ff_21:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin
+ff_4:VERB_Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin
+ff_1:DET_Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs
+ff_2:Md1pms
+ff_8:goberno
+ff_15:DET_Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs
+ff_17:DET_Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs
+ff_1:ADJ_Degree=Sup|Gender=Fem|Number=Sing
+ff_2:Asfs
+ff_3:cidade
+ff_0:cidade
+ff_9:PRON_Gender=Fem|Number=Sing|Person=3|PronType=Prs
+ff_4:PRON_Gender=Fem|Number=Sing|Person=3|PronType=Prs
+ff_1:PRON_Gender=Fem|Number=Sing|Person=3|PronType=Prs
+ff_2:Rtp3fs
+ff_6:todo
+ff_7:DET_Gender=Masc|Number=Sing|PronType=Ind
+ff_13:VERB_VerbForm=Inf
+ff_16:todo
+ff_0:todo
+ff_6:despois
+ff_14:anos
+ff_7:ADV_Polarity=Neg
+ff_11:PRON_Gender=Masc|Number=Sing|PronType=Rel
+ff_8:por
+ff_3:están
+ff_1:PRON_Case=Nom|Gender=Com|Number=Sing|Person=1|PronType=Prs
+ff_2:Rtn1as
+ff_4:VERB_Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+ff_15:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin
+ff_21:PROPN_Gender=Fem|Number=Sing
+ff_15:ADJ_Gender=Fem|Number=Plur
+ff_0:seu
+ff_1:DET_Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_2:Md3sms
+ff_8:seu
+ff_9:DET_Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_3:está
+ff_7:PRON_Case=Nom|Gender=Com|Number=Sing|Person=3|PronType=Prs
+ff_8:hai
+ff_14:en
+ff_3:en
+ff_13:ADJ_Gender=Fem|Number=Plur
+ff_10:,
+ff_18:pero
+ff_21:PROPN_Gender=Masc|Number=Sing
+ff_7:ADJ_Gender=Fem|Number=Plur
+ff_8:está
+ff_9:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_16:onde
+ff_10:unha
+ff_11:DET_Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+ff_18:"
+ff_19:PUNCT__
+ff_8:ou
+ff_9:VERB_Gender=Fem|Number=Plur|VerbForm=Part
+ff_15:VERB_Gender=Fem|Number=Plur|VerbForm=Part
+ff_4:VERB_Gender=Fem|Number=Plur|VerbForm=Part
+ff_1:VERB_Gender=Fem|Number=Plur|VerbForm=Part
+ff_2:V0p0fp
+ff_9:NUM_NumType=Card
+ff_11:ADV__
+ff_21:ADV__
+ff_11:PROPN_Gender=Masc|Number=Sing
+ff_19:VERB_VerbForm=Inf
+ff_14:novo
+ff_8:para
+ff_1:ADJ_Degree=Cmp|Gender=Fem|Number=Plur
+ff_2:Acfp
+ff_17:ADJ_Degree=Cmp|Gender=Fem|Number=Plur
+ff_0:estes
+ff_1:DET_Gender=Masc|Number=Plur|PronType=Dem
+ff_2:Edmp
+ff_4:PRON_Gender=Masc|Number=Plur|PronType=Rel
+ff_16:son
+ff_17:AUX_Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+ff_14:aínda
+ff_17:PRON_Gender=Masc|Number=Plur|Person=1|PronType=Prs
+ff_8:todos
+ff_9:DET_Gender=Masc|Number=Plur|PronType=Ind
+ff_14:todos
+ff_20:proxecto
+ff_6:esta
+ff_9:DET_Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs
+ff_1:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin
+ff_2:Vli30s
+ff_15:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin
+ff_9:NUM_Gender=Masc|Number=Sing|NumType=Card
+ff_4:DET_Gender=Fem|Number=Plur|PronType=Ind
+ff_5:DET
+ff_10:proxecto
+ff_12:,
+ff_18:,
+ff_7:DET_Gender=Fem|Number=Plur|PronType=Ind
+ff_6:proxecto
+ff_14:tanto
+ff_16:tanto
+ff_21:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_17:VERB_Gender=Masc|Number=Sing|VerbForm=Part
+ff_10:pero
+ff_21:PRON_Gender=Masc|Number=Sing|PronType=Rel
+ff_6:pero
+ff_8:que
+ff_3:algúns
+ff_18:algúns
+ff_19:PRON_Gender=Masc|Number=Plur|PronType=Ind
+ff_1:DET_Gender=Masc|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_2:Md3pmp
+ff_8:seus
+ff_9:DET_Gender=Masc|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_3:tempo
+ff_0:tempo
+ff_0:mais
+ff_6:mais
+ff_17:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin
+ff_11:NOUN_Gender=Masc|Number=Plur
+ff_11:PRON_Gender=Masc|Number=Plur|PronType=Rel
+ff_17:DET_Gender=Fem|Number=Sing|PronType=Ind
+ff_3:isto
+ff_4:PRON_Gender=Neut|Number=Sing|PronType=Dem
+ff_0:isto
+ff_1:PRON_Gender=Neut|Number=Sing|PronType=Dem
+ff_2:Enns
+ff_8:todo
+ff_9:DET_Gender=Masc|Number=Sing|PronType=Ind
+ff_14:todo
+ff_1:VERB_Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+ff_2:Vpi10s
+ff_2:Md3afs
+ff_1:AUX_Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+ff_6:isto
+ff_7:PRON_Gender=Neut|Number=Sing|PronType=Dem
+ff_8:isto
+ff_9:PRON_Gender=Neut|Number=Sing|PronType=Dem
+ff_16:medios
+ff_11:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ff_0:cando
+ff_8:non
+ff_9:ADV_Polarity=Neg
+ff_14:cando
+ff_16:isto
+ff_17:PRON_Gender=Neut|Number=Sing|PronType=Dem
+ff_15:AUX_Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+ff_10:teñen
+ff_11:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+ff_12:teñen
+ff_6:teñen
+ff_7:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+ff_8:teñen
+ff_3:teñen
+ff_11:VERB_Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_13:VERB_Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_7:VERB_Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_20:o
+ff_21:PRON_Gender=Masc|Number=Sing|Person=3|PronType=Art
+ff_17:PRON_Gender=Masc|Number=Sing|Person=3|PronType=Art
+ff_0:sempre
+ff_1:PRON_Gender=Masc|Number=Sing|Person=3|PronType=Art
+ff_9:AUX_Mood=Cnd,Ind|Number=Sing|Person=3|VerbForm=Fin
+ff_16:ben
+ff_3:ben
+ff_10:como
+ff_11:ADV_PronType=Int
+ff_12:como
+ff_13:ADV_PronType=Int
+ff_0:ben
+ff_8:moi
+ff_1:PRON_Gender=Masc|Number=Sing|PronType=Int
+ff_2:Gnms
+ff_7:ADV_PronType=Int
+ff_9:ADV_PronType=Int
+ff_4:ADV_PronType=Int
+ff_11:PRON_Gender=Masc|Number=Sing|PronType=Int
+ff_18:.
+ff_21:PRON_Gender=Masc|Number=Sing|PronType=Int
+ff_1:ADV_PronType=Int
+ff_2:Wg
+ff_4:PRON_Gender=Masc|Number=Sing|PronType=Int
+ff_7:PRON_Gender=Masc|Number=Sing|PronType=Int
+ff_14:.
+ff_17:PRON_Gender=Masc|Number=Sing|PronType=Int
+ff_4:VERB_Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin
+ff_15:AUX_Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+ff_17:AUX_Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+ff_6:agora
+ff_8:agora
+ff_3:agora
+ff_0:agora
+ff_2:Ncdms
+ff_0:mellor
+ff_1:ADJ_Degree=Cmp|Gender=Fem|Number=Sing
+ff_14:e
+ff_15:CCONJ__
+ff_0:lles
+ff_1:PRON_Case=Dat|Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs
+ff_2:Rad3mp
+ff_16:lles
+ff_17:PRON_Case=Dat|Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs
+ff_17:ADV_PronType=Int
+ff_3:onde
+ff_14:están
+ff_15:AUX_Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+ff_0:están
+ff_11:PRON_Gender=Masc|Number=Plur|Person=3|PronType=Art
+ff_21:PRON_Gender=Masc|Number=Plur|Person=3|PronType=Art
+ff_1:DET_Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs
+ff_2:Md1pmp
+ff_9:DET_Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs
+ff_6:estes
+ff_7:DET_Gender=Masc|Number=Plur|PronType=Dem
+ff_8:estes
+ff_9:DET_Gender=Masc|Number=Plur|PronType=Dem
+ff_16:ou
+ff_16:(
+ff_16:galego
+ff_3:galego
+ff_4:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_0:'
+ff_2:Q'
+ff_6:'
+ff_8:'
+ff_4:AUX_Mood=Cnd,Ind|Number=Plur|Person=1
+ff_19:AUX_Mood=Cnd,Ind|Number=Plur|Person=1
+ff_21:AUX_Mood=Cnd,Ind|Number=Plur|Person=1
+ff_1:AUX_Mood=Cnd,Ind|Number=Plur|Person=1
+ff_2:Vci10p
+ff_6:non
+ff_15:AUX_Mood=Cnd,Ind|Number=Plur|Person=1
+ff_17:AUX_Mood=Cnd,Ind|Number=Plur|Person=1
+ff_6:senón
+ff_4:NUM_Gender=Fem|Number=Sing|NumType=Ord
+ff_11:NUM_Gender=Fem|Number=Sing|NumType=Ord
+ff_2:Nonfs
+ff_11:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_13:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_7:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_14:é
+ff_1:AUX_Number=Plur|Person=1|VerbForm=Inf
+ff_2:V0f10p
+ff_4:ADJ_Gender=Com|Number=Plur
+ff_4:VERB_Number=Plur|Person=1|VerbForm=Inf
+ff_1:VERB_Number=Plur|Person=1|VerbForm=Inf
+ff_12:?
+ff_1:DET_Gender=Masc|Number=Sing|PronType=Int
+ff_2:Gdms
+ff_9:DET_Gender=Masc|Number=Sing|PronType=Int
+ff_15:DET_Gender=Masc|Number=Sing|PronType=Int
+ff_1:PRON_Gender=Masc|Number=Sing|PronType=Dem
+ff_2:Enms
+ff_3:un
+ff_9:VERB_Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin
+ff_1:VERB_Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin
+ff_2:Vei10p
+ff_14:máis
+ff_9:ADJ_Number=Sing
+ff_1:ADJ_Number=Sing
+ff_9:PRON_Gender=Com|Number=Sing|PronType=Ind
+ff_15:PRON_Gender=Com|Number=Sing|PronType=Ind
+ff_4:PRON_Gender=Com|Number=Sing|PronType=Ind
+ff_1:PRON_Gender=Com|Number=Sing|PronType=Ind
+ff_2:Inas
+ff_16:senón
+ff_17:DET_Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs
+ff_4:DET_Definite=Def|Gender=Masc|Number=Plur|PronType=Art
+ff_4:PRON_Gender=Masc|Number=Sing|PronType=Dem
+ff_1:ADJ_Degree=Cmp|Gender=Masc|Number=Plur
+ff_2:Acmp
+ff_9:ADJ_Degree=Cmp|Gender=Masc|Number=Plur
+ff_3:iso
+ff_0:iso
+ff_4:VERB_Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin
+ff_0:quen
+ff_1:PRON_Gender=Com|Number=Sing|PronType=Rel
+ff_2:Tnas
+ff_21:VERB_Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_6:quen
+ff_7:PRON_Gender=Com|Number=Sing|PronType=Rel
+ff_16:quen
+ff_17:PRON_Gender=Com|Number=Sing|PronType=Rel
+ff_17:VERB_Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_1:DET_Definite=Ind|Gender=Fem|Number=Plur|PronType=Art
+ff_2:Difp
+ff_7:DET_Definite=Ind|Gender=Fem|Number=Plur|PronType=Art
+ff_16:galegos
+ff_1:AUX_Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin
+ff_2:A000
+ff_7:ADJ__
+ff_15:ADJ__
+ff_9:ADJ__
+ff_4:ADJ__
+ff_11:ADJ__
+ff_21:ADJ__
+ff_4:PRON_Gender=Fem|Number=Sing|Person=3|PronType=Art
+ff_14:política
+ff_16:política
+ff_0:até
+ff_6:até
+ff_16:até
+ff_1:AUX_Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin
+ff_15:PROPN_Gender=Fem|Number=Plur
+ff_17:PROPN_Gender=Fem|Number=Plur
+ff_4:PROPN_Gender=Fem|Number=Plur
+ff_1:PROPN_Gender=Fem|Number=Plur
+ff_2:Spfp
+ff_8:foi
+ff_9:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ff_6:mesmo
+ff_10:mesmo
+ff_12:mesmo
+ff_13:ADV__
+ff_1:AUX_Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+ff_6:cando
+ff_9:ADJ_Gender=Com|Number=Sing
+ff_1:ADJ_Gender=Com|Number=Sing
+ff_2:A0as
+ff_16:con
+ff_18:socialistas
+ff_20:como
+ff_21:ADV_PronType=Rel
+ff_16:novo
+ff_14:dereito
+ff_2:Tn00
+ff_1:PRON_PronType=Prs
+ff_2:Rad2as
+ff_6:vida
+ff_9:PRON_PronType=Prs
+ff_15:PRON_Gender=Fem|Number=Sing|PronType=Rel
+ff_17:PRON_Gender=Fem|Number=Sing|PronType=Rel
+ff_8:outras
+ff_9:PRON_Gender=Fem|Number=Plur|PronType=Ind
+ff_17:NUM_Gender=Fem|Number=Plur|NumType=Card
+ff_3:outras
+ff_4:PRON_Gender=Fem|Number=Plur|PronType=Ind
+ff_1:PRON_Gender=Fem|Number=Plur|PronType=Ind
+ff_2:Infp
+ff_9:PRON_Gender=Fem|Number=Sing|Person=3|PronType=Art
+ff_14:entre
+ff_1:PRON_Gender=Fem|Number=Sing|Person=3|PronType=Art
+ff_8:mellor
+ff_9:ADJ_Degree=Cmp|Gender=Fem|Number=Sing
+ff_14:mellor
+ff_15:ADJ_Degree=Cmp|Gender=Fem|Number=Sing
+ff_10:.
+ff_15:VERB_Gender=Masc|Number=Sing|VerbForm=Part
+ff_2:Nonms
+ff_4:NUM_Gender=Masc|Number=Sing|NumType=Ord
+ff_7:NUM_Gender=Masc|Number=Sing|NumType=Ord
+ff_9:NUM_Gender=Masc|Number=Sing|NumType=Ord
+ff_9:VERB_Mood=Cnd,Ind|Number=Sing|Person=3|VerbForm=Fin
+ff_4:VERB_Mood=Cnd,Ind|Number=Sing|Person=3|VerbForm=Fin
+ff_1:VERB_Mood=Cnd,Ind|Number=Sing|Person=3|VerbForm=Fin
+ff_6:anos
+ff_3:traballo
+ff_0:traballo
+ff_6:este
+ff_7:DET_Gender=Masc|Number=Sing|PronType=Dem
+ff_15:VERB_Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+ff_16:esta
+ff_17:DET_Gender=Fem|Number=Sing|PronType=Dem
+ff_0:me
+ff_1:PRON_Case=Dat|Clitic=Yes|Gender=Com|Number=Sing|Person=1|PronType=Prs
+ff_2:Rad1as
+ff_4:VERB_Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin
+ff_0:_
+ff_2:Q_
+ff_6:_
+ff_8:_
+ff_4:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin
+ff_11:PRON_Gender=Fem|Number=Sing|PronType=Rel
+ff_21:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin
+ff_17:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin
+ff_21:ADJ_Gender=Fem|Number=Plur
+ff_16:sen
+ff_17:ADP_AdpType=Prep|Polarity=Neg
+ff_0:nos
+ff_1:PRON_Case=Dat|Clitic=Yes|Gender=Com|Number=Plur|Person=1|PronType=Prs
+ff_2:Rad1ap
+ff_0:moito
+ff_18:galego
+ff_20:galego
+ff_13:PROPN_Gender=Masc|Number=Sing
+ff_0:vai
+ff_14:vai
+ff_16:vai
+ff_7:NOUN__
+ff_9:NOUN__
+ff_4:NOUN__
+ff_1:NOUN__
+ff_4:PRON_Gender=Com|Number=Sing|Person=1|PronType=Prs
+ff_1:PRON_Gender=Com|Number=Sing|Person=1|PronType=Prs
+ff_2:Rtp1as
+ff_13:VERB_VerbForm=Ger
+ff_19:VERB_VerbForm=Ger
+ff_17:PROPN_Gender=Fem
+ff_1:DET_PronType=Art
+ff_9:DET_PronType=Art
+ff_15:DET_PronType=Art
+ff_14:nos
+ff_15:PRON_Case=Acc|Clitic=Yes|Gender=Com|Number=Plur|Person=1|PronType=Prs
+ff_1:PRON_Case=Acc|Clitic=Yes|Gender=Com|Number=Plur|Person=1|PronType=Prs
+ff_2:Raa1ap
+ff_16:ten
+ff_6:traballo
+ff_16:traballo
+ff_6:nos
+ff_7:PRON_Case=Acc|Clitic=Yes|Gender=Com|Number=Plur|Person=1|PronType=Prs
+ff_17:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+ff_15:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin
+ff_1:DET_Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_2:Md3sfp
+ff_9:DET_Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_15:DET_Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_9:X__
+ff_1:X__
+ff_2:Za00
+ff_4:VERB_Mood=Cnd,Ind|Number=Plur|Person=3|VerbForm=Fin
+ff_12:o
+ff_13:PRON_Gender=Masc|Number=Sing|Person=3|PronType=Art
+ff_9:PRON_Gender=Masc|Number=Sing|Person=3|PronType=Art
+ff_1:AUX_Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_15:AUX_Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_16:ser
+ff_17:AUX_VerbForm=Inf
+ff_0:antes
+ff_9:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin
+ff_14:antes
+ff_4:NUM_NumType=Card
+ff_4:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin
+ff_1:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin
+ff_17:PRON_Case=Dat|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_18:vida
+ff_15:DET_Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_10:en
+ff_12:isto
+ff_13:PRON_Gender=Neut|Number=Sing|PronType=Dem
+ff_18:isto
+ff_19:PRON_Gender=Neut|Number=Sing|PronType=Dem
+ff_20:en
+ff_21:ADP_AdpType=Prep
+ff_14:isto
+ff_15:PRON_Gender=Neut|Number=Sing|PronType=Dem
+ff_18:teñen
+ff_19:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+ff_21:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+ff_14:teñen
+ff_8:...
+ff_15:PRON_Gender=Fem|Number=Plur|PronType=Ind
+ff_18:son
+ff_19:AUX_Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+ff_21:VERB_VerbForm=Ger
+ff_1:DET_Definite=Ind|Gender=Masc|Number=Plur|PronType=Art
+ff_2:Dimp
+ff_15:DET_Definite=Ind|Gender=Masc|Number=Plur|PronType=Art
+ff_17:DET_Definite=Ind|Gender=Masc|Number=Plur|PronType=Art
+ff_21:PRON_Gender=Masc|Number=Plur|PronType=Rel
+ff_17:PRON_Gender=Masc|Number=Plur|PronType=Rel
+ff_1:PRON_Case=Acc|Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs
+ff_2:Raa3fp
+ff_9:PRON_Case=Acc|Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs
+ff_1:ADP__
+ff_7:PRON_Gender=Masc|Number=Sing|PronType=Ind
+ff_4:ADP__
+ff_6:si
+ff_8:si
+ff_0:si
+ff_11:DET_Definite=Def|Gender=Masc|Number=Plur|PronType=Art
+ff_21:DET_Definite=Def|Gender=Masc|Number=Plur|PronType=Art
+ff_1:DET_Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs
+ff_2:Md1smp
+ff_9:DET_Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs
+ff_11:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin
+ff_13:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin
+ff_7:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin
+ff_14:lles
+ff_15:PRON_Case=Dat|Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs
+ff_1:AUX_Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin
+ff_8:traballo
+ff_14:traballo
+ff_4:PRON_Gender=Com|PronType=Int
+ff_11:PRON_Gender=Com|PronType=Int
+ff_19:ADJ_Gender=Masc|Number=Sing
+ff_21:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ff_1:PRON_Gender=Com|PronType=Int
+ff_2:Gnaa
+ff_9:DET_Gender=Fem|Number=Plur|PronType=Ind
+ff_3:poder
+ff_0:poder
+ff_3:por
+ff_2:Q-
+ff_3:estes
+ff_4:PRON_Gender=Masc|Number=Plur|PronType=Dem
+ff_1:PRON_Gender=Masc|Number=Plur|PronType=Dem
+ff_2:Enmp
+ff_15:VERB_Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ff_8:proposta
+ff_10:estes
+ff_11:PRON_Gender=Masc|Number=Plur|PronType=Dem
+ff_20:unha
+ff_21:PRON_Gender=Fem|Number=Sing|PronType=Ind
+ff_17:PRON_Gender=Fem|Number=Sing|PronType=Ind
+ff_3:unha
+ff_4:PRON_Gender=Fem|Number=Sing|PronType=Ind
+ff_1:PRON_Gender=Fem|Number=Sing|PronType=Ind
+ff_2:Infs
+ff_14:ser
+ff_15:AUX_VerbForm=Inf
+ff_16:súas
+ff_17:DET_Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_15:PRON_Case=Dat|Clitic=Yes|Gender=Com|Number=Plur|Person=1|PronType=Prs
+ff_10:un
+ff_11:DET_Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
+ff_12:un
+ff_13:DET_Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
+ff_17:PRON_Gender=Masc|Number=Sing|PronType=Ind
+ff_15:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ff_8:;
+ff_14:seu
+ff_15:DET_Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_16:seu
+ff_17:DET_Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_0:;
+ff_2:Q;
+ff_13:AUX_Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+ff_14:sen
+ff_15:ADP_AdpType=Prep|Polarity=Neg
+ff_16:nos
+ff_17:PRON_Case=Dat|Clitic=Yes|Gender=Com|Number=Plur|Person=1|PronType=Prs
+ff_9:AUX_Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+ff_7:ADP__
+ff_16:lo
+ff_6:ben
+ff_8:ben
+ff_11:VERB_Gender=Masc|Number=Sing|VerbForm=Part
+ff_13:VERB_Gender=Masc|Number=Sing|VerbForm=Part
+ff_7:VERB_Gender=Masc|Number=Sing|VerbForm=Part
+ff_10:hai
+ff_21:VERB_Gender=Masc|Number=Sing|VerbForm=Part
+ff_3:sempre
+ff_10:_
+ff_12:_
+ff_18:sempre
+ff_19:ADV__
+ff_14:sempre
+ff_13:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ff_14:estes
+ff_15:DET_Gender=Masc|Number=Plur|PronType=Dem
+ff_11:PROPN_Gender=Fem
+ff_13:PROPN_Gender=Fem
+ff_11:ADV_Polarity=Neg
+ff_19:PROPN_Gender=Fem
+ff_4:ADV_Polarity=Neg
+ff_12:de
+ff_9:DET_Gender=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_1:DET_Gender=Masc|Number=Plur|PronType=Int
+ff_2:Gdmp
+ff_7:DET_Gender=Masc|Number=Plur|PronType=Int
+ff_9:DET_Gender=Masc|Number=Plur|PronType=Int
+ff_4:ADP_AdpType=Prep|Polarity=Neg
+ff_9:AUX_Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_1:AUX_VerbForm=Ger
+ff_12:hai
+ff_18:hai
+ff_19:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_7:AUX_VerbForm=Ger
+ff_14:facer
+ff_17:AUX_VerbForm=Ger
+ff_14:hai
+ff_9:ADJ_Degree=Sup|Gender=Masc|Number=Sing
+ff_4:ADJ_Degree=Sup|Gender=Masc|Number=Sing
+ff_1:ADJ_Degree=Sup|Gender=Masc|Number=Sing
+ff_2:Asms
+ff_8:é
+ff_1:AUX_Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+ff_2:Vps10p
+ff_15:AUX_Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+ff_3:xa
+ff_9:PRON_Gender=Masc|Number=Sing|PronType=Rel
+ff_13:VERB_Gender=Masc|Number=Plur|VerbForm=Part
+ff_18:nos
+ff_19:PRON_Clitic=Yes|Gender=Masc|Number=Plur|Person=1|PronType=Prs
+ff_20:nos
+ff_21:PRON_Clitic=Yes|Gender=Masc|Number=Plur|Person=1|PronType=Prs
+ff_15:PRON_Clitic=Yes|Gender=Masc|Number=Plur|Person=1|PronType=Prs
+ff_17:PRON_Clitic=Yes|Gender=Masc|Number=Plur|Person=1|PronType=Prs
+ff_1:PRON_Clitic=Yes|Gender=Masc|Number=Plur|Person=1|PronType=Prs
+ff_2:Raf1mp
+ff_10:o
+ff_11:DET_Definite=Def|Gender=Masc|Number=Sing|PronType=Art
+ff_3:todo
+ff_4:DET_Gender=Masc|Number=Sing|PronType=Ind
+ff_20:facer
+ff_9:PRON_PronType=Ind
+ff_15:PRON_PronType=Ind
+ff_1:PRON_PronType=Ind
+ff_2:In00
+ff_4:PRON_PronType=Ind
+ff_1:PRON_Gender=Com|Number=Plur|PronType=Rel
+ff_2:Tnap
+ff_7:PRON_Gender=Com|Number=Plur|PronType=Rel
+ff_16:só
+ff_10:onde
+ff_11:ADV_PronType=Rel
+ff_7:PRON_Gender=Fem|Number=Plur|Person=3|PronType=Prs
+ff_17:PRON_Gender=Fem|Number=Plur|Person=3|PronType=Prs
+ff_4:PRON_Gender=Fem|Number=Plur|Person=3|PronType=Prs
+ff_1:PRON_Gender=Fem|Number=Plur|Person=3|PronType=Prs
+ff_2:Rtp3fp
+ff_3:música
+ff_0:música
+ff_0:fai
+ff_6:moito
+ff_8:moito
+ff_3:sen
+ff_0:ese
+ff_6:ese
+ff_14:mesmo
+ff_8:música
+ff_14:música
+ff_11:ADJ_Number=Sing
+ff_13:ADJ_Number=Sing
+ff_7:ADJ_Number=Sing
+ff_3:moito
+ff_0:ter
+ff_3:ter
+ff_20:todos
+ff_21:PRON_Gender=Masc|Number=Plur|PronType=Ind
+ff_8:bases
+ff_4:NUM_Gender=Fem|Number=Plur|NumType=Card
+ff_2:Ncnfp
+ff_17:VERB_Gender=Fem|Number=Plur|VerbForm=Part
+ff_3:este
+ff_14:bases
+ff_19:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_4:PROPN_Gender=Masc|Number=Plur
+ff_1:PROPN_Gender=Masc|Number=Plur
+ff_2:Spmp
+ff_16:é
+ff_3:quen
+ff_4:PRON_Gender=Com|Number=Sing|PronType=Rel
+ff_18:unha
+ff_19:DET_Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+ff_21:DET_Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+ff_10:lo
+ff_11:PRON_Case=Acc|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_12:lo
+ff_13:PRON_Case=Acc|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_4:AUX_Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+ff_20:hai
+ff_12:máis
+ff_6:iso
+ff_14:por
+ff_4:PRON_Gender=Com|Number=Plur|Person=1|PronType=Prs
+ff_1:PRON_Gender=Com|Number=Plur|Person=1|PronType=Prs
+ff_2:Rtp1ap
+ff_15:PRON_Gender=Masc|Number=Sing|Person=3|PronType=Art
+ff_16:si
+ff_17:PRON_Gender=Fem|Number=Sing|Person=3|PronType=Prs
+ff_3:si
+ff_10:mellor
+ff_6:mellor
+ff_3:foi
+ff_4:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ff_8:ikebana
+ff_3:ikebana
+ff_0:ikebana
+ff_3:arte
+ff_0:arte
+ff_14:moito
+ff_14:moi
+ff_14:ikebana
+ff_1:PRON_Case=Acc|Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+ff_2:Raa3fs
+ff_11:PRON_Gender=Masc|Number=Sing|PronType=Ind
+ff_13:PRON_Gender=Masc|Number=Sing|PronType=Ind
+ff_3:só
+ff_1:AUX_Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin
+ff_2:Vpi20s
+ff_4:VERB_Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin
+ff_1:VERB_Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin
+ff_8:fai
+ff_10:máis
+ff_18:o
+ff_19:PRON_Gender=Masc|Number=Sing|Person=3|PronType=Art
+ff_20:máis
+ff_1:PRON_Case=Dat|Clitic=Yes|Gender=Com|Number=Sing|Person=2|PronType=Prs
+ff_15:PRON_Case=Dat|Clitic=Yes|Gender=Com|Number=Sing|Person=2|PronType=Prs
+ff_17:PRON_Case=Dat|Clitic=Yes|Gender=Com|Number=Sing|Person=2|PronType=Prs
+ff_11:VERB_Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin
+ff_13:VERB_Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin
+ff_7:VERB_Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin
+ff_9:VERB_Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin
+ff_3:parte
+ff_0:parte
+ff_16:galega
+ff_12::
+ff_4:DET_Definite=Def|Gender=Masc|Number=Sing|PronType=Art
+ff_13:DET_Definite=Def|Gender=Masc|Number=Sing|PronType=Art
+ff_8::
+ff_1:PRON_Case=Dat|Clitic=Yes|Gender=Com|Number=Plur|Person=3|PronType=Prs
+ff_2:Rad3ap
+ff_15:PRON_Case=Dat|Clitic=Yes|Gender=Com|Number=Plur|Person=3|PronType=Prs
+ff_17:PRON_Case=Dat|Clitic=Yes|Gender=Com|Number=Plur|Person=3|PronType=Prs
+ff_8:terra
+ff_3:terra
+ff_0:terra
+ff_8:la
+ff_15:PRON_Gender=Masc|Number=Sing|PronType=Ind
+ff_19:NUM_Gender=Masc|Number=Sing|NumType=Card
+ff_10:(
+ff_12:)
+ff_18:de
+ff_20:traballo
+ff_14:mundo
+ff_14:seus
+ff_15:DET_Gender=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs
+ff_7:DET_Gender=Fem|Number=Plur|PronType=Dem
+ff_9:DET_Gender=Fem|Number=Plur|PronType=Dem
+ff_3:e
+ff_4:CCONJ__
+ff_12:e
+ff_13:CCONJ__
+ff_3:la
+ff_4:DET_Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_12:la
+ff_13:DET_Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_18:la
+ff_19:DET_Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_20:por
+ff_1:PRON_Case=Acc|Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs
+ff_2:Raa3mp
+ff_15:PRON_Case=Acc|Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs
+ff_17:VERB_Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+ff_8:despois
+ff_10:zona
+ff_20:zona
+ff_6:zona
+ff_16:zona
+ff_3:zona
+ff_0:zona
+ff_10:traballo
+ff_12:traballo
+ff_10:todos
+ff_11:DET_Gender=Masc|Number=Plur|PronType=Ind
+ff_12:todos
+ff_13:DET_Gender=Masc|Number=Plur|PronType=Ind
+ff_4:DET_Gender=Masc|Number=Plur|PronType=Ind
+ff_11:VERB_Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+ff_13:VERB_Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+ff_9:PRON_Gender=Masc|Number=Plur|Person=3|PronType=Art
+ff_15:PRON_Gender=Masc|Number=Plur|Person=3|PronType=Art
+ff_7:VERB_Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+ff_8:anos
+ff_18:lle
+ff_19:PRON_Case=Dat|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_20:proposta
+ff_8:galegos
+ff_20:"
+ff_13:ADJ_Gender=Masc|Number=Plur
+ff_19:ADJ_Gender=Masc|Number=Plur
+ff_21:ADJ_Gender=Masc|Number=Plur
+ff_1:AUX_Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+ff_2:Ves30p
+ff_15:AUX_Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+ff_1:DET_Gender=Fem|Number=Plur|PronType=Rel
+ff_2:Tdfp
+ff_17:DET_Gender=Fem|Number=Plur|PronType=Rel
+ff_19:ADJ_Gender=Fem|Number=Plur
+ff_2:Md3ams
+ff_21:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin
+ff_3:galega
+ff_15:PRON_Case=Acc|Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+ff_17:PRON_Case=Acc|Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+ff_18::
+ff_11:NUM_Gender=Fem|Number=Plur|NumType=Card
+ff_9:PROPN_Gender=Fem|Number=Plur
+ff_17:DET_PronType=Art
+ff_7:ADJ_Gender=Com|Number=Sing
+ff_9:VERB_Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+ff_4:VERB_Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+ff_13:VERB_Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin
+ff_1:VERB_Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+ff_9:VERB_Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin
+ff_4:VERB_Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin
+ff_1:VERB_Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin
+ff_2:Ves10p
+ff_11:ADJ_Gender=Com
+ff_13:ADJ_Gender=Com
+ff_7:ADJ_Gender=Com
+ff_9:ADJ_Gender=Com
+ff_1:ADJ_Gender=Com
+ff_3:non
+ff_13:VERB_Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ff_19:VERB_Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ff_1:PRON_Gender=Fem|Number=Sing|PronType=Dem
+ff_2:Enfs
+ff_17:PRON_PronType=Ind
+ff_16:arte
+ff_8:cidade
+ff_21:PRON_Gender=Masc|Number=Sing|PronType=Ind
+ff_14:_
+ff_16:_
+ff_21:DET_Definite=Def|Gender=Masc|Number=Sing|PronType=Art
+ff_8:arte
+ff_14:ten
+ff_17:AUX_Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+ff_14:goberno
+ff_20:estes
+ff_21:PRON_Gender=Masc|Number=Plur|PronType=Dem
+ff_15:AUX_Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+ff_17:AUX_Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+ff_10:para
+ff_12:para
+ff_8:quen
+ff_9:PRON_Gender=Com|PronType=Rel
+ff_14:quen
+ff_15:PRON_Gender=Com|PronType=Rel
+ff_1:PRON_Gender=Com|PronType=Rel
+ff_2:Tnaa
+ff_17:VERB_Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ff_17:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ff_15:CCONJ_Polarity=Neg
+ff_12:fai
+ff_6:socialistas
+ff_7:NOUN_Gender=Com|Number=Plur
+ff_19:NOUN_Gender=Com|Number=Plur
+ff_21:NOUN_Gender=Com|Number=Plur
+ff_17:NOUN_Gender=Com|Number=Plur
+ff_10:porque
+ff_14:son
+ff_8:futuro
+ff_17:ADJ_Degree=Cmp|Gender=Masc|Number=Sing
+ff_16:futuro
+ff_15:VERB_Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+ff_16:goberno
+ff_10:si
+ff_20:si
+ff_16:moito
+ff_16:ese
+ff_17:DET_Gender=Masc|Number=Sing|PronType=Dem
+ff_16:todos
+ff_1:AUX_Gender=Masc|Number=Sing|VerbForm=Part
+ff_7:AUX_Gender=Masc|Number=Sing|VerbForm=Part
+ff_17:AUX_Gender=Masc|Number=Sing|VerbForm=Part
+ff_10:iso
+ff_11:PRON_Gender=Neut|Number=Sing|PronType=Dem
+ff_19:VERB_Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_20:iso
+ff_21:PRON_Gender=Neut|Number=Sing|PronType=Dem
+ff_16:iso
+ff_3:aínda
+ff_16:algúns
+ff_17:PRON_Gender=Masc|Number=Plur|PronType=Ind
+ff_15:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin
+ff_8:ter
+ff_15:DET_Definite=Ind|Gender=Fem|Number=Plur|PronType=Art
+ff_17:DET_Definite=Ind|Gender=Fem|Number=Plur|PronType=Art
+ff_4:PRON_Gender=Fem|Number=Plur|PronType=Rel
+ff_9:ADV_PronType=Rel
+ff_16:moi
+ff_14:agora
+ff_8:poder
+ff_1:PRON_Gender=Com|Number=Sing|PronType=Int
+ff_2:Gnas
+ff_7:DET_Gender=Fem|Number=Sing|PronType=Ind
+ff_18:política
+ff_15:PRON_Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_1:PRON_Gender=Fem|Number=Plur|PronType=Dem
+ff_2:Enfp
+ff_15:PRON_Gender=Fem|Number=Plur|PronType=Dem
+ff_17:PRON_Gender=Fem|Number=Plur|PronType=Dem
+ff_8:iso
+ff_14:iso
+ff_3:é
+ff_18:é
+ff_14:ter
+ff_8:ese
+ff_14:ese
+ff_6:só
+ff_16:cidade
+ff_15:VERB_Gender=Masc|Number=Plur|VerbForm=Part
+ff_7:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ff_17:AUX_Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin
+ff_9:PRON_Gender=Fem|Number=Sing|PronType=Rel
+ff_14:ou
+ff_8:tempo
+ff_1:DET_Gender=Masc|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_2:Md3pms
+ff_9:DET_Gender=Masc|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_8:sempre
+ff_16:antes
+ff_16:cando
+ff_9:INTJ__
+ff_4:INTJ__
+ff_5:INTJ
+ff_1:INTJ__
+ff_2:Y
+ff_17:INTJ__
+ff_4:VERB_Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+ff_1:VERB_Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+ff_12:ser
+ff_13:AUX_VerbForm=Inf
+ff_18:ser
+ff_19:AUX_VerbForm=Inf
+ff_21:SCONJ__
+ff_3:ser
+ff_4:AUX_VerbForm=Inf
+ff_14:país
+ff_9:DET_Definite=Ind|Gender=Fem|Number=Plur|PronType=Art
+ff_2:Q!
+ff_15:ADJ_Degree=Sup|Gender=Fem|Number=Sing
+ff_7:NOUN_Gender=Com|Number=Sing
+ff_9:NOUN_Gender=Com|Number=Sing
+ff_1:NOUN_Gender=Com|Number=Sing
+ff_2:Scas
+ff_3:lo
+ff_4:PRON_Case=Acc|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_4:VERB_Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin
+ff_11:NOUN_Gender=Com|Number=Sing
+ff_13:NOUN_Gender=Com|Number=Sing
+ff_17:DET_Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs
+ff_1:PRON_Case=Acc|Clitic=Yes|Gender=Com|Number=Sing|Person=1|PronType=Prs
+ff_2:Raa1as
+ff_4:NOUN_Gender=Com|Number=Sing
+ff_12:;
+ff_9:AUX_Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ff_15:AUX_Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ff_15:PRON_Gender=Com|Number=Sing|Person=1|PronType=Prs
+ff_16:me
+ff_17:PRON_Case=Dat|Clitic=Yes|Gender=Com|Number=Sing|Person=1|PronType=Prs
+ff_7:AUX_Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_1:DET_Gender=Fem|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs
+ff_2:Md1pfp
+ff_17:DET_Gender=Fem|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs
+ff_15:PRON_Case=Dat|Clitic=Yes|Gender=Com|Number=Sing|Person=3|PronType=Prs
+ff_17:PRON_Case=Dat|Clitic=Yes|Gender=Com|Number=Sing|Person=3|PronType=Prs
+ff_11:PRON_Gender=Com|PronType=Rel
+ff_7:PRON_Gender=Com|PronType=Rel
+ff_1:PRON_Case=Nom|Gender=Com|Number=Plur|Person=1|PronType=Prs
+ff_2:Rtn1ap
+ff_15:PRON_Case=Nom|Gender=Com|Number=Plur|Person=1|PronType=Prs
+ff_17:PRON_Case=Nom|Gender=Com|Number=Plur|Person=1|PronType=Prs
+ff_1:DET_Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs
+ff_2:Md1sfs
+ff_15:DET_Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs
+ff_17:DET_Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs
+ff_8:sobre
+ff_18:mesmo
+ff_19:PRON_Gender=Masc|Number=Sing|PronType=Ind
+ff_20:mesmo
+ff_1:DET_Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs
+ff_2:Md1sms
+ff_9:DET_Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs
+ff_16:están
+ff_8:así
+ff_8:parte
+ff_10:está
+ff_11:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_12:está
+ff_13:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_8:onde
+ff_6:está
+ff_7:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_10:lle
+ff_11:PRON_Case=Dat|Clitic=Yes|Gender=Com|Number=Sing|Person=3|PronType=Prs
+ff_20:lle
+ff_21:PRON_Case=Dat|Clitic=Yes|Gender=Com|Number=Sing|Person=3|PronType=Prs
+ff_6:lle
+ff_7:PRON_Case=Dat|Clitic=Yes|Gender=Com|Number=Sing|Person=3|PronType=Prs
+ff_14:zona
+ff_21:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_18:zona
+ff_18:e
+ff_19:CCONJ__
+ff_20:só
+ff_8:antes
+ff_3:antes
+ff_9:NUM_Gender=Fem|Number=Sing|NumType=Ord
+ff_18:proposta
+ff_16:poder
+ff_14:poder
+ff_18:proxecto
+ff_17:PRON_Gender=Com|PronType=Rel
+ff_14:'
+ff_16:'
+ff_4:PRON_Gender=Com|PronType=Rel
+ff_17:AUX_Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_9:PRON_Gender=Fem|Number=Plur|Person=3|PronType=Art
+ff_3:as
+ff_4:PRON_Gender=Fem|Number=Plur|Person=3|PronType=Art
+ff_1:PRON_Gender=Fem|Number=Plur|Person=3|PronType=Art
+ff_17:PRON_Case=Acc|Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs
+ff_13:NUM_Gender=Fem|Number=Sing|NumType=Card
+ff_19:NUM_Gender=Fem|Number=Sing|NumType=Card
+ff_21:NUM_Gender=Fem|Number=Sing|NumType=Card
+ff_9:NUM_Gender=Fem|Number=Sing|NumType=Card
+ff_1:NUM_Gender=Fem|Number=Sing|NumType=Card
+ff_2:Ncnfs
+ff_15:NUM_Gender=Fem|Number=Sing|NumType=Card
+ff_17:NUM_Gender=Fem|Number=Sing|NumType=Card
+ff_19:ADJ__
+ff_8:(
+ff_4:NUM_Gender=Fem|Number=Sing|NumType=Card
+ff_12:(
+ff_7:NUM_Gender=Masc|Number=Sing|NumType=Card
+ff_3:mellor
+ff_4:ADJ_Degree=Cmp|Gender=Masc|Number=Sing
+ff_17:DET_Gender=Masc|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_15:ADJ_Degree=Sup|Gender=Masc|Number=Sing
+ff_17:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin
+ff_15:DET_Gender=Masc|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_1:AUX_Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+ff_15:AUX_Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+ff_17:AUX_Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+ff_14:sobre
+ff_9:PRON_Gender=Fem|Number=Sing|PronType=Ind
+ff_15:PRON_Gender=Fem|Number=Plur|Person=3|PronType=Prs
+ff_12:futuro
+ff_18:os
+ff_19:DET_Definite=Def|Gender=Masc|Number=Plur|PronType=Art
+ff_3:esta
+ff_4:PRON_Gender=Fem|Number=Sing|PronType=Dem
+ff_13:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin
+ff_18:un
+ff_19:DET_Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
+ff_19:NUM_Gender=Masc|Number=Plur|NumType=Card
+ff_16:este
+ff_8:obra
+ff_17:VERB_VerbForm=Ger
+ff_19:VERB_Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+ff_16:ter
+ff_14:futuro
+ff_13:VERB_Number=Plur|Person=3|VerbForm=Inf
+ff_15:ADJ_Degree=Cmp|Gender=Masc|Number=Plur
+ff_11:NUM_Gender=Masc|Number=Sing|NumType=Card
+ff_17:ADJ_Degree=Cmp|Gender=Masc|Number=Plur
+ff_15:AUX_Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin
+ff_10:poder
+ff_20:poder
+ff_6:poder
+ff_17:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ff_18:tempo
+ff_14:tempo
+ff_8:zona
+ff_6:novo
+ff_8:outro
+ff_9:VERB_Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin
+ff_19:PRON_Gender=Fem|Number=Sing|PronType=Rel
+ff_21:PRON_Gender=Fem|Number=Sing|PronType=Rel
+ff_1:VERB_Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin
+ff_2:Vfi10p
+ff_17:PRON_Case=Acc|Clitic=Yes|Gender=Com|Number=Plur|Person=1|PronType=Prs
+ff_18:poder
+ff_17:ADJ_Degree=Cmp|Gender=Fem|Number=Sing
+ff_17:DET_Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs
+ff_17:PRON_Gender=Com|Number=Plur|PronType=Rel
+ff_6:algúns
+ff_8:algúns
+ff_7:PRON_Gender=Masc|Number=Plur|Person=3|PronType=Prs
+ff_9:PRON_Gender=Masc|Number=Plur|Person=3|PronType=Prs
+ff_4:PRON_Gender=Masc|Number=Plur|Person=3|PronType=Prs
+ff_1:PRON_Gender=Masc|Number=Plur|Person=3|PronType=Prs
+ff_2:Rtp3mp
+ff_13:VERB_Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+ff_19:VERB_Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+ff_10:as
+ff_11:PRON_Case=Acc|Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs
+ff_12:as
+ff_13:PRON_Case=Acc|Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs
+ff_4:PRON_Case=Acc|Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs
+ff_7:PRON_Case=Acc|Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs
+ff_16:agora
+ff_14:los
+ff_16:los
+ff_0:los
+ff_21:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+ff_16:tempo
+ff_9:PRON_Gender=Fem|Number=Plur|Person=3|PronType=Prs
+ff_2:Ncdfs
+ff_13:NUM_Gender=Masc|Number=Plur|NumType=Card
+ff_10:país
+ff_12:país
+ff_20:bases
+ff_6:país
+ff_12:que
+ff_13:PRON_Gender=Masc|Number=Sing|PronType=Rel
+ff_7:DET_Definite=Ind|Gender=Masc|Number=Plur|PronType=Art
+ff_7:PRON_Case=Dat|Clitic=Yes|Gender=Com|Number=Plur|Person=1|PronType=Prs
+ff_17:VERB_Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+ff_16:mais
+ff_19:PRON_Case=Dat|Clitic=Yes|Gender=Com|Number=Sing|Person=3|PronType=Prs
+ff_10:anos
+ff_12:anos
+ff_6:antes
+ff_6:outro
+ff_1:PRON_Case=Acc|Clitic=Yes|Gender=Masc|Number=Plur|Person=1|PronType=Prs
+ff_2:Raa1mp
+ff_9:PRON_Gender=Masc|Number=Sing|PronType=Dem
+ff_17:X__
+ff_17:DET_Gender=Masc|Number=Plur|PronType=Dem
+ff_16:aínda
+ff_4:X__
+ff_5:X
+ff_11:PRON_Gender=Masc|Number=Sing|Person=3|PronType=Art
+ff_7:PRON_Gender=Masc|Number=Sing|Person=3|PronType=Art
+ff_8:mais
+ff_9:VERB_Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+ff_14:)
+ff_10:'
+ff_20:'
+ff_2:S000
+ff_9:ADP__
+ff_2:Q/
+ff_2:Sc00
+ff_9:PRON_Gender=Masc|Number=Plur|PronType=Dem
+ff_17:VERB_Gender=Masc|Number=Plur|VerbForm=Part
+ff_9:AUX_Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+ff_18:medios
+ff_20:medios
+ff_20:de
+ff_15:PRON_Gender=Fem|Number=Plur|Person=3|PronType=Art
+ff_15:PRON_Gender=Com|Number=Sing|PronType=Rel
+ff_7:PRON_Gender=Fem|Number=Plur|Person=3|PronType=Art
+ff_8:lle
+ff_9:PRON_Case=Dat|Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs
+ff_7:DET_Gender=Fem|Number=Plur|PronType=Rel
+ff_9:DET_Gender=Fem|Number=Plur|PronType=Rel
+ff_16:estes
+ff_15:DET_Gender=Masc|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_17:DET_Gender=Masc|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_1:NUM_Gender=Com|Number=Plur|NumType=Card
+ff_2:Ncdap
+ff_9:NUM_Gender=Com|Number=Plur|NumType=Card
+ff_15:NUM_Gender=Com|Number=Plur|NumType=Card
+ff_8:tanto
+ff_11:PROPN_Gender=Masc|Number=Plur
+ff_21:PROPN_Gender=Masc|Number=Plur
+ff_7:PROPN_Gender=Masc|Number=Plur
+ff_17:PROPN_Gender=Masc|Number=Plur
+ff_1:NUM_Gender=Masc|Number=Plur|NumType=Ord
+ff_17:NUM_Gender=Masc|Number=Plur|NumType=Ord
+ff_9:ADJ_Gender=Com|Number=Plur
+ff_15:ADJ_Gender=Com|Number=Plur
+ff_1:ADJ_Gender=Com|Number=Plur
+ff_2:A0ap
+ff_10:política
+ff_6:política
+ff_16:proposta
+ff_1:DET_Gender=Fem|Number=Sing|PronType=Rel
+ff_2:Tdfs
+ff_7:DET_Gender=Fem|Number=Sing|PronType=Rel
+ff_9:DET_Gender=Fem|Number=Sing|PronType=Rel
+ff_9:PROPN_Gender=Masc|Number=Plur
+ff_21:NUM_Gender=Fem|Number=Plur|NumType=Card
+ff_20:los
+ff_13:VERB_Mood=Ind|VerbForm=Fin
+ff_19:PRON_PronType=Prs
+ff_21:PRON_PronType=Prs
+ff_9:VERB_Mood=Ind|VerbForm=Fin
+ff_15:PRON_PronType=Prs
+ff_17:PRON_PronType=Prs
+ff_2:Ra03aa
+ff_4:VERB_Mood=Ind|VerbForm=Fin
+ff_13:PRON_PronType=Prs
+ff_1:VERB_Mood=Ind|VerbForm=Fin
+ff_2:Vpi3p0
+ff_11:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin
+ff_13:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin
+ff_7:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin
+ff_9:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin
+ff_17:DET_Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs
+ff_6:galego
+ff_11:PRON_Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_7:PRON_Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_21:NUM_Gender=Masc|Number=Sing|NumType=Card
+ff_14:onde
+ff_2:Q¡
+ff_7:INTJ__
+ff_9:PRON_Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs
+ff_1:PRON_Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs
+ff_2:Rtn2ms
+ff_4:PRON_Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs
+ff_17:VERB_Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin
+ff_1:PRON_Case=Acc|Clitic=Yes|Gender=Masc|Number=Sing|Person=2|PronType=Prs
+ff_2:Raa2ms
+ff_9:PRON_Case=Acc|Clitic=Yes|Gender=Masc|Number=Sing|Person=2|PronType=Prs
+ff_14:me
+ff_15:PRON_Case=Dat|Clitic=Yes|Gender=Masc|Number=Sing|Person=1|PronType=Prs
+ff_1:PRON_Case=Dat|Clitic=Yes|Gender=Masc|Number=Sing|Person=1|PronType=Prs
+ff_2:Rad1ms
+ff_7:VERB_Mood=Cnd,Ind|Number=Sing|Person=3|VerbForm=Fin
+ff_4:AUX_Mood=Cnd,Ind|Number=Sing|Person=3|VerbForm=Fin
+ff_9:PRON_Gender=Masc|Number=Plur|PronType=Rel
+ff_11:PRON_Gender=Com|Number=Plur|Person=1|PronType=Prs
+ff_19:PRON_Case=Dat|Clitic=Yes|Gender=Com|Number=Plur|Person=1|PronType=Prs
+ff_14:ben
+ff_11:PRON_Case=Dat|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_21:PRON_Case=Dat|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_7:PRON_Case=Dat|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_17:CCONJ_Polarity=Neg
+ff_12:ter
+ff_18:ter
+ff_17:DET_Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_4:VERB_Mood=Imp|Number=Sing|Person=2|VerbForm=Fin
+ff_7:AUX_Mood=Cnd,Ind|Number=Sing|Person=3|VerbForm=Fin
+ff_3:novo
+ff_1:VERB_Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin
+ff_2:Vii10s
+ff_6:galegos
+ff_11:PRON_PronType=Ind
+ff_21:PRON_PronType=Ind
+ff_7:PRON_PronType=Ind
+ff_9:PRON_Gender=Com|PronType=Int
+ff_15:PROPN_Gender=Masc|Number=Plur
+ff_16:nosa
+ff_14:así
+ff_16::
+ff_8:nos
+ff_9:PRON_Case=Acc|Clitic=Yes|Gender=Com|Number=Plur|Person=1|PronType=Prs
+ff_13:NUM_Gender=Masc|Number=Sing|NumType=Card
+ff_8:só
+ff_17:ADP__
+ff_4:DET_Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
+ff_11:ADP__
+ff_20:para
+ff_21:ADP__
+ff_15:NOUN__
+ff_2:S0mp
+ff_14:desde
+ff_4:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Pqp|VerbForm=Fin
+ff_1:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Pqp|VerbForm=Fin
+ff_2:Vli30p
+ff_3:mais
+ff_14:mais
+ff_16:parte
+ff_11:AUX_VerbForm=Inf
+ff_3:outro
+ff_9:PRON_Case=Acc|Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs
+ff_15:PRON_Gender=Fem|Number=Sing|PronType=Ind
+ff_8:lles
+ff_9:PRON_Case=Dat|Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs
+ff_15:PRON_Case=Dat|Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs
+ff_1:PRON_Case=Dat|Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs
+ff_2:Rad3fp
+ff_6:tamén
+ff_8:tamén
+ff_16:outro
+ff_17:PRON_Case=Dat|Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs
+ff_1:AUX_Mood=Ind|Number=Plur|Person=3|Tense=Pqp|VerbForm=Fin
+ff_15:AUX_Mood=Ind|Number=Plur|Person=3|Tense=Pqp|VerbForm=Fin
+ff_3:tanto
+ff_12:tanto
+ff_19:PRON_Gender=Fem|Number=Plur|PronType=Ind
+ff_21:AUX_Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+ff_12:mellor
+ff_13:ADJ_Degree=Cmp|Gender=Masc|Number=Sing
+ff_4:SYM__
+ff_5:SYM
+ff_1:SYM__
+ff_2:Zs00
+ff_8:senón
+ff_16:sempre
+ff_9:PRON_Gender=Com|Number=Plur|Person=1|PronType=Prs
+ff_15:PRON_Gender=Com|Number=Plur|Person=1|PronType=Prs
+ff_9:PRON_Case=Nom|Gender=Com|Number=Plur|Person=1|PronType=Prs
+ff_4:PRON_Case=Nom|Gender=Com|Number=Plur|Person=1|PronType=Prs
+ff_14:porque
+ff_10:ben
+ff_12:ben
+ff_3:ou
+ff_1:ADJ_AdpType=Prep
+ff_7:ADJ_AdpType=Prep
+ff_9:ADJ_AdpType=Prep
+ff_9:VERB_Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+ff_20:onde
+ff_9:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Pqp|VerbForm=Fin
+ff_15:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Pqp|VerbForm=Fin
+ff_12:vida
+ff_1:VERB_Mood=Imp|Number=Sing|Person=2|VerbForm=Fin
+ff_2:V0m20s
+ff_11:VERB_Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin
+ff_13:VERB_Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin
+ff_7:VERB_Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin
+ff_9:VERB_Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin
+ff_4:VERB_Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin
+ff_1:VERB_Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin
+ff_2:Vei20s
+ff_7:VERB_Mood=Imp|Number=Sing|Person=2|VerbForm=Fin
+ff_20:un
+ff_1:DET_Gender=Fem|Number=Plur|PronType=Int
+ff_2:Gdfp
+ff_18:?
+ff_7:DET_Gender=Fem|Number=Plur|PronType=Int
+ff_9:DET_Gender=Fem|Number=Plur|PronType=Int
+ff_19:PRON_Case=Acc|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_2:Nodmp
+ff_9:NUM_Gender=Masc|Number=Plur|NumType=Ord
+ff_15:PRON_Case=Dat|Clitic=Yes|Gender=Com|Number=Sing|Person=1|PronType=Prs
+ff_4:VERB_Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin
+ff_1:VERB_Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin
+ff_9:VERB_Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin
+ff_16:mellor
+ff_1:VERB_Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin
+ff_2:Vei10s
+ff_15:PRON_Case=Acc|Clitic=Yes|Gender=Masc|Number=Sing|Person=1|PronType=Prs
+ff_1:PRON_Case=Acc|Clitic=Yes|Gender=Masc|Number=Sing|Person=1|PronType=Prs
+ff_2:Raa1ms
+ff_1:PRON_Clitic=Yes|Gender=Masc|Number=Sing|Person=1|PronType=Prs
+ff_2:Raf1ms
+ff_17:PRON_Clitic=Yes|Gender=Masc|Number=Sing|Person=1|PronType=Prs
+ff_1:PRON_Gender=Fem|Number=Sing|PronType=Int
+ff_2:Gnfs
+ff_6:la
+ff_4:PRON_Gender=Fem|Number=Plur|PronType=Int
+ff_10:vida
+ff_20:vida
+ff_16:vida
+ff_7:AUX_Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+ff_12:facer
+ff_18:mundo
+ff_20:mundo
+ff_10:música
+ff_19:PRON_Gender=Com|PronType=Int
+ff_4:AUX_Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+ff_15:PRON_Gender=Fem|Number=Plur|PronType=Rel
+ff_4:VERB_Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin
+ff_1:VERB_Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin
+ff_2:Vps20s
+ff_16:música
+ff_15:DET_Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs
+ff_6:outras
+ff_7:PRON_Gender=Fem|Number=Plur|PronType=Ind
+ff_11:VERB_Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+ff_13:VERB_Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+ff_7:VERB_Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+ff_9:PRON_Gender=Masc|Number=Sing|PronType=Int
+ff_11:PROPN_Gender=Fem|Number=Plur
+ff_21:PROPN_Gender=Fem|Number=Plur
+ff_11:PRON_Case=Dat|Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+ff_16:hai
+ff_7:PRON_Case=Dat|Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+ff_14:si
+ff_15:PRON_Gender=Masc|Number=Plur|Person=3|PronType=Prs
+ff_17:DET_Gender=Fem|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs
+ff_18:país
+ff_3:...
+ff_4:PUNCT__
+ff_5:PUNCT
+ff_7:VERB_Gender=Fem|Number=Plur|VerbForm=Part
+ff_11:VERB_Gender=Fem|Number=Plur|VerbForm=Part
+ff_13:VERB_Gender=Fem|Number=Plur|VerbForm=Part
+ff_11:PRON_Gender=Com|Number=Plur|PronType=Rel
+ff_12:parte
+ff_19:ADJ_Gender=Com|Number=Plur
+ff_21:ADJ_Gender=Com|Number=Plur
+ff_17:ADJ_Gender=Com|Number=Plur
+ff_21:DET_Gender=Fem|Number=Sing|PronType=Ind
+ff_4:DET_Gender=Fem|Number=Sing|PronType=Ind
+ff_7:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin
+ff_6:vai
+ff_8:vai
+ff_10:vai
+ff_12:vai
+ff_11:ADJ_Gender=Com|Number=Sing
+ff_13:ADJ_Gender=Com|Number=Sing
+ff_1:PRON_Gender=Masc|Number=Plur|PronType=Int
+ff_2:Gnmp
+ff_4:PRON_Gender=Masc|Number=Plur|PronType=Int
+ff_11:PRON_Gender=Masc|Number=Plur|PronType=Int
+ff_19:VERB_Gender=Masc|Number=Sing|VerbForm=Part
+ff_21:PRON_Gender=Masc|Number=Plur|PronType=Int
+ff_8:los
+ff_21:PRON_Gender=Com|PronType=Int
+ff_10:arte
+ff_14::
+ff_18:facer
+ff_21:VERB_Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin
+ff_10:ikebana
+ff_17:PRON_Clitic=Yes|Gender=Com|Number=Sing|Person=1|PronType=Prs
+ff_1:PRON_Clitic=Yes|Gender=Com|Number=Sing|Person=1|PronType=Prs
+ff_2:Raf1as
+ff_11:PRON_Case=Acc|Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+ff_13:PRON_Case=Acc|Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+ff_7:PRON_Case=Acc|Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+ff_9:PRON_Case=Acc|Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+ff_18:antes
+ff_20:antes
+ff_9:DET_Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs
+ff_1:PRON_Case=Nom|Gender=Fem|Number=Sing|Person=1|PronType=Prs
+ff_2:Rtn1fs
+ff_9:PRON_Case=Dat|Clitic=Yes|Gender=Com|Number=Plur|Person=1|PronType=Prs
+ff_10:ter
+ff_6:ter
+ff_13:NUM_Gender=Fem|Number=Sing|NumType=Ord
+ff_19:NUM_Gender=Com|Number=Plur|NumType=Card
+ff_21:NUM_Gender=Com|Number=Plur|NumType=Card
+ff_20:e
+ff_21:CCONJ__
+ff_2:Ncnap
+ff_4:NUM_Gender=Com|Number=Plur|NumType=Card
+ff_12:cidade
+ff_18:futuro
+ff_20:futuro
+ff_17:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin
+ff_16:era
+ff_19:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+ff_8:até
+ff_15:AUX_Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin
+ff_7:PRON_Gender=Masc|Number=Plur|Person=3|PronType=Art
+ff_10:parte
+ff_20:parte
+ff_6:parte
+ff_14:cidade
+ff_4:PRON_Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_9:PRON_Gender=Fem|Number=Plur|PronType=Rel
+ff_18:moito
+ff_7:PRON_Gender=Com|PronType=Int
+ff_1:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs
+ff_2:Rtn3mp
+ff_15:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs
+ff_17:PRON_Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs
+ff_10:tamén
+ff_19:PRON_Gender=Masc|Number=Plur|Person=3|PronType=Art
+ff_20:os
+ff_17:PRON_Gender=Masc|Number=Plur|Person=3|PronType=Art
+36
+case
+det
+nmod
+punct
+conj
+amod
+cc
+mark
+xcomp
+obl
+nsubj
+ccomp
+advmod
+obj
+acl
+cop
+nummod
+fixed
+expl
+iobj
+nsubj:pass
+aux:pass
+flat:name
+advcl
+aux
+appos
+csubj
+parataxis
+compound
+flat
+discourse
+flat:foreign
+vocative
+list
+dep
+orphan
+1613
+8 2 564
+3 3 77
+84 4 31
+249 5 8
+309 -1 6
+4 7 -8
+11 -8 -8
+53 9 12
+1489 -18 10
+4 11 -8
+11 -8 -8
+83 13 24
+309 14 16
+1 -8 15
+4 -1 -8
+355 -8 17
+2 18 23
+1 19 21
+12 20 -8
+4 -8 -8
+98 22 -8
+11 -8 -8
+12 -8 -8
+531 25 26
+355 -1 -8
+25 -1 27
+187 28 29
+1 -8 -8
+409 30 -8
+98 -8 -8
+526 -18 32
+276 33 39
+98 34 38
+12 35 -1
+1052 -1 36
+666 -1 37
+4 -18 -18
+275 -8 -1
+1 40 49
+1780 -8 41
+5 42 44
+4 43 -1
+12 -1 -1
+6 45 -1
+112 -1 46
+4 47 -1
+28 -1 48
+391 -1 -1
+362 50 53
+98 51 -1
+1115 -8 52
+4 -1 -1
+156 -1 54
+626 55 56
+336 -1 -1
+400 57 58
+896 -8 -1
+982 59 60
+342 -8 -1
+330 61 62
+25 -1 -1
+54 63 66
+98 64 -1
+12 65 -1
+4 -1 -1
+53 67 73
+5 68 70
+4 69 -1
+12 -1 -1
+28 71 -1
+4 72 -1
+12 -1 -1
+5 74 -1
+98 75 -1
+4 76 -1
+12 -1 -1
+38 -4 78
+84 79 308
+140 80 82
+846 81 -13
+83 -8 -13
+273 83 90
+524 -7 84
+639 -7 85
+978 86 88
+543 -8 87
+412 -7 -7
+2179 89 -8
+184 -8 -1
+70 91 93
+25 92 -7
+69 -8 -7
+392 94 100
+531 -19 95
+409 96 97
+12 -19 -19
+249 98 -19
+12 99 -19
+4 -19 -19
+184 101 167
+655 102 103
+11 -21 -11
+923 -21 104
+107 105 106
+288 -11 -14
+582 107 130
+285 -14 108
+903 -10 109
+543 -11 110
+20 111 -11
+232 -14 112
+421 -14 113
+684 -14 114
+806 -14 115
+857 -14 116
+2094 -14 117
+2149 -14 118
+83 -11 119
+412 -11 120
+187 -11 121
+324 -11 122
+309 123 124
+4 -14 -11
+4 125 -11
+1293 -11 126
+1543 -11 127
+249 -11 128
+409 129 -11
+12 -11 -11
+1682 131 132
+4 -10 -14
+285 133 137
+480 134 135
+12 -11 -11
+4 136 -11
+12 -11 -11
+187 138 139
+12 -11 -11
+480 140 147
+806 -11 141
+409 -14 142
+482 -14 143
+249 -14 144
+867 -14 145
+83 -11 146
+421 -11 -11
+867 -14 148
+12 149 165
+421 -11 150
+204 -11 151
+324 -11 152
+756 -11 153
+1489 -11 154
+83 -11 155
+185 156 160
+806 -14 157
+4 158 -11
+894 -11 159
+249 -11 -11
+806 -11 161
+2094 -11 162
+288 163 164
+531 -11 -14
+249 -11 -11
+421 166 -11
+11 -11 -14
+25 168 225
+83 169 184
+26 170 171
+4 -14 -18
+114 -14 172
+260 -11 173
+213 -6 174
+302 -9 175
+1041 -13 176
+1125 -11 177
+1727 -11 178
+598 -25 179
+58 -14 180
+73 -14 181
+222 -14 182
+1368 -14 183
+1459 -14 -25
+260 -11 185
+26 186 190
+817 -29 187
+4 188 -14
+249 -18 189
+409 -14 -14
+412 -25 191
+655 192 197
+397 -14 193
+609 -16 194
+950 -22 195
+189 -22 196
+334 -22 -25
+204 198 200
+189 -16 199
+545 -16 -22
+251 201 203
+249 202 -13
+12 -1 -13
+73 204 205
+409 -14 -14
+87 206 207
+425 -16 -22
+213 208 209
+2163 -6 -9
+1041 -13 210
+85 -9 211
+49 -9 212
+302 213 214
+4 -9 -13
+58 -14 215
+422 -14 216
+19 217 -20
+139 -13 218
+808 -22 219
+2175 -10 220
+1536 -14 221
+684 -14 222
+1348 -14 223
+114 224 -11
+285 -11 -14
+365 226 232
+364 -16 227
+83 -25 228
+204 -16 229
+11 230 -16
+412 -25 231
+763 -16 -25
+251 233 243
+83 -1 234
+762 -13 235
+543 236 237
+250 -8 -8
+87 -8 238
+400 -8 239
+409 240 242
+12 241 -13
+250 -8 -8
+421 -8 -13
+91 -2 244
+396 -13 245
+325 246 259
+502 247 249
+12 248 -11
+187 -14 -20
+4 250 -18
+20 251 -14
+285 -20 252
+12 253 -20
+1293 -20 254
+249 255 256
+326 -19 -20
+83 257 -19
+326 -19 258
+618 -20 -20
+1241 260 263
+12 261 -20
+409 -19 262
+249 -20 -20
+422 264 267
+412 -19 265
+1047 -19 266
+543 -14 -14
+291 268 272
+776 -22 269
+87 -16 270
+4 271 -25
+83 -16 -25
+657 -22 273
+86 274 275
+219 -22 -25
+987 276 278
+316 -3 277
+655 -14 -11
+20 279 305
+1226 280 281
+1215 -14 -20
+1059 282 286
+285 283 284
+12 -19 -20
+531 -14 285
+756 -14 -20
+409 287 288
+1 -18 -11
+545 -16 289
+250 -13 290
+174 -11 291
+249 292 296
+1265 -20 293
+1594 -14 294
+73 -14 295
+55 -14 -11
+1215 -20 297
+614 -11 298
+936 -11 299
+107 -19 300
+232 -19 301
+1228 -19 302
+83 303 -14
+1594 -14 304
+1240 -14 -14
+11 306 307
+249 -19 -8
+19 -2 -11
+25 309 468
+6 310 391
+49 -6 311
+302 -6 312
+66 -6 313
+213 -6 314
+139 315 323
+28 316 318
+12 317 -13
+140 -13 -13
+4 319 -7
+5 320 322
+12 321 -13
+140 -13 -13
+54 -13 -13
+705 -17 324
+242 -17 325
+260 326 328
+5 -3 327
+261 -11 -3
+273 329 330
+5 -1 -8
+568 -17 331
+628 -17 332
+70 -7 333
+635 -17 334
+28 335 358
+91 -2 336
+576 -2 337
+351 -3 338
+73 -3 339
+140 -13 340
+365 -16 341
+660 -6 342
+71 -6 343
+598 -25 344
+26 -3 345
+333 -29 346
+552 -11 347
+1435 -6 348
+334 -16 349
+291 -25 350
+545 -25 351
+85 -34 352
+1179 -34 353
+1279 -34 354
+130 -16 355
+425 -16 356
+536 -16 357
+692 -16 -2
+1131 -29 359
+251 360 361
+5 -8 -1
+347 362 363
+789 -15 -6
+1279 364 365
+5 -26 -5
+291 366 367
+112 -16 -16
+333 -6 368
+873 -6 369
+130 -16 370
+189 -16 371
+598 -16 372
+58 -5 373
+114 -3 374
+202 -15 375
+924 -15 376
+454 -6 377
+933 -6 378
+425 -25 379
+2096 -25 380
+73 -11 381
+1659 -11 382
+2253 -11 383
+221 -17 384
+2004 -17 385
+365 -16 386
+414 -16 387
+545 -16 388
+697 -16 389
+179 390 -2
+12 -2 -2
+259 392 418
+397 -23 393
+260 394 397
+11 395 -30
+130 -28 396
+258 -23 -23
+770 -23 398
+139 -13 399
+92 -2 400
+351 -23 401
+331 -23 402
+23 -2 403
+453 -17 404
+50 -6 405
+302 -6 406
+66 -6 407
+454 -6 408
+545 -16 409
+114 -3 410
+1188 -20 411
+1499 -23 412
+213 -6 413
+49 -6 414
+329 -6 415
+660 -6 416
+146 417 -2
+12 -2 -2
+527 419 424
+273 -8 420
+334 -16 421
+425 -16 422
+139 423 -18
+4 -18 -18
+139 425 426
+500 -18 -13
+157 427 444
+91 -2 428
+140 -13 429
+69 430 431
+505 -7 -8
+505 432 435
+73 -3 433
+302 -5 434
+987 -11 -16
+156 436 438
+202 -5 437
+365 -16 -16
+273 -7 439
+66 -6 440
+213 -6 441
+114 -11 442
+260 -11 443
+1199 -11 -16
+167 445 458
+273 -1 446
+4 447 449
+166 -3 448
+302 -6 -2
+576 -2 450
+49 -6 451
+140 -13 452
+174 -3 453
+283 -11 454
+1113 -11 455
+1780 456 457
+86 -16 -25
+545 -25 -16
+627 459 463
+302 -6 460
+628 -30 461
+114 -3 462
+924 -15 -2
+666 -8 464
+26 -32 465
+1523 -31 466
+275 -16 467
+628 -17 -18
+69 469 474
+701 470 471
+12 -7 -7
+54 472 -7
+12 473 -7
+4 -7 -7
+139 475 493
+846 476 479
+259 -3 477
+276 -13 478
+815 -8 -7
+4 480 485
+268 -18 481
+458 -18 482
+1330 -18 483
+28 484 -13
+140 -13 -3
+1289 -3 486
+12 487 -13
+501 -18 488
+140 489 -13
+550 -13 490
+359 -13 491
+362 -13 492
+377 -13 -18
+273 494 516
+184 495 504
+4 496 501
+276 -18 497
+112 -1 498
+6 499 -8
+12 500 -8
+5 -8 -8
+167 -8 502
+1052 -8 503
+275 -8 -18
+250 505 514
+275 -18 506
+350 -1 507
+54 -7 508
+4 509 -7
+330 -7 510
+259 -1 511
+12 512 -1
+6 513 -1
+28 -7 -1
+392 -8 515
+560 -8 -7
+365 517 518
+1247 -25 -16
+563 -13 519
+251 520 525
+250 521 -13
+28 -1 522
+5 523 -1
+12 524 -1
+1557 -1 -1
+184 526 532
+13 527 -2
+185 528 530
+6 -11 529
+276 -11 -14
+157 531 -11
+480 -11 -11
+50 -6 533
+302 534 535
+525 -18 -6
+527 536 537
+291 -16 -18
+291 -16 538
+86 539 540
+85 -29 -16
+657 541 543
+505 542 -16
+12 -22 -16
+545 -16 544
+260 545 548
+5 -6 546
+1939 -30 547
+98 -1 -1
+1055 -6 549
+113 -6 550
+98 -1 551
+628 -17 552
+6 553 555
+776 -16 554
+1861 -17 -2
+276 556 557
+114 -10 -1
+1137 558 559
+4 -18 -11
+325 -11 560
+357 -3 561
+392 -19 562
+1059 -20 563
+1240 -20 -2
+84 565 1161
+30 566 674
+85 567 590
+356 568 575
+611 569 570
+17 -9 -12
+543 -9 571
+867 -9 572
+93 573 -24
+285 -24 574
+25 -9 -24
+15 576 582
+104 577 578
+412 -15 -24
+7 -24 579
+193 580 -9
+93 -9 581
+162 -9 -24
+193 583 585
+29 -12 584
+9 -9 -24
+162 -24 586
+93 587 588
+35 -9 -24
+87 -24 589
+192 -24 -9
+29 591 634
+260 592 595
+9 -14 593
+249 -14 594
+324 -14 -10
+429 -12 596
+1680 -12 597
+397 598 600
+17 -20 599
+409 -14 -20
+32 601 603
+316 -10 602
+531 -10 -20
+298 604 607
+351 -20 605
+409 -20 606
+26 -20 -10
+543 -20 608
+357 609 610
+9 -20 -14
+562 -14 611
+96 -10 612
+750 613 614
+61 -14 -10
+114 -10 615
+15 616 620
+26 -10 617
+73 -10 618
+204 -10 619
+655 -10 -20
+280 621 622
+58 -14 -10
+412 623 625
+12 624 -20
+353 -14 -10
+107 -20 626
+756 -20 627
+856 -20 628
+876 -20 629
+894 -20 630
+93 631 632
+35 -20 -10
+192 633 -10
+17 -10 -10
+512 635 638
+101 -12 636
+60 -12 637
+193 -12 -24
+139 639 641
+15 640 -24
+140 -13 -8
+535 -24 642
+16 643 651
+903 644 645
+2 -13 -3
+1518 646 647
+7 -20 -10
+251 -13 648
+1459 -13 649
+531 -11 650
+1137 -11 -10
+303 652 654
+249 653 -10
+17 -10 -6
+90 655 657
+83 -10 656
+444 -10 -3
+411 -20 658
+1964 -20 659
+998 -14 660
+104 661 664
+543 -14 662
+107 663 -10
+25 -10 -3
+328 665 667
+60 -10 666
+17 -10 -24
+51 668 670
+25 669 -24
+46 -15 -10
+464 -24 671
+660 -24 672
+257 673 -10
+4 -10 -28
+270 675 703
+190 676 686
+139 677 679
+9 -27 678
+1763 -7 -8
+347 680 681
+162 -12 -15
+25 682 684
+129 -9 683
+187 -28 -12
+366 -12 685
+2 -8 -24
+967 -5 687
+7 688 692
+26 689 690
+9 -10 -27
+4 691 -10
+371 -9 -24
+269 693 695
+25 694 -7
+33 -10 -24
+565 696 698
+11 697 -12
+132 -12 -24
+677 699 701
+17 -12 700
+46 -12 -24
+93 702 -5
+15 -12 -24
+76 704 706
+7 705 -5
+17 -13 -24
+41 707 749
+159 708 720
+139 -13 709
+16 710 711
+83 -25 -5
+176 712 713
+138 -6 -28
+85 714 715
+17 -24 -28
+366 716 717
+249 -5 -24
+429 -5 718
+201 -24 719
+260 -14 -10
+40 721 735
+73 722 723
+46 -36 -10
+9 724 733
+89 725 726
+2 -13 -24
+211 -24 727
+114 -11 728
+234 -11 729
+133 -24 730
+15 731 -5
+93 -24 732
+512 -24 -5
+26 -3 734
+132 -28 -5
+131 736 745
+254 737 738
+15 -24 -10
+249 739 741
+25 740 -28
+162 -28 -14
+87 -12 742
+300 -10 743
+47 -3 744
+257 -3 -14
+25 746 747
+413 -24 -28
+15 -13 748
+12 -4 -5
+85 750 770
+12 751 766
+7 752 760
+83 753 754
+4 -5 -9
+51 -27 755
+280 -28 756
+4 757 -12
+152 -12 758
+16 759 -9
+249 -12 -9
+193 761 762
+4 -27 -12
+295 763 764
+9 -12 -14
+25 765 -12
+225 -5 -24
+83 767 768
+7 -5 -24
+800 -24 769
+1295 -12 -9
+139 771 772
+226 -24 -13
+3 773 779
+249 774 775
+152 -8 -13
+89 -1 776
+88 -13 777
+83 778 -8
+53 -8 -13
+413 780 785
+12 781 782
+412 -5 -24
+9 783 -9
+193 -9 784
+641 -9 -24
+304 786 794
+269 787 792
+659 -24 788
+12 789 -24
+133 790 -10
+15 -10 791
+83 -10 -24
+26 -10 793
+114 -10 -24
+279 795 820
+16 796 804
+83 797 798
+114 -14 -25
+11 799 -14
+25 800 802
+7 -13 801
+543 -24 -8
+7 -16 803
+69 -7 -13
+211 805 807
+317 -24 806
+12 -10 -20
+135 808 810
+133 -12 809
+202 -6 -15
+676 811 813
+43 -9 812
+62 -10 -14
+26 814 815
+7 -10 -14
+138 -11 816
+667 -24 817
+9 818 819
+4 -11 -10
+12 -24 -10
+366 821 828
+365 -25 822
+249 823 825
+7 -28 824
+4 -5 -12
+25 826 -28
+93 -28 827
+234 -28 -24
+83 829 883
+888 -25 830
+213 831 832
+51 -6 -9
+726 833 834
+15 -10 -12
+1821 835 836
+9 -11 -24
+269 -12 837
+102 -10 838
+474 -10 839
+953 -10 840
+556 841 846
+181 -11 842
+357 -10 843
+88 844 -14
+482 -14 845
+9 -10 -14
+351 847 849
+135 -11 848
+352 -11 -11
+562 850 852
+25 851 -14
+7 -11 -11
+78 -11 853
+7 854 865
+148 -11 855
+11 856 -11
+12 857 864
+135 -11 858
+174 -11 859
+92 860 861
+1555 -14 -11
+478 -11 862
+507 -11 863
+770 -11 -14
+1250 -11 -14
+35 866 872
+4 867 -11
+88 -14 868
+25 869 -14
+435 -11 870
+93 -11 871
+444 -11 -14
+1384 -11 873
+2140 -11 874
+1745 -11 875
+176 876 877
+73 -14 -11
+29 878 -14
+444 879 880
+15 -11 -14
+16 881 -14
+25 882 -14
+26 -14 -14
+7 884 987
+12 885 959
+148 886 887
+204 -21 -11
+581 -11 888
+296 889 892
+88 890 -11
+249 891 -10
+9 -11 -14
+16 893 930
+655 894 895
+26 -9 -7
+347 -9 896
+202 -9 897
+923 -21 898
+707 899 900
+25 -10 -14
+117 -11 901
+260 -11 902
+192 -11 903
+797 -10 904
+711 905 906
+249 -10 -11
+543 -14 907
+684 -14 908
+882 909 910
+73 -10 -11
+959 911 913
+285 -11 912
+2163 -14 -10
+421 -11 914
+473 -11 915
+506 -11 916
+770 -11 917
+1581 -11 918
+102 919 920
+107 -14 -11
+51 -11 921
+61 -11 922
+58 -14 923
+4 924 -11
+249 -14 925
+87 -11 926
+93 -11 927
+110 -11 928
+432 929 -14
+1782 -14 -11
+285 931 933
+290 932 -11
+25 -28 -24
+133 934 940
+155 935 936
+25 -28 -9
+208 937 938
+249 -24 -15
+17 939 -10
+49 -6 -11
+162 941 944
+17 942 943
+15 -14 -9
+15 -28 -12
+211 945 946
+36 -11 -10
+155 947 948
+26 -11 -20
+129 -24 949
+107 -10 950
+202 -15 951
+182 -5 952
+1557 -5 953
+25 954 -11
+47 -11 955
+65 -11 956
+35 -11 957
+345 -11 958
+397 -11 -14
+537 960 964
+49 -9 961
+660 -9 962
+15 963 -12
+317 -9 -14
+397 -11 965
+232 966 967
+9 -11 -24
+87 968 969
+93 -9 -21
+1293 970 971
+88 -13 -11
+300 972 973
+9 -28 -11
+11 974 986
+148 -11 975
+15 976 984
+202 -9 977
+924 -9 978
+385 -10 979
+1776 -10 980
+199 -11 981
+802 -11 982
+90 983 -14
+88 -11 -14
+4 985 -14
+114 -11 -10
+114 -14 -11
+16 988 1047
+726 -10 989
+26 990 1005
+295 -18 991
+249 992 999
+248 -11 993
+43 -14 994
+12 995 -11
+448 -11 996
+857 -11 997
+25 998 -14
+29 -11 -14
+102 -11 1000
+756 -11 1001
+543 1002 1003
+29 -11 -14
+409 1004 -14
+248 -14 -11
+888 1006 1007
+204 -25 -28
+1074 1008 1009
+249 -14 -10
+655 1010 1012
+302 -10 1011
+552 -11 -11
+660 -24 1013
+412 1014 1015
+351 -11 -14
+285 1016 1026
+295 1017 1018
+4 -14 -11
+296 -10 1019
+1852 -10 1020
+108 -14 1021
+25 1022 -11
+4 1023 -11
+11 1024 -11
+1168 -11 1025
+114 -11 -11
+88 1027 1028
+204 -13 -14
+269 -13 1029
+21 1030 -9
+224 -9 1031
+357 -14 1032
+1228 -14 1033
+296 1034 1038
+352 1035 1036
+409 -14 -11
+187 1037 -11
+73 -11 -11
+543 -14 1039
+73 1040 1043
+249 1041 -14
+4 1042 -14
+882 -14 -11
+48 -14 1044
+351 -14 1045
+409 1046 -11
+29 -11 -14
+190 1048 1052
+11 1049 -14
+589 -15 1050
+4 1051 -24
+152 -24 -12
+1141 1053 1055
+9 -12 1054
+17 -15 -27
+412 1056 1061
+373 1057 1058
+93 -14 -11
+51 -28 1059
+257 -28 1060
+290 -28 -14
+726 1062 1063
+15 -10 -24
+628 1064 1065
+15 -10 -14
+133 1066 1069
+26 1067 1068
+29 -14 -9
+73 -11 -5
+137 1070 1072
+15 -14 1071
+46 -12 -27
+204 1073 1076
+29 1074 1075
+17 -14 -11
+26 -21 -12
+655 1077 1079
+17 -11 1078
+96 -21 -14
+1747 -28 1080
+78 -9 1081
+182 -9 1082
+331 1083 1084
+17 -11 -10
+581 -11 1085
+557 1086 1094
+1215 -11 1087
+1528 -11 1088
+2193 -11 1089
+52 -11 1090
+298 1091 -14
+249 1092 -14
+4 1093 -14
+9 -14 -14
+33 -10 1095
+435 1096 1099
+409 1097 1098
+9 -14 -14
+43 -11 -10
+208 -10 1100
+135 1101 1106
+249 1102 1105
+538 -14 1103
+15 1104 -11
+96 -11 -10
+114 -11 -14
+155 1107 1109
+162 -11 1108
+187 -11 -14
+19 1110 -11
+324 -14 1111
+43 1112 1115
+409 -11 1113
+187 -14 1114
+29 -11 -11
+26 1116 1129
+444 1117 1119
+249 1118 -11
+17 -11 -14
+409 1120 1121
+88 -14 -11
+249 1122 -14
+17 -14 1123
+46 -11 1124
+15 1125 1127
+2017 -11 1126
+405 -11 -14
+506 -14 1128
+1206 -14 -11
+409 1130 1131
+300 -11 -14
+107 -11 1132
+1015 -11 1133
+463 -14 1134
+17 1135 1142
+249 1136 1138
+295 1137 -14
+51 -14 -11
+543 -14 1139
+1898 -14 1140
+280 1141 -11
+58 -14 -11
+806 -14 1143
+49 -11 1144
+95 -11 1145
+373 -11 1146
+549 -11 1147
+594 -11 1148
+817 -11 1149
+901 -11 1150
+1644 -11 1151
+52 1152 1153
+96 -14 -11
+421 1154 1155
+88 -14 -11
+15 1156 -14
+285 1157 1158
+58 -11 -14
+298 1159 -14
+25 1160 -14
+1293 -11 -11
+30 1162 1275
+157 1163 1176
+85 1164 1169
+429 -12 1165
+101 1166 -24
+815 1167 1168
+16 -9 -9
+93 -9 -24
+429 1170 1171
+88 -24 -12
+385 1172 1174
+9 -10 1173
+29 -6 -12
+90 -3 1175
+139 -13 -10
+85 1177 1191
+6 1178 1190
+54 -24 1179
+15 1180 1188
+112 1181 1183
+337 -15 1182
+17 -15 -24
+218 -24 1184
+176 1185 -15
+93 1186 1187
+356 -15 -15
+5 -24 -15
+101 1189 -24
+176 -24 -15
+89 -9 -24
+429 1192 1195
+610 1193 1194
+35 -15 -24
+162 -12 -15
+139 1196 1202
+6 1197 -13
+9 -13 1198
+4 1199 -1
+112 -1 1200
+5 1201 -13
+25 -1 -13
+277 -10 1203
+101 1204 1230
+5 1205 1221
+90 -10 1206
+137 -24 1207
+366 -24 1208
+66 -6 1209
+213 -6 1210
+302 -6 1211
+2008 -6 1212
+133 -5 1213
+35 1214 1219
+199 -5 1215
+43 1216 -3
+9 1217 -3
+4 1218 -3
+25 -3 -3
+51 1220 -3
+94 -5 -3
+259 1222 1228
+23 -2 1223
+340 -26 1224
+49 -6 1225
+302 -6 1226
+62 1227 -3
+58 -3 -23
+626 1229 -3
+9 -3 -3
+6 1231 1261
+705 -17 1232
+290 1233 1234
+118 -27 -15
+15 1235 1242
+31 1236 1239
+260 -3 1237
+28 1238 -1
+58 -1 -3
+302 -6 1240
+51 -15 1241
+160 -15 -3
+133 1243 1246
+5 1244 1245
+26 -5 -3
+12 -3 -24
+213 -6 1247
+317 -24 1248
+215 -5 1249
+349 -5 1250
+921 1251 1252
+5 -3 -5
+561 1253 1254
+54 -5 -3
+5 1255 -3
+356 1256 1258
+73 1257 -3
+9 -5 -3
+93 1259 -3
+60 1260 -3
+26 -5 -3
+29 1262 1267
+15 1263 1265
+16 1264 -5
+258 -6 -1
+33 1266 -3
+26 -3 -6
+331 1268 1269
+4 -5 -10
+526 -10 1270
+302 -6 1271
+359 -15 1272
+242 -10 1273
+330 1274 -3
+9 -3 -3
+190 1276 1302
+270 1277 1293
+16 -13 1278
+93 1279 1282
+4 1280 1281
+6 -24 -3
+11 -15 -10
+133 1283 1286
+89 1284 1285
+4 -11 -15
+6 -3 -12
+25 1287 1290
+11 1288 -15
+152 -15 1289
+599 -15 -27
+167 -12 1291
+6 -15 1292
+11 -27 -16
+36 -24 1294
+1342 -28 1295
+585 -24 1296
+156 1297 1298
+9 -24 -15
+218 -12 1299
+1529 -12 1300
+257 1301 -15
+137 -12 -15
+76 1303 1312
+258 1304 1307
+46 -28 1305
+23 -2 1306
+91 -2 -5
+624 -17 1308
+211 1309 -5
+61 -3 1310
+467 -3 1311
+581 -3 -5
+40 1313 1349
+211 1314 1318
+9 -5 1315
+6 -3 1316
+17 -10 1317
+4 -3 -28
+16 1319 1325
+91 -2 1320
+11 1321 1324
+23 -2 1322
+139 -31 1323
+399 -23 -5
+6 -17 -30
+133 1326 1340
+25 1327 1338
+15 1328 1336
+4 1329 1335
+73 -26 1330
+159 1331 -15
+6 1332 -5
+114 -5 1333
+66 -26 1334
+397 -26 -15
+135 -15 -3
+136 1337 -5
+6 -24 -15
+90 -26 1339
+137 -3 -13
+429 1341 1342
+5 -24 -15
+363 1343 1344
+6 -6 -26
+12 1345 1348
+507 -11 1346
+202 -15 1347
+660 -15 -5
+15 -3 -5
+157 1350 1391
+12 1351 1387
+139 -13 1352
+16 1353 1368
+3 -13 1354
+7 1355 1364
+505 1356 1358
+51 -21 1357
+413 -24 -5
+66 -6 1359
+49 -5 1360
+213 -5 1361
+4 1362 -10
+298 -10 1363
+711 -10 -11
+4 1365 -5
+86 -16 1366
+25 1367 -10
+605 -10 -11
+26 1369 1374
+295 -28 1370
+17 -11 1371
+29 1372 -14
+449 -14 1373
+45 -11 -11
+73 1375 1376
+41 -28 -11
+117 -11 1377
+235 1378 1379
+7 -11 -5
+138 1380 1381
+4 -12 -5
+176 1382 1383
+9 -28 -12
+211 1384 1385
+25 -10 -28
+31 -10 1386
+58 -10 -24
+279 1388 1390
+2 -8 1389
+9 -2 -10
+125 -9 -27
+25 1392 1569
+302 1393 1400
+16 -6 1394
+296 -11 1395
+270 -5 1396
+138 -6 1397
+4 1398 -6
+12 -9 1399
+6 -6 -9
+49 1401 1402
+15 -6 -24
+6 1403 1516
+66 -6 1404
+213 1405 1406
+230 -15 -6
+202 1407 1408
+132 -6 -15
+660 1409 1411
+46 -24 1410
+298 -13 -15
+159 1412 1420
+17 1413 1419
+112 1414 1415
+2 -31 -24
+33 1416 1417
+278 -5 -3
+4 1418 -13
+7 -5 -31
+58 -5 -15
+148 1421 1422
+235 -3 -11
+385 1423 1429
+520 -17 1424
+139 1425 1426
+28 -28 -13
+11 1427 -2
+28 -13 1428
+130 -16 -15
+296 1430 1435
+73 1431 1433
+93 -23 1432
+314 -15 -11
+16 1434 -5
+351 -11 -3
+16 1436 1463
+12 1437 1458
+28 1438 1446
+88 1439 1440
+2 -13 -26
+397 -3 1441
+114 -11 1442
+7 1443 -5
+1555 -5 1444
+26 -11 1445
+92 -11 -3
+5 1447 1454
+7 1448 1452
+26 -5 1449
+43 -2 1450
+73 -18 1451
+260 -11 -3
+269 -3 1453
+73 -5 -16
+54 1455 1457
+2 -13 1456
+162 -15 -5
+4 -6 -17
+112 1459 1460
+769 -9 -15
+54 1461 1462
+260 -3 -15
+88 -17 -3
+41 1464 1480
+152 1465 1470
+112 1466 1468
+15 -17 1467
+137 -15 -24
+17 1469 -26
+89 -6 -28
+15 1471 1473
+200 -26 1472
+300 -26 -3
+622 1474 1476
+5 -5 1475
+628 -35 -3
+28 -15 1477
+129 -15 1478
+5 1479 -3
+17 -3 -28
+114 1481 1483
+5 -33 1482
+28 -11 -5
+4 1484 1512
+512 1485 1486
+136 -24 -5
+58 1487 1490
+54 -5 1488
+133 -5 1489
+280 -11 -3
+1045 1491 1492
+5 -11 -27
+162 -15 1493
+579 1494 1496
+112 -26 1495
+12 -11 -3
+73 1497 1501
+193 -15 1498
+215 -26 1499
+5 -5 1500
+353 -5 -3
+280 -24 1502
+210 -28 1503
+544 -24 1504
+290 -15 1505
+311 -15 1506
+93 1507 1508
+260 -3 -15
+234 -15 1509
+9 -3 1510
+112 -15 1511
+366 -15 -3
+28 1513 1514
+51 -3 -15
+5 1515 -17
+17 -5 -15
+259 1517 1545
+73 1518 1524
+258 1519 1522
+15 1520 -11
+237 -26 1521
+840 -14 -3
+444 -3 1523
+460 -3 -26
+9 1525 1538
+26 1526 1530
+15 1527 -5
+150 -3 1528
+258 -26 1529
+88 -26 -3
+114 -11 1531
+580 -15 1532
+924 -15 1533
+1253 -3 1534
+41 1535 1536
+7 -3 -23
+88 -3 1537
+1152 -23 -5
+304 -24 1539
+1085 1540 1541
+330 -23 -3
+109 -2 1542
+23 -2 1543
+26 -26 1544
+137 -5 -3
+167 1546 1558
+15 1547 1552
+366 1548 1549
+12 -28 -15
+162 1550 1551
+17 -27 -11
+216 -3 -11
+4 1553 1554
+367 -5 -3
+359 -15 1555
+7 1556 1557
+2 -1 -15
+9 -5 -11
+623 1559 1560
+152 -26 -12
+4 1561 1566
+9 1562 1565
+114 -3 1563
+7 -10 1564
+73 -10 -5
+41 -16 -25
+17 -11 1567
+36 -5 1568
+88 -3 -24
+2 1570 1573
+9 1571 1572
+279 -8 -13
+16 -13 -1
+16 1574 1599
+4 1575 1595
+888 1576 1579
+139 1577 1578
+268 -13 -3
+112 -1 -16
+6 1580 1592
+279 1581 1583
+68 -7 1582
+28 -6 -13
+43 -6 1584
+139 -7 1585
+23 -2 1586
+41 -2 1587
+7 1588 -3
+12 1589 -11
+26 -11 1590
+91 -11 1591
+93 -11 -3
+26 -11 1593
+41 -1 1594
+68 -7 -2
+888 -2 1596
+41 -18 1597
+12 1598 -3
+114 -10 -11
+15 1600 1604
+161 1601 1602
+4 -26 -10
+43 -6 1603
+270 -24 -3
+235 1605 1607
+7 -11 1606
+5 -13 -4
+17 1608 1611
+28 1609 1610
+9 -24 -3
+7 -5 -28
+7 -3 1612
+6 -15 1613
+133 -15 -11

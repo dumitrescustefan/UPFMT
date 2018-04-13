@@ -1,0 +1,558 @@
+480
+c:.
+cl1:g
+cl2:h
+cl3:è
+cl4:o
+cr0:_
+cr1:_
+cr2:_
+cr3:_
+upper:false
+prevpo:0
+prevep:0
+prevcp:0
+prevu:0
+prevcap:0
+prevpc:0
+nextpo:0
+nextep:0
+nextcp:0
+nextu:0
+nextcap:0
+nextpc:0
+c:"
+cl1:_
+cl2:_
+cl3:_
+cl4:_
+cr0:đ
+cr1:ấ
+cr2:t
+nextep:1
+nextcp:1
+nextpc:1
+cl1:t
+cl3:é
+cl4:p
+cr0:.
+prevcp:1
+cl1:h
+cl2:é
+cl3:p
+cl4:"
+c:,
+cl1:s
+cl2:ú
+cl3:n
+cl4:g
+cl1:c
+cl2:u
+cl3:ố
+cl4:c
+nextcap:1
+cl3:ă
+cl4:n
+cl2:m
+cl3:ặ
+cl1:r
+cl2:ư
+cl3:ớ
+cl2:i
+cl3:ờ
+cl4:.
+cl1:i
+cl2:ờ
+cl3:.
+cl1:m
+cl2:ì
+cl4:h
+cr0:c
+cr1:h
+cr2:ỗ
+prevep:1
+prevpc:1
+c:@
+cl2:đ
+cl3:ấ
+cl4:t
+cl1:l
+cl2:l
+cl3:à
+cl4:m
+nextpo:1
+c:-
+cr2:u
+cr3:y
+cl2:n
+cl3:h
+cl4:ỏ
+cl1:n
+cl3:ỏ
+c:!
+cl2:a
+cr0:-
+cl2:ê
+c::
+cl3:ắ
+cl2:t
+cl3:r
+cl4:e
+cl4:i
+cl1:đ
+cl4:à
+cl3:ô
+cl4:0
+cr0:0
+cl3:â
+cl4:y
+cl3:v
+cl4:ụ
+cl2:ô
+cl2:q
+cl3:u
+cl4:á
+cl1:o
+cl3:ó
+cl2:v
+cl2:ã
+prevcap:1
+cl2:r
+cl3:ú
+cl3:l
+cl2:ỡ
+cr0:t
+cr1:ổ
+cl1:d
+cl2:â
+cr0:n
+cr2:ữ
+cr3:n
+cl1:b
+cl2:à
+cl3:o
+cl3:ạ
+prevu:1
+cl3:ể
+cl4:u
+cl4:a
+cl1:ư
+cl2:ơ
+cr0:"
+cr1:.
+cl2:ể
+cl4:!
+cl1:ể
+cl3:!
+cl2:ộ
+cl3:ứ
+cl3:ậ
+cl2:o
+cl3:ệ
+cl2:ọ
+cl3:c
+cl4:s
+upper:true
+cr2:é
+cr3:p
+cl2:ố
+cl3:i
+nextu:1
+cl1:ố
+cl2:á
+cr2:.
+cl2:!
+cl2:c
+cr0:a
+cr1:n
+cr2:h
+cl1:0
+cl2:0
+cl3:0
+cl4:ì
+cr1:g
+cr2:à
+cr1:-
+cr2:0
+cr3:0
+cl3:-
+cr1:0
+cl1:u
+cl2:y
+cl3:ê
+cl3:ì
+cl4:ổ
+cl3:ồ
+cr2:"
+cr3:.
+cl2:ồ
+cr1:"
+cl1:ồ
+cl2:.
+cl1:.
+cl3:í
+cl3:ề
+cl3:a
+cl1:ộ
+cl3:g
+cl2:g
+cl1:v
+cl3:y
+cl1:â
+cl3:ụ
+cl1:x
+cl3:x
+cl4:ã
+cl2:d
+cl3:ầ
+cl3:ế
+cl2:ế
+cl3:ĩ
+nextpc:3
+cl1:ơ
+cl2:b
+cl3:á
+cl4:õ
+cl2:ị
+cr1:r
+cr2:o
+cl1:q
+cl3:ẫ
+cl2:ẫ
+cl1:a
+cl1:k
+prevpo:1
+cl3:đ
+cl4:ó
+cl3:ự
+cl3:ổ
+cl4:ê
+cl2:ò
+cl2:ă
+cl2:p
+cl2:ự
+cl1:y
+cl1:ế
+cl2:s
+cl4:ủ
+cl4:ở
+cl2:ầ
+cl3:k
+cl3:ử
+c:?
+cl1:p
+cl3:ữ
+cl2:ữ
+cl1:ữ
+cl1:ẫ
+cl2:ụ
+cl4:ế
+cr2:â
+cr3:m
+cr2:ã
+cl3:ị
+cl4:ọ
+cr1:ế
+cl1:á
+cl3:"
+cl2:"
+cl4:q
+cr1:,
+cl3:ợ
+cl1:ô
+cl3:ả
+cr0:g
+cr1:i
+cr2:a
+cr3:o
+cl3:t
+cl2:ỏ
+cl3:ộ
+cr1:ư
+cl4:ề
+cl4:ả
+cl2:ệ
+cr1:ừ
+cr2:n
+cr3:g
+cr2:ỏ
+cr3:a
+cr0:?
+cl2:ậ
+cr0:l
+cr1:o
+cr2:ạ
+cr3:i
+cl2:ứ
+cl2:k
+cr0:b
+cr1:ố
+cl3:b
+cl4:ố
+cr3:"
+cl1:"
+cr0:ô
+cr2:g
+cl1:ã
+cr1:ô
+cl4:?
+cr0:p
+cr2:í
+cl2:ạ
+cl4:%
+cr0:h
+cr1:a
+cr2:i
+cl3:ủ
+cl2:ừ
+cr2:ì
+cr1:ò
+cl4::
+cl4:ờ
+cr1:ú
+cr0:,
+cl2:ề
+cr2:á
+cl2:ó
+cl3:m
+prevpc:3
+cl3:?
+cr1:à
+cr2:,
+cl2:ủ
+cl1:ủ
+cr1:ộ
+cr1:á
+cl1:à
+cr0:k
+cr2:ô
+cr2:p
+cl2:í
+cl1:í
+cr0:x
+cr1:u
+cr2:ấ
+cr3:t
+cr0:s
+cl4:ộ
+cr1:ó
+cl2:ấ
+cl3:ơ
+cr2:ư
+cl3:ư
+cl4:x
+cr0:v
+cr1:ậ
+cr2:y
+cl2:ắ
+cr2:ề
+cl2:ớ
+cl1:ớ
+c:/
+cr1:ả
+cl3:ọ
+cl1:j
+cr1:ỗ
+cl1:ậ
+cl4:ù
+cl1:ạ
+cl2:ợ
+cr0:j
+cr1:ạ
+cl1:ợ
+cl2:ằ
+cl2:ả
+cl3:e
+cr3:ớ
+cr0:m
+cl2:ũ
+cl1:ả
+cr0:r
+cr2:ê
+cl1:ì
+cr0:!
+cr2:ể
+cl3:ễ
+cl2:ù
+cr2:ả
+cl3:ẹ
+cl1:-
+cl4:é
+cl2:ĩ
+cl1:ú
+cl2:-
+cl4:ú
+cr0:e
+cr1:m
+cl1:ấ
+cr1:!
+cl4:ô
+cr0:ủ
+cl2:e
+cl1:e
+cr3:h
+cl4:ẽ
+cl2:x
+cr1:ì
+cl2:ổ
+cl4:ỡ
+cl2:ặ
+cl1:ặ
+cr2:m
+cl4:ể
+cl3:ù
+cr2:ộ
+cr3:c
+cl4:ử
+cl4:ư
+cl4:ị
+cr1:ơ
+cl4:ớ
+cr1:ằ
+cl2:ỉ
+cl2:f
+cl4:ạ
+cl4:ũ
+cl1:ầ
+cr1:c
+cr1:ị
+cl4:ợ
+cl1:ờ
+cl4:v
+cl4:d
+cl3:ũ
+cr3:,
+cl1:ổ
+cr1:ồ
+cl3:ã
+cl1:ề
+cr2:ỉ
+cl1:ệ
+cr0:d
+cl3:d
+cl4:ữ
+cl4:í
+cl1:ê
+cl4:ỉ
+cl3:s
+cl1:ỏ
+cr2:ù
+cl2:ỗ
+cr0:ă
+cr3:ờ
+cr2:ắ
+cl2:ở
+cr1:ẻ
+cl1:ứ
+cl1:ă
+cl2:ẳ
+cl1:ẳ
+cr1:é
+cl4:ý
+cr1:â
+cl3:ừ
+cr2:ị
+cr2:ế
+cr3:!
+cl1:!
+cl1:ọ
+cl3:ở
+cl4:k
+cl4:ẻ
+cl3:ỉ
+cr1:ù
+cr1:ủ
+cr0:u
+cl3:ẩ
+cl4:ễ
+cl2:ễ
+cr3:u
+cr2:ậ
+cl1:ắ
+cl2:ử
+nextpc:2
+cl4:ỗ
+cl3:w
+cr2:c
+cl2:ẵ
+cl4:đ
+cl2:ý
+cl4:z
+cl1:é
+2
+SPLIT
+NULL
+73
+1 2 65
+6 3 35
+62 4 27
+21 5 26
+18 6 -2
+20 7 -2
+89 -1 8
+180 -1 9
+19 10 -1
+164 -1 11
+257 -1 12
+55 -1 13
+63 -1 14
+231 -1 15
+419 -1 -1
+60 17 18
+261 -1 -2
+3 -2 19
+24 -2 20
+44 -2 21
+64 -2 22
+168 -2 23
+246 -2 24
+391 -2 25
+234 -1 -1
+22 -1 -2
+25 28 -1
+20 -1 -1
+68 -2 30
+11 31 34
+54 32 -1
+21 33 -1
+10 -1 -1
+32 -1 -1
+8 36 -2
+65 -2 37
+22 38 -2
+52 39 43
+36 -2 40
+330 -2 41
+222 42 -1
+51 -1 -2
+18 44 -2
+20 -1 -1
+57 -2 46
+87 -2 47
+169 -2 48
+3 49 51
+34 -1 50
+51 -1 -2
+158 52 54
+39 -2 53
+348 -2 -1
+24 55 60
+100 -2 56
+10 57 59
+54 -2 58
+55 -2 -1
+25 -2 -1
+66 -2 61
+259 -2 62
+390 -2 63
+208 64 -1
+101 -2 -1
+241 66 67
+6 -1 -2
+91 68 70
+6 69 -2
+152 -1 -1
+74 -2 -2
+150 72 -2
+32 73 -2
+10 -1 -2

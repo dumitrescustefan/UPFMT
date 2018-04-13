@@ -1,0 +1,360 @@
+AUX	Polarity=Neg	Tense=Pres	VerbForm=Cop
+NOUN	Case=NomAcc	Gender=Masc	Number=Sing
+ADP	Number=Sing	Person=1	PronType=Emp
+ADV	PronType=Int
+PUNCT	_
+CCONJ	_
+PRON	Number=Sing	PronType=Int
+SCONJ	_
+ADP	_
+NOUN	Case=NomAcc	Form=Len	Gender=Fem	Number=Sing
+DET	Case=Gen	Definite=Def	Gender=Fem	Number=Sing	PronType=Art
+NOUN	Case=Gen	Definite=Def	Gender=Fem	Number=Sing
+VERB	Form=Len	Mood=Ind	Number=Sing	Person=1	Tense=Past
+ADJ	Degree=Pos
+DET	Definite=Def	Number=Plur	PronType=Art
+NOUN	Case=NomAcc	Definite=Def	Gender=Masc	Number=Plur
+ADP	Number=Sing	Person=1
+NOUN	VerbForm=Vnoun
+ADP	Gender=Masc	Number=Sing	Person=3	Poss=Yes
+NOUN	Number=Sing
+PRON	PronType=Dem
+VERB	Form=Len	Mood=Ind	Tense=Past
+DET	Definite=Def	Number=Sing	PronType=Art
+NOUN	Case=NomAcc	Definite=Def	Gender=Masc	Number=Sing
+DET	Definite=Def
+ADJ	VerbForm=Part
+NOUN	Form=Len	VerbForm=Inf
+PART	PartType=Vb	PronType=Rel
+VERB	Form=Len	Mood=Cnd
+NOUN	Case=NomAcc	Form=Len	Gender=Masc	Number=Sing
+PRON	Gender=Masc	Number=Sing	Person=3
+DET	PronType=Ind
+PART	Mood=Int	PartType=Vb	Polarity=Neg
+VERB	Form=Ecl	Mood=Cnd	Voice=Auto
+NOUN	Case=NomAcc	Gender=Fem	Number=Plur
+PRON	Number=Plur	Person=1
+VERB	Mood=Cnd	Voice=Auto
+NOUN	Case=NomAcc	Gender=Masc	Number=Plur
+VERB	Mood=Ind	Tense=Pres	Voice=Auto
+AUX	Tense=Pres	VerbForm=Cop
+PART	PartType=Ad
+VERB	Mood=Ind	Tense=Past	Voice=Auto
+NOUN	Case=NomAcc	Gender=Fem	Number=Sing
+PROPN	Case=NomAcc	Definite=Def	Gender=Masc	Number=Sing
+DET	Gender=Masc	Number=Sing	Person=3	Poss=Yes
+NOUN	Case=Gen	Gender=Fem	Number=Sing
+NOUN	Case=Gen	Gender=Fem	NounType=Strong	Number=Plur
+VERB	Form=Ecl	Mood=Cnd
+PART	PartType=Inf
+ADP	Form=Len	Number=Sing	Person=1
+ADV	_
+DET	PronType=Dem
+VERB	Mood=Ind	Tense=Pres
+NOUN	Case=Gen	Gender=Masc	Number=Sing
+PROPN	Case=NomAcc	Gender=Masc	Number=Sing
+PART	PartType=Pat
+PROPN	Case=Gen	Form=Len	Gender=Masc	Number=Sing
+ADP	Number=Plur	Person=1
+AUX	Tense=Past	VerbForm=Cop
+ADP	Number=Sing	PronType=Art
+NOUN	Case=Gen	Form=HPref	Gender=Fem	Number=Sing
+ADP	PrepForm=Cmpd
+NOUN	Case=NomAcc	Definite=Def	Gender=Fem	Number=Plur
+PRON	Number=Sing	Person=1
+DET	Gender=Fem	Number=Sing	Person=3	Poss=Yes
+NUM	_
+ADJ	Case=Gen	Gender=Masc	Number=Sing
+PROPN	Case=Gen	Gender=Fem	Number=Sing
+X	Abbr=Yes
+VERB	Mood=Ind	Tense=Fut
+PRON	Number=Sing	Person=2
+DET	_
+VERB	Mood=Ind	Tense=Past
+VERB	Mood=Ind	PronType=Rel	Tense=Pres
+NOUN	VerbForm=Inf
+PART	PartType=Vb	Polarity=Neg	PronType=Rel
+VERB	Form=Ecl	Mood=Imp	Tense=Past
+ADP	Number=Plur	Person=3	Poss=Yes
+NOUN	Case=NomAcc	Form=Ecl	Gender=Fem	Number=Sing
+PRON	Reflex=Yes
+ADP	Number=Plur	Person=3
+PRON	Number=Plur	Person=3
+ADJ	Case=NomAcc	Gender=Masc	Number=Sing
+VERB	Form=Len	Mood=Imp	Tense=Past
+ADP	Gender=Masc	Number=Sing	Person=3
+PROPN	Case=Gen	Definite=Def	Gender=Fem	Number=Sing
+ADJ	Degree=Pos	Form=HPref
+NOUN	Case=Gen	Gender=Masc	NounType=Weak	Number=Plur
+NOUN	Case=Gen	Gender=Masc	Number=Plur
+PROPN	Case=NomAcc	Gender=Fem	Number=Sing
+PROPN	Case=Gen	Gender=Fem
+VERB	Form=Len	Mood=Ind	Polarity=Neg	Tense=Past
+X	_
+VERB	Form=Len	Mood=Ind	Tense=Fut	Voice=Auto
+VERB	Form=Len	Mood=Ind	Tense=Fut
+ADP	Gender=Fem	Number=Sing	Person=3
+NOUN	Case=Gen	Definite=Def	Gender=Masc	Number=Sing
+PRON	Gender=Fem	Number=Sing	Person=3
+VERB	Form=Len	Mood=Ind	Tense=Pres
+VERB	Form=Len	Mood=Ind	Tense=Pres	Voice=Auto
+PART	Mood=Imp	PartType=Vb	Polarity=Neg
+X	Dialect=Munster	Mood=Imp	Number=Sing	Person=2	Polarity=Neg
+X	Dialect=Munster	PronType=Dem
+NUM	NumType=Ord
+NOUN	Case=NomAcc	Form=Len	Gender=Fem	Number=Plur
+PART	PartType=Vb	Polarity=Neg
+VERB	Form=Len	Polarity=Neg
+PART	PartType=Cmpl	Polarity=Neg
+VERB	Form=Ecl	Mood=Ind	Polarity=Neg	Tense=Past
+NUM	NumType=Card
+VERB	Form=Ecl	Mood=Ind	Tense=Past
+DET	Number=Plur	Person=3	Poss=Yes
+ADJ	Case=NomAcc	Gender=Fem	Number=Sing
+PROPN	Case=Gen	Gender=Masc	Number=Sing
+PROPN	Case=Gen	Gender=Masc
+NUM	Form=Len	NumType=Ord
+NOUN	Case=NomAcc	Form=Ecl	Gender=Masc	Number=Sing
+NUM	Form=Ecl	NumType=Ord
+ADP	Gender=Masc	Number=Sing	Person=3	Poss=Yes	PronType=Prs
+NOUN	Case=Gen	Gender=Masc	NounType=Strong	Number=Plur
+NOUN	Case=Gen	Form=Len	Gender=Fem	Number=Sing
+VERB	Mood=Ind	PronType=Rel	Tense=Fut
+VERB	Mood=Ind	Tense=Fut	Voice=Auto
+PRON	PronType=Ind
+NOUN	Case=Gen	Form=Len	Gender=Masc	NounType=Strong	Number=Plur
+PART	PronType=Rel
+VERB	Form=Ecl	Mood=Ind	Tense=Pres
+PART	PartType=Cmpl
+VERB	Form=Ecl	Mood=Ind	Tense=Pres	Voice=Auto
+ADP	Form=Len	Number=Plur	Person=3
+AUX	Mood=Int	Tense=Pres	VerbForm=Cop
+PRON	PronType=Int
+NOUN	_
+ADJ	Degree=Pos	Form=Len
+PROPN	Case=Dat	Gender=Fem	Number=Sing
+NOUN	Case=NomAcc	Definite=Def	Gender=Fem	Number=Sing
+NOUN	Case=NomAcc	Form=HPref	Gender=Fem	Number=Plur
+SCONJ	VerbForm=Cop
+VERB	Form=Ecl	Mood=Ind	Tense=Fut	Voice=Auto
+DET	Definite=Def	Form=Ecl
+ADP	Poss=Yes
+PRON	Number=Sing	Person=1	PronType=Emp
+NOUN	Case=NomAcc	Form=HPref	Gender=Masc	Number=Sing
+PROPN	_
+NOUN	Case=NomAcc	Form=HPref	Gender=Fem	Number=Sing
+VERB	Form=Ecl	Mood=Ind	Polarity=Neg	Tense=Fut
+AUX	Form=VF	Tense=Past	VerbForm=Cop
+ADJ	_
+ADJ	Form=Len	VerbForm=Part
+NOUN	Case=NomAcc	Form=Len	Gender=Masc	Number=Plur
+ADJ	Case=NomAcc	Gender=Masc	Number=Plur
+PART	PartType=Vb
+VERB	Form=Len	Mood=Ind	Polarity=Neg	Tense=Pres
+NOUN	Number=Sing	PartType=Comp
+ADJ	Degree=Cmp,Sup
+VERB	Mood=Cnd
+VERB	Mood=Ind	Number=Sing	Person=1	Tense=Pres
+NOUN	Form=Ecl	VerbForm=Inf
+NUM	Form=Ecl	NumType=Card
+PROPN	Case=Gen	Form=Len	Gender=Fem
+AUX	_
+NOUN	Case=Gen	VerbForm=Inf
+PROPN	Case=Gen	Form=Ecl	Gender=Masc	Number=Plur
+ADP	Gender=Fem	Number=Sing	Person=3	Poss=Yes	PronType=Prs
+PRON	Number=Plur	Person=1	PronType=Emp
+NOUN	Form=Ecl	Number=Sing
+VERB	Form=Ecl	Mood=Ind	Tense=Fut
+VERB	Mood=Imp	Number=Sing	Person=2
+AUX	Polarity=Neg	PronType=Rel	Tense=Pres	VerbForm=Cop
+VERB	Form=Ecl	Mood=Ind	Number=Plur	Person=1	Tense=Pres
+NUM	Form=Len	NumType=Card
+ADP	Number=Sing	Person=2
+PART	PartType=Voc
+PROPN	Case=Voc	Gender=Masc	Number=Sing
+AUX	VerbForm=Cop
+ADP	Gender=Fem	Number=Sing	Person=3	Poss=Yes
+NOUN	Case=Gen	Form=Len	VerbForm=Inf
+NOUN	Degree=Pos
+NOUN	Case=Gen	Form=Len	Gender=Masc	Number=Sing
+VERB	Form=Len	Mood=Ind	Number=Plur	Person=3	Tense=Past
+AUX	Form=VF	Tense=Pres	VerbForm=Cop
+PRON	Number=Sing	Person=3
+NOUN	Case=Gen	Form=Ecl	Gender=Fem	Number=Sing
+VERB	Mood=Imp	Number=Plur	Person=2
+NOUN	Case=Gen	Form=Ecl	Gender=Masc	NounType=Strong	Number=Plur
+NOUN	Case=Gen	Gender=Fem	Number=Plur
+AUX	PartType=Comp	Tense=Past	VerbForm=Cop
+DET	Number=Plur	Person=1	Poss=Yes
+NOUN	Case=Gen	Form=Ecl	Gender=Masc	Number=Sing
+NOUN	Case=Dat	Form=Len	Gender=Fem	Number=Sing
+DET	Number=Sing	Person=1	Poss=Yes
+NOUN	Case=NomAcc	Definite=Def	Gender=Fem
+AUX	Polarity=Neg	Tense=Past	VerbForm=Cop
+NOUN	Form=HPref	VerbForm=Inf
+NOUN	Case=Dat	Gender=Masc	Number=Sing
+NOUN	Form=Len	Number=Sing
+PROPN	Case=Gen	Form=HPref	Gender=Fem	Number=Sing
+VERB	Form=Ecl
+PART	PartType=Vb	PronType=Rel	Tense=Past
+ADP	Person=3	Poss=Yes
+PART	PartType=Vb	Polarity=Neg	Tense=Past
+VERB	Mood=Ind	Polarity=Neg	Tense=Past	Voice=Auto
+VERB	_
+NOUN	Case=NomAcc	Form=HPref	Gender=Masc	Number=Plur
+PART	PartType=Vb	Tense=Past
+NOUN	Reflex=Yes
+NOUN	Case=NomAcc	Form=Ecl	Gender=Fem	Number=Plur
+ADJ	Case=Gen	NounType=Strong	Number=Plur
+X	Dialect=Ulster	PartType=Vb	Polarity=Neg
+PART	PartType=Vb	Polarity=Neg	PronType=Rel	Tense=Past
+PROPN	Case=NomAcc	Form=Len	Gender=Fem	Number=Sing
+AUX	PronType=Rel	Tense=Pres	VerbForm=Cop
+ADJ	Case=NomAcc	NounType=NotSlender	Number=Plur
+NOUN	Foreign=Yes
+NOUN	Case=Gen	Form=Len	Gender=Masc	NounType=Weak	Number=Plur
+VERB	Form=Emp	Mood=Ind	Number=Sing	Person=1	Tense=Pres
+ADP	Gender=Masc	Number=Sing	Person=3	PronType=Emp
+PART	PartType=Num
+VERB	Form=Len	Mood=Ind	Polarity=Neg	Tense=Fut
+DET	Form=HPref	PronType=Ind
+ADP	Number=Plur	PronType=Art
+NOUN	Case=NomAcc	Form=Ecl	Gender=Masc	Number=Plur
+NOUN	Case=Gen	Definite=Def	Gender=Fem	NounType=Strong	Number=Plur
+PART	Form=Ecl	PartType=Vb	PronType=Rel
+VERB	Form=Ecl	Mood=Cnd	Polarity=Neg
+PROPN	Case=Gen	Form=Ecl	Gender=Fem	Number=Plur
+NOUN	Case=Gen	Form=Ecl	Gender=Fem	NounType=Strong	Number=Plur
+NOUN	Case=Gen	Definite=Def	Gender=Masc	NounType=Weak	Number=Plur
+VERB	Form=Len	Mood=Cnd	Polarity=Neg
+ADJ	Case=NomAcc	Gender=Fem	Number=Plur
+ADP	Number=Plur	Person=1	Poss=Yes
+X	Dialect=Ulster	Gender=Masc	Number=Sing	Person=3
+PRON	Form=Len	PronType=Ind
+NUM	Definite=Def	NumType=Card
+VERB	Form=Len
+VERB	Form=Len	Mood=Cnd	Voice=Auto
+AUX	Mood=Int	Polarity=Neg	Tense=Pres	VerbForm=Cop
+VERB	Form=Emp	Mood=Ind	Number=Sing	Person=1	PronType=Rel	Tense=Pres
+VERB	Form=Len	Mood=Ind	Number=Sing	Person=1	Polarity=Neg	Tense=Pres
+VERB	Mood=Ind	Polarity=Neg	Tense=Pres
+X	Dialect=Munster
+VERB	Form=Ecl	Mood=Imp	Number=Sing	Person=1	Tense=Past
+VERB	Form=Len	Mood=Imp	Number=Plur	Person=3	Tense=Past
+PROPN	Case=NomAcc	Definite=Def	Gender=Fem	Number=Sing
+NOUN	Case=Gen	Definite=Def	Gender=Masc	NounType=Strong	Number=Plur
+NOUN	Case=Dat	Form=Ecl	Gender=Fem	Number=Sing
+PART	PartType=Comp
+PART	_
+NOUN	Case=Dat	Gender=Fem	Number=Sing
+ADJ	Case=NomAcc	Form=Len	Gender=Masc	Number=Sing
+NOUN	Case=Gen	Gender=Fem	NounType=Weak	Number=Plur
+X	Foreign=Yes
+ADP	Number=Plur	Person=3	PronType=Emp
+PART	PartType=Cmpl	Polarity=Neg	Tense=Past
+PROPN	Case=Gen	Gender=Masc	NounType=Weak	Number=Plur
+ADP	Form=Len	Number=Plur	Person=1
+ADJ	Case=NomAcc	Form=Len	Gender=Fem	Number=Sing
+ADJ	Degree=Pos	Form=Ecl
+PART	Mood=Imp	PartType=Vb
+ADP	Number=Sing	Person=1	Poss=Yes
+VERB	Form=Ecl	Mood=Cnd	Number=Sing	Person=1
+VERB	Form=Len	Mood=Imp	Tense=Past	Voice=Auto
+NUM	Form=HPref	NumType=Card
+VERB	Form=Len	Mood=Sub	Polarity=Neg	Tense=Pres
+PRON	Number=Sing	Person=2	PronType=Emp
+X	Definite=Def	Dialect=Ulster
+ADJ	Case=Gen	Gender=Fem	Number=Sing
+VERB	Form=Len	Mood=Imp	Voice=Auto
+ADJ	Case=NomAcc	NounType=Slender	Number=Plur
+AUX	Polarity=Neg	PronType=Rel	Tense=Past	VerbForm=Cop
+PROPN	Case=NomAcc	Gender=Masc	Number=Plur
+ADP	Number=Plur	Person=1	PronType=Emp
+ADJ	Case=Gen	NounType=Weak	Number=Plur
+VERB	Form=Emp	Mood=Ind	Number=Plur	Person=1	Tense=Pres
+PROPN	Case=NomAcc	Form=Len	Gender=Masc	Number=Sing
+AUX	Form=VF	Polarity=Neg	Tense=Past	VerbForm=Cop
+PROPN	Case=NomAcc	Definite=Def	Gender=Masc	Number=Plur
+VERB	Mood=Cnd	Number=Plur	Person=3
+AUX	Form=VF	Polarity=Neg	PronType=Rel	Tense=Past	VerbForm=Cop
+NOUN	Case=NomAcc	Form=Emp	Gender=Masc	Number=Sing
+X	Dialect=Munster	Mood=Ind	Tense=Past	Voice=Auto
+DET	Number=Sing	Person=2	Poss=Yes
+NOUN	Case=Gen	Number=Sing
+VERB	Form=Len	Mood=Cnd	Number=Sing	Person=1
+NOUN	Case=NomAcc	Definite=Ind	Gender=Masc	Number=Plur
+VERB	Mood=Imp	Tense=Past
+NOUN	Case=Gen	Form=Ecl	Gender=Masc	NounType=Weak	Number=Plur
+ADP	Number=Plur	Person=3	Poss=Yes	PronType=Prs
+PROPN	Gender=Masc	Number=Sing
+VERB	Form=Len	Mood=Ind	Tense=Past	Voice=Auto
+ADJ	Number=Plur
+VERB	Form=Ecl	Mood=Ind	Polarity=Neg	Tense=Fut	Voice=Auto
+PRON	Gender=Masc	Person=3
+AUX	PronType=Dem	VerbForm=Cop
+PROPN	Case=Gen	Form=Len	Gender=Fem	Number=Sing
+VERB	Form=Ecl	Mood=Ind	Polarity=Neg	Tense=Pres
+X	Case=NomAcc	Foreign=Yes	Gender=Fem	Number=Sing
+X	Dialect=Munster	Form=Len	Mood=Ind	Number=Sing	Person=1	Tense=Past
+VERB	Mood=Cnd	Number=Sing	Person=1
+NOUN	Case=Gen	Definite=Ind	Gender=Fem	Number=Sing
+ADJ	Degree=Cmp,Sup	Form=Len
+VERB	Form=Ecl	Mood=Ind	Number=Sing	Person=1	Tense=Pres
+PROPN	Case=NomAcc	Form=Ecl	Gender=Fem	Number=Sing
+PRON	Gender=Masc	Number=Sing	Person=3	PronType=Emp
+ADP	Number=Plur	Person=2
+SCONJ	Tense=Past	VerbForm=Cop
+AUX	Mood=Int	Polarity=Neg	Tense=Past	VerbForm=Cop
+NOUN	Gender=Fem	Number=Sing
+PRON	Number=Plur	Person=3	PronType=Emp
+X	Dialect=Ulster	VerbForm=Cop
+AUX	Mood=Int	Number=Sing	PronType=Art	VerbForm=Cop
+DET	Definite=Def	Gender=Fem	Number=Sing	PronType=Art
+NOUN	Form=Ecl	VerbForm=Vnoun
+VERB	Form=Ecl	Mood=Sub	Tense=Pres
+NOUN	Case=Voc	Gender=Masc	Number=Sing
+NOUN	Case=Voc	Definite=Def	Gender=Masc	Number=Plur
+ADJ	Number=Plur	PartType=Voc
+VERB	Form=Len	Mood=Ind	Number=Sing	Person=1	Polarity=Neg	Tense=Past
+DET	Number=Sing	PronType=Int
+VERB	Form=Len	Mood=Cnd	Number=Plur	Person=3
+VERB	Dialect=Munster	Form=Len	Mood=Ind	Tense=Past
+VERB	Mood=Imp	Number=Plur	Person=1	Polarity=Neg
+PROPN	Case=NomAcc	Gender=Masc
+PROPN	Case=Gen	Form=Len	Gender=Masc
+VERB	Mood=Ind	Number=Plur	Person=1	Tense=Pres
+VERB	Form=Len	Mood=Ind	Polarity=Neg	Tense=Fut	Voice=Auto
+AUX	PronType=Rel	Tense=Past	VerbForm=Cop
+VERB	Case=NomAcc	Gender=Masc	Mood=Ind	Number=Sing	Tense=Pres
+VERB	Form=Ecl	Mood=Ind	Number=Sing	Person=1	Tense=Past
+VERB	Form=Len	Mood=Ind	Number=Plur	Person=1	Tense=Past
+SYM	Abbr=Yes
+ADJ	Case=Gen	Form=Len	Gender=Masc	Number=Sing
+VERB	Form=Len	Mood=Ind	Polarity=Neg	Tense=Pres	Voice=Auto
+PART	PartType=Cop	PronType=Rel
+AUX	Form=VF	PronType=Rel	Tense=Past	VerbForm=Cop
+NOUN	Case=Dat	Definite=Ind	Gender=Fem	Number=Sing
+VERB	Mood=Ind	Number=Sing	Person=1	Tense=Past
+PRON	Form=Len	Number=Sing	Person=2
+NOUN	Case=Voc	Form=Len	Gender=Masc	Number=Sing
+ADJ	Gender=Masc	Number=Sing	PartType=Voc
+PROPN	Case=Voc	Form=Len	Gender=Fem
+VERB	Mood=Imp	Number=Plur	Person=1
+VERB	Form=Len	Mood=Ind	Number=Plur	Person=1	Tense=Fut
+PROPN	Case=NomAcc	Form=HPref	Gender=Masc	Number=Sing
+ADP	PronType=Art
+PART	PartType=Deg
+AUX	Gender=Masc	Number=Sing	Person=3	VerbForm=Cop
+ADJ	Foreign=Yes
+VERB	Foreign=Yes
+ADP	Foreign=Yes
+PROPN	Abbr=Yes
+VERB	Form=Len	Mood=Cnd	Number=Sing	Person=2
+NOUN	Case=Voc	Form=Len	Gender=Masc	Number=Plur
+VERB	Form=Len	Mood=Ind	Polarity=Neg	Tense=Past	Voice=Auto
+VERB	Mood=Ind	Number=Plur	Person=1	Tense=Past
+PROPN	Case=NomAcc	Form=Ecl	Gender=Masc	Number=Sing
+ADV	Form=Len
+NOUN	Case=Voc	Form=Len	Gender=Fem	Number=Sing
+PRON	Number=Plur	Person=2
+ADP	Number=Sing	Person=3

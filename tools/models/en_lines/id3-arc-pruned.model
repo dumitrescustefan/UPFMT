@@ -1,0 +1,7873 @@
+4177
+ff_0:</s>
+ff_1:PRON__
+ff_2:TOT-PL
+ff_3:</s>
+ff_4:VERB__
+ff_5:VERB
+ff_6:</s>
+ff_7:NULL
+ff_8:</s>
+ff_9:NULL
+ff_10:</s>
+ff_11:NULL
+ff_12:</s>
+ff_13:NULL
+ff_14:</s>
+ff_15:NULL
+ff_16:</s>
+ff_17:NULL
+ff_18:</s>
+ff_19:NULL
+ff_20:</s>
+ff_21:NULL
+ff_1:ADP__
+ff_2:_
+ff_3:mode
+ff_4:NOUN__
+ff_5:NOUN
+ff_1:PROPN__
+ff_2:SG-NOM
+ff_7:PROPN__
+ff_8:query
+ff_9:NOUN__
+ff_14:query
+ff_15:NOUN__
+ff_17:PROPN__
+ff_4:PROPN__
+ff_5:PROPN
+ff_0:query
+ff_1:NOUN__
+ff_2:IND
+ff_4:ADJ__
+ff_5:ADJ
+ff_7:NOUN__
+ff_0:of
+ff_0:the
+ff_1:DET__
+ff_2:DEF
+ff_4:PRON__
+ff_5:PRON
+ff_6:of
+ff_7:ADP__
+ff_14:the
+ff_15:DET__
+ff_16:the
+ff_17:DET__
+ff_0:in
+ff_0:this
+ff_2:DEM-SG
+ff_6:in
+ff_8:this
+ff_9:DET__
+ff_14:this
+ff_16:in
+ff_17:ADP__
+ff_0:may
+ff_1:AUX__
+ff_2:PRES-AUX
+ff_0:not
+ff_1:PART__
+ff_2:NEG
+ff_0:be
+ff_2:INF
+ff_0:to
+ff_0:some
+ff_2:PL-NOM
+ff_6:to
+ff_8:some
+ff_14:some
+ff_16:to
+ff_0:.
+ff_1:PUNCT__
+ff_2:Period
+ff_2:PERS-P2
+ff_3:create
+ff_10:queries
+ff_11:NOUN__
+ff_12:queries
+ff_13:NOUN__
+ff_0:can
+ff_6:queries
+ff_8:queries
+ff_0:queries
+ff_3:one
+ff_4:NUM__
+ff_5:NUM
+ff_0:one
+ff_1:NUM__
+ff_2:CARD-SG
+ff_0:two
+ff_2:CARD-PL
+ff_9:PROPN__
+ff_14:two
+ff_15:NUM__
+ff_16:two
+ff_17:NUM__
+ff_0::
+ff_2:Colon
+ff_1:ADJ__
+ff_2:POS
+ff_7:ADJ__
+ff_15:PROPN__
+ff_6:the
+ff_7:DET__
+ff_8:the
+ff_10:mode
+ff_12:.
+ff_13:PUNCT__
+ff_19:ADV__
+ff_21:ADJ__
+ff_0:mode
+ff_1:ADV__
+ff_8:1
+ff_9:NUM__
+ff_14:1
+ff_17:NOUN__
+ff_0:1
+ff_2:ID
+ff_0:,
+ff_2:Comma
+ff_0:but
+ff_1:CCONJ__
+ff_0:is
+ff_2:PRES
+ff_6:but
+ff_7:CCONJ__
+ff_14:is
+ff_15:AUX__
+ff_16:not
+ff_17:PART__
+ff_0:are
+ff_0:and
+ff_10:and
+ff_11:CCONJ__
+ff_19:NOUN__
+ff_21:NOUN__
+ff_1:VERB__
+ff_6:and
+ff_14:for
+ff_15:ADP__
+ff_16:for
+ff_7:X__
+ff_9:X__
+ff_11:X__
+ff_13:X__
+ff_0:for
+ff_0:(
+ff_2:LeftParenthesis
+ff_4:X__
+ff_5:X
+ff_1:X__
+ff_2:NOM
+ff_6:(
+ff_7:PUNCT__
+ff_8:)
+ff_9:PUNCT__
+ff_14:)
+ff_15:PUNCT__
+ff_16:(
+ff_17:PUNCT__
+ff_0:)
+ff_2:RightParenthesis
+ff_16:,
+ff_6:not
+ff_7:PART__
+ff_8:not
+ff_9:PART__
+ff_0:new
+ff_3:words
+ff_0:words
+ff_6:new
+ff_15:ADJ__
+ff_3:rules
+ff_0:rules
+ff_9:VERB__
+ff_0:that
+ff_1:SCONJ__
+ff_6:that
+ff_7:SCONJ__
+ff_16:that
+ff_17:SCONJ__
+ff_0:your
+ff_2:P2-GEN
+ff_6:your
+ff_7:PRON__
+ff_8:create
+ff_14:create
+ff_15:VERB__
+ff_16:your
+ff_17:PRON__
+ff_10:,
+ff_11:PUNCT__
+ff_13:PROPN__
+ff_20:,
+ff_21:PUNCT__
+ff_0:create
+ff_14:queries
+ff_6:,
+ff_3:queries
+ff_8:and
+ff_9:CCONJ__
+ff_12:and
+ff_13:CCONJ__
+ff_6:1
+ff_7:NUM__
+ff_3:1
+ff_10:but
+ff_18:is
+ff_19:AUX__
+ff_20:not
+ff_21:PART__
+ff_18:more
+ff_19:ADJ__
+ff_21:VERB__
+ff_3:has
+ff_0:more
+ff_2:CMP
+ff_3:more
+ff_10:used
+ff_11:VERB__
+ff_12:used
+ff_13:VERB__
+ff_8:2000
+ff_11:ADP__
+ff_12:2000
+ff_13:NUM__
+ff_14:2000
+ff_18:2000
+ff_19:NUM__
+ff_21:ADP__
+ff_0:2000
+ff_0:using
+ff_2:ING
+ff_8:,
+ff_14:,
+ff_3:using
+ff_0:you
+ff_0:could
+ff_2:PAST-AUX
+ff_6:used
+ff_7:VERB__
+ff_8:used
+ff_3:used
+ff_11:PROPN__
+ff_21:PROPN__
+ff_0:used
+ff_2:PAST
+ff_4:ADV__
+ff_5:ADV
+ff_0:any
+ff_6:any
+ff_8:created
+ff_14:created
+ff_16:any
+ff_3:created
+ff_0:created
+ff_6:you
+ff_8:you
+ff_9:PRON__
+ff_0:were
+ff_3:window
+ff_0:window
+ff_0:because
+ff_3:was
+ff_0:there
+ff_2:EX
+ff_0:was
+ff_6:because
+ff_14:there
+ff_15:PRON__
+ff_16:there
+ff_0:no
+ff_6:no
+ff_8:set
+ff_14:set
+ff_16:no
+ff_3:set
+ff_0:set
+ff_14:mode
+ff_16:mode
+ff_6:this
+ff_8:2002
+ff_14:2002
+ff_0:2002
+ff_3:in
+ff_4:ADP__
+ff_5:ADP
+ff_10:in
+ff_12:2002
+ff_18:2002
+ff_20:in
+ff_0:through
+ff_6:through
+ff_8:database
+ff_3:database
+ff_0:current
+ff_0:database
+ff_6:for
+ff_16:current
+ff_17:ADJ__
+ff_0:as
+ff_14:as
+ff_8:new
+ff_9:ADJ__
+ff_14:new
+ff_2:WH
+ff_3:use
+ff_0:?
+ff_2:QuestionMark
+ff_3:want
+ff_0:use
+ff_0:following
+ff_8:following
+ff_10:application
+ff_19:PROPN__
+ff_20:application
+ff_6:application
+ff_16:application
+ff_3:application
+ff_0:application
+ff_8:your
+ff_0:an
+ff_2:IND-SG
+ff_8:an
+ff_10:to
+ff_12:an
+ff_13:DET__
+ff_14:an
+ff_18:an
+ff_19:DET__
+ff_20:to
+ff_0:want
+ff_16:and
+ff_17:CCONJ__
+ff_10:run
+ff_12:run
+ff_6:run
+ff_8:run
+ff_3:will
+ff_4:AUX__
+ff_5:AUX
+ff_10:will
+ff_11:AUX__
+ff_12:changes
+ff_18:changes
+ff_20:will
+ff_21:AUX__
+ff_0:will
+ff_3:run
+ff_8:that
+ff_9:SCONJ__
+ff_0:run
+ff_6:will
+ff_7:AUX__
+ff_8:changes
+ff_14:changes
+ff_16:will
+ff_17:AUX__
+ff_0:with
+ff_3:changes
+ff_0:changes
+ff_6:with
+ff_0:a
+ff_14:a
+ff_16:a
+ff_3:take
+ff_0:take
+ff_8:as
+ff_9:ADP__
+ff_16:found
+ff_17:VERB__
+ff_3:found
+ff_0:found
+ff_2:PASS
+ff_8:in
+ff_12:in
+ff_13:ADP__
+ff_0:such
+ff_2:ADJ
+ff_3:as
+ff_6:such
+ff_8:such
+ff_0:by
+ff_6:by
+ff_16:by
+ff_3:for
+ff_14:example
+ff_16:example
+ff_0:example
+ff_2:IMP
+ff_10:the
+ff_11:DET__
+ff_19:VERB__
+ff_20:the
+ff_21:DET__
+ff_8:number
+ff_14:number
+ff_3:number
+ff_0:number
+ff_10:query
+ff_12:query
+ff_8:of
+ff_6:query
+ff_3:query
+ff_8:a
+ff_0:should
+ff_6:created
+ff_10:created
+ff_12:created
+ff_0:under
+ff_0:different
+ff_6:under
+ff_14:different
+ff_16:different
+ff_18:mode
+ff_20:mode
+ff_10:for
+ff_20:for
+ff_16:new
+ff_3:2002
+ff_16:2000
+ff_3:2000
+ff_0:file
+ff_6:file
+ff_8:file
+ff_6:database
+ff_12:new
+ff_13:ADJ__
+ff_18:a
+ff_20:a
+ff_3:format
+ff_6:2000
+ff_0:format
+ff_16:2002
+ff_8:to
+ff_8:is
+ff_9:AUX__
+ff_0:;
+ff_2:SemiColon
+ff_10:database
+ff_12:database
+ff_0:only
+ff_20:available
+ff_0:available
+ff_3:available
+ff_8:format
+ff_0:connection
+ff_6:connection
+ff_8:connection
+ff_3:file
+ff_10:file
+ff_18:information
+ff_20:information
+ff_10:connection
+ff_12:connection
+ff_14:connection
+ff_0:information
+ff_0:about
+ff_3:connection
+ff_3:information
+ff_6:about
+ff_8:data
+ff_16:source
+ff_3:source
+ff_0:data
+ff_0:source
+ff_8:source
+ff_16:data
+ff_14:such
+ff_3:data
+ff_16:with
+ff_6:a
+ff_10:or
+ff_12:more
+ff_13:ADV__
+ff_20:or
+ff_21:CCONJ__
+ff_14:pages
+ff_16:pages
+ff_3:pages
+ff_6:or
+ff_8:more
+ff_9:ADV__
+ff_14:more
+ff_15:ADV__
+ff_16:or
+ff_0:or
+ff_3:access
+ff_10:one
+ff_11:NUM__
+ff_12:access
+ff_18:access
+ff_20:one
+ff_21:NUM__
+ff_0:access
+ff_6:data
+ff_0:pages
+ff_6:one
+ff_8:access
+ff_14:access
+ff_16:one
+ff_3:open
+ff_0:open
+ff_14:you
+ff_16:page
+ff_3:page
+ff_0:page
+ff_16:connection
+ff_3:is
+ff_10:is
+ff_12:page
+ff_18:page
+ff_20:is
+ff_6:is
+ff_8:page
+ff_14:page
+ff_16:is
+ff_0:on
+ff_6:on
+ff_12:data
+ff_18:the
+ff_12::
+ff_18:one
+ff_10:of
+ff_12:file
+ff_6:following
+ff_8:information
+ff_14:information
+ff_3:view
+ff_14:file
+ff_14:any
+ff_19:X__
+ff_14:.
+ff_16:.
+ff_12:create
+ff_18:create
+ff_14:data
+ff_17:X__
+ff_0:object
+ff_8:object
+ff_14:source
+ff_16:of
+ff_8:pages
+ff_11:ADJ__
+ff_0:common
+ff_6:common
+ff_8:common
+ff_10:a
+ff_18:connection
+ff_3:move
+ff_0:move
+ff_3:need
+ff_16:copy
+ff_3:copy
+ff_0:copy
+ff_0:instead
+ff_3:instead
+ff_6:instead
+ff_3:property
+ff_6:property
+ff_8:property
+ff_0:property
+ff_0:each
+ff_2:TOT-SG
+ff_14:each
+ff_16:each
+ff_8:make
+ff_16:information
+ff_3:make
+ff_0:make
+ff_8:point
+ff_0:point
+ff_0:right
+ff_3:point
+ff_16:right
+ff_8:or
+ff_0:whether
+ff_6:whether
+ff_8:use
+ff_16:link
+ff_3:link
+ff_0:link
+ff_16:file
+ff_0:without
+ff_6:without
+ff_8:link
+ff_14:link
+ff_16:without
+ff_0:also
+ff_16:you
+ff_10:an
+ff_20:an
+ff_6:an
+ff_16:an
+ff_8:one
+ff_14:one
+ff_2:IND-SG-NOM
+ff_0:between
+ff_6:between
+ff_2:SG
+ff_6:'s
+ff_8:'s
+ff_0:'s
+ff_2:GEN
+ff_6:page
+ff_3:name
+ff_0:name
+ff_3:time
+ff_0:time
+ff_3:read
+ff_0:read
+ff_14:will
+ff_6:information
+ff_16:but
+ff_14:to
+ff_15:PART__
+ff_20:and
+ff_3:change
+ff_6:different
+ff_8:different
+ff_3:remember
+ff_0:all
+ff_0:other
+ff_6:all
+ff_14:other
+ff_16:other
+ff_16:be
+ff_3:broken
+ff_18:file
+ff_14:property
+ff_20:connection
+ff_12:the
+ff_10:data
+ff_10:using
+ff_12:using
+ff_6:using
+ff_8:using
+ff_10:2000
+ff_0:must
+ff_0:before
+ff_0:it
+ff_2:PERS-SG
+ff_6:before
+ff_14:it
+ff_6:2002
+ff_0:view
+ff_0:at
+ff_0:same
+ff_6:at
+ff_16:same
+ff_10:access
+ff_10:as
+ff_6:access
+ff_6:as
+ff_6:copy
+ff_8:copy
+ff_0:then
+ff_14:then
+ff_11:SCONJ__
+ff_20:page
+ff_3:able
+ff_8:list
+ff_3:list
+ff_0:list
+ff_0:chart
+ff_12:,
+ff_3:)
+ff_4:PUNCT__
+ff_5:PUNCT
+ff_3:users
+ff_0:users
+ff_6:only
+ff_7:ADV__
+ff_8:license
+ff_14:license
+ff_16:only
+ff_17:ADV__
+ff_3:license
+ff_0:license
+ff_8:components
+ff_14:components
+ff_0:those
+ff_2:DEM-PL
+ff_3:components
+ff_0:components
+ff_6:those
+ff_8:those
+ff_0:several
+ff_3:help
+ff_6:several
+ff_8:several
+ff_0:help
+ff_20:–
+ff_0:–
+ff_2:Dash
+ff_6:side
+ff_8:another
+ff_14:another
+ff_16:side
+ff_0:down
+ff_3:side
+ff_0:left
+ff_0:side
+ff_6:down
+ff_16:left
+ff_3:another
+ff_0:another
+ff_2:ADJ-SG
+ff_0:across
+ff_6:across
+ff_16:across
+ff_0:select
+ff_8:select
+ff_3:table
+ff_14:can
+ff_16:can
+ff_8:within
+ff_0:from
+ff_3:within
+ff_0:within
+ff_6:from
+ff_8:from
+ff_3:from
+ff_10:from
+ff_12:from
+ff_14:run
+ff_16:run
+ff_3:layout
+ff_0:layout
+ff_14:list
+ff_2:PERS-PL-NOM
+ff_3:fields
+ff_0:fields
+ff_8:displayed
+ff_14:displayed
+ff_3:are
+ff_10:are
+ff_12:area
+ff_18:area
+ff_20:are
+ff_3:displayed
+ff_0:displayed
+ff_6:are
+ff_8:area
+ff_14:area
+ff_16:are
+ff_3:area
+ff_0:row
+ff_3:row
+ff_0:area
+ff_14:or
+ff_15:CCONJ__
+ff_14:fields
+ff_16:fields
+ff_16:from
+ff_3:filter
+ff_0:sort
+ff_3:group
+ff_0:group
+ff_18:list
+ff_14:following
+ff_10:on
+ff_3:form
+ff_0:form
+ff_8:view
+ff_14:view
+ff_8:forms
+ff_14:forms
+ff_3:forms
+ff_0:forms
+ff_3:report
+ff_10:fields
+ff_12:fields
+ff_0:report
+ff_6:fields
+ff_8:fields
+ff_8:form
+ff_14:form
+ff_10:view
+ff_20:do
+ff_3:do
+ff_0:so
+ff_0:do
+ff_8:things
+ff_14:so
+ff_3:the
+ff_4:DET__
+ff_5:DET
+ff_12:do
+ff_18:do
+ff_3:things
+ff_8:all
+ff_0:things
+ff_8:do
+ff_14:do
+ff_0:filter
+ff_20:view
+ff_0:table
+ff_0:how
+ff_6:how
+ff_8:layout
+ff_14:layout
+ff_10:layout
+ff_8:display
+ff_14:your
+ff_3:display
+ff_0:display
+ff_3:areas
+ff_0:drop
+ff_0:areas
+ff_8:drop
+ff_14:drop
+ff_3:moving
+ff_0:moving
+ff_8:areas
+ff_3:drop
+ff_18:drop
+ff_20:drop
+ff_16:drop
+ff_10:within
+ff_12:view
+ff_6:within
+ff_6:view
+ff_3:that
+ff_4:SCONJ__
+ff_5:SCONJ
+ff_6:so
+ff_8:so
+ff_6:drop
+ff_8:up
+ff_0:up
+ff_0:still
+ff_12:row
+ff_8:row
+ff_16:area
+ff_3:field
+ff_0:field
+ff_3:items
+ff_0:items
+ff_8:field
+ff_14:field
+ff_16:within
+ff_0:detail
+ff_8:detail
+ff_12:detail
+ff_18:detail
+ff_14:detail
+ff_8:filter
+ff_8:part
+ff_16:view
+ff_3:part
+ff_0:part
+ff_8:available
+ff_6:example
+ff_0:when
+ff_6:when
+ff_6:field
+ff_12:a
+ff_8:time
+ff_16:at
+ff_3:level
+ff_0:level
+ff_18:view
+ff_20:fields
+ff_0:has
+ff_18:row
+ff_14:row
+ff_2:SPL
+ff_6:has
+ff_14:that
+ff_15:SCONJ__
+ff_3:detail
+ff_16:as
+ff_8:other
+ff_3:have
+ff_0:does
+ff_14:all
+ff_3:all
+ff_14:are
+ff_10:want
+ff_12:want
+ff_6:want
+ff_8:want
+ff_6:longer
+ff_8:longer
+ff_0:longer
+ff_3:no
+ff_8:see
+ff_3:see
+ff_0:see
+ff_8:chart
+ff_14:chart
+ff_3:chart
+ff_16:this
+ff_12:drop
+ff_10:because
+ff_12:one
+ff_20:of
+ff_8:only
+ff_3:written
+ff_3:document
+ff_6:document
+ff_8:document
+ff_0:document
+ff_0:either
+ff_6:either
+ff_10:either
+ff_3:order
+ff_10:order
+ff_20:order
+ff_0:order
+ff_6:order
+ff_16:order
+ff_3:and
+ff_4:CCONJ__
+ff_5:CCONJ
+ff_0:later
+ff_8:later
+ff_14:later
+ff_14:document
+ff_2:REL
+ff_6:source
+ff_8:each
+ff_15:X__
+ff_8:for
+ff_16:under
+ff_10:by
+ff_8:by
+ff_3:language
+ff_14:be
+ff_0:into
+ff_6:into
+ff_10:into
+ff_12:another
+ff_16:into
+ff_18:another
+ff_20:into
+ff_3:way
+ff_0:way
+ff_16:format
+ff_10:'s
+ff_11:PART__
+ff_12:'s
+ff_13:PART__
+ff_10:back
+ff_11:ADV__
+ff_12:back
+ff_6:back
+ff_8:back
+ff_3:back
+ff_0:back
+ff_3:to
+ff_8:again
+ff_14:again
+ff_0:again
+ff_8:export
+ff_3:export
+ff_0:export
+ff_3:can
+ff_6:can
+ff_8:application
+ff_16:another
+ff_10:such
+ff_11:PRON__
+ff_12:format
+ff_18:as
+ff_19:ADP__
+ff_12:order
+ff_8:order
+ff_0:many
+ff_3:many
+ff_0:which
+ff_2:WH-REL
+ff_6:which
+ff_0:over
+ff_6:over
+ff_8:both
+ff_3:both
+ff_0:both
+ff_12:to
+ff_0:behind
+ff_6:behind
+ff_8:reports
+ff_14:reports
+ff_16:behind
+ff_3:reports
+ff_0:reports
+ff_6:another
+ff_18:queries
+ff_14:database
+ff_6:well
+ff_16:well
+ff_0:well
+ff_12:reports
+ff_16:forms
+ff_20:forms
+ff_3:object
+ff_20:as
+ff_14:several
+ff_0:just
+ff_6:just
+ff_16:just
+ff_8:report
+ff_8:table
+ff_16:)
+ff_14:names
+ff_3:names
+ff_0:names
+ff_14:which
+ff_16:which
+ff_0:what
+ff_6:what
+ff_8:what
+ff_3:select
+ff_16:save
+ff_3:save
+ff_0:save
+ff_0:if
+ff_6:if
+ff_16:table
+ff_14:table
+ff_12:table
+ff_8:same
+ff_18:reports
+ff_0:language
+ff_8:called
+ff_0:called
+ff_3:called
+ff_10:well
+ff_12:as
+ff_20:well
+ff_21:ADV__
+ff_18:,
+ff_19:PUNCT__
+ff_2:SBJ
+ff_12:display
+ff_6:format
+ff_8:no
+ff_8:then
+ff_16:export
+ff_8:also
+ff_0:"
+ff_2:Quote
+ff_3:"
+ff_3:made
+ff_6:language
+ff_8:language
+ff_18:'s
+ff_19:PART__
+ff_20:access
+ff_14:'s
+ff_16:access
+ff_3:means
+ff_0:means
+ff_8:rules
+ff_16:it
+ff_10:document
+ff_12:document
+ff_18:.
+ff_0:start
+ff_6:end
+ff_8:end
+ff_3:end
+ff_12:start
+ff_18:start
+ff_0:end
+ff_3:start
+ff_8:start
+ff_14:start
+ff_18:there
+ff_19:PRON__
+ff_20:end
+ff_0:out
+ff_10:start
+ff_6:start
+ff_16:themselves
+ff_3:themselves
+ff_0:themselves
+ff_2:RFL-P3PL
+ff_16:if
+ff_12:called
+ff_8:"
+ff_14:"
+ff_16:"
+ff_3:following
+ff_3:example
+ff_3:where
+ff_3:states
+ff_0:states
+ff_10:that
+ff_18:this
+ff_8:any
+ff_12:any
+ff_18:any
+ff_16:end
+ff_0:together
+ff_14:together
+ff_16:together
+ff_8:name
+ff_3:case
+ff_0:case
+ff_14:case
+ff_18:set
+ff_6:each
+ff_6:both
+ff_14:end
+ff_16:both
+ff_8:case
+ff_3:each
+ff_2:RCP-SG-ACC
+ff_3:space
+ff_0:space
+ff_0:while
+ff_6:while
+ff_16:while
+ff_18:created
+ff_12:be
+ff_13:AUX__
+ff_18:be
+ff_8:be
+ff_0:being
+ff_8:being
+ff_14:being
+ff_16:reports
+ff_8:work
+ff_14:work
+ff_3:work
+ff_0:work
+ff_18:you
+ff_20:reports
+ff_6:two
+ff_16:using
+ff_6:detail
+ff_0:wo
+ff_0:n't
+ff_16:report
+ff_12:of
+ff_3:out
+ff_6:out
+ff_8:items
+ff_14:items
+ff_16:detail
+ff_0:might
+ff_6:some
+ff_16:some
+ff_0:after
+ff_6:after
+ff_8:either
+ff_0:certain
+ff_10:certain
+ff_12:list
+ff_20:certain
+ff_6:certain
+ff_16:certain
+ff_0:they
+ff_14:they
+ff_16:about
+ff_10:displayed
+ff_12:displayed
+ff_6:displayed
+ff_16:such
+ff_18:such
+ff_20:such
+ff_21:PRON__
+ff_0:than
+ff_3:other
+ff_6:than
+ff_16:than
+ff_14:does
+ff_14:used
+ff_18:used
+ff_14:filter
+ff_3:find
+ff_0:find
+ff_18:data
+ff_20:data
+ff_16:all
+ff_16:field
+ff_3:then
+ff_18:filter
+ff_3:blue
+ff_0:blue
+ff_8:black
+ff_14:black
+ff_3:black
+ff_0:black
+ff_8:instead
+ff_16:on
+ff_0:particularly
+ff_0:have
+ff_0:large
+ff_14:large
+ff_16:large
+ff_14:areas
+ff_18:field
+ff_20:field
+ff_16:items
+ff_0:three
+ff_16:three
+ff_0:most
+ff_14:most
+ff_16:most
+ff_0:five
+ff_16:five
+ff_10:number
+ff_12:number
+ff_6:number
+ff_10:people
+ff_12:people
+ff_6:people
+ff_8:people
+ff_3:people
+ff_0:people
+ff_14:display
+ff_16:display
+ff_10:items
+ff_12:items
+ff_10:1
+ff_6:items
+ff_14:not
+ff_2:CMP-PL
+ff_14:when
+ff_6:filter
+ff_16:'s
+ff_10:select
+ff_10:filter
+ff_12:move
+ff_18:move
+ff_20:filter
+ff_8:move
+ff_14:move
+ff_16:filter
+ff_10:field
+ff_12:field
+ff_8:line
+ff_14:line
+ff_3:line
+ff_0:line
+ff_12:line
+ff_18:line
+ff_16:moving
+ff_0:above
+ff_10:above
+ff_6:moving
+ff_8:moving
+ff_6:above
+ff_8:away
+ff_14:away
+ff_0:away
+ff_8:are
+ff_18:and
+ff_19:CCONJ__
+ff_14:and
+ff_16:line
+ff_14:want
+ff_14:copy
+ff_10:copy
+ff_20:line
+ff_14:between
+ff_8:right
+ff_3:right
+ff_10:line
+ff_6:line
+ff_8:group
+ff_14:group
+ff_0:blank
+ff_3:blank
+ff_6:blank
+ff_8:blank
+ff_0:their
+ff_2:P3PL-GEN
+ff_8:their
+ff_14:their
+ff_16:find
+ff_10:those
+ff_12:those
+ff_13:PRON__
+ff_3:those
+ff_8:with
+ff_16:when
+ff_6:other
+ff_3:might
+ff_18:might
+ff_13:SCONJ__
+ff_14:might
+ff_8:example
+ff_3:design
+ff_0:design
+ff_0:change
+ff_12:chart
+ff_8:on
+ff_14:on
+ff_16:so
+ff_3:long
+ff_10:long
+ff_12:long
+ff_0:long
+ff_6:long
+ff_8:long
+ff_0:did
+ff_0:these
+ff_6:these
+ff_8:these
+ff_8:design
+ff_14:design
+ff_6:license
+ff_16:components
+ff_16:design
+ff_12:or
+ff_6:have
+ff_8:have
+ff_0:who
+ff_10:2002
+ff_6:who
+ff_8:them
+ff_3:them
+ff_0:them
+ff_2:PERS-P3PL-ACC
+ff_14:them
+ff_16:them
+ff_10:who
+ff_12:have
+ff_18:have
+ff_20:who
+ff_14:have
+ff_16:who
+ff_14:users
+ff_0:'ve
+ff_2:PERF
+ff_8:'ve
+ff_14:'ve
+ff_6:do
+ff_12:components
+ff_18:components
+ff_10:license
+ff_12:license
+ff_14:with
+ff_16:changes
+ff_8:without
+ff_0:full
+ff_6:full
+ff_8:mode
+ff_10:only
+ff_20:only
+ff_14:in
+ff_16:has
+ff_18:license
+ff_3:which
+ff_14:must
+ff_16:license
+ff_21:X__
+ff_12:pages
+ff_20:license
+ff_16:query
+ff_0:going
+ff_8:because
+ff_14:because
+ff_14:both
+ff_14:could
+ff_16:could
+ff_3:different
+ff_8::
+ff_12:mode
+ff_6:mode
+ff_4:SYM__
+ff_5:SYM
+ff_2:CARD
+ff_1:SYM__
+ff_11:SYM__
+ff_13:SYM__
+ff_7:SYM__
+ff_9:SYM__
+ff_6:"
+ff_8:beginning
+ff_0:beginning
+ff_3:beginning
+ff_10:with
+ff_18:query
+ff_14:same
+ff_3:same
+ff_16:name
+ff_10:name
+ff_12:name
+ff_6:name
+ff_0:problems
+ff_3:problems
+ff_3:under
+ff_10:following
+ff_12:following
+ff_0:doing
+ff_3:doing
+ff_8:problems
+ff_14:problems
+ff_6:set
+ff_10:set
+ff_12:set
+ff_8:current
+ff_16:'ve
+ff_16:still
+ff_16:queries
+ff_8:if
+ff_12:application
+ff_8:under
+ff_10:under
+ff_12:under
+ff_8:window
+ff_16:were
+ff_3:you
+ff_16:window
+ff_8:names
+ff_0:always
+ff_16:always
+ff_14:object
+ff_10:other
+ff_12:other
+ff_16:following
+ff_14:name
+ff_0:where
+ff_6:where
+ff_10:(
+ff_12:)
+ff_16:more
+ff_0:ca
+ff_16:after
+ff_12:forms
+ff_6:object
+ff_16:object
+ff_16:users
+ff_14:available
+ff_16:available
+ff_16:over
+ff_8:look
+ff_3:look
+ff_0:look
+ff_14:report
+ff_0:like
+ff_6:like
+ff_16:make
+ff_6:–
+ff_8:–
+ff_16:open
+ff_16:out
+ff_10:table
+ff_14:current
+ff_8:has
+ff_14:has
+ff_16:making
+ff_3:making
+ff_0:making
+ff_14:before
+ff_16:before
+ff_3:left
+ff_10:page
+ff_10:group
+ff_12:group
+ff_6:group
+ff_10:object
+ff_12:object
+ff_6:forms
+ff_18:not
+ff_6:names
+ff_16:must
+ff_8:level
+ff_6:form
+ff_16:form
+ff_10:level
+ff_12:level
+ff_16:group
+ff_10:report
+ff_12:report
+ff_6:report
+ff_8:it
+ff_12:times
+ff_18:times
+ff_8:times
+ff_14:times
+ff_3:times
+ff_0:times
+ff_6:three
+ff_8:dead
+ff_14:dead
+ff_3:dead
+ff_0:dead
+ff_8:night
+ff_3:night
+ff_0:night
+ff_3:voice
+ff_0:voice
+ff_12:someone
+ff_18:voice
+ff_20:voice
+ff_8:someone
+ff_14:voice
+ff_16:voice
+ff_3:someone
+ff_0:someone
+ff_8:was
+ff_14:was
+ff_0:he
+ff_2:PERS-P3SG-NOM
+ff_6:he
+ff_16:he
+ff_3:later
+ff_8:able
+ff_0:able
+ff_8:think
+ff_14:he
+ff_16:was
+ff_3:think
+ff_0:think
+ff_14:things
+ff_8:happened
+ff_3:happened
+ff_0:happened
+ff_8:him
+ff_14:him
+ff_3:him
+ff_0:him
+ff_2:PERS-P3SG-ACC
+ff_0:would
+ff_3:real
+ff_0:nothing
+ff_2:NEG-SG
+ff_0:real
+ff_14:nothing
+ff_0:much
+ff_6:much
+ff_8:much
+ff_0:its
+ff_2:SG-GEN
+ff_8:its
+ff_14:its
+ff_3:turned
+ff_2:INF-AUX
+ff_0:turned
+ff_3:question
+ff_14:whether
+ff_0:first
+ff_2:ORD
+ff_8:came
+ff_16:first
+ff_3:came
+ff_0:came
+ff_0:question
+ff_2:RFL-SG
+ff_3:whether
+ff_3:not
+ff_4:PART__
+ff_5:PART
+ff_8:something
+ff_0:something
+ff_6:means
+ff_8:tell
+ff_3:tell
+ff_0:tell
+ff_3:little
+ff_10:need
+ff_12:us
+ff_18:us
+ff_20:need
+ff_0:need
+ff_6:need
+ff_8:us
+ff_14:us
+ff_16:need
+ff_0:us
+ff_2:PERS-P1PL-ACC
+ff_2:WH-NOM
+ff_8:did
+ff_8:he
+ff_16:where
+ff_3:did
+ff_14:what
+ff_16:what
+ff_0:great
+ff_8:great
+ff_14:no
+ff_2:PERS-P1PL-NOM
+ff_3:know
+ff_3:old
+ff_3:years
+ff_12:years
+ff_18:he
+ff_20:was
+ff_0:years
+ff_0:old
+ff_8:years
+ff_3:had
+ff_0:had
+ff_0:once
+ff_0:been
+ff_14:had
+ff_6:had
+ff_14:once
+ff_16:been
+ff_3:wife
+ff_3:son
+ff_0:his
+ff_2:P3SG-GEN
+ff_0:wife
+ff_8:son
+ff_16:his
+ff_0:son
+ff_0:now
+ff_8:now
+ff_14:wife
+ff_8:books
+ff_0:books
+ff_3:be
+ff_0:we
+ff_8:brought
+ff_8:year
+ff_14:about
+ff_3:year
+ff_0:year
+ff_3:brought
+ff_0:brought
+ff_0:enough
+ff_6:enough
+ff_8:live
+ff_14:live
+ff_16:enough
+ff_3:live
+ff_0:live
+ff_3:apartment
+ff_0:small
+ff_8:apartment
+ff_14:apartment
+ff_0:apartment
+ff_8:small
+ff_3:free
+ff_8:months
+ff_14:months
+ff_3:months
+ff_6:six
+ff_8:six
+ff_3:six
+ff_10:than
+ff_12:five
+ff_18:five
+ff_20:than
+ff_0:six
+ff_3:five
+ff_0:months
+ff_8:five
+ff_14:five
+ff_3:rest
+ff_0:rest
+ff_3:books
+ff_6:many
+ff_8:many
+ff_3:looked
+ff_0:looked
+ff_8:at
+ff_3:went
+ff_0:went
+ff_8:.
+ff_2:CMP-SG
+ff_6:anything
+ff_16:anything
+ff_3:anything
+ff_0:anything
+ff_8:than
+ff_0:however
+ff_3:however
+ff_14:however
+ff_3:every
+ff_10:every
+ff_0:every
+ff_3:day
+ff_0:day
+ff_3:leave
+ff_6:every
+ff_8:cold
+ff_14:cold
+ff_3:cold
+ff_0:cold
+ff_6:his
+ff_8:his
+ff_8:city
+ff_14:city
+ff_3:city
+ff_0:city
+ff_16:through
+ff_0:never
+ff_3:really
+ff_10:really
+ff_12:going
+ff_0:really
+ff_3:going
+ff_6:never
+ff_8:never
+ff_6:really
+ff_8:going
+ff_2:IND-WH
+ff_2:WH-IND
+ff_12:take
+ff_8:take
+ff_8:steps
+ff_14:steps
+ff_3:steps
+ff_0:steps
+ff_3:matter
+ff_0:matter
+ff_3:far
+ff_0:far
+ff_3:walked
+ff_8:how
+ff_0:walked
+ff_6:far
+ff_3:well
+ff_8:know
+ff_14:matter
+ff_0:know
+ff_6:its
+ff_16:its
+ff_6:matter
+ff_14:walked
+ff_16:him
+ff_8:lost
+ff_3:lost
+ff_0:lost
+ff_3:only
+ff_8:himself
+ff_3:himself
+ff_12:well
+ff_0:himself
+ff_2:RFL-P3SG
+ff_14:within
+ff_8:well
+ff_12:within
+ff_18:within
+ff_20:but
+ff_3:felt
+ff_8:took
+ff_10:though
+ff_12:though
+ff_14:took
+ff_3:took
+ff_0:took
+ff_6:though
+ff_8:though
+ff_0:though
+ff_8:behind
+ff_16:himself
+ff_14:himself
+ff_14:by
+ff_14:think
+ff_6:more
+ff_3:this
+ff_8:anything
+ff_14:anything
+ff_8:else
+ff_14:else
+ff_0:else
+ff_3:world
+ff_10:world
+ff_18:outside
+ff_20:made
+ff_0:world
+ff_10:him
+ff_12:him
+ff_0:outside
+ff_6:him
+ff_3:outside
+ff_0:around
+ff_6:around
+ff_8:before
+ff_8:kept
+ff_14:kept
+ff_3:kept
+ff_0:kept
+ff_0:made
+ff_16:thing
+ff_3:thing
+ff_0:thing
+ff_0:very
+ff_8:very
+ff_14:very
+ff_10:front
+ff_18:of
+ff_20:front
+ff_6:front
+ff_14:of
+ff_16:front
+ff_0:front
+ff_8:body
+ff_14:body
+ff_3:body
+ff_0:own
+ff_0:body
+ff_8:own
+ff_14:his
+ff_2:EX-P3SG
+ff_3:longer
+ff_12:was
+ff_18:it
+ff_20:longer
+ff_16:longer
+ff_0:best
+ff_8:best
+ff_3:feel
+ff_0:feel
+ff_2:NEG-WH
+ff_16:had
+ff_8:around
+ff_8:had
+ff_0:ever
+ff_14:ever
+ff_3:past
+ff_0:past
+ff_3:man
+ff_0:young
+ff_0:man
+ff_8:young
+ff_16:several
+ff_0:written
+ff_14:long
+ff_20:that
+ff_0:quite
+ff_3:given
+ff_6:quite
+ff_16:quite
+ff_3:told
+ff_6:part
+ff_3:friends
+ff_0:friends
+ff_8:coming
+ff_0:coming
+ff_16:back
+ff_3:coming
+ff_3:taken
+ff_0:taken
+ff_3:could
+ff_10:could
+ff_12:books
+ff_18:books
+ff_20:could
+ff_6:could
+ff_14:books
+ff_14:many
+ff_8:but
+ff_3:morning
+ff_0:next
+ff_0:morning
+ff_14:next
+ff_16:next
+ff_16:read
+ff_3:two
+ff_20:on
+ff_2:RightParanthesis
+ff_16:up
+ff_3:seemed
+ff_0:'
+ff_8:'
+ff_14:'
+ff_3:'
+ff_6:it
+ff_10:it
+ff_18:was
+ff_3:who
+ff_3:idea
+ff_0:idea
+ff_14:time
+ff_16:time
+ff_0:good
+ff_8:man
+ff_14:good
+ff_16:good
+ff_10:go
+ff_12:go
+ff_6:go
+ff_8:go
+ff_3:go
+ff_0:go
+ff_8:out
+ff_14:out
+ff_8:two
+ff_0:opened
+ff_3:opened
+ff_8:day
+ff_14:day
+ff_0:since
+ff_6:since
+ff_8:wife
+ff_0:even
+ff_0:remember
+ff_16:even
+ff_2:IND-P3SG
+ff_0:white
+ff_8:white
+ff_14:white
+ff_0:too
+ff_8:too
+ff_14:too
+ff_14:instead
+ff_6:red
+ff_8:red
+ff_3:red
+ff_0:red
+ff_3:put
+ff_3:kind
+ff_0:kind
+ff_0:until
+ff_6:until
+ff_16:hand
+ff_3:hand
+ff_0:hand
+ff_3:began
+ff_0:began
+ff_8:doing
+ff_14:doing
+ff_2:PERS-P1SG-NOM
+ff_3:seem
+ff_3:said
+ff_0:said
+ff_0:am
+ff_14:if
+ff_16:am
+ff_6:exactly
+ff_8:exactly
+ff_0:exactly
+ff_20:from
+ff_10:side
+ff_14:green
+ff_16:green
+ff_0:green
+ff_6:sun
+ff_8:sun
+ff_3:sun
+ff_0:sun
+ff_3:green
+ff_8:morning
+ff_16:white
+ff_3:white
+ff_3:thought
+ff_3:moment
+ff_0:moment
+ff_0:trying
+ff_6:remember
+ff_8:remember
+ff_3:trying
+ff_14:face
+ff_3:face
+ff_0:face
+ff_8:hands
+ff_3:hands
+ff_0:her
+ff_0:hands
+ff_14:her
+ff_16:her
+ff_16:around
+ff_14:red
+ff_16:red
+ff_3:mind
+ff_0:mind
+ff_8:wall
+ff_16:blue
+ff_3:wall
+ff_0:wall
+ff_10:window
+ff_12:window
+ff_6:window
+ff_3:street
+ff_0:street
+ff_14:south
+ff_16:south
+ff_0:south
+ff_6:then
+ff_8:left
+ff_14:left
+ff_16:then
+ff_3:saw
+ff_0:saw
+ff_3:stood
+ff_0:suddenly
+ff_0:everything
+ff_0:already
+ff_16:already
+ff_3:gave
+ff_16:door
+ff_3:door
+ff_0:door
+ff_3:would
+ff_10:would
+ff_18:him
+ff_20:him
+ff_6:would
+ff_0:last
+ff_14:last
+ff_16:last
+ff_16:really
+ff_3:keep
+ff_0:keep
+ff_8:open
+ff_16:eyes
+ff_0:my
+ff_2:P1SG-GEN
+ff_3:eyes
+ff_0:eyes
+ff_6:my
+ff_8:my
+ff_3:woman
+ff_8:door
+ff_14:door
+ff_0:off
+ff_6:off
+ff_8:off
+ff_6:too
+ff_3:talking
+ff_0:woman
+ff_8:woman
+ff_14:woman
+ff_0:she
+ff_2:PERS-SG-NOM
+ff_6:even
+ff_8:first
+ff_16:those
+ff_6:was
+ff_14:these
+ff_3:knew
+ff_0:knew
+ff_3:sure
+ff_3:any
+ff_3:it
+ff_10:woman
+ff_20:woman
+ff_12:look
+ff_0:perhaps
+ff_6:perhaps
+ff_8:perhaps
+ff_14:best
+ff_3:best
+ff_16:else
+ff_14:point
+ff_0:dark
+ff_3:hair
+ff_0:hair
+ff_6:dark
+ff_16:dark
+ff_8:dark
+ff_14:those
+ff_6:once
+ff_8:once
+ff_3:at
+ff_16:black
+ff_12:red
+ff_18:red
+ff_6:very
+ff_3:smile
+ff_0:smile
+ff_16:;
+ff_16:head
+ff_3:head
+ff_0:head
+ff_3:'s
+ff_0:'m
+ff_8:'m
+ff_12:'m
+ff_14:'m
+ff_18:'m
+ff_3:'m
+ff_18:woman
+ff_3:waiting
+ff_16:since
+ff_18:ten
+ff_20:ten
+ff_14:ten
+ff_16:ten
+ff_3:ten
+ff_0:ten
+ff_8:been
+ff_3:been
+ff_12:been
+ff_20:'s
+ff_3:seen
+ff_8:like
+ff_16:suddenly
+ff_3:wanted
+ff_12:moment
+ff_8:moment
+ff_10:apartment
+ff_18:up
+ff_20:kind
+ff_3:large
+ff_14:perhaps
+ff_16:perhaps
+ff_10:five
+ff_6:five
+ff_3:though
+ff_8:even
+ff_8:looking
+ff_3:looking
+ff_0:looking
+ff_8:eyes
+ff_16:things
+ff_0:sitting
+ff_8:room
+ff_3:sitting
+ff_3:room
+ff_0:living
+ff_0:room
+ff_8:living
+ff_0:told
+ff_8:went
+ff_8:find
+ff_14:she
+ff_16:she
+ff_8:husband
+ff_14:husband
+ff_3:husband
+ff_0:husband
+ff_6:her
+ff_8:her
+ff_3:say
+ff_14:from
+ff_3:light
+ff_0:light
+ff_6:light
+ff_0:almost
+ff_8:almost
+ff_20:began
+ff_8:imagine
+ff_3:imagine
+ff_10:like
+ff_12:like
+ff_0:imagine
+ff_8:looked
+ff_14:looked
+ff_3:what
+ff_3:on
+ff_10:without
+ff_20:without
+ff_8:there
+ff_3:decided
+ff_8:leave
+ff_0:leave
+ff_12:it
+ff_18:light
+ff_20:light
+ff_14:light
+ff_16:light
+ff_3:heard
+ff_3:sound
+ff_0:sound
+ff_14:someone
+ff_16:room
+ff_14:around
+ff_14:see
+ff_18:white
+ff_20:white
+ff_3:,
+ff_16:own
+ff_3:suddenly
+ff_8:just
+ff_0:thought
+ff_6:thought
+ff_16:thought
+ff_3:sat
+ff_0:sat
+ff_14:down
+ff_16:down
+ff_3:a
+ff_3:he
+ff_10:he
+ff_12:seat
+ff_18:way
+ff_20:way
+ff_8:seat
+ff_14:way
+ff_16:way
+ff_3:seat
+ff_0:seat
+ff_14:did
+ff_14:moving
+ff_14:place
+ff_16:place
+ff_3:place
+ff_0:place
+ff_8:attention
+ff_14:attention
+ff_3:attention
+ff_0:attention
+ff_10:once
+ff_12:once
+ff_10:body
+ff_18:had
+ff_20:had
+ff_3:exactly
+ff_6:almost
+ff_10:exactly
+ff_19:SCONJ__
+ff_20::
+ff_16::
+ff_14:were
+ff_10:between
+ff_20:between
+ff_16:between
+ff_0:yet
+ff_8:yet
+ff_14:yet
+ff_3:were
+ff_8:will
+ff_6:body
+ff_8:become
+ff_3:become
+ff_12:that
+ff_0:become
+ff_8:broken
+ff_18:down
+ff_0:broken
+ff_3:watching
+ff_0:watching
+ff_16:like
+ff_8:trying
+ff_14:trying
+ff_8:about
+ff_10:about
+ff_12:about
+ff_6:white
+ff_8:hair
+ff_8:face
+ff_10::
+ff_6::
+ff_8:blue
+ff_8:seemed
+ff_0:seemed
+ff_6:last
+ff_8:last
+ff_14:at
+ff_16:attention
+ff_3:their
+ff_10:their
+ff_12:their
+ff_10:eyes
+ff_20:eyes
+ff_6:their
+ff_6:eyes
+ff_8:across
+ff_3:across
+ff_0:felt
+ff_3:perhaps
+ff_4:INTJ__
+ff_5:INTJ
+ff_1:INTJ__
+ff_0:possible
+ff_6:something
+ff_16:something
+ff_14:back
+ff_10:time
+ff_20:time
+ff_3:passed
+ff_10:man
+ff_12:at
+ff_18:at
+ff_20:man
+ff_10:last
+ff_12:last
+ff_14:young
+ff_6:man
+ff_16:man
+ff_14:am
+ff_18:am
+ff_20:am
+ff_0:free
+ff_8:free
+ff_14:my
+ff_16:my
+ff_6:.
+ff_6:course
+ff_16:course
+ff_0:course
+ff_8:should
+ff_14:should
+ff_3:done
+ff_7:INTJ__
+ff_17:INTJ__
+ff_15:INTJ__
+ff_3:sit
+ff_0:here
+ff_8:who
+ff_14:who
+ff_10:me
+ff_12:me
+ff_8:talking
+ff_14:talking
+ff_0:talking
+ff_6:me
+ff_8:me
+ff_3:me
+ff_0:me
+ff_2:PERS-P1SG-ACC
+ff_14:coming
+ff_16:these
+ff_3:else
+ff_10:else
+ff_12:else
+ff_6:else
+ff_3:car
+ff_18:car
+ff_0:car
+ff_14:car
+ff_8:trees
+ff_14:trees
+ff_3:trees
+ff_0:trees
+ff_8:saw
+ff_8:walked
+ff_8:air
+ff_3:air
+ff_0:air
+ff_8:light
+ff_8:place
+ff_18:really
+ff_20:really
+ff_14:really
+ff_16:house
+ff_3:house
+ff_0:house
+ff_14:morning
+ff_0:passed
+ff_6:apartment
+ff_8:were
+ff_12:were
+ff_8:hours
+ff_14:hours
+ff_3:hours
+ff_0:hours
+ff_10:three
+ff_12:most
+ff_18:most
+ff_20:three
+ff_3:three
+ff_8:most
+ff_3:most
+ff_0:along
+ff_6:along
+ff_16:along
+ff_6:left
+ff_8:eat
+ff_3:eat
+ff_0:eat
+ff_14:dark
+ff_3:dark
+ff_16:have
+ff_8:still
+ff_0:decided
+ff_14:go
+ff_6:yet
+ff_16:long
+ff_20:long
+ff_14:man
+ff_16:morning
+ff_12:later
+ff_18:later
+ff_16:never
+ff_0:sit
+ff_8:watching
+ff_0:glass
+ff_14:glass
+ff_16:glass
+ff_3:come
+ff_6:always
+ff_18:large
+ff_20:large
+ff_8:old
+ff_14:old
+ff_14:would
+ff_16:once
+ff_10:more
+ff_3:once
+ff_0:among
+ff_6:among
+ff_10:before
+ff_20:place
+ff_3:again
+ff_6:again
+ff_10:did
+ff_18:something
+ff_3:something
+ff_8:course
+ff_3:of
+ff_0:seem
+ff_3:yet
+ff_3:by
+ff_12:by
+ff_18:on
+ff_14:seemed
+ff_16:seemed
+ff_20:seemed
+ff_3:now
+ff_16:every
+ff_16:off
+ff_3:over
+ff_8:hand
+ff_14:over
+ff_8:over
+ff_20:open
+ff_16:would
+ff_0:inside
+ff_6:inside
+ff_8:inside
+ff_20:would
+ff_14:great
+ff_6:up
+ff_8:way
+ff_14:tell
+ff_16:tell
+ff_8:could
+ff_14:broken
+ff_3:days
+ff_0:days
+ff_8:passed
+ff_8:head
+ff_8:matter
+ff_3:fact
+ff_0:fact
+ff_14:saw
+ff_16:saw
+ff_16:also
+ff_8:between
+ff_10:had
+ff_12:mind
+ff_18:been
+ff_20:been
+ff_8:mind
+ff_14:been
+ff_8:street
+ff_14:up
+ff_8:nothing
+ff_3:stop
+ff_8:into
+ff_3:talk
+ff_6:did
+ff_16:did
+ff_10:his
+ff_20:his
+ff_8:when
+ff_3:middle
+ff_0:middle
+ff_16:later
+ff_3:few
+ff_10:few
+ff_12:few
+ff_0:few
+ff_2:IND-PL
+ff_6:few
+ff_8:few
+ff_16:their
+ff_3:too
+ff_6:particularly
+ff_8:particularly
+ff_0:dinner
+ff_3:try
+ff_14:son
+ff_14:called
+ff_18:called
+ff_20:by
+ff_2:WH-ACC
+ff_16:night
+ff_8:home
+ff_14:home
+ff_0:home
+ff_10:thing
+ff_6:little
+ff_16:little
+ff_0:little
+ff_10:off
+ff_20:off
+ff_16:now
+ff_3:possible
+ff_14:course
+ff_14:world
+ff_8:taking
+ff_3:taking
+ff_0:taking
+ff_8:keep
+ff_8:taken
+ff_3:along
+ff_0:therefore
+ff_8:trouble
+ff_14:therefore
+ff_3:trouble
+ff_0:trouble
+ff_20:decided
+ff_16:believe
+ff_3:believe
+ff_0:believe
+ff_14:though
+ff_8:n't
+ff_16:n't
+ff_3:much
+ff_10:much
+ff_20:believe
+ff_18:steps
+ff_20:part
+ff_16:part
+ff_14:how
+ff_14:small
+ff_16:small
+ff_3:therefore
+ff_3:if
+ff_3:nothing
+ff_6:next
+ff_3:behind
+ff_0:against
+ff_6:against
+ff_16:against
+ff_3:first
+ff_10:first
+ff_18:tell
+ff_20:tell
+ff_12:longer
+ff_16:tried
+ff_20:tried
+ff_3:tried
+ff_0:tried
+ff_18:man
+ff_6:being
+ff_3:gone
+ff_10:city
+ff_12:city
+ff_6:city
+ff_14:wall
+ff_8:every
+ff_8:life
+ff_3:life
+ff_0:life
+ff_14:still
+ff_8:made
+ff_14:made
+ff_8:would
+ff_18:were
+ff_10:watching
+ff_20:what
+ff_3:give
+ff_0:give
+ff_16:they
+ff_3:get
+ff_0:get
+ff_3:she
+ff_16:city
+ff_10:thought
+ff_20:something
+ff_8:important
+ff_14:important
+ff_0:important
+ff_12:for
+ff_10:taken
+ff_20:taken
+ff_6:taken
+ff_16:taken
+ff_3:good
+ff_8:thought
+ff_10:perhaps
+ff_20:help
+ff_2:PL
+ff_0:clean
+ff_14:clean
+ff_16:clean
+ff_8:save
+ff_8:far
+ff_14:far
+ff_3:living
+ff_12:on
+ff_8:house
+ff_14:house
+ff_12:need
+ff_18:need
+ff_20:much
+ff_8:need
+ff_14:need
+ff_16:much
+ff_3:about
+ff_3:important
+ff_16:being
+ff_16:office
+ff_3:office
+ff_0:office
+ff_3:home
+ff_0:talk
+ff_10:face
+ff_12:face
+ff_6:face
+ff_10:fact
+ff_12:fact
+ff_10:up
+ff_12:up
+ff_6:fact
+ff_8:fact
+ff_10:himself
+ff_12:himself
+ff_2:ADJ-SG-NOM
+ff_6:himself
+ff_0:done
+ff_6:;
+ff_8:;
+ff_10:done
+ff_12:gone
+ff_0:gone
+ff_6:gone
+ff_10:gone
+ff_12:had
+ff_20:he
+ff_2:POS-PL
+ff_16:old
+ff_18:over
+ff_20:know
+ff_18:middle
+ff_20:middle
+ff_8:south
+ff_3:south
+ff_14:just
+ff_8:glass
+ff_3:glass
+ff_8:clean
+ff_8:speak
+ff_14:hear
+ff_16:hear
+ff_3:hear
+ff_0:hear
+ff_8:voice
+ff_0:speak
+ff_3:speak
+ff_3:through
+ff_14:first
+ff_6:still
+ff_10:find
+ff_12:find
+ff_6:find
+ff_8:standing
+ff_14:standing
+ff_0:standing
+ff_3:standing
+ff_3:asked
+ff_12:could
+ff_18:could
+ff_6:?
+ff_8:?
+ff_0:why
+ff_20:it
+ff_16:'m
+ff_20:'m
+ff_10:if
+ff_12:you
+ff_0:'ll
+ff_0:myself
+ff_2:RFL-P1SG
+ff_0:gave
+ff_16:look
+ff_14:something
+ff_3:book
+ff_0:book
+ff_8:ago
+ff_14:ago
+ff_0:ago
+ff_6:n't
+ff_11:INTJ__
+ff_10:see
+ff_12:see
+ff_6:see
+ff_10:work
+ff_12:work
+ff_6:work
+ff_8:enough
+ff_2:TOT-WH
+ff_14:know
+ff_0:children
+ff_3:children
+ff_14:few
+ff_12:space
+ff_18:space
+ff_6:green
+ff_8:green
+ff_8:space
+ff_14:space
+ff_8:sit
+ff_16:kitchen
+ff_3:kitchen
+ff_0:kitchen
+ff_6:them
+ff_8:thing
+ff_8:wanted
+ff_0:wanted
+ff_14:talk
+ff_16:talk
+ff_18:his
+ff_16:book
+ff_3:like
+ff_0:whole
+ff_8:whole
+ff_14:whole
+ff_20:thing
+ff_6:book
+ff_8:question
+ff_10:part
+ff_12:part
+ff_12:this
+ff_3:others
+ff_0:others
+ff_8:three
+ff_14:three
+ff_6:past
+ff_8:past
+ff_18:himself
+ff_6:great
+ff_6:why
+ff_16:life
+ff_20:all
+ff_6:most
+ff_8:men
+ff_14:men
+ff_3:men
+ff_0:men
+ff_16:world
+ff_20:out
+ff_8:real
+ff_14:others
+ff_16:others
+ff_8:believe
+ff_14:said
+ff_16:said
+ff_12:?
+ff_3:us
+ff_8:book
+ff_14:book
+ff_0:say
+ff_0:given
+ff_8:front
+ff_18:door
+ff_20:door
+ff_20:sound
+ff_6:woman
+ff_16:woman
+ff_6:high
+ff_8:high
+ff_6:first
+ff_3:high
+ff_0:high
+ff_12:!
+ff_18::
+ff_20:look
+ff_8:found
+ff_14:found
+ff_0:!
+ff_2:ExclMark
+ff_18:then
+ff_12:street
+ff_3:why
+ff_14:why
+ff_10:moment
+ff_6:moment
+ff_18:room
+ff_20:room
+ff_14:room
+ff_16:dead
+ff_3:boy
+ff_14:six
+ff_0:boy
+ff_9:INTJ__
+ff_6:hand
+ff_10:boy
+ff_0:try
+ff_12:over
+ff_18:boy
+ff_20:boy
+ff_14:boy
+ff_16:boy
+ff_0:put
+ff_12:watching
+ff_14:every
+ff_2:IND-PL-NOM
+ff_6:ago
+ff_10:around
+ff_12:middle
+ff_20:around
+ff_8:middle
+ff_14:middle
+ff_0:stood
+ff_8:try
+ff_18:off
+ff_8:down
+ff_6:boy
+ff_8:boy
+ff_6:wife
+ff_10:when
+ff_12:room
+ff_14:make
+ff_10:her
+ff_12:her
+ff_14:everything
+ff_16:everything
+ff_3:her
+ff_3:everything
+ff_12:things
+ff_16:day
+ff_6:books
+ff_10:books
+ff_14:hands
+ff_8:already
+ff_18:smile
+ff_14:smile
+ff_10:then
+ff_18:to
+ff_18:out
+ff_2:TOT-SG-NOM
+ff_0:'re
+ff_8:'re
+ff_3:around
+ff_14:suddenly
+ff_10:wife
+ff_6:she
+ff_0:asked
+ff_10:many
+ff_12:many
+ff_18:that
+ff_20:said
+ff_8:she
+ff_3:laughed
+ff_10:little
+ff_20:little
+ff_8:knew
+ff_14:knew
+ff_14:now
+ff_3:before
+ff_18:six
+ff_20:six
+ff_8:come
+ff_14:come
+ff_0:come
+ff_14:street
+ff_3:certain
+ff_3:since
+ff_14:like
+ff_8:while
+ff_14:country
+ff_16:country
+ff_3:country
+ff_0:country
+ff_3:while
+ff_10:example
+ff_12:example
+ff_3:.
+ff_10:all
+ff_12:all
+ff_20:once
+ff_14:even
+ff_10:wall
+ff_18:wall
+ff_12:wall
+ff_6:wall
+ff_20:city
+ff_3:got
+ff_0:got
+ff_3:water
+ff_0:water
+ff_3:with
+ff_14:'re
+ff_16:'re
+ff_16:mind
+ff_8:making
+ff_14:making
+ff_16:do
+ff_16:going
+ff_16:does
+ff_8:next
+ff_14:waiting
+ff_16:waiting
+ff_0:waiting
+ff_3:last
+ff_10:whether
+ff_10:what
+ff_16:number
+ff_20:many
+ff_16:many
+ff_18:?
+ff_3:off
+ff_14:?
+ff_18:run
+ff_20:turned
+ff_8:sound
+ff_10:same
+ff_12:same
+ff_18:thing
+ff_6:same
+ff_8:written
+ff_3:hard
+ff_0:hard
+ff_21:SCONJ__
+ff_16:again
+ff_10:tried
+ff_6:kitchen
+ff_8:kitchen
+ff_16:son
+ff_6:men
+ff_16:men
+ff_18:are
+ff_20:passed
+ff_3:women
+ff_0:women
+ff_18:women
+ff_20:them
+ff_14:women
+ff_2:NEG-SG-NOM
+ff_3:because
+ff_20:too
+ff_16:too
+ff_12:out
+ff_6:myself
+ff_8:myself
+ff_2:P1SG-GEN-INDEP
+ff_2:P3PL-GEN-INDEP
+ff_16:children
+ff_10:years
+ff_6:years
+ff_0:our
+ff_2:PL-GEN
+ff_6:our
+ff_16:our
+ff_6:row
+ff_3:says
+ff_0:says
+ff_3:next
+ff_16:middle
+ff_8:put
+ff_12:eyes
+ff_14:blue
+ff_10:means
+ff_12:means
+ff_8:means
+ff_8:which
+ff_16:great
+ff_10:them
+ff_12:them
+ff_3:so
+ff_10:so
+ff_12:so
+ff_8:given
+ff_14:given
+ff_16:me
+ff_6:we
+ff_14:n't
+ff_0:big
+ff_14:big
+ff_16:big
+ff_8:our
+ff_14:our
+ff_18:wife
+ff_8:dinner
+ff_3:dinner
+ff_3:state
+ff_0:state
+ff_8:death
+ff_3:death
+ff_0:death
+ff_0:upon
+ff_18:me
+ff_20:me
+ff_6:upon
+ff_8:upon
+ff_14:me
+ff_3:should
+ff_14:we
+ff_3:does
+ff_12:"
+ff_20:?
+ff_3:some
+ff_14:only
+ff_3:let
+ff_6:us
+ff_16:us
+ff_16:nothing
+ff_16:very
+ff_20:.
+ff_10:"
+ff_18:book
+ff_20:book
+ff_12:with
+ff_14:themselves
+ff_14:years
+ff_12:live
+ff_18:live
+ff_0:'d
+ff_8:after
+ff_10:?
+ff_0:heard
+ff_6:they
+ff_8:they
+ff_12:are
+ff_2:SG-FGN
+ff_2:SG-NOM-FGN
+ff_3:after
+ff_8:countries
+ff_14:countries
+ff_3:countries
+ff_0:countries
+ff_8:good
+ff_16:countries
+ff_2:ITVL
+ff_10:made
+ff_12:made
+ff_6:made
+ff_10:at
+ff_16:among
+ff_10:left
+ff_18:"
+ff_8:large
+ff_12:large
+ff_2:WH-REL-GEN
+ff_16:air
+ff_8:themselves
+ff_16:broken
+ff_3:these
+ff_10:air
+ff_20:air
+ff_6:air
+ff_10:water
+ff_12:water
+ff_6:water
+ff_8:water
+ff_2:PL-NOM-FGN
+ff_2:SG-GEN-FGN
+ff_8:children
+ff_2:RFL-P2SG
+ff_3:feet
+ff_0:feet
+ff_14:through
+ff_14:part
+ff_10:anything
+ff_12:anything
+ff_8:ever
+ff_18:world
+ff_8:give
+ff_14:give
+ff_8:we
+ff_12:way
+ff_10:most
+ff_8:member
+ff_3:member
+ff_0:member
+ff_6:taking
+ff_2:RFL-P1PL
+ff_16:means
+ff_3:own
+ff_0:political
+ff_8:political
+ff_14:political
+ff_10:always
+ff_12:make
+ff_18:make
+ff_20:always
+ff_20:best
+ff_3:always
+ff_8:world
+ff_6:old
+ff_18:themselves
+ff_2:WH-IND-SG
+ff_16:political
+ff_8:stone
+ff_3:stone
+ff_0:stone
+ff_20:work
+ff_3:up
+ff_8:government
+ff_14:government
+ff_3:government
+ff_0:government
+ff_20:now
+ff_2:INTL
+ff_10:problems
+ff_20:problems
+ff_6:problems
+ff_16:problems
+ff_6:government
+ff_14:upon
+ff_16:called
+ff_8:outside
+ff_14:eyes
+ff_20:"
+ff_6:should
+ff_12:state
+ff_6:whole
+ff_8:state
+ff_3:or
+ff_2:ADJ-SPL
+ff_16:possible
+ff_3:?
+ff_10:now
+ff_12:now
+ff_6:now
+ff_14:written
+ff_6:political
+ff_3:political
+ff_20:at
+ff_8:fire
+ff_3:fire
+ff_0:fire
+ff_20:were
+ff_16:says
+ff_16:high
+ff_14:night
+ff_14:thought
+ff_10:not
+ff_12:year
+ff_14:people
+ff_16:upon
+ff_8:full
+ff_20:nothing
+ff_10:some
+ff_12:some
+ff_20:country
+ff_12:old
+ff_18:old
+ff_14:quality
+ff_16:quality
+ff_3:quality
+ff_0:quality
+ff_14:life
+ff_20:anything
+ff_10:might
+ff_18:them
+ff_20:might
+ff_6:might
+ff_16:might
+ff_10:themselves
+ff_12:themselves
+ff_6:themselves
+ff_8:get
+ff_8:seem
+ff_3:we
+ff_16:we
+ff_3:road
+ff_14:stone
+ff_18:road
+ff_0:road
+ff_14:road
+ff_16:road
+ff_16:should
+ff_0:fine
+ff_8:waiting
+ff_12:sound
+ff_18:sound
+ff_14:sound
+ff_18:table
+ff_20:table
+ff_18:for
+ff_12:important
+ff_18:what
+ff_8:above
+ff_10:government
+ff_12:government
+ff_16:cold
+ff_16:face
+ff_20:see
+ff_3:great
+ff_6:saw
+ff_8:here
+ff_14:here
+ff_20:when
+ff_14:sun
+ff_16:stone
+ff_10:morning
+ff_20:hands
+ff_8:feet
+ff_14:feet
+ff_8:hear
+ff_3:current
+ff_14:children
+ff_10:ten
+ff_12:ago
+ff_18:ago
+ff_6:ten
+ff_14:myself
+ff_12:death
+ff_18:death
+ff_20:death
+ff_14:death
+ff_16:death
+ff_6:son
+ff_14:hard
+ff_14:trouble
+ff_3:moved
+ff_3:ship
+ff_0:ship
+ff_14:ship
+ff_8:ship
+ff_2:PERF-AUX
+ff_18:matter
+ff_10:ship
+ff_14:going
+ff_16:home
+ff_10:glasses
+ff_12:glasses
+ff_6:glasses
+ff_8:glasses
+ff_3:glasses
+ff_0:glasses
+ff_3:course
+ff_10:matter
+ff_12:matter
+ff_6:everything
+ff_10:evening
+ff_20:evening
+ff_6:evening
+ff_16:evening
+ff_3:evening
+ff_0:evening
+ff_16:away
+ff_8:little
+ff_14:little
+ff_3:just
+ff_12:only
+ff_18:only
+ff_18:nothing
+ff_3:sea
+ff_0:sea
+ff_18:ship
+ff_20:night
+ff_16:set
+ff_20:down
+ff_20:ship
+ff_16:ship
+ff_14:'ll
+ff_12:open
+ff_18:if
+ff_18:in
+ff_12:;
+ff_14:own
+ff_12:children
+ff_18:children
+ff_8:let
+ff_14:let
+ff_0:let
+ff_12:let
+ff_18:let
+ff_8:feel
+ff_8:sea
+ff_8:talk
+ff_10:quite
+ff_12:quite
+ff_8:quite
+ff_3:quite
+ff_16:seen
+ff_0:seen
+ff_14:use
+ff_3:shop
+ff_16:friends
+ff_6:good
+ff_18:suddenly
+ff_0:shop
+ff_6:outside
+ff_20:people
+ff_16:six
+ff_16:people
+ff_6:street
+ff_16:because
+ff_10:shop
+ff_12:eat
+ff_18:eat
+ff_20:shop
+ff_6:shop
+ff_14:eat
+ff_16:shop
+ff_14:passed
+ff_16:passed
+ff_0:everyone
+ff_3:everyone
+ff_14:everyone
+ff_14:right
+ff_0:sure
+ff_10:sure
+ff_8:rest
+ff_14:rest
+ff_14:river
+ff_16:river
+ff_3:river
+ff_0:river
+ff_20:beginning
+ff_20:up
+ff_16:sea
+ff_8:earth
+ff_3:earth
+ff_0:earth
+ff_10:looked
+ff_12:looked
+ff_6:looked
+ff_20:there
+ff_3:there
+ff_14:behind
+ff_12:behind
+ff_18:behind
+ff_14:sea
+ff_6:right
+ff_16:hands
+ff_12:still
+ff_18:still
+ff_3:still
+ff_20:if
+ff_18:its
+ff_20:its
+ff_20:about
+ff_14:without
+ff_18:change
+ff_10:river
+ff_8:done
+ff_3:ever
+ff_6:sea
+ff_18:has
+ff_20:has
+ff_10:current
+ff_2:WH-REL-ACC
+ff_12:is
+ff_10:names
+ff_20:names
+ff_16:names
+ff_10:night
+ff_12:night
+ff_6:night
+ff_0:round
+ff_16:round
+ff_3:full
+ff_6:'
+ff_14:;
+ff_8:river
+ff_0:...
+ff_2:Dots
+ff_10:sun
+ff_12:began
+ff_18:;
+ff_14:thing
+ff_18:going
+ff_14:also
+ff_8:said
+ff_12:life
+ff_2:IND-SG-NUM
+ff_18:order
+ff_20:;
+ff_12:ship
+ff_18:home
+ff_18:much
+ff_20:same
+ff_18:by
+ff_10:rest
+ff_18:hours
+ff_16:whole
+ff_20:)
+ff_12:inside
+ff_14:outside
+ff_3:inside
+ff_14:brought
+ff_10:out
+ff_12:came
+ff_20:old
+ff_16:here
+ff_6:may
+ff_18:earth
+ff_20:earth
+ff_14:earth
+ff_16:earth
+ff_18:fine
+ff_20:fine
+ff_16:?
+ff_3:'d
+ff_14:fine
+ff_16:fine
+ff_6:suddenly
+ff_3:lot
+ff_0:lot
+ff_2:AUX
+ff_14:–
+ff_8:read
+ff_16:may
+ff_3:here
+ff_16:kind
+ff_12:man
+ff_12:but
+ff_3:wine
+ff_6:there
+ff_12:air
+ff_3:yes
+ff_0:yes
+ff_16:either
+ff_16:gone
+ff_3:enough
+ff_16:young
+ff_10:–
+ff_12:–
+ff_14:much
+ff_16:know
+ff_6:here
+ff_6:round
+ff_8:round
+ff_14:hand
+ff_20:so
+ff_6:feel
+ff_16:exactly
+ff_8:others
+ff_8:got
+ff_8:idea
+ff_6:...
+ff_16:...
+ff_10:you
+ff_18:can
+ff_20:river
+ff_20:else
+ff_14:remember
+ff_16:began
+ff_18:before
+ff_20:run
+ff_16:best
+ff_8:everything
+ff_14:kind
+ff_14:into
+ff_16:–
+ff_3:clear
+ff_0:clear
+ff_8:kind
+ff_3:–
+ff_3:fine
+ff_16:myself
+ff_14:blank
+ff_3:but
+ff_3:they
+ff_14:but
+ff_8:sort
+ff_3:sort
+ff_14:well
+ff_10:yet
+ff_16:blank
+ff_14:after
+ff_6:time
+ff_16:see
+ff_16:rest
+ff_12:lost
+ff_18:country
+ff_3:myself
+ff_14:ca
+ff_8:lot
+ff_8:along
+ff_10:along
+ff_12:along
+ff_16:lot
+ff_12:say
+ff_18:say
+ff_6:living
+ff_8:say
+ff_14:say
+ff_16:how
+ff_8:women
+ff_8:can
+ff_14:never
+ff_10:men
+ff_12:men
+ff_6:ever
+ff_14:since
+ff_10:this
+ff_8:sure
+ff_14:sure
+ff_6:be
+ff_6:know
+ff_16:why
+ff_10:street
+ff_14:clear
+ff_18:men
+ff_20:men
+ff_16:moment
+ff_14:wo
+ff_16:wo
+ff_6:say
+ff_10:way
+ff_8:felt
+ff_14:felt
+ff_14:off
+ff_3:coast
+ff_0:coast
+ff_6:coast
+ff_16:coast
+ff_14:always
+ff_14:find
+ff_16:'
+ff_10:far
+ff_12:far
+ff_3:away
+ff_6:away
+ff_14:along
+ff_12:perhaps
+ff_18:perhaps
+ff_16:take
+ff_8:heard
+ff_14:heard
+ff_10:day
+ff_12:passed
+ff_18:coast
+ff_0:moved
+ff_2:FGN
+ff_8:coast
+ff_10:voice
+ff_18:now
+ff_3:being
+ff_10:.
+ff_16:remember
+ff_10:coast
+ff_12:coast
+ff_3:even
+ff_2:TOT
+ff_18:her
+ff_20:let
+ff_16:let
+ff_10:where
+ff_6:death
+ff_10:enough
+ff_12:enough
+ff_10:days
+ff_12:days
+ff_6:days
+ff_8:days
+ff_8:big
+ff_16:start
+ff_18:few
+ff_20:few
+ff_16:few
+ff_8:country
+ff_2:IMP-AUX
+ff_8:road
+ff_6:earth
+ff_6:others
+ff_18:river
+ff_14:station
+ff_16:station
+ff_3:station
+ff_0:station
+ff_10:there
+ff_18:back
+ff_20:back
+ff_6:also
+ff_18:dead
+ff_20:dead
+ff_18:where
+ff_20:things
+ff_14:where
+ff_18:right
+ff_10:change
+ff_18:face
+ff_20:face
+ff_6:head
+ff_20:file
+ff_10:earth
+ff_12:earth
+ff_6:small
+ff_14:full
+ff_20:think
+ff_8:seen
+ff_10:sea
+ff_12:sea
+ff_18:together
+ff_12:tell
+ff_14:take
+ff_12:high
+ff_18:these
+ff_20:these
+ff_6:going
+ff_2:SG-DEM
+ff_12:into
+ff_3:'ve
+ff_18:'ve
+ff_20:!
+ff_10:tell
+ff_6:tell
+ff_10:months
+ff_20:months
+ff_6:months
+ff_16:months
+ff_10:do
+ff_10:no
+ff_20:no
+ff_14:lot
+ff_6:broken
+ff_12:become
+ff_16:sound
+ff_8:moved
+ff_6:trees
+ff_16:trees
+ff_14:real
+ff_16:real
+ff_8:...
+ff_12:next
+ff_18:next
+ff_8:station
+ff_12:morning
+ff_6:morning
+ff_8:smile
+ff_16:smile
+ff_16:ca
+ff_10:smile
+ff_12:smile
+ff_6:smile
+ff_16:got
+ff_10:words
+ff_20:words
+ff_6:words
+ff_16:words
+ff_14:...
+ff_12:...
+ff_12:station
+ff_18:station
+ff_20:every
+ff_6:come
+ff_3:his
+ff_2:SG-GEN-INDEP
+ff_3:round
+ff_12:round
+ff_18:round
+ff_14:round
+ff_20:rest
+ff_6:rest
+ff_14:under
+ff_18:know
+ff_3:already
+ff_16:times
+ff_10:was
+ff_20:station
+ff_18:important
+ff_18:...
+ff_10:'
+ff_18:!
+ff_18:therefore
+ff_3:very
+ff_16:feet
+ff_10:talk
+ff_6:sort
+ff_6:speak
+ff_16:speak
+ff_18:about
+ff_12:there
+ff_10:outside
+ff_20:waiting
+ff_10:things
+ff_18:full
+ff_20:full
+ff_16:full
+ff_8:opened
+ff_14:fire
+ff_18:with
+ff_2:ING-AUX
+ff_3:may
+ff_16:looking
+ff_12:again
+ff_8:words
+ff_3:young
+ff_18:they
+ff_20:side
+ff_10:have
+ff_10:station
+ff_6:station
+ff_6:year
+ff_12:waiting
+ff_20:more
+ff_16:clear
+ff_16:ever
+ff_14:get
+ff_0:oh
+ff_3:oh
+ff_16:oh
+ff_12:can
+ff_14:looking
+ff_10:detail
+ff_18:think
+ff_6:take
+ff_6:clean
+ff_3:when
+ff_14:possible
+ff_18:will
+ff_20:case
+ff_16:free
+ff_10:which
+ff_12:question
+ff_18:government
+ff_20:government
+ff_16:government
+ff_16:get
+ff_18:all
+ff_3:big
+ff_12:free
+ff_18:free
+ff_14:free
+ff_20:important
+ff_16:important
+ff_8:car
+ff_6:case
+ff_10:two
+ff_18:take
+ff_20:two
+ff_8:quality
+ff_16:1
+ff_18:number
+ff_20:number
+ff_8:evening
+ff_14:year
+ff_16:case
+ff_18:quality
+ff_20:quality
+ff_10:case
+ff_12:political
+ff_18:political
+ff_14:rules
+ff_18:group
+ff_6:countries
+ff_16:matter
+ff_10:course
+ff_12:course
+ff_16:until
+ff_3:above
+ff_14:above
+ff_3:also
+ff_10:road
+ff_12:road
+ff_6:road
+ff_6:free
+ff_18:report
+ff_16:rules
+ff_14:state
+ff_8:help
+ff_14:help
+ff_16:everyone
+ff_6:clear
+ff_8:clear
+ff_8:whether
+ff_10:question
+ff_10:possible
+ff_12:possible
+ff_6:possible
+ff_8:possible
+ff_14:question
+ff_14:done
+ff_10:forms
+ff_10:we
+ff_12:should
+ff_18:should
+ff_20:we
+ff_20:being
+ff_16:living
+ff_16:use
+ff_14:common
+ff_18:clear
+ff_20:clear
+ff_8:wine
+ff_0:wine
+ff_14:wine
+ff_14:while
+ff_10:area
+ff_2:NMPT
+ff_12:both
+ff_6:point
+ff_10:point
+ff_12:point
+ff_20:which
+ff_8:against
+ff_14:against
+ff_16:common
+ff_16:hard
+ff_12:no
+ff_20:they
+ff_2:CMP-PL-NOM
+ff_16:question
+ff_20:because
+ff_18:just
+ff_6:try
+ff_14:coast
+ff_10:next
+ff_20:within
+ff_18:moment
+ff_14:moment
+ff_12:instead
+ff_18:instead
+ff_6:written
+ff_18:does
+ff_12:much
+ff_14:fact
+ff_3:without
+ff_6:quality
+ff_2:POS-SG
+ff_12:form
+ff_18:so
+ff_12:good
+ff_18:good
+ff_12:either
+ff_3:either
+ff_8:must
+ff_10:any
+ff_20:any
+ff_6:real
+ff_8:change
+ff_14:change
+ff_12:clear
+ff_2:Semicolon
+ff_18:fields
+ff_2:SG-PFX
+ff_14:leave
+ff_16:'ll
+ff_8:always
+ff_6:house
+ff_10:;
+ff_12:down
+ff_6:country
+ff_8:friends
+ff_20:with
+ff_0:independence
+ff_8:independence
+ff_10:country
+ff_12:country
+ff_3:independence
+ff_20:this
+ff_10:until
+ff_16:come
+ff_2:Questionmark
+ff_18:'ll
+ff_3:small
+ff_8:told
+ff_8:!
+ff_18:stone
+ff_20:stone
+ff_20:here
+ff_14:water
+ff_16:water
+ff_12:evening
+ff_18:evening
+ff_14:evening
+ff_16:almost
+ff_3:clean
+ff_16:women
+ff_6:things
+ff_10:women
+ff_20:women
+ff_6:women
+ff_14:'d
+ff_14:days
+ff_20:live
+ff_8:gone
+ff_8:decided
+ff_12:done
+ff_12:before
+ff_18:never
+ff_16:made
+ff_8:turned
+ff_10:husband
+ff_12:husband
+ff_8:stood
+ff_6:husband
+ff_14:happened
+ff_10:kind
+ff_12:kind
+ff_6:kind
+ff_12:independence
+ff_18:countries
+ff_20:countries
+ff_10:everything
+ff_12:off
+ff_8:through
+ff_18:hair
+ff_20:opened
+ff_16:outside
+ff_8:shop
+ff_12:women
+ff_18:exactly
+ff_10:head
+ff_20:head
+ff_16:sun
+ff_18:feet
+ff_20:feet
+ff_20:again
+ff_12:sun
+ff_18:sun
+ff_18:along
+ff_14:lost
+ff_12:left
+ff_18:cold
+ff_20:cold
+ff_14:window
+ff_0:stop
+ff_8:side
+ff_16:far
+ff_10:against
+ff_14:air
+ff_10:light
+ff_18:night
+ff_6:dead
+ff_18:time
+ff_20:each
+ff_12:head
+ff_18:must
+ff_20:have
+ff_20:year
+ff_8:since
+ff_12:too
+ff_18:too
+ff_16:though
+ff_3:'ll
+ff_14:dinner
+ff_20:talk
+ff_14:kitchen
+ff_16:wanted
+ff_18:wine
+ff_20:wine
+ff_16:wine
+ff_12:kitchen
+ff_20:right
+ff_18:hand
+ff_20:hand
+ff_18:some
+ff_20:some
+ff_14:certain
+ff_8:really
+ff_12:talk
+ff_16:yes
+ff_12:office
+ff_18:office
+ff_8:office
+ff_14:office
+ff_14:head
+ff_16:feel
+ff_14:put
+ff_10:they
+ff_20:'ll
+ff_6:cold
+ff_16:standing
+ff_8:began
+ff_12:wife
+ff_8:sitting
+ff_20:sat
+ff_14:become
+ff_14:independence
+ff_12:everything
+ff_8:sat
+ff_20:together
+ff_12:friends
+ff_18:people
+ff_12:knew
+ff_6:already
+ff_6:everyone
+ff_14:taken
+ff_10:trouble
+ff_16:sure
+ff_8:asked
+ff_20:her
+ff_3:wo
+ff_8:everyone
+ff_14:language
+ff_6:glass
+ff_16:past
+ff_10:hand
+ff_12:hand
+ff_3:common
+ff_10:both
+ff_6:use
+ff_14:sort
+ff_16:sort
+ff_10:very
+ff_12:very
+ff_20:perhaps
+ff_10:sit
+ff_12:sit
+ff_6:sit
+ff_12:did
+ff_18:did
+ff_8:ten
+ff_8:until
+ff_18:other
+ff_20:dark
+ff_0:laughed
+ff_12:wine
+ff_8:fine
+ff_14:sitting
+ff_16:years
+ff_3:am
+ff_6:yes
+ff_10:son
+ff_12:son
+ff_10:dark
+ff_12:dark
+ff_18:eyes
+ff_20:where
+ff_12:given
+ff_18:given
+ff_16:someone
+ff_14:past
+ff_12:then
+ff_20:independence
+ff_16:independence
+ff_6:table
+ff_14:may
+ff_3:'re
+ff_12:'re
+ff_18:here
+ff_20:you
+ff_18:husband
+ff_8:among
+ff_14:almost
+ff_10:my
+ff_20:my
+ff_16:wife
+ff_10:hear
+ff_12:hear
+ff_6:hear
+ff_18:always
+ff_20:state
+ff_12:young
+ff_18:young
+ff_19:INTJ__
+ff_21:INTJ__
+ff_13:INTJ__
+ff_2:P3SG-GEN-INDEP
+ff_8:certain
+ff_20:area
+ff_8:stop
+ff_16:car
+ff_6:got
+ff_20:car
+ff_10:trees
+ff_20:trees
+ff_16:ago
+ff_8:suddenly
+ff_10:car
+ff_6:car
+ff_14:words
+ff_12:side
+ff_18:side
+ff_14:side
+ff_14:either
+ff_14:!
+ff_3:uncle
+ff_0:uncle
+ff_20:watching
+ff_12:boy
+ff_20:moment
+ff_3:wizard
+ff_10:year
+ff_0:wizard
+ff_20:felt
+ff_20:lost
+ff_10:drop
+ff_6:wizard
+ff_16:wizard
+ff_16:inside
+ff_8:wizard
+ff_3:particularly
+ff_10:particularly
+ff_12:particularly
+ff_12:got
+ff_18:got
+ff_14:got
+ff_20:ago
+ff_14:wizard
+ff_16:year
+ff_6:let
+ff_14:believe
+ff_14:order
+ff_10:knew
+ff_6:knew
+ff_6:room
+ff_6:lost
+ff_10:lost
+ff_12:world
+ff_10:were
+ff_6:were
+ff_6:way
+ff_20:done
+ff_8:'d
+ff_16:watching
+ff_6:door
+ff_18:sitting
+ff_20:sitting
+ff_6:large
+ff_18:end
+ff_16:wall
+ff_14:high
+ff_18:head
+ff_18:someone
+ff_20:someone
+ff_18:open
+ff_16:coming
+ff_10:feet
+ff_12:feet
+ff_6:feet
+ff_16:above
+ff_20:seat
+ff_16:seat
+ff_20:window
+ff_18:again
+ff_8:hard
+ff_10:free
+ff_12:hair
+ff_18:air
+ff_16:'d
+ff_10:each
+ff_12:each
+ff_16:fact
+ff_14:stop
+ff_3:front
+ff_14:friends
+ff_10:door
+ff_6:look
+ff_14:turned
+ff_12:house
+ff_18:around
+ff_3:never
+ff_12:home
+ff_12:little
+ff_18:very
+ff_16:fire
+ff_6:hard
+ff_10:fire
+ff_20:fire
+ff_6:fire
+ff_16:opened
+ff_10:lot
+ff_20:lot
+ff_6:lot
+ff_12:feel
+ff_6:hands
+ff_6:stop
+ff_14:glasses
+ff_16:glasses
+ff_18:street
+ff_10:later
+ff_14:hair
+ff_16:hair
+ff_18:inside
+ff_14:inside
+ff_20:looked
+ff_18:yet
+ff_12:case
+ff_18:window
+ff_3:down
+ff_12:shop
+ff_16:street
+ff_18:front
+ff_10:away
+ff_12:away
+ff_10:right
+ff_18:into
+ff_10:'re
+ff_20:'re
+ff_6:'re
+ff_10:hair
+ff_20:hair
+ff_6:hair
+ff_12:two
+ff_10:she
+ff_18:glasses
+ff_3:new
+ff_10:through
+ff_10:down
+ff_18:small
+ff_20:small
+ff_16:steps
+ff_12:taking
+ff_20:street
+ff_18:shop
+ff_14:shop
+ff_12:trying
+ff_18:trying
+ff_20:inside
+ff_10:kept
+ff_12:kept
+ff_6:kept
+ff_10:white
+ff_12:white
+ff_14:exactly
+36
+obj
+case
+compound
+flat
+nsubj
+det
+nmod
+aux
+advmod
+cop
+punct
+obl
+nummod
+amod
+cc
+conj
+nsubj:pass
+appos
+mark
+acl
+nmod:poss
+xcomp
+advcl
+acl:relcl
+expl
+discourse
+fixed
+obl:agent
+csubj
+ccomp
+iobj
+compound:prt
+dislocated
+parataxis
+vocative
+csubj:pass
+3657
+24 2 404
+23 3 146
+295 4 6
+8 5 -2
+392 -20 -27
+5 7 68
+360 -19 8
+8 9 59
+44 10 14
+20 11 -14
+1945 -12 12
+4 13 -2
+12 -2 -2
+392 15 16
+1632 -9 -2
+990 -2 -2
+368 18 22
+2573 -9 19
+1522 -2 20
+1924 -2 21
+4 -12 -12
+527 23 27
+273 -9 24
+1664 -32 25
+1841 -32 26
+4 -2 -2
+593 -2 28
+1883 29 30
+73 -9 -32
+2015 -9 31
+2965 32 33
+4 -32 -9
+940 -9 34
+1442 -12 35
+2442 -12 36
+73 37 40
+4 -2 38
+1664 -9 39
+2371 -9 -2
+984 41 42
+4 -9 -9
+1775 43 44
+2221 -2 -9
+56 45 49
+750 -9 46
+1625 -9 47
+1841 -9 48
+4 -2 -2
+518 -9 50
+1551 -9 51
+1661 -9 52
+4 53 -2
+649 -2 54
+1 55 56
+11 -2 -2
+155 57 58
+12 -2 -2
+1155 -2 -2
+50 -2 60
+663 -12 61
+4 62 65
+32 -9 63
+12 -12 64
+117 -12 -9
+11 66 -19
+492 67 -9
+1155 -9 -2
+924 -27 69
+188 -19 70
+257 71 77
+656 72 73
+4 -9 -2
+527 74 75
+923 -27 -20
+44 -2 -2
+56 -14 -2
+294 -27 78
+8 79 137
+155 80 90
+41 81 83
+4 -2 -2
+12 -20 -4
+273 -9 84
+2802 -2 85
+4 86 -2
+36 87 88
+11 -2 -2
+12 89 -2
+26 -2 -2
+2665 91 94
+1590 -2 92
+1623 -2 93
+2420 -2 -9
+995 95 97
+56 -9 96
+368 -2 -7
+349 98 100
+273 -9 99
+2082 -9 -2
+796 -9 101
+4 102 129
+310 103 104
+26 -2 -2
+1251 105 106
+26 -2 -2
+990 -2 107
+44 108 112
+36 109 110
+12 -2 -2
+12 111 -2
+26 -2 -2
+1 113 115
+26 114 -2
+12 -2 -2
+467 116 117
+36 -2 -2
+56 118 120
+26 119 -2
+12 -2 -2
+940 121 123
+26 122 -2
+11 -2 -2
+727 124 126
+36 -2 125
+12 -2 -2
+527 127 -2
+26 128 -2
+12 -2 -2
+2515 130 131
+93 -20 -2
+2012 132 133
+368 -2 -2
+44 134 -2
+1545 -20 135
+615 -2 136
+2420 -2 -2
+310 -2 -2
+44 139 141
+12 140 -20
+184 -20 -2
+13 142 145
+147 -16 143
+663 -9 144
+1565 -7 -2
+4 -7 -2
+121 147 319
+257 148 167
+135 149 150
+451 -9 -16
+2054 -27 151
+2281 -27 152
+184 153 154
+1 -18 -16
+1002 -27 155
+631 156 157
+2488 -9 -27
+895 -27 158
+274 -27 159
+294 -27 160
+923 -27 161
+1613 -27 162
+2033 -27 163
+964 164 165
+4 -27 -9
+1 166 -9
+4 -9 -9
+5 168 288
+1 169 181
+1924 170 171
+9 -9 -1
+76 -9 -9
+2288 -26 173
+2548 -26 174
+286 175 176
+8 -9 -9
+1442 177 178
+7 -9 -9
+4 179 -9
+8 180 -9
+12 -9 -9
+840 182 194
+1984 -9 183
+1910 -9 184
+12 185 -32
+8 186 -9
+1037 -9 187
+1442 -9 188
+1883 -9 189
+2484 -9 190
+4 -32 191
+2862 -9 192
+1661 -32 -32
+1699 -9 -32
+8 195 270
+2015 196 204
+286 -32 197
+273 -9 198
+1748 -9 199
+2065 -9 200
+2442 -9 201
+3191 -9 202
+4 -32 203
+1664 -32 -32
+527 205 208
+1542 -9 206
+1910 -9 207
+4 -32 -32
+1082 209 227
+1182 -32 210
+1551 -9 211
+1542 -32 212
+2978 -32 213
+583 -32 214
+637 -32 215
+1136 -32 216
+1461 -32 217
+1840 -32 218
+1910 -32 219
+2102 -32 220
+3424 -32 221
+1883 -32 222
+2371 -32 223
+4 -9 224
+1661 -9 225
+1664 -9 226
+1625 -9 -9
+791 228 232
+11 229 -19
+898 -19 230
+4 -9 231
+790 -9 -9
+467 233 236
+273 -9 234
+2629 -9 235
+4 -32 -32
+984 -9 -9
+4 -32 238
+273 -9 239
+619 -32 240
+1748 -32 241
+2102 -32 242
+1542 -9 -9
+1258 244 251
+1542 -9 245
+1910 -9 246
+2002 -32 247
+2484 -32 248
+2548 -32 249
+375 -9 250
+4 -9 -9
+56 252 255
+4 -32 253
+375 -32 254
+2548 -32 -9
+709 256 259
+4 -9 257
+2288 -9 258
+2168 -9 -9
+960 260 264
+909 -32 261
+1699 -32 262
+1840 -9 263
+4 -9 -9
+1155 -12 265
+392 -32 266
+2288 267 268
+1775 -32 -9
+2065 269 -9
+2289 -25 -9
+15 271 279
+117 272 273
+4 -32 -9
+61 -1 274
+1002 275 277
+809 -33 276
+2284 -26 -9
+2065 278 -9
+7 -33 -9
+791 280 282
+135 -16 281
+139 -34 -1
+686 283 -9
+165 284 286
+43 -1 285
+1945 -1 -9
+4 -9 -9
+7 -9 -16
+924 -27 289
+8 290 303
+2511 -19 291
+834 292 295
+1892 -27 293
+791 294 -9
+11 -9 -9
+1374 -19 296
+527 297 298
+26 -9 -32
+2015 -9 299
+1 300 -9
+26 301 -9
+4 302 -9
+11 -9 -9
+135 304 307
+7 305 306
+9 -9 -26
+666 -9 -16
+15 308 312
+116 -18 309
+155 -19 310
+1082 -16 311
+1964 -26 -9
+17 -9 -9
+1 -23 -16
+137 -24 315
+4 -9 316
+165 -9 317
+163 318 -18
+169 -9 -18
+131 320 351
+1 321 336
+26 322 326
+947 -9 323
+4 324 -15
+12 -15 325
+11 -9 -15
+619 -19 327
+1699 -19 328
+884 329 330
+5 -15 -19
+4 331 -15
+41 332 333
+7 -15 -15
+12 334 -15
+7 335 -15
+5 -15 -15
+257 337 339
+294 -27 338
+3382 -27 -15
+1581 340 342
+116 -15 341
+5 -19 -15
+780 343 344
+5 -15 -15
+1136 345 346
+988 -9 -15
+26 347 -15
+4 348 -15
+141 349 -15
+12 350 -15
+7 -15 -15
+81 -11 352
+2254 353 375
+243 354 355
+1924 -1 -26
+1924 356 357
+1 -1 -1
+17 358 372
+26 359 361
+1 360 -26
+4 -34 -34
+257 -9 362
+4 363 366
+281 -34 364
+5 365 -26
+1 -26 -26
+11 367 -34
+375 -34 368
+1666 -34 369
+2139 -34 370
+2124 371 -26
+1 -34 -26
+5 373 374
+1 -1 -16
+4 -34 -14
+5 376 393
+1377 377 378
+7 -9 -1
+864 379 382
+86 -9 380
+4 381 -19
+8 -19 -19
+2 -5 383
+39 -12 384
+185 385 389
+790 -1 386
+4 387 -19
+12 388 -19
+7 -19 -19
+4 390 -19
+73 391 -19
+12 392 -19
+7 -19 -19
+46 -6 394
+39 -27 395
+389 -27 396
+834 397 398
+310 -19 -27
+15 399 403
+2 -5 400
+73 401 -19
+26 402 -19
+4 -19 -19
+32 -14 -18
+81 -11 405
+5 406 2572
+146 407 979
+135 408 417
+7 409 415
+243 -16 -16
+279 411 414
+15 412 413
+4 -33 -16
+1 -26 -29
+492 -23 -16
+915 -8 416
+1309 -23 -16
+72 418 614
+174 419 521
+319 -22 420
+1862 -22 421
+176 422 429
+701 -16 423
+1889 -23 424
+2073 -23 425
+2288 -23 426
+4 427 -22
+1 428 -22
+15 -22 -22
+76 430 518
+12 431 517
+1664 -23 432
+1094 -20 433
+273 434 435
+149 -33 -23
+2438 436 437
+2724 -33 -23
+698 -33 438
+1920 439 440
+4 -33 -22
+316 -23 441
+1951 -22 442
+2698 -22 443
+494 444 450
+884 -16 445
+71 -23 446
+9 447 -22
+101 -23 448
+184 -23 449
+765 -23 -22
+1918 -22 451
+313 -22 452
+1520 -16 453
+1733 454 455
+79 -22 -16
+518 -29 456
+1601 -29 457
+2145 -29 458
+205 -23 459
+579 -23 460
+1150 -23 461
+1 462 492
+1551 -23 463
+561 -22 464
+32 465 476
+4 466 470
+17 -22 -22
+405 -23 468
+1328 -23 469
+15 -22 -22
+79 471 -23
+252 -23 472
+1588 -23 473
+1681 -23 474
+1716 -23 475
+2211 -23 -22
+2525 -22 477
+2729 -22 478
+165 -22 479
+169 -22 480
+267 -22 481
+1959 -22 482
+2463 -22 483
+2548 -22 484
+4 485 -23
+3145 -22 486
+3380 -22 487
+101 488 489
+17 -22 -22
+79 490 -23
+574 -23 491
+9 -23 -22
+816 -23 493
+3888 -23 494
+1923 -22 495
+539 -23 496
+792 -23 497
+376 498 500
+79 -22 499
+184 -22 -23
+1443 501 503
+32 -23 -23
+381 -22 -23
+1136 -23 504
+1183 -23 505
+1754 -23 506
+1884 -23 507
+1889 -23 508
+2270 -23 509
+4 510 -22
+2351 -22 -22
+653 512 513
+2497 -22 -23
+15 514 -22
+1199 -23 515
+184 516 -22
+899 -23 -22
+167 -22 -23
+101 -16 519
+184 -29 520
+1239 -22 -23
+207 522 523
+169 -23 -23
+188 524 535
+187 525 531
+279 526 530
+32 -22 -22
+4 -30 528
+138 -33 -29
+17 -33 -22
+243 -23 -22
+587 532 533
+4 -22 -22
+307 -22 534
+267 -22 -23
+194 536 557
+4 537 551
+624 538 539
+1 -30 -22
+176 -22 -22
+1 -16 541
+17 -29 -33
+1510 543 546
+309 -22 544
+9 -29 545
+579 -29 -16
+309 -23 547
+1445 -16 548
+125 549 550
+17 -22 -16
+494 -16 -22
+165 552 554
+1833 -30 553
+1 -29 -22
+646 -33 555
+376 -18 556
+1134 -18 -22
+15 558 590
+1924 559 560
+7 -30 -33
+492 561 563
+1 562 -22
+16 -18 -33
+86 564 565
+9 -23 -18
+184 -22 566
+51 -23 567
+1137 -23 568
+2549 569 571
+7 -8 570
+9 -16 -22
+110 -22 572
+1054 -22 573
+1884 -22 574
+169 -22 575
+581 -22 576
+279 -16 577
+686 -16 578
+766 -16 579
+84 -16 580
+358 -22 -22
+375 -16 582
+511 -16 583
+763 -16 584
+1298 -16 585
+4 586 589
+7 587 -16
+8 588 -22
+560 -16 -16
+1681 -16 -22
+686 591 592
+165 -26 -22
+2377 -16 593
+43 -22 -22
+624 595 597
+17 596 -30
+4 -22 -23
+137 598 -22
+1601 -22 599
+2124 -22 -23
+184 601 607
+7 602 604
+125 -22 603
+250 -22 -30
+4 605 606
+34 -30 -23
+1 -16 -22
+1065 -23 608
+273 -23 609
+363 -16 610
+682 611 612
+101 -22 -16
+1 -22 613
+163 -22 -16
+8 615 630
+1 616 627
+383 617 620
+4 -22 -22
+1984 -22 619
+2002 -30 -1
+242 621 624
+4 -16 622
+619 -23 623
+1924 -23 -22
+256 625 626
+4 -16 -16
+1338 -16 -8
+117 -34 628
+242 629 -8
+1364 -8 -22
+242 631 765
+207 632 638
+16 633 636
+13 634 -22
+4 635 -23
+11 -16 -16
+53 -29 637
+1756 -28 -23
+51 639 657
+393 640 642
+313 641 -23
+11 -28 -23
+144 -22 643
+50 644 645
+32 -20 -30
+9 646 653
+991 -16 647
+307 648 649
+511 -23 -30
+470 -30 650
+528 -30 651
+494 652 -23
+4 -23 -30
+367 -23 -23
+76 655 656
+52 -23 -30
+371 -30 -23
+4 658 705
+165 659 663
+7 -23 -23
+137 -22 -23
+163 -18 662
+17 -30 -23
+188 664 666
+187 665 -23
+1 -22 -8
+86 -22 667
+43 668 682
+17 669 679
+9 670 674
+241 -23 671
+2485 -23 672
+16 673 -16
+1 -16 -16
+1 -23 -23
+32 676 -29
+433 -29 677
+1070 -23 678
+1966 -23 -16
+524 -23 -23
+15 -23 681
+34 -23 -18
+113 683 686
+199 -23 684
+15 685 -22
+1 -22 -29
+15 687 696
+12 688 694
+184 -23 689
+30 -16 -16
+313 -23 691
+199 -23 692
+76 -23 693
+125 -23 -16
+200 695 -22
+7 -23 -16
+32 -22 -22
+137 -22 -23
+199 699 700
+11 -22 -29
+1021 -22 701
+1458 -22 702
+1572 -22 703
+1507 704 -16
+7 -22 -16
+367 706 711
+11 -22 -22
+1517 708 709
+1 -16 -22
+43 -18 710
+266 -33 -22
+165 712 714
+1924 -22 713
+54 -22 -23
+518 715 716
+9 -29 -33
+113 717 719
+282 -29 718
+7 -29 -22
+2152 720 721
+137 -22 -30
+35 722 724
+1 -22 723
+9 -30 -33
+9 725 748
+111 726 727
+1 -29 -22
+53 -29 728
+1025 -29 729
+194 730 731
+32 -22 -22
+110 -16 732
+1889 -16 733
+2168 -16 734
+86 -22 735
+187 -22 736
+381 -22 737
+1780 -22 738
+11 739 -22
+181 -22 740
+268 -22 741
+319 -22 742
+1399 -22 743
+1924 -22 744
+2106 -22 745
+2133 -22 746
+484 747 -23
+1918 -22 -23
+1838 -22 -22
+2230 -14 750
+1524 751 752
+15 -30 -16
+1525 -30 753
+446 -22 754
+273 -16 755
+1597 -16 756
+187 -22 757
+268 -23 758
+169 -23 759
+313 -22 760
+898 -22 761
+1663 -22 762
+2106 -22 763
+229 -22 764
+2460 -22 -23
+188 766 798
+187 767 782
+273 768 770
+15 -33 769
+1511 -33 -29
+189 771 772
+1 -33 -16
+34 773 776
+1730 -16 774
+175 -23 775
+559 -23 -30
+16 -8 777
+2081 -20 778
+1598 779 781
+9 780 -29
+1808 -29 -30
+132 -30 -30
+587 783 785
+268 784 -30
+4 -22 -29
+668 -22 786
+273 787 789
+199 -29 788
+184 -33 -23
+1176 -33 790
+2526 -29 791
+1028 792 795
+1516 793 794
+190 -23 -30
+1983 -30 -23
+1564 -30 796
+445 797 -23
+4 -23 -23
+163 799 823
+165 800 811
+16 801 804
+133 -8 802
+256 -16 -16
+383 -23 -1
+1382 805 807
+15 806 -16
+243 -23 -30
+1924 -14 808
+207 809 810
+133 -18 -23
+34 -23 -18
+207 -23 -23
+1778 -30 813
+880 -23 814
+35 -18 815
+111 -18 816
+341 -18 817
+619 -18 818
+1519 -18 819
+313 820 -23
+1 -23 -18
+15 -18 822
+169 -34 -33
+1925 824 832
+15 825 827
+197 826 -34
+4 -16 -30
+1510 -30 -30
+9 -14 -34
+32 -36 830
+51 831 -30
+371 -30 -23
+256 833 881
+279 834 855
+51 835 837
+371 -30 836
+2442 -30 -23
+276 838 842
+4 -30 -30
+194 -30 -29
+1071 -23 841
+1597 -23 -30
+139 -34 843
+43 844 845
+380 -23 -16
+1510 -16 846
+2862 -16 847
+250 -16 848
+2358 -16 849
+15 -30 850
+268 -30 851
+513 -30 -30
+11 853 -30
+1 -23 854
+169 -23 -16
+194 856 871
+1 -16 -16
+9 858 861
+266 -1 859
+313 -33 860
+1924 -33 -16
+839 -16 -30
+125 863 865
+32 864 -30
+1021 -30 -23
+184 866 867
+34 -23 -16
+276 868 869
+2643 -16 -30
+1021 -30 870
+1833 -30 -16
+243 872 873
+103 -30 -23
+1598 -16 -16
+16 -1 875
+7 -30 -23
+276 877 878
+165 -16 -30
+199 -29 879
+1408 -1 880
+1523 -23 -16
+399 882 886
+1918 -18 883
+4 884 -1
+1 885 -1
+34 -1 -16
+16 887 909
+1 888 904
+12 889 901
+184 890 892
+4 -19 891
+7 -30 -1
+492 -30 893
+363 -16 894
+383 895 898
+30 -16 896
+4 897 -23
+32 -23 -23
+30 -23 899
+4 -16 900
+2862 -16 -1
+235 -30 902
+4 -23 903
+1984 -23 -22
+7 -34 -34
+32 906 907
+224 -1 -30
+132 -23 -26
+132 -1 -34
+137 910 929
+686 911 914
+17 912 -23
+7 -1 913
+1 -30 -22
+588 -18 915
+2554 -22 916
+2529 -16 917
+1551 -23 918
+1664 -23 919
+3533 -23 920
+1510 -30 921
+9 922 926
+194 -16 923
+367 924 -30
+43 -16 925
+884 -16 -30
+136 -30 -30
+1816 -16 928
+2791 -16 -30
+1 930 955
+12 931 953
+7 932 938
+194 933 934
+32 -16 -30
+133 935 936
+17 -16 -16
+169 -14 937
+279 -36 -23
+112 939 940
+181 -18 -23
+446 941 942
+4 -33 -18
+363 943 944
+15 -29 -23
+55 945 946
+374 -1 -29
+1338 -16 947
+32 948 950
+809 -30 949
+111 -1 -16
+199 -30 -30
+4 -16 -1
+494 -1 -30
+1811 -23 -23
+43 -1 -23
+165 -30 -30
+380 957 958
+4 -18 -33
+133 959 -30
+194 -23 960
+880 -23 -30
+682 962 965
+9 -33 963
+15 -23 964
+140 -23 -16
+279 966 973
+199 967 971
+9 968 969
+15 -33 -23
+1021 -30 970
+4 -30 -16
+51 -30 972
+7 -30 -34
+1924 -30 974
+492 -30 975
+12 976 978
+612 977 -16
+7 -16 -30
+9 -30 -16
+66 980 1038
+16 981 1028
+133 982 988
+8 -10 -10
+909 -8 984
+2073 -8 985
+4 986 -10
+132 987 -10
+12 -10 -10
+276 989 1005
+248 -8 990
+8 991 -8
+4 992 994
+19 993 -10
+12 -8 -8
+12 995 -10
+273 -8 -8
+637 -10 997
+1136 -10 998
+1457 -10 999
+1461 -10 1000
+2221 -10 1001
+2371 -10 1002
+2862 -10 1003
+2978 -10 1004
+2643 -8 -8
+941 -23 1006
+132 1007 1010
+4 1008 -8
+7 1009 -8
+11 -8 -8
+269 1011 1016
+88 -8 -8
+256 1013 -8
+4 1014 -8
+8 1015 -8
+12 -8 -8
+1600 1017 1021
+4 1018 -8
+7 1019 -8
+11 1020 -8
+1338 -8 -8
+1730 1022 1023
+242 -10 -8
+1926 1024 1025
+4 -8 -8
+72 1026 -8
+4 1027 -8
+12 -8 -8
+165 1029 1030
+279 -30 -8
+135 -16 1031
+32 1032 1034
+7 -29 1033
+187 -22 -23
+65 -18 1035
+34 -30 1036
+199 1037 -23
+163 -23 -30
+51 1039 1133
+393 1040 1076
+28 -28 1041
+108 -28 -28
+169 -16 1043
+199 -12 1044
+29 1045 1063
+373 1046 1047
+1610 -12 -28
+329 -28 1048
+1 1049 1060
+17 1050 1053
+4 1051 -12
+11 1052 -12
+52 -12 -12
+61 1054 1055
+1054 -28 -12
+337 -12 1056
+32 1057 -28
+524 -28 1058
+1938 -28 1059
+9 -12 -12
+2055 -28 1061
+16 1062 -12
+618 -28 -12
+34 -28 1064
+64 1065 1068
+2710 -12 1066
+52 1067 -28
+3191 -28 -12
+268 -12 1069
+54 -28 1070
+9 -12 1071
+4 1072 -12
+650 -12 1073
+716 -12 1074
+2 -28 1075
+16 -12 -28
+108 1077 1083
+53 1078 1079
+1275 -22 -12
+877 -14 1080
+50 -12 1081
+369 -12 1082
+371 -12 -9
+315 1084 1087
+1020 1085 1086
+11 -33 -1
+2 -12 -33
+307 1088 1104
+101 1089 1091
+199 -33 1090
+1661 -1 -12
+978 -16 1092
+1531 1093 1094
+4 -12 -9
+57 -5 1095
+4 1096 1098
+414 1097 -12
+1 -12 -12
+1528 -12 -12
+1563 -5 1100
+28 1101 1102
+375 -5 -12
+2371 1103 -12
+9 -5 -12
+53 -12 1105
+1861 -12 -12
+663 1107 1112
+75 1108 1110
+1 1109 -22
+34 -12 -12
+29 -12 1111
+2 -12 -9
+121 -9 1113
+1666 1114 1115
+2 -18 -33
+12 1116 1129
+2071 -18 1117
+1705 -33 1118
+3320 -33 1119
+3218 -1 1120
+58 1121 1123
+1 1122 -12
+4 -33 -12
+172 1124 1126
+76 1125 -12
+15 -12 -1
+28 1127 -12
+444 1128 -12
+4 -12 -12
+239 -16 1130
+7 1131 -12
+1 1132 -12
+11 -26 -12
+39 1134 1940
+149 1135 1146
+135 1136 1137
+1 -16 -16
+112 1138 1139
+4 -1 -1
+163 1140 1143
+17 -28 1141
+199 -18 1142
+903 -1 -12
+150 -12 -12
+374 1145 -12
+1 -1 -12
+135 1147 1151
+414 1148 1149
+4 -12 -33
+7 -1 1150
+1597 -1 -16
+7 1152 1408
+113 1153 1207
+9 1154 1190
+29 1155 1180
+616 1156 1157
+4 -19 -5
+511 -12 1158
+2106 -17 1159
+55 1160 1168
+375 -1 1161
+4 1162 1165
+3144 -17 1163
+32 1164 -5
+1 -5 -5
+1054 -17 1166
+1497 -17 1167
+2261 -17 -5
+4 1169 1177
+11 1170 -17
+123 -17 1171
+432 -17 1172
+759 -17 1173
+1 1174 1176
+3472 -17 1175
+16 -5 -5
+2188 -17 -5
+1841 -17 1178
+1661 1179 -5
+1680 -12 -5
+4 -5 -5
+15 1182 -5
+12 1183 -5
+32 -17 1184
+184 -5 1185
+2009 -5 1186
+1 1187 -17
+16 -17 -17
+1 1189 -17
+909 -17 -5
+15 1191 1198
+4 1192 1195
+197 -12 1193
+125 1194 -5
+1 -5 -5
+268 -26 1196
+35 -1 1197
+1924 -1 -5
+261 -17 1199
+1 1200 1202
+60 -17 1201
+165 -17 -5
+668 -12 1203
+1680 -12 1204
+17 -5 1205
+197 -12 1206
+1854 -12 -5
+29 1208 1314
+16 1209 1280
+194 1210 1215
+1 1211 1212
+4 -5 -5
+581 -17 1213
+1553 -17 1214
+1800 -17 -5
+2472 -12 1216
+8 1217 1253
+2188 1218 1219
+375 -1 -1
+538 -3 1220
+4 1221 1230
+2462 -17 1222
+456 -3 1223
+1 1224 1225
+12 -1 -12
+960 -1 -1
+2409 -12 1227
+618 -5 1228
+1940 -5 1229
+3816 -5 -1
+1016 -3 1231
+1551 -5 1232
+637 -17 1233
+2371 -17 1234
+375 -12 1235
+273 1236 1237
+1 -5 -5
+86 -1 -1
+1 -12 -5
+1618 -12 1240
+1840 -12 1241
+2102 -12 1242
+884 1243 1245
+1 1244 -1
+235 -5 -5
+1841 1246 1247
+1 -12 -1
+1522 -5 1248
+1699 -5 1249
+1923 -5 1250
+2065 -5 1251
+2261 -5 1252
+2529 -5 -1
+12 1254 1279
+30 1255 1260
+1 -5 -5
+1982 -18 -5
+783 -1 1258
+273 -5 1259
+1954 -5 -17
+4 1261 1268
+184 -1 1262
+123 -12 1263
+287 -17 1264
+2047 -17 1265
+110 1266 1267
+1 -1 -1
+1 -1 -1
+870 -3 1269
+252 -17 1270
+1841 -17 1271
+1785 -12 1272
+273 1273 1274
+32 -12 -5
+2065 -5 1275
+123 -5 1276
+320 -5 1277
+32 1278 -1
+1 -5 -1
+233 -5 -1
+244 1281 1289
+17 1282 1287
+110 1283 1284
+2698 -26 -35
+4 1285 -35
+11 1286 -35
+43 -35 -35
+43 -1 1288
+1 -18 -5
+137 1290 1295
+1507 1291 1293
+43 1292 -12
+11 -22 -12
+165 -16 1294
+199 -18 -22
+1 1296 1310
+278 -12 1297
+4 1298 1307
+17 -5 -5
+43 1300 1301
+3755 -1 -16
+11 1302 -1
+309 1303 1304
+9 -1 -1
+184 -1 1305
+35 1306 -5
+9 -16 -5
+61 -5 1308
+189 -5 1309
+286 -5 -1
+17 1311 1313
+188 -12 1312
+1495 -12 -5
+181 -1 -22
+4 1315 1361
+12 1316 1358
+8 -1 -1
+1 -1 1318
+1222 -5 1319
+694 -1 1320
+802 -1 -1
+268 1322 1324
+1 -5 1323
+16 -17 -12
+1617 -18 1325
+165 1326 1329
+309 -1 1327
+380 -5 1328
+17 -35 -5
+35 -17 1330
+125 1331 1332
+2421 -5 -1
+2009 1333 1334
+9 -17 -5
+110 1335 1344
+181 1336 1338
+32 -1 1337
+1 -5 -5
+1 1339 1342
+184 -1 1340
+9 1341 -5
+16 -1 -1
+16 -1 1343
+506 -1 -17
+32 1345 1352
+849 -17 1346
+9 1347 -5
+92 -5 1348
+742 -5 1349
+1222 -5 1350
+1 1351 -1
+16 -1 -1
+1594 -1 1353
+184 1354 1355
+181 -17 -5
+30 1356 1357
+1 -5 -5
+9 -5 -5
+13 -1 1359
+30 -1 1360
+19 -5 -17
+8 1362 1382
+1037 1363 1364
+11 -22 -5
+2723 1365 1366
+1563 -31 -5
+2909 -5 1367
+474 -1 1368
+370 -1 1369
+742 -1 1370
+1457 -1 1371
+1730 -1 1372
+2484 -1 1373
+578 -5 -5
+224 -1 1375
+802 -1 1376
+909 -1 1377
+1054 -1 1378
+1563 -1 1379
+1830 -1 1380
+2124 -1 1381
+2350 -1 -5
+745 1383 1385
+194 1384 -5
+1017 -5 -5
+214 1386 1387
+1 -5 -12
+1830 1388 1389
+16 -17 -28
+2211 -12 1390
+165 1391 1392
+1 -33 -5
+2030 -33 1393
+16 1394 1407
+12 1395 1406
+750 -17 1396
+1054 -17 1397
+2629 -1 1398
+30 -5 1399
+194 -5 1400
+561 -1 -1
+1522 -5 1402
+2371 -5 1403
+2496 -5 1404
+3191 -5 1405
+316 -1 -1
+110 -17 -1
+286 -17 -1
+273 1409 1417
+53 1410 1411
+682 -5 -12
+137 -12 1412
+197 1413 1414
+54 -16 -5
+374 1415 -5
+32 1416 -5
+9 -5 -5
+112 1418 1617
+1680 -12 1419
+12 1420 1616
+16 1421 1498
+474 1422 1423
+4 -17 -17
+3193 1424 1427
+518 -18 1425
+2261 -5 1426
+3191 -17 -5
+1 1428 1459
+29 1429 1453
+2545 -1 1430
+358 -17 1431
+1625 -17 1432
+4 -1 1433
+898 -1 1434
+1457 -1 1435
+1542 -1 1436
+619 -5 1437
+1551 -5 1438
+1597 -5 1439
+1664 -5 1440
+1780 -5 1441
+1862 -5 1442
+1918 -5 1443
+1924 -5 1444
+1984 -5 1445
+2065 -5 1446
+2124 -1 -1
+2211 -5 1448
+1748 -5 1449
+2284 -5 1450
+2371 -5 1451
+2879 -5 1452
+224 -1 -1
+4 -1 1454
+2187 -31 1455
+375 -1 1456
+898 -1 1457
+1023 -1 1458
+1625 -1 -5
+516 -1 1460
+1495 -12 1461
+1947 -12 1462
+948 1463 1464
+511 -1 -1
+29 1465 1494
+432 -17 1466
+591 -17 1467
+805 -17 1468
+1713 -1 1469
+1247 -1 1470
+1924 -5 1471
+1940 -5 1472
+2127 -5 1473
+2371 -5 1474
+2020 1475 1476
+1982 -1 -5
+38 -5 1477
+518 -5 1478
+1497 -5 1479
+1657 -5 1480
+1716 -5 1481
+1743 -5 1482
+1785 -5 1483
+4 1484 1492
+783 -5 1485
+1992 -5 1486
+1692 -5 1487
+2165 -5 1488
+2768 -5 1489
+2310 -1 1490
+3216 -1 1491
+768 -1 -1
+3292 -5 1493
+3484 -5 -1
+2009 -5 1495
+750 -17 1496
+2261 -17 1497
+2723 -17 -1
+17 -1 -1
+1889 -16 1500
+29 1501 1525
+181 1502 1518
+1137 -22 1503
+1823 1504 1505
+313 -5 -5
+578 -1 1506
+195 -1 1507
+408 -1 1508
+604 -1 1509
+1461 -1 1510
+4 1511 -5
+1472 -1 1512
+1955 -1 1513
+3314 -1 1514
+9 1515 -5
+15 1516 -5
+125 -5 1517
+313 -5 -1
+34 1519 1524
+165 -5 1520
+4 1521 1523
+32 1522 -1
+15 -1 -1
+1 -5 -1
+32 -1 -22
+125 1526 1528
+32 -18 1527
+1 -5 -17
+1862 -5 1529
+471 -17 1530
+313 -17 1531
+9 1532 -1
+4 -1 -1
+2154 1534 1535
+4 -16 -1
+313 1536 1556
+4 1537 1547
+1247 -17 1538
+1824 -5 1539
+2020 -5 1540
+1 1541 1545
+2375 -5 1542
+2700 -5 1543
+9 1544 -1
+29 -1 -1
+2320 -5 1546
+3292 -5 -1
+54 1548 -1
+618 -12 1549
+1308 -16 1550
+1841 -17 1551
+2215 -22 1552
+179 -1 1553
+245 -1 1554
+556 -1 1555
+2088 -1 -5
+2940 1557 1558
+4 -5 -33
+252 -17 1559
+1054 -5 1560
+1244 -5 1561
+948 -12 1562
+1915 -12 1563
+571 1564 1565
+4 -1 -17
+4 1566 1600
+2013 -5 1567
+54 1568 1594
+742 -17 1569
+753 -17 1570
+846 -17 1571
+2188 -17 1572
+2368 -17 1573
+3225 -17 1574
+1 1575 1586
+101 1576 1577
+75 -1 -17
+3817 -17 1578
+1796 -1 1579
+9 1580 1584
+29 1581 1583
+184 -1 1582
+32 -1 -1
+184 -1 -1
+524 -5 1585
+793 -5 -1
+508 -5 1587
+1071 -5 1588
+1075 -5 1589
+1493 -5 1590
+1553 -5 1591
+1992 -5 1592
+2127 -5 1593
+2723 -5 -1
+465 -1 1595
+1 1596 -5
+29 1597 1598
+165 -5 -1
+9 1599 -5
+32 -1 -5
+750 -17 1601
+1553 1602 1603
+15 -17 -1
+1657 -5 1604
+2211 -5 1605
+268 1606 1607
+34 -1 -5
+369 -5 1608
+518 -5 1609
+524 -5 1610
+846 -5 1611
+1097 -5 1612
+1254 -5 1613
+1518 -5 1614
+375 1615 -1
+32 -5 -1
+356 -1 -5
+137 1618 1624
+136 1619 1621
+194 1620 -12
+4 -16 -22
+603 -1 1622
+43 -16 1623
+1134 -16 -22
+163 1625 1637
+200 -1 1626
+1091 1627 1628
+55 -22 -1
+16 -18 -18
+172 1630 1633
+313 -18 1631
+381 -33 1632
+52 -1 -1
+309 1634 1636
+29 1635 -5
+373 -5 -18
+1282 -17 -18
+188 1638 1651
+187 1639 1647
+367 1640 1642
+34 -16 1641
+11 -33 -22
+32 1643 1644
+4 -16 -12
+4 1645 1646
+184 -22 -22
+125 -1 -5
+1028 -12 -12
+1 -5 -1
+169 -22 1650
+1516 -20 -12
+2215 -22 1652
+1680 -12 1653
+481 1654 1715
+518 -5 1655
+618 -12 1656
+1551 -5 1657
+1823 -1 -1
+17 1659 1660
+4 -22 -31
+4 1661 -1
+9 -5 -1
+252 -17 1663
+533 1664 1665
+1 -12 -17
+1969 1666 1667
+9 -22 -1
+2231 1668 1669
+1 -5 -12
+3191 -5 1670
+55 1671 1696
+1618 -5 1672
+1713 -12 1673
+1877 1674 1676
+2284 -1 1675
+1 -12 -1
+759 -17 1677
+2328 -17 1678
+3377 -17 1679
+1 1680 1694
+32 1681 1688
+4 1682 1684
+9 1683 -1
+29 -1 -1
+683 -5 1685
+1461 -5 1686
+2065 -5 1687
+1989 -1 -1
+181 1689 -1
+2545 -1 1690
+4 1691 -1
+1639 -5 1692
+9 1693 -1
+11 -1 -1
+745 -5 1695
+1497 -5 -1
+4 1697 1710
+9 1698 1704
+169 1699 1701
+181 1700 -1
+1 -33 -1
+32 1702 -1
+15 1703 -1
+34 -1 -1
+1131 -17 1705
+38 -5 1706
+1900 -5 1707
+2310 -5 1708
+1 1709 -1
+16 -1 -1
+655 -5 1711
+1054 -22 1712
+313 1713 -1
+1542 -22 1714
+2529 -22 -1
+194 1716 1789
+184 -1 -1
+197 1718 1720
+11 1719 -17
+266 -16 -1
+9 -24 1721
+1 -5 -1
+2698 1723 1724
+1 -5 -34
+1609 1725 1726
+9 -1 -5
+790 -12 1727
+1551 -12 1728
+2955 1729 1730
+29 -1 -1
+2122 1731 1741
+1836 -31 1732
+309 -5 1733
+9 -1 1734
+1730 -5 1735
+1748 -5 1736
+1900 -5 1737
+1924 -5 1738
+1 1739 -1
+4 1740 -1
+29 -5 -1
+2545 1742 1743
+193 -31 -1
+200 -5 1744
+518 -5 1745
+179 -17 1746
+1730 1747 1750
+193 -5 1748
+2010 -17 1749
+1 -1 -1
+286 -17 1751
+1281 1752 1757
+1743 -5 1753
+2009 -5 1754
+1 1755 -1
+75 1756 -1
+4 -1 -1
+1588 1758 1759
+9 -1 -5
+4 1760 1785
+2927 -5 1761
+2009 1762 1763
+15 -1 -5
+12 1764 -5
+1137 -5 1765
+1308 -5 1766
+15 1767 -1
+198 -5 1768
+1711 -5 1769
+3816 -5 1770
+1 1771 1783
+2246 -1 1772
+32 -1 1773
+1688 1774 1775
+29 -1 -1
+309 -1 1776
+1725 -1 1777
+2010 1778 1779
+29 -1 -1
+29 1780 1781
+193 -1 -1
+9 -5 1782
+193 -1 -1
+960 -1 1784
+3206 -1 -1
+1522 -5 1786
+1862 -5 1787
+1924 -5 1788
+2065 -5 -1
+4 1790 1868
+682 -1 -1
+32 1792 1794
+15 -18 1793
+17 -22 -1
+15 -12 1795
+52 -3 -5
+363 1797 1798
+1 -16 -22
+1495 -12 1799
+11 1800 -1
+602 1801 1806
+165 -5 1802
+686 -5 1803
+55 1804 -1
+1 1805 -1
+181 -1 -1
+9 1807 1817
+282 1808 1809
+152 -17 -5
+260 1810 1811
+29 -31 -1
+15 1812 -1
+34 -1 1813
+17 -17 1814
+2765 -17 1815
+3005 -17 1816
+75 -1 -1
+110 1818 1831
+29 1819 1823
+1277 -3 1820
+1350 -12 1821
+706 1822 -1
+2662 -1 -1
+1487 -12 1824
+1659 -5 1825
+491 1826 1827
+1 -1 -1
+13 1828 -5
+1683 -5 1829
+2343 -5 1830
+2723 -5 -1
+1824 -17 1832
+2534 -12 1833
+214 1834 1840
+604 -1 1835
+17 1836 1838
+1654 -1 1837
+1 -5 -1
+1 -1 1839
+12 -12 -1
+1473 -17 1841
+1 1842 1857
+43 1843 1846
+3458 -17 1844
+29 1845 -5
+1269 -5 -12
+801 1847 1848
+29 -12 -5
+282 -12 1849
+75 1850 1852
+268 -17 1851
+1311 -1 -1
+932 -17 1853
+359 -1 1854
+260 -5 1855
+313 -5 1856
+60 -1 -1
+52 -12 1858
+416 -5 1859
+1692 -5 1860
+125 -1 1861
+184 1862 1863
+1562 -1 -17
+432 -17 1864
+474 -17 1865
+783 -17 1866
+819 -17 1867
+1021 -17 -1
+1 1869 1902
+88 1870 1872
+11 -33 1871
+29 -12 -22
+125 1873 1876
+13 1874 -33
+809 -12 1875
+2529 -18 -1
+745 -5 1877
+2211 -5 1878
+633 1879 1880
+9 -5 -12
+1518 -18 1881
+1923 -22 1882
+2065 -5 1883
+637 1884 1885
+333 -5 -17
+286 -17 1886
+1830 -17 1887
+1889 -17 1888
+883 -5 1889
+903 -5 1890
+1551 -5 1891
+29 1892 1896
+518 -5 1893
+1618 -5 1894
+2548 1895 -1
+11 -5 -1
+250 1897 1898
+1136 -1 -5
+103 -5 1899
+561 -5 1900
+683 -5 1901
+698 -5 -1
+363 1903 1904
+9 -22 -12
+2085 -33 1905
+602 1906 1907
+101 -5 -1
+75 1908 1919
+2723 1909 1910
+61 -17 -5
+955 -12 1911
+1924 -12 1912
+110 1913 1915
+101 -1 1914
+619 -1 -5
+183 -5 1916
+268 -5 1917
+538 -5 1918
+790 -5 -1
+518 1920 1921
+313 -1 -5
+320 -17 1922
+1597 -1 1923
+61 1924 1931
+1495 -12 1925
+1713 -12 -12
+1854 -12 1927
+60 1928 1930
+120 -1 1929
+2261 -1 -12
+15 -1 -12
+125 -12 1932
+224 -5 1933
+1032 -5 1934
+1862 -5 1935
+34 -1 1936
+123 -1 -1
+197 -12 1938
+1624 -12 1939
+1954 -12 -1
+2 1941 2261
+275 -25 1942
+1509 1943 1959
+15 -5 -5
+252 -17 1945
+1054 1946 1947
+7 -17 -5
+4 1948 1951
+12 1949 -5
+8 1950 -5
+1 -5 -5
+1461 -5 1952
+1830 1953 1954
+86 -5 -5
+1833 -5 1955
+2152 1956 1957
+1 -5 -5
+1945 1958 -5
+1 -5 -5
+1 1960 2041
+1922 1961 1969
+4 1962 1964
+12 1963 -5
+7 -5 -5
+909 -17 1965
+1811 1966 1967
+12 -5 -5
+1910 -5 1968
+1833 -5 -5
+83 1970 1973
+1833 -26 1971
+4 1972 -5
+11 -5 -5
+273 1974 1978
+1803 -25 1975
+3522 -25 1976
+12 1977 -5
+651 -5 -5
+651 1979 1981
+4 1980 -5
+8 -5 -5
+1587 1982 1985
+1833 -17 1983
+4 1984 -5
+8 -5 -5
+740 1986 1989
+1037 -17 1987
+4 1988 -5
+11 -5 -5
+2024 -5 1990
+58 1991 1996
+86 -5 -5
+11 -22 -5
+619 -1 1994
+2124 -1 1995
+4 -5 -5
+15 1997 2036
+1737 1998 1999
+1618 -33 -1
+1803 -25 2000
+1705 2001 2002
+745 -33 -1
+319 -33 2003
+1554 -1 2004
+606 2005 2006
+2085 -1 -5
+1588 2007 2008
+315 -1 -12
+2548 2009 2010
+315 -1 -12
+973 -1 2011
+2468 -1 2012
+315 2013 2018
+4 2014 2015
+7 -1 -1
+2545 -1 2016
+1522 -5 2017
+2862 -5 -17
+7 2019 2032
+2602 2020 2021
+4 -17 -5
+2913 -5 2022
+3 -1 2023
+1182 -1 2024
+2030 -1 2025
+4 2026 -5
+3033 -1 2027
+40 -5 2028
+573 -1 2029
+2815 2030 2031
+11 -5 -5
+1577 -1 -5
+184 -5 2033
+29 -17 2034
+491 -17 2035
+507 -17 -5
+169 2037 2038
+4 -17 -5
+17 2039 2040
+7 -12 -16
+4 -22 -1
+1528 2042 2051
+1989 -31 2043
+15 2044 -12
+1632 -5 2045
+1625 -31 2046
+1830 -31 2047
+2545 -31 2048
+4 2049 -1
+1957 -1 2050
+7 -1 -1
+83 2052 2074
+4 2053 2056
+8 2054 2055
+11 -5 -5
+12 -5 -1
+1563 -1 2057
+1841 -12 2058
+9 2059 -1
+1833 -1 2060
+1830 -31 2061
+2545 -31 2062
+135 -1 2063
+2440 -1 2064
+2978 -1 2065
+630 2066 2067
+32 -5 -5
+1025 -5 2068
+375 -5 2069
+561 -5 2070
+2548 2071 2072
+12 -5 -5
+898 2073 -5
+11 -5 -5
+740 2075 2081
+484 -5 -5
+2124 -17 2077
+4 2078 2080
+7 2079 -5
+11 -5 -5
+3191 -5 -5
+1587 2082 2085
+619 -5 2083
+4 2084 -5
+12 -5 -5
+2023 2086 2089
+4 2087 -5
+8 2088 -5
+12 -5 -5
+982 2090 2107
+1020 2091 2095
+19 2092 -33
+1400 -1 2093
+11 2094 -1
+1588 -1 -1
+1321 2096 2100
+4 2097 2098
+12 -5 -5
+1862 -19 2099
+2215 -19 -5
+252 -17 2101
+4 -5 2102
+995 -1 2103
+8 2104 -19
+12 2105 -19
+1748 -19 2106
+1918 -19 -5
+650 2108 2151
+273 2109 2110
+651 -5 -25
+518 -5 2111
+2102 -12 2112
+1862 -5 2113
+1989 -1 2114
+86 -5 2115
+651 2116 -25
+668 -5 2117
+2065 -5 2118
+4 2119 2122
+9 2120 -1
+11 2121 -5
+7 -1 -5
+2371 -1 -1
+184 -17 2124
+252 -17 2125
+909 -17 2126
+1889 -17 2127
+1924 -17 2128
+381 -1 2129
+1910 -1 2130
+1062 -5 2131
+1542 -5 2132
+1597 -5 2133
+1618 -5 2134
+1712 -5 2135
+2211 -5 2136
+224 -5 2137
+698 -5 2138
+1136 -5 2139
+1461 -5 2140
+1661 -5 2141
+375 -5 2142
+1883 -5 2143
+1923 -5 2144
+2215 -5 2145
+2440 -5 2146
+2862 -5 2147
+2879 -5 2148
+2973 -5 2149
+1581 -1 2150
+1780 -1 -1
+16 2152 2242
+631 2153 2160
+8 2154 2159
+1588 -1 2155
+3 2156 2158
+381 -5 2157
+4 -12 -12
+2065 -12 -5
+12 -5 -1
+1608 -21 2161
+1989 -31 2162
+2300 2163 2166
+2545 -31 2164
+4 2165 -1
+7 -1 -1
+1736 2167 2171
+619 -12 2168
+4 2169 -1
+1554 -1 2170
+7 -1 -1
+1326 2172 2175
+578 -1 -1
+4 2174 -1
+7 -1 -1
+1020 2176 2187
+1522 -5 2177
+1661 -5 2178
+86 -19 2179
+4 2180 2181
+11 -1 -1
+2529 -33 2182
+2698 -1 2183
+1699 -5 2184
+2221 -5 2185
+790 2186 -1
+11 -1 -1
+273 -5 2188
+8 2189 2231
+1505 -5 2190
+2656 2191 2194
+1588 -33 2192
+1554 -1 2193
+4 -31 -1
+4 2195 2208
+572 -12 2196
+1575 -1 2197
+692 -17 2198
+1087 -1 2199
+40 -1 2200
+57 -1 2201
+606 -1 2202
+1531 -1 2203
+2455 -1 2204
+2709 -5 2205
+3344 -5 2206
+573 -1 2207
+58 -5 -1
+2284 -17 2209
+96 2210 2211
+1054 -31 -5
+191 -21 2212
+2545 -31 2213
+790 -1 2214
+2978 -1 2215
+58 -5 -5
+1442 -22 2217
+319 -5 2218
+518 -5 2219
+1923 -5 2220
+2153 -5 2221
+2221 -5 -1
+1607 -22 2223
+1661 -22 2224
+606 2225 2226
+518 -5 -1
+1087 -1 2227
+1457 -1 2228
+1982 -1 2229
+2030 2230 -5
+3 -5 -1
+12 2232 2239
+319 -5 -5
+883 -12 2234
+606 2235 2236
+110 -5 -1
+58 2237 -5
+110 -5 2238
+4 -1 -1
+187 -5 2240
+1038 -5 2241
+1918 -5 -1
+135 2243 2245
+7 2244 -16
+15 -22 -33
+149 2246 2249
+4 2247 2248
+148 -18 -12
+7 -1 -9
+163 -18 2250
+165 -5 2251
+309 2252 2253
+4 -18 -5
+187 -33 2254
+268 -5 2255
+1505 -5 2256
+494 -22 2257
+4 -1 2258
+54 -1 -1
+137 2260 -1
+17 -1 -22
+28 2262 2414
+8 2263 2296
+2573 -5 -5
+252 -17 2265
+88 2266 2268
+4 -5 2267
+2440 -35 -17
+1054 -1 2269
+2221 -1 2270
+4 2271 2273
+19 2272 -1
+12 -5 -5
+1989 -5 2274
+1461 -1 2275
+245 -1 2276
+1094 -1 2277
+375 -1 2278
+2529 -5 2279
+484 -35 2280
+1840 -35 2281
+884 -5 2282
+1588 -5 2283
+898 -1 2284
+381 -1 2285
+2261 -1 2286
+2440 -1 2287
+2484 -1 2288
+2633 -1 2289
+2978 -1 2290
+1833 2291 2292
+973 -5 -1
+1910 -5 2293
+1924 -5 2294
+2152 2295 -5
+11 -5 -5
+202 2297 2301
+1982 -31 2298
+2545 -31 2299
+1054 -1 2300
+4 -1 -1
+9 2302 2362
+4 2303 2321
+32 2304 2314
+43 2305 2308
+86 -1 2306
+11 2307 -5
+16 -5 -5
+34 2309 -1
+135 -17 2310
+54 -1 2311
+12 2312 -5
+29 2313 -5
+30 -12 -12
+110 -35 2315
+268 -17 2316
+64 -12 2317
+30 2318 -5
+29 2319 -12
+12 2320 -5
+16 -5 -5
+43 2322 2335
+898 -1 2323
+1924 -5 2324
+1664 -12 2325
+375 -1 2326
+1563 -35 2327
+966 -12 2328
+1716 -12 2329
+2573 -12 2330
+34 -1 2331
+245 -1 2332
+316 -1 2333
+1037 -1 2334
+1830 -1 -5
+1551 -5 2336
+518 -5 -5
+250 2338 2340
+12 -22 2339
+2930 -5 -1
+378 -18 2341
+2065 -18 2342
+113 -5 2343
+12 2344 2361
+137 -22 2345
+1918 -22 2346
+1924 -5 2347
+30 2348 2358
+1563 -1 2349
+1910 -5 2350
+2102 -12 2351
+224 -5 2352
+1661 -5 2353
+1716 -5 2354
+1984 -5 2355
+2643 -5 2356
+273 -5 2357
+1597 -5 -12
+15 2359 -12
+7 2360 -5
+194 -5 -1
+252 -1 -12
+32 2363 2389
+569 2364 2365
+4 -1 -1
+966 -12 2366
+252 -17 2367
+1054 -17 2368
+90 2369 2370
+4 -17 -1
+55 -5 2371
+180 -5 2372
+273 -5 2373
+884 -5 2374
+1610 -5 2375
+1894 -5 2376
+11 2377 -12
+264 -12 2378
+303 -1 2379
+7 -12 2380
+911 2381 2383
+1097 -1 2382
+4 -12 -12
+780 -12 2384
+1636 -12 2385
+1730 -12 2386
+4 2387 -1
+433 -12 2388
+455 -1 -1
+165 2390 2399
+110 -26 2391
+243 2392 2398
+16 2393 2395
+4 -1 2394
+2030 -5 -35
+35 -5 2396
+43 2397 -5
+4 -35 -5
+7 -18 -1
+113 2400 2403
+1542 -22 2401
+1833 -31 2402
+2484 -1 -5
+135 -16 2404
+136 -22 2405
+149 -12 2406
+627 -12 2407
+16 2408 2413
+11 2409 -1
+110 2410 2412
+2474 -1 2411
+4 -17 -1
+187 -5 -5
+194 -1 -5
+108 2415 2527
+135 2416 2419
+7 2417 -16
+9 -22 2418
+1 -1 -16
+16 2420 2465
+163 2421 2423
+3191 -26 2422
+4 -16 -9
+8 2424 2439
+4 2425 2434
+979 -5 2426
+512 -22 2427
+1492 -9 2428
+2748 -9 2429
+226 -22 2430
+11 2431 -14
+109 2432 -14
+1895 -14 2433
+1 -22 -22
+226 -22 -22
+1889 -22 2436
+1945 -9 -17
+582 -34 2438
+1385 -14 -22
+1 2440 2460
+61 2441 2442
+4 -14 -22
+809 -33 2443
+4 2444 2455
+492 2445 2447
+633 -9 2446
+1719 -9 -22
+11 -22 -22
+363 -22 2449
+1219 -22 2450
+12 2451 2452
+7 -33 -9
+109 2453 -9
+32 2454 -22
+484 -9 -9
+7 2456 -22
+109 2457 -9
+1661 -9 2458
+1699 -9 2459
+2215 -9 -22
+7 2461 2464
+12 2462 2463
+3425 -22 -5
+242 -14 -22
+518 -9 -22
+187 2466 2481
+138 -20 2467
+636 -5 2468
+1481 -33 2469
+1492 -16 2470
+653 -22 2471
+1 -22 -22
+1506 -22 2473
+686 -1 2474
+165 -1 2475
+55 -22 2476
+1416 -22 2477
+34 2478 -1
+526 -22 2479
+169 -22 -1
+1533 -1 -22
+1507 2482 2488
+7 -1 -1
+9 -16 -22
+2255 -33 2485
+9 -1 2486
+1510 -16 2487
+43 -16 -1
+113 2489 2493
+4 -22 -22
+32 -22 2491
+7 -5 2492
+12 -12 -5
+309 2494 2496
+163 -18 2495
+1 -9 -5
+188 2497 2499
+1233 -22 2498
+1390 -1 -9
+207 2500 2501
+11 -9 -22
+1924 2502 2505
+582 2503 2504
+2117 -1 -1
+163 -33 -22
+250 2506 2508
+15 -9 2507
+1 -16 -16
+3279 2509 2511
+4 2510 -16
+137 -9 -22
+35 -5 2512
+2211 -26 2513
+167 -9 2514
+1517 2515 2516
+1 -9 -1
+755 -1 2517
+197 2518 2521
+663 -9 2519
+836 -9 2520
+2168 -9 -22
+1200 -9 2522
+1428 -9 2523
+1666 -9 2524
+1129 2525 -22
+1 2526 -22
+1862 -22 -9
+186 2528 2529
+538 -1 -19
+46 2530 2533
+70 -6 -6
+8 2532 -1
+981 -1 -6
+97 2534 2552
+17 -5 -5
+8 2536 2537
+99 -5 -26
+86 2538 2539
+1883 -5 -1
+43 2540 2544
+1 2541 -13
+9 2542 -17
+4 2543 -5
+98 -5 -5
+127 2545 2547
+12 2546 -12
+273 -12 -1
+1 -17 -5
+96 2549 2550
+363 -33 -22
+123 -18 2551
+167 -18 -12
+7 2553 2564
+70 -9 2554
+160 2555 2556
+4 -1 -5
+2649 2557 2560
+2371 -9 -9
+1588 -1 2559
+4 -9 -9
+790 -25 2561
+1522 -33 2562
+808 2563 -9
+4 -9 -9
+121 2565 2571
+1 2566 2570
+492 2567 2568
+260 -9 -33
+11 2569 -1
+34 -1 -9
+173 -33 -9
+1 -1 -16
+46 2573 2595
+70 2574 2575
+36 -6 -9
+167 -18 2576
+771 2577 2579
+20 2578 -6
+45 -14 -6
+800 2580 2582
+1310 2581 -6
+12 -6 -6
+631 2583 2586
+3 -6 2584
+4 2585 -6
+11 -6 -6
+4 2587 -6
+372 2588 2591
+12 2589 -6
+8 2590 -6
+26 -6 -6
+45 2592 -6
+12 2593 -6
+26 2594 -6
+7 -6 -6
+39 2596 2965
+51 2597 2646
+36 2598 2605
+233 -4 2599
+61 2600 2601
+2016 -16 -4
+152 -4 2602
+1638 -4 2603
+411 2604 -7
+29 -7 -4
+349 2606 2607
+169 -18 -12
+50 2608 2609
+1819 -16 -7
+26 -7 -7
+172 2611 2617
+371 -7 2612
+4 2613 -16
+59 2614 2616
+29 -7 2615
+1 -16 -7
+7 -7 -16
+7 2618 2620
+16 -3 2619
+373 -16 -7
+277 -16 2621
+871 -16 2622
+1134 -16 2623
+2419 -16 2624
+2720 -16 2625
+1446 2626 2627
+15 -7 -16
+2864 2628 2629
+1 -16 -7
+831 2630 2631
+4 -16 -7
+59 2632 -7
+1 2633 -7
+9 -7 2634
+268 -7 2635
+373 -7 2636
+4 2637 -7
+29 2638 2639
+114 -7 -7
+63 -7 -7
+393 2641 2643
+1 -28 2642
+257 -28 -7
+2252 -34 2644
+616 2645 -7
+4 -34 -7
+8 2647 2708
+26 2648 2679
+75 2649 2659
+474 -3 2650
+1911 -22 2651
+1221 -5 2652
+780 -3 2653
+11 2654 -3
+723 -3 2655
+2909 -3 2656
+3255 -3 2657
+1 2658 -16
+4 -16 -16
+1545 -3 -3
+1 -7 -8
+995 -7 2662
+773 -16 2663
+758 -16 2664
+3756 2665 2666
+12 -3 -5
+582 -7 2667
+2722 -7 2668
+3291 -16 2669
+3376 -16 2670
+4 2671 2678
+1 2672 -3
+200 -3 2673
+11 2674 -3
+144 2675 2676
+88 -16 -3
+12 2677 -3
+29 -3 -3
+674 -16 -3
+36 2680 2684
+1 2681 2683
+29 2682 -4
+12 -3 -3
+616 -3 -4
+94 2685 2689
+12 2686 -3
+29 2687 -3
+1 2688 -3
+4 -3 -3
+75 2690 2696
+41 2691 2692
+12 -5 -4
+4 -7 -7
+795 -1 2694
+295 -5 2695
+2139 -5 -7
+29 2697 -27
+295 2698 2702
+1 2699 2701
+4 -5 2700
+2140 -1 -7
+1110 -27 -3
+1685 -16 2703
+257 -5 2704
+349 -5 2705
+12 2706 -3
+1 2707 -3
+4 -5 -3
+135 2709 2711
+143 -4 2710
+1069 -3 -16
+176 2712 2714
+29 -16 2713
+913 -4 -14
+26 2715 2868
+16 2716 2780
+163 -16 2717
+75 2718 2732
+474 -3 2719
+77 -16 -16
+112 2721 2723
+1 2722 -3
+4 -3 -3
+860 -5 2724
+1311 -5 2725
+11 2726 -3
+414 -3 2727
+723 -3 2728
+3358 -3 2729
+110 2730 -16
+7 2731 -16
+1 -16 -16
+61 2733 2753
+7 2734 2735
+1 -5 -5
+456 -3 2736
+112 2737 2748
+4 2738 2741
+11 2739 -3
+1 2740 -5
+86 -5 -5
+756 -3 2742
+2420 -7 2743
+2847 -7 2744
+2187 2745 2746
+1 -7 -5
+11 2747 -5
+1691 -5 -3
+2327 -16 2749
+12 2750 -5
+60 -7 -7
+1 2752 -7
+4 -7 -7
+2964 -3 -3
+193 2755 2756
+1 -5 -16
+4 2757 2776
+194 2758 2764
+1687 -3 2759
+1540 -3 2760
+768 -3 2761
+1 2762 -5
+2010 -3 2763
+7 -5 -3
+30 2765 2767
+2064 -5 2766
+1 -3 -3
+184 -16 2768
+1639 -16 2769
+1 2770 -3
+7 2771 -3
+32 2772 2774
+12 2773 -3
+29 -3 -3
+12 2775 -3
+110 -3 -3
+1679 -7 2777
+1784 -7 2778
+1911 -5 2779
+1916 -5 -3
+163 2781 2797
+149 -7 2782
+15 2783 2788
+207 2784 2787
+34 2785 2786
+184 -7 -3
+1 -23 -18
+1091 -7 -18
+1448 2789 2792
+52 -7 2790
+17 -18 2791
+4 -16 -18
+162 2793 2796
+125 -18 2794
+52 -18 2795
+515 -18 -7
+64 -7 -18
+113 2798 2852
+7 2799 2802
+34 2800 -5
+4 2801 -5
+9 -5 -5
+481 2803 2819
+313 2804 2810
+3218 -18 2805
+4044 -18 2806
+11 2807 -3
+9 2808 -16
+1 2809 -16
+4 -16 -16
+12 2811 -18
+9 2812 2818
+615 -16 -16
+34 2814 2815
+4 -16 -16
+4 2816 2817
+17 -7 -7
+1 -16 -7
+167 -3 -16
+54 2820 2837
+4 2821 2831
+32 2822 2826
+29 2823 -16
+1 2824 2825
+88 -3 -3
+432 -5 -16
+9 2827 2830
+1 2828 -16
+12 2829 -16
+75 -16 -3
+1 -3 -3
+312 -5 2832
+1 2833 -7
+9 2834 -16
+479 -16 2835
+11 2836 -3
+29 -7 -3
+187 -33 2838
+582 -7 2839
+2413 -18 2840
+152 -3 2841
+167 -3 2842
+34 2843 2846
+1 2844 -16
+29 -5 2845
+4 -16 -5
+181 2847 -16
+15 2848 2850
+11 2849 -5
+268 -5 -16
+169 -16 2851
+960 -16 -5
+149 -7 2853
+29 2854 2865
+43 -35 2855
+279 2856 2858
+1 -16 2857
+4 -24 -20
+1624 -5 2859
+35 -3 2860
+151 -3 2861
+15 -16 2862
+101 -7 2863
+17 2864 -16
+174 -16 -7
+75 2866 -14
+78 -7 2867
+494 -18 -16
+36 2869 2886
+12 2870 2885
+16 2871 2876
+29 -3 -3
+61 2873 -3
+7 -7 -4
+32 -7 2875
+123 -4 -16
+165 2877 2879
+1 -3 -3
+7 -4 -3
+868 -7 -7
+897 -5 2881
+52 -18 2882
+7 2883 -7
+1 2884 -18
+35 -18 -7
+223 -3 -4
+349 2887 2898
+2082 2888 2892
+1 2889 2891
+16 -5 -5
+43 -35 -5
+32 -33 -12
+15 2893 2897
+54 -5 2894
+123 -5 2895
+414 2896 -1
+1 -5 -1
+17 -5 -12
+163 2899 2908
+48 -18 -18
+1 -7 2901
+32 -5 -16
+172 2903 2905
+9 -7 2904
+29 -33 -5
+199 2906 2907
+1 -7 -5
+1346 -7 -18
+41 2909 2934
+214 2910 2911
+1 -18 -3
+112 2912 2916
+1837 -16 2913
+16 2914 -5
+1 2915 -5
+29 -5 -5
+54 -20 2917
+1094 -1 2918
+137 -7 2919
+20 2920 -3
+194 2921 2923
+2094 2922 -5
+7 -19 -5
+7 -5 -5
+181 2925 -5
+1 2926 -5
+309 -5 -7
+61 2928 2930
+4 2929 -7
+481 -3 -5
+1 2931 -5
+43 -5 2932
+113 2933 -7
+602 -7 -5
+94 2935 2939
+93 2936 2937
+7 -5 -7
+9 -3 2938
+61 -3 -16
+48 2940 2949
+12 -5 -5
+1 2942 2945
+4 2943 2944
+7 -7 -3
+1417 -7 -5
+32 2946 2947
+7 -18 -16
+53 -16 -5
+1 -33 -23
+1512 2950 2952
+1 2951 -7
+9 -7 -3
+294 2953 2954
+7 -1 -5
+309 2955 2957
+101 -3 2956
+184 -24 -7
+123 -7 2958
+295 2959 2963
+386 -7 2960
+15 2961 -7
+32 2962 -5
+7 -7 -5
+9 2964 -5
+1 -22 -5
+108 2966 3063
+26 2967 3010
+7 2968 2979
+64 -7 2969
+1835 2970 2971
+979 -5 -14
+210 -16 2972
+1852 2973 2974
+1 -14 -14
+1 2975 -14
+4 2976 -14
+109 2977 -14
+12 2978 -14
+8 -14 -14
+187 2980 2982
+137 2981 -20
+476 -20 -24
+135 2983 2984
+343 -14 -16
+15 -14 -14
+1120 -26 2986
+3148 -16 2987
+378 2988 2990
+4 2989 -20
+59 -9 -14
+1191 -18 2991
+172 2992 2996
+101 -18 2993
+313 2994 -14
+4 2995 -14
+1548 -14 -14
+243 2997 -14
+4 2998 -14
+1 2999 -14
+12 3000 -14
+109 -14 -14
+163 3002 3005
+9 3003 3004
+17 -24 -18
+367 -18 -14
+393 -7 3006
+188 -23 3007
+711 -9 3008
+136 -24 3009
+1428 -24 -14
+135 3011 3012
+11 -16 -16
+41 3013 3035
+16 3014 3025
+61 3015 3017
+7 -5 3016
+11 -9 -14
+4 3018 3024
+8 3019 3023
+12 3020 -14
+1875 -16 3021
+1 3022 -14
+109 -16 -14
+51 -14 -16
+1911 -16 -14
+207 3026 3027
+1 -18 -23
+52 -7 3028
+367 3029 3033
+9 3030 3031
+76 -20 -16
+1 3032 -20
+4 -14 -23
+35 -14 3034
+51 -14 -16
+16 3036 3049
+796 3037 3038
+11 -27 -14
+36 3039 3043
+12 3040 -14
+109 3041 -14
+1 3042 -14
+8 -14 -14
+48 -14 3044
+51 3045 3046
+257 -14 -7
+94 -14 3047
+677 -14 3048
+2252 -14 -9
+109 -14 -14
+125 3051 3054
+1 3052 3053
+4 -16 -9
+4 -20 -18
+184 3055 3056
+1 -9 -24
+12 3057 3058
+51 -7 -14
+7 -34 -9
+15 3060 3061
+1 -5 -22
+226 3062 -18
+4 -9 -20
+2 3064 3195
+26 3065 3129
+8 3066 3116
+1608 3067 3073
+1545 -21 3068
+1798 3069 3070
+1607 -21 -21
+4 3071 -21
+1607 3072 -21
+12 -21 -21
+651 3074 3083
+484 -1 3075
+407 -25 3076
+2012 -25 3077
+1784 3078 3079
+1 -25 -5
+1821 3080 3081
+1 -25 -5
+4 3082 -5
+650 -5 -5
+275 -25 3084
+1 3085 3098
+2007 -21 3086
+86 3087 3088
+324 -14 -21
+3018 -21 3089
+1554 -7 3090
+1280 -21 3091
+2926 -21 3092
+1327 -1 3093
+192 -21 3094
+538 -14 3095
+315 3096 3097
+4 -5 -16
+606 -16 -5
+58 -5 3099
+631 3100 3101
+4 -7 -9
+692 3102 3103
+691 -6 -5
+1508 -5 3104
+387 -9 3105
+740 -5 3106
+982 -5 3107
+315 3108 3109
+981 -5 -22
+83 -5 3110
+2023 -5 3111
+650 -25 3112
+185 -5 3113
+1587 -5 3114
+1087 -7 3115
+2300 -7 -21
+51 3117 3118
+480 -9 -7
+135 -16 3119
+1531 3120 3122
+15 -16 -16
+7 -16 -16
+174 -14 3123
+1560 -18 3124
+11 3125 3128
+15 3126 -7
+246 -7 3127
+1671 -7 -5
+1 -7 -21
+8 3130 3177
+48 3131 3144
+631 -7 3132
+1119 -27 3133
+96 -27 3134
+1764 3135 3136
+332 -7 -27
+274 -25 3137
+1737 -7 3138
+1279 -21 3139
+3 -7 3140
+2656 -7 3141
+4 3142 -5
+650 3143 -5
+202 -5 -5
+982 3145 3151
+20 3146 -19
+1321 3147 3149
+257 -19 3148
+2094 -19 -5
+981 3150 -1
+41 -5 -19
+1737 3152 3153
+1 -33 -7
+275 -25 3154
+387 -9 3155
+606 3156 3157
+41 -14 -9
+651 3158 3166
+86 -25 3159
+4 3160 3164
+1 3161 3162
+36 -5 -5
+36 -5 3163
+11 -5 -5
+2584 3165 -5
+1 -5 -25
+1803 -25 3167
+1279 -21 3168
+1607 -21 3169
+437 -21 3170
+1175 -14 3171
+1527 3172 3173
+41 -5 -1
+631 -7 3174
+1554 -7 3175
+1164 3176 -5
+2082 -5 -5
+51 3178 3184
+349 3179 3180
+1 -33 -12
+1527 3181 3183
+15 3182 -16
+652 -16 -7
+1670 -1 -7
+41 3185 3186
+135 -16 -5
+163 3187 3190
+12 -18 -18
+9 -5 -18
+4 -7 -27
+349 3191 3192
+3 -12 -5
+135 -16 3193
+4 -16 -16
+32 -7 -16
+66 3196 3230
+248 3197 3198
+268 -20 -8
+67 3199 3203
+15 3200 -16
+132 -10 3201
+140 -10 3202
+2066 -10 -8
+1598 3204 3206
+8 -8 3205
+7 -24 -24
+1199 -8 3207
+242 3208 3212
+7 3209 3210
+617 -14 -10
+4 -14 3211
+1 -29 -20
+15 3213 3228
+349 3214 3217
+648 -8 3215
+71 3216 -10
+1597 -8 -10
+3532 -8 3218
+612 3219 3223
+41 3220 -10
+4 3221 -10
+8 3222 -10
+133 -10 -10
+276 3224 -10
+26 3225 -10
+4 3226 -10
+8 3227 -10
+12 -10 -10
+169 -10 3229
+4 -18 -24
+146 3231 3495
+135 -16 3232
+12 3233 3475
+76 3234 3256
+137 3235 3237
+636 -29 3236
+48 -18 -14
+349 -22 3238
+320 -20 -20
+197 3240 3243
+4 3241 -20
+26 3242 -29
+2736 -29 -20
+279 3244 3249
+125 -29 3245
+1959 -29 3246
+3242 -29 3247
+599 3248 -20
+26 -20 -29
+2584 -29 3250
+579 3251 3252
+15 -29 -20
+51 -23 3253
+268 -23 3254
+2546 3255 -20
+9 -23 -20
+51 3257 3262
+7 -14 3258
+446 3259 3261
+26 3260 -20
+1 -24 -14
+393 -23 -20
+188 3263 3310
+187 3264 3291
+41 3265 3269
+184 3266 3268
+1 3267 -24
+9 -29 -30
+133 -16 -20
+1564 -24 -24
+132 3271 3273
+9 3272 -24
+169 -24 -29
+407 -29 3274
+2356 -29 3275
+3475 -29 3276
+93 3277 3278
+15 -20 -24
+208 -20 3279
+320 -20 3280
+476 -20 3281
+1731 -20 3282
+2163 -20 3283
+2797 -20 3284
+440 3285 3286
+1 -20 -24
+133 3287 -24
+4 3288 -24
+32 3289 -24
+9 3290 -24
+17 -24 -24
+257 3292 3293
+243 -23 -20
+7 3294 3295
+137 -29 -23
+41 3296 3300
+268 -20 3297
+1176 -20 3298
+72 3299 -23
+663 -20 -23
+1309 -24 -24
+1604 -20 3302
+35 -20 3303
+101 -20 3304
+1914 -23 3305
+17 -24 3306
+1516 -23 3307
+26 3308 3309
+492 -23 -24
+383 -24 -23
+194 3311 3358
+72 3312 3322
+492 3313 3315
+7 -9 3314
+1 -20 -22
+1021 3316 3317
+4 -29 -22
+93 -16 3318
+26 3319 3320
+25 -20 -24
+446 -24 3321
+9 -20 -20
+41 3323 3328
+184 3324 3326
+4 3325 -24
+279 -30 -14
+7 -29 3327
+15 -16 -16
+1925 3329 3331
+16 -34 3330
+9 -29 -24
+383 3332 3337
+17 3333 3334
+932 -16 -14
+9 -24 -24
+7 -29 3336
+199 -24 -14
+1723 -34 3338
+1888 -24 -24
+4 -16 -29
+242 3341 3344
+15 -14 3342
+7 -14 3343
+492 -16 -24
+26 3345 3350
+140 -34 3346
+1021 -29 3347
+1257 -29 3348
+7 3349 -24
+268 -29 -24
+17 3351 3355
+15 3352 3354
+4 3353 -16
+1 -24 -29
+4 -18 -24
+257 -14 3356
+101 -33 3357
+828 -14 -24
+163 3359 3377
+15 -18 -18
+32 3361 3362
+1 -23 -29
+17 3363 3366
+111 -18 3364
+72 -20 3365
+197 -14 -29
+1036 -14 -18
+17 3368 3370
+167 -23 3369
+295 -18 -24
+169 3371 3373
+9 -24 3372
+162 -14 -18
+479 -24 3374
+165 -18 3375
+199 3376 -23
+41 -23 -18
+26 3378 3444
+72 3379 3389
+15 3380 3385
+8 -14 -14
+1 -14 -14
+1 3383 3384
+16 -16 -20
+9 -23 -26
+363 3386 3387
+267 -34 -20
+43 -24 -24
+79 -9 -24
+383 3390 3407
+125 3391 3397
+165 -33 3392
+197 3393 3394
+1 -18 -24
+2908 -18 3395
+446 -24 3396
+2170 -24 -14
+583 -29 3398
+279 -23 3399
+35 -24 3400
+1507 -24 3401
+43 3402 3404
+4 3403 -14
+1 -14 -14
+8 3405 -14
+1 3406 -14
+4 -14 -14
+1 3408 3427
+242 3409 3418
+367 3410 3411
+363 -14 -24
+947 -29 3412
+54 -16 3413
+407 -16 3414
+1136 -16 3415
+16 3416 -14
+4 3417 -14
+32 -14 -14
+165 3419 3420
+199 -16 -24
+1428 -24 3421
+9 3422 3426
+17 -14 -14
+8 -14 3424
+133 -24 3425
+30 -24 -14
+15 -24 -24
+16 3428 3432
+8 3429 3431
+1364 -8 3430
+4 -9 -14
+4 -34 -29
+43 -24 -24
+9 3434 3437
+34 -24 3435
+279 -24 3436
+242 -24 -16
+4 -34 3438
+7 -20 -18
+268 -29 3440
+363 -14 3441
+133 3442 3443
+4 -16 -14
+55 -16 -24
+41 3445 3465
+682 -16 -16
+7 -23 3447
+4 -29 -20
+8 3449 3450
+242 -22 -9
+1 3451 3460
+1338 3452 3453
+7 -23 -14
+34 3454 3455
+30 -16 -23
+267 -34 3456
+242 3457 3459
+15 3458 -16
+7 -29 -29
+268 -29 -16
+7 3461 -34
+9 3462 3464
+16 3463 -16
+4 -34 -14
+34 -29 -14
+256 3466 3468
+7 -34 3467
+1 -24 -16
+295 -23 3469
+349 3470 3472
+1 -30 -30
+133 -8 -23
+17 -14 -14
+4 -24 3474
+9 -30 -20
+188 3476 3482
+187 3477 3480
+117 -20 -20
+137 -22 -24
+101 -24 -20
+1028 -23 3481
+34 -23 -20
+16 3483 3488
+26 3484 3485
+72 -22 -14
+20 3486 -23
+41 3487 -14
+1524 -14 -29
+20 3489 3492
+242 -14 3490
+163 -18 3491
+181 -14 -24
+133 -24 3493
+72 -16 3494
+169 -16 -14
+28 3496 3612
+36 3497 3516
+135 3498 3499
+11 -16 -4
+29 3500 3509
+12 3501 -4
+8 -4 3502
+125 3503 3505
+9 -3 3504
+7 -4 -7
+64 3506 3507
+730 -16 -7
+30 -16 3508
+163 -16 -16
+952 -4 -4
+61 -16 3511
+15 3512 -4
+75 -4 3513
+3078 3514 -14
+11 3515 -14
+8 -14 -14
+611 3517 3521
+51 -7 3518
+4 3519 -14
+12 3520 -14
+7 -14 -14
+51 3522 3525
+349 3523 3524
+7 -33 -12
+94 -28 -7
+26 3526 3578
+35 -3 -3
+31 -3 3528
+101 -7 3529
+434 -7 3530
+9 3531 -3
+995 -3 3532
+4 -3 -3
+29 3534 3572
+8 3535 3539
+11 3536 -5
+1605 -7 3537
+860 -5 3538
+4 -5 -7
+214 3540 3543
+232 3541 3542
+4 -13 -7
+538 -13 -3
+43 3544 3554
+9 3545 3550
+208 -16 3546
+4 3547 3548
+16 -3 -3
+860 -7 3549
+3255 -7 -3
+88 -14 3551
+165 -35 3552
+25 -3 3553
+303 -3 -7
+7 3555 3568
+4 3556 3559
+19 3557 -14
+16 3558 -7
+11 -7 -7
+1835 -7 3560
+55 -5 3561
+2766 -5 3562
+4044 -5 3563
+9 3564 -7
+1136 -7 3565
+2722 -7 3566
+1821 3567 -14
+30 -7 -14
+16 3569 3570
+163 -16 -16
+15 -7 3571
+9 -18 -7
+75 3573 3575
+4 -7 3574
+1623 -7 -3
+2566 3576 3577
+4 -14 -5
+30 -5 -21
+41 3579 3590
+16 -5 -5
+8 3581 3583
+3428 -35 3582
+4 -5 -5
+12 3584 -4
+122 -9 3585
+30 -5 3586
+32 3587 -5
+7 3588 -5
+4 -5 -5
+4 -7 -35
+135 -16 3591
+94 3592 3594
+4 3593 -5
+16 -7 -28
+295 3595 3597
+19 -7 3596
+8 -16 -1
+349 -5 3598
+93 3599 3600
+8 -5 -5
+110 -7 -7
+32 3602 3603
+12 -7 -16
+2173 -16 3604
+15 3605 -35
+677 -7 3606
+2252 3607 3608
+7 -35 -7
+12 3609 -5
+395 -7 3610
+8 -5 3611
+29 -7 -5
+97 3613 3639
+210 -16 3614
+127 3615 3634
+163 3616 3617
+15 -18 -18
+26 3618 3624
+8 3619 3623
+440 -13 3620
+1623 -13 3621
+4 3622 -26
+12 -13 -26
+384 -7 -13
+1 3625 3629
+15 3626 -16
+94 3627 -13
+7 3628 -13
+119 -13 -13
+51 3630 3631
+4 -4 -12
+293 -13 3632
+8 3633 -13
+126 -4 -4
+41 -13 -13
+1 -13 3636
+8 -9 -5
+194 -5 3638
+2039 -18 -13
+613 -2 3640
+186 -19 3641
+160 3642 3647
+166 3643 3645
+4 3644 -18
+26 -18 -18
+43 -14 -14
+938 -5 -14
+100 -27 3648
+135 3649 3650
+134 -9 -16
+332 3651 3652
+4 -2 -27
+16 3653 3656
+178 -16 3654
+896 -27 3655
+1176 -14 -9
+9 -9 -9
+226 -9 -20

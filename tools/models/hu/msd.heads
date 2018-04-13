@@ -1,0 +1,580 @@
+DET	Definite=Def	PronType=Art
+NOUN	Case=Ine	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+ADV	_
+NUM	Case=Nom	Number=Sing	Number[psed]=None	Number[psor]=None	NumType=Card	Person[psor]=None
+NOUN	Case=Nom	Number=Sing	Number[psed]=None	Number[psor]=Sing	Person[psor]=3
+ADJ	Case=Nom	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None	VerbForm=PartPres
+ADJ	Case=Nom	Degree=Pos	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+NOUN	Case=Nom	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+DET	Definite=Ind	PronType=Tot
+NOUN	Case=Ade	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+ADJ	Case=Nom	Degree=Cmp	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+PUNCT	_
+DET	Case=Nom	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Dem
+NOUN	Case=Acc	Number=Sing	Number[psed]=None	Number[psor]=Sing	Person[psor]=3
+DET	Definite=Ind	PronType=Ind
+VERB	Definite=Def	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+ADP	_
+CCONJ	_
+NOUN	Case=Del	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+PRON	Case=Gen	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Dem
+NOUN	Case=Sub	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+ADJ	Case=Nom	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None	VerbForm=PartPast
+NOUN	Case=Del	Number=Plur	Number[psed]=None	Number[psor]=Sing	Person[psor]=3
+PROPN	Case=Nom	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+VERB	Definite=Ind	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+NOUN	Case=Acc	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+PROPN	Case=Sup	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+ADJ	Case=Ess	Degree=Pos	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+NOUN	Case=Ine	Number=Sing	Number[psed]=None	Number[psor]=Sing	Person[psor]=3
+NOUN	Case=Sup	Number=Plur	Number[psed]=None	Number[psor]=None	Person[psor]=None
+ADV	Degree=Pos
+NOUN	Case=Sup	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+VERB	Definite=Ind	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+NOUN	Case=Cau	Number=Plur	Number[psed]=None	Number[psor]=None	Person[psor]=None
+NOUN	Case=Cau	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+NOUN	Case=Gen	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+VERB	Definite=Ind	Mood=Ind	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+NOUN	Case=Nom	Number=Plur	Number[psed]=None	Number[psor]=Sing	Person[psor]=3
+VERB	Definite=Def	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+ADJ	Case=Tra	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None	VerbForm=PartPres
+NOUN	Case=Nom	Number=Plur	Number[psed]=None	Number[psor]=None	Person[psor]=None
+PRON	Case=Cau	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Prs
+VERB	Definite=Def	Mood=Pot	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+NOUN	Case=Ins	Number=Sing	Number[psed]=None	Number[psor]=Sing	Person[psor]=3
+NOUN	Case=Ins	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+ADV	PronType=Neg
+NOUN	Case=Ine	Number=Plur	Number[psed]=None	Number[psor]=Plur	Person[psor]=1
+NOUN	Case=Gen	Number=Sing	Number[psed]=None	Number[psor]=Sing	Person[psor]=3
+SCONJ	_
+NOUN	Case=Acc	Number=Plur	Number[psed]=None	Number[psor]=Sing	Person[psor]=3
+VERB	Definite=Def	Mood=Ind	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+NUM	Case=Nom	Number=Sing	Number[psed]=None	Number[psor]=None	NumType=Frac	Person[psor]=None
+NOUN	Case=Sub	Number=Sing	Number[psed]=None	Number[psor]=Sing	Person[psor]=3
+NOUN	Case=Abl	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+NOUN	Case=Dat	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+AUX	Definite=Ind	Mood=Ind	Number=Sing	Person=3	Tense=Pres	Voice=Act
+VERB	VerbForm=Inf	Voice=Act
+PRON	Case=Nom	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Dem
+VERB	Definite=Ind	Mood=Ind	Number=Plur	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+PRON	Case=Acc	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Dem
+ADJ	Case=Nom	Degree=Sup	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+ADV	PronType=Dem
+NOUN	Case=Ins	Number=Plur	Number[psed]=None	Number[psor]=Sing	Person[psor]=1
+PRON	Case=Ins	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Dem
+ADJ	Case=Ade	Degree=Pos	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+ADV	PronType=Int
+ADJ	Case=Tra	Degree=Pos	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+VERB	Definite=Ind	Mood=Pot	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+PROPN	Case=Sub	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+NOUN	Case=Sub	Number=Sing	Number[psed]=None	Number[psor]=Plur	Person[psor]=1
+PRON	Case=All	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Dem
+VERB	Definite=Ind	Mood=Imp	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+PART	_
+DET	Case=Sup	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Dem
+ADV	PronType=Tot
+DET	Case=Ill	Definite=Ind	PronType=Ind
+VERB	Number=Sing	Person=3	VerbForm=Inf	Voice=Act
+NOUN	Case=Ill	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+AUX	Definite=Ind	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Sub	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Rel
+PRON	Case=Dat	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Dem
+ADJ	Case=Nom	Number=Sing	Number[psed]=None	Number[psor]=None	NumType=Ord	Person[psor]=None
+PRON	Case=Nom	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Rel
+AUX	Definite=Def	Mood=Ind	Number=Sing	Person=3	Tense=Pres	Voice=Act
+AUX	Definite=Ind	Mood=Cnd	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+DET	Case=Acc	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Dem
+VERB	Definite=Def	Mood=Ind	Number=Plur	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+NOUN	Case=Sup	Number=Sing	Number[psed]=None	Number[psor]=Sing	Person[psor]=3
+AUX	Definite=Ind	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+ADJ	Case=Ade	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None	VerbForm=PartPast
+PRON	Case=Nom	Number=Plur	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Dem
+ADJ	Case=Ess	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None	VerbForm=PartPres
+PROPN	Case=Acc	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+ADJ	Case=Nom	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None	VerbForm=PartFut
+NUM	Case=Ine	Number=Sing	Number[psed]=None	Number[psor]=None	NumType=Card	Person[psor]=None
+VERB	Definite=Ind	Mood=Pot	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+NOUN	Case=Acc	Number=Plur	Number[psed]=None	Number[psor]=None	Person[psor]=None
+NOUN	Case=Del	Number=Plur	Number[psed]=None	Number[psor]=None	Person[psor]=None
+PRON	Case=Gen	Number=Plur	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Rel
+NOUN	Case=Nom	Number=Plur	Number[psed]=None	Number[psor]=Plur	Person[psor]=3
+NOUN	Case=Tra	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+PRON	Case=Sup	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Rel
+VERB	Definite=Ind	Mood=Imp	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Definite=Def	Mood=Imp	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+NOUN	Case=Acc	Number=Sing	Number[psed]=None	Number[psor]=Plur	Person[psor]=3
+NOUN	Case=Acc	Number=Plur	Number[psed]=None	Number[psor]=Plur	Person[psor]=3
+DET	Definite=Ind	PronType=Art
+NOUN	Case=Dat	Number=Plur	Number[psed]=None	Number[psor]=None	Person[psor]=None
+NOUN	Case=Ins	Number=Plur	Number[psed]=None	Number[psor]=None	Person[psor]=None
+NOUN	Case=Sub	Number=Plur	Number[psed]=None	Number[psor]=None	Person[psor]=None
+NOUN	Case=Ela	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+VERB	Definite=Ind	Mood=Pot	Number=Plur	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+PRON	Case=Acc	Number=Plur	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Prs
+NOUN	Case=All	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+NOUN	Case=Ine	Number=Plur	Number[psed]=None	Number[psor]=None	Person[psor]=None
+ADJ	Case=Dat	Number=Plur	Number[psed]=None	Number[psor]=None	Person[psor]=None	VerbForm=PartPres
+NOUN	Case=Ela	Number=Sing	Number[psed]=None	Number[psor]=Plur	Person[psor]=3
+PROPN	Case=Abl	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+PRON	Case=Cau	Number=Plur	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Prs
+PRON	Case=Acc	Number=Plur	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	Reflex=Yes
+PROPN	Case=Ins	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+ADJ	Case=Ess	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None	VerbForm=PartPast
+VERB	Number=Plur	Person=3	VerbForm=Inf	Voice=Act
+PRON	Case=Sub	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Prs
+NOUN	Case=Nom	Number=Sing	Number[psed]=None	Number[psor]=Plur	Person[psor]=3
+NOUN	Case=All	Number=Sing	Number[psed]=None	Number[psor]=Sing	Person[psor]=3
+NOUN	Case=Abl	Number=Plur	Number[psed]=None	Number[psor]=Sing	Person[psor]=3
+VERB	Definite=Def	Mood=Ind	Number=Plur	Person=1	Tense=Past	VerbForm=Fin	Voice=Act
+ADJ	Case=Dat	Degree=Pos	Number=Plur	Number[psed]=None	Number[psor]=None	Person[psor]=None
+ADV	PronType=Rel
+VERB	Definite=Def	Mood=Ind	Number=Plur	Person=3	Tense=Past	VerbForm=Fin	Voice=Cau
+NOUN	Case=Del	Number=Sing	Number[psed]=None	Number[psor]=Sing	Person[psor]=3
+DET	Case=Gen	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Dem
+NOUN	Case=Ill	Number=Plur	Number[psed]=None	Number[psor]=None	Person[psor]=None
+NOUN	Case=Ela	Number=Plur	Number[psed]=None	Number[psor]=None	Person[psor]=None
+PROPN	Case=Ill	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+NOUN	Case=Ela	Number=Sing	Number[psed]=None	Number[psor]=Sing	Person[psor]=3
+PRON	Case=Nom	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Prs
+PRON	Case=Acc	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Int
+DET	Definite=Def	PronType=Ind
+PRON	Case=Dat	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Ind
+VERB	Definite=Ind	Mood=Ind	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Nom	Number=Plur	Number[psed]=None	Number[psor]=None	Person=1	Person[psor]=None	PronType=Prs
+PRON	Case=Acc	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Rcp
+PRON	Case=Ine	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Prs
+PRON	Case=All	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Prs
+NOUN	Case=Ter	Number=Sing	Number[psed]=None	Number[psor]=Plur	Person[psor]=3
+ADV	VerbForm=Conv
+VERB	Definite=Def	Mood=Ind	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+ADJ	Case=Sup	Degree=Pos	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+PRON	Case=Nom	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Tot
+VERB	Aspect=Iter	Definite=Def	Mood=Ind	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Aspect=Iter	Definite=Def	Mood=Ind	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Definite=Ind	Mood=Pot	Number=Sing	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+VERB	Definite=Def	Mood=Imp	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Nom	Number=Plur	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Ind
+NOUN	Case=Dis	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+PRON	Case=Gen	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Rel
+NOUN	Case=Ade	Number=Plur	Number[psed]=None	Number[psor]=Sing	Person[psor]=3
+PRON	Case=Dat	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	Reflex=Yes
+PRON	Case=All	Number=Plur	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Prs
+ADJ	Case=Dat	Number=Plur	Number[psed]=None	Number[psor]=None	Person[psor]=None	VerbForm=PartPast
+NOUN	Case=Dat	Number=Sing	Number[psed]=None	Number[psor]=Sing	Person[psor]=3
+PROPN	Case=Nom	Number=Plur	Number[psed]=None	Number[psor]=None	Person[psor]=None
+ADJ	Case=Nom	Degree=Pos	Number=Plur	Number[psed]=None	Number[psor]=None	Person[psor]=None
+NOUN	Case=Cau	Number=Sing	Number[psed]=None	Number[psor]=Sing	Person[psor]=3
+ADJ	Case=Dat	Degree=Pos	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+PROPN	Case=Ine	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+VERB	Definite=Def	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Fin	Voice=Cau
+NOUN	Case=Acc	Number=Sing	Number[psed]=None	Number[psor]=Plur	Person[psor]=1
+VERB	Definite=Ind	Mood=Ind	Number=Plur	Person=3	Tense=Past	VerbForm=Fin	Voice=Cau
+NOUN	Case=Abs	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+PROPN	Case=Ade	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+NOUN	Case=Ins	Number=Plur	Number[psed]=None	Number[psor]=Plur	Person[psor]=3
+NOUN	Case=Sup	Number=Plur	Number[psed]=None	Number[psor]=Sing	Person[psor]=3
+PRON	Case=Sub	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Dem
+NOUN	Case=Abl	Number=Sing	Number[psed]=None	Number[psor]=Sing	Person[psor]=3
+PRON	Case=Nom	Number=Plur	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Prs
+PROPN	Case=Gen	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+PROPN	Case=Del	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+NOUN	Case=Sub	Number=Plur	Number[psed]=None	Number[psor]=Sing	Person[psor]=3
+NOUN	Case=Loc	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+DET	Case=Acc	Definite=Ind	PronType=Ind
+PRON	Case=Ill	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Rcp
+PRON	Case=Acc	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	Reflex=Yes
+VERB	Definite=Ind	Mood=Pot	Number=Plur	Person=1	Tense=Past	VerbForm=Fin	Voice=Act
+PRON	Case=Del	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Rel
+AUX	Definite=Ind	Mood=Cnd	Number=Sing	Person=3	Tense=Pres	Voice=Act
+PRON	Case=Acc	Number=Plur	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Ind
+NOUN	Case=Ter	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+PRON	Case=Ela	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Rel
+X	_
+VERB	Definite=Def	Mood=Cnd	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+NOUN	Case=Gen	Number=Plur	Number[psed]=None	Number[psor]=Sing	Person[psor]=3
+AUX	Definite=Ind	Mood=Imp	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+NUM	Case=Del	Number=Sing	Number[psed]=None	Number[psor]=None	NumType=Card	Person[psor]=None
+PRON	Case=Nom	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Neg
+ADJ	Case=Tra	Degree=Cmp	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+VERB	Definite=Ind	Mood=Ind	Number=Plur	Person=1	Tense=Past	VerbForm=Fin	Voice=Act
+ADV	Degree=Pos	PronType=Dem
+PRON	Case=Nom	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Int
+PRON	Case=Del	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Dem
+VERB	Definite=Ind	Mood=Cnd,Pot	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+NOUN	Case=Ade	Number=Sing	Number[psed]=None	Number[psor]=Sing	Person[psor]=3
+PRON	Case=Acc	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Rel
+PRON	Case=Ill	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Neg
+VERB	Definite=Def	Mood=Imp	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Aspect=Iter	Definite=Def	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+PRON	Case=Nom	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	Reflex=Yes
+NOUN	Case=Ine	Number=Plur	Number[psed]=None	Number[psor]=Sing	Person[psor]=3
+VERB	Definite=Def	Mood=Cnd,Pot	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Ine	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Rel
+ADJ	Case=Sub	Degree=Pos	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+PRON	Case=Dat	Number=Plur	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Rel
+PRON	Case=Nom	Number=Plur	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Rel
+AUX	Definite=Ind	Mood=Ind	Number=Plur	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+PRON	Case=Dat	Number=Plur	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Prs
+NOUN	Case=All	Number=Plur	Number[psed]=None	Number[psor]=Sing	Person[psor]=3
+ADJ	Case=Ess	Degree=Sup	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+VERB	Definite=Ind	Mood=Cnd	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+NOUN	Case=Dat	Number=Plur	Number[psed]=None	Number[psor]=Sing	Person[psor]=3
+PROPN	Case=Dat	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+NOUN	Case=Nom	Number=Sing	Number[psed]=Sing	Number[psor]=None	Person[psor]=None
+PRON	Case=Ins	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Prs
+ADJ	Case=Nom	Number=Plur	Number[psed]=None	Number[psor]=None	Person[psor]=None	VerbForm=PartPres
+ADJ	Case=Sub	Degree=Pos	Number=Plur	Number[psed]=None	Number[psor]=None	Person[psor]=None
+ADJ	Case=Ess	Degree=Cmp	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+ADJ	Case=Acc	Number=Plur	Number[psed]=None	Number[psor]=Sing	Person[psor]=3	VerbForm=PartPast
+VERB	Definite=Def	Mood=Pot	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Cau
+DET	Definite=Ind	PronType=Neg
+PRON	Case=Ins	Number=Plur	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Prs
+NOUN	Case=Nom	Number=Sing	Number[psed]=None	Number[psor]=Sing	Person[psor]=1
+NOUN	Case=Ter	Number=Sing	Number[psed]=None	Number[psor]=Sing	Person[psor]=3
+PRON	Case=Sup	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Prs
+VERB	Definite=Def	Mood=Pot	Number=Sing	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+PRON	Case=Nom	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Ind
+PRON	Case=Del	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Ind
+VERB	Definite=Def	Mood=Pot	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+PROPN	Case=Acc	Number=Sing	Number[psed]=None	Number[psor]=Sing	Person[psor]=3
+ADJ	Case=Nom	Number=Plur	Number[psed]=None	Number[psor]=None	Person[psor]=None	VerbForm=PartPast
+PRON	Case=Cau	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Ind
+VERB	Definite=Ind	Mood=Imp	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Cau
+PRON	Case=Acc	Number=Sing	Number[psed]=Sing	Number[psor]=None	Person=3	Person[psor]=None	Reflex=Yes
+ADJ	Case=Acc	Number=Plur	Number[psed]=None	Number[psor]=None	Person[psor]=None	VerbForm=PartPast
+NOUN	Case=Dat	Number=Sing	Number[psed]=None	Number[psor]=Plur	Person[psor]=1
+PROPN	Case=Cau	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+ADJ	Case=Abs	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None	VerbForm=PartPres
+PRON	Case=Acc	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Tot
+PRON	Case=Dat	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Rcp
+NOUN	Case=Ine	Number=Sing	Number[psed]=None	Number[psor]=Plur	Person[psor]=3
+VERB	Definite=Def	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Cau
+NOUN	Case=Nom	Number=Sing	Number[psed]=None	Number[psor]=Plur	Person[psor]=1
+NOUN	Case=Ess	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+NOUN	Case=Ter	Number=Plur	Number[psed]=None	Number[psor]=None	Person[psor]=None
+NUM	Case=Tem	Number=Sing	Number[psed]=None	Number[psor]=None	NumType=Card	Person[psor]=None
+PRON	Case=Acc	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Prs
+INTJ	_
+DET	Case=Ine	Number=Plur	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Dem
+VERB	Number=Plur	Person=1	VerbForm=Inf	Voice=Act
+PRON	Case=Sub	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	Reflex=Yes
+AUX	Definite=Ind	Mood=Pot	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+PROPN	Case=All	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+PROPN	Case=Ter	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+PRON	Case=Dat	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Tot
+VERB	Definite=Ind	Mood=Ind	Number=Sing	Person=1	Tense=Past	VerbForm=Fin	Voice=Act
+VERB	Definite=Def	Mood=Ind	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+NOUN	Case=Sub	Number=Sing	Number[psed]=None	Number[psor]=Sing	Person[psor]=1
+PRON	Case=Acc	Number=Plur	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Dem
+PRON	Case=Dat	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Rel
+PRON	Case=Gen	Number=Sing	Number[psed]=None	Number[psor]=Sing	Person=3	Person[psor]=3	PronType=Ind
+PRON	Case=Ins	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Rel
+AUX	Definite=Ind	Mood=Ind	Number=Plur	Person=3	Tense=Pres	Voice=Act
+PRON	Case=Abl	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Dem
+PRON	Case=Sup	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Dem
+PRON	Case=Ela	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Int
+PRON	Case=Acc	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Neg
+PRON	Case=Sub	Number=Plur	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Prs
+AUX	Definite=Ind	Mood=Imp	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Definite=Def	Mood=Ind	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Cau
+AUX	Definite=Ind	Mood=Cnd	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Acc	Number=Plur	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Rel
+VERB	Definite=Ind	Mood=Cnd	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+ADJ	Case=Nom	Degree=Pos	Number=Sing	Number[psed]=None	Number[psor]=Sing	Person[psor]=3
+ADJ	Case=Sub	Degree=Pos	Number=Sing	Number[psed]=None	Number[psor]=Sing	Person[psor]=3
+DET	Definite=Def	PronType=Prs
+PRON	Case=Ill	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Prs
+PRON	Case=Ine	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Dem
+NOUN	Case=Ill	Number=Sing	Number[psed]=None	Number[psor]=Sing	Person[psor]=3
+PROPN	Case=Del	Number=Sing	Number[psed]=None	Number[psor]=Sing	Person[psor]=3
+DET	Case=Acc	Number=Plur	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Dem
+VERB	Definite=Def	Mood=Ind	Number=Sing	Person=1	Tense=Past	VerbForm=Fin	Voice=Act
+AUX	Definite=Ind	Mood=Ind	Number=Sing	Person=1	Tense=Past	VerbForm=Fin	Voice=Act
+VERB	Definite=Ind	Mood=Ind	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+NOUN	Case=Ill	Number=Sing	Number[psed]=None	Number[psor]=Sing	Person[psor]=1
+VERB	Definite=Ind	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Cau
+VERB	Definite=Ind	Mood=Imp,Pot	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Nom	Number=Sing	Number[psed]=None	Number[psor]=None	Person=1	Person[psor]=None	PronType=Prs
+PRON	Case=Dat	Number=Sing	Number[psed]=None	Number[psor]=None	Person=1	Person[psor]=None	PronType=Prs
+VERB	Definite=Def	Mood=Imp	Number=Sing	Person=2	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Dat	Number=Sing	Number[psed]=Sing	Number[psor]=None	Person=3	Person[psor]=None	Reflex=Yes
+PRON	Case=Sub	Number=Sing	Number[psed]=None	Number[psor]=None	Person=1	Person[psor]=None	PronType=Prs
+PRON	Case=Ins	Number=Sing	Number[psed]=None	Number[psor]=None	Person=1	Person[psor]=None	PronType=Prs
+VERB	Definite=Def	Mood=Imp	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+NOUN	Case=Ine	Number=Sing	Number[psed]=None	Number[psor]=Sing	Person[psor]=1
+PRON	Case=Ine	Number=Sing	Number[psed]=None	Number[psor]=None	Person=1	Person[psor]=None	PronType=Prs
+VERB	Definite=Ind	Mood=Pot	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Definite=Def	Mood=Pot	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+ADJ	Case=Dat	Degree=Sup	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+PRON	Case=Acc	Number=Sing	Number[psed]=None	Number[psor]=None	Person=1	Person[psor]=None	PronType=Prs
+NOUN	Case=Cau	Number=Sing	Number[psed]=None	Number[psor]=Sing	Person[psor]=1
+PRON	Case=Ins	Number=Plur	Number[psed]=None	Number[psor]=None	Person=1	Person[psor]=None	PronType=Prs
+DET	Case=Ins	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Dem
+NOUN	Case=Ins	Number=Sing	Number[psed]=None	Number[psor]=Plur	Person[psor]=1
+PRON	Case=Acc	Number=Sing	Number[psed]=None	Number[psor]=None	Person=2	Person[psor]=None	PronType=Prs
+VERB	Definite=2	Mood=Ind	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Definite=Ind	Mood=Ind	Number=Sing	Person=2	Tense=Pres	VerbForm=Fin	Voice=Act
+DET	Case=Nom	Number=Plur	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Dem
+DET	Case=Sub	Number=Plur	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Dem
+VERB	Definite=Ind	Mood=Pot	Number=Sing	Person=1	Tense=Past	VerbForm=Fin	Voice=Act
+PRON	Case=Acc	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Ind
+NOUN	Case=All	Number=Sing	Number[psed]=None	Number[psor]=Plur	Person[psor]=3
+NOUN	Case=All	Number=Plur	Number[psed]=None	Number[psor]=None	Person[psor]=None
+DET	Case=Ela	Number=Plur	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Dem
+NOUN	Case=Abs	Number=Sing	Number[psed]=None	Number[psor]=Sing	Person[psor]=3
+DET	Case=Ine	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Dem
+PRON	Case=Ine	Number=Plur	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Rel
+PRON	Case=Nom	Number=Sing	Number[psed]=None	Number[psor]=None	Person=1	Person[psor]=None	Reflex=Yes
+DET	Case=Ins	Number=Plur	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Dem
+AUX	VerbForm=Inf	Voice=Act
+NOUN	Case=Nom	Number=Plur	Number[psed]=None	Number[psor]=Plur	Person[psor]=1
+VERB	Definite=Def	Mood=Cnd	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Definite=Def	Mood=Cnd	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+DET	Case=Ela	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Dem
+NOUN	Case=Nom	Number=Plur	Number[psed]=None	Number[psor]=Sing	Person[psor]=1
+DET	Case=All	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Dem
+NOUN	Case=Acc	Number=Sing	Number[psed]=None	Number[psor]=Sing	Person[psor]=1
+VERB	Aspect=Iter	Definite=Ind	Mood=Ind	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+PROPN	Case=Gen	Number=Sing	Number[psed]=None	Number[psor]=Sing	Person[psor]=3
+NUM	Case=Ter	Number=Sing	Number[psed]=None	Number[psor]=None	NumType=Card	Person[psor]=None
+NOUN	Case=Gen	Number=Plur	Number[psed]=None	Number[psor]=None	Person[psor]=None
+NOUN	Case=Tem	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+PRON	Case=Del	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Prs
+ADJ	Case=Acc	Degree=Pos	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+PRON	Case=Ade	Number=Plur	Number[psed]=None	Number[psor]=None	Person=1	Person[psor]=None	PronType=Prs
+NOUN	Case=Ins	Number=Plur	Number[psed]=None	Number[psor]=Sing	Person[psor]=3
+ADV	PronType=Ind
+AUX	Definite=Ind	Mood=Ind	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+DET	Case=Ill	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Dem
+DET	Definite=Def	PronType=Int
+ADJ	Case=Gen	Degree=Pos	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+PRON	Case=Dat	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Prs
+VERB	Definite=Ind	Mood=Imp	Number=Sing	Person=2	Tense=Pres	VerbForm=Fin	Voice=Act
+AUX	Definite=Ind	Mood=Ind	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+ADJ	Case=Abs	Degree=Pos	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+PROPN	Case=Nom	Number=Sing	Number[psed]=Sing	Number[psor]=None	Person[psor]=None
+NOUN	Case=Del	Number=Plur	Number[psed]=None	Number[psor]=Sing	Person[psor]=1
+NOUN	Case=Acc	Number=Plur	Number[psed]=None	Number[psor]=Sing	Person[psor]=1
+PRON	Case=Ela	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Dem
+PRON	Case=Ins	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Ind
+PROPN	Case=Acc	Number=Plur	Number[psed]=None	Number[psor]=None	Person[psor]=None
+NUM	Case=Abl	Number=Sing	Number[psed]=None	Number[psor]=None	NumType=Card	Person[psor]=None
+VERB	Definite=Def	Mood=Pot	Number=Plur	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+PROPN	Case=Dat	Number=Sing	Number[psed]=None	Number[psor]=Sing	Person[psor]=3
+PROPN	Case=Abs	Number=Sing	Number[psed]=None	Number[psor]=Sing	Person[psor]=3
+VERB	Definite=Def	Mood=Pot	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Abl	Number=Plur	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Rel
+PROPN	Case=Ela	Number=Sing	Number[psed]=None	Number[psor]=None	Person[psor]=None
+PRON	Case=Ade	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Dem
+NOUN	Case=Ela	Number=Sing	Number[psed]=None	Number[psor]=Plur	Person[psor]=1
+DET	Case=Sub	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Dem
+VERB	Definite=Def	Mood=Imp,Pot	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+DET	Definite=Def	PronType=Tot
+DET	Definite=Def	PronType=Neg
+ADJ	Case=Ins	Degree=Cmp	Number=Plur	Number[psed]=None	Number[psor]=None	Person[psor]=None
+PRON	Case=Ine	Number=Sing	Number[psed]=None	Number[psor]=Sing	Person=3	Person[psor]=3	PronType=Ind
+PRON	Case=Nom	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Rcp
+NOUN	Case=Acc	Number=Plur	Number[psed]=None	Number[psor]=Plur	Person[psor]=1
+NOUN	Case=Sup	Number=Sing	Number[psed]=None	Number[psor]=Plur	Person[psor]=3
+NUM	Case=Sub	Number=Sing	Number[psed]=None	Number[psor]=None	NumType=Card	Person[psor]=None
+PRON	Case=Ill	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Dem
+DET	Case=Dat	Number=Plur	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Dem
+AUX	Definite=Def	Mood=Ind	Number=Plur	Person=3	Tense=Pres	Voice=Act
+PRON	Case=Ins	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Tot
+PRON	Case=Abl	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	Reflex=Yes
+DET	Case=Gen	Number=Plur	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Dem
+VERB	Definite=Ind	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Fin	Voice=Cau
+NOUN	Case=Sub	Number=Sing	Number[psed]=None	Number[psor]=Plur	Person[psor]=3
+NOUN	Case=Tra	Number=Plur	Number[psed]=None	Number[psor]=Sing	Person[psor]=3
+PRON	Case=Abl	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Prs
+PRON	Case=Ill	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Tot
+PRON	Case=Del	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	Reflex=Yes
+PRON	Case=Ess	Number=Sing	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Dem
+NUM	Case=Ess	Number=Sing	Number[psed]=None	Number[psor]=None	NumType=Card	Person[psor]=None
+DET	Case=Sup	Number=Plur	Number[psed]=None	Number[psor]=None	Person=3	Person[psor]=None	PronType=Dem
+ADJ	Case=Acc	Degree=Pos	Number=Plur	Number[psed]=None	Number[psor]=None	Person[psor]=None
+ADJ	Case=Nom	Degree=Cmp	Number=Sing
+ADJ	Case=Nom	Degree=Pos	Number=Sing
+NOUN	Case=Nom	Number=Sing
+PROPN	Case=Nom	Number=Sing
+PRON	Case=Nom	Number=Sing	Person=3	PronType=Ind
+NOUN	Case=Nom	Number=Sing	Number[psor]=Sing	Person[psor]=3
+NOUN	Case=Dat	Number=Sing	Number[psor]=Sing	Person[psor]=3
+ADJ	Case=Nom	Degree=Pos	Number=Sing	VerbForm=PartPres
+NUM	Case=Ine	Number=Sing	NumType=Card
+NOUN	Case=Del	Number=Sing	Number[psor]=Sing	Person[psor]=3
+ADJ	Case=Ess	Degree=Pos	Number=Sing
+ADJ	Case=Dat	Degree=Pos	Number=Plur
+NOUN	Case=Acc	Number=Plur
+NOUN	Case=Acc	Number=Sing	Number[psor]=Sing	Person[psor]=3
+NOUN	Case=Sup	Number=Sing
+NUM	Case=Nom	Number=Sing	NumType=Card
+ADJ	Case=Nom	Degree=Pos	Number=Sing	VerbForm=PartPast
+ADJ	Case=Nom	Degree=Sup	Number=Sing
+NOUN	Case=Acc	Number=Sing
+PROPN	Case=Ine	Number=Sing
+NOUN	Case=Sup	Number=Sing	Number[psor]=Sing	Person[psor]=3
+ADJ	Case=Ade	Degree=Pos	Number=Sing
+PRON	Case=Nom	Number=Plur	Person=3	PronType=Prs
+NOUN	Case=Abl	Number=Sing
+NOUN	Case=Ins	Number=Sing	Number[psor]=Sing	Person[psor]=3
+NOUN	Case=Nom	Number=Plur
+NOUN	Case=Nom	Number=Plur	Number[psor]=Sing	Person[psor]=3
+PRON	Case=Nom	Number=Sing	Person=3	PronType=Rcp
+NOUN	Case=Ine	Number=Plur	Number[psor]=Sing	Person[psor]=3
+PRON	Case=Acc	Number=Sing	Person=3	PronType=Dem
+PROPN	Case=Sup	Number=Sing
+NOUN	Case=All	Number=Sing
+NOUN	Case=Ine	Number=Sing
+NUM	Case=Del	Number=Sing	NumType=Card
+NOUN	Case=Sub	Number=Sing
+NOUN	Case=Sub	Number=Plur
+NUM	Case=Ter	Number=Sing	NumType=Card
+NOUN	Case=Sub	Number=Sing	Number[psor]=Sing	Person[psor]=3
+PRON	Case=Sub	Number=Sing	Person=3	PronType=Dem
+NOUN	Case=All	Number=Plur
+NOUN	Case=Ela	Number=Plur
+ADJ	Case=Ess	Degree=Pos	Number=Sing	VerbForm=PartPres
+NOUN	Case=Ill	Number=Sing
+PRON	Case=Nom	Number=Sing	Person=3	PronType=Tot
+NOUN	Case=Ine	Number=Sing	Number[psor]=Sing	Person[psor]=3
+PRON	Case=Nom	Number=Sing	Person=3	PronType=Rel
+NOUN	Case=Ins	Number=Sing
+PRON	Case=Gen	Number=Sing	Person=3	PronType=Rel
+NOUN	Case=Gen	Number=Sing
+PROPN	Case=Dat	Number=Sing
+PROPN	Case=Ela	Number=Sing
+ADJ	Case=Nom	Number=Sing	NumType=Ord
+NOUN	Case=Sub	Number=Plur	Number[psor]=Sing	Person[psor]=3
+NUM	Case=Nom	Number=Sing	NumType=Frac
+NOUN	Case=Acc	Number=Plur	Number[psor]=Sing	Person[psor]=3
+PROPN	Case=Gen	Number=Sing
+NOUN	Case=Gen	Number=Sing	Number[psor]=Sing	Person[psor]=3
+PRON	Case=All	Number=Sing	Person=3	PronType=Dem
+PRON	Case=All	Number=Sing	Person=3	PronType=Rel
+PRON	Case=Nom	Number=Sing	Person=3	PronType=Prs
+PRON	Case=Acc	Number=Sing	Person=3	PronType=Rel
+PRON	Case=Ins	Number=Sing	Person=3	Reflex=Yes
+PRON	Case=Gen	Number=Sing	Person=3	PronType=Dem
+NOUN	Case=Ela	Number=Sing
+NOUN	Case=Tra	Number=Sing
+PRON	Case=Nom	Number=Sing	Person=3	PronType=Dem
+PRON	Case=Ine	Number=Sing	Person=3	PronType=Rel
+ADV	Degree=Cmp
+NOUN	Case=Abs	Number=Sing
+PRON	Case=All	Number=Sing	Person=3	PronType=Prs
+ADJ	Case=Dat	Degree=Pos	Number=Sing
+VERB	Definite=Def	Mood=Ind	Number=Plur	Person=2	Tense=Past	VerbForm=Fin	Voice=Act
+NOUN	Case=Acc	Number=Sing	Number[psor]=Sing	Person[psor]=1
+PRON	Case=Dat	Number=Plur	Person=2	PronType=Prs
+PRON	Case=All	Number=Plur	Person=3	PronType=Dem
+PRON	Case=Nom	Number=Plur	Person=3	PronType=Rel
+NOUN	Case=Gen	Number=Plur
+NOUN	Case=Dat	Number=Sing
+NOUN	Case=Dat	Number=Plur	Number[psor]=Sing	Person[psor]=3
+PRON	Case=Sup	Number=Sing	Person=3	PronType=Prs
+PRON	Case=Acc	Number=Sing	Person=3	PronType=Prs
+NOUN	Case=Cau	Number=Sing
+NOUN	Case=All	Number=Sing	Number[psor]=Sing	Person[psor]=3
+NOUN	Case=Abl	Number=Plur	Number[psor]=Sing	Person[psor]=3
+PRON	Case=Ela	Number=Sing	Person=3	PronType=Rel
+PRON	Case=Nom	Number=Sing	Person=3	Poss=Yes	PronType=Prs
+PRON	Case=Del	Number=Sing	Person=3	PronType=Dem
+NOUN	Case=Ter	Number=Sing
+NOUN	Case=Ter	Number=Sing	Number[psor]=Sing	Person[psor]=3
+PRON	Case=Dat	Number=Sing	Number[psed]=Sing	Person=3	Reflex=Yes
+NOUN	Case=Del	Number=Sing
+NOUN	Case=Ela	Number=Plur	Number[psor]=Sing	Person[psor]=3
+PROPN	Case=Ade	Number=Sing
+NOUN	Case=Ade	Number=Sing
+PRON	Case=Cau	Number=Sing	Person=3	PronType=Dem
+PROPN	Case=Acc	Number=Sing
+NOUN	Case=Ine	Number=Sing	Number[psor]=Plur	Person[psor]=3
+PROPN	Case=All	Number=Sing
+NOUN	Case=Nom	Number=Sing	Number[psed]=Sing
+NOUN	Case=Abl	Number=Sing	Number[psor]=Sing	Person[psor]=3
+PROPN	Case=Ill	Number=Sing
+PROPN	Case=Ins	Number=Sing
+NOUN	Case=Ill	Number=Plur
+PROPN	Case=Abl	Number=Sing
+PRON	Case=Acc	Number=Plur	Person=3	PronType=Dem
+NOUN	Case=Ade	Number=Plur	Number[psor]=Sing	Person[psor]=3
+ADJ	Case=Ess	Degree=Cmp	Number=Sing
+NUM	Case=Abl	Number=Sing	NumType=Card
+NOUN	Case=Ill	Number=Sing	Number[psor]=Sing	Person[psor]=3
+NOUN	Case=Nom	Number=Sing	Number[psor]=Plur	Person[psor]=3
+NOUN	Case=Ine	Number=Plur
+PRON	Case=Nom	Number=Sing	Person=3	PronType=Int
+NOUN	Case=Ade	Number=Sing	Number[psor]=Sing	Person[psor]=3
+PRON	Case=Ine	Number=Sing	Person=3	PronType=Dem
+PRON	Case=Sup	Number=Sing	Person=3	PronType=Rel
+NUM	Case=Ins	Number=Sing	NumType=Card
+AUX	Definite=Ind	Mood=Ind	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Nom	Number=Plur	Person=3	PronType=Dem
+ADJ	Case=Nom	Degree=Pos	Number=Sing	VerbForm=PartFut
+NOUN	Case=Gen	Number=Plur	Number[psor]=Sing	Person[psor]=3
+ADJ	Case=Tra	Degree=Pos	Number=Sing
+NOUN	Case=Ins	Number=Plur
+ADJ	Case=Dat	Degree=Pos	Number=Plur	VerbForm=PartPast
+NOUN	Case=Del	Number=Plur
+ADV	Degree=Sup
+NOUN	Case=Ter	Number=Plur
+PRON	Case=Ela	Number=Sing	Person=3	PronType=Dem
+NUM	Case=Acc	Number=Sing	NumType=Card
+AUX	Definite=Def	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Sub	Number=Sing	Person=3	PronType=Rel
+NUM	Case=Ine	Number=Sing	Number[psor]=Sing	NumType=Frac	Person[psor]=3
+NOUN	Case=Ade	Number=Plur
+PRON	Case=Acc	Number=Sing	Person=3	PronType=Rcp
+NUM	Case=Acc	Number=Sing	Number[psor]=Sing	NumType=Frac	Person[psor]=3
+ADJ	Case=Tra	Degree=Pos	Number=Sing	VerbForm=PartPres
+ADJ	Case=Nom	Degree=Pos	Number=Plur	VerbForm=PartPres
+NUM	Case=Sub	Number=Sing	NumType=Card
+NOUN	Case=Ela	Number=Sing	Number[psor]=Sing	Person[psor]=3
+VERB	Number=Sing	Person=3	Tense=Pres	VerbForm=Inf	Voice=Act
+ADJ	Case=All	Degree=Pos	Number=Sing
+NUM	Case=Cau	Number=Sing	NumType=Card
+NOUN	Case=Dat	Number=Plur
+ADJ	Case=Nom	Degree=Pos	Number=Sing	Number[psed]=Sing
+NUM	Case=Nom	Number=Sing	Number[psor]=Sing	NumType=Frac	Person[psor]=3
+PRON	Case=Dat	Number=Sing	Person=3	PronType=Dem
+NOUN	Case=Ess	Number=Sing
+PRON	Case=Dat	Number=Plur	Person=3	PronType=Rel
+NOUN	Case=Sup	Number=Plur
+NOUN	Case=Acc	Number=Plur	Number[psor]=Plur	Person[psor]=3
+PRON	Case=Acc	Number=Plur	Person=3	PronType=Prs
+NOUN	Case=Sup	Number=Plur	Number[psor]=Sing	Person[psor]=3
+NOUN	Case=Del	Number=Plur	Number[psor]=Sing	Person[psor]=3
+PRON	Case=Ins	Number=Sing	Person=3	PronType=Prs
+PROPN	Case=Sub	Number=Sing
+PRON	Case=Ela	Number=Plur	Person=3	PronType=Dem
+AUX	Definite=Def	Mood=Ind	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Definite=Ind	Mood=Ind	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Cau
+ADJ	Case=Nom	Degree=Pos	Number=Plur
+NOUN	Case=Nom	Number=Plur	Number[psor]=Plur	Person[psor]=3
+PRON	Case=Ins	Number=Sing	Person=3	PronType=Int
+PRON	Case=Sup	Number=Sing	Person=3	PronType=Dem
+NOUN	Case=Ins	Number=Plur	Number[psor]=Sing	Person[psor]=3
+PRON	Case=Ins	Number=Sing	Person=3	PronType=Rel
+NOUN	Case=Acc	Number=Sing	Number[psor]=Plur	Person[psor]=3
+NOUN	Case=Ine	Number=Plur	Number[psor]=Plur	Person[psor]=3
+VERB	Mood=Pot	VerbForm=Inf	Voice=Act
+PRON	Case=Ela	Number=Plur	Person=3	PronType=Prs
+PRON	Case=Ins	Number=Sing	Person=3	PronType=Dem
+NOUN	Case=Ade	Number=Sing	Number[psed]=Sing
+PROPN	Case=Acc	Number=Sing	Number[psor]=Sing	Person[psor]=3
+NOUN	Case=Abs	Number=Sing	Number[psor]=Sing	Person[psor]=3
+VERB	Definite=Def	Mood=Imp	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Cau
+VERB	Number=Plur	Person=3	Tense=Pres	VerbForm=Inf	Voice=Act
+NUM	Case=Ela	Number=Sing	NumType=Card
+NUM	Case=Ess	Number=Sing	NumType=Card
+PRON	Case=Dat	Number=Plur	Person=3	Reflex=Yes
+NUM	Case=Nom	Number=Plur	NumType=Card
+NUM	Case=Sub	Number=Sing	Number[psor]=Sing	NumType=Frac	Person[psor]=3
+ADJ	Case=Sub	Degree=Pos	Number=Sing
+VERB	Definite=Ind	Mood=Imp	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Cau
+PRON	Case=Acc	Number=Plur	Person=3	Reflex=Yes
+NOUN	Case=Ade	Number=Plur	Number[psor]=Plur	Person[psor]=3
+ADJ	Case=Dat	Degree=Pos	Number=Plur	VerbForm=PartPres
+VERB	Number=Sing	Person=1	Tense=Pres	VerbForm=Inf	Voice=Act
+PRON	Case=Ine	Number=Plur	Person=3	PronType=Dem

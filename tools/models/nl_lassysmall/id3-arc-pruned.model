@@ -1,0 +1,11627 @@
+5238
+ff_0:</s>
+ff_1:ADJ_Degree=Pos
+ff_2:_
+ff_3:</s>
+ff_4:NOUN_Gender=Com|Number=Sing
+ff_5:NOUN
+ff_6:</s>
+ff_7:NULL
+ff_8:</s>
+ff_9:NULL
+ff_10:van
+ff_11:PROPN__
+ff_12:</s>
+ff_13:PROPN__
+ff_14:</s>
+ff_15:NULL
+ff_16:</s>
+ff_17:NULL
+ff_18:</s>
+ff_19:PROPN__
+ff_20:van
+ff_21:PROPN__
+ff_1:PROPN__
+ff_6:van
+ff_7:PROPN__
+ff_9:PROPN__
+ff_15:PROPN__
+ff_16:van
+ff_17:PROPN__
+ff_0:van
+ff_4:PROPN__
+ff_5:PROPN
+ff_10:</s>
+ff_11:NULL
+ff_13:NULL
+ff_19:NULL
+ff_20:</s>
+ff_21:NULL
+ff_0:,
+ff_1:PUNCT__
+ff_0:«
+ff_9:PROPN_Number=Sing
+ff_14:-
+ff_15:PUNCT__
+ff_17:NOUN_Gender=Neut|Number=Sing
+ff_0:-
+ff_1:DET_Definite=Def
+ff_1:NOUN_Gender=Neut|Number=Sing
+ff_1:PROPN_Number=Sing
+ff_0:»
+ff_0:1972
+ff_1:NUM__
+ff_1:PROPN_Gender=Neut|Number=Sing
+ff_1:VERB_VerbForm=Part
+ff_7:NOUN_Gender=Neut|Number=Sing
+ff_9:NOUN_Gender=Neut|Number=Sing
+ff_0:in
+ff_1:ADP__
+ff_4:NOUN_Gender=Neut|Number=Sing
+ff_0:eigen
+ff_4:VERB_VerbForm=Part
+ff_5:VERB
+ff_6:in
+ff_7:ADP__
+ff_8:eigen
+ff_9:ADJ_Degree=Pos
+ff_14:eigen
+ff_15:ADJ_Degree=Pos
+ff_16:in
+ff_17:ADP__
+ff_0:.
+ff_4:NUM__
+ff_5:NUM
+ff_9:ADP__
+ff_0:werd
+ff_1:AUX_Number=Sing|Tense=Past|VerbForm=Fin
+ff_0:de
+ff_11:NUM__
+ff_12:.
+ff_13:PUNCT__
+ff_18:werd
+ff_19:AUX_Number=Sing|Tense=Past|VerbForm=Fin
+ff_21:NOUN_Gender=Com|Number=Sing
+ff_1:NOUN_Gender=Com|Number=Sing
+ff_6:de
+ff_7:DET_Definite=Def
+ff_16:de
+ff_17:DET_Definite=Def
+ff_0:en
+ff_1:CCONJ__
+ff_8:in
+ff_0:algemene
+ff_14:algemene
+ff_16:algemene
+ff_17:ADJ_Degree=Pos
+ff_1:PRON_Case=Nom|Person=3|PronType=Prs
+ff_0:is
+ff_1:AUX_Number=Sing|Tense=Pres|VerbForm=Fin
+ff_0:een
+ff_1:DET_Definite=Ind
+ff_0:zonder
+ff_6:zonder
+ff_8:zonder
+ff_1:VERB_Number=Sing|Tense=Pres|VerbForm=Fin
+ff_6:vaak
+ff_7:ADJ_Degree=Pos
+ff_9:VERB_VerbForm=Inf
+ff_15:VERB_VerbForm=Inf
+ff_16:vaak
+ff_1:PROPN_Gender=Com|Number=Sing
+ff_4:VERB_VerbForm=Inf
+ff_6:en
+ff_7:CCONJ__
+ff_9:PROPN_Gender=Com|Number=Sing
+ff_15:PROPN_Gender=Com|Number=Sing
+ff_16:en
+ff_17:CCONJ__
+ff_4:PROPN_Gender=Com|Number=Sing
+ff_0:vaak
+ff_4:VERB_Number=Sing|Tense=Pres|VerbForm=Fin
+ff_10:en
+ff_11:CCONJ__
+ff_13:PROPN_Gender=Com|Number=Sing
+ff_19:PROPN_Gender=Com|Number=Sing
+ff_20:en
+ff_21:CCONJ__
+ff_0:te
+ff_1:VERB_VerbForm=Inf
+ff_7:PROPN_Gender=Com|Number=Sing
+ff_8:te
+ff_3:naam
+ff_0:naam
+ff_9:PROPN_Gender=Neut|Number=Sing
+ff_15:PROPN_Gender=Neut|Number=Sing
+ff_0:'
+ff_0:zowel
+ff_1:ADV__
+ff_3:gemeenschap
+ff_0:naar
+ff_0:gemeenschap
+ff_6:zowel
+ff_7:ADV__
+ff_8:instellingen
+ff_9:NOUN_Number=Plur
+ff_14:naar
+ff_15:ADP__
+ff_16:als
+ff_17:SCONJ__
+ff_8:politieke
+ff_14:politieke
+ff_4:ADJ_Degree=Pos
+ff_5:ADJ
+ff_0:politieke
+ff_14:de
+ff_15:DET_Definite=Def
+ff_0:als
+ff_1:SCONJ__
+ff_3:instellingen
+ff_4:NOUN_Number=Plur
+ff_0:bestuurlijke
+ff_0:instellingen
+ff_1:NOUN_Number=Plur
+ff_6:naar
+ff_8:gevestigd
+ff_9:VERB_VerbForm=Part
+ff_0:(
+ff_15:NOUN_Gender=Com|Number=Sing
+ff_0:het
+ff_6:het
+ff_15:NOUN_Gender=Neut|Number=Sing
+ff_16:het
+ff_0:)
+ff_0:die
+ff_1:PRON_PronType=Rel
+ff_3:gevestigd
+ff_0:gevestigd
+ff_6:die
+ff_7:PRON_PronType=Rel
+ff_14:zijn
+ff_15:AUX_Number=Plur|Tense=Pres|VerbForm=Fin
+ff_16:zijn
+ff_17:AUX_Number=Plur|Tense=Pres|VerbForm=Fin
+ff_0:zijn
+ff_1:AUX_Number=Plur|Tense=Pres|VerbForm=Fin
+ff_4:PROPN_Gender=Neut|Number=Sing
+ff_6:te
+ff_3:1988
+ff_8:1994
+ff_9:NUM__
+ff_0:sinds
+ff_3:1994
+ff_0:1994
+ff_6:sinds
+ff_8:sinds
+ff_0:1
+ff_0:oudste
+ff_1:ADJ_Degree=Sup
+ff_14:oudste
+ff_15:ADJ_Degree=Sup
+ff_16:oudste
+ff_17:ADJ_Degree=Sup
+ff_8:van
+ff_0:uit
+ff_3:eeuw
+ff_0:eeuw
+ff_6:uit
+ff_0:;
+ff_0:deze
+ff_1:PRON_PronType=Dem
+ff_6:deze
+ff_7:PRON_PronType=Dem
+ff_0:aan
+ff_6:aan
+ff_14:het
+ff_6:leiding
+ff_7:NOUN_Gender=Com|Number=Sing
+ff_14:van
+ff_16:leiding
+ff_17:NOUN_Gender=Com|Number=Sing
+ff_0:leiding
+ff_4:ADP__
+ff_5:ADP
+ff_11:ADP__
+ff_21:VERB_Number=Sing|Tense=Past|VerbForm=Fin
+ff_0:nieuwe
+ff_6:een
+ff_7:DET_Definite=Ind
+ff_8:richtte
+ff_9:VERB_Number=Sing|Tense=Past|VerbForm=Fin
+ff_14:nieuwe
+ff_16:nieuwe
+ff_3:richtte
+ff_4:VERB_Number=Sing|Tense=Past|VerbForm=Fin
+ff_0:zich
+ff_1:PRON_Case=Acc|Person=3|PronType=Prs|Reflex=Yes
+ff_0:minder
+ff_1:PRON_PronType=Ind
+ff_0:richtte
+ff_1:VERB_Number=Sing|Tense=Past|VerbForm=Fin
+ff_9:NOUN_Gender=Com|Number=Sing
+ff_14:zich
+ff_15:PRON_Case=Acc|Person=3|PronType=Prs|Reflex=Yes
+ff_16:minder
+ff_17:PRON_PronType=Ind
+ff_0:op
+ff_6:op
+ff_8:bestuurlijke
+ff_14:bestuurlijke
+ff_16:op
+ff_17:PROPN_Gender=Com|Number=Sing
+ff_1:ADJ_Degree=Cmp
+ff_9:ADJ_Degree=Cmp
+ff_15:ADJ_Degree=Cmp
+ff_16:een
+ff_17:DET_Definite=Ind
+ff_1:PRON_Person=3|PronType=Dem
+ff_3:leidde
+ff_0:tot
+ff_3:reeks
+ff_0:reeks
+ff_6:tot
+ff_14:een
+ff_15:DET_Definite=Ind
+ff_15:NOUN_Number=Plur
+ff_9:PROPN_Number=Plur
+ff_1:PROPN_Number=Plur
+ff_0:2006
+ff_3:bleef
+ff_0:maar
+ff_3:regering
+ff_10:regering
+ff_11:NOUN_Gender=Com|Number=Sing
+ff_18:zich
+ff_19:PRON_Case=Acc|Person=3|PronType=Prs|Reflex=Yes
+ff_20:terug
+ff_21:ADV__
+ff_0:regering
+ff_8:de
+ff_9:DET_Definite=Def
+ff_6:regering
+ff_16:terug
+ff_17:ADV__
+ff_0:terug
+ff_0:1989
+ff_6:roman
+ff_8:roman
+ff_0:roman
+ff_3:1989
+ff_0:af
+ff_3:koning
+ff_0:laatste
+ff_0:koning
+ff_0:eveneens
+ff_0:net
+ff_0:zoals
+ff_0:huidige
+ff_6:net
+ff_14:zoals
+ff_15:SCONJ__
+ff_16:huidige
+ff_6:is
+ff_7:AUX_Number=Sing|Tense=Pres|VerbForm=Fin
+ff_15:ADV__
+ff_3:2000
+ff_1:DET__
+ff_6:zijn
+ff_7:DET__
+ff_8:zijn
+ff_9:DET__
+ff_0::
+ff_0:wat
+ff_1:PRON_Person=3|PronType=Int
+ff_0:eerst
+ff_6:wat
+ff_7:PRON_Person=3|PronType=Int
+ff_14:eerst
+ff_16:eerst
+ff_0:wordt
+ff_0:nu
+ff_7:VERB_Number=Sing|Tense=Past|VerbForm=Fin
+ff_14:wordt
+ff_15:AUX_Number=Sing|Tense=Pres|VerbForm=Fin
+ff_16:nu
+ff_0:door
+ff_6:door
+ff_14:en
+ff_15:CCONJ__
+ff_6:toernooi
+ff_8:toernooi
+ff_3:toernooi
+ff_0:toernooi
+ff_4:ADV__
+ff_5:ADV
+ff_8:het
+ff_0:had
+ff_0:ze
+ff_1:PRON_Person=3|PronType=Prs
+ff_0:al
+ff_0:minister
+ff_3:minister
+ff_4:DET_Definite=Def
+ff_5:DET
+ff_0:1992
+ff_3:1992
+ff_3:hebben
+ff_4:VERB_Number=Plur|Tense=Pres|VerbForm=Fin
+ff_0:met
+ff_11:NOUN_Number=Plur
+ff_12:naam
+ff_13:NOUN_Gender=Com|Number=Sing
+ff_18:«
+ff_19:PUNCT__
+ff_20:»
+ff_21:PUNCT__
+ff_6:met
+ff_8:een
+ff_9:DET_Definite=Ind
+ff_16:met
+ff_3:stad
+ff_0:stad
+ff_0:achter
+ff_6:achter
+ff_16:achter
+ff_16:aan
+ff_18:is
+ff_19:AUX_Number=Sing|Tense=Pres|VerbForm=Fin
+ff_20:is
+ff_21:AUX_Number=Sing|Tense=Pres|VerbForm=Fin
+ff_0:andere
+ff_4:ADJ_Degree=Cmp
+ff_14:andere
+ff_16:andere
+ff_0:was
+ff_0:geworden
+ff_1:AUX_VerbForm=Part
+ff_6:hem
+ff_7:PRON_Case=Acc|Person=3|PronType=Prs
+ff_14:op
+ff_0:hem
+ff_1:PRON_Case=Acc|Person=3|PronType=Prs
+ff_8:tekenen
+ff_0:of
+ff_3:tekenen
+ff_0:hij
+ff_0:niet
+ff_0:enkele
+ff_6:enkele
+ff_8:enkele
+ff_0:kon
+ff_0:tekenen
+ff_6:of
+ff_7:SCONJ__
+ff_8:hem
+ff_9:PRON_Case=Acc|Person=3|PronType=Prs
+ff_14:hij
+ff_15:PRON_Case=Nom|Person=3|PronType=Prs
+ff_16:kon
+ff_17:AUX_Number=Sing|Tense=Past|VerbForm=Fin
+ff_0:voor
+ff_3:hem
+ff_4:PRON_Case=Acc|Person=3|PronType=Prs
+ff_5:PRON
+ff_6:voor
+ff_8:voor
+ff_0:daarom
+ff_3:garde
+ff_0:10
+ff_3:man
+ff_7:NUM__
+ff_10:man
+ff_12:man
+ff_3:10
+ff_0:man
+ff_3:sterke
+ff_6:10
+ff_8:10
+ff_0:sterke
+ff_6:man
+ff_8:man
+ff_0:jonge
+ff_0:garde
+ff_8:jonge
+ff_14:sterke
+ff_16:sterke
+ff_3:1984
+ff_0:namelijk
+ff_4:VERB_Number=Plur|Tense=Past|VerbForm=Fin
+ff_0:uiteindelijk
+ff_0:bij
+ff_6:bij
+ff_16:bij
+ff_3:1979
+ff_3:provincie
+ff_7:PROPN_Gender=Neut|Number=Sing
+ff_17:PROPN_Gender=Neut|Number=Sing
+ff_0:gelegen
+ff_6:gewest
+ff_8:gewest
+ff_3:gewest
+ff_0:gewest
+ff_3:gelegen
+ff_3:periode
+ff_0:periode
+ff_3:actief
+ff_8:was
+ff_14:in
+ff_0:dat
+ff_3:was
+ff_0:er
+ff_10:dat
+ff_11:SCONJ__
+ff_13:NOUN_Gender=Neut|Number=Sing
+ff_18:er
+ff_19:ADV__
+ff_20:er
+ff_14:werk
+ff_16:werk
+ff_6:dat
+ff_14:er
+ff_16:er
+ff_3:werk
+ff_7:PRON_Person=3|PronType=Prs
+ff_9:PRON_Person=3|PronType=Prs
+ff_0:werk
+ff_17:NUM__
+ff_15:NUM__
+ff_16:tot
+ff_0:tevens
+ff_10:periode
+ff_18:,
+ff_20:,
+ff_8:naam
+ff_8:die
+ff_9:PRON_Person=3|PronType=Dem
+ff_3:die
+ff_4:PRON_Person=3|PronType=Dem
+ff_6:als
+ff_0:onder
+ff_6:onder
+ff_19:NOUN_Gender=Com|Number=Sing
+ff_0:volgens
+ff_6:volgens
+ff_8:deze
+ff_14:deze
+ff_15:DET__
+ff_16:volgens
+ff_0:nog
+ff_3:steeds
+ff_0:steeds
+ff_6:nog
+ff_8:nog
+ff_9:ADV__
+ff_3:vijf
+ff_0:vijf
+ff_8:is
+ff_9:AUX_Number=Sing|Tense=Pres|VerbForm=Fin
+ff_0:lokale
+ff_8:lokale
+ff_3:snel
+ff_10:snel
+ff_11:ADJ_Degree=Pos
+ff_13:ADJ_Degree=Pos
+ff_19:ADJ_Degree=Pos
+ff_20:snel
+ff_21:ADJ_Degree=Pos
+ff_0:snel
+ff_6:al
+ff_8:al
+ff_6:snel
+ff_16:snel
+ff_0:zeer
+ff_14:ze
+ff_15:PRON_Person=3|PronType=Prs
+ff_16:zeer
+ff_1:SYM__
+ff_8:overwinning
+ff_14:overwinning
+ff_3:overwinning
+ff_0:overwinning
+ff_8:op
+ff_8:11
+ff_3:11
+ff_0:11
+ff_14:juli
+ff_0:juli
+ff_8:bij
+ff_10:de
+ff_20:de
+ff_3:1978
+ff_3:1972
+ff_9:X_Abbr=Yes
+ff_1:X_Abbr=Yes
+ff_3:juni
+ff_0:juni
+ff_8:dag
+ff_3:dag
+ff_0:dag
+ff_15:VERB_Number=Sing|Tense=Past|VerbForm=Fin
+ff_11:ADV__
+ff_18:het
+ff_19:PRON_Person=3|PronType=Prs
+ff_20:het
+ff_21:PRON_Person=3|PronType=Prs
+ff_17:PRON_Person=3|PronType=Prs
+ff_3:richting
+ff_0:richting
+ff_0:ook
+ff_0:over
+ff_0:weinig
+ff_6:over
+ff_8:weinig
+ff_14:weinig
+ff_16:over
+ff_0:haar
+ff_8:haar
+ff_14:haar
+ff_0:oude
+ff_6:oude
+ff_8:oude
+ff_7:SYM__
+ff_8:2004
+ff_0:vanaf
+ff_3:2004
+ff_0:2004
+ff_6:vanaf
+ff_8:vanaf
+ff_3:één
+ff_3:gewesten
+ff_0:drie
+ff_0:gewesten
+ff_16:drie
+ff_3:provincies
+ff_11:PROPN_Gender=Neut|Number=Sing
+ff_12:gewest
+ff_19:PROPN_Gender=Neut|Number=Sing
+ff_0:provincies
+ff_14:huidige
+ff_0:hoofdstedelijk
+ff_14:hoofdstedelijk
+ff_16:hoofdstedelijk
+ff_18:wordt
+ff_21:PROPN_Gender=Neut|Number=Sing
+ff_9:VERB_Number=Sing|Tense=Pres|VerbForm=Fin
+ff_15:X_Abbr=Yes
+ff_16:uit
+ff_14:al
+ff_16:al
+ff_0:verschillende
+ff_21:NOUN_Number=Plur
+ff_6:verschillende
+ff_8:verschillende
+ff_15:PROPN_Number=Sing
+ff_17:PROPN_Number=Sing
+ff_0:wel
+ff_6:ook
+ff_8:wel
+ff_14:wel
+ff_16:ook
+ff_8:broer
+ff_3:broer
+ff_0:broer
+ff_3:in
+ff_6:stad
+ff_8:stad
+ff_6:6
+ff_8:6
+ff_0:6
+ff_6:juni
+ff_8:1934
+ff_10:juni
+ff_11:PROPN_Gender=Com|Number=Sing
+ff_12:1934
+ff_13:NUM__
+ff_14:1934
+ff_16:juni
+ff_18:1934
+ff_19:NUM__
+ff_20:juni
+ff_21:PROPN_Gender=Com|Number=Sing
+ff_3:6
+ff_0:1934
+ff_3:9
+ff_0:9
+ff_8:1993
+ff_14:augustus
+ff_16:augustus
+ff_0:augustus
+ff_0:1993
+ff_0:der
+ff_0:vooral
+ff_8:bevolking
+ff_3:bevolking
+ff_18:de
+ff_19:DET_Definite=Def
+ff_21:DET_Definite=Def
+ff_0:grotendeels
+ff_8:grotendeels
+ff_14:grotendeels
+ff_0:bevolking
+ff_3:komt
+ff_6:basis
+ff_16:basis
+ff_0:basis
+ff_3:op
+ff_10:,
+ff_11:PUNCT__
+ff_0:komt
+ff_6:,
+ff_7:PUNCT__
+ff_8:.
+ff_9:PUNCT__
+ff_16:,
+ff_17:PUNCT__
+ff_7:X_Abbr=Yes
+ff_4:X_Abbr=Yes
+ff_5:X
+ff_0:1979
+ff_0:ongeveer
+ff_4:SYM__
+ff_5:SYM
+ff_6:ongeveer
+ff_14:bevolking
+ff_16:ongeveer
+ff_15:SYM__
+ff_16:is
+ff_17:AUX_Number=Sing|Tense=Pres|VerbForm=Fin
+ff_0:terwijl
+ff_6:terwijl
+ff_16:net
+ff_4:PRON_Person=3|PronType=Prs
+ff_3:deze
+ff_4:PRON_PronType=Dem
+ff_0:waren
+ff_1:AUX_Number=Plur|Tense=Past|VerbForm=Fin
+ff_0:om
+ff_6:om
+ff_3:finale
+ff_10:finale
+ff_18:ze
+ff_0:finale
+ff_8:drie
+ff_14:drie
+ff_3:eerste
+ff_10:eerste
+ff_12:eerste
+ff_0:eerste
+ff_8:als
+ff_21:VERB_VerbForm=Part
+ff_6:eerste
+ff_8:eerste
+ff_17:VERB_VerbForm=Part
+ff_3:1976
+ff_0:tegenwoordig
+ff_0:begin
+ff_6:april
+ff_8:april
+ff_0:april
+ff_3:begin
+ff_3:jaren
+ff_10:is
+ff_11:AUX_Number=Sing|Tense=Pres|VerbForm=Fin
+ff_18:jaren
+ff_19:NOUN_Number=Plur
+ff_0:vele
+ff_0:jaren
+ff_8:vele
+ff_9:PRON_PronType=Ind
+ff_14:vele
+ff_15:PRON_PronType=Ind
+ff_16:sinds
+ff_0:één
+ff_14:jaren
+ff_17:NOUN_Number=Plur
+ff_0:belangrijkste
+ff_16:belangrijkste
+ff_0:zogenaamde
+ff_8:zogenaamde
+ff_14:zogenaamde
+ff_15:VERB_VerbForm=Part
+ff_6:verreden
+ff_7:VERB_VerbForm=Part
+ff_8:verreden
+ff_0:verreden
+ff_3:niet
+ff_18:stad
+ff_20:centrum
+ff_21:NOUN_Gender=Neut|Number=Sing
+ff_3:centrum
+ff_0:centrum
+ff_0:kleine
+ff_8:waren
+ff_9:VERB_Number=Plur|Tense=Past|VerbForm=Fin
+ff_14:waren
+ff_15:VERB_Number=Plur|Tense=Past|VerbForm=Fin
+ff_3:waren
+ff_10:die
+ff_11:PRON_PronType=Rel
+ff_13:VERB_VerbForm=Inf
+ff_19:VERB_VerbForm=Inf
+ff_20:die
+ff_21:PRON_PronType=Rel
+ff_10:het
+ff_11:DET_Definite=Def
+ff_12:het
+ff_13:DET_Definite=Def
+ff_3:aan
+ff_7:NOUN_Number=Plur
+ff_14:aan
+ff_1:VERB_Number=Plur|Tense=Past|VerbForm=Fin
+ff_16:die
+ff_17:PRON_PronType=Rel
+ff_3:geven
+ff_0:wil
+ff_8:aan
+ff_3:de
+ff_3:er
+ff_3:zijn
+ff_10:zijn
+ff_11:PRON_Person=3|PronType=Prs
+ff_12:zijn
+ff_13:PRON_Person=3|PronType=Prs
+ff_3:werken
+ff_10:wil
+ff_12:frank
+ff_18:werken
+ff_20:werken
+ff_0:werken
+ff_6:wil
+ff_8:frank
+ff_14:werken
+ff_16:werken
+ff_3:frank
+ff_0:frank
+ff_0:geen
+ff_6:geen
+ff_8:geen
+ff_3:jaar
+ff_10:jaar
+ff_11:NOUN_Gender=Neut|Number=Sing
+ff_12:jaar
+ff_0:jaar
+ff_3:later
+ff_10:later
+ff_11:ADJ_Degree=Cmp
+ff_18:hij
+ff_19:PRON_Case=Nom|Person=3|PronType=Prs
+ff_21:VERB_VerbForm=Inf
+ff_0:later
+ff_6:jaar
+ff_8:jaar
+ff_3:universiteit
+ff_0:universiteit
+ff_0:ging
+ff_6:ging
+ff_7:AUX_Number=Sing|Tense=Past|VerbForm=Fin
+ff_0:hoge
+ff_8:hoge
+ff_14:hoge
+ff_8:1983
+ff_0:1983
+ff_3:alles
+ff_4:PRON_Person=3|PronType=Ind
+ff_10:alles
+ff_11:PRON_Person=3|PronType=Ind
+ff_0:alles
+ff_1:PRON_Person=3|PronType=Ind
+ff_8:naar
+ff_18:samen
+ff_20:samen
+ff_14:samen
+ff_16:samen
+ff_0:samen
+ff_6:«
+ff_8:14
+ff_14:»
+ff_0:14
+ff_6:oktober
+ff_8:2003
+ff_14:2003
+ff_16:oktober
+ff_0:oktober
+ff_3:14
+ff_0:2003
+ff_3:schilderij
+ff_6:hiervan
+ff_8:hiervan
+ff_0:hiervan
+ff_8:afgebeeld
+ff_0:afgebeeld
+ff_3:afgebeeld
+ff_8:partij
+ff_3:partij
+ff_0:partij
+ff_3:als
+ff_4:SCONJ__
+ff_5:SCONJ
+ff_0:volgt
+ff_8:museum
+ff_3:museum
+ff_0:museum
+ff_0:hebben
+ff_14:hebben
+ff_16:of
+ff_3:hen
+ff_0:hen
+ff_8:door
+ff_0:werden
+ff_6:hen
+ff_14:werden
+ff_15:AUX_Number=Plur|Tense=Past|VerbForm=Fin
+ff_16:werden
+ff_17:AUX_Number=Plur|Tense=Past|VerbForm=Fin
+ff_0:tijdens
+ff_6:tijdens
+ff_8:tijdens
+ff_20:)
+ff_0:tweede
+ff_0:vierde
+ff_8:koning
+ff_16:vierde
+ff_0:kort
+ff_3:einde
+ff_0:na
+ff_0:einde
+ff_6:kort
+ff_14:na
+ff_0:ca.
+ff_6:ca.
+ff_9:SYM__
+ff_16:ca.
+ff_17:X_Abbr=Yes
+ff_0:...
+ff_3:link
+ff_8:wet
+ff_8:werd
+ff_9:AUX_Number=Sing|Tense=Past|VerbForm=Fin
+ff_3:wet
+ff_0:wet
+ff_8:zie
+ff_17:SYM__
+ff_0:zie
+ff_7:X_Foreign=Yes
+ff_9:X_Foreign=Yes
+ff_1:X_Foreign=Yes
+ff_3:zie
+ff_0:alle
+ff_0:bestaande
+ff_6:alle
+ff_8:bestaande
+ff_14:bestaande
+ff_16:alle
+ff_17:DET__
+ff_14:één
+ff_16:één
+ff_3:politie
+ff_0:geïntegreerde
+ff_0:politie
+ff_8:politie
+ff_14:geïntegreerde
+ff_0:twee
+ff_8:twee
+ff_14:twee
+ff_8:geïntegreerde
+ff_0:zij
+ff_3:basis
+ff_0:derde
+ff_14:derde
+ff_16:derde
+ff_16:handel
+ff_0:openbare
+ff_6:openbare
+ff_8:openbare
+ff_0:buitenlandse
+ff_3:handel
+ff_0:handel
+ff_6:buitenlandse
+ff_8:buitenlandse
+ff_6:&
+ff_16:&
+ff_0:&
+ff_3:verhalen
+ff_0:verhalen
+ff_12::
+ff_18:zijn
+ff_19:AUX_Number=Plur|Tense=Pres|VerbForm=Fin
+ff_8:zoals
+ff_9:SCONJ__
+ff_3:komen
+ff_20:voor
+ff_21:ADP__
+ff_8:staatssecretaris
+ff_0:federaal
+ff_3:staatssecretaris
+ff_0:staatssecretaris
+ff_6:federaal
+ff_16:federaal
+ff_14:te
+ff_16:te
+ff_0:tegen
+ff_10:als
+ff_12:werd
+ff_13:AUX_Number=Sing|Tense=Past|VerbForm=Fin
+ff_20:niet
+ff_3:hoge
+ff_6:tegen
+ff_16:hoge
+ff_16:niet
+ff_0:daar
+ff_7:VERB_Number=Plur|Tense=Past|VerbForm=Fin
+ff_3:werd
+ff_0:volledig
+ff_8:verdeeld
+ff_14:volledig
+ff_0:verdeeld
+ff_0:meeste
+ff_14:meeste
+ff_16:meeste
+ff_16:geen
+ff_1:VERB_Number=Plur|Tense=Pres|VerbForm=Fin
+ff_3:is
+ff_8:met
+ff_0:ter
+ff_6:ter
+ff_8:bier
+ff_14:bier
+ff_16:ter
+ff_3:bier
+ff_0:bier
+ff_6:meer
+ff_7:PRON_PronType=Ind
+ff_8:meer
+ff_0:meer
+ff_3:bevindt
+ff_3:wedstrijd
+ff_3:wint
+ff_0:wedstrijd
+ff_14:eerste
+ff_16:tegen
+ff_3:verkiezingen
+ff_0:federale
+ff_0:verkiezingen
+ff_8:18
+ff_16:federale
+ff_3:18
+ff_0:18
+ff_14:mei
+ff_16:mei
+ff_0:mei
+ff_6:na
+ff_0:slechts
+ff_6:stemmen
+ff_8:stemmen
+ff_3:stemmen
+ff_0:stemmen
+ff_0:halve
+ff_8:halve
+ff_3:bekend
+ff_0:1966
+ff_6:verhalen
+ff_8:verhalen
+ff_3:1966
+ff_0:erg
+ff_3:veel
+ff_4:PRON_PronType=Ind
+ff_10:veel
+ff_11:PRON_PronType=Ind
+ff_12:veel
+ff_13:PRON_PronType=Ind
+ff_0:veel
+ff_6:erg
+ff_8:erg
+ff_6:veel
+ff_8:veel
+ff_0:omdat
+ff_6:water
+ff_8:water
+ff_10:ook
+ff_13:VERB_VerbForm=Part
+ff_18:omdat
+ff_19:SCONJ__
+ff_6:minder
+ff_8:minder
+ff_14:omdat
+ff_0:dan
+ff_3:water
+ff_0:water
+ff_3:minder
+ff_6:dan
+ff_8:dan
+ff_10:minder
+ff_12:minder
+ff_0:doordat
+ff_6:doordat
+ff_3:ging
+ff_20:door
+ff_0:hoofdstad
+ff_3:hoofdstad
+ff_8:vrouw
+ff_3:vrouw
+ff_0:vrouw
+ff_8:hebben
+ff_9:VERB_Number=Plur|Tense=Pres|VerbForm=Fin
+ff_0:hun
+ff_8:hun
+ff_14:hun
+ff_16:voor
+ff_3:staat
+ff_10:meer
+ff_12:meer
+ff_3:onder
+ff_3:geschiedenis
+ff_0:geschiedenis
+ff_8:verhaal
+ff_14:&
+ff_3:verhaal
+ff_0:korte
+ff_0:verhaal
+ff_14:korte
+ff_16:korte
+ff_3:steden
+ff_0:steden
+ff_8:graafschap
+ff_3:graafschap
+ff_0:graafschap
+ff_0:waarvan
+ff_6:waarvan
+ff_8:provincie
+ff_0:provincie
+ff_3:druk
+ff_0:druk
+ff_10:druk
+ff_16:eerste
+ff_0:bijvoorbeeld
+ff_8:delen
+ff_14:delen
+ff_3:delen
+ff_0:delen
+ff_6:andere
+ff_15:PROPN_Number=Plur
+ff_4:PROPN_Number=Plur
+ff_0:"
+ff_3:eind
+ff_0:eind
+ff_3:anders
+ff_8:eeuw
+ff_18:anders
+ff_20:anders
+ff_0:twintigste
+ff_8:twintigste
+ff_3:kwamen
+ff_0:anders
+ff_6:eind
+ff_8:liggen
+ff_9:AUX_VerbForm=Inf
+ff_14:wat
+ff_15:PRON_Person=3|PronType=Ind
+ff_0:liggen
+ff_1:AUX_VerbForm=Inf
+ff_3:gemeente
+ff_0:gemeente
+ff_3:gemeenten
+ff_0:volgende
+ff_0:gemeenten
+ff_8:deelgemeenten
+ff_14:volgende
+ff_0:deelgemeenten
+ff_3:nu
+ff_13:PROPN_Gender=Neut|Number=Sing
+ff_10:stad
+ff_18:inwoners
+ff_20:inwoners
+ff_3:telt
+ff_0:ruim
+ff_3:inwoners
+ff_0:inwoners
+ff_6:ruim
+ff_16:ruim
+ff_0:provinciale
+ff_8:provinciale
+ff_14:provinciale
+ff_6:weinig
+ff_3:gaf
+ff_10:te
+ff_13:AUX_VerbForm=Inf
+ff_19:AUX_VerbForm=Inf
+ff_20:te
+ff_6:omdat
+ff_16:ze
+ff_15:AUX_VerbForm=Inf
+ff_3:verbonden
+ff_14:als
+ff_3:beweging
+ff_0:beweging
+ff_14:14
+ff_8:1966
+ff_14:oktober
+ff_3:personages
+ff_0:personages
+ff_14:verhalen
+ff_10:personages
+ff_18:(
+ff_3:partijen
+ff_10:partijen
+ff_20:procent
+ff_0:partijen
+ff_3:procent
+ff_0:procent
+ff_14:10
+ff_10:hen
+ff_11:PRON_Case=Acc|Person=3|PronType=Prs
+ff_12:hen
+ff_13:PRON_Case=Acc|Person=3|PronType=Prs
+ff_8:hen
+ff_0:verkozen
+ff_21:VERB_Number=Sing|Tense=Pres|VerbForm=Fin
+ff_8:tot
+ff_0:academie
+ff_6:per
+ff_16:per
+ff_0:per
+ff_0:waarbij
+ff_0:schilderij
+ff_10:waarbij
+ff_12:wordt
+ff_13:AUX_Number=Sing|Tense=Pres|VerbForm=Fin
+ff_18:schilderij
+ff_19:NOUN_Gender=Neut|Number=Sing
+ff_6:waarbij
+ff_8:wordt
+ff_14:schilderij
+ff_8:vader
+ff_13:NOUN_Number=Plur
+ff_14:vader
+ff_0:vader
+ff_3:vader
+ff_3:vele
+ff_3:maakt
+ff_14:jaar
+ff_8:per
+ff_16:eigen
+ff_18:houden
+ff_21:VERB_Number=Plur|Tense=Pres|VerbForm=Fin
+ff_3:houden
+ff_0:houden
+ff_6:groenen
+ff_14:verkiezingen
+ff_3:groenen
+ff_0:groenen
+ff_16:na
+ff_6:hun
+ff_0:echter
+ff_3:leven
+ff_18:was
+ff_0:leven
+ff_8:kort
+ff_14:kort
+ff_3:augustus
+ff_10:augustus
+ff_12:markt
+ff_0:hetzelfde
+ff_8:hetzelfde
+ff_14:hetzelfde
+ff_6:augustus
+ff_8:markt
+ff_3:markt
+ff_0:markt
+ff_3:2005
+ff_10:2005
+ff_0:2005
+ff_3:ministers
+ff_0:ministers
+ff_8:regering
+ff_8:federale
+ff_0:officiële
+ff_6:officiële
+ff_8:officiële
+ff_6:naam
+ff_7:ADJ_Degree=Cmp
+ff_17:ADJ_Degree=Cmp
+ff_0:opgericht
+ff_6:14
+ff_16:14
+ff_3:opgericht
+ff_8:actief
+ff_3:wie
+ff_4:PRON_Person=3|PronType=Int
+ff_0:wie
+ff_0:25
+ff_10:wie
+ff_11:PRON_Person=3|PronType=Int
+ff_12:geweest
+ff_13:AUX_VerbForm=Part
+ff_18:25
+ff_20:waren
+ff_21:AUX_Number=Plur|Tense=Past|VerbForm=Fin
+ff_8:andere
+ff_0:actief
+ff_6:wie
+ff_8:geweest
+ff_9:AUX_VerbForm=Part
+ff_14:25
+ff_16:waren
+ff_0:geweest
+ff_10:partij
+ff_20:zetels
+ff_0:historische
+ff_8:procent
+ff_14:historische
+ff_16:historische
+ff_3:meer
+ff_14:meer
+ff_16:meer
+ff_3:federale
+ff_3:zetels
+ff_0:zetels
+ff_0:dit
+ff_8:maken
+ff_14:dit
+ff_15:PRON_Person=3|PronType=Dem
+ff_3:maken
+ff_0:vrij
+ff_6:vrij
+ff_8:vrij
+ff_6:één
+ff_8:één
+ff_0:maken
+ff_14:snel
+ff_8:dit
+ff_3:tijd
+ff_0:tijd
+ff_3:moest
+ff_20:hij
+ff_21:PRON_Case=Nom|Person=3|PronType=Prs
+ff_0:moest
+ff_16:hij
+ff_17:PRON_Case=Nom|Person=3|PronType=Prs
+ff_6:hij
+ff_7:PRON_Case=Nom|Person=3|PronType=Prs
+ff_3:dood
+ff_0:dood
+ff_9:NOUN_Number=Sing
+ff_0:des
+ff_4:NOUN_Number=Sing
+ff_1:NOUN_Number=Sing
+ff_6:des
+ff_8:des
+ff_10:op
+ff_20:op
+ff_10:basis
+ff_12:van
+ff_13:ADP__
+ff_18:van
+ff_19:ADP__
+ff_20:basis
+ff_3:leden
+ff_10:leden
+ff_18:op
+ff_0:leden
+ff_6:er
+ff_14:werd
+ff_15:AUX_Number=Sing|Tense=Past|VerbForm=Fin
+ff_16:werd
+ff_3:familie
+ff_0:koninklijke
+ff_3:kreeg
+ff_6:3
+ff_8:3
+ff_0:3
+ff_3:een
+ff_4:X_Foreign=Yes
+ff_16:vijf
+ff_3:1934
+ff_3:panelen
+ff_10:1934
+ff_18:werden
+ff_19:AUX_Number=Plur|Tense=Past|VerbForm=Fin
+ff_0:panelen
+ff_6:twee
+ff_9:ADJ_Degree=Sup
+ff_0:waarna
+ff_16:naar
+ff_6:waarna
+ff_0:--
+ff_3:1970
+ff_3:kende
+ff_0:grote
+ff_8:grote
+ff_14:grote
+ff_3:hertogdom
+ff_0:hertogdom
+ff_3:speelde
+ff_16:vanaf
+ff_0:mee
+ff_3:serie
+ff_0:serie
+ff_0:toen
+ff_14:was
+ff_16:slechts
+ff_3:lang
+ff_0:lang
+ff_0:worden
+ff_6:zoals
+ff_0:zware
+ff_6:zware
+ff_8:zware
+ff_13:VERB_Number=Sing|Tense=Pres|VerbForm=Fin
+ff_3:blijft
+ff_11:VERB_Number=Sing|Tense=Pres|VerbForm=Fin
+ff_7:VERB_Number=Sing|Tense=Pres|VerbForm=Fin
+ff_17:VERB_Number=Sing|Tense=Pres|VerbForm=Fin
+ff_0:bijna
+ff_3:altijd
+ff_11:PRON_Case=Nom|Person=3|PronType=Prs
+ff_0:altijd
+ff_6:bijna
+ff_8:bijna
+ff_3:kwam
+ff_8:begin
+ff_0:kwam
+ff_6:periode
+ff_0:zelfs
+ff_8:partijen
+ff_0:nationale
+ff_8:katholieken
+ff_16:nationale
+ff_3:katholieken
+ff_0:katholieken
+ff_8:liberalen
+ff_14:socialisten
+ff_3:socialisten
+ff_0:socialisten
+ff_3:liberalen
+ff_0:liberalen
+ff_18:eeuw
+ff_16:grote
+ff_6:name
+ff_7:NOUN_Number=Sing
+ff_8:name
+ff_0:name
+ff_3:met
+ff_19:VERB_VerbForm=Part
+ff_14:gewest
+ff_10:einde
+ff_0:20e
+ff_8:20e
+ff_6:hoge
+ff_0:opnieuw
+ff_14:regering
+ff_8:'
+ff_17:VERB_VerbForm=Inf
+ff_6:mei
+ff_8:2002
+ff_14:2002
+ff_0:2002
+ff_3:2003
+ff_0:mensen
+ff_16:mensen
+ff_11:VERB_Number=Plur|Tense=Past|VerbForm=Fin
+ff_21:VERB_Number=Plur|Tense=Past|VerbForm=Fin
+ff_17:VERB_Number=Plur|Tense=Past|VerbForm=Fin
+ff_3:overzicht
+ff_0:overzicht
+ff_8:aantal
+ff_14:aantal
+ff_3:aantal
+ff_11:SYM__
+ff_21:SYM__
+ff_0:aantal
+ff_8:inwoners
+ff_3:deel
+ff_8:toe
+ff_14:toe
+ff_0:toe
+ff_7:VERB_VerbForm=Inf
+ff_3:paneel
+ff_0:paneel
+ff_6:paneel
+ff_10:nu
+ff_16:paneel
+ff_3:oorlog
+ff_10:oorlog
+ff_0:oorlog
+ff_8:bleef
+ff_1:PRON_Person=3|PronType=Rel
+ff_11:PRON_Person=3|PronType=Rel
+ff_20:dat
+ff_21:PRON_Person=3|PronType=Rel
+ff_10:hij
+ff_0:bleef
+ff_7:PRON_Person=3|PronType=Rel
+ff_16:dat
+ff_17:PRON_Person=3|PronType=Rel
+ff_0:goed
+ff_14:goed
+ff_16:goed
+ff_8:2005
+ff_14:2005
+ff_0:algemeen
+ff_14:algemeen
+ff_16:algemeen
+ff_0:heel
+ff_14:heel
+ff_16:heel
+ff_10:er
+ff_20:zijn
+ff_21:AUX_Number=Plur|Tense=Pres|VerbForm=Fin
+ff_16:verschillende
+ff_16:deze
+ff_6:nieuwe
+ff_8:nieuwe
+ff_0:jef
+ff_0:ten
+ff_3:ten
+ff_10:met
+ff_12:met
+ff_8:1948
+ff_14:1948
+ff_0:1948
+ff_8:1950
+ff_14:1950
+ff_0:1950
+ff_3:2006
+ff_11:VERB_Number=Plur|Tense=Pres|VerbForm=Fin
+ff_13:VERB_Number=Plur|Tense=Pres|VerbForm=Fin
+ff_0:namen
+ff_7:VERB_Number=Plur|Tense=Pres|VerbForm=Fin
+ff_3:namen
+ff_16:oude
+ff_8:stadhuis
+ff_14:stadhuis
+ff_3:stadhuis
+ff_0:stadhuis
+ff_6:ze
+ff_8:geven
+ff_0:laten
+ff_0:geven
+ff_16:water
+ff_0:hier
+ff_6:hier
+ff_16:hier
+ff_0:maakt
+ff_8:schilderijen
+ff_14:ook
+ff_3:schilderijen
+ff_0:schilderijen
+ff_3:te
+ff_0:men
+ff_3:station
+ff_12:waren
+ff_13:VERB_Number=Plur|Tense=Past|VerbForm=Fin
+ff_18:men
+ff_0:station
+ff_14:men
+ff_0:reeds
+ff_16:twee
+ff_18:reeds
+ff_20:reeds
+ff_14:reeds
+ff_16:reeds
+ff_6:la
+ff_15:X_Foreign=Yes
+ff_16:la
+ff_17:X_Foreign=Yes
+ff_0:la
+ff_8:daarna
+ff_14:daarna
+ff_0:daarna
+ff_14:lokale
+ff_3:niveau
+ff_0:niveau
+ff_14:politie
+ff_0:binnen
+ff_6:binnen
+ff_16:politie
+ff_0:den
+ff_0:heeft
+ff_8:kunst
+ff_14:kunst
+ff_3:kunst
+ff_0:kunst
+ff_3:roman
+ff_3:kregen
+ff_0:vier
+ff_3:kinderen
+ff_0:kinderen
+ff_6:vier
+ff_8:vier
+ff_3:1999
+ff_3:maart
+ff_0:maart
+ff_8:1982
+ff_14:1982
+ff_0:1982
+ff_6:haar
+ff_3:mei
+ff_16:door
+ff_16:was
+ff_6:drie
+ff_3:salon
+ff_0:salon
+ff_14:des
+ff_16:des
+ff_3:1993
+ff_0:ons
+ff_1:PRON_Case=Acc|Person=1|PronType=Prs
+ff_14:ons
+ff_15:PRON_Case=Acc|Person=1|PronType=Prs
+ff_16:ons
+ff_17:PRON_Case=Acc|Person=1|PronType=Prs
+ff_14:voor
+ff_16:jaar
+ff_3:gemeenteraadsverkiezingen
+ff_0:gemeenteraadsverkiezingen
+ff_3:1982
+ff_3:hof
+ff_3:huwelijk
+ff_4:X__
+ff_0:website
+ff_3:website
+ff_0:/
+ff_8:werkte
+ff_14:werkte
+ff_0:waar
+ff_3:werkte
+ff_10:waar
+ff_8:onder
+ff_0:werkte
+ff_6:waar
+ff_10:"
+ff_18:"
+ff_0:daarbij
+ff_0:zo
+ff_0:avonturen
+ff_3:avonturen
+ff_6:zo
+ff_8:laten
+ff_14:avonturen
+ff_3:krijgt
+ff_14:frank
+ff_16:frank
+ff_3:regelmatig
+ff_0:regelmatig
+ff_8:zo
+ff_14:echter
+ff_16:regelmatig
+ff_8:ministers
+ff_6:hoogste
+ff_7:ADJ_Degree=Sup
+ff_8:hoogste
+ff_0:hoogste
+ff_14:ten
+ff_16:ten
+ff_8:km
+ff_3:km
+ff_0:km
+ff_6:echter
+ff_16:echter
+ff_3:circuit
+ff_0:circuit
+ff_0:7
+ff_14:7
+ff_16:7
+ff_14:1979
+ff_10:2006
+ff_18:alles
+ff_19:PRON_Person=3|PronType=Ind
+ff_20:alles
+ff_21:PRON_Person=3|PronType=Ind
+ff_8:volgens
+ff_14:alles
+ff_16:alles
+ff_17:PRON_Person=3|PronType=Ind
+ff_8:meeste
+ff_8:uit
+ff_14:door
+ff_3:1997
+ff_8:'t
+ff_14:familie
+ff_0:familie
+ff_0:'t
+ff_3:'t
+ff_3:nederlaag
+ff_0:nederlaag
+ff_3:km²
+ff_0:12
+ff_8:12
+ff_14:12
+ff_16:men
+ff_3:lid
+ff_3:raad
+ff_0:raad
+ff_14:bestuur
+ff_16:bestuur
+ff_0:bestuur
+ff_0:lid
+ff_11:PROPN_Number=Plur
+ff_20:politiek
+ff_3:koninkrijk
+ff_0:koninkrijk
+ff_0:vanwege
+ff_3:politiek
+ff_0:politiek
+ff_6:vanwege
+ff_3:moet
+ff_0:elke
+ff_8:elke
+ff_14:elke
+ff_3:genoemd
+ff_8:zelf
+ff_14:zelf
+ff_0:zelf
+ff_0:soms
+ff_0:groot
+ff_14:groot
+ff_16:groot
+ff_3:door
+ff_16:markt
+ff_3:1954
+ff_0:1954
+ff_3:verdeeld
+ff_0:kan
+ff_14:verschillende
+ff_3:haalde
+ff_0:groene
+ff_8:groene
+ff_0:volksvertegenwoordigers
+ff_10:2004
+ff_20:verhaal
+ff_3:verscheen
+ff_3:middelen
+ff_0:middelen
+ff_3:vervoer
+ff_3:het
+ff_3:prins
+ff_0:prins
+ff_3:plaats
+ff_0:plaats
+ff_20:ging
+ff_3:ontstond
+ff_6:1946
+ff_3:1946
+ff_0:1946
+ff_3:1958
+ff_0:1958
+ff_8:jaren
+ff_8:1960
+ff_0:1960
+ff_6:der
+ff_16:der
+ff_0:belangrijke
+ff_14:alle
+ff_16:belangrijke
+ff_3:voorzitter
+ff_0:voorzitter
+ff_8:huidige
+ff_3:huis
+ff_0:huis
+ff_6:eeuw
+ff_3:kind
+ff_8:bracht
+ff_3:bracht
+ff_14:tot
+ff_12:minister
+ff_0:bracht
+ff_8:minister
+ff_15:X__
+ff_17:X__
+ff_1:X__
+ff_3:ontstaan
+ff_8:beweging
+ff_16:politieke
+ff_14:federale
+ff_3:arrondissement
+ff_0:arrondissement
+ff_3:meerderheid
+ff_0:meerderheid
+ff_14:partijen
+ff_10:meerderheid
+ff_0:verder
+ff_10:voor
+ff_19:CCONJ__
+ff_6:verder
+ff_8:verder
+ff_3:nam
+ff_3:rol
+ff_12:rol
+ff_10:een
+ff_11:DET_Definite=Ind
+ff_20:een
+ff_21:DET_Definite=Ind
+ff_0:rol
+ff_8:rol
+ff_10:panelen
+ff_18:figuren
+ff_11:VERB_VerbForm=Part
+ff_0:figuren
+ff_18:rol
+ff_3:figuren
+ff_14:rol
+ff_0:tussen
+ff_6:tussen
+ff_8:kwamen
+ff_14:kwamen
+ff_0:kwamen
+ff_3:1973
+ff_3:1996
+ff_10:1996
+ff_0:1996
+ff_3:samen
+ff_3:gaat
+ff_10:werk
+ff_12:beter
+ff_13:ADJ_Degree=Cmp
+ff_18:beter
+ff_19:ADJ_Degree=Cmp
+ff_20:werk
+ff_0:beter
+ff_6:werk
+ff_8:beter
+ff_14:beter
+ff_6:!
+ff_8:!
+ff_0:!
+ff_8:tijd
+ff_3:album
+ff_0:album
+ff_0:rond
+ff_6:rond
+ff_14:,
+ff_0:waaronder
+ff_6:waaronder
+ff_3:goed
+ff_6:zeer
+ff_8:zeer
+ff_8:deel
+ff_0:deel
+ff_8:over
+ff_3:schreef
+ff_3:1974
+ff_10:1974
+ff_20:uit
+ff_0:1974
+ff_6:handen
+ff_8:handen
+ff_0:handen
+ff_3:uit
+ff_16:halve
+ff_8:verliest
+ff_3:verliest
+ff_0:verliest
+ff_11:VERB_VerbForm=Inf
+ff_20:kunst
+ff_3:gemeenschappen
+ff_0:gemeenschappen
+ff_3:heeft
+ff_10:gemeenschappen
+ff_0:bevoegdheden
+ff_6:cultuur
+ff_8:cultuur
+ff_3:cultuur
+ff_0:cultuur
+ff_3:bevoegdheden
+ff_8:zaken
+ff_14:onderwijs
+ff_0:onderwijs
+ff_3:zaken
+ff_0:zaken
+ff_8:gemeenten
+ff_0:19
+ff_16:19
+ff_3:1991
+ff_0:zes
+ff_6:zes
+ff_8:zes
+ff_3:hoog
+ff_3:doek
+ff_10:doek
+ff_12:blijft
+ff_0:doek
+ff_6:doek
+ff_8:blijft
+ff_10:terwijl
+ff_12:liggen
+ff_3:liggen
+ff_0:blijft
+ff_16:onder
+ff_10:1992
+ff_4:NOUN_Gender=Com,Neut|Number=Sing
+ff_1:NOUN_Gender=Com,Neut|Number=Sing
+ff_3:titel
+ff_0:titel
+ff_6:ten
+ff_8:werken
+ff_14:tekenen
+ff_8:kon
+ff_6:leden
+ff_8:leden
+ff_14:maar
+ff_16:maar
+ff_3:had
+ff_11:X__
+ff_18:partij
+ff_3:haar
+ff_10:haar
+ff_12:haar
+ff_3:leiding
+ff_10:handen
+ff_12:handen
+ff_10:leiding
+ff_18:in
+ff_8:genoemd
+ff_0:genoemd
+ff_6:16
+ff_8:16
+ff_0:16
+ff_0:?
+ff_3:twee
+ff_10:twee
+ff_3:hadden
+ff_8:korte
+ff_3:elkaar
+ff_4:PRON_Case=Acc|PronType=Rcp
+ff_0:elkaar
+ff_1:PRON_Case=Acc|PronType=Rcp
+ff_3:geboren
+ff_12:kind
+ff_20:werd
+ff_21:AUX_Number=Sing|Tense=Past|VerbForm=Fin
+ff_0:kind
+ff_0:geboren
+ff_8:kind
+ff_12:10
+ff_18:10
+ff_3:won
+ff_14:september
+ff_16:september
+ff_0:september
+ff_14:finale
+ff_3:gebruikt
+ff_8:noorden
+ff_0:noorden
+ff_6:eerst
+ff_8:eerst
+ff_20:minister
+ff_18:met
+ff_14:met
+ff_16:economie
+ff_3:economie
+ff_0:economie
+ff_18:deel
+ff_20:organisatie
+ff_3:organisatie
+ff_0:dezelfde
+ff_0:organisatie
+ff_8:dezelfde
+ff_14:dezelfde
+ff_18:eerst
+ff_20:eerst
+ff_21:NUM__
+ff_3:voor
+ff_3:bestaande
+ff_10:in
+ff_12:bestaande
+ff_18:een
+ff_19:DET_Definite=Ind
+ff_14:later
+ff_16:later
+ff_14:eeuw
+ff_8:strips
+ff_3:strips
+ff_0:strips
+ff_7:PROPN_Number=Sing
+ff_3:vaak
+ff_20:vaak
+ff_20:deel
+ff_0:grootste
+ff_14:grootste
+ff_16:grootste
+ff_10:reeks
+ff_8:worden
+ff_9:AUX_Number=Plur|Tense=Pres|VerbForm=Fin
+ff_9:X__
+ff_0:enkel
+ff_10:enkel
+ff_20:enkel
+ff_6:enkel
+ff_16:enkel
+ff_3:2001
+ff_0:verlies
+ff_3:verlies
+ff_0:gaat
+ff_3:groep
+ff_0:groep
+ff_0:zou
+ff_8:na
+ff_10:1993
+ff_18:2003
+ff_20:weekblad
+ff_3:weekblad
+ff_0:weekblad
+ff_14:hen
+ff_15:PRON_Case=Acc|Person=3|PronType=Prs
+ff_8:rond
+ff_16:stad
+ff_20:"
+ff_0:weer
+ff_6:steeds
+ff_8:werden
+ff_9:AUX_Number=Plur|Tense=Past|VerbForm=Fin
+ff_16:steeds
+ff_3:bestaat
+ff_6:slechts
+ff_14:1
+ff_16:1
+ff_6:namelijk
+ff_16:geïntegreerde
+ff_0:2
+ff_8:2
+ff_14:2
+ff_14:die
+ff_14:tijd
+ff_0:meest
+ff_6:meest
+ff_8:meest
+ff_10:16
+ff_12:16
+ff_3:helft
+ff_0:helft
+ff_16:tweede
+ff_10:helft
+ff_3:tot
+ff_8:familie
+ff_3:1921
+ff_6:zich
+ff_7:PRON_Case=Acc|Person=3|PronType=Prs|Reflex=Yes
+ff_16:beter
+ff_18:bovendien
+ff_0:bovendien
+ff_8:vaak
+ff_16:tussen
+ff_0:kunnen
+ff_16:zware
+ff_0:1975
+ff_3:1975
+ff_8:grootste
+ff_16:haar
+ff_8:groot
+ff_10:waarna
+ff_6:bestuurlijke
+ff_8:laatste
+ff_14:laatste
+ff_14:zij
+ff_16:zij
+ff_18:mensen
+ff_3:mensen
+ff_6:vele
+ff_6:vooral
+ff_13:X_Foreign=Yes
+ff_19:X_Foreign=Yes
+ff_10:eeuw
+ff_0:hele
+ff_16:hele
+ff_20:vooral
+ff_16:vooral
+ff_3:programma
+ff_0:programma
+ff_6:mee
+ff_0:waarin
+ff_10:waarin
+ff_6:waarin
+ff_3:studio
+ff_0:studio
+ff_8:er
+ff_8:2006
+ff_14:2006
+ff_10:provincie
+ff_10:of
+ff_18:meer
+ff_19:PRON_PronType=Ind
+ff_20:of
+ff_12:eerst
+ff_3:zorgde
+ff_8:ca.
+ff_14:ca.
+ff_10:kwam
+ff_11:VERB_Number=Sing|Tense=Past|VerbForm=Fin
+ff_12:kwam
+ff_13:VERB_Number=Sing|Tense=Past|VerbForm=Fin
+ff_6:kwam
+ff_8:kwam
+ff_3:kaart
+ff_12:staan
+ff_0:kaart
+ff_3:staan
+ff_8:staan
+ff_0:staan
+ff_6:kaart
+ff_16:kaart
+ff_18:uit
+ff_14:uit
+ff_14:meerderheid
+ff_16:meerderheid
+ff_8:steden
+ff_14:steden
+ff_8:volgende
+ff_3:1990
+ff_8:oktober
+ff_6:1991
+ff_8:1991
+ff_10:1991
+ff_12:1991
+ff_0:1991
+ff_3:oktober
+ff_3:16
+ff_14:zes
+ff_16:zes
+ff_3:onderzoek
+ff_20:houden
+ff_8:gemeenschapscommissie
+ff_3:gemeenschapscommissie
+ff_0:gemeenschapscommissie
+ff_6:1
+ff_8:1
+ff_3:1
+ff_8:carrière
+ff_3:carrière
+ff_0:carrière
+ff_14:begin
+ff_16:wordt
+ff_11:PRON_Person=3|PronType=Dem
+ff_18:heeft
+ff_20:2000
+ff_0:2000
+ff_14:partij
+ff_3:eigen
+ff_12:geworden
+ff_18:eigen
+ff_21:AUX_VerbForm=Inf
+ff_6:heel
+ff_8:heel
+ff_8:geworden
+ff_17:AUX_VerbForm=Inf
+ff_3:1998
+ff_0:1998
+ff_6:dit
+ff_16:mee
+ff_3:verreden
+ff_10:wedstrijd
+ff_20:jaarlijks
+ff_3:jaarlijks
+ff_6:uitzondering
+ff_16:uitzondering
+ff_0:uitzondering
+ff_20:tot
+ff_0:beide
+ff_8:beide
+ff_14:beide
+ff_0:jaarlijks
+ff_3:kerk
+ff_0:kerk
+ff_8:klooster
+ff_3:klooster
+ff_20:kerk
+ff_0:klooster
+ff_0:1980
+ff_3:1980
+ff_3:plaatsen
+ff_18:echter
+ff_0:socialistische
+ff_10:aantal
+ff_12:aantal
+ff_6:socialistische
+ff_8:socialistische
+ff_6:aantal
+ff_0:gedurende
+ff_20:jaar
+ff_6:gedurende
+ff_16:gedurende
+ff_6:2006
+ff_6:niet
+ff_8:niet
+ff_18:toen
+ff_0:invloed
+ff_3:3
+ff_3:legde
+ff_10:name
+ff_11:NOUN_Number=Sing
+ff_12:name
+ff_13:NOUN_Number=Sing
+ff_0:nieuw
+ff_8:nieuw
+ff_14:nieuw
+ff_7:INTJ__
+ff_17:INTJ__
+ff_1:INTJ__
+ff_0:bekende
+ff_14:bekende
+ff_16:bekende
+ff_8:media
+ff_14:media
+ff_3:media
+ff_0:media
+ff_8:publiek
+ff_3:publiek
+ff_0:publiek
+ff_0:sociale
+ff_16:sociale
+ff_18:niet
+ff_6:inwoners
+ff_6:zetels
+ff_8:zetels
+ff_3:2
+ff_3:gekozen
+ff_8:november
+ff_14:november
+ff_0:november
+ff_8:mensen
+ff_3:7
+ff_14:februari
+ff_16:februari
+ff_0:februari
+ff_18:7
+ff_20:7
+ff_8:heeft
+ff_14:is
+ff_14:dood
+ff_18:en
+ff_3:links
+ff_10:kunst
+ff_18:altijd
+ff_8:kan
+ff_0:ooit
+ff_16:ooit
+ff_16:volgende
+ff_14:mee
+ff_0:hierdoor
+ff_6:hierdoor
+ff_8:dood
+ff_6:zelf
+ff_14:juni
+ff_8:zetten
+ff_3:zetten
+ff_0:zetten
+ff_6:kunst
+ff_0:zoon
+ff_3:zoon
+ff_3:slag
+ff_10:slag
+ff_0:slag
+ff_17:PROPN_Number=Plur
+ff_14:toen
+ff_14:om
+ff_16:laten
+ff_0:geallieerde
+ff_8:geallieerde
+ff_14:geallieerde
+ff_10:rol
+ff_6:rol
+ff_14:gebouwen
+ff_0:gebouwen
+ff_6:zelfs
+ff_8:hele
+ff_14:hele
+ff_16:zelfs
+ff_0:21
+ff_18:slag
+ff_20:slag
+ff_18:plaats
+ff_9:PRON_PronType=Dem
+ff_3:ligt
+ff_14:hoogste
+ff_16:hoogste
+ff_21:NOUN_Number=Sing
+ff_14:ter
+ff_17:NOUN_Number=Sing
+ff_3:ter
+ff_8:koninklijke
+ff_14:koninklijke
+ff_8:politiek
+ff_6:toen
+ff_6:verhaal
+ff_3:september
+ff_8:2001
+ff_14:2001
+ff_0:2001
+ff_10:september
+ff_14:waaronder
+ff_16:waaronder
+ff_14:den
+ff_16:den
+ff_18:je
+ff_19:PRON_Case=Acc|Person=2|PronType=Prs
+ff_20:nu
+ff_3:neemt
+ff_0:je
+ff_1:PRON_Case=Acc|Person=2|PronType=Prs
+ff_3:historische
+ff_8:wereld
+ff_3:wereld
+ff_0:wereld
+ff_8:binnen
+ff_18:den
+ff_3:gebouwen
+ff_8:organisatie
+ff_16:hun
+ff_10:eind
+ff_3:comics
+ff_0:comics
+ff_16:avonturen
+ff_3:nog
+ff_8:ook
+ff_3:bestuur
+ff_3:geheel
+ff_0:geheel
+ff_8:paneel
+ff_14:paneel
+ff_6:terug
+ff_14:geheel
+ff_16:kan
+ff_3:taal
+ff_0:taal
+ff_0:hoewel
+ff_6:hoewel
+ff_14:carrière
+ff_18:hier
+ff_0:staat
+ff_3:27
+ff_0:27
+ff_0:voormalige
+ff_0:pas
+ff_6:pas
+ff_14:sinds
+ff_16:pas
+ff_18:burgemeester
+ff_20:stad
+ff_8:dat
+ff_14:dat
+ff_14:burgemeester
+ff_0:burgemeester
+ff_3:burgemeester
+ff_3:verkozen
+ff_0:5
+ff_8:5
+ff_8:en
+ff_9:CCONJ__
+ff_3:en
+ff_4:CCONJ__
+ff_5:CCONJ
+ff_3:2002
+ff_10:2002
+ff_18:2004
+ff_8:albums
+ff_14:albums
+ff_3:albums
+ff_0:albums
+ff_16:vier
+ff_14:zware
+ff_20:partij
+ff_6:partij
+ff_16:partij
+ff_0:1999
+ff_0:eerder
+ff_8:eerder
+ff_14:eerder
+ff_4:AUX_Number=Sing|Tense=Past|VerbForm=Fin
+ff_5:AUX
+ff_3:coalitie
+ff_10:1999
+ff_12:coalitie
+ff_18:coalitie
+ff_20:ten
+ff_0:coalitie
+ff_6:1999
+ff_8:coalitie
+ff_14:coalitie
+ff_16:dezelfde
+ff_3:dezelfde
+ff_3:zes
+ff_3:moeder
+ff_10:moeder
+ff_0:moeder
+ff_8:maskers
+ff_0:maskers
+ff_8:sociale
+ff_14:mensen
+ff_3:1983
+ff_12:had
+ff_20:veel
+ff_21:PRON_PronType=Ind
+ff_8:had
+ff_16:veel
+ff_8:keizer
+ff_3:keizer
+ff_0:keizer
+ff_3:1971
+ff_0:1971
+ff_3:krant
+ff_0:krant
+ff_3:vinden
+ff_0:zouden
+ff_0:vinden
+ff_8:zouden
+ff_16:publiek
+ff_12:2004
+ff_14:2004
+ff_0:duidelijk
+ff_0:verscheen
+ff_6:begin
+ff_16:begin
+ff_0:naast
+ff_14:naast
+ff_16:naast
+ff_12:was
+ff_6:bevoegdheden
+ff_8:bevoegdheden
+ff_15:PRON_PronType=Dem
+ff_0:dus
+ff_6:dus
+ff_0:4
+ff_14:inwoners
+ff_3:volgt
+ff_0:lijn
+ff_6:2
+ff_3:lijn
+ff_18:lijn
+ff_20:grotendeels
+ff_8:kleine
+ff_14:lijn
+ff_16:grotendeels
+ff_0:grand
+ff_3:grand
+ff_14:vierde
+ff_16:2006
+ff_14:1991
+ff_14:stad
+ff_16:dit
+ff_0:toch
+ff_8:belangrijkste
+ff_8:abdij
+ff_3:abdij
+ff_0:abdij
+ff_18:regelmatig
+ff_20:reeks
+ff_14:enkele
+ff_13:SYM__
+ff_14:januari
+ff_16:januari
+ff_0:januari
+ff_0:euro
+ff_3:euro
+ff_0:enige
+ff_14:enige
+ff_16:enige
+ff_6:zogenaamde
+ff_0:zal
+ff_0:o.a.
+ff_16:worden
+ff_3:andere
+ff_14:zo
+ff_14:zonder
+ff_16:vanwege
+ff_3:gebied
+ff_0:gebied
+ff_12:6
+ff_18:1
+ff_6:elke
+ff_19:PRON_Case=Nom|Person=2|PronType=Prs
+ff_1:PRON_Case=Nom|Person=2|PronType=Prs
+ff_6:2004
+ff_16:albums
+ff_0:moet
+ff_14:worden
+ff_16:waarin
+ff_3:12
+ff_6:(
+ff_16:)
+ff_10:bier
+ff_3:wordt
+ff_15:VERB_Number=Plur|Tense=Pres|VerbForm=Fin
+ff_0:waardoor
+ff_10:waardoor
+ff_20:waardoor
+ff_6:waardoor
+ff_16:waardoor
+ff_3:deed
+ff_8:1946
+ff_10:bij
+ff_12:bij
+ff_3:macht
+ff_0:macht
+ff_8:grondgebied
+ff_3:grondgebied
+ff_0:grondgebied
+ff_14:macht
+ff_16:macht
+ff_3:koningin
+ff_0:koningin
+ff_8:kunnen
+ff_14:kinderen
+ff_0:internationale
+ff_8:internationale
+ff_14:internationale
+ff_14:tweede
+ff_3:1948
+ff_6:daarom
+ff_6:bestuur
+ff_8:bestuur
+ff_8:)
+ff_14:)
+ff_3:(
+ff_4:PUNCT__
+ff_5:PUNCT
+ff_20:-
+ff_6:mensen
+ff_0:hadden
+ff_8:hadden
+ff_14:hadden
+ff_16:zich
+ff_17:PRON_Case=Acc|Person=3|PronType=Prs|Reflex=Yes
+ff_0:mede
+ff_6:mede
+ff_16:mede
+ff_14:o.a.
+ff_6:ooit
+ff_4:AUX_VerbForm=Part
+ff_14:wil
+ff_0:buiten
+ff_3:wil
+ff_6:buiten
+ff_16:buiten
+ff_6:zou
+ff_8:net
+ff_3:net
+ff_8:bestaan
+ff_3:bestaan
+ff_18:vaak
+ff_0:bestaan
+ff_14:vaak
+ff_6:nu
+ff_4:ADJ_Degree=Sup
+ff_8:ter
+ff_9:PROPN_Gender=Com,Neut|Number=Sing
+ff_15:PROPN_Gender=Com,Neut|Number=Sing
+ff_1:PROPN_Gender=Com,Neut|Number=Sing
+ff_3:invloed
+ff_6:enige
+ff_6:eerder
+ff_8:kende
+ff_0:kende
+ff_8:opgericht
+ff_6:vrouw
+ff_14:richting
+ff_16:richting
+ff_3:1959
+ff_0:1959
+ff_3:verschenen
+ff_10:1959
+ff_10:museum
+ff_8:zuiden
+ff_3:zuiden
+ff_0:zuiden
+ff_8:oosten
+ff_0:oosten
+ff_3:november
+ff_20:nederlaag
+ff_8:verkiezingen
+ff_8:2007
+ff_3:2007
+ff_0:2007
+ff_14:genoemd
+ff_10:ooit
+ff_16:om
+ff_0:wint
+ff_6:school
+ff_14:regelmatig
+ff_16:weg
+ff_3:school
+ff_0:school
+ff_0:weg
+ff_8:geschiedenis
+ff_8:landbouw
+ff_3:landbouw
+ff_0:landbouw
+ff_21:X__
+ff_18:verkiezingen
+ff_3:21
+ff_3:zien
+ff_10:zoals
+ff_20:zoals
+ff_21:SCONJ__
+ff_16:zoals
+ff_0:alleen
+ff_0:via
+ff_6:via
+ff_16:via
+ff_4:DET_Definite=Ind
+ff_14:kende
+ff_16:vele
+ff_0:1962
+ff_3:bedrijven
+ff_0:bedrijven
+ff_16:bedrijven
+ff_8:moeder
+ff_8:circuit
+ff_3:moeten
+ff_20:1971
+ff_10:zou
+ff_11:AUX_Number=Sing|Tense=Past|VerbForm=Fin
+ff_16:1971
+ff_6:daarna
+ff_14:1972
+ff_8:1974
+ff_6:1973
+ff_8:1973
+ff_0:1973
+ff_6:1975
+ff_8:1984
+ff_0:1984
+ff_3:arrondissementen
+ff_14:belangrijkste
+ff_8:via
+ff_16:eeuw
+ff_3:maskers
+ff_16:zou
+ff_18:volledig
+ff_14:groene
+ff_10:door
+ff_20:%
+ff_8:pas
+ff_16:%
+ff_3:%
+ff_0:%
+ff_14:5
+ff_8:opdrachten
+ff_3:opdrachten
+ff_0:opdrachten
+ff_0:gerechtelijke
+ff_8:gerechtelijke
+ff_14:gerechtelijke
+ff_3:overheid
+ff_0:overheid
+ff_16:gerechtelijke
+ff_0:`
+ff_0:hoog
+ff_14:vrij
+ff_0:groen
+ff_8:groen
+ff_12:hij
+ff_13:PRON_Case=Nom|Person=3|PronType=Prs
+ff_18:jaar
+ff_20:was
+ff_8:hij
+ff_9:PRON_Case=Nom|Person=3|PronType=Prs
+ff_3:hij
+ff_4:PRON_Case=Nom|Person=3|PronType=Prs
+ff_18:zelfs
+ff_11:DET__
+ff_12:geboren
+ff_18:geboren
+ff_21:DET__
+ff_8:geboren
+ff_14:geboren
+ff_10:goed
+ff_12:goed
+ff_6:goed
+ff_8:goed
+ff_3:gezien
+ff_12:zaken
+ff_3:politieke
+ff_16:november
+ff_3:waar
+ff_3:laatste
+ff_18::
+ff_0:musea
+ff_6:boven
+ff_8:boven
+ff_0:boven
+ff_10:prins
+ff_18:titel
+ff_20:titel
+ff_8:hoewel
+ff_10:doordat
+ff_8:houden
+ff_0:klein
+ff_8:klein
+ff_12:moeder
+ff_18:haar
+ff_19:PRON_Case=Acc|Person=3|PronType=Prs
+ff_20:haar
+ff_21:PRON_Case=Acc|Person=3|PronType=Prs
+ff_17:PRON_Case=Acc|Person=3|PronType=Prs
+ff_16:aantal
+ff_8:km²
+ff_14:km²
+ff_0:km²
+ff_4:AUX_Number=Sing|Tense=Pres|VerbForm=Fin
+ff_6:1970
+ff_8:1970
+ff_0:1970
+ff_10:dan
+ff_12:dan
+ff_13:SCONJ__
+ff_8:socialisten
+ff_3:weg
+ff_6:reeds
+ff_8:reeds
+ff_8:garde
+ff_14:garde
+ff_16:2
+ff_3:januari
+ff_3:landen
+ff_12:werken
+ff_20:lijn
+ff_6::
+ff_16:dood
+ff_8:werk
+ff_16:maskers
+ff_6:maskers
+ff_6:weekblad
+ff_8:weekblad
+ff_3:land
+ff_0:land
+ff_14:vier
+ff_3:oppervlakte
+ff_0:oppervlakte
+ff_18:hebben
+ff_14:daar
+ff_10:tijd
+ff_20:handen
+ff_3:handen
+ff_0:internationaal
+ff_8:internationaal
+ff_10:jaren
+ff_8:«
+ff_14:«
+ff_3:«
+ff_16:»
+ff_8:spirit
+ff_3:spirit
+ff_0:spirit
+ff_8:gewesten
+ff_14:gewesten
+ff_16:gemeenschap
+ff_10:raad
+ff_18:worden
+ff_16:lokale
+ff_8:schreef
+ff_18:ook
+ff_20:ook
+ff_0:schreef
+ff_8:verbonden
+ff_14:verbonden
+ff_0:verbonden
+ff_3:deelgemeenten
+ff_14:gemeenten
+ff_3:noorden
+ff_0:landen
+ff_10:familie
+ff_0:liberale
+ff_8:liberale
+ff_14:binnen
+ff_10:over
+ff_3:alliantie
+ff_0:alliantie
+ff_0:le
+ff_12:1984
+ff_18:1984
+ff_14:1984
+ff_8:koningin
+ff_6:werd
+ff_14:kind
+ff_16:kind
+ff_3:artikel
+ff_0:artikel
+ff_14:der
+ff_10:toen
+ff_17:VERB_Number=Sing|Tense=Past|VerbForm=Fin
+ff_18:'
+ff_10:gewest
+ff_20:talen
+ff_3:talen
+ff_0:talen
+ff_14:officiële
+ff_0:bekend
+ff_14:bekend
+ff_16:bekend
+ff_20:steden
+ff_3:derde
+ff_10:ten
+ff_12:koning
+ff_18:koning
+ff_8:1990
+ff_0:1990
+ff_14:koning
+ff_3:gaan
+ff_8:zorgde
+ff_6:hebben
+ff_0:zorgde
+ff_13:ADV__
+ff_8:gaan
+ff_14:gaan
+ff_8:kinderen
+ff_0:gaan
+ff_16:binnen
+ff_3:grootste
+ff_18:zou
+ff_6:wel
+ff_8:deed
+ff_0:deed
+ff_10:nederlaag
+ff_20:geworden
+ff_21:AUX_VerbForm=Part
+ff_3:1962
+ff_6:laatste
+ff_8:februari
+ff_16:laatste
+ff_3:februari
+ff_3:1963
+ff_0:maakte
+ff_3:maakte
+ff_8:enige
+ff_6:huwelijk
+ff_8:huwelijk
+ff_0:huwelijk
+ff_8:miljoen
+ff_3:miljoen
+ff_0:miljoen
+ff_7:PRON_Person=3|PronType=Dem
+ff_8:omvat
+ff_3:omvat
+ff_0:omvat
+ff_10:2001
+ff_3:of
+ff_6:21
+ff_8:21
+ff_14:jaarlijks
+ff_8:moet
+ff_12:worden
+ff_10:gebied
+ff_7:PROPN_Number=Plur
+ff_13:PROPN_Number=Plur
+ff_10:werd
+ff_18:einde
+ff_20:einde
+ff_14:einde
+ff_16:einde
+ff_3:wat
+ff_10:wat
+ff_12:wat
+ff_13:PRON_Person=3|PronType=Ind
+ff_7:PRON_Person=3|PronType=Ind
+ff_8:wat
+ff_9:PRON_Person=3|PronType=Ind
+ff_14:niet
+ff_16:dan
+ff_3:al
+ff_19:SYM__
+ff_3:groeide
+ff_8:1972
+ff_14:1983
+ff_8:13
+ff_3:13
+ff_0:13
+ff_8:juni
+ff_3:belangrijkste
+ff_6:werden
+ff_7:AUX_Number=Plur|Tense=Past|VerbForm=Fin
+ff_16:zonder
+ff_3:1995
+ff_0:1995
+ff_18:kinderen
+ff_8:zou
+ff_8:moest
+ff_14:moest
+ff_18:licht
+ff_20:licht
+ff_3:licht
+ff_0:licht
+ff_8:duidelijk
+ff_14:duidelijk
+ff_14:licht
+ff_16:licht
+ff_6:was
+ff_18:the
+ff_20:the
+ff_21:X_Foreign=Yes
+ff_14:the
+ff_16:the
+ff_0:the
+ff_3:hier
+ff_3:geeft
+ff_10:koning
+ff_18:uiteindelijk
+ff_14:zoon
+ff_19:PRON_Case=Nom|Person=1|PronType=Prs
+ff_1:PRON_Case=Nom|Person=1|PronType=Prs
+ff_10:deze
+ff_11:PRON_PronType=Dem
+ff_12:deze
+ff_13:PRON_PronType=Dem
+ff_20:verkiezingen
+ff_10:oktober
+ff_12:1990
+ff_18:1990
+ff_20:oktober
+ff_14:6
+ff_14:1990
+ff_8:zien
+ff_17:VERB_Number=Plur|Tense=Pres|VerbForm=Fin
+ff_8:waar
+ff_3:daar
+ff_0:zien
+ff_6:daar
+ff_0:sterk
+ff_12:provincie
+ff_6:sterk
+ff_8:sterk
+ff_3:juli
+ff_10:juli
+ff_8:achter
+ff_0:economische
+ff_3:economische
+ff_16:economische
+ff_8:niveau
+ff_14:federaal
+ff_8:ruim
+ff_21:X_Abbr=Yes
+ff_8:24
+ff_14:24
+ff_0:24
+ff_8:8
+ff_14:8
+ff_0:8
+ff_3:begon
+ff_8:wedstrijd
+ff_14:belangrijke
+ff_3:wel
+ff_18:of
+ff_14:of
+ff_16:wel
+ff_14:buiten
+ff_3:30
+ff_0:30
+ff_3:1977
+ff_12:politiek
+ff_18:politiek
+ff_21:PRON_Person=3|PronType=Int
+ff_3:buitenlandse
+ff_14:buitenlandse
+ff_14:politiek
+ff_17:PRON_Person=3|PronType=Int
+ff_15:PRON_Person=1|PronType=Prs
+ff_17:PRON_Person=1|PronType=Prs
+ff_1:PRON_Person=1|PronType=Prs
+ff_14:moeder
+ff_4:PRON_Person=1|PronType=Prs
+ff_16:6
+ff_3:leger
+ff_0:leger
+ff_14:slag
+ff_0:telt
+ff_20:wat
+ff_16:wat
+ff_16:liggen
+ff_8:leidde
+ff_16:1830
+ff_3:1830
+ff_0:1830
+ff_0:leidde
+ff_8:onafhankelijkheid
+ff_14:onafhankelijkheid
+ff_3:onafhankelijkheid
+ff_0:onafhankelijkheid
+ff_0:links
+ff_14:veel
+ff_6:.
+ff_3:sterk
+ff_20:sterk
+ff_8:verkozen
+ff_8:lid
+ff_18:1982
+ff_0:begon
+ff_6:einde
+ff_16:af
+ff_8:begon
+ff_14:kon
+ff_10:groenen
+ff_8:maatschappij
+ff_3:maatschappij
+ff_0:maatschappij
+ff_14:hiervan
+ff_10:niveau
+ff_8:oppervlakte
+ff_14:oppervlakte
+ff_0:witte
+ff_8:witte
+ff_0:komen
+ff_8:leven
+ff_8:vlak
+ff_3:vlak
+ff_0:vlak
+ff_6:februari
+ff_3:25
+ff_10:1954
+ff_3:midden
+ff_0:midden
+ff_0:ontstaan
+ff_3:oosten
+ff_8:arrondissement
+ff_3:grens
+ff_0:grens
+ff_8:juli
+ff_16:elke
+ff_8:augustus
+ff_10:begin
+ff_10:1972
+ff_12:zetels
+ff_6:1972
+ff_6:7-5
+ff_16:7-5
+ff_0:7-5
+ff_3:parlement
+ff_0:parlement
+ff_6:eigen
+ff_6:wordt
+ff_10:staan
+ff_6:staan
+ff_3:van
+ff_6:later
+ff_6:5
+ff_3:5
+ff_8:won
+ff_14:1962
+ff_0:won
+ff_10:!
+ff_12:!
+ff_20:regering
+ff_20:eeuw
+ff_14:kleine
+ff_0:los
+ff_14:landbouw
+ff_8:1945
+ff_3:1945
+ff_0:1945
+ff_20:aantal
+ff_14:geen
+ff_16:enkele
+ff_16:zo
+ff_3:zo
+ff_14:tussen
+ff_18:gaan
+ff_10:huwelijk
+ff_20:plaats
+ff_3:vond
+ff_0:bestaat
+ff_3:zelf
+ff_10:onder
+ff_12:onder
+ff_10:hierdoor
+ff_12:garde
+ff_3:succes
+ff_0:succes
+ff_3:groot
+ff_8:reeks
+ff_14:reeks
+ff_10:succes
+ff_20:zo
+ff_8:komen
+ff_18:hen
+ff_0:mijn
+ff_8:mijn
+ff_14:mijn
+ff_0:ik
+ff_0:nooit
+ff_16:nooit
+ff_3:nemen
+ff_6:groene
+ff_0:nemen
+ff_6:deel
+ff_16:deel
+ff_8:alle
+ff_18:middelen
+ff_20:instellingen
+ff_3:belangrijk
+ff_8:land
+ff_14:land
+ff_16:geallieerde
+ff_8:komt
+ff_14:af
+ff_12:einde
+ff_8:einde
+ff_8:ten
+ff_10:politie
+ff_0:elk
+ff_3:trad
+ff_10:zuiden
+ff_20:zuiden
+ff_6:zuiden
+ff_16:zuiden
+ff_0:vanuit
+ff_6:vanuit
+ff_16:vanuit
+ff_8:economische
+ff_0:verschenen
+ff_12:;
+ff_18:geschiedenis
+ff_20:geschiedenis
+ff_10:volgt
+ff_12:volgt
+ff_6:volgt
+ff_8:volgt
+ff_10:albums
+ff_8:plaats
+ff_6:sport
+ff_8:sport
+ff_0:sport
+ff_6:onderwijs
+ff_8:onderzoek
+ff_10:onderwijs
+ff_12:onderzoek
+ff_3:sport
+ff_0:onderzoek
+ff_10:staat
+ff_0:neemt
+ff_6:staat
+ff_6:zaken
+ff_6:economische
+ff_16:volk
+ff_0:volk
+ff_18:liggen
+ff_12:voor
+ff_14:eind
+ff_16:eind
+ff_12:werden
+ff_13:AUX_Number=Plur|Tense=Past|VerbForm=Fin
+ff_19:PROPN_Number=Plur
+ff_21:PROPN_Number=Plur
+ff_14:voormalige
+ff_16:voormalige
+ff_18:groenen
+ff_20:moeten
+ff_4:PRON_Case=Acc|Person=3|PronType=Prs|Reflex=Yes
+ff_0:moeten
+ff_0:20
+ff_6:20
+ff_8:20
+ff_3:academie
+ff_6:daarmee
+ff_16:meteen
+ff_0:daarmee
+ff_0:meteen
+ff_18:gelegen
+ff_20:gelegen
+ff_14:gelegen
+ff_16:gelegen
+ff_8:gekozen
+ff_3:19
+ff_0:gekozen
+ff_17:PRON_Person=3|PronType=Dem
+ff_10:hebben
+ff_12:hebben
+ff_12:te
+ff_14:onder
+ff_8:ligt
+ff_14:ligt
+ff_15:VERB_Number=Sing|Tense=Pres|VerbForm=Fin
+ff_10:noorden
+ff_20:noorden
+ff_18:ten
+ff_6:noorden
+ff_16:noorden
+ff_6:km
+ff_0:ligt
+ff_18:daar
+ff_3:dan
+ff_6:4
+ff_8:4
+ff_10:naam
+ff_3:alleen
+ff_18:kan
+ff_8:1999
+ff_8:zetel
+ff_3:zetel
+ff_0:zetel
+ff_6:beide
+ff_12:2006
+ff_18:2006
+ff_14:16
+ff_10:koningin
+ff_14:leven
+ff_3:om
+ff_10:toernooi
+ff_8:lijst
+ff_3:lijst
+ff_0:lijst
+ff_12:programma
+ff_18:programma
+ff_8:programma
+ff_14:programma
+ff_16:weinig
+ff_16:verkiezingen
+ff_6:reeks
+ff_16:reeks
+ff_18:dan
+ff_0:plaatsen
+ff_6:1950
+ff_8:1971
+ff_8:1976
+ff_0:1976
+ff_16:waarvan
+ff_12:is
+ff_14:staan
+ff_16:staan
+ff_7:AUX_VerbForm=Inf
+ff_18:bleef
+ff_8:mee
+ff_8:ongeveer
+ff_6:komen
+ff_14:alleen
+ff_16:alleen
+ff_18:al
+ff_6:2005
+ff_14:maatschappij
+ff_3:profeet
+ff_10:profeet
+ff_0:profeet
+ff_8:volk
+ff_14:volk
+ff_3:volk
+ff_14:verder
+ff_0:gouden
+ff_8:gouden
+ff_10:hem
+ff_12:kinderen
+ff_20:hem
+ff_8:dochter
+ff_16:hem
+ff_3:dochter
+ff_0:dochter
+ff_3:algemeen
+ff_20:algemeen
+ff_3:art
+ff_0:art
+ff_8:art
+ff_14:art
+ff_10:station
+ff_10:gezien
+ff_0:gezien
+ff_20:'
+ff_16:groene
+ff_10:coalitie
+ff_18:partijen
+ff_16:liberalen
+ff_6:socialisten
+ff_8:groenen
+ff_6:meteen
+ff_4:PRON_Case=Nom|Person=1|PronType=Prs
+ff_8:1978
+ff_0:1978
+ff_0:openbaar
+ff_0:vervoer
+ff_14:openbaar
+ff_16:openbaar
+ff_14:vervoer
+ff_16:vervoer
+ff_3:beter
+ff_18:gaat
+ff_12:weg
+ff_18:weg
+ff_20:niveau
+ff_6:niveau
+ff_8:weg
+ff_14:weg
+ff_16:niveau
+ff_8:vooral
+ff_3:oudste
+ff_10:ze
+ff_14:heeft
+ff_8:doek
+ff_14:doek
+ff_10:1990
+ff_6:1990
+ff_6:opnieuw
+ff_12:vlak
+ff_20:zich
+ff_21:PRON_Case=Acc|Person=3|PronType=Prs|Reflex=Yes
+ff_18:centrum
+ff_19:X_Abbr=Yes
+ff_6:alles
+ff_14:klein
+ff_6:kan
+ff_8:9
+ff_16:april
+ff_6:politieke
+ff_14:slechts
+ff_10:.
+ff_0:kregen
+ff_6:plaatsen
+ff_16:plaatsen
+ff_8:nationale
+ff_8:1989
+ff_14:1989
+ff_8:der
+ff_16:geweest
+ff_17:AUX_VerbForm=Part
+ff_10:leven
+ff_12:leven
+ff_6:leven
+ff_3:nieuw
+ff_3:1960
+ff_3:1950
+ff_10:1950
+ff_8:elkaar
+ff_9:PRON_Case=Acc|PronType=Rcp
+ff_14:elkaar
+ff_15:PRON_Case=Acc|PronType=Rcp
+ff_10:1946
+ff_18:1992
+ff_14:naam
+ff_6:6-2
+ff_8:6-2
+ff_0:6-2
+ff_3:7-5
+ff_6:klein
+ff_0:oud
+ff_6:oud
+ff_20:bier
+ff_8:later
+ff_16:bier
+ff_16:tijdens
+ff_16:meest
+ff_3:schrijver
+ff_0:schrijver
+ff_8:zij
+ff_3:los
+ff_0:sp.a
+ff_3:vormen
+ff_14:oude
+ff_12:gemeenschappen
+ff_18:gemeenschappen
+ff_8:gemeenschappen
+ff_14:gemeenschappen
+ff_20:leven
+ff_8:vervoer
+ff_8:openbaar
+ff_20:cultuur
+ff_8:overheid
+ff_8:lang
+ff_3:ons
+ff_4:PRON_Case=Acc|Person=1|PronType=Prs
+ff_12:"
+ff_20:.
+ff_14:zowel
+ff_8:zoon
+ff_14:dochter
+ff_8:tweede
+ff_10:stadhuis
+ff_12:,
+ff_16:vormen
+ff_0:vormen
+ff_8:vervangen
+ff_3:vervangen
+ff_0:liet
+ff_0:vervangen
+ff_16:liet
+ff_14:1946
+ff_3:oud
+ff_16:ligt
+ff_8:comics
+ff_14:comics
+ff_8:"
+ff_3:"
+ff_16:"
+ff_14:maken
+ff_8:elk
+ff_14:bijna
+ff_16:bijna
+ff_0:1987
+ff_3:1987
+ff_10:vlak
+ff_7:PROPN_Gender=Com,Neut|Number=Sing
+ff_4:PROPN_Gender=Com,Neut|Number=Sing
+ff_8:figuren
+ff_20:waar
+ff_16:waar
+ff_20:landbouw
+ff_12:natuur
+ff_8:natuur
+ff_3:natuur
+ff_0:natuur
+ff_12:wereld
+ff_20:onderzoek
+ff_16:onderzoek
+ff_8:zich
+ff_9:PRON_Case=Acc|Person=3|PronType=Prs|Reflex=Yes
+ff_16:verhalen
+ff_20:zetten
+ff_3:kartel
+ff_0:kartel
+ff_14:miljoen
+ff_20:met
+ff_3:dit
+ff_12:tot
+ff_18:tot
+ff_6:zij
+ff_6:7
+ff_8:7
+ff_16:1998
+ff_14:deel
+ff_0:iedereen
+ff_8:nu
+ff_14:iedereen
+ff_18:schrijver
+ff_8:zal
+ff_16:rond
+ff_8:terug
+ff_10:verkiezingen
+ff_14:!
+ff_6:gewesten
+ff_8:wint
+ff_3:uitzondering
+ff_3:mol
+ff_10:land
+ff_10:plaats
+ff_3:groene
+ff_6:plaats
+ff_16:plaats
+ff_6:politiek
+ff_12:cultuur
+ff_18:alle
+ff_19:DET__
+ff_18:dus
+ff_3:sociale
+ff_18:steeds
+ff_14:zou
+ff_16:altijd
+ff_18:zetel
+ff_12:zetel
+ff_14:zetel
+ff_16:regering
+ff_20:keer
+ff_21:NOUN_Gender=Com,Neut|Number=Sing
+ff_3:stond
+ff_0:stond
+ff_16:keer
+ff_17:NOUN_Gender=Com,Neut|Number=Sing
+ff_3:keer
+ff_0:keer
+ff_8:periode
+ff_8:1975
+ff_3:onderwijs
+ff_6:overheid
+ff_8:provincies
+ff_8:30
+ff_10:werken
+ff_20:publiek
+ff_8:7-5
+ff_14:7-5
+ff_14:openbare
+ff_12:bestaan
+ff_20:gemeenschap
+ff_6:partijen
+ff_3:kleine
+ff_16:kleine
+ff_8:oorlog
+ff_18:die
+ff_19:PRON_Person=3|PronType=Dem
+ff_10:niet
+ff_12:niet
+ff_18:hem
+ff_14:hem
+ff_0:sommige
+ff_6:sommige
+ff_16:sommige
+ff_20:toen
+ff_8:sterke
+ff_16:toen
+ff_6:geven
+ff_14:halve
+ff_6:12
+ff_8:schilderij
+ff_14:1963
+ff_16:1963
+ff_0:1963
+ff_0:hoofdstedelijke
+ff_8:hoofdstedelijke
+ff_18:onderwijs
+ff_20:onderwijs
+ff_16:onderwijs
+ff_14:december
+ff_16:december
+ff_0:december
+ff_3:grote
+ff_20:grote
+ff_10:onderzoek
+ff_16:2004
+ff_3:1985
+ff_0:1985
+ff_6:vlak
+ff_14:bij
+ff_14:2007
+ff_20:periode
+ff_8:gebruikt
+ff_0:gebruikt
+ff_14:pas
+ff_8:bekende
+ff_8:macht
+ff_20:plaatsen
+ff_14:ongeveer
+ff_3:duidelijk
+ff_8:maakte
+ff_8:buiten
+ff_20:blijft
+ff_8:25
+ff_12:uit
+ff_20:succes
+ff_6:succes
+ff_16:succes
+ff_8:2000
+ff_14:2000
+ff_6:o.a.
+ff_10:7
+ff_18:liet
+ff_6:koning
+ff_16:11
+ff_8:september
+ff_14:vooral
+ff_10:1998
+ff_18:gewest
+ff_13:AUX_Number=Plur|Tense=Pres|VerbForm=Fin
+ff_8:staat
+ff_6:januari
+ff_6:gemeenschappen
+ff_14:3
+ff_10:bestuur
+ff_12:voorzitter
+ff_18:voorzitter
+ff_8:voorzitter
+ff_14:voorzitter
+ff_3:enige
+ff_12:overwinning
+ff_10:water
+ff_12:water
+ff_20:gemeenten
+ff_6:18
+ff_16:18
+ff_0:belangrijk
+ff_10:school
+ff_20:school
+ff_16:school
+ff_10:houden
+ff_12:houden
+ff_6:houden
+ff_20:rol
+ff_8:profeet
+ff_14:`
+ff_16:'
+ff_6:dochter
+ff_12:toe
+ff_21:PRON_Case=Nom|Person=2|PronType=Prs
+ff_15:PRON_Case=Nom|Person=2|PronType=Prs
+ff_17:PRON_Case=Nom|Person=2|PronType=Prs
+ff_4:PRON_Case=Nom|Person=2|PronType=Prs
+ff_16:coalitie
+ff_12:taalgebied
+ff_8:taalgebied
+ff_3:taalgebied
+ff_0:taalgebied
+ff_3:des
+ff_8:gaat
+ff_12:verder
+ff_18:verder
+ff_12:die
+ff_6:grote
+ff_20:had
+ff_16:had
+ff_6:gemeenten
+ff_20:maakt
+ff_8:nederlaag
+ff_14:nederlaag
+ff_3:zich
+ff_14:belangrijk
+ff_16:belangrijk
+ff_8:gebied
+ff_6:25
+ff_3:1965
+ff_20:salon
+ff_10:gemeente
+ff_20:ligt
+ff_0:1997
+ff_14:hoog
+ff_16:hoog
+ff_6:talen
+ff_8:talen
+ff_8:namen
+ff_8:personages
+ff_8:sommige
+ff_14:sommige
+ff_6:samen
+ff_14:kartel
+ff_10:zij
+ff_14:nog
+ff_0:diverse
+ff_14:diverse
+ff_14:maart
+ff_16:maart
+ff_14:had
+ff_18:volgende
+ff_6:9
+ff_13:PRON_Person=3|PronType=Int
+ff_12:genoemd
+ff_18:reeks
+ff_9:PRON_Person=3|PronType=Int
+ff_10:omdat
+ff_18:albums
+ff_20:albums
+ff_19:VERB_Number=Sing|Tense=Past|VerbForm=Fin
+ff_16:slag
+ff_10:1958
+ff_20:partijen
+ff_3:april
+ff_8:1998
+ff_14:1998
+ff_8:waaronder
+ff_16:nog
+ff_8:1954
+ff_14:april
+ff_10:1963
+ff_12:1963
+ff_6:1963
+ff_8:1963
+ff_16:toe
+ff_3:over
+ff_14:eveneens
+ff_16:huis
+ff_10:«
+ff_18:artikel
+ff_0:gaf
+ff_0:ondertussen
+ff_6:ondertussen
+ff_16:ondertussen
+ff_6:jaren
+ff_10:andere
+ff_12:andere
+ff_18:gemeente
+ff_18:regering
+ff_8:1959
+ff_14:1959
+ff_10:economie
+ff_20:kwam
+ff_18:ruim
+ff_6:maar
+ff_0:hof
+ff_10:hof
+ff_14:la
+ff_18:5
+ff_6:staten
+ff_8:staten
+ff_3:staten
+ff_0:staten
+ff_14:dan
+ff_16:verder
+ff_8:1977
+ff_0:1977
+ff_10:1
+ff_3:graaf
+ff_0:graaf
+ff_14:1988
+ff_16:1988
+ff_0:1988
+ff_8:succes
+ff_14:succes
+ff_8:artikel
+ff_14:artikel
+ff_6:groep
+ff_16:4
+ff_20:panelen
+ff_20:gekozen
+ff_11:X_Foreign=Yes
+ff_0:belgische
+ff_8:belgische
+ff_14:begon
+ff_8:1997
+ff_14:1997
+ff_20:steeds
+ff_8:belangrijke
+ff_18:zetels
+ff_14:zetels
+ff_8:19
+ff_8:1927
+ff_14:1927
+ff_0:1927
+ff_16:juli
+ff_6:vader
+ff_3:worden
+ff_4:AUX_Number=Plur|Tense=Pres|VerbForm=Fin
+ff_11:ADJ_Degree=Sup
+ff_13:ADJ_Degree=Sup
+ff_10:kerk
+ff_12:kerk
+ff_6:kerk
+ff_8:kerk
+ff_10:tussen
+ff_12:familie
+ff_6:natuur
+ff_16:eerder
+ff_18:noorden
+ff_10:aan
+ff_6:eveneens
+ff_8:eveneens
+ff_6:lijn
+ff_8:lijn
+ff_8:27
+ff_12:27
+ff_14:27
+ff_18:27
+ff_6:15
+ff_8:15
+ff_0:15
+ff_8:midden
+ff_14:midden
+ff_16:zogenaamde
+ff_12:verhalen
+ff_18:verhalen
+ff_14:strips
+ff_6:oppervlakte
+ff_6:titel
+ff_16:naam
+ff_7:PRON_Case=Nom|Person=2|PronType=Prs
+ff_14:zal
+ff_11:PRON_Case=Nom|Person=2|PronType=Prs
+ff_18:zal
+ff_21:PRON_Case=Acc|Person=1|PronType=Prs
+ff_16:25
+ff_3:6-2
+ff_10:2000
+ff_10:oosten
+ff_20:oosten
+ff_12:circuit
+ff_6:oosten
+ff_16:oosten
+ff_10:instellingen
+ff_20:heeft
+ff_8:taal
+ff_3:oude
+ff_10:oude
+ff_12:oude
+ff_0:financiën
+ff_3:financiën
+ff_0:externe
+ff_6:externe
+ff_8:externe
+ff_10:wet
+ff_14:jonge
+ff_8:samen
+ff_17:PRON_PronType=Dem
+ff_11:PROPN_Gender=Com,Neut|Number=Sing
+ff_6:2000
+ff_12:eeuw
+ff_20:gaan
+ff_6:kleine
+ff_18:weer
+ff_6:nieuw
+ff_12:leden
+ff_20:maar
+ff_6:financiën
+ff_3:1927
+ff_18:kunnen
+ff_6:wet
+ff_8:gemeenschap
+ff_0:6-4
+ff_3:6-4
+ff_10:dit
+ff_20:dit
+ff_7:X__
+ff_0:goede
+ff_8:goede
+ff_3:wereldoorlog
+ff_0:wereldoorlog
+ff_18:moeten
+ff_19:VERB_Number=Plur|Tense=Pres|VerbForm=Fin
+ff_10:zich
+ff_11:PRON_Case=Acc|Person=3|PronType=Prs|Reflex=Yes
+ff_20:beter
+ff_21:ADJ_Degree=Cmp
+ff_12:partijen
+ff_8:1962
+ff_6:1971
+ff_10:publiek
+ff_16:klein
+ff_20:bleef
+ff_4:PROPN_Number=Sing
+ff_6:helft
+ff_14:plaats
+ff_10:centrum
+ff_6:gebouwen
+ff_8:gebouwen
+ff_8:historische
+ff_14:kan
+ff_6:naast
+ff_6:leger
+ff_14:weer
+ff_0:krijgt
+ff_14:zaken
+ff_4:INTJ__
+ff_5:INTJ
+ff_8:gemaakt
+ff_3:gemaakt
+ff_0:gemaakt
+ff_12:koningin
+ff_20:schilderij
+ff_14:komen
+ff_16:(
+ff_16:3
+ff_6:bedrijven
+ff_8:hier
+ff_3:achter
+ff_12:leger
+ff_18:leger
+ff_8:leger
+ff_14:leger
+ff_20:won
+ff_3:belang
+ff_12:belang
+ff_0:belang
+ff_8:belang
+ff_18:zij
+ff_14:zetten
+ff_14:/
+ff_19:ADJ_Degree=Sup
+ff_14:cultuur
+ff_6:historische
+ff_3:af
+ff_3:elk
+ff_10:keer
+ff_11:NOUN_Gender=Com,Neut|Number=Sing
+ff_18:2005
+ff_20:2005
+ff_10:gemeenteraadsverkiezingen
+ff_20:in
+ff_8:oud
+ff_14:omvat
+ff_8:vijf
+ff_14:vijf
+ff_18:beweging
+ff_14:beweging
+ff_3:uitgeverij
+ff_0:uitgeverij
+ff_14:gebied
+ff_16:gebied
+ff_12:avonturen
+ff_8:avonturen
+ff_12:op
+ff_3:kamer
+ff_0:kamer
+ff_20:broer
+ff_18:%
+ff_8:gemeenteraadsverkiezingen
+ff_16:27
+ff_6:elk
+ff_16:schilderij
+ff_18:geheel
+ff_20:geheel
+ff_16:geheel
+ff_12:moeten
+ff_8:moeten
+ff_20:waarin
+ff_10:waarvan
+ff_12:richting
+ff_8:richting
+ff_16:iedereen
+ff_3:iedereen
+ff_3:verslaat
+ff_3:nummer
+ff_0:nummer
+ff_6:nummer
+ff_8:derde
+ff_16:liberale
+ff_12:land
+ff_18:land
+ff_16:officiële
+ff_16:diverse
+ff_16:beide
+ff_16:volledig
+ff_10:hoge
+ff_20:hoge
+ff_10:zo
+ff_12:zo
+ff_20:station
+ff_20::
+ff_3:liet
+ff_16:strips
+ff_16:zal
+ff_8:grens
+ff_14:grens
+ff_10:1977
+ff_18:gebouwen
+ff_6:belangrijkste
+ff_16:socialisten
+ff_6:liberalen
+ff_16:hebben
+ff_14:daarbij
+ff_16:daarbij
+ff_20:zou
+ff_8:finale
+ff_10:verhaal
+ff_12:broer
+ff_12:er
+ff_6:sp.a
+ff_8:sp.a
+ff_3:sp.a
+ff_12:schilderijen
+ff_12:meerderheid
+ff_6:meerderheid
+ff_8:meerderheid
+ff_6:bijvoorbeeld
+ff_14:4
+ff_20:helft
+ff_16:helft
+ff_14:zelfs
+ff_14:verhaal
+ff_14:lang
+ff_6:instellingen
+ff_12:september
+ff_14:staat
+ff_8:licht
+ff_6:1982
+ff_16:2003
+ff_6:vijf
+ff_16:1934
+ff_12:een
+ff_12:ronde
+ff_18:nog
+ff_20:nog
+ff_3:ronde
+ff_0:ronde
+ff_14:km
+ff_8:ronde
+ff_8:onderwijs
+ff_16:vrij
+ff_18:succes
+ff_3:nieuwe
+ff_12:nieuwe
+ff_18:nieuwe
+ff_10:duidelijk
+ff_6:duidelijk
+ff_8:om
+ff_20:men
+ff_6:september
+ff_6:verlies
+ff_16:verlies
+ff_16:witte
+ff_3:nationale
+ff_14:nationale
+ff_18:landen
+ff_18:naam
+ff_20:naam
+ff_16:vinden
+ff_14:moeten
+ff_20:ze
+ff_20:beeld
+ff_3:beeld
+ff_0:beeld
+ff_6:uiteindelijk
+ff_8:vormen
+ff_20:wel
+ff_3:kan
+ff_3:na
+ff_10:sterk
+ff_14:panelen
+ff_10:belangrijkste
+ff_10:komen
+ff_12:komen
+ff_14:prins
+ff_16:prins
+ff_14:rond
+ff_18:prins
+ff_20:prins
+ff_3:8
+ff_20:elkaar
+ff_21:PRON_Case=Acc|PronType=Rcp
+ff_16:elkaar
+ff_17:PRON_Case=Acc|PronType=Rcp
+ff_14:leden
+ff_8:1987
+ff_14:1987
+ff_8:hertog
+ff_3:hertog
+ff_0:hertog
+ff_6:finale
+ff_14:6-4
+ff_16:6-4
+ff_20:telt
+ff_8:nummer
+ff_14:vormen
+ff_12:verhaal
+ff_18:verhaal
+ff_16:finale
+ff_12:euro
+ff_8:euro
+ff_3:rijk
+ff_8:burgemeester
+ff_8:december
+ff_16:geschiedenis
+ff_3:december
+ff_8:mei
+ff_14:invloed
+ff_8:prins
+ff_14:groep
+ff_3:20
+ff_14:ik
+ff_15:PRON_Case=Nom|Person=1|PronType=Prs
+ff_18:dit
+ff_21:PRON_Person=3|PronType=Dem
+ff_14:parlement
+ff_18:bevoegdheden
+ff_14:bevoegdheden
+ff_8:raad
+ff_3:volgende
+ff_10:volgende
+ff_18:beeld
+ff_10:je
+ff_18:zien
+ff_20:zien
+ff_18:stemmen
+ff_12:maken
+ff_10:verhalen
+ff_3:verschillende
+ff_10:1966
+ff_12:periode
+ff_18:periode
+ff_14:periode
+ff_20:!
+ff_0:geeft
+ff_8:vanuit
+ff_18:werk
+ff_20:musea
+ff_3:musea
+ff_3:werden
+ff_4:AUX_Number=Plur|Tense=Past|VerbForm=Fin
+ff_8:geheel
+ff_20:13
+ff_14:daarmee
+ff_12:inwoners
+ff_20:provincie
+ff_6:provincie
+ff_16:provincie
+ff_6:juli
+ff_10:2003
+ff_6:19
+ff_15:NOUN_Number=Sing
+ff_10:1984
+ff_8:vond
+ff_0:vond
+ff_8:volksvertegenwoordigers
+ff_14:volksvertegenwoordigers
+ff_3:volksvertegenwoordigers
+ff_10:20
+ff_12:stemmen
+ff_18:deze
+ff_19:PRON_PronType=Dem
+ff_10:inwoners
+ff_12:taal
+ff_14:via
+ff_6:middelen
+ff_8:middelen
+ff_10:deel
+ff_12:deel
+ff_12:federale
+ff_18:federale
+ff_16:zouden
+ff_14:taalgebied
+ff_20:stond
+ff_14:dus
+ff_3:alle
+ff_10:alle
+ff_12:alle
+ff_8:snel
+ff_3:dat
+ff_18:staten
+ff_14:staten
+ff_8:nemen
+ff_6:alleen
+ff_8:alleen
+ff_6:hetzelfde
+ff_1:PRON_PronType=Int
+ff_7:PRON_PronType=Int
+ff_20:stemmen
+ff_10:oud
+ff_12:oud
+ff_18:ongeveer
+ff_6:twintigste
+ff_8:toen
+ff_6:soms
+ff_14:zien
+ff_14:sociale
+ff_16:16
+ff_6:december
+ff_18:had
+ff_20:gemeenteraadsverkiezingen
+ff_6:gemeenteraadsverkiezingen
+ff_16:gemeenteraadsverkiezingen
+ff_14:verkozen
+ff_6:komt
+ff_8:algemeen
+ff_8:schrijver
+ff_16:familie
+ff_12:titel
+ff_20:zij
+ff_8:titel
+ff_8:bedrijven
+ff_16:titel
+ff_10:wordt
+ff_18:ronde
+ff_20:ronde
+ff_14:ronde
+ff_16:ronde
+ff_6:lokale
+ff_12:?
+ff_20:richtte
+ff_16:parlement
+ff_20:kasteel
+ff_3:kasteel
+ff_0:kasteel
+ff_18:vrouw
+ff_20:tijd
+ff_0:speelde
+ff_14:vrouw
+ff_16:tijd
+ff_3:volledig
+ff_6:albums
+ff_0:rijk
+ff_8:parlement
+ff_6:weg
+ff_3:vier
+ff_10:vier
+ff_20:vier
+ff_14:stemmen
+ff_8:kregen
+ff_18:goed
+ff_20:wint
+ff_6:keer
+ff_7:NOUN_Gender=Com,Neut|Number=Sing
+ff_18:over
+ff_8:voormalige
+ff_3:korte
+ff_12:korte
+ff_18:korte
+ff_10:grote
+ff_12:bevolking
+ff_18:bevolking
+ff_18:leven
+ff_10:1985
+ff_18:veel
+ff_14:organisatie
+ff_16:organisatie
+ff_12:personages
+ff_6:dezelfde
+ff_6:personages
+ff_12:elkaar
+ff_13:PRON_Case=Acc|PronType=Rcp
+ff_10:circuit
+ff_0:1921
+ff_6:openbaar
+ff_16:mijn
+ff_16:blauwe
+ff_0:blauwe
+ff_6:comics
+ff_16:huwelijk
+ff_6:tijd
+ff_6:;
+ff_20:finale
+ff_10:moest
+ff_6:moest
+ff_18:beide
+ff_20:beide
+ff_8:wil
+ff_18:mee
+ff_8:kasteel
+ff_14:kasteel
+ff_14:soms
+ff_12:tijd
+ff_6:korte
+ff_18:later
+ff_18:daarbij
+ff_20:kwamen
+ff_6:invloed
+ff_16:invloed
+ff_20:natuur
+ff_16:natuur
+ff_3:enkele
+ff_8:ooit
+ff_6:gouden
+ff_16:gouden
+ff_18:dat
+ff_20:delen
+ff_18:aantal
+ff_6:politie
+ff_14:doordat
+ff_8:graaf
+ff_8:1830
+ff_20:gaf
+ff_18:handel
+ff_20:handel
+ff_14:handel
+ff_6:sterke
+ff_10:tot
+ff_12:5
+ff_3:4
+ff_8:tegen
+ff_6:maart
+ff_3:24
+ff_6:november
+ff_3:bestuurlijke
+ff_16:bestuurlijke
+ff_20:1989
+ff_16:1989
+ff_8:salon
+ff_20:geven
+ff_18:daarnaast
+ff_0:daarnaast
+ff_14:30
+ff_8:centrum
+ff_6:algemeen
+ff_6:programma
+ff_16:programma
+ff_6:men
+ff_8:belangrijk
+ff_14:gemeenschap
+ff_10:men
+ff_19:X__
+ff_3:enkel
+ff_14:.
+ff_19:VERB_Number=Sing|Tense=Pres|VerbForm=Fin
+ff_3:15
+ff_8:bevindt
+ff_14:bevindt
+ff_16:boven
+ff_0:bevindt
+ff_10:steeds
+ff_3:weinig
+ff_19:PRON_Case=Acc|PronType=Rcp
+ff_16:km²
+ff_12:krant
+ff_18:krant
+ff_8:krant
+ff_14:krant
+ff_0:1949
+ff_6:1985
+ff_8:1985
+ff_3:1949
+ff_20:leiding
+ff_6:tegenwoordig
+ff_16:tegenwoordig
+ff_10:geven
+ff_12:geven
+ff_14:boven
+ff_18:staat
+ff_12:steeds
+ff_8:steeds
+ff_14:wet
+ff_20:kind
+ff_14:hier
+ff_18:der
+ff_20:der
+ff_14:oud
+ff_16:oud
+ff_3:zij
+ff_8:1995
+ff_12:...
+ff_6:economie
+ff_20:één
+ff_18:vader
+ff_20:vader
+ff_16:vader
+ff_6:schilderijen
+ff_10:schilderijen
+ff_8:algemene
+ff_3:toen
+ff_17:PROPN_Gender=Com,Neut|Number=Sing
+ff_12:plaatsen
+ff_18:plaatsen
+ff_8:plaatsen
+ff_14:plaatsen
+ff_6:sociale
+ff_14:bestaan
+ff_14:nu
+ff_3:lam
+ff_0:lam
+ff_14:liberale
+ff_14:socialistische
+ff_8:maar
+ff_8:rijk
+ff_14:rijk
+ff_14:grondgebied
+ff_14::
+ff_10:3
+ff_12:15
+ff_16:namelijk
+ff_8:panelen
+ff_14:dag
+ff_16:dag
+ff_3:tweede
+ff_12:tweede
+ff_3:geweest
+ff_10:(
+ff_18:)
+ff_6:2002
+ff_12:leiding
+ff_8:leiding
+ff_20:gemeente
+ff_3:belangrijke
+ff_12:belangrijke
+ff_8:verslaat
+ff_10:tweede
+ff_6:tweede
+ff_0:verslaat
+ff_20:wil
+ff_11:X_Abbr=Yes
+ff_18:hiervan
+ff_12:heeft
+ff_8:eind
+ff_16:kartel
+ff_6:2003
+ff_8:serie
+ff_14:serie
+ff_12:albums
+ff_8:»
+ff_10:mei
+ff_20:mei
+ff_14:9
+ff_20:staat
+ff_10:steden
+ff_8:daar
+ff_3:zouden
+ff_12:zouden
+ff_18:belangrijke
+ff_16:24
+ff_8:handel
+ff_16:internationale
+ff_8:1992
+ff_18:waren
+ff_20:1
+ff_0:nadat
+ff_6:nadat
+ff_16:jonge
+ff_14:wereld
+ff_3:zware
+ff_12:zware
+ff_18:zware
+ff_15:AUX_VerbForm=Part
+ff_16:daar
+ff_8:grand
+ff_14:grand
+ff_6:8
+ff_10:anders
+ff_12:anders
+ff_6:anders
+ff_8:anders
+ff_12:aan
+ff_8:af
+ff_10:overwinning
+ff_3:vierde
+ff_20:1979
+ff_16:1979
+ff_12:begin
+ff_20:aan
+ff_10:na
+ff_12:één
+ff_18:één
+ff_20:na
+ff_14:vlak
+ff_14:verdeeld
+ff_3:eerder
+ff_8:winst
+ff_14:winst
+ff_0:winst
+ff_3:winst
+ff_10:winst
+ff_14:15
+ff_10:laatste
+ff_10:24
+ff_10:middelen
+ff_6:30
+ff_16:30
+ff_12:werk
+ff_14:19
+ff_8:huis
+ff_6:geheel
+ff_6:federale
+ff_6:kind
+ff_3:prinses
+ff_0:prinses
+ff_3:openbaar
+ff_12:openbaar
+ff_18:tijd
+ff_20:wordt
+ff_10:liberalen
+ff_18:grote
+ff_14:kerk
+ff_6:ministers
+ff_14:elk
+ff_18:gebied
+ff_20:gebied
+ff_3:eerst
+ff_16:gewest
+ff_3:daarna
+ff_14:20
+ff_8:prinses
+ff_10:1830
+ff_6:belang
+ff_14:1973
+ff_16:1965
+ff_0:1965
+ff_16:daarmee
+ff_8:1958
+ff_8:daarbij
+ff_18:februari
+ff_20:februari
+ff_8:belgen
+ff_14:belgen
+ff_3:belgen
+ff_0:belgen
+ff_16:kunnen
+ff_8:ze
+ff_10:hoewel
+ff_6:gemeente
+ff_16:gemeente
+ff_6:macht
+ff_14:ruim
+ff_14:centrum
+ff_16:verkozen
+ff_14:13
+ff_15:PRON_Person=3|PronType=Int
+ff_18:links
+ff_3:drie
+ff_20:alle
+ff_18:bestuur
+ff_14:economische
+ff_14:salon
+ff_14:wedstrijd
+ff_14:tijdens
+ff_10:gemeenschap
+ff_20:taal
+ff_16:taal
+ff_20:leden
+ff_16:leden
+ff_3:naar
+ff_8:stond
+ff_10:heeft
+ff_6:heeft
+ff_16:heeft
+ff_6:druk
+ff_16:druk
+ff_18:ondertussen
+ff_20:bestuur
+ff_6:volledig
+ff_8:volledig
+ff_16:nieuw
+ff_20:worden
+ff_14:terug
+ff_8:federaal
+ff_20:hen
+ff_16:hen
+ff_6:volk
+ff_20:moest
+ff_12:jaren
+ff_14:;
+ff_8:hoofdstad
+ff_14:hoofdstad
+ff_8:vinden
+ff_8:kreeg
+ff_14:kreeg
+ff_0:kreeg
+ff_12:volledig
+ff_18:nu
+ff_16:doek
+ff_18:strips
+ff_20:goed
+ff_16:talen
+ff_18:delen
+ff_20:nam
+ff_0:nam
+ff_8:1949
+ff_14:1949
+ff_8:groep
+ff_16:zelf
+ff_14:'t
+ff_14:1965
+ff_14:1977
+ff_16:1977
+ff_18:kon
+ff_6:richting
+ff_8:vierde
+ff_10:1976
+ff_12:februari
+ff_6:1976
+ff_6:1977
+ff_18:1954
+ff_14:nooit
+ff_8:kaart
+ff_10:1949
+ff_3:ook
+ff_7:PRON_Case=Nom|Person=1|PronType=Prs
+ff_17:PRON_Case=Nom|Person=1|PronType=Prs
+ff_3:boven
+ff_20:boven
+ff_6:winst
+ff_14:water
+ff_20:daar
+ff_6:2007
+ff_10:werden
+ff_11:AUX_Number=Plur|Tense=Past|VerbForm=Fin
+ff_12:verbonden
+ff_18:verbonden
+ff_12:gaat
+ff_14:1958
+ff_16:1958
+ff_12:plaats
+ff_20:hier
+ff_14:gemeente
+ff_6:weer
+ff_8:weer
+ff_14:station
+ff_16:station
+ff_10:groot
+ff_12:groot
+ff_6:groot
+ff_8:gemeente
+ff_10:grondgebied
+ff_10:groep
+ff_8:album
+ff_19:NOUN_Number=Sing
+ff_6:deed
+ff_12:maskers
+ff_18:maskers
+ff_14:maskers
+ff_10:maken
+ff_13:PRON_Person=3|PronType=Dem
+ff_7:AUX_VerbForm=Part
+ff_8:hertogdom
+ff_14:hertogdom
+ff_14:bedrijven
+ff_10:maskers
+ff_10:nieuwe
+ff_16:soms
+ff_10:1983
+ff_10:midden
+ff_12:1
+ff_6:midden
+ff_10:mee
+ff_12:mee
+ff_14:provincie
+ff_16:genoemd
+ff_18:leden
+ff_10:4
+ff_20:legde
+ff_0:legde
+ff_10:kaart
+ff_12:kaart
+ff_16:leger
+ff_13:PRON_PronType=Rel
+ff_9:PRON_PronType=Rel
+ff_8:verlies
+ff_16:zetels
+ff_12:keizer
+ff_14:maakte
+ff_16:verhaal
+ff_12:reeks
+ff_8:blauwe
+ff_8:kartel
+ff_6:iedereen
+ff_6:parlement
+ff_18:groep
+ff_20:bestaan
+ff_9:NOUN_Gender=Com,Neut|Number=Sing
+ff_15:NOUN_Gender=Com,Neut|Number=Sing
+ff_10:dag
+ff_20:tegen
+ff_3:tegen
+ff_3:»
+ff_8:haalde
+ff_3:peter
+ff_0:peter
+ff_6:ik
+ff_0:haalde
+ff_10:1980
+ff_6:bier
+ff_18:kerk
+ff_10:geboren
+ff_10:elkaar
+ff_11:PRON_Case=Acc|PronType=Rcp
+ff_10:naar
+ff_6:elkaar
+ff_7:PRON_Case=Acc|PronType=Rcp
+ff_16:kort
+ff_6:namen
+ff_14:je
+ff_16:weer
+ff_18:overheid
+ff_14:overheid
+ff_12:middelen
+ff_14:middelen
+ff_6:halve
+ff_6:1996
+ff_8:1996
+ff_18:hadden
+ff_12:vinden
+ff_18:organisatie
+ff_21:ADJ_Degree=Sup
+ff_10:daarom
+ff_18:politie
+ff_20:--
+ff_18:midden
+ff_20:midden
+ff_16:midden
+ff_8:helft
+ff_14:instellingen
+ff_6:coalitie
+ff_18:zouden
+ff_10:organisatie
+ff_10:bevolking
+ff_20:bevolking
+ff_6:bevolking
+ff_16:bevolking
+ff_10:provincies
+ff_20:arrondissementen
+ff_0:arrondissementen
+ff_8:diverse
+ff_10:serie
+ff_10:daarbij
+ff_20:meer
+ff_6:daarbij
+ff_8:soms
+ff_16:miljoen
+ff_16:10
+ff_8:6-4
+ff_14:6-2
+ff_14:titel
+ff_20:doordat
+ff_16:doordat
+ff_12:wedstrijd
+ff_14:geven
+ff_6:wedstrijd
+ff_0:open
+ff_12:handel
+ff_12:partij
+ff_20:belangrijk
+ff_14:liberalen
+ff_14:uiteindelijk
+ff_16:katholieken
+ff_6:huis
+ff_20:vervangen
+ff_20:volledig
+ff_16:daarna
+ff_16:politiek
+ff_3:ijzer
+ff_10:ijzer
+ff_0:ijzer
+ff_10:onafhankelijkheid
+ff_20:provincies
+ff_16:provincies
+ff_10:dochter
+ff_6:vierde
+ff_10:1970
+ff_16:8
+ff_14:sp.a
+ff_20:wereld
+ff_3:hoogste
+ff_8:(
+ff_6:prins
+ff_12:stad
+ff_10:moet
+ff_12:moet
+ff_6:moet
+ff_18:paneel
+ff_20:paneel
+ff_12:1999
+ff_6:lang
+ff_10:nationale
+ff_12:internationale
+ff_6:nationale
+ff_10:website
+ff_16:open
+ff_20:altijd
+ff_8:verschenen
+ff_14:verschenen
+ff_12:strips
+ff_21:PRON_PronType=Dem
+ff_16:geboren
+ff_0:intussen
+ff_10:11
+ff_8:legde
+ff_12:basis
+ff_8:basis
+ff_12:album
+ff_18:album
+ff_14:album
+ff_10:1979
+ff_16:daarom
+ff_14:koningin
+ff_18:grens
+ff_20:grens
+ff_16:grens
+ff_10:1997
+ff_20:1997
+ff_6:1997
+ff_16:1997
+ff_6:procent
+ff_14:geschiedenis
+ff_20:weg
+ff_16:1982
+ff_16:wil
+ff_8:uitgeverij
+ff_8:station
+ff_10:dood
+ff_20:rijk
+ff_16:rijk
+ff_10:1995
+ff_16:gemeenten
+ff_6:1949
+ff_10:nemen
+ff_12:nemen
+ff_6:nemen
+ff_10:album
+ff_20:ontstaan
+ff_8:open
+ff_3:open
+ff_20:economie
+ff_20:je
+ff_6:je
+ff_16:je
+ff_10:alleen
+ff_12:alleen
+ff_14:hoofdstedelijke
+ff_16:koning
+ff_3:beide
+ff_12:1830
+ff_10:weg
+ff_12:finale
+ff_18:finale
+ff_18:bijna
+ff_12:gemeenten
+ff_6:krant
+ff_14:achter
+ff_8:bekend
+ff_16:2005
+ff_14:gouden
+ff_6:dood
+ff_6:avonturen
+ff_6:goede
+ff_6:11
+ff_3:officiële
+ff_12:instellingen
+ff_18:officiële
+ff_6:worden
+ff_16:land
+ff_14:ooit
+ff_12:grootste
+ff_18:grootste
+ff_14:markt
+ff_3:verder
+ff_20:verder
+ff_14:raad
+ff_10:gebouwen
+ff_6:spirit
+ff_8:bestaat
+ff_10:1973
+ff_20:buiten
+ff_3:buiten
+ff_12:invloed
+ff_18:invloed
+ff_8:invloed
+ff_12:dat
+ff_14:wint
+ff_14:over
+ff_14:vervangen
+ff_20:bekend
+ff_6:centrum
+ff_20:19
+ff_8:1980
+ff_18:iedereen
+ff_20:iedereen
+ff_6:meeste
+ff_16:periode
+ff_8:1988
+ff_10:plaatsen
+ff_14:1945
+ff_10:talen
+ff_8:1921
+ff_12:talen
+ff_14:11
+ff_18:onder
+ff_12:in
+ff_18:bedrijven
+ff_10:paneel
+ff_20:hoog
+ff_14:groen
+ff_3:groen
+ff_16:spirit
+ff_6:hoofdstad
+ff_16:hoofdstad
+ff_14:minister
+ff_16:minister
+ff_18:economie
+ff_20:weer
+ff_8:economie
+ff_6:carrière
+ff_18:snel
+ff_20:jaren
+ff_12:gemeente
+ff_6:figuren
+ff_18:te
+ff_6:13
+ff_10:vooral
+ff_20:moet
+ff_0:trad
+ff_14:1975
+ff_10:1921
+ff_6:links
+ff_8:links
+ff_6:werken
+ff_20:graaf
+ff_10:om
+ff_20:om
+ff_16:bestaande
+ff_18:pas
+ff_6:landen
+ff_8:landen
+ff_19:NOUN_Gender=Com,Neut|Number=Sing
+ff_20:klooster
+ff_8:naast
+ff_12:eind
+ff_18:natuur
+ff_14:natuur
+ff_3:geen
+ff_10:geen
+ff_20:geen
+ff_6:1974
+ff_20:maatschappij
+ff_20:hebben
+ff_14:(
+ff_16:21
+ff_10:-
+ff_13:PROPN_Gender=Com,Neut|Number=Sing
+ff_19:PROPN_Gender=Com,Neut|Number=Sing
+ff_6:-
+ff_16:-
+ff_14:open
+ff_14:weekblad
+ff_20:1992
+ff_14:1992
+ff_16:1992
+ff_20:dag
+ff_12:2005
+ff_20:juli
+ff_18:personages
+ff_20:personages
+ff_14:personages
+ff_16:personages
+ff_20:krijgt
+ff_20:middelen
+ff_16:middelen
+ff_10:wel
+ff_10:gewesten
+ff_20:gewesten
+ff_16:gewesten
+ff_18:intussen
+ff_20:intussen
+ff_14:intussen
+ff_16:intussen
+ff_10:zoon
+ff_12:2002
+ff_12:provincies
+ff_14:provincies
+ff_18:provincies
+ff_12:huwelijk
+ff_18:huwelijk
+ff_14:huwelijk
+ff_10:media
+ff_14:wie
+ff_12:1970
+ff_18:1970
+ff_14:1970
+ff_12:verkiezingen
+ff_18:1995
+ff_20:1995
+ff_14:1995
+ff_16:1995
+ff_20:grootste
+ff_8:trad
+ff_6:af
+ff_14:gaat
+ff_10:al
+ff_6:tevens
+ff_20:gemeenschappen
+ff_10:vele
+ff_12:regering
+ff_12:2003
+ff_14:18
+ff_10:parlement
+ff_12:parlement
+ff_10:stemmen
+ff_14:1830
+ff_6:internationale
+ff_10:ronde
+ff_6:toch
+ff_8:toch
+ff_10:overheid
+ff_12:)
+ff_20:dan
+ff_6:geworden
+ff_14:prinses
+ff_16:prinses
+ff_6:zien
+ff_3:urbanus
+ff_0:urbanus
+ff_6:verkiezingen
+ff_16:toch
+ff_18:wie
+ff_19:PRON_Person=3|PronType=Int
+ff_20:open
+ff_10:19
+ff_20:parlement
+ff_8:nooit
+ff_20:maken
+ff_18:16
+ff_16:;
+ff_16:goede
+ff_18:maken
+ff_16:maken
+ff_20:later
+ff_10:naast
+ff_20:naast
+ff_10:verschillende
+ff_12:steden
+ff_18:steden
+ff_20:verschillende
+ff_18:oppervlakte
+ff_14:verlies
+ff_10:drie
+ff_12:drie
+ff_10:zetten
+ff_12:zetten
+ff_6:zetten
+ff_14:ministers
+ff_10:broer
+ff_14:economie
+ff_10:vader
+ff_6:kinderen
+ff_14:circuit
+ff_6:wereld
+ff_6:arrondissement
+ff_16:toernooi
+ff_6:gerechtelijke
+ff_18:ministers
+ff_8:ontstond
+ff_14:ontstond
+ff_0:ontstond
+ff_6:gebied
+ff_14:huis
+ff_6:grootste
+ff_10:1978
+ff_18:.
+ff_20:druk
+ff_6:bestaan
+ff_10:beweging
+ff_10:pas
+ff_20:pas
+ff_14:arrondissement
+ff_12:staat
+ff_20:mee
+ff_14:internationaal
+ff_16:internationaal
+ff_16:onafhankelijkheid
+ff_18:voor
+ff_14:handen
+ff_20:begon
+ff_20:zoon
+ff_20:winst
+ff_14:landen
+ff_12:kunnen
+ff_20:strips
+ff_3:kunnen
+ff_12:nu
+ff_10:dezelfde
+ff_12:dezelfde
+ff_6:diverse
+ff_10:katholieken
+ff_20:ontstond
+ff_20:bij
+ff_18:parlement
+ff_10:bovendien
+ff_6:bovendien
+ff_10:1971
+ff_16:stemmen
+ff_14:21
+ff_20:hoogste
+ff_11:PRON_Case=Nom|Person=1|PronType=Prs
+ff_6:1995
+ff_8:gezien
+ff_12:groenen
+ff_11:AUX_Number=Plur|Tense=Pres|VerbForm=Fin
+ff_7:AUX_Number=Plur|Tense=Pres|VerbForm=Fin
+ff_20:huwelijk
+ff_0:groeide
+ff_8:enkel
+ff_3:tegenwoordig
+ff_8:januari
+ff_10:8
+ff_20:onder
+ff_16:krant
+ff_20:krant
+ff_10:delen
+ff_16:inwoners
+ff_18:namelijk
+ff_14:stond
+ff_18:bestaan
+ff_8:alles
+ff_14:1960
+ff_18:bekend
+ff_10:worden
+ff_12:gebied
+ff_10:gaan
+ff_6:gaan
+ff_10:1982
+ff_0:nationaal
+ff_8:nationaal
+ff_14:nationaal
+ff_14:bijvoorbeeld
+ff_20:nummer
+ff_14:tegen
+ff_20:november
+ff_3:rond
+ff_12:rond
+ff_3:ca.
+ff_10:1965
+ff_3:bekende
+ff_6:internationaal
+ff_6:24
+ff_10:natuur
+ff_12:burgemeester
+ff_14:graafschap
+ff_18:`
+ff_12:ooit
+ff_3:ooit
+ff_18:water
+ff_8:kunsten
+ff_3:kunsten
+ff_0:kunsten
+ff_6:moeder
+ff_10:nadat
+ff_18:lang
+ff_20:lang
+ff_16:lang
+ff_16:'t
+ff_12:gemaakt
+ff_14:nummer
+ff_14:deelgemeenten
+ff_18:provincie
+ff_18:katholieken
+ff_20:macht
+ff_18:liberalen
+ff_12:katholieken
+ff_14:katholieken
+ff_18:toe
+ff_10:vrouw
+ff_12:de
+ff_12:hem
+ff_14:onderzoek
+ff_16:hoofdstedelijke
+ff_16:gaan
+ff_6:daarnaast
+ff_8:daarnaast
+ff_6:provincies
+ff_8:je
+ff_8:bijvoorbeeld
+ff_12:als
+ff_14:enkel
+ff_18:ter
+ff_16:twintigste
+ff_18:keizer
+ff_20:keizer
+ff_14:keizer
+ff_16:keizer
+ff_10:belang
+ff_3:nationaal
+ff_0:centrale
+ff_16:centrale
+ff_20:los
+ff_6:land
+ff_16:tevens
+ff_12:april
+ff_18:april
+ff_20:1978
+ff_6:1978
+ff_16:1978
+ff_6:1984
+ff_20:verhalen
+ff_8:tevens
+ff_14:tevens
+ff_20:(
+ff_14:nemen
+ff_16:le
+ff_3:le
+ff_8:ging
+ff_18:eveneens
+ff_14:toch
+ff_8:%
+ff_10:leger
+ff_14:vanwege
+ff_16:o.a.
+ff_18:4
+ff_14:altijd
+ff_18:meerderheid
+ff_10:14
+ff_6:genoemd
+ff_20:hadden
+ff_10:kind
+ff_14:minder
+ff_16:6-2
+ff_16:staat
+ff_10:zaken
+ff_18:media
+ff_12:verslaat
+ff_6:6-4
+ff_10:macht
+ff_18:sterk
+ff_20:toe
+ff_10:ter
+ff_12:ter
+ff_18:elkaar
+ff_6:1959
+ff_15:PRON_Case=Acc|Person=2|PronType=Prs
+ff_20:neemt
+ff_10:daarmee
+ff_20:daarmee
+ff_18:daarna
+ff_14:niveau
+ff_10:economische
+ff_20:economische
+ff_16:12
+ff_6:27
+ff_18:onderzoek
+ff_14:goede
+ff_16:1996
+ff_8:nam
+ff_10:10
+ff_6:grotendeels
+ff_18:1946
+ff_18:wedstrijd
+ff_14:1954
+ff_16:gemeenschappen
+ff_6:handel
+ff_18:gewesten
+ff_18:laten
+ff_14:1999
+ff_14:actief
+ff_16:actief
+ff_14:opnieuw
+ff_12:30
+ff_18:30
+ff_6:1934
+ff_8:dus
+ff_20:serie
+ff_16:serie
+ff_20:volgt
+ff_16:jaren
+ff_14:meteen
+ff_10:november
+ff_10:mensen
+ff_16:bestaan
+ff_6:tekenen
+ff_8:slag
+ff_6:2001
+ff_20:album
+ff_16:album
+ff_10:markt
+ff_10:huis
+ff_20:namelijk
+ff_16:leven
+ff_3:baron
+ff_0:baron
+ff_20:trad
+ff_14:vanaf
+ff_20:al
+ff_20:onafhankelijkheid
+ff_16:hetzelfde
+ff_12:landen
+ff_6:actief
+ff_6:1830
+ff_16:staatssecretaris
+ff_10:figuren
+ff_20:figuren
+ff_16:figuren
+ff_8:maart
+ff_16:socialistische
+ff_10:geheel
+ff_14:1978
+ff_3:klein
+ff_6:verbonden
+ff_14:basis
+ff_10:strips
+ff_6:lijst
+ff_16:lijst
+ff_18:tegenwoordig
+ff_14:tegenwoordig
+ff_8:opnieuw
+ff_18:staan
+ff_20:staan
+ff_20:drie
+ff_18:broer
+ff_20:nemen
+ff_20:af
+ff_10:programma
+ff_3:laten
+ff_8:kamer
+ff_14:kamer
+ff_20:land
+ff_10:ontstaan
+ff_10:april
+ff_6:ronde
+ff_18:vooral
+ff_20:december
+ff_20:liggen
+ff_10:landen
+ff_10:dus
+ff_20:dus
+ff_16:dus
+ff_18:nooit
+ff_20:km
+ff_16:km
+ff_14:houden
+ff_6:publiek
+ff_10:liggen
+ff_12:helft
+ff_11:PRON_Case=Acc|Person=2|PronType=Prs
+ff_21:PRON_Case=Acc|Person=2|PronType=Prs
+ff_7:PRON_Case=Acc|Person=2|PronType=Prs
+ff_17:PRON_Case=Acc|Person=2|PronType=Prs
+ff_13:NOUN_Gender=Com,Neut|Number=Sing
+ff_10:uit
+ff_10:hier
+ff_16:lam
+ff_10:1948
+ff_10:der
+ff_8:mede
+ff_10:handel
+ff_14:broer
+ff_18:wil
+ff_14:ondertussen
+ff_12:wereldoorlog
+ff_8:wereldoorlog
+ff_10:bestaan
+ff_6:blijft
+ff_14:waarvan
+ff_16:2000
+ff_10:ministers
+ff_6:vormen
+ff_6:belangrijke
+ff_8:liet
+ff_18:km
+ff_20:km²
+ff_8:universiteit
+ff_18:serie
+ff_8:1979
+ff_12:procent
+ff_14:groenen
+ff_12:gaan
+ff_10:hertog
+ff_14:afgebeeld
+ff_3:kort
+ff_6:huidige
+ff_14:schrijver
+ff_10:namen
+ff_10:altijd
+ff_6:altijd
+ff_8:ons
+ff_20:binnen
+ff_20:groenen
+ff_16:groenen
+ff_12:sociale
+ff_18:sociale
+ff_6:1983
+ff_9:PRON_Case=Acc|Person=1|PronType=Prs
+ff_20:kamer
+ff_14:daarom
+ff_8:centrale
+ff_14:centrale
+ff_16:wereld
+ff_10:lijst
+ff_16:steden
+ff_12:lang
+ff_14:twintigste
+ff_14:euro
+ff_3:meeste
+ff_10:meeste
+ff_16:openbare
+30
+amod
+appos
+flat:name
+punct
+parataxis
+case
+obl
+aux:pass
+det
+nsubj:pass
+cc
+nsubj
+cop
+nmod
+conj
+obj
+advmod
+compound:prt
+mark
+ccomp
+fixed
+acl:relcl
+nummod
+acl
+advcl
+aux
+xcomp
+iobj
+expl
+csubj
+6356
+40 2 83
+8 3 79
+32 4 27
+920 -3 5
+1 -3 6
+185 7 8
+39 -4 -4
+39 9 11
+118 -4 10
+31 -4 -4
+71 -4 12
+1763 -4 -4
+31 14 26
+50 -4 15
+41 -4 16
+46 -4 17
+1081 -4 18
+207 -4 19
+4 20 -4
+1856 -4 21
+310 -4 22
+12 -4 23
+872 -4 24
+1560 -4 25
+166 -4 -4
+46 -4 -4
+2451 28 32
+1081 -3 29
+1 -4 30
+310 -4 31
+50 -21 -21
+62 33 35
+1560 34 -4
+111 -21 -4
+4 36 75
+920 -3 37
+71 -4 38
+332 39 40
+39 -4 -4
+342 41 46
+135 -21 42
+1081 -3 43
+46 -4 44
+39 45 -4
+341 -4 -4
+1763 47 48
+151 -21 -4
+152 -4 49
+39 50 56
+3197 -4 51
+159 -4 52
+59 53 54
+12 -4 -4
+5 55 -4
+34 -4 -4
+310 57 59
+1310 -21 58
+5 -4 -4
+5 60 73
+46 61 62
+12 -4 -4
+50 -4 63
+41 -4 64
+34 65 -4
+1081 -4 66
+207 -4 67
+1323 -4 68
+135 -4 69
+872 -4 70
+1560 -4 71
+1856 -4 72
+166 -4 -4
+659 74 -4
+46 -3 -4
+4152 76 77
+71 -4 -3
+655 78 -4
+46 -3 -4
+31 -14 80
+651 -5 81
+5 -2 82
+4 -14 -15
+8 84 2306
+58 85 348
+62 86 168
+111 87 126
+127 88 90
+4 89 -19
+34 -19 -19
+675 91 94
+3277 -19 -19
+4 93 -19
+13 -19 -19
+324 95 97
+4 96 -19
+34 -19 -19
+1 98 102
+4 99 101
+19 100 -19
+13 -6 -6
+1709 -6 -19
+1333 103 105
+752 -18 104
+4 -17 -17
+30 -6 106
+101 -19 107
+399 108 109
+2735 -18 -6
+347 -6 110
+258 -6 111
+57 112 118
+2527 -18 113
+2735 -18 114
+752 -6 115
+3016 -6 116
+3277 -6 117
+4 -6 -6
+4 119 125
+139 -6 120
+863 -6 121
+429 -6 122
+548 -6 123
+853 -6 124
+33 -18 -6
+345 -17 -18
+61 127 138
+127 -19 128
+4 129 137
+361 -17 130
+30 -6 131
+399 -6 132
+258 -19 133
+863 -19 134
+156 -19 135
+675 -19 136
+139 -6 -6
+203 -17 -17
+233 139 145
+399 -19 140
+258 -19 141
+939 -27 142
+4 143 -18
+57 -18 144
+245 -18 -18
+347 146 148
+427 -6 147
+4 -17 -5
+885 -17 149
+139 -19 150
+1333 151 156
+2034 -17 152
+427 153 154
+121 -18 -17
+346 -18 155
+4 -18 -18
+361 -17 157
+960 158 159
+245 -5 -18
+429 160 161
+120 -21 -18
+1230 -6 162
+1 -6 163
+1750 164 165
+245 -6 -18
+57 166 -18
+120 167 -18
+34 -18 -18
+156 -19 169
+221 170 177
+139 -6 171
+57 -6 172
+399 -6 173
+3757 -6 174
+347 175 176
+4 -3 -21
+1453 -21 -21
+30 178 200
+342 179 181
+341 180 -21
+4 -3 -3
+4 182 199
+32 183 189
+185 184 185
+34 -6 -6
+34 186 -6
+1080 -6 187
+3322 -6 188
+31 -6 -6
+159 190 191
+34 -6 -6
+34 192 -6
+332 -6 -6
+6 194 196
+5 -6 195
+59 -6 -6
+152 197 198
+151 -6 -6
+72 -6 -6
+1630 -21 -6
+152 201 218
+399 202 205
+4 203 -6
+19 204 -6
+151 -21 -21
+127 -19 206
+1 -6 -6
+2480 208 209
+4 -21 -6
+4 210 -6
+13 -6 -6
+675 -19 212
+370 213 214
+57 -21 -6
+863 -21 215
+1160 -21 216
+212 217 -6
+151 -6 -6
+342 219 231
+347 -21 220
+341 221 230
+127 222 223
+4 -3 -21
+245 -3 224
+1 225 226
+755 -6 -3
+57 227 229
+755 -6 228
+4 -6 -21
+962 -21 -6
+57 -3 -21
+127 232 237
+6 233 236
+5 -19 -19
+4 -3 -19
+34 -19 -19
+656 -21 -6
+32 238 262
+185 239 242
+675 -5 240
+347 241 -6
+13 -6 -6
+57 243 246
+118 244 -6
+4 245 -6
+34 -6 -6
+347 247 250
+12 -6 248
+1080 -6 249
+31 -6 -6
+245 251 255
+31 -6 252
+19 253 -6
+4 254 -6
+118 -6 -6
+212 256 257
+13 -6 -6
+399 258 260
+118 259 -6
+13 -6 -6
+1 261 -6
+31 -6 -6
+4 263 328
+399 264 270
+59 265 266
+33 -6 -6
+5 267 268
+34 -6 -6
+6 269 -6
+13 -6 -6
+1 271 285
+5 272 276
+619 -19 273
+20 274 275
+471 -19 -6
+34 -6 -6
+802 -21 277
+72 278 279
+13 -6 -6
+59 280 281
+34 -6 -6
+332 282 283
+13 -6 -6
+34 284 -6
+159 -6 -6
+675 286 290
+159 -6 287
+6 288 -6
+19 289 -6
+5 -6 -6
+6 291 323
+190 292 293
+5 -6 -6
+59 294 307
+212 295 296
+19 -6 -6
+245 297 298
+34 -6 -6
+2617 299 300
+34 -6 -6
+548 -6 301
+347 302 303
+34 -6 -6
+324 304 305
+19 -6 -6
+57 306 -6
+34 -6 -6
+57 308 311
+34 309 -6
+159 -6 310
+5 -6 -6
+212 312 314
+5 313 -6
+34 -6 -6
+5 315 -6
+939 316 317
+33 -6 -6
+258 318 319
+33 -6 -6
+245 320 321
+34 -6 -6
+347 322 -6
+34 -6 -6
+548 -21 324
+2467 -15 325
+258 326 -6
+72 327 -6
+13 -6 -6
+567 329 331
+1 -19 330
+258 -6 -21
+4702 -1 332
+6 333 341
+461 334 335
+399 -6 -6
+290 336 337
+675 -19 -6
+1 338 -6
+433 -6 339
+2661 340 -6
+13 -19 -6
+203 342 343
+72 -6 -18
+1557 -11 344
+4149 345 346
+258 -11 -6
+2882 347 -6
+1 -6 -6
+62 349 933
+137 350 426
+283 351 361
+61 -17 352
+1260 -17 353
+2339 354 355
+346 -18 -17
+4 356 -18
+111 -18 357
+427 -18 358
+12 -18 359
+346 -18 360
+120 -18 -18
+449 362 371
+4 363 369
+61 364 365
+34 -17 -17
+120 -17 366
+111 -17 367
+346 -29 368
+233 -17 -17
+345 -29 370
+2022 -29 -17
+812 372 378
+427 -17 373
+3277 -17 374
+233 -18 375
+4 376 -18
+346 -17 377
+111 -18 -18
+1 379 403
+1034 -18 380
+12 381 382
+4 -7 -19
+122 -18 383
+1357 -17 384
+120 385 387
+4 -17 386
+1750 -17 -17
+480 -18 388
+1183 -18 389
+427 390 392
+4 391 -17
+13 -17 -17
+1701 -18 393
+111 394 396
+4 395 -17
+34 -17 -17
+345 397 398
+13 -17 -17
+4 399 -17
+346 400 401
+34 -17 -17
+61 402 -17
+34 -17 -17
+2519 404 406
+233 405 -18
+4 -17 -18
+338 407 411
+346 -19 408
+1795 -19 409
+61 410 -17
+4 -17 -17
+136 -11 412
+2425 413 414
+1336 -19 -17
+111 415 420
+990 -1 416
+1946 417 418
+4 -17 -17
+385 419 -17
+4 -17 -17
+1478 421 423
+120 422 -17
+4 -29 -17
+547 424 -17
+120 425 -17
+4 -17 -17
+90 427 445
+1 428 434
+61 -19 -19
+346 -11 430
+975 -11 431
+1271 -11 432
+120 433 -19
+1047 -19 -19
+640 -11 435
+120 436 439
+4 437 -11
+89 438 -11
+34 -11 -11
+233 -11 440
+269 441 442
+61 -11 -11
+111 443 -11
+4 444 -11
+89 -11 -11
+61 446 585
+2 447 453
+3748 -27 448
+1 449 451
+4 450 -17
+34 -17 -17
+79 -1 452
+369 -1 -17
+157 -19 454
+1 455 497
+1648 456 460
+84 -16 457
+54 -17 458
+53 -10 459
+162 -10 -27
+52 461 462
+34 -5 -5
+54 -15 463
+251 -17 464
+47 -9 465
+162 466 467
+4 -10 -10
+48 -3 468
+266 -3 469
+184 -26 470
+98 -26 471
+674 -13 472
+515 -16 473
+96 474 475
+4 -10 -10
+375 -13 476
+237 -7 477
+1018 -10 -10
+19 -16 -17
+441 480 481
+53 -12 -12
+84 -12 482
+305 -9 483
+76 -13 484
+1098 -13 485
+380 -28 486
+532 -7 487
+53 488 489
+4 -10 -10
+2836 -12 490
+128 -12 491
+1709 -12 492
+4 493 -10
+19 494 -10
+209 -10 495
+110 -10 496
+337 -10 -10
+173 498 500
+13 499 -16
+4 -12 -12
+75 501 511
+4 502 503
+34 -8 -8
+2153 -8 504
+3302 -8 505
+2281 -8 506
+1660 -8 507
+3748 -8 508
+1648 -8 509
+2607 -8 510
+1223 -8 -8
+318 512 514
+4 513 -8
+34 -8 -8
+96 515 520
+830 -10 516
+4 517 -12
+1487 -12 518
+13 519 -12
+384 -12 -12
+337 521 524
+168 -10 -10
+2281 -10 523
+4 -12 -12
+47 525 526
+629 -3 -9
+447 527 529
+4 528 -12
+13 -12 -12
+251 -17 530
+237 531 533
+886 -17 532
+1223 -17 -7
+1341 534 538
+184 535 -8
+1130 -13 536
+1879 -8 537
+4 -8 -8
+847 -8 539
+97 540 547
+441 -26 541
+4 542 543
+34 -8 -8
+1709 -13 544
+4245 -26 545
+1130 -8 546
+1648 -8 -8
+373 548 550
+441 -13 549
+4 -8 -8
+183 551 559
+2496 -26 552
+4 553 554
+184 -8 -8
+175 -8 555
+830 -8 556
+1660 -8 557
+3748 -8 558
+1130 -8 -26
+673 560 561
+4 -8 -8
+234 -16 562
+311 563 564
+4 -12 -16
+48 565 568
+968 -10 566
+781 -5 567
+1408 -14 -7
+52 569 571
+569 -23 570
+607 -9 -5
+208 -12 572
+380 573 574
+379 -28 -16
+84 575 576
+4 -16 -7
+375 -13 577
+54 -15 578
+99 -9 579
+162 -21 580
+256 -10 581
+2235 -12 582
+1097 -13 583
+1429 -13 584
+2743 -13 -26
+157 586 592
+156 587 589
+111 588 -19
+13 -19 -19
+120 590 -19
+447 591 -19
+4 -19 -19
+111 593 690
+47 -9 594
+2 595 612
+4 596 605
+739 -17 -17
+2980 -18 598
+4229 -18 599
+60 -1 600
+119 -1 601
+1070 -1 602
+1340 -1 603
+1 604 -17
+33 -17 -17
+2475 -1 606
+2527 -17 607
+33 608 -18
+928 -17 609
+1183 -27 610
+383 -17 611
+1 -27 -27
+98 613 615
+97 614 -26
+4 -26 -26
+76 -26 616
+184 -26 617
+1098 -26 618
+674 619 621
+673 620 -26
+4 -13 -26
+234 -16 622
+96 -12 623
+305 -9 624
+128 625 629
+1341 -21 626
+2527 -27 627
+383 -15 628
+1 -15 -15
+251 -17 630
+54 631 633
+4 -1 632
+1183 -18 -17
+4 634 673
+84 635 640
+1642 -17 636
+546 -7 637
+1052 -15 638
+1 639 -16
+34 -16 -16
+52 -5 641
+99 -9 642
+162 -16 643
+237 644 646
+1 -12 645
+886 -17 -7
+48 647 648
+729 -27 -16
+380 649 650
+554 -16 -16
+1545 651 652
+1 -16 -16
+104 -21 653
+197 -17 654
+532 -7 655
+1863 -28 656
+53 657 658
+34 -12 -16
+256 659 661
+33 660 -12
+447 -16 -16
+738 -16 662
+805 -16 663
+2235 -12 664
+2408 -16 665
+1 666 669
+209 -12 667
+110 668 -12
+13 -12 -12
+2836 -12 670
+13 671 -12
+336 -12 672
+173 -12 -12
+762 674 675
+13 -9 -1
+1776 -18 676
+84 677 682
+752 -16 678
+757 -12 679
+1709 -12 680
+2540 -16 681
+1183 -16 -18
+380 -16 683
+48 -16 684
+79 -16 685
+1183 -16 686
+162 687 688
+383 -16 -12
+752 689 -12
+173 -16 -12
+2 691 728
+346 692 704
+4 693 695
+1 694 -17
+13 -17 -17
+4585 -18 696
+119 -17 697
+345 -27 698
+1183 -27 699
+5156 -27 700
+1 701 -12
+2339 -12 702
+2527 -12 703
+2735 -12 -17
+2724 -18 705
+2760 706 707
+1 -27 -18
+1200 -16 708
+2980 -18 709
+1280 -27 710
+1177 -18 711
+1750 -18 712
+2125 -18 713
+3907 -18 714
+120 715 718
+1433 -17 716
+4 717 -17
+1 -17 -17
+1 719 723
+233 720 -17
+1840 -27 721
+4 722 -17
+13 -17 -17
+4585 724 725
+4 -18 -17
+1433 726 -17
+4 727 -17
+233 -18 -17
+235 729 732
+234 -16 730
+11 -16 731
+120 -16 -16
+251 733 734
+2735 -18 -17
+84 735 758
+1677 736 738
+120 737 -18
+4 -18 -18
+546 -7 739
+346 740 745
+4 -16 741
+360 -16 742
+1183 -16 743
+345 744 -18
+1 -16 -18
+960 -16 -16
+1 747 755
+4 748 750
+427 -16 749
+120 -16 -12
+885 -16 751
+1122 -16 752
+2234 -16 753
+2760 -18 754
+2831 -18 -12
+292 -21 756
+1280 -18 757
+2518 -18 -16
+48 759 770
+1177 -16 760
+19 761 -5
+1776 762 765
+2760 -16 763
+4 -16 764
+346 -16 -18
+1047 -18 766
+427 767 768
+1 -16 -16
+4 769 -16
+233 -16 -12
+237 771 777
+1 772 774
+346 -12 -12
+4 -17 -28
+3034 -17 775
+549 -16 776
+1824 -17 -7
+96 -12 778
+54 779 782
+4 780 -17
+120 -17 781
+233 -17 -17
+380 783 788
+233 784 -16
+554 785 786
+34 -16 -16
+257 -16 787
+379 -28 -16
+52 789 792
+900 -16 790
+564 -23 791
+233 -23 -5
+47 793 795
+233 -5 -5
+4 -21 -5
+168 796 809
+120 797 801
+2234 -16 798
+1750 -12 799
+1795 -12 800
+4 -12 -12
+1357 -12 802
+448 -12 803
+4 804 805
+233 -12 -16
+1325 -16 -16
+1564 -16 807
+1701 -16 808
+233 -12 -16
+337 810 824
+960 811 813
+1 -12 -12
+13 -29 -12
+1 814 816
+4 815 -12
+120 -12 -12
+336 817 -16
+1701 -16 818
+1122 -12 819
+4 820 -12
+427 -12 821
+120 -12 822
+233 823 -12
+33 -12 -12
+128 825 826
+3831 -18 -27
+104 827 829
+4 828 -15
+647 -21 -5
+959 -15 830
+515 831 833
+120 -12 832
+1840 -16 -2
+162 834 847
+120 835 836
+1795 -5 -16
+233 -16 837
+757 -12 838
+34 839 -12
+1255 -16 840
+1573 -16 841
+2107 -16 842
+3277 -16 843
+4 844 846
+1 845 -12
+346 -12 -12
+345 -12 -12
+2236 848 849
+4 -21 -16
+1 850 897
+233 851 863
+239 -15 852
+1122 853 854
+34 -12 -12
+4 855 859
+53 856 857
+34 -12 -12
+110 858 -12
+13 -12 -12
+1724 -12 860
+1701 861 862
+53 -16 -12
+2760 -12 -12
+120 864 888
+197 -12 -12
+1545 -16 866
+884 867 868
+4 -5 -16
+2135 -5 869
+532 -7 870
+960 -7 871
+806 -16 872
+1750 873 874
+53 -16 -12
+3813 -16 875
+266 -16 876
+885 -16 877
+4 878 883
+53 879 880
+34 -12 -12
+312 -12 881
+110 882 -12
+34 -12 -12
+975 884 885
+53 -16 -12
+1795 886 -12
+13 887 -12
+53 -12 -12
+2836 -12 889
+209 -12 890
+110 891 892
+346 -28 -5
+427 -16 893
+532 -7 894
+4 895 -16
+13 -16 -16
+884 -16 -7
+99 -3 898
+233 899 918
+805 -12 -12
+923 -16 901
+1544 -16 902
+2994 -16 903
+2425 904 905
+34 -16 -12
+4 906 913
+311 -12 907
+13 908 912
+806 -12 909
+256 910 911
+173 -12 -12
+173 -12 -12
+173 -16 -12
+1325 914 915
+173 -16 -12
+1778 916 917
+173 -12 -16
+2874 -12 -12
+256 919 922
+120 920 -16
+4 921 -12
+447 -12 -12
+311 923 924
+120 -12 -16
+120 925 931
+173 926 929
+1795 -12 927
+975 -12 928
+4 -12 -12
+447 930 -12
+4 -12 -12
+1859 932 -12
+208 -12 -12
+47 934 989
+221 935 938
+4 936 937
+168 -21 -21
+4974 -9 -21
+342 939 943
+77 -21 -21
+755 -3 -21
+2536 -21 942
+168 -3 -21
+32 944 957
+1080 -9 945
+629 -3 946
+77 947 951
+185 -3 948
+34 949 -9
+31 -9 950
+118 -9 -9
+118 952 955
+1 953 -3
+34 954 -9
+4 -9 -9
+1 956 -9
+31 -9 -9
+629 958 962
+159 -9 959
+4 960 -3
+59 -3 961
+5 -3 -3
+4 963 -9
+332 964 966
+168 -9 965
+1 -21 -21
+34 967 -9
+802 -21 968
+1282 969 970
+5 -3 -9
+159 971 973
+168 -21 972
+77 -9 -9
+1310 974 975
+77 -9 -9
+370 976 977
+77 -9 -9
+168 978 982
+5 -21 979
+655 -21 980
+151 -9 981
+59 -9 -9
+59 983 984
+1 -9 -21
+151 985 986
+1 -9 -9
+1 987 988
+5 -9 -9
+5 -9 -9
+2 990 1105
+6 991 1037
+1893 -9 992
+777 993 998
+452 -1 994
+13 995 -9
+1200 -9 996
+1 997 -1
+34 -9 -1
+1200 -9 999
+159 1000 1004
+1188 -15 1001
+1 1002 -1
+4 1003 -1
+34 -1 -1
+4 1005 1018
+34 1006 1017
+2724 -1 1007
+1 1008 1010
+59 -1 1009
+5 -1 -1
+4107 -21 1011
+119 -17 1012
+428 1013 1014
+5 -1 -17
+693 -1 1015
+60 1016 -1
+5 -1 -1
+2453 -9 -1
+1932 1019 1020
+1 -1 -1
+1340 -27 1021
+2724 1022 1023
+728 -18 -1
+3928 1024 1025
+12 -1 -11
+3875 -9 1026
+1641 -1 1027
+461 1028 1029
+1 -1 -21
+428 -17 1030
+1729 -17 1031
+1715 1032 1033
+13 -1 -1
+3902 1034 1035
+2346 -1 -1
+974 1036 -1
+1 -1 -1
+32 1038 1049
+31 1039 1042
+1870 -24 1040
+1 -3 1041
+1664 -3 -1
+118 1043 1045
+1 1044 -1
+34 -1 -1
+2724 -18 1046
+185 1047 -1
+1 1048 -1
+34 -1 -1
+152 1050 1080
+34 1051 1076
+1 1052 1060
+4 1053 1054
+370 -17 -21
+1187 -1 1055
+3480 -1 1056
+151 1057 -17
+944 -17 1058
+3024 -17 1059
+3882 -17 -15
+2724 -18 1061
+1002 -17 1062
+119 -17 1063
+1261 -17 1064
+1441 -17 1065
+1642 -17 1066
+2254 -17 1067
+636 -17 1068
+693 -17 1069
+2671 -17 1070
+557 -1 1071
+716 -1 1072
+1246 -1 1073
+730 1074 1075
+4 -1 -15
+3265 -1 -15
+33 1077 -17
+78 -1 1078
+12 -1 1079
+701 -1 -17
+34 1081 1103
+656 1082 1085
+1310 1083 1084
+1 -1 -1
+655 -1 -1
+332 -21 -21
+4 -21 1087
+1084 -17 1088
+1 -15 -1
+342 1090 1093
+1 1091 -21
+4 1092 -21
+341 -21 -21
+1441 1094 1095
+802 -1 -17
+72 1096 1098
+4 -21 1097
+1 -3 -1
+659 -1 1099
+644 -17 1100
+1900 -17 1101
+1050 1102 -21
+1 -17 -21
+539 -25 1104
+1002 -17 -1
+23 1106 1113
+31 -3 1107
+5 1108 1109
+1 -3 -3
+118 1110 1111
+1 -3 -3
+59 1112 -3
+1 -3 -3
+90 1114 1166
+118 1115 1117
+89 1116 -11
+4 -11 -11
+221 1118 1119
+746 -11 -21
+1 1120 1132
+6 1121 1124
+568 -19 1122
+59 1123 -11
+4 -11 -11
+72 -19 1125
+332 1126 1128
+1107 -11 1127
+4443 -19 -19
+152 1129 -11
+151 1130 -19
+997 -19 1131
+4 -11 -11
+32 1133 1138
+185 1134 1135
+89 -11 -11
+89 1136 -11
+12 -11 1137
+31 -11 -11
+4 1139 1163
+159 -11 1140
+402 -21 1141
+332 1142 1143
+89 -21 -21
+341 1144 1145
+89 -11 -3
+5 1146 1148
+89 1147 -11
+34 -11 -11
+269 -11 1149
+659 -11 1150
+72 1151 1152
+89 -11 -11
+1557 1153 1154
+89 -11 -11
+89 1155 -11
+34 1156 -11
+655 -11 1157
+2480 -11 1158
+656 -11 1159
+370 -11 1160
+1828 -11 1161
+2306 -11 1162
+151 -11 -11
+862 -11 1164
+2124 -3 1165
+341 -3 -11
+52 1167 1380
+72 1168 1217
+4 1169 1182
+1 -15 1170
+3604 -5 1171
+267 -2 1172
+711 -15 1173
+343 -3 1174
+1209 -3 1175
+564 -3 1176
+900 -15 1177
+1088 -15 1178
+1659 -15 1179
+1682 -15 1180
+3610 -15 1181
+4188 -15 -3
+1528 -15 1183
+1745 -15 1184
+2753 -15 1185
+3250 -15 1186
+1207 -15 1187
+2282 -15 1188
+343 -5 1189
+4303 -5 1190
+412 1191 1193
+1533 -5 1192
+1 -3 -3
+567 -21 1194
+858 -21 1195
+2064 -3 1196
+1 1197 1202
+288 -15 1198
+2884 -15 1199
+3707 -15 1200
+2054 -3 1201
+4175 -3 -3
+823 -3 1203
+2152 -3 -3
+2495 -3 -15
+99 -15 1206
+191 -15 1207
+530 -15 1208
+1228 -15 1209
+1543 -15 1210
+1746 -15 1211
+1811 -15 1212
+2052 -15 1213
+2268 -15 1214
+2494 -15 1215
+2883 -15 1216
+3438 -15 -3
+6 1218 1283
+699 1219 1221
+1 -2 1220
+686 -23 -23
+159 1222 1230
+998 -5 1223
+1 1224 1226
+4 1225 -23
+34 -23 -23
+564 -2 1227
+823 -2 1228
+2073 -2 1229
+2555 -2 -23
+4 1231 1265
+686 -23 1232
+5 1233 1248
+1748 -23 -23
+2359 -21 1235
+2073 -5 1236
+267 -2 1237
+564 -2 1238
+34 1239 -23
+711 -23 1240
+494 -2 1241
+2105 -2 1242
+2282 -2 1243
+3632 -2 1244
+1 -23 1245
+998 -5 1246
+1782 -5 1247
+3199 -5 -23
+1 1249 1251
+272 -5 1250
+34 -23 -23
+2336 -5 1252
+1855 -2 1253
+2509 -1 1254
+1209 -1 1255
+2359 -2 1256
+1957 -21 1257
+195 1258 1259
+452 -23 -2
+816 -2 1260
+1228 -2 1261
+2870 -2 1262
+2052 -5 1263
+2639 -5 1264
+3424 -5 -23
+259 1266 1268
+1 -23 1267
+686 -23 -2
+3814 1269 1270
+494 -23 -2
+2364 -2 1271
+1082 1272 1273
+1 -23 -1
+313 -21 1274
+698 -1 1275
+442 -2 1276
+536 -2 1277
+823 -2 1278
+824 -2 1279
+2359 -2 1280
+777 1281 -23
+1 1282 -23
+34 -23 -23
+313 -21 1284
+4 1285 1365
+32 -23 -23
+1 1287 1289
+185 -23 1288
+31 -2 -3
+267 -3 1290
+31 1291 1313
+195 -23 1292
+523 -3 1293
+2509 -3 1294
+823 -15 1295
+3199 -15 1296
+51 -5 1297
+998 -2 1298
+1458 -2 1299
+1687 -2 1300
+2495 -2 1301
+1957 -23 1302
+564 -23 1303
+686 -23 1304
+857 -23 1305
+1394 -23 1306
+2073 -23 1307
+906 -23 1308
+1308 -23 1309
+1600 -23 1310
+2105 -23 1311
+2873 -23 1312
+2225 -5 -5
+1782 -2 1314
+1209 -23 1315
+2539 -15 1316
+185 1317 1321
+607 -15 1318
+195 -5 1319
+1533 -23 1320
+3632 -23 -5
+3438 -5 1322
+2205 -5 1323
+118 1324 -23
+607 -5 1325
+407 -5 1326
+816 -5 1327
+985 -5 1328
+1983 -5 1329
+2282 -5 1330
+2359 -5 -23
+656 1332 1338
+1310 1333 1336
+1 -2 1334
+1209 -23 1335
+3424 -2 -3
+1 1337 -2
+655 -2 -23
+628 -15 1339
+3604 -16 1340
+659 1341 1343
+1 1342 -23
+34 -23 -23
+267 1344 1345
+332 -1 -23
+2073 -3 1346
+341 1347 1351
+1 -23 1348
+2359 -21 1349
+564 -23 1350
+1682 -23 -2
+2052 -2 1352
+1 1353 1355
+402 -21 1354
+151 -23 -23
+370 1356 1357
+3438 -23 -21
+4354 -21 1358
+284 -5 1359
+823 -5 1360
+2084 -5 1361
+2558 -5 1362
+2810 -5 1363
+3199 1364 -23
+151 -5 -23
+2450 -21 1366
+3851 -5 1367
+151 1368 1370
+1 -16 1369
+444 -12 -23
+1557 -15 1371
+1107 -1 1372
+2084 1373 1374
+2858 -3 -23
+533 1375 1376
+1 -1 -23
+2225 1377 1378
+2650 -2 -23
+267 1379 -23
+1197 -23 -23
+1 1381 1864
+6 1382 1586
+305 -9 1383
+54 1384 1389
+1037 -17 1385
+5 -1 1386
+4 1387 -1
+34 1388 -1
+59 -1 -1
+137 1390 1407
+13 1391 -1
+159 1392 1394
+1738 -17 1393
+4 -1 -1
+1630 -11 1395
+895 -14 1396
+1099 -17 1397
+4 1398 1401
+452 -17 1399
+5 1400 -1
+33 -1 -1
+290 -17 1402
+359 -17 1403
+1629 -17 1404
+1676 -17 1405
+832 -1 1406
+777 -1 -1
+53 1408 1430
+4 1409 1413
+59 1410 1411
+33 -3 -14
+12 -15 1412
+5 -3 -3
+1410 -14 1414
+433 -2 1415
+5 1416 1423
+359 -2 -2
+131 -2 1418
+1037 -2 1419
+13 1420 -12
+1676 -2 1421
+1099 -2 1422
+832 -2 -2
+2661 -12 1424
+728 -12 1425
+2696 -16 1426
+572 -15 1427
+2107 -15 1428
+2402 -2 1429
+1329 -2 -2
+110 1431 1450
+4 1432 1436
+34 1433 1435
+59 -2 1434
+5 -2 -3
+13 -14 -16
+59 1437 1441
+3338 -2 1438
+1939 -2 1439
+839 -2 1440
+1539 -2 -12
+5 1442 1449
+677 -14 1443
+1559 -14 1444
+3928 -15 1445
+290 -2 1446
+832 -2 1447
+131 -2 1448
+2436 -2 -2
+2294 -2 -15
+251 1451 1457
+59 1452 1454
+4 1453 -1
+34 -1 -1
+4 1455 -1
+34 1456 -1
+5 -1 -1
+197 -1 1458
+100 1459 1460
+159 -21 -9
+49 1461 1469
+59 1462 1464
+4 1463 -9
+13 -3 -9
+471 -9 -9
+4 -14 -9
+4 1467 -9
+34 1468 -9
+5 -9 -9
+515 1470 1481
+677 -23 1471
+14 1472 1474
+4 1473 -14
+527 -5 -5
+877 -16 1475
+159 -14 1476
+442 -2 1477
+1559 -5 1478
+4 1479 1480
+5 -14 -14
+2390 -2 -14
+157 1482 1486
+59 1483 1484
+3001 -19 -19
+5 1485 -19
+13 -19 -19
+337 1487 1490
+1828 -29 1488
+4 1489 -12
+5 -12 -12
+159 1491 1512
+162 1492 1495
+699 -14 1493
+4 1494 -15
+33 -15 -15
+237 1496 1498
+4 1497 -14
+13 -14 -14
+959 -21 1499
+84 1500 1503
+568 -14 1501
+1910 -14 1502
+4 -15 -15
+48 1504 1505
+2563 -15 -15
+884 -14 1506
+532 -11 1507
+1708 -15 1508
+266 -15 1509
+256 -12 1510
+1545 -21 1511
+2484 -2 -13
+84 1513 1528
+4 1514 1517
+59 -15 1515
+12 -14 1516
+5 -15 -15
+2766 -14 1518
+359 -12 1519
+1693 -5 1520
+3362 -14 1521
+13 1522 -14
+772 -14 1523
+1594 -14 1524
+1521 -2 1525
+1932 -2 1526
+2186 -2 1527
+2319 -2 -15
+162 1529 1538
+4 1530 1532
+59 -21 -21
+13 -21 -14
+1405 -14 1533
+1932 -14 1534
+1334 -14 1535
+728 -14 1536
+359 -2 1537
+2252 -2 -15
+48 1539 1547
+3061 -12 1540
+5 1541 1544
+3362 -14 1542
+4 -15 1543
+1630 -21 -15
+2252 -2 1545
+4 1546 -15
+59 -15 -15
+532 1548 1553
+1629 -14 -14
+2429 -19 1550
+1132 -2 1551
+4 1552 -14
+5 -14 -2
+96 -12 1554
+256 -12 1555
+266 1556 1557
+4 -3 -3
+884 1558 1561
+4 1559 1560
+59 -2 -3
+1519 -15 -2
+2484 1562 1564
+5 1563 -14
+4 -2 -2
+4 1565 1583
+1829 1566 1567
+13 -15 -16
+128 1568 1569
+5 -2 -21
+104 1570 1571
+5 -21 -21
+1708 -21 1572
+1284 -3 1573
+2135 -5 1574
+209 -12 1575
+2836 -12 1576
+4026 -12 1577
+1098 -13 1578
+375 -13 1579
+184 -13 1580
+674 -13 1581
+1828 -13 1582
+76 -13 -13
+340 -17 1584
+1708 -14 1585
+237 -14 -13
+32 1587 1659
+185 1588 1605
+53 1589 1590
+13 -15 -16
+137 -5 -5
+13 -1 -1
+515 -5 1593
+884 -5 1594
+1708 -15 1595
+110 -15 1596
+84 -3 1597
+532 -11 1598
+48 -3 1599
+104 -3 1600
+128 -3 1601
+76 -13 1602
+674 -13 1603
+266 -14 1604
+162 -1 -1
+31 1606 1626
+532 -14 1607
+515 1608 1609
+12 -5 -14
+110 -14 1610
+84 -2 1611
+53 1612 1613
+4 -3 -14
+137 -1 1614
+251 -1 1615
+305 -9 1616
+98 -13 1617
+54 -1 1618
+162 -3 1619
+884 -3 1620
+48 1621 1622
+4 -3 -3
+49 -3 -3
+104 -3 1624
+266 -14 1625
+2484 -14 -13
+110 -15 1627
+137 1628 1630
+13 1629 -1
+4 -1 -1
+515 1631 1632
+118 -5 -14
+1080 1633 1638
+12 -12 1634
+54 -1 1635
+157 -19 1636
+532 -14 1637
+266 -15 -15
+197 1639 1640
+118 -1 -3
+53 -3 1641
+84 -3 1642
+118 -3 -3
+532 -14 1644
+305 -9 1645
+98 -13 1646
+13 1647 -9
+157 -19 1648
+2484 -3 1649
+76 -13 1650
+375 -13 1651
+251 -3 1652
+54 -3 1653
+959 -3 1654
+2135 -3 1655
+48 -3 1656
+162 -3 -3
+3322 -14 1658
+54 -17 -13
+137 1660 1680
+152 1661 1665
+2398 -1 1662
+4 1663 -17
+34 1664 -17
+151 -17 -17
+341 -21 1666
+72 1667 1669
+567 -7 1668
+1528 -11 -1
+1557 -15 1670
+33 1671 -1
+352 -1 -1
+1004 -17 1673
+221 -21 1674
+659 -21 1675
+724 -21 1676
+4 1677 -1
+402 -21 1678
+13 1679 -1
+332 -1 -1
+84 1681 1697
+1557 -15 1682
+33 1683 1696
+72 1684 1685
+4 -21 -5
+341 1686 1687
+4 -21 -21
+4 1688 1693
+659 -14 1689
+656 -3 1690
+152 1691 -21
+370 -3 1692
+151 -21 -21
+221 -21 1694
+332 -5 1695
+402 -16 -21
+13 -7 -27
+48 1698 1712
+1557 -15 1699
+72 1700 1704
+530 -5 1701
+1324 -5 1702
+1554 -5 1703
+4 -21 -21
+152 1705 1706
+151 -21 -21
+1673 1707 1708
+341 -3 -3
+4 1709 -21
+221 -21 -21
+342 1711 -21
+2536 -21 -21
+53 1713 1734
+655 -14 1714
+72 1715 1722
+4 -14 1716
+567 -12 1717
+1309 -12 1718
+1207 -2 1719
+288 -15 1720
+1616 -15 1721
+1462 -5 -5
+656 1723 1724
+1557 -15 -5
+997 -12 1725
+152 1726 1729
+370 -12 1727
+4 1728 -2
+151 -3 -3
+746 -12 1730
+402 -14 1731
+659 -14 1732
+341 1733 -3
+4 -3 -3
+110 1735 1753
+341 -3 1736
+655 -3 1737
+1865 -10 1738
+72 1739 1744
+288 -15 1740
+412 -3 1741
+4 -12 1742
+493 -12 1743
+1309 -12 -14
+370 1745 1746
+4 -12 -5
+4 1747 1751
+332 -2 1748
+2480 -3 -3
+1310 -2 1750
+151 -3 -14
+151 -12 1752
+960 -12 -3
+515 1754 1769
+659 -15 -15
+1624 -23 1756
+3675 -15 1757
+4 -15 1758
+3263 -15 -15
+72 1760 1764
+2064 -14 1761
+2046 -15 1762
+2882 -15 1763
+4 -21 -21
+2450 -21 1765
+655 1766 1767
+4 -2 -5
+341 -5 1768
+4 -14 -14
+162 1770 1782
+1557 -15 1771
+152 1772 1774
+151 1773 -21
+4 -21 -21
+341 1775 1776
+4 -21 -21
+221 1777 1778
+746 -12 -21
+4 1779 -5
+655 -5 1780
+332 -3 1781
+72 -21 -14
+152 1783 1814
+532 1784 1785
+4 -2 -19
+266 -3 1786
+157 1787 1789
+4 1788 -19
+370 -19 -19
+54 -15 1790
+337 1791 1794
+3450 -29 1792
+4 1793 -12
+151 -12 -12
+96 -13 -13
+4 1796 1809
+305 -9 1797
+2484 -5 1798
+1284 -21 1799
+1708 -21 1800
+100 -9 1801
+251 -17 1802
+884 -3 1803
+209 -12 1804
+806 -12 1805
+76 -13 1806
+104 -15 1807
+128 -15 1808
+197 -15 -13
+209 -12 1810
+98 -26 1811
+370 -1 1812
+375 -8 1813
+674 -13 -9
+4 1815 1843
+1557 1816 1819
+1708 -15 1817
+54 -1 1818
+100 -9 -19
+72 1820 1823
+34 1821 -1
+128 -5 1822
+266 -14 -21
+655 1824 1826
+532 -15 1825
+884 -3 -5
+659 1827 1828
+157 -11 -9
+266 -3 1829
+532 -2 1830
+251 1831 1832
+332 -17 -21
+49 -3 1833
+239 -3 1834
+2484 -3 1835
+332 -21 1836
+104 -21 1837
+1284 -21 1838
+341 1839 1842
+884 -3 1840
+128 -21 1841
+197 -21 -21
+656 -21 -21
+72 1844 1850
+337 -12 1845
+96 -12 1846
+98 -13 1847
+157 -19 1848
+209 -1 1849
+305 -9 -11
+402 1851 1855
+305 -9 1852
+256 -12 1853
+671 1854 -14
+13 -19 -1
+332 1856 1858
+724 -1 1857
+98 -13 -5
+1786 1859 1860
+76 -13 -19
+98 -13 1861
+375 -13 1862
+49 -3 1863
+5045 -3 -21
+137 1865 2029
+152 1866 1890
+136 -11 1867
+151 1868 1882
+313 -17 1869
+294 -1 1870
+500 -1 1871
+990 -1 1872
+3480 -1 1873
+426 -1 1874
+547 1875 1877
+4 1876 -17
+34 -17 -17
+1563 1878 1879
+4 -17 -17
+338 1880 -17
+4 1881 -17
+13 -19 -17
+1024 -17 -17
+489 -17 1884
+82 -1 1885
+370 1886 1889
+2460 -1 1887
+385 1888 -17
+79 -17 -1
+1065 -17 -1
+136 1891 1892
+1037 -5 -11
+2796 -21 1893
+426 -19 1894
+6 1895 1973
+159 1896 1909
+979 1897 1899
+487 -1 1898
+812 -18 -15
+1065 -17 1900
+1770 -1 1901
+547 1902 1903
+4 -1 -1
+319 -17 1904
+385 -17 1905
+487 1906 1908
+4 1907 -1
+13 -17 -1
+1024 -1 -1
+990 -1 1910
+777 1911 1912
+1336 -19 -1
+2661 -11 1913
+4161 -15 1914
+1770 -17 1915
+34 1916 -1
+1410 1917 1919
+269 -17 1918
+338 -19 -1
+449 -17 1920
+1073 -1 1921
+1065 -17 1922
+3090 -17 1923
+2460 -1 1924
+1651 1925 1926
+5 -1 -17
+405 -17 1927
+1024 -17 1928
+1336 -17 1929
+2172 -1 1930
+594 -17 1931
+1037 -17 1932
+1563 -17 1933
+1978 -17 1934
+1629 1935 1936
+2302 -1 -17
+827 -1 1937
+4 1938 1962
+319 -17 1939
+1361 -17 1940
+283 -1 1941
+1923 -1 1942
+3091 -1 1943
+59 1944 1950
+293 -1 1945
+630 -17 1946
+636 -17 -17
+1946 -17 1948
+2008 -17 1949
+547 -17 -1
+293 -17 1951
+468 -1 1952
+1191 -17 1953
+1354 -17 1954
+3579 -17 1955
+4631 -17 1956
+1351 -1 1957
+1507 -1 1958
+1571 -1 1959
+2302 -1 1960
+630 -1 1961
+487 -1 -1
+3091 -17 1963
+547 1964 1966
+5 -17 -17
+832 -1 -17
+832 1967 1968
+487 -1 -17
+1191 -17 1969
+1494 -17 1970
+3902 -17 1971
+974 1972 -1
+338 -1 -17
+1004 1974 1977
+1250 -17 1975
+34 -17 1976
+223 -17 -1
+487 -1 1978
+32 1979 1992
+1770 -17 1980
+1507 -1 -1
+1719 -11 1982
+449 -17 1983
+594 -17 1984
+827 -17 1985
+1191 -17 1986
+1478 -17 1987
+2172 -17 1988
+1336 1989 1990
+31 -17 -1
+547 1991 -1
+118 -1 -1
+449 1993 1994
+221 -17 -18
+72 1995 1999
+4 -1 1996
+547 -17 1997
+1065 -17 1998
+3090 -17 -1
+547 2000 2002
+2287 -21 2001
+4 -1 -1
+34 2003 2025
+659 -1 2004
+656 -1 2005
+385 2006 2008
+402 -1 2007
+4172 -1 -17
+630 -15 2009
+948 -15 2010
+594 -21 2011
+1107 -1 2012
+4 2013 2021
+221 -21 2014
+629 -21 2015
+269 -21 2016
+319 -17 2017
+338 -1 2018
+294 -17 2019
+658 -17 2020
+2008 -17 -1
+1563 -21 2022
+724 -21 2023
+1486 -21 2024
+2286 -21 -17
+338 -1 2026
+37 2027 -1
+539 2028 -17
+13 -17 -1
+6 2030 2141
+99 2031 2032
+159 -21 -9
+305 -9 2033
+157 2034 2039
+156 -19 -19
+270 -19 2036
+4 2037 -11
+5 -11 -11
+354 -24 -19
+197 -1 2040
+98 2041 2049
+1661 -26 2042
+1629 -13 2043
+832 2044 2045
+97 -13 -13
+4 2046 -13
+97 2047 -13
+34 2048 -13
+5 -13 -13
+76 2050 2061
+159 2051 2052
+75 -8 -13
+1934 -26 2053
+389 -26 2054
+373 2055 -13
+461 -26 2056
+359 -13 2057
+777 -13 2058
+4 2059 -13
+5 2060 -13
+34 -13 -13
+54 -1 2062
+237 2063 2066
+972 -7 2064
+11 -1 2065
+3123 -1 -14
+183 2067 2073
+337 -3 2068
+36 2069 -26
+5 -13 2070
+4 2071 -13
+159 2072 -13
+34 -13 -13
+84 2074 2095
+1270 -14 2075
+4 2076 2090
+59 2077 2082
+2523 -15 2078
+897 -15 2079
+1036 -15 2080
+1040 -3 2081
+2240 -3 -21
+1052 -2 2083
+1280 -21 2084
+2240 -21 2085
+546 -14 2086
+3330 -14 2087
+3815 -14 2088
+915 2089 -15
+5 -14 -15
+2766 -14 2091
+546 -14 2092
+131 -2 2093
+897 -2 2094
+1830 -2 -15
+162 2096 2105
+59 2097 2100
+2323 -21 2098
+698 -1 2099
+2248 -2 -14
+5 2101 -15
+1103 2102 2103
+4 -5 -15
+1317 -14 2104
+2323 -21 -15
+48 2106 2112
+1881 -21 2107
+464 -14 2108
+3815 -14 2109
+461 -21 2110
+1194 -21 2111
+2662 -21 -15
+532 2113 2115
+59 -14 -14
+4 -1 -14
+251 2116 2119
+1757 -17 2117
+5 2118 -1
+4 -15 -1
+674 -13 2120
+1098 2121 2122
+1475 -26 -13
+375 -13 2123
+110 2124 2125
+4 -2 -1
+515 2126 2128
+5 2127 -5
+920 -3 -2
+184 -26 2129
+5 2130 2133
+234 -16 2131
+168 2132 -12
+4 -12 -12
+2894 -21 2134
+128 -2 2135
+77 -3 2136
+104 -21 2137
+256 2138 2139
+1256 -12 -3
+59 -12 2140
+336 -12 -12
+110 2142 2145
+72 -3 2143
+4 -14 2144
+32 -15 -3
+157 2146 2155
+1004 -21 2147
+156 2148 -19
+13 2149 -19
+31 -19 2150
+402 -19 2151
+32 2152 2154
+1080 -11 2153
+118 -19 -11
+151 -11 -11
+152 2156 2206
+237 2157 2162
+3034 -17 2158
+34 2159 -7
+1962 -7 2160
+972 2161 -7
+4 -7 -7
+1865 2163 2168
+173 -12 2164
+96 -10 2165
+75 -8 2166
+1934 -26 2167
+2395 -26 -8
+98 2169 2176
+2395 -26 2170
+4 2171 2173
+318 2172 -13
+151 -13 -13
+3307 -13 2174
+997 2175 -13
+11 -13 -13
+76 2177 2185
+1934 -26 2178
+997 -8 2179
+444 -13 2180
+4 2181 -13
+373 2182 -13
+370 -13 2183
+151 2184 -13
+34 -13 -13
+184 2186 2187
+444 -13 -13
+99 -9 2188
+305 -9 2189
+674 2190 2191
+444 -26 -13
+375 -13 2192
+1098 -13 2193
+168 2194 2195
+4 -29 -29
+84 2196 2197
+360 -3 -21
+48 -21 2198
+251 -17 2199
+884 -3 2200
+197 -15 2201
+379 -28 2202
+1084 -7 2203
+162 -21 2204
+515 -21 2205
+1544 -21 -12
+221 2207 2214
+76 -13 2208
+184 -13 2209
+173 -12 2210
+3757 2211 2212
+98 -13 -12
+549 -12 2213
+673 -13 -21
+98 2215 2218
+3732 -8 2216
+1661 -26 2217
+332 -13 -13
+287 -5 2219
+76 2220 2221
+1934 -26 -13
+32 2222 2248
+99 -9 2223
+305 -9 2224
+920 -3 2225
+184 -13 2226
+673 -13 2227
+375 -13 2228
+84 2229 2230
+1801 -2 -14
+532 2231 2232
+185 -1 -14
+48 2233 2236
+440 -14 2234
+1940 2235 -3
+31 -3 -14
+884 -3 2237
+162 2238 2240
+118 -5 2239
+31 -3 -15
+183 2241 2242
+337 -14 -26
+251 -1 2243
+197 -1 2244
+104 -3 2245
+96 -15 2246
+515 -1 2247
+1098 -26 -12
+515 2249 2255
+655 -3 2250
+3711 -15 2251
+3712 2252 2253
+2961 -15 -21
+2961 -15 2254
+3263 -15 -15
+237 2256 2261
+4 2257 2258
+72 -14 -21
+341 -21 2259
+72 -15 2260
+1250 -15 -1
+532 -14 2262
+305 -9 2263
+99 2264 2268
+656 -9 2265
+341 -3 2266
+332 -21 2267
+402 -21 -9
+72 2269 2276
+162 2270 2271
+4 -5 -5
+183 -13 2272
+48 -3 2273
+84 -21 2274
+251 -17 2275
+1098 -13 -12
+341 2277 2287
+4 2278 2286
+48 -3 2279
+1573 -3 2280
+1619 -3 2281
+84 -21 2282
+162 -21 2283
+96 -3 2284
+197 -3 2285
+318 -3 -21
+375 -13 -21
+251 2288 2289
+1107 -15 -1
+3312 -3 2290
+884 2291 2293
+2705 2292 -21
+2451 -21 -3
+205 -14 2294
+554 -15 2295
+1098 -13 2296
+104 -21 2297
+239 -21 -21
+2836 -21 2299
+84 -21 2300
+54 -21 2301
+2286 -21 2302
+3197 -21 2303
+184 -13 2304
+375 -13 2305
+673 -13 -12
+64 2307 3161
+62 2308 2607
+477 2309 2352
+61 2310 2331
+16 2311 2318
+1879 -27 2312
+2334 -27 2313
+1 2314 -25
+110 -25 2315
+48 -25 2316
+4 2317 -25
+162 -25 -25
+56 -27 2319
+154 -27 2320
+2607 -27 2321
+2 -27 2322
+1879 -27 2323
+45 -27 2324
+162 -27 2325
+831 -27 2326
+84 2327 -25
+1 2328 -27
+1439 -27 2329
+167 2330 -25
+4 -25 -25
+116 2332 2334
+84 -25 2333
+48 -7 -8
+262 2335 2337
+9 2336 -25
+1 -27 -25
+79 -27 2338
+179 -27 2339
+2107 -27 2340
+1 2341 -25
+465 -27 2342
+1260 2343 2344
+9 -25 -27
+4 2345 -25
+170 -27 2346
+84 2347 -25
+17 2348 2351
+233 2349 -25
+9 -25 2350
+12 -25 -25
+154 -25 -25
+128 2353 2394
+155 -7 2354
+63 2355 2356
+4 -7 -25
+16 2357 2361
+130 2358 2360
+111 -15 2359
+4 -20 -18
+1 -7 -27
+325 -25 2362
+66 2363 2364
+748 -25 -7
+1219 -15 2365
+233 2366 2375
+167 -20 2367
+282 -25 -25
+68 -20 -12
+585 -12 2370
+713 -12 2371
+264 2372 2374
+70 -20 2373
+4 -25 -20
+45 -20 -25
+261 -7 2376
+355 -7 2377
+4 2378 2393
+303 -25 2379
+7 -25 2380
+938 2381 2382
+253 -25 -20
+713 -25 2383
+2924 -25 2384
+219 2385 2386
+61 -20 -20
+167 -25 -25
+68 -25 2388
+45 -20 2389
+264 2390 2391
+15 -20 -25
+120 -20 2392
+1536 -20 -25
+56 -20 -25
+111 2395 2461
+24 2396 2418
+17 -14 -14
+4 2398 -7
+11 -7 2399
+53 -7 2400
+1 2401 2402
+95 -7 -14
+9 -14 -7
+3012 -7 2404
+162 -14 2405
+2 -7 2406
+28 2407 2409
+84 2408 -14
+1 -14 -14
+26 -7 2410
+54 -7 2411
+691 -7 2412
+2312 -7 2413
+3043 -7 2414
+48 2415 -14
+254 -14 2416
+1 2417 -14
+9 -7 -14
+213 2419 2430
+155 2420 2424
+56 -28 2421
+116 -28 2422
+133 2423 -7
+2 -7 -28
+162 -28 2425
+66 -7 2426
+84 2427 2428
+9 -28 -7
+752 2429 -7
+1 -28 -7
+479 2431 2433
+154 -7 -7
+87 -25 -16
+83 2434 2436
+1 -7 2435
+9 -27 -14
+1768 -1 2437
+3253 -25 2438
+1281 -18 2439
+309 2440 2442
+163 -18 2441
+2527 -16 -7
+498 2443 2444
+1 -14 -7
+163 2445 2447
+9 -14 2446
+3330 -14 -7
+3219 -14 2448
+84 -7 2449
+240 2450 2454
+17 2451 2452
+1 -14 -7
+206 2453 -7
+52 -7 -14
+254 2455 2456
+4 -14 -7
+1260 2457 2458
+144 -14 -7
+91 2459 -7
+162 2460 -7
+4 -14 -7
+213 -7 -7
+239 -15 2463
+1034 -16 2464
+1122 -28 2465
+61 2466 2476
+162 2467 2468
+278 -7 -28
+26 -28 2469
+356 -28 2470
+3607 -28 2471
+717 -28 2472
+53 2473 2474
+4 -28 -7
+116 2475 -7
+84 -28 -7
+154 -7 2477
+189 -28 2478
+427 2479 2480
+162 -27 -7
+27 -28 2481
+360 -28 2482
+806 2483 2484
+9 -7 -28
+53 2485 -7
+15 -7 -28
+54 2487 2492
+155 -7 2488
+186 -20 2489
+403 -27 2490
+1 2491 -15
+144 -5 -25
+1563 -16 2493
+33 2494 2598
+91 2495 2513
+84 2496 2502
+1724 -27 2497
+12 -18 2498
+640 -18 2499
+4 2500 -7
+120 -7 2501
+61 -7 -7
+48 2503 2507
+120 2504 2505
+4 -27 -18
+61 2506 -7
+1 -7 -7
+110 2508 2510
+61 2509 -7
+1 -14 -7
+53 2511 -7
+61 2512 -7
+4 -7 -7
+312 -14 2514
+155 2515 2540
+1826 2516 2518
+4 -7 2517
+61 -10 -12
+61 2519 2525
+2764 -18 2520
+140 -14 2521
+1061 -14 2522
+3240 -14 2523
+531 2524 -7
+2 -14 -7
+58 -6 2526
+885 -5 2527
+1795 2528 2529
+24 -16 -7
+56 2530 2533
+246 2531 -7
+4 2532 -7
+17 -7 -7
+1090 2534 2535
+70 -12 -7
+973 2536 2537
+17 -12 -7
+479 2538 -7
+66 2539 -7
+4 -12 -7
+234 2541 2543
+120 -16 2542
+4 -7 -28
+239 2544 2545
+9 -25 -15
+84 2546 2568
+309 2547 2552
+132 -18 2548
+1691 -5 2549
+2182 -27 2550
+403 2551 -7
+179 -18 -7
+134 2553 2556
+61 2554 2555
+9 -16 -25
+114 -12 -7
+2481 -18 2557
+7 2558 2563
+170 -25 2559
+422 -25 2560
+1982 -25 2561
+12 2562 -7
+16 -25 -7
+937 -25 2564
+996 -25 2565
+2527 -25 2566
+165 2567 -7
+61 -28 -7
+15 2569 2589
+69 2570 2573
+256 -5 2571
+133 2572 -7
+162 -5 -7
+1578 2574 2575
+7 -7 -18
+334 -25 2576
+1859 -25 2577
+2662 -25 2578
+830 2579 2580
+2 -25 -7
+29 2581 2582
+7 -12 -7
+28 2583 2584
+52 -25 -7
+52 2585 -7
+61 2586 -7
+1 2587 -7
+4 2588 -7
+7 -7 -7
+859 -25 2590
+647 -15 2591
+749 -15 2592
+1447 2593 2594
+66 -15 -7
+1145 2595 2596
+9 -27 -7
+308 2597 -7
+53 -27 -7
+186 -20 2599
+162 2600 2603
+479 2601 2602
+154 -16 -12
+15 -16 -7
+2126 2604 2606
+48 2605 -7
+4 -25 -12
+202 -27 -7
+152 2608 2679
+477 2609 2610
+189 -16 -25
+128 2611 2614
+70 2612 2613
+1 -25 -25
+7 -7 -20
+24 2615 2632
+713 -15 2616
+137 -7 2617
+151 2618 -14
+26 -14 2619
+28 2620 2621
+1 -7 -14
+52 -14 2622
+133 -14 2623
+9 2624 2625
+56 -14 -7
+988 -7 2626
+1339 -7 2627
+1863 -7 2628
+1 2629 -14
+84 2630 2631
+15 -7 -14
+53 -14 -14
+887 -24 2633
+2480 2634 2637
+70 2635 2636
+48 -14 -7
+104 -25 -14
+4 2638 -7
+53 2639 2645
+206 -7 2640
+130 2641 2642
+151 -14 -14
+63 2643 -7
+9 -14 2644
+19 -7 -7
+163 2646 2647
+1 -15 -5
+467 -1 2648
+219 2649 2650
+15 -15 -14
+1213 -15 2651
+1826 -15 2652
+2 2653 2654
+15 -14 -7
+326 2655 2656
+56 -7 -14
+1 2657 2669
+264 -14 2658
+513 -14 2659
+585 -14 2660
+110 2661 2662
+15 -14 -7
+70 2663 -7
+66 2664 2665
+403 -14 -7
+63 2666 -7
+34 2667 -7
+154 2668 -7
+84 -7 -7
+403 -7 2670
+48 2671 2672
+2662 -14 -7
+7 2673 2674
+884 -14 -7
+9 -14 2675
+240 -14 2676
+52 2677 -7
+193 -7 2678
+188 -7 -14
+24 2680 2752
+134 2681 2697
+84 2682 2687
+31 2683 2685
+17 -2 2684
+28 -5 -15
+4 2686 -2
+5 -15 -15
+32 2688 2689
+23 -2 -15
+59 2690 2693
+13 2691 -16
+4 -14 2692
+53 -14 -2
+53 -14 2694
+1 2695 -14
+5 2696 -14
+23 -14 -14
+11 2698 2700
+12 -15 2699
+5 -2 -5
+6 2701 2737
+16 2702 2713
+48 2703 2706
+159 2704 2705
+1 -9 -14
+1 -1 -14
+914 -15 2707
+1563 -16 2708
+237 -7 2709
+52 2710 -14
+290 -7 2711
+1 2712 -14
+5 -14 -14
+843 2714 2716
+15 -2 2715
+485 -15 -14
+1880 -2 2717
+1674 2718 2719
+15 -12 -14
+2979 -15 2720
+1711 2721 2722
+1 -15 -14
+229 2723 2724
+68 -15 -14
+88 2725 2732
+59 2726 -14
+56 2727 2728
+2 -15 -14
+162 2729 -14
+66 2730 -14
+4 2731 -14
+1 -14 -14
+334 2733 -14
+5 2734 -14
+1 2735 -14
+48 2736 -14
+4 -14 -14
+221 -14 -14
+15 -14 -7
+27 2740 2743
+87 2741 2742
+23 -15 -5
+31 -14 -14
+253 -5 2744
+48 2745 2748
+1171 -15 2746
+16 -7 2747
+279 -7 -14
+84 2749 -14
+189 -15 2750
+31 -2 2751
+146 -7 -14
+128 2753 2768
+676 2754 2759
+332 2755 2757
+4 2756 -25
+17 -25 -20
+281 -25 2758
+3145 -12 -24
+167 2760 2762
+5 2761 -5
+4 -25 -15
+938 2763 2764
+15 -24 -30
+130 2765 2766
+1 -24 -25
+6 2767 -7
+355 -7 -14
+7 2769 2809
+155 2770 2790
+4 2771 2787
+87 2772 2777
+84 2773 2776
+144 -7 2774
+9 2775 -14
+26 -14 -15
+66 -14 -7
+95 -7 2778
+56 -7 2779
+162 -7 2780
+5 2781 -14
+334 -14 2782
+23 -14 2783
+110 -14 2784
+1472 -14 2785
+1 2786 -7
+9 -7 -7
+359 -14 2788
+536 -14 2789
+728 -14 -7
+26 2791 2792
+1 -1 -24
+84 2793 2801
+5 2794 2798
+45 -25 2795
+17 2796 -7
+68 -7 2797
+473 -7 -14
+116 -15 2799
+68 -25 2800
+9 -7 -25
+146 -25 2802
+264 -25 2803
+133 -14 2804
+284 -14 2805
+326 -14 2806
+656 -14 2807
+1051 -14 2808
+1099 -14 -7
+221 2810 2812
+477 -27 2811
+54 -25 -7
+332 2813 2824
+1749 2814 2815
+16 -7 -7
+15 2816 2819
+163 -1 2817
+1 -14 2818
+45 -14 -7
+724 -15 2820
+4 2821 -1
+355 2822 2823
+56 -1 -7
+69 -7 -1
+477 2825 2847
+17 2826 2836
+167 -5 2827
+1 2828 -14
+159 2829 2830
+4 -15 -14
+84 2831 2834
+4 2832 -25
+5 2833 -14
+9 -14 -25
+4 2835 -25
+9 -27 -14
+116 2837 2838
+1 -14 -25
+9 2839 2846
+84 2840 2844
+159 -14 -14
+114 -15 2842
+167 2843 -14
+4 -15 -14
+48 2845 -24
+1 -14 -15
+70 -25 -14
+6 -14 -14
+325 2849 2858
+59 2850 2851
+23 -5 -15
+254 -15 2852
+15 -14 2853
+70 2854 2855
+4 -14 -15
+155 2856 -15
+1 2857 -14
+17 -14 -7
+52 2859 2890
+159 2860 2863
+70 2861 -14
+189 -23 2862
+4 -14 -2
+87 2864 2865
+5 -14 -15
+832 -7 2866
+115 2867 2874
+246 2868 2873
+1 -7 2869
+1047 -7 2870
+2155 2871 -14
+133 -14 2872
+195 -14 -7
+565 -14 -7
+261 2875 2876
+5 -7 -14
+343 -7 2877
+823 -7 2878
+2144 -7 2879
+2333 -7 2880
+3001 -7 2881
+3928 -7 2882
+4726 -7 2883
+1209 2884 2886
+5 -14 2885
+63 -7 -14
+1 2887 -14
+4 2888 -14
+63 2889 -14
+5 -14 -14
+155 2891 2988
+279 2892 2926
+154 2893 2916
+193 -7 2894
+3902 -7 2895
+121 -1 2896
+2644 -1 2897
+1 2898 2910
+159 2899 2904
+246 2900 2901
+110 -14 -14
+63 2902 -14
+84 2903 -14
+4 -14 -14
+213 2905 2907
+5 -14 2906
+84 -1 -14
+266 2908 -14
+4 2909 -14
+63 -14 -14
+2541 2911 2912
+4 -1 -14
+430 2913 2914
+2 -7 -14
+833 2915 -14
+5 -14 -7
+4 2917 2922
+246 -1 2918
+213 2919 2920
+159 -14 -1
+59 2921 -14
+53 -15 -14
+290 -1 2923
+1 2924 -15
+138 -15 2925
+728 -15 -14
+1 2927 2980
+2260 -7 2928
+1830 -2 2929
+276 -15 2930
+116 2931 2933
+63 2932 -14
+9 -16 -14
+20 -7 2934
+251 -7 2935
+300 -7 2936
+3763 -7 2937
+359 2938 2939
+9 -7 -14
+676 2940 2942
+5 -14 2941
+4 -7 -15
+26 2943 2946
+84 2944 -14
+4 2945 -14
+17 -14 -7
+2 -14 2947
+732 -15 2948
+777 -15 2949
+1142 -15 2950
+4 2951 -14
+1219 -15 2952
+1358 -15 2953
+1711 -15 2954
+4045 -15 2955
+9 2956 -14
+159 2957 2965
+201 -15 2958
+63 2959 2964
+144 -14 2960
+17 -14 2961
+56 -14 2962
+162 2963 -15
+66 -14 -15
+945 -15 -14
+261 -15 2966
+219 2967 2968
+84 -14 -15
+213 2969 2971
+95 2970 -14
+110 -14 -15
+88 2972 -14
+240 2973 2974
+246 -15 -14
+66 2975 -14
+403 2976 2977
+5 -15 -14
+5 -14 2978
+84 2979 -14
+63 -15 -14
+240 2981 2984
+430 -7 2982
+87 2983 -14
+4 -14 -7
+138 -15 2985
+193 -7 2986
+864 2987 -14
+5 -7 -14
+53 2989 3000
+2239 -1 2990
+2260 -7 2991
+807 2992 2994
+4 2993 -14
+5 -14 -14
+989 2995 2996
+4 -7 -14
+91 2997 -14
+4 2998 -14
+59 -14 2999
+5 -14 -14
+832 3001 3004
+15 3002 3003
+110 -5 -5
+1 -25 -14
+162 3005 3024
+482 -1 3006
+571 -5 3007
+3763 -7 3008
+143 -15 3009
+854 -15 3010
+63 3011 3016
+1 3012 -14
+5 -14 3013
+66 3014 3015
+4 -14 -15
+13 -15 -14
+2190 -15 3017
+161 3018 3019
+5 -15 -14
+404 3020 3021
+159 -14 -14
+358 3022 -14
+59 3023 -14
+1 -15 -14
+961 3025 3028
+84 3026 3027
+5 -14 -5
+4 -2 -14
+1566 -5 3029
+54 3030 3031
+5 -14 -24
+676 -24 3032
+104 3033 3034
+1 -2 -24
+219 3035 3037
+167 -2 3036
+5 -5 -14
+58 -6 3038
+1609 -7 3039
+134 3040 3042
+17 -15 3041
+110 -2 -14
+1503 -2 3043
+355 -14 3044
+23 -14 3045
+11 -15 3046
+1696 -15 3047
+1843 -15 3048
+116 -14 3049
+68 3050 3052
+5 3051 -14
+17 -14 -7
+84 3053 3065
+1270 -7 3054
+520 3055 3056
+5 -7 -14
+115 3057 3058
+1 -7 -14
+63 3059 3063
+159 3060 3061
+15 -14 -15
+16 3062 -14
+59 -14 -14
+254 3064 -14
+144 -15 -14
+261 3066 3068
+4 3067 -7
+137 -7 -14
+1513 -7 3069
+1910 -7 3070
+59 3071 3076
+2276 -7 3072
+404 3073 3075
+237 -14 3074
+2484 -7 -7
+2615 -7 -14
+2117 -7 -14
+9 3078 3117
+32 3079 3097
+31 3080 3082
+52 -7 3081
+167 -7 -14
+246 3083 3085
+155 -15 3084
+1 -14 -1
+15 3086 3095
+1046 -7 3087
+355 -14 3088
+87 -2 3089
+253 -2 3090
+68 -15 3091
+133 3092 3094
+48 -14 3093
+1768 -14 -15
+53 -15 -14
+240 -15 3096
+485 -1 -14
+659 3098 3099
+52 -23 -14
+134 3100 3101
+1 -15 -7
+189 3102 3103
+70 -14 -15
+4 3104 3107
+402 3105 3106
+15 -14 -5
+54 -5 -14
+240 3108 3109
+84 -15 -5
+201 -15 3110
+154 3111 3114
+63 3112 3113
+26 -7 -5
+66 -7 -14
+69 -7 3115
+110 -7 3116
+430 -7 -14
+185 3118 3126
+237 -17 3119
+261 3120 3121
+53 -5 -14
+26 -5 3122
+91 3123 3124
+52 -14 -14
+565 -1 3125
+711 -1 -14
+163 3127 3128
+2 -7 -5
+261 3129 3131
+1 -15 3130
+110 -5 -7
+465 3132 3133
+1 -24 -7
+1673 -7 3134
+565 3135 3137
+15 3136 -1
+628 -5 -14
+154 3138 3144
+1080 -7 3139
+213 -1 3140
+63 3141 -14
+162 3142 3143
+4 -1 -15
+84 -14 -14
+1528 -15 3145
+834 -7 3146
+2469 -7 3147
+12 -7 3148
+483 -7 3149
+690 -7 3150
+705 -7 3151
+2392 -7 3152
+63 3153 -14
+1309 -7 3154
+1209 3155 3156
+72 -7 -14
+2073 3157 3158
+4 -7 -14
+31 3159 -14
+53 3160 -14
+15 -14 -7
+62 3162 4652
+61 3163 3576
+86 3164 3293
+58 3165 3168
+317 -17 3166
+189 -7 3167
+13 -18 -7
+7 -10 -10
+435 3170 3171
+68 -10 -16
+54 -12 3172
+1130 -12 3173
+1709 -12 3174
+240 3175 3180
+162 -10 3176
+2 -10 3177
+1212 -10 3178
+84 -12 3179
+15 -10 -12
+1 3181 3202
+165 3182 3183
+9 -12 -10
+53 -12 3184
+128 -12 3185
+265 -12 3186
+303 -12 3187
+592 -12 3188
+707 -12 3189
+15 3190 -10
+68 3191 3195
+114 -12 3192
+144 -12 3193
+838 -12 3194
+84 -10 -10
+229 -12 3196
+48 -10 3197
+134 3198 3199
+1223 -12 -10
+16 3200 -10
+4 3201 -10
+84 -10 -10
+4 -10 3203
+15 3204 -10
+84 3205 -10
+107 -10 3206
+360 -10 3207
+976 -10 -12
+1648 3209 3211
+87 -27 3210
+110 -27 -10
+279 3212 3234
+360 -28 3213
+128 -10 3214
+441 -12 3215
+13 3216 -16
+132 -16 3217
+260 -16 3218
+331 -16 3219
+2607 3220 3221
+1 -16 -10
+84 3222 3227
+1 -10 3223
+4 3224 -10
+1335 -10 3225
+2389 -10 3226
+833 -10 -12
+1 3228 -10
+53 -10 3229
+1130 -12 3230
+4245 -12 3231
+4 3232 -10
+162 -10 3233
+48 -10 -10
+492 3235 3236
+9 -7 -12
+84 3237 3260
+15 3238 3254
+66 3239 3243
+132 -16 3240
+140 -12 3241
+639 -12 3242
+1 -10 -10
+13 3244 -16
+70 -16 3245
+219 -16 3246
+360 -16 3247
+2519 -16 3248
+144 3249 3250
+1 -16 -10
+830 -10 3251
+1 3252 -10
+133 -10 3253
+165 -10 -10
+66 3255 3256
+93 -12 -10
+189 -10 3257
+133 -10 3258
+107 -16 3259
+240 -12 -12
+110 3261 3263
+66 -28 3262
+4 -16 -7
+466 -7 3264
+705 -7 3265
+88 3266 3285
+9 3267 3280
+229 -16 3268
+167 3269 3272
+1162 -12 3270
+1 3271 -10
+4 -16 -10
+23 -10 3273
+56 -12 3274
+26 3275 3276
+4 -12 -10
+114 3277 3278
+48 -12 -10
+1465 3279 -10
+4 -10 -12
+1 3281 3283
+165 -10 3282
+884 -10 -16
+56 -12 3284
+48 -10 -5
+15 3286 3292
+144 -10 3287
+66 -10 3288
+133 -10 3289
+107 -10 3290
+691 -10 3291
+1660 -10 -16
+53 -5 -10
+392 3294 3299
+458 -20 3295
+66 -25 -25
+4915 -20 3297
+666 -5 3298
+2513 -5 -25
+146 3300 3307
+128 3301 3302
+4 -20 -25
+226 -10 3303
+748 3304 3305
+1 -5 -15
+2 -15 3306
+47 -27 -7
+16 3308 3415
+137 3309 3317
+3748 3310 3311
+189 -16 -27
+1 3312 -17
+25 -25 3313
+1355 -25 3314
+107 -7 3315
+142 3316 -17
+4 -7 -17
+2 3318 3326
+7 3319 -17
+4 3320 3325
+66 3321 3322
+1 -1 -17
+142 -17 3323
+216 -15 3324
+133 -27 -17
+1 -5 -18
+58 3327 3331
+347 -7 3328
+478 -7 3329
+127 3330 -18
+7 -7 -18
+54 3332 3333
+66 -25 -15
+1 3334 3381
+239 -15 3335
+66 3336 3341
+162 3337 3338
+7 -10 -10
+7 3339 3340
+84 -15 -27
+48 -16 -10
+162 -10 -10
+144 -10 3343
+210 -12 3344
+4 3345 3356
+707 3346 3347
+7 -7 -10
+387 -7 3348
+189 3349 3350
+7 -7 -16
+1012 -10 3351
+55 -12 3352
+107 -12 3353
+307 3354 -16
+7 -10 3355
+555 -12 -16
+775 -12 -10
+555 -16 3358
+144 -17 3359
+189 -14 3360
+13 3361 -16
+775 -16 3362
+104 -15 3363
+959 -15 3364
+4 3365 3380
+133 -12 3366
+165 -16 3367
+2314 -16 3368
+227 3369 3371
+48 3370 -10
+7 -10 -10
+23 -10 3372
+1044 3373 3374
+84 -16 -10
+84 3375 -10
+55 -7 3376
+306 -10 3377
+307 3378 3379
+7 -10 -10
+114 -10 -10
+2087 -7 -10
+251 -17 3382
+48 3383 3386
+781 -7 3384
+694 -17 3385
+66 -5 -10
+7 3387 3398
+47 -10 -10
+2087 -10 -27
+4 3390 3397
+959 -15 3391
+98 -8 3392
+75 -8 3393
+674 -8 3394
+42 -12 3395
+260 -12 3396
+144 -10 -10
+66 -7 -12
+177 3399 3400
+84 -7 -8
+189 3401 3402
+162 -10 -7
+307 3403 3408
+1174 -16 3404
+4 3405 -12
+132 -12 3406
+922 -12 3407
+2185 -12 -10
+89 -11 3409
+104 -15 3410
+972 -17 3411
+55 -16 3412
+130 -16 3413
+1078 -16 3414
+1731 -16 -10
+54 3416 3434
+4 3417 3430
+45 -15 -15
+15 -25 -5
+142 3420 3422
+7 3421 -5
+9 -15 -20
+1218 3423 3424
+1 -5 -24
+55 3425 3427
+398 3426 -5
+1 -15 -5
+265 -5 3428
+282 3429 -15
+7 -5 -15
+830 3431 3432
+7 -25 -27
+9 3433 -10
+95 -16 -15
+239 3435 3440
+314 -10 3436
+299 -25 3437
+25 -5 3438
+27 -5 3439
+250 -5 -15
+104 3441 3445
+4 3442 -20
+1322 -25 3443
+44 -5 3444
+70 -5 -15
+128 3446 3449
+7 -15 3447
+4 3448 -25
+303 -15 -20
+226 3450 3475
+1648 3451 3453
+56 -15 3452
+48 -5 -27
+116 3454 3455
+240 -16 -5
+1194 -28 3456
+260 -12 3457
+303 -7 3458
+996 -7 3459
+1731 -16 3460
+17 3461 3463
+68 -16 -16
+15 -10 -16
+229 -16 3464
+254 3465 -10
+34 -10 -10
+107 -16 3467
+371 -16 3468
+1327 -16 3469
+48 3470 -10
+167 -16 3471
+2131 -16 3472
+2153 -16 3473
+1 3474 -10
+9 -16 -10
+2 3476 3481
+4 3477 3479
+9 -17 3478
+876 -25 -15
+9 3480 -5
+15 -15 -7
+58 3482 3484
+216 3483 -17
+1 -7 -27
+749 3485 3487
+45 -25 3486
+107 -22 -15
+959 3488 3490
+66 -5 3489
+2423 -25 -15
+254 3491 3493
+4 -15 3492
+55 -5 -25
+75 -8 3494
+322 3495 3496
+1 -15 -5
+7 3497 3531
+95 3498 3502
+26 -10 3499
+162 3500 -16
+114 -10 3501
+9 -16 -10
+68 3503 3508
+227 -12 3504
+162 3505 3506
+1218 -5 -12
+48 -16 3507
+307 -5 -16
+17 3509 3520
+42 -27 3510
+434 -25 3511
+52 -7 3512
+167 -7 3513
+250 -12 3514
+106 -12 3515
+133 -12 3516
+1 3517 -10
+162 -12 3518
+240 -12 3519
+303 -12 -10
+27 -10 -10
+15 -12 -16
+84 3523 3527
+25 -7 3524
+434 -16 3525
+307 -12 3526
+87 -12 -10
+326 -10 3528
+142 3529 -5
+9 -10 3530
+87 -15 -7
+303 3532 3535
+17 3533 3534
+1 -15 -25
+162 -16 -7
+147 -10 -10
+9 -5 3537
+15 -15 -25
+137 3539 3540
+1 -25 -7
+88 -15 3541
+110 3542 3544
+115 3543 -12
+4 -16 -12
+1012 3545 3548
+1 3546 -12
+165 -12 3547
+4 -16 -12
+775 -12 3549
+52 3550 3551
+1 -16 -15
+134 3552 3553
+48 -15 -16
+9 3554 3569
+113 3555 3557
+116 -10 3556
+17 -7 -12
+264 -16 3558
+55 -12 3559
+969 -12 3560
+13 3561 -16
+583 -16 3562
+843 -16 3563
+2185 -16 3564
+590 -10 3565
+1223 3566 3567
+23 -16 -10
+181 3568 -10
+84 -10 -16
+266 -12 3570
+892 3571 3572
+199 -10 -16
+1 3573 3575
+170 -7 3574
+189 -7 -10
+47 -16 -7
+86 3577 3872
+7 3578 3603
+1991 -12 -12
+162 -7 -12
+719 3581 3587
+111 3582 3584
+45 -16 3583
+48 -12 -7
+3277 3585 3586
+1 -16 -12
+1663 -16 -12
+107 -5 3588
+769 -15 3589
+466 3590 3594
+110 -7 3591
+1 -12 3592
+33 3593 -12
+465 -12 -16
+162 3595 3599
+233 3596 3597
+1 -12 -16
+167 3598 -12
+111 -16 -12
+833 3600 -12
+120 3601 -12
+4 3602 -12
+9 -12 -12
+58 3604 3609
+316 3605 3606
+88 -7 -17
+17 3607 3608
+16 -19 -7
+361 -27 -18
+111 3610 3657
+128 -15 3611
+752 3612 3613
+278 -28 -16
+87 3614 3624
+1145 -28 3615
+167 3616 3617
+162 -16 -7
+303 -7 3618
+705 -7 3619
+84 3620 3621
+360 -12 -16
+4 3622 -12
+53 -12 3623
+1665 -12 -16
+833 -16 -16
+4 3626 -16
+13 -16 -16
+114 3628 3630
+48 -16 3629
+9 -25 -15
+928 -12 3631
+2527 -12 3632
+3069 -12 3633
+1260 -12 3634
+84 3635 3640
+277 -12 3636
+2100 -12 3637
+9 -16 3638
+1 3639 -16
+4 -16 -16
+485 -12 3641
+732 -12 3642
+9 3643 3645
+68 3644 -16
+88 -16 -16
+2 -12 3646
+167 -12 3647
+840 -12 3648
+1367 -12 3649
+2818 -12 3650
+1 3651 -16
+266 -12 3652
+4 3653 -16
+16 3654 -16
+54 -16 3655
+85 3656 -16
+110 -16 -16
+278 3658 3705
+2125 -16 3659
+4 3660 3692
+833 3661 3663
+427 -16 3662
+120 -12 -12
+2 -12 3664
+277 3665 3666
+120 -12 -12
+233 3667 3678
+266 -16 3668
+162 -16 3669
+1 3670 3671
+84 -12 -12
+132 -16 3672
+976 -12 3673
+1675 -12 3674
+1889 -12 3675
+2951 -12 3676
+3876 -12 3677
+360 -12 -16
+266 -12 3679
+1 3680 3688
+84 3681 3682
+120 -16 -16
+346 -12 3683
+13 3684 -12
+54 -12 3685
+110 3686 3687
+120 -12 -16
+120 -16 -12
+680 -16 3689
+981 -16 3690
+2312 -16 3691
+2914 -16 -12
+1122 -28 3693
+975 -16 3694
+1951 3695 3696
+1 -5 -12
+84 3697 -12
+1 3698 3704
+1034 -7 3699
+640 -7 3700
+1047 -12 3701
+960 -12 3702
+233 3703 -16
+1305 -12 -12
+260 -16 -12
+66 3706 3734
+53 -7 3707
+123 -28 3708
+421 -28 3709
+465 -16 3710
+120 3711 3718
+4 3712 3715
+84 3713 3714
+9 -12 -12
+48 -16 -16
+9 -12 3716
+1 3717 -12
+1047 -12 -16
+13 3719 -16
+277 -16 3720
+1077 -16 3721
+1305 -16 3722
+162 -12 3723
+1663 -16 3724
+2125 -16 3725
+4 3726 -12
+2217 -16 3727
+1 3728 -12
+171 3729 3731
+9 -16 3730
+233 -12 -16
+15 3732 -12
+84 3733 -12
+346 -12 -12
+88 -16 -16
+2 3736 3738
+732 -16 3737
+3277 -16 -12
+427 3739 3742
+84 3740 3741
+144 -12 -16
+732 -16 -12
+2482 3743 3744
+1 -5 -16
+960 -12 3745
+189 3746 3749
+2022 -12 3747
+48 -7 3748
+2283 -7 -16
+74 -7 3750
+443 -7 3751
+1933 -12 3752
+707 -12 3753
+1347 -12 3754
+1408 -12 3755
+144 3756 3759
+84 3757 -16
+233 -16 3758
+4 -16 -16
+1416 -12 3760
+120 3761 3776
+13 3762 -12
+110 -12 3763
+631 -12 3764
+664 -12 3765
+1804 -12 3766
+1831 -12 3767
+1951 -12 3768
+4 3769 -16
+23 -12 3770
+1 3771 -16
+9 3772 -16
+133 3773 3774
+84 -16 -12
+167 3775 -16
+84 -12 -16
+1 3777 3794
+114 -16 3778
+4 3779 3788
+162 -12 3780
+167 -16 3781
+233 3782 -16
+12 -16 3783
+26 -12 3784
+165 -12 3785
+883 -12 3786
+9 3787 -16
+48 -16 -12
+107 -16 3789
+1701 -16 3790
+1305 3791 3792
+48 -16 -12
+1874 3793 -12
+48 -12 -16
+833 3795 3796
+114 -16 -12
+277 -12 3797
+1317 -12 3798
+1599 -12 -16
+1122 -28 3800
+120 3801 3829
+68 3802 3812
+48 3803 3805
+713 -16 3804
+1 -15 -5
+266 -27 3806
+2566 -27 3807
+2 -12 3808
+229 -12 3809
+300 -12 3810
+133 3811 -16
+84 -12 -16
+219 3813 3814
+2 -28 -15
+1 3815 3825
+116 3816 3817
+84 -12 -16
+12 -16 3818
+4 3819 3824
+95 -16 3820
+128 -16 3821
+56 -12 3822
+115 -12 3823
+15 -12 -12
+84 -16 -12
+464 -28 3826
+2006 -28 3827
+95 -16 3828
+1697 -16 -12
+16 3830 3837
+233 3831 -16
+34 3832 -12
+1331 -12 3833
+3069 -12 3834
+4 3835 -16
+1 3836 -16
+48 -16 -16
+144 3838 3840
+68 3839 -12
+9 -16 -12
+398 -5 3841
+583 -5 3842
+897 -5 3843
+110 3844 3845
+4 -5 -12
+3277 -16 3846
+232 -16 3847
+107 -16 3848
+240 3849 3856
+48 -16 3850
+116 3851 3852
+4654 -16 -12
+4 -16 3853
+95 -16 3854
+1 -12 3855
+27 -12 -16
+233 3857 3870
+162 -16 3858
+435 -12 3859
+85 3860 3867
+26 -16 3861
+116 -16 3862
+167 -16 3863
+3397 -16 3864
+3993 -16 3865
+133 3866 -12
+1 -16 -12
+133 -16 3868
+68 3869 -12
+26 -12 -16
+52 -16 3871
+465 -16 -12
+392 3873 3902
+458 3874 3890
+335 -25 3875
+1839 -16 3876
+28 -12 3877
+182 -15 3878
+1276 -15 3879
+120 3880 3885
+240 -20 -20
+265 -12 3882
+398 -12 3883
+514 -12 3884
+1821 -12 -20
+2793 -12 3886
+250 3887 3888
+15 -20 -12
+875 3889 -20
+134 -20 -12
+391 -25 -25
+345 3892 3894
+17 -25 3893
+54 -5 -15
+326 -16 3895
+361 -6 3896
+474 -24 3897
+3801 -12 3898
+23 -5 3899
+460 -5 3900
+69 -7 3901
+147 -7 -25
+128 3903 3952
+74 3904 3911
+111 3905 3908
+45 3906 -15
+1 3907 -15
+4 -20 -15
+45 3909 -20
+7 3910 -20
+17 -20 -20
+111 3912 3919
+34 3913 3918
+15 3914 3916
+66 -16 3915
+95 -2 -15
+282 -15 3917
+264 -15 -25
+45 -20 -27
+146 3920 3921
+1575 -15 -20
+116 3922 3924
+12 -16 3923
+107 -20 -5
+4 3925 3938
+427 3926 3928
+70 -20 3927
+199 -12 -27
+34 3929 3937
+155 3930 3931
+7 -12 -16
+16 3932 3933
+120 -12 -27
+56 3934 3935
+15 -15 -27
+583 -5 3936
+1319 -5 -15
+66 -15 -20
+15 3939 3942
+307 -16 3940
+322 -15 3941
+2735 -7 -27
+666 3943 3944
+1 -25 -5
+17 3945 3950
+1584 -27 3946
+13 3947 -27
+240 -15 3948
+55 -15 3949
+216 -15 -5
+70 -15 3951
+133 -7 -27
+58 3953 3976
+74 3954 3956
+1357 -25 3955
+3366 -19 -7
+4 -18 -18
+15 3958 3967
+30 3959 3961
+55 -18 3960
+7 -17 -16
+427 3962 3963
+1 -17 -18
+258 -18 3964
+107 -18 3965
+111 3966 -7
+66 -7 -1
+9 -15 -17
+66 -7 3969
+1183 -27 3970
+1 -7 3971
+1281 3972 3974
+7 3973 -7
+120 -7 -18
+139 -7 3975
+707 -7 -18
+239 3977 3995
+315 -25 3978
+120 3979 3981
+1 -5 3980
+7 -5 -15
+2762 -20 3982
+178 -25 3983
+3389 -25 3984
+345 -5 3985
+721 -5 3986
+15 3987 -15
+16 -15 3988
+1 3989 3994
+66 -5 3990
+116 -5 3991
+165 -5 3992
+1275 3993 -15
+12 -15 -5
+249 -5 -15
+104 3996 4030
+142 3997 4004
+1575 -15 -15
+4 -5 -15
+1419 -20 4000
+144 -15 4001
+1028 -15 4002
+1299 4003 -25
+1 -25 -15
+315 4005 4007
+7 -12 4006
+4 -5 -25
+881 4008 4009
+7 -25 -5
+1778 -25 4010
+55 -15 4011
+640 -5 4012
+13 4013 -5
+242 -5 4014
+544 4015 4018
+15 -5 4016
+133 -5 4017
+216 -5 -15
+70 4019 4021
+120 4020 -5
+133 -5 -15
+29 -5 4022
+44 -5 4023
+280 -5 4024
+170 4025 4026
+17 -15 -5
+460 -5 4027
+2667 -5 4028
+1177 4029 -15
+240 -5 -15
+54 4031 4069
+16 4032 4036
+272 -20 4033
+307 -12 4034
+314 -20 4035
+2210 -20 -25
+116 4037 4041
+165 4038 4039
+167 -5 -20
+120 4040 -5
+1 -16 -7
+1094 4042 4044
+4 4043 -27
+7 -5 -20
+15 4045 4054
+7 4046 4050
+120 -20 -20
+34 -25 -20
+4 -20 4049
+95 -20 -27
+113 4051 4052
+17 -20 -25
+142 -25 4053
+377 -20 -15
+303 -15 -15
+4 -16 4056
+7 -27 -20
+111 4058 4059
+26 -25 -5
+142 4060 4062
+9 -15 4061
+492 -15 -25
+1300 -15 4063
+55 -5 4064
+7 4065 4068
+9 4066 -5
+4 4067 -15
+66 -15 -5
+409 -5 -15
+146 4070 4088
+142 4071 4075
+937 -20 4072
+1839 -5 4073
+249 4074 -7
+4 -5 -7
+747 -7 -7
+1744 -5 -15
+937 4078 4079
+17 -12 -20
+217 4080 4082
+216 4081 -16
+9 -27 -7
+17 4083 4084
+47 -12 -15
+227 -12 4085
+133 -12 4086
+189 -15 4087
+306 -16 -7
+137 4089 4113
+812 -25 4090
+1 4091 4107
+7 4092 4100
+34 -7 -7
+66 -19 4094
+144 4095 4096
+111 -25 -17
+4 4097 -25
+120 -25 -7
+165 -7 4099
+16 -5 -16
+13 4101 -7
+16 4102 4104
+2022 -7 4103
+107 -7 -17
+282 4105 4106
+4 -15 -17
+111 -7 -5
+15 -17 -17
+226 -15 4109
+539 -7 4110
+427 4111 -17
+142 -19 -17
+111 -14 -7
+2 4114 4162
+16 4115 4137
+2130 -18 4116
+107 4117 4118
+7 -25 -27
+142 4119 4130
+369 -12 4120
+346 4121 4124
+506 -17 4122
+130 -27 4123
+1 -25 -27
+1773 4125 4127
+4 4126 -27
+120 -17 -17
+1568 -25 4128
+7 4129 -17
+4 -25 -17
+189 -12 4131
+265 -16 4132
+307 -16 4133
+120 4134 4136
+4 -27 4135
+216 -17 -17
+306 -27 -17
+117 4138 4146
+4 4139 4144
+112 -7 4140
+7 4141 4142
+66 -16 -7
+307 -16 4143
+33 -14 -5
+1 4145 -5
+15 -16 -12
+17 4147 4153
+26 4148 4149
+4 -16 -12
+219 -15 4150
+495 -15 4151
+1 4152 -25
+95 -25 -12
+938 4154 4156
+7 -15 4155
+1 -17 -20
+649 -5 4157
+66 -27 4158
+7 -25 4159
+95 -25 4160
+114 -25 4161
+314 -25 -15
+7 4163 4384
+307 4164 4183
+111 4165 4171
+155 -16 4166
+345 -16 4167
+1 4168 -12
+4 4169 -12
+84 -16 4170
+48 -12 -12
+781 -7 4172
+1697 -16 4173
+1724 4174 4175
+1 -7 -12
+48 4176 4178
+346 -7 4177
+2994 -16 -12
+120 4179 -12
+17 4180 -16
+1 4181 -12
+892 -12 4182
+4 -12 -12
+409 4184 4201
+1112 -16 4185
+427 4186 4187
+95 -16 -12
+1 4188 4194
+120 4189 4191
+15 -16 4190
+74 -5 -7
+9 4192 -16
+4 4193 -12
+167 -12 -15
+1255 -15 4195
+2635 -14 4196
+515 -16 4197
+2767 -16 4198
+120 -7 4199
+162 -16 4200
+4 -16 -7
+251 4202 4203
+1260 -27 -17
+749 4204 4207
+303 4205 4206
+1 -5 -25
+13 -15 -5
+959 4208 4210
+16 -15 4209
+9 -5 -20
+111 4211 4240
+47 4212 4213
+1 -15 -18
+1708 4214 4215
+15 -27 -15
+674 -26 4216
+1259 -15 4217
+654 4218 4219
+1 -5 -16
+721 -16 4220
+227 -12 4221
+52 -12 4222
+142 4223 4224
+1922 -16 -12
+747 -16 4225
+2182 -16 4226
+4 4227 4235
+106 -16 -16
+3043 -12 -16
+55 -16 4230
+162 -12 4231
+237 -12 4232
+25 4233 -16
+23 4234 -12
+16 -16 -16
+922 -16 4236
+48 -16 4237
+3016 -16 4238
+66 4239 -12
+2339 -16 -12
+120 4241 4296
+162 4242 4243
+17 -16 -16
+322 -15 4244
+1 4245 4284
+1047 4246 4248
+84 -7 4247
+16 -25 -5
+3813 -16 4249
+144 4250 4251
+9 -16 -12
+882 4252 4253
+15 -15 -5
+254 -15 4254
+434 4255 4256
+266 -16 -5
+29 4257 4258
+170 -5 -12
+227 -12 4259
+88 -5 4260
+654 -5 4261
+26 4262 4273
+960 -12 -12
+23 4264 4270
+13 4265 -16
+975 -16 4266
+2361 -16 4267
+4 4268 -12
+16 4269 -12
+12 -12 -12
+34 4271 4272
+16 -12 -12
+4 -16 -12
+960 -12 4274
+9 4275 -12
+240 4276 4279
+110 -12 4277
+47 -12 4278
+1347 -12 -16
+16 4280 -16
+47 -12 4281
+4 4282 4283
+34 -12 -16
+53 -12 -16
+48 4285 4287
+66 4286 -12
+781 -7 -5
+84 4288 4292
+133 -5 4289
+15 4290 -12
+216 -12 4291
+2913 -12 -16
+4 4293 4295
+47 4294 -16
+9 -7 -27
+107 -15 -7
+48 4297 4307
+16 4298 4303
+781 -7 4299
+1 4300 4302
+55 4301 -16
+4 -17 -16
+4 -12 -16
+1 -12 -12
+55 -5 4305
+95 -5 -12
+4 -17 -16
+16 4308 4349
+1859 4309 4310
+23 -5 -16
+55 4311 4316
+233 4312 4314
+4 -7 4313
+110 -5 -12
+2339 -12 4315
+2735 -12 -16
+52 4317 4318
+1 -5 -16
+346 4319 4322
+162 -12 4320
+144 -12 4321
+66 -16 -16
+1 4323 4346
+25 4324 4336
+1034 -16 4325
+1778 4326 4327
+12 -12 -16
+12 4328 4331
+3035 -12 4329
+4 4330 -12
+23 -12 -12
+427 4332 4333
+23 -16 -12
+4 4334 -12
+23 4335 -12
+19 -12 -12
+114 -12 4337
+233 4338 4345
+162 -16 4339
+448 -12 4340
+216 -16 4341
+348 -16 4342
+515 -16 4343
+66 4344 -12
+4 -16 -12
+84 -16 -12
+34 4347 4348
+42 -12 -16
+144 -16 -12
+142 4350 4355
+902 4351 4352
+1 -7 -16
+298 -25 4353
+15 4354 -12
+17 -12 -12
+1301 4356 4357
+1 -15 -5
+53 4358 4359
+19 -5 -12
+29 -12 4360
+233 4361 4370
+15 4362 4365
+162 -16 4363
+83 -16 4364
+1305 -16 -12
+227 -12 4366
+106 4367 4368
+2819 -5 -16
+117 4369 -5
+133 -5 -16
+36 4371 4382
+106 4372 4375
+84 -12 -12
+165 -16 4374
+1211 -16 -12
+167 4376 4377
+13 -5 -12
+55 -5 4378
+148 -16 4379
+757 4380 -12
+23 -5 4381
+27 -16 -12
+162 -16 4383
+4517 -16 -12
+142 4385 4422
+16 4386 4393
+1 4387 4389
+251 -17 4388
+427 -15 -12
+48 -5 4390
+157 -11 4391
+162 -16 4392
+767 -15 -17
+466 4394 4401
+1959 4395 4396
+4 -7 -5
+189 -16 -16
+1 -12 4398
+84 -16 -7
+66 -12 4400
+240 -12 -16
+162 4402 4407
+68 -5 4403
+66 -12 4404
+95 -12 4405
+15 4406 -16
+1 -12 -16
+1299 -15 4408
+154 -12 4409
+114 -12 4410
+23 4411 4413
+4 -12 4412
+15 -16 -5
+111 4414 4417
+1 4415 4416
+4 -5 -25
+9 -15 -17
+233 4418 4419
+84 -16 -25
+56 -16 4420
+299 -25 4421
+512 -25 -15
+226 4423 4496
+960 -12 4424
+640 4425 4426
+12 -16 -12
+1679 -12 4427
+1829 4428 4429
+1 -9 -7
+1357 -12 4430
+448 -12 4431
+181 -20 4432
+1669 -12 4433
+2994 4434 4436
+17 -27 4435
+15 -16 -12
+781 4437 4438
+15 -7 -12
+457 -7 4439
+1270 -7 4440
+264 -16 -16
+1776 4442 4443
+4 -7 -16
+233 4444 4449
+144 4445 -16
+2899 -16 4446
+1 4447 -12
+48 -12 4448
+4 -16 -12
+1408 4450 4451
+15 -12 -16
+4 4452 -16
+120 4453 -16
+48 -16 -12
+120 4455 4478
+16 4456 4463
+4 4457 4461
+48 4458 4460
+440 -16 4459
+3062 -12 -7
+84 -16 -16
+84 -12 4462
+973 -12 -16
+1951 -12 4464
+631 -12 4465
+1795 -16 4466
+1206 -12 4467
+1247 -12 4468
+15 4469 -16
+167 4470 4471
+48 -12 -16
+68 4472 -16
+1776 -12 4473
+4 4474 -16
+583 -12 4475
+48 -16 4476
+66 4477 -16
+17 -12 -16
+233 4479 4494
+260 -12 4480
+1 4481 -16
+56 4482 4484
+48 -12 4483
+68 -12 -16
+230 -12 4485
+268 -12 4486
+472 -12 4487
+1034 -12 4488
+4 4489 -16
+48 -16 4490
+17 4491 4493
+167 -16 4492
+229 -16 -12
+66 -16 -16
+833 -12 4495
+2527 -12 -16
+307 4497 4558
+1534 -16 4498
+111 4499 4508
+752 -16 -16
+9 -16 -28
+705 -7 4502
+197 -12 4503
+883 -12 4504
+1646 -12 4505
+776 4506 -16
+4 4507 -16
+84 -16 -12
+2085 4509 4510
+120 -12 -12
+781 -7 4511
+1646 -7 4512
+537 -7 4513
+464 4514 4515
+4 -28 -12
+448 -12 4516
+775 4517 4518
+960 -12 -16
+162 4519 4530
+233 4520 4523
+981 -12 4521
+922 4522 -16
+15 -12 -16
+120 -16 4524
+1190 4525 4526
+1525 -12 -16
+116 -16 4527
+969 -16 4528
+2096 4529 -12
+346 -12 -12
+1357 -16 -16
+833 -12 4532
+427 -16 4533
+95 -16 4534
+346 -16 4535
+458 -12 4536
+601 -12 4537
+15 4538 -16
+639 -12 4539
+950 -12 4540
+1040 -12 4541
+177 4542 4543
+1 -12 -16
+210 4544 4546
+4 -16 4545
+1 -12 -16
+1578 4547 4548
+1 -12 -16
+4 4549 -16
+167 4550 4551
+13 -12 -16
+84 4552 -16
+1012 -12 4553
+2321 -12 4554
+120 4555 -16
+306 4556 -16
+1 4557 -16
+9 -16 -16
+162 4559 4574
+120 4560 4561
+179 -5 -16
+233 -16 4562
+111 4563 4566
+112 -12 4564
+681 -12 4565
+1078 -12 -16
+345 -16 4567
+2339 -16 4568
+1522 -16 4569
+70 -16 4570
+916 -16 4571
+1859 -16 4572
+121 4573 -12
+2034 -12 -12
+16 4575 4606
+1761 4576 4578
+4 4577 -12
+120 -12 -12
+84 4579 4584
+1094 4580 4581
+1 -27 -5
+1808 -5 4582
+960 -12 4583
+1958 -12 -16
+52 4585 4587
+346 -12 4586
+4 -24 -16
+251 -17 4588
+48 4589 4598
+781 -7 4590
+1685 -17 4591
+314 -12 4592
+114 -17 4593
+13 4594 -7
+2735 -7 4595
+216 -17 4596
+345 -17 4597
+1436 -17 -16
+111 4599 4600
+1306 -7 -15
+89 -11 4601
+156 -7 4602
+928 -17 4603
+110 4604 -16
+1 4605 -16
+55 -16 -12
+117 4607 4619
+1 4608 4616
+33 4609 -12
+133 4610 4611
+111 -12 -5
+111 -16 4612
+144 -16 4613
+120 -16 4614
+233 4615 -12
+110 -16 -12
+48 -16 4617
+111 -7 4618
+233 -7 -12
+27 4620 4623
+11 4621 4622
+4 -16 -28
+48 -16 -12
+789 -17 4624
+9 4625 4638
+120 4626 4629
+17 4627 -15
+4 -15 4628
+45 -15 -12
+795 -15 4630
+95 -15 4631
+749 4632 4633
+1090 -5 -15
+346 4634 4635
+314 -16 -5
+189 -5 4636
+47 -12 4637
+52 -12 -16
+427 4639 4642
+144 -12 4640
+15 -15 4641
+216 -15 -7
+106 4643 4644
+264 -15 -16
+144 -16 4645
+219 4646 4648
+1 -14 4647
+4 -15 -16
+302 -15 4649
+15 -15 4650
+52 -25 4651
+88 -25 -5
+178 4653 4662
+117 4654 4660
+15 4655 4656
+108 -14 -22
+159 4657 4658
+229 -14 -22
+322 4659 -14
+9 -14 -22
+1547 -15 4661
+2974 -15 -22
+72 4663 4713
+25 4664 4669
+1616 4665 4666
+27 -15 -5
+4 4667 -5
+16 4668 -5
+23 -5 -5
+392 4670 4673
+1 -24 4671
+236 4672 -1
+4 -14 -1
+86 4674 4683
+7 -12 4675
+15 4676 4681
+1688 -14 4677
+13 4678 -16
+114 -2 4679
+66 -15 4680
+515 -15 -12
+4 -1 4682
+9 -2 -5
+142 -5 -5
+490 4685 4686
+3097 -1 -17
+9 4687 4688
+4 -14 -7
+53 -5 -22
+52 4690 4694
+2755 -2 4691
+626 -5 4692
+4 4693 -15
+9 -5 -24
+84 4695 4700
+567 4696 4698
+9 -12 4697
+15 -16 -2
+292 -16 4699
+3526 -2 -5
+133 4701 4702
+2 -14 -12
+1377 -14 4703
+1 4704 4708
+34 4705 4707
+23 -14 4706
+68 -15 -5
+9 -14 -9
+747 -1 4709
+66 -14 4710
+58 -14 4711
+137 -5 4712
+9 -5 -15
+86 4714 4972
+7 4715 4739
+31 4716 4722
+466 4717 4718
+1 -15 -14
+1 4719 -12
+88 4720 4721
+9 -2 -5
+583 -5 -12
+1865 -10 4723
+1 4724 4734
+128 -14 4725
+341 -2 4726
+1830 -2 4727
+95 4728 4729
+110 -5 -12
+16 4730 -12
+5 4731 -12
+84 4732 -12
+34 -12 -12
+4 -2 -12
+97 -13 4735
+790 -7 4736
+2899 -10 4737
+1335 4738 -12
+6 -12 -10
+152 4740 4779
+2 4741 4744
+278 4742 4743
+1188 -12 -15
+56 -15 -15
+16 4745 4757
+782 -7 4746
+1335 -16 4747
+833 4748 4750
+4 4749 -12
+370 -12 -7
+162 4751 4753
+1 4752 -12
+4 -12 -12
+1 4754 -12
+151 4755 -12
+48 -12 4756
+4 -12 -12
+13 4758 4777
+1501 4759 4761
+23 -16 4760
+133 -7 -15
+23 -15 4762
+2899 -15 4763
+9 4764 4773
+1 4765 4769
+116 4766 4767
+4 -2 -12
+264 4768 -12
+4 -12 -5
+85 4770 4772
+17 -15 4771
+1371 -15 -12
+1805 -12 -5
+110 -15 4774
+84 -12 4775
+4 4776 -12
+151 -16 -12
+15 4778 -16
+4 -2 -7
+3243 -14 4780
+19 4781 4969
+15 4782 4925
+832 4783 4785
+23 -2 4784
+2 -12 -12
+17 4786 4846
+32 4787 4799
+84 4788 4793
+31 4789 4792
+66 -15 4790
+1 4791 -12
+9 -2 -2
+1 -15 -12
+1 4794 4797
+23 4795 -15
+27 4796 -15
+31 -15 -2
+34 4798 -12
+729 -16 -15
+1055 -2 4800
+159 4801 4807
+278 4802 4804
+110 -14 4803
+1 -15 -15
+66 -14 4805
+128 -14 4806
+1142 -14 -15
+1284 -14 4808
+53 4809 4811
+6 4810 -14
+13 -12 -2
+659 -16 4812
+4 4813 4836
+419 -14 4814
+110 4815 4816
+9 -15 -15
+5 -15 -15
+691 -12 4818
+16 4819 -15
+266 -12 4820
+1174 -12 4821
+1 4822 -15
+162 -2 4823
+84 -15 4824
+2 -15 -15
+656 -15 4826
+84 4827 4831
+9 -15 4828
+1 4829 4830
+6 -15 -12
+976 -12 -12
+1599 -12 4832
+68 4833 4834
+9 -12 -15
+2 -15 4835
+45 -15 -2
+6 4837 4845
+3001 -12 4838
+84 -15 4839
+45 -14 4840
+189 -14 4841
+23 -12 4842
+9 -15 4843
+1410 -12 4844
+1069 -12 -15
+400 -15 -12
+59 4847 4860
+87 -15 -15
+110 -2 4849
+3814 -2 4850
+162 4851 4852
+189 -15 -12
+34 4853 -12
+266 -12 4854
+66 4855 -15
+4 -12 -15
+26 4857 4859
+2 -5 4858
+23 -15 -16
+189 -5 -15
+27 4861 4865
+6 4862 4864
+162 -15 4863
+171 -10 -2
+1 -15 -2
+32 4866 4881
+84 4867 4873
+1 -2 -2
+133 4869 4870
+118 -14 -15
+167 4871 -2
+31 -2 -15
+185 -12 -2
+56 -15 4874
+66 -15 4875
+167 4876 4877
+23 -15 -14
+31 -15 -15
+1 4879 -15
+118 4880 -2
+229 -2 -15
+433 -16 4882
+1688 4883 4885
+84 4884 -14
+4 -15 -2
+116 4886 4889
+68 4887 -14
+159 -2 4888
+4 -15 -16
+5 4890 4915
+252 -14 4891
+1 4892 4909
+84 4893 4900
+583 -12 4894
+359 -16 4895
+144 -15 4896
+114 -2 4897
+66 4898 -15
+4 4899 -15
+12 -15 -15
+167 4901 4902
+53 -12 -15
+162 4903 4904
+4 -12 -15
+2 -12 4905
+48 -2 4906
+56 -15 4907
+110 4908 -2
+33 -2 -2
+3929 -2 4910
+303 -14 4911
+705 -14 4912
+84 4913 -15
+114 -15 4914
+1631 -15 -12
+6 4916 4924
+1396 -12 4917
+133 4918 4920
+84 -15 4919
+4 -12 -15
+66 -15 4921
+4 4922 -15
+84 -16 4923
+1042 -16 -15
+515 -15 -12
+2875 -5 4926
+718 4927 4929
+5 -14 4928
+4 -2 -14
+58 4930 4931
+4 -14 -7
+162 4932 4937
+144 4933 4935
+5 4934 -2
+1 -15 -16
+199 -7 4936
+1103 -2 -15
+897 4938 4940
+5 4939 -14
+66 -15 -16
+466 4941 4943
+84 -2 4942
+1 -2 -12
+85 4944 4961
+52 4945 4946
+4 -12 -14
+159 4947 4948
+9 -2 -12
+9 4949 4954
+165 -15 -15
+32 -15 4951
+5 4952 -12
+26 -12 4953
+107 -12 -15
+6 4955 4958
+146 -2 4956
+84 4957 -12
+359 -12 -15
+332 -5 4959
+84 4960 -15
+1080 -15 -2
+167 -2 4962
+146 4963 4964
+4 -2 -14
+155 -14 4965
+66 4966 -15
+34 4967 -2
+577 -2 4968
+729 -2 -15
+1291 4970 4971
+45 -14 -16
+1 -2 -18
+16 4973 5592
+54 4974 5013
+6 4975 5003
+66 4976 4987
+1295 4977 4978
+13 -15 -24
+1410 -25 4979
+83 -1 4980
+439 -1 4981
+974 -1 4982
+1010 -1 4983
+4 4984 -24
+5 4985 4986
+7 -24 -1
+7 -1 -24
+114 -24 -24
+123 -27 4989
+4 4990 -24
+5 -24 -24
+2322 -2 4992
+3044 4993 4994
+5 -5 -24
+19 4995 -1
+252 -1 4996
+969 4997 4998
+5 -24 -1
+142 4999 -24
+5 5000 -24
+1 5001 -24
+490 -1 5002
+7 -24 -24
+4 5004 5011
+707 -15 5005
+2605 -15 5006
+655 -5 5007
+31 5008 5009
+1 -5 -24
+216 5010 -24
+32 -24 -24
+25 -15 5012
+7 -5 -20
+152 5014 5065
+137 5015 5018
+144 -17 -17
+7 -25 -15
+1354 -1 -17
+2 5019 5027
+142 5020 5021
+596 -15 -17
+66 5022 5023
+7 -15 -15
+144 -17 5024
+444 -17 5025
+707 5026 -15
+7 -17 -15
+189 5028 5032
+4 5029 -7
+1 -5 -5
+48 -7 5031
+1306 -14 -5
+307 5033 5034
+782 -7 -12
+104 -7 -7
+151 -15 -25
+1865 5037 5038
+23 -12 -10
+25 5039 5043
+34 5040 5042
+23 5041 -12
+4 -16 -12
+23 -2 -16
+236 -17 5044
+7 5045 5054
+959 -15 5046
+151 5047 5053
+114 5048 5049
+162 -7 -5
+216 5050 5051
+1 -5 -6
+84 5052 -12
+1 -7 -12
+4 -24 -7
+66 5055 5057
+1 -12 5056
+4 -5 -7
+96 -25 5058
+216 5059 5060
+4 -24 -15
+1 5061 -7
+515 -7 5062
+13 5063 -7
+53 -24 5064
+84 -15 -2
+2 5066 5111
+7 5067 5100
+32 -1 -1
+1870 -24 5069
+31 5070 5072
+25 -24 5071
+1 -14 -1
+216 5073 5074
+118 -24 -15
+55 5075 5076
+118 -14 -15
+114 -1 -15
+227 -12 5078
+4 5079 5097
+66 5080 5082
+588 -24 5081
+13 -1 -24
+1870 -24 5083
+272 -5 5084
+25 -2 5085
+452 -2 5086
+216 5087 5090
+159 -1 5088
+1 5089 -1
+5 -1 -1
+34 5091 -1
+5 5092 5093
+144 -24 -1
+142 -1 5094
+1 5095 -1
+159 -15 5096
+55 -1 -1
+131 -2 5098
+1254 -5 5099
+573 -14 -1
+280 -9 5101
+392 5102 5103
+1 -24 -25
+350 5104 5106
+36 -2 5105
+539 -9 -1
+655 -5 5107
+1240 -24 5108
+1870 -24 5109
+1963 5110 -1
+159 -1 -1
+12 5112 5123
+1 5113 5119
+25 5114 5118
+159 -2 5115
+4 5116 -2
+5 5117 -2
+23 -2 -2
+84 -2 -14
+84 5120 5121
+4 -5 -15
+4 -1 5122
+183 -9 -2
+1 5124 5425
+32 5125 5214
+23 5126 5132
+31 5127 5130
+7 5128 -14
+216 -2 5129
+25 -15 -15
+25 5131 -2
+118 -15 -15
+53 5133 5148
+189 5134 5139
+31 5135 5136
+2062 -14 -24
+7 -15 5137
+2553 -15 5138
+3657 -15 -5
+66 -14 5140
+25 5141 5142
+31 -15 -14
+7 5143 -15
+118 5144 5146
+55 -15 5145
+114 -24 -5
+882 -15 5147
+133 -15 -15
+84 5149 5172
+114 5150 5153
+185 -15 -15
+7 5152 -12
+118 -15 -2
+307 5154 5155
+31 -15 -12
+216 -2 -2
+31 5157 5158
+7 -2 -14
+185 -2 5159
+7 -5 -2
+1833 -5 5161
+189 -12 5162
+1319 -12 5163
+31 5164 5167
+133 -2 5165
+66 5166 -2
+7 -2 -2
+66 -14 5168
+25 -14 5169
+118 5170 5171
+7 -15 -2
+133 -2 -2
+7 5173 5202
+162 5174 5178
+216 5175 5176
+31 -5 -2
+133 -15 5177
+1080 -14 -12
+48 5179 5187
+133 5180 5181
+118 -5 -15
+189 -15 5182
+227 -12 5183
+66 5184 5186
+3322 -2 5185
+31 -14 -14
+3322 -14 -2
+515 5188 5189
+31 -14 -14
+52 5190 5191
+189 -14 -24
+58 -6 5192
+110 5193 5197
+31 5194 5195
+25 -15 -5
+25 -14 5196
+114 -14 -15
+47 -15 5198
+25 -24 5199
+251 -24 5200
+884 -15 5201
+31 -15 -5
+52 5203 5206
+531 -5 5204
+31 5205 -14
+4424 -14 -24
+1306 -16 5207
+1649 -12 5208
+216 -5 5209
+251 -5 5210
+143 -2 5211
+226 -2 5212
+306 -2 5213
+814 -2 -14
+52 5215 5221
+189 -5 5216
+6 -9 -9
+5 -14 5218
+699 -15 -9
+55 -24 5220
+4 -15 -12
+162 5222 5254
+34 5223 5248
+1405 -14 5224
+6 5225 5245
+707 5226 5228
+5 -12 5227
+387 -9 -15
+3738 -14 5229
+142 5230 5231
+59 -12 -14
+531 -2 5232
+189 5233 5235
+4 5234 -15
+7 -14 -15
+5 5236 5241
+7 5237 -15
+66 5238 5240
+259 -14 5239
+4 -15 -15
+307 -12 -15
+2096 -12 5242
+66 5243 -15
+7 5244 -15
+159 -15 -15
+66 5246 5247
+4 -15 -12
+834 -7 -14
+6 5249 5252
+1291 -16 5250
+7 -14 5251
+79 -14 -2
+13 -5 5253
+4 -1 -27
+84 5255 5306
+7 -15 -15
+42 -9 5257
+114 5258 5262
+34 5259 -2
+5 -5 5260
+4 5261 -15
+342 -15 -2
+59 5263 5271
+13 5264 -16
+307 -12 5265
+144 -2 5266
+2402 -2 5267
+189 -2 5268
+4 5269 -14
+34 5270 -14
+560 -14 -15
+4 5272 5283
+144 -5 5273
+227 -1 5274
+341 -2 5275
+189 -14 5276
+25 -15 5277
+5 5278 -15
+34 5279 -2
+560 -2 5280
+1319 -2 5281
+66 -15 5282
+133 -15 -15
+216 -27 5284
+6 5285 -5
+189 -5 -15
+226 5287 5291
+159 -9 5288
+4 5289 -12
+332 -5 5290
+5 -15 -15
+66 5292 5297
+4 5293 5296
+1344 -14 5294
+5 5295 -15
+911 -5 -15
+5 -16 -2
+142 5298 5299
+595 -15 -12
+210 -12 5300
+59 -15 5301
+307 -15 5302
+689 -15 5303
+216 5304 -14
+831 -14 5305
+4186 -14 -15
+25 5307 5335
+36 5308 5334
+6 5309 5329
+1039 -2 5310
+23 5311 5323
+159 -14 5312
+933 -14 5313
+131 -2 5314
+7 5315 -12
+1175 -12 5316
+1629 -12 5317
+34 5318 -14
+330 -14 5319
+1555 -14 5320
+4 5321 5322
+5 -2 -2
+340 -2 -2
+110 -5 5324
+884 -2 5325
+4 -14 5326
+48 5327 5328
+340 -2 -2
+933 -14 -2
+659 -5 5330
+23 5331 -24
+950 -12 5332
+4 5333 -15
+655 -15 -14
+13 -1 -16
+251 -1 5336
+392 5337 5339
+4 5338 -25
+13 -14 -25
+216 5340 5351
+59 5341 5344
+4 -2 -2
+47 -15 -14
+1055 -2 -2
+159 -1 5345
+656 5346 5347
+104 -24 -16
+58 -6 5348
+110 -2 5349
+7 5350 -2
+4 -12 -12
+34 5352 5418
+53 5353 5363
+5 5354 5360
+114 -24 5355
+131 -25 5356
+133 5357 -12
+433 -12 5358
+1037 -12 5359
+359 -12 -5
+6 5361 -15
+133 -5 5362
+59 -5 -14
+114 5364 5368
+48 -14 5365
+4 5366 -5
+23 -14 5367
+5 -24 -15
+532 5369 5370
+133 -17 -5
+137 5371 5374
+142 5372 5373
+5 -19 -7
+4 -1 -14
+560 5375 5377
+6 5376 -7
+48 -2 -5
+5 5378 5399
+189 5379 5382
+1853 -2 5380
+7 5381 -14
+4 -15 -14
+4 5383 5395
+7 5384 5389
+110 5385 5386
+229 -2 -12
+66 -15 5387
+142 -15 5388
+144 -15 -2
+1829 -9 5390
+4760 -5 5391
+48 5392 5394
+306 -12 5393
+144 -15 -15
+104 -15 -12
+23 -9 5396
+209 -14 5397
+832 -12 5398
+882 -7 -2
+59 5400 5408
+48 5401 5405
+583 -2 5402
+4 5403 -15
+189 -15 5404
+226 -15 -2
+47 5406 5407
+1281 -9 -2
+104 -15 -9
+7 5409 5413
+104 -24 5410
+884 5411 5412
+144 -15 -14
+66 -15 -15
+189 5414 5415
+6 -24 -15
+4 5416 -15
+48 -9 5417
+306 -9 -12
+66 5419 5420
+33 -1 -14
+227 5421 5422
+4 -9 -2
+13 5423 5424
+6 -2 -5
+4 -5 -9
+84 5426 5466
+6 5427 5444
+205 5428 5429
+189 -1 -14
+260 5430 5432
+5 5431 -9
+7 -14 -5
+2430 -14 5433
+5 5434 5443
+2185 -5 5435
+34 5436 -2
+227 -15 -15
+360 -12 5438
+7 5439 5441
+25 -2 5440
+1559 -2 -15
+306 -15 5442
+2578 -2 -2
+421 -14 -15
+185 5445 5448
+1677 -2 5446
+1068 5447 -14
+66 -14 -16
+32 5449 5461
+7 5450 5459
+339 5451 5452
+66 -14 -14
+114 5453 5456
+2185 -2 5454
+31 -15 5455
+1174 -15 -2
+601 -14 5457
+1694 5458 -2
+25 -2 -2
+260 -2 5460
+3179 -2 -5
+260 5462 5463
+66 -14 -2
+205 -14 5464
+66 -12 5465
+210 -12 -5
+58 5467 5482
+7 5468 5470
+30 -2 5469
+57 -14 -6
+478 5471 5476
+59 5472 5474
+4 -1 5473
+2940 -1 -14
+5 5475 -14
+66 -14 -14
+1281 5477 5481
+5 -1 5478
+185 -14 -14
+159 5480 -14
+13 -1 -14
+4 -6 -14
+285 -24 5483
+189 5484 5506
+59 5485 5487
+1298 -14 5486
+2223 -5 -1
+48 5488 5494
+4 5489 5492
+2774 -14 5490
+185 5491 -1
+694 -1 -2
+5 -7 5493
+37 -5 -14
+52 5495 5496
+4 -14 -14
+118 -15 5497
+159 -15 5498
+196 -1 5499
+34 5500 -14
+1298 5501 5502
+7 -14 -5
+1255 5503 -5
+5 -14 5504
+1306 5505 -5
+655 -5 -5
+137 5507 5516
+32 -1 5508
+142 5509 5512
+4023 -11 5510
+2120 -1 5511
+13 -17 -1
+4 -24 5513
+7 5514 5515
+55 -1 -17
+5 -15 -25
+162 5517 5523
+1142 -14 5518
+34 5519 -14
+1671 -2 5520
+210 -12 5521
+1037 -12 5522
+3300 -12 -15
+144 5524 5535
+185 5525 5526
+999 -24 -5
+52 5527 5533
+159 5528 5529
+1625 -12 -24
+6 5530 5532
+59 -2 5531
+99 -15 -2
+99 -2 -24
+6 -15 -15
+104 -5 -15
+7 5536 5570
+159 5537 5544
+237 5538 5539
+165 -24 -9
+89 -11 5540
+52 -15 5541
+464 -15 5542
+4 5543 -9
+227 -9 -14
+47 5545 5546
+6 -2 -15
+48 5547 5551
+5 5548 5549
+66 -15 -14
+13 5550 -1
+307 -12 -15
+25 5552 5555
+6 5553 5554
+4 -14 -13
+31 -5 -1
+884 5556 5557
+5 -14 -7
+55 5558 5559
+23 -15 -24
+52 5560 5561
+560 -14 -5
+5 5562 5564
+4 5563 -5
+560 -24 -15
+118 5565 5566
+110 -14 -12
+66 -9 5567
+173 -12 5568
+216 -5 5569
+251 -5 -24
+159 5571 5573
+104 -5 5572
+89 -1 -9
+515 -5 5574
+392 5575 5576
+13 -14 -25
+55 5577 5580
+251 -17 5578
+5 -1 5579
+4 -5 -15
+781 5581 5582
+4 -7 -14
+445 -24 5583
+157 5584 5585
+142 -11 -1
+711 5586 5587
+5 -15 -14
+89 -11 5588
+824 -1 5589
+48 5590 5591
+4 -9 -15
+204 -15 -9
+392 5593 5633
+458 5594 5607
+6 5595 5601
+219 5596 5597
+128 -15 -12
+70 -2 5598
+84 -12 5599
+107 -12 5600
+1920 -12 -24
+34 5602 5606
+332 -20 5603
+997 -20 5604
+32 -15 5605
+128 -15 -12
+17 -20 -25
+159 5608 5613
+117 -14 -14
+155 -14 5610
+7 -25 5611
+29 -14 5612
+53 -14 -24
+1028 -25 5614
+391 5615 5616
+2 -12 -24
+3578 -5 5617
+162 5618 5620
+9 5619 -25
+4 -14 -25
+147 5621 5622
+1 -24 -14
+1342 5623 5624
+5 -14 -24
+6 -25 -25
+264 -14 5626
+7 5627 5628
+128 -24 -25
+15 -25 5629
+66 -25 -24
+95 -24 5631
+58 -14 5632
+2489 -14 -25
+142 5634 5761
+152 5635 5659
+155 5636 5637
+151 -12 -15
+598 5638 5641
+303 5639 5640
+1 -17 -11
+2 -14 -15
+264 5642 5644
+116 -5 5643
+1575 -5 -15
+219 5645 5646
+2 -15 -22
+54 5647 5649
+4 -15 5648
+1 -30 -5
+95 5650 5651
+298 -25 -1
+104 5652 5653
+9 -25 -15
+107 -5 5654
+114 -12 5655
+167 -12 5656
+892 -12 5657
+128 -15 5658
+811 -15 -7
+146 5660 5675
+114 5661 5662
+1 -5 -24
+74 5663 5668
+53 5664 5665
+1997 -14 -7
+5 5666 5667
+4 -25 -24
+58 -7 -15
+1550 -7 5669
+7 5670 5671
+2 -7 -15
+159 -14 5672
+378 -14 5673
+70 5674 -15
+240 -15 -14
+282 5676 5714
+159 5677 5686
+595 5678 5679
+2 -1 -15
+237 5680 5681
+4 -1 -9
+7 5682 5683
+9 -15 -9
+2220 -1 5684
+68 -15 5685
+3376 -15 -22
+84 5687 5691
+1 5688 5689
+6 -15 -2
+59 -14 5690
+360 -12 -16
+54 5692 5694
+59 5693 -24
+1 -1 -24
+1 5695 5707
+32 5696 5699
+110 5697 5698
+9 -14 -24
+53 -22 -2
+48 -22 -22
+59 5701 5703
+2 -1 5702
+53 -25 -22
+104 5704 5705
+4 -22 -1
+167 5706 -15
+7 -1 -25
+1568 -22 5708
+239 5709 5710
+4 -15 -24
+595 5711 5712
+137 -24 -5
+4 5713 -5
+97 -5 -1
+155 5715 5722
+1771 -22 5716
+116 5717 5718
+5 -2 -14
+154 5719 5720
+7 -14 -15
+6 5721 -15
+9 -2 -14
+9 5723 5753
+84 5724 5729
+1771 -22 5725
+17 -15 5726
+15 -2 5727
+299 5728 -14
+5 -25 -16
+5 5730 5736
+244 -1 5731
+167 5732 5734
+15 -22 5733
+239 -22 -15
+2 -25 5735
+219 -25 -22
+53 5737 5739
+32 -15 5738
+2179 -2 -14
+595 5740 5741
+6 -15 -14
+95 -22 -22
+144 5743 5744
+4 -2 -14
+6 -22 -5
+189 5746 5747
+52 -22 -15
+32 5748 5751
+104 -22 5749
+7 -24 5750
+1852 -24 -22
+19 5752 -14
+1142 -14 -22
+116 5754 5756
+5 -14 5755
+1 -12 -22
+1240 -24 5757
+84 5758 5760
+395 -22 5759
+1 -2 -1
+229 -24 -22
+458 5762 5768
+116 5763 5765
+6 5764 -22
+9 -14 -22
+1493 -15 5766
+26 5767 -22
+104 -22 -15
+117 5769 5883
+2 5770 5778
+6 5771 5775
+7 5772 -14
+17 -14 -14
+106 -14 5774
+721 -14 -2
+113 5776 5777
+112 -14 -25
+492 -14 -15
+159 5779 5812
+125 5780 5782
+144 5781 -2
+162 -14 -15
+52 5783 5784
+409 -14 -23
+1 -2 -2
+144 5786 5787
+391 -15 -12
+9 5788 -5
+68 5789 5790
+4 -15 -14
+921 5791 5792
+23 -15 -14
+27 5793 5795
+25 5794 -24
+4 -12 -12
+179 -24 5796
+1708 -16 5797
+53 5798 5799
+4 -14 -2
+2294 -14 5800
+129 5801 5802
+4 -14 -2
+240 5803 5806
+15 5804 -12
+47 -12 5805
+7 -2 -2
+34 5807 -12
+1524 -12 5808
+23 5809 -2
+15 -2 -2
+106 -16 5811
+170 -9 -2
+4 5813 5870
+116 5814 5864
+31 5815 5832
+167 5816 5821
+1705 -12 5817
+9 5818 -14
+339 -14 5819
+48 5820 -2
+1 -14 -2
+239 -22 5822
+240 5823 5827
+84 5824 5826
+129 -5 5825
+4211 -5 -2
+7 -14 -5
+9 5828 -2
+84 5829 5831
+56 -14 5830
+15 -2 -15
+23 -15 -5
+34 5833 5859
+52 -14 5834
+152 5835 5841
+112 5836 5838
+167 5837 -14
+84 -12 -2
+84 -15 5839
+9 5840 -12
+53 -12 -5
+32 5842 5846
+110 -15 5843
+118 -5 5844
+134 -16 5845
+1 -14 -5
+264 5847 5848
+5 -5 -2
+55 5849 5850
+5 -2 -12
+115 5851 5854
+6 5852 -15
+7 -2 5853
+5 -14 -2
+54 -14 5855
+170 5856 5857
+5 -14 -15
+23 -16 5858
+48 -16 -15
+13 -2 -2
+84 -14 5861
+144 -14 -2
+6 5863 -16
+121 -5 -14
+59 -7 -7
+1 -15 -9
+137 -7 5867
+48 -7 5868
+5 -5 5869
+7 -14 -5
+6 5871 5880
+114 5872 5874
+33 5873 -14
+1939 -14 -12
+23 5875 5876
+27 -2 -16
+106 -5 5877
+110 -2 5878
+340 -2 5879
+613 -2 -14
+151 5881 5882
+7 -5 -7
+9 -12 -11
+74 5884 5904
+58 5885 5894
+1 5886 5887
+5 -7 -19
+433 -15 5888
+4 5889 5891
+347 5890 -14
+59 -15 -14
+1455 -7 5892
+359 5893 -14
+7 -7 -14
+128 5895 5899
+216 -20 -20
+219 -24 5897
+1 -30 -15
+390 -24 -20
+6 5900 5903
+7 5901 5902
+5 -5 -12
+17 -15 -14
+104 -24 -15
+54 5905 5926
+315 5906 5907
+5 -16 -22
+151 5908 5909
+114 -5 -15
+15 5910 5915
+713 5911 5912
+7 -22 -15
+167 -20 5913
+66 -15 5914
+398 -15 -24
+185 5916 5917
+55 -14 -5
+950 -20 5918
+492 5919 5920
+4 -24 -5
+29 -5 5921
+795 -15 5922
+6 5923 -24
+1 -15 5924
+5 -15 -15
+70 -24 -15
+36 5927 6330
+84 5928 6025
+6 5929 5979
+307 5930 5932
+7 5931 -15
+12 -22 -12
+227 5933 5951
+4 5934 5949
+5 5935 5945
+492 -12 5936
+165 5937 5938
+17 -2 -2
+95 5939 5942
+2725 -2 5940
+240 5941 -15
+15 -14 -15
+56 -15 5943
+66 -15 5944
+691 -15 -2
+15 5946 -15
+95 -15 5947
+165 5948 -2
+159 -15 -2
+9 -15 5950
+66 -12 -12
+9 5952 5974
+1886 -14 5953
+133 -15 5954
+106 5955 5961
+56 5956 5957
+1 -5 -15
+68 -15 5958
+7 5959 -14
+114 -14 5960
+531 -14 -2
+654 -14 5962
+713 -2 5963
+435 5964 5965
+5 -5 -15
+114 -5 5966
+199 -5 5967
+44 -2 5968
+112 -2 5969
+216 5970 -15
+56 -15 5971
+664 -15 5972
+15 -2 5973
+66 -15 -2
+5 5975 5976
+15 -24 -15
+56 -15 5977
+167 -14 5978
+201 -24 -5
+402 -2 5980
+31 5981 5999
+26 5982 5985
+934 -5 5983
+95 -24 5984
+216 -2 -15
+56 5986 5989
+45 -5 5987
+1707 -2 5988
+95 -2 -2
+339 5990 5992
+27 -5 5991
+133 -5 -14
+106 -2 5993
+133 -2 5994
+95 -14 5995
+240 5996 5998
+721 -14 5997
+882 -14 -2
+593 -14 -2
+118 6000 6008
+254 6001 6003
+167 -14 6002
+133 -14 -2
+1219 -15 6004
+26 -15 6005
+7 6006 -2
+106 -2 -2
+129 -2 -12
+4 6009 6024
+7 6010 6015
+434 -2 6011
+227 -12 6012
+133 6013 6014
+1 -12 -14
+25 -14 -5
+254 6016 6019
+32 6017 6018
+1 -5 -5
+167 -14 -2
+17 6020 6021
+9 -2 -5
+32 6022 6023
+26 -15 -5
+151 -15 -22
+15 -12 -15
+6 6026 6197
+23 6027 6059
+27 6028 6048
+159 6029 6032
+1617 -2 6030
+240 -16 6031
+4 -14 -16
+2436 -15 6033
+403 -5 6034
+677 -5 6035
+1696 -14 6036
+240 -12 6037
+29 6038 -2
+26 6039 -12
+7 6040 6044
+1693 -12 6041
+4 6042 -2
+15 6043 -2
+5 -2 -2
+5 6045 -2
+3178 -2 6046
+24 6047 -12
+4 -2 -12
+17 6049 6058
+133 -12 6050
+159 6051 6052
+9 -14 -24
+1501 -2 6053
+167 6054 6055
+5 -5 -2
+114 -14 6056
+5 6057 -5
+664 -5 -12
+68 -12 -5
+226 6060 6072
+264 6061 6063
+9 6062 -1
+1776 -16 -15
+56 6064 6065
+9 -2 -15
+144 -2 6066
+189 -2 6067
+1 6068 -15
+9 6069 -15
+2 -14 6070
+17 -15 6071
+159 -15 -14
+162 6073 6098
+264 6074 6078
+465 -14 6075
+4 6076 6077
+1390 -5 -15
+17 -2 -14
+95 6079 6087
+167 6080 6083
+9 6081 -12
+5 6082 -15
+7 -16 -15
+1042 -12 6084
+7 6085 6086
+114 -15 -14
+154 -14 -15
+307 6088 6090
+3413 6089 -12
+5 -14 -15
+59 -12 6091
+115 -12 6092
+747 6093 6094
+167 -14 -2
+56 -14 6095
+1103 -14 6096
+165 -2 6097
+230 -2 -15
+189 6099 6105
+52 6100 6102
+5 6101 -14
+4 -5 -9
+88 -14 6103
+115 -5 6104
+592 -12 -15
+832 6106 6107
+9 -12 -5
+47 6108 6115
+1 6109 6114
+134 -12 6110
+15 -2 6111
+4 6112 6113
+9 -15 -2
+5 -12 -5
+5 -24 -1
+2 6116 6127
+315 -22 6117
+159 6118 6123
+1 6119 6122
+240 -5 6120
+45 -14 6121
+68 -14 -24
+7 -1 -5
+55 6124 6125
+7 -2 -24
+133 -15 -15
+632 -1 -15
+108 -5 -5
+5 6129 6130
+1 -15 -22
+7 6131 6132
+239 -5 -22
+239 -22 -2
+665 -22 6134
+104 6135 6142
+7 6136 6140
+4 6137 -22
+129 -22 6138
+9 6139 -5
+167 -5 -2
+5 -15 6141
+170 -1 -5
+159 6143 6151
+107 6144 6145
+7 -22 -24
+48 -14 6146
+106 -14 6147
+515 -2 6148
+133 6149 6150
+1060 -5 -2
+167 -2 -5
+239 6152 6154
+4 6153 -5
+395 -5 -15
+9 6155 6185
+128 6156 6157
+7 -15 -24
+4 6158 6177
+227 -12 6159
+144 6160 6163
+7 6161 -15
+45 -14 6162
+134 -2 -5
+25 6164 6166
+5 -5 6165
+7 -15 -14
+882 6167 6168
+85 -15 -2
+26 -14 6169
+15 6170 6175
+167 6171 6172
+1 -15 -14
+48 6173 6174
+95 -14 -2
+55 -2 -14
+88 -2 6176
+7 -2 -15
+134 6178 6180
+53 6179 -14
+5 -5 -12
+66 -12 6181
+114 -14 6182
+677 -5 6183
+44 -5 6184
+1800 -5 -2
+48 6186 6190
+240 -15 6187
+56 6188 6189
+2255 -15 -5
+7 -24 -5
+4 6191 6196
+5 6192 6195
+52 -12 6193
+167 -2 6194
+409 -5 -14
+15 -2 -24
+56 -15 -5
+465 6198 6212
+31 6199 6203
+48 -2 6200
+66 -15 6201
+7 6202 -24
+15 -24 -24
+240 6204 6206
+1 -12 6205
+9 -7 -16
+114 6207 6208
+1 -15 -2
+216 -15 6209
+15 6210 -14
+118 -14 6211
+48 -14 -5
+227 6213 6217
+15 -2 6214
+254 -2 -2
+2 -12 6216
+7 -12 -2
+4 6218 6312
+1 6219 6287
+185 6220 6231
+110 -5 6221
+23 6222 6224
+434 -15 6223
+1501 -2 -5
+133 -15 -15
+134 -14 6226
+7 -2 -24
+95 -12 6228
+9 6229 -15
+7 -14 6230
+654 -14 -15
+162 -15 -15
+7 6233 6236
+17 6234 6235
+129 -2 -12
+15 -5 -15
+95 -15 6237
+24 -14 -1
+322 6239 6241
+23 -15 6240
+32 -24 -25
+240 6242 6244
+151 6243 -15
+9 -10 -12
+118 6245 6254
+394 -24 6246
+883 6247 6248
+23 -2 -14
+26 6249 6251
+7 -5 6250
+246 -14 -15
+144 -15 6252
+110 6253 -5
+7 -15 -5
+880 6255 6256
+7 -5 -14
+869 6257 6259
+7 6258 -15
+27 -5 -5
+53 -14 6260
+52 -5 6261
+307 -2 6262
+532 6263 6264
+15 -2 -15
+44 -5 6265
+239 6266 6268
+15 -5 6267
+151 -15 -5
+992 -14 6269
+2159 -14 6270
+378 -5 6271
+26 6272 6282
+31 6273 6281
+95 6274 6275
+2 -15 -14
+2229 6276 6277
+7 -15 -15
+7 6278 -15
+17 6279 -15
+23 6280 -15
+25 -15 -15
+341 -14 -5
+48 -5 6283
+2732 -5 6284
+152 6285 -15
+110 -5 6286
+134 -5 -15
+189 6288 6299
+185 6289 6297
+523 6290 6291
+817 -14 -5
+3431 -15 6292
+9 6293 6295
+2610 -2 6294
+3659 -2 -5
+2873 6296 -15
+799 -5 -2
+95 -14 6298
+1809 -14 -5
+7 6300 6310
+56 6301 6302
+9 -12 -25
+95 6303 6304
+48 -5 -12
+70 6305 6306
+15 -20 -15
+2 -1 6307
+58 -24 6308
+106 -15 6309
+133 -15 -5
+314 -22 6311
+26 -5 -15
+7 6313 6319
+9 -5 -5
+25 -5 6315
+15 6316 -12
+45 -12 -27
+1 -5 6318
+15 -25 -23
+314 -22 6320
+66 6321 6323
+15 -12 6322
+1 -30 -1
+17 6324 6327
+48 6325 6326
+1 -12 -7
+11 -16 -5
+23 6328 -15
+152 -7 6329
+341 -2 -5
+25 6331 6342
+12 6332 6341
+664 -5 6333
+17 -2 6334
+85 -2 6335
+87 6336 6337
+15 -14 -2
+14 6338 -2
+4 6339 -2
+5 6340 -2
+7 -2 -2
+6 -16 -7
+48 6343 6346
+226 6344 6345
+1 -15 -7
+7 -12 -16
+6 6347 6355
+56 6348 6350
+2 -1 6349
+47 -14 -14
+20 6351 6354
+21 -2 6352
+4 6353 -15
+5 -14 -15
+126 -14 -2
+118 6356 -5
+1855 -1 -14

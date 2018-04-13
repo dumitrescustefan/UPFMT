@@ -1,0 +1,22 @@
+DET	_
+NOUN	_
+_	_
+ADP	_
+DET	Definite=Def	Gender=Masc	Number=Plur	PronType=Art
+ADJ	_
+DET	Definite=Def	Gender=Fem	Number=Sing	PronType=Art
+VERB	_
+CCONJ	_
+ADV	_
+AUX	_
+PUNCT	_
+PROPN	_
+DET	Definite=Def	Gender=Masc	Number=Sing	PronType=Art
+NUM	NumType=Card
+DET	Definite=Def	Gender=Fem	Number=Plur	PronType=Art
+PRON	_
+PART	_
+ADV	Polarity=Neg
+X	_
+PROPN	Polarity=Neg
+NOUN	Polarity=Neg

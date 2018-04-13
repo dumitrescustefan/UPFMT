@@ -1,0 +1,482 @@
+NOUN	Case=Nom	Number=Sing
+PUNCT	_
+PROPN	Case=Nom	Number=Sing
+AUX	Mood=Ind	Polarity=Neg	VerbForm=Fin
+VERB	Connegative=Yes	Mood=Ind	Tense=Past	VerbForm=Fin	Voice=Act
+PROPN	Case=Gen	Number=Sing
+NOUN	Case=Ine	Number=Sing
+ADV	_
+AUX	Mood=Cnd	Polarity=Neg	Tense=Pres	VerbForm=Fin	Voice=Act
+PROPN	Case=Abe	Number=Sing
+PROPN	Case=All	Number=Sing
+VERB	VerbForm=Inf
+AUX	Tense=Past	VerbForm=Part	Voice=Act
+VERB	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+NOUN	Case=Gen	Number=Sing
+AUX	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+ADJ	Case=Nom	Degree=Pos	Number=Sing
+CCONJ	_
+ADJ	Case=Ade	Degree=Pos	Number=Sing
+NOUN	Case=Ade	Number=Sing
+ADJ	Degree=Pos	Tense=Past	VerbForm=Part	Voice=Act
+PRON	Case=Nom	Number=Sing	Person=3	PronType=Prs
+VERB	Tense=Past	VerbForm=Part	Voice=Act
+DET	Case=Gen	Number=Sing	PronType=Rel
+NOUN	Case=Com	Number=Sing
+DET	Case=Par	Number=Sing	PronType=Rel
+NOUN	Case=Par	Number=Sing
+SCONJ	_
+ADP	AdpType=Prep
+NOUN	Case=Tra	Number=Sing
+PRON	Case=Ela	Number=Sing	PronType=Int
+PRON	Case=Nom	Number=Plur	Person=3	PronType=Prs
+VERB	Mood=Ind	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+NOUN	Case=Par	Number=Plur
+NOUN	Case=Gen	Number=Plur
+DET	Case=Par	Number=Plur	PronType=Dem
+ADJ	Case=Par	Number=Sing	NumForm=Letter	NumType=Ord
+PRON	Case=Nom	Number=Plur	PronType=Dem
+ADJ	Case=Nom	Degree=Pos	Number=Plur
+NOUN	Case=Nom	Number=Plur
+AUX	Mood=Ind	Number=Plur	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+ADV	Polarity=Neg
+ADJ	_
+PRON	Case=Ela	Number=Plur	PronType=Dem
+ADJ	Case=Tra	Degree=Pos	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+ADJ	Case=Ine	Degree=Pos	Number=Sing
+ADJ	Case=Gen	Degree=Pos	Number=Sing
+PRON	Case=Ade	Number=Sing	Person=3	PronType=Prs
+PRON	Case=Nom	Number=Sing	PronType=Dem
+NUM	Case=Nom	Number=Sing	NumForm=Letter	NumType=Card
+PRON	Case=Nom	Number=Sing	PronType=Int
+PRON	Case=All	Number=Sing	PronType=Ind
+PRON	Case=Nom	Number=Sing	Poss=Yes	PronType=Prs
+INTJ	_
+NOUN	Case=All	Number=Plur
+ADP	AdpType=Post
+DET	Case=Gen	Number=Sing	PronType=Ind
+NOUN	Case=All	Number=Sing
+ADJ	Case=Nom	Degree=Pos	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+ADJ	Case=Par	Degree=Pos	Number=Sing
+PROPN	Case=Add	Number=Sing
+PROPN	Case=Ill	Number=Sing
+PRON	Case=Gen	Number=Plur	Person=3	PronType=Prs
+ADJ	Case=Ela	Degree=Pos	Number=Sing
+NOUN	Case=Ela	Number=Sing
+VERB	Mood=Ind	Tense=Past	VerbForm=Fin	Voice=Pass
+NOUN	Case=Ill	Number=Sing
+PRON	Case=Par	Number=Sing	PronType=Int
+PRON	Case=Ade	Number=Sing	PronType=Dem
+PROPN	Case=Ela	Number=Sing
+ADJ	Case=Par	Degree=Pos	Number=Plur
+DET	Case=Tra	Number=Sing	PronType=Ind
+PRON	Case=Gen	Number=Sing	Person=3	PronType=Prs
+PRON	Case=Par	Number=Sing	PronType=Dem
+VERB	Mood=Ind	Polarity=Neg	Tense=Past	VerbForm=Fin	Voice=Act
+PROPN	Case=Ade	Number=Sing
+PRON	Case=Gen	Number=Sing	Poss=Yes	PronType=Prs
+VERB	VerbForm=Conv
+NUM	Case=Par	Number=Sing	NumForm=Letter	NumType=Card
+ADJ	Case=Par	Degree=Sup	Number=Sing
+NUM	Case=Nom	Number=Sing	NumForm=Digit	NumType=Card
+PRON	Case=Gen	Number=Sing	PronType=Dem
+NUM	NumForm=Digit	NumType=Card
+PROPN	Case=Nom	Number=Plur
+NOUN	Case=Abl	Number=Sing
+NUM	Case=Gen	Number=Sing	NumForm=Letter	NumType=Card
+PRON	Case=All	Number=Sing	Person=3	PronType=Prs
+PRON	Case=Nom	Number=Sing	PronType=Tot
+AUX	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+NOUN	Case=Add	Number=Sing
+DET	Case=Nom	Number=Sing	PronType=Ind
+AUX	Mood=Cnd	Tense=Pres	VerbForm=Fin	Voice=Act
+AUX	Case=Ill	VerbForm=Sup	Voice=Act
+NOUN	Case=Ill	Number=Plur
+AUX	Mood=Qot	Tense=Pres	VerbForm=Fin	Voice=Act
+ADJ	Case=Ess	Degree=Pos	Number=Sing
+DET	Case=Ade	Number=Plur	PronType=Dem
+ADJ	Case=Ade	Degree=Pos	Number=Plur
+NOUN	Case=Ade	Number=Plur
+VERB	Mood=Ind	Number=Sing	Person=2	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Nom	Number=Sing	Person=2	PronType=Prs
+VERB	Mood=Ind	Number=Sing	Person=1	Tense=Past	VerbForm=Fin	Voice=Act
+PRON	Case=Nom	Number=Sing	Person=1	PronType=Prs
+ADJ	Degree=Pos
+VERB	Mood=Ind	Polarity=Neg	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Mood=Ind	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Mood=Ind	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Case=Ill	VerbForm=Sup	Voice=Act
+ADJ	Case=Tra	Degree=Pos	Number=Sing
+PRON	Case=Par	Number=Sing	Person=3	PronType=Prs
+VERB	Mood=Ind	Number=Plur	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+PRON	Case=Gen	Number=Sing	PronType=Rcp	Reflex=Yes
+PRON	Case=Com	Number=Sing	PronType=Dem
+VERB	Mood=Ind	Number=Sing	Person=2	Tense=Past	VerbForm=Fin	Voice=Act
+PRON	Case=Nom	Number=Sing	PronType=Prs	Reflex=Yes
+NUM	Case=Tra	Number=Sing	NumForm=Letter	NumType=Card
+PRON	Case=Nom	Number=Sing	PronType=Ind
+VERB	Connegative=Yes	Mood=Ind	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Par	Number=Sing	Person=1	PronType=Prs
+AUX	Mood=Ind	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+PROPN	Case=Ine	Number=Sing
+PRON	Case=Gen	Number=Sing	Person=2	PronType=Prs
+PRON	Case=Gen	Number=Sing	Person=1	PronType=Prs
+PRON	Case=Nom	Number=Plur	Person=1	PronType=Prs
+VERB	Mood=Ind	Number=Plur	Person=1	Tense=Past	VerbForm=Fin	Voice=Act
+PRON	Case=All	Number=Sing	Person=2	PronType=Prs
+PRON	Case=Par	Number=Sing	Person=2	PronType=Prs
+AUX	Mood=Cnd	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Mood=Imp	Number=Sing	Person=2	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Ade	Number=Sing	Person=2	PronType=Prs
+PRON	Case=Ela	Number=Sing	PronType=Ind
+ADJ	Case=Ela	Number=Sing	PronType=Ind
+PRON	Case=All	Number=Sing	Person=1	PronType=Prs
+PRON	Case=Ade	Number=Plur	Person=3	PronType=Prs
+ADJ	Case=Par	Degree=Pos	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+CCONJ	Polarity=Neg
+PRON	Case=Ine	Number=Sing	PronType=Dem
+PRON	Case=Nom	Number=Plur	PronType=Rel
+ADJ	Case=Par	Degree=Cmp	Number=Sing
+PROPN	Case=Com	Number=Sing
+ADJ	Degree=Pos	Tense=Past	VerbForm=Part	Voice=Pass
+AUX	Connegative=Yes	Mood=Ind	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Ade	Number=Sing	Person=1	PronType=Prs
+AUX	Mood=Ind	Polarity=Neg	Tense=Past	VerbForm=Fin	Voice=Act
+ADJ	Case=Nom	Number=Sing
+PRON	Case=All	Number=Sing	PronType=Prs	Reflex=Yes
+NOUN	Case=Ter	Number=Sing
+ADV	PronType=Rel
+NUM	Case=Ade	Number=Plur	NumForm=Letter	NumType=Card
+ADV	PronType=Int
+AUX	Connegative=Yes	Mood=Ind	Tense=Past	VerbForm=Fin	Voice=Act
+AUX	VerbForm=Inf
+NOUN	Case=Ine	Number=Plur
+ADJ	Case=Nom	Degree=Cmp	Number=Sing
+NOUN	Case=Abe	Number=Sing
+PRON	Case=Nom	Number=Plur	PronType=Tot
+ADJ	Case=Ade	Number=Sing	NumForm=Letter	NumType=Ord
+PRON	Case=Gen	Number=Sing	PronType=Prs	Reflex=Yes
+ADJ	Case=Gen	Degree=Pos	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+DET	Case=Ine	Number=Sing	PronType=Ind
+PRON	Case=Par	Number=Sing	PronType=Ind
+ADJ	Case=Par	Number=Sing	PronType=Ind
+VERB	Case=Ine	VerbForm=Sup	Voice=Act
+DET	Case=Ela	Number=Sing	PronType=Ind
+VERB	Mood=Ind	Tense=Pres	VerbForm=Fin	Voice=Act
+DET	Case=All	Number=Sing	PronType=Ind
+NOUN	Case=Ela	Number=Plur
+PRON	Case=Com	Number=Sing	Person=2	PronType=Prs
+AUX	Mood=Ind	Number=Sing	Person=2	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Par	Number=Sing	PronType=Tot
+VERB	Mood=Cnd	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Nom	Number=Sing	PronType=Rel
+PROPN	Case=Par	Number=Sing
+VERB	Tense=Past	VerbForm=Part	Voice=Pass
+ADJ	Case=Tra	Degree=Cmp	Number=Sing
+PRON	Case=Tra	Number=Sing	PronType=Prs	Reflex=Yes
+PROPN	Abbr=Yes
+ADJ	Case=Par	Number=Sing
+NUM	Case=Ine	Number=Sing	NumForm=Letter	NumType=Card
+PRON	Case=Ade	Number=Plur	PronType=Dem
+VERB	Mood=Imp	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+AUX	Mood=Ind	Polarity=Neg	Tense=Pres	VerbForm=Fin	Voice=Act
+DET	Case=Ade	Number=Sing	PronType=Dem
+ADJ	Case=Nom	Number=Sing	NumForm=Letter	NumType=Ord
+PRON	Case=Ade	Number=Sing	Poss=Yes	PronType=Prs	Reflex=Yes
+DET	Case=Nom	Number=Sing	PronType=Tot
+PRON	Case=Gen	Number=Sing	PronType=Rel
+PRON	Case=Ela	Number=Sing	Person=3	PronType=Prs
+ADJ	Case=Ine	Degree=Pos	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+ADJ	Case=Abe	Degree=Pos	VerbForm=Sup	Voice=Act
+DET	PronType=Tot
+PRON	Case=Ela	Number=Sing	PronType=Dem
+VERB	Connegative=Yes	Mood=Ind	Tense=Pres	VerbForm=Fin	Voice=Pass
+AUX	Mood=Cnd	Polarity=Neg	VerbForm=Fin
+VERB	Connegative=Yes	Mood=Cnd	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Par	Number=Sing	PronType=Prs	Reflex=Yes
+VERB	Mood=Cnd	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+ADJ	Case=Ess	Degree=Pos	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+ADJ	Case=Ela	Degree=Pos	Number=Plur
+DET	Case=Gen	Number=Plur	PronType=Dem
+ADJ	Case=Gen	Degree=Pos	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Act
+PRON	Case=All	Number=Sing	PronType=Dem
+PRON	Case=Gen	Number=Sing	PronType=Ind
+ADJ	Case=Par	Degree=Pos	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Act
+VERB	Mood=Imp	Number=Plur	Person=2	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Nom	Number=Plur	Person=2	PronType=Prs
+AUX	Mood=Ind	Number=Plur	Person=2	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=All	Number=Plur	Person=1	PronType=Prs
+PRON	Case=Par	Number=Plur	PronType=Dem
+DET	Case=Ine	Number=Sing	PronType=Dem
+PRON	Case=Par	Number=Plur	Person=2	PronType=Prs
+PRON	Case=Par	Number=Plur	Person=3	PronType=Prs
+PRON	Case=Par	Number=Plur	PronType=Ind
+DET	Case=Par	Number=Sing	PronType=Ind
+VERB	Mood=Ind	Tense=Pres	VerbForm=Fin	Voice=Pass
+PRON	Case=Par	Number=Sing	PronType=Rel
+ADJ	Case=Nom	Number=Sing	PronType=Dem
+ADJ	Case=Par	Number=Sing	PronType=Dem
+AUX	Mood=Ind	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+DET	Case=Nom	Number=Plur	PronType=Dem
+DET	Case=All	Number=Plur	PronType=Tot
+VERB	Connegative=Yes	Mood=Ind	Tense=Past	VerbForm=Fin	Voice=Pass
+DET	Case=Par	Number=Sing	PronType=Dem
+DET	Case=Ade	Number=Sing	PronType=Ind
+VERB	Mood=Imp	Number=Sing	Tense=Pres	VerbForm=Fin	Voice=Act
+DET	Case=Nom	Number=Plur	PronType=Ind
+PRON	Case=Gen	Number=Plur	Person=2	PronType=Prs
+PRON	Case=Ela	Number=Sing	PronType=Rel
+ADJ	Case=Nom	Degree=Pos	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Act
+DET	Case=Ela	Number=Sing	PronType=Dem
+ADJ	Case=Gen	Degree=Pos	Number=Plur
+NOUN	Case=Com	Number=Plur
+ADJ	Case=Par	Number=Plur	PronType=Rel
+ADJ	Tense=Past	VerbForm=Part	Voice=Act
+AUX	Mood=Imp	Number=Sing	Person=2	Polarity=Neg	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Connegative=Yes	Mood=Imp	Number=Sing	Person=2	Tense=Pres	VerbForm=Fin	Voice=Act
+DET	Case=Nom	Number=Sing	PronType=Dem
+DET	Case=Gen	Number=Sing	PronType=Dem
+ADJ	Case=Nom	Number=Sing	PronType=Ind
+VERB	Mood=Ind	Number=Plur	Person=2	Tense=Pres	VerbForm=Fin	Voice=Act
+ADJ	Case=Ela	Degree=Cmp	Number=Sing
+AUX	Mood=Imp	Number=Plur	Person=2	Polarity=Neg	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Connegative=Yes	Mood=Imp	Number=Plur	Person=2	Tense=Pres	VerbForm=Fin	Voice=Act
+AUX	Mood=Imp	Number=Sing	Person=2	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Ela	Number=Sing	Person=2	PronType=Prs
+PRON	Case=Par	Number=Plur	PronType=Int
+PRON	Case=All	Number=Plur	Person=2	PronType=Prs
+ADJ	Case=Gen	Degree=Cmp	Number=Sing
+ADJ	Case=Nom	Degree=Pos	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Pass
+DET	Case=Nom	Number=Sing	PronType=Int
+DET	Case=Ela	Number=Sing	PronType=Tot
+PRON	Case=Ela	Number=Sing	Person=1	PronType=Prs
+DET	Case=Nom	Number=Sing	PronType=Rel
+PRON	Case=Ade	Number=Sing	PronType=Prs	Reflex=Yes
+PRON	Case=Ine	Number=Sing	Poss=Yes	PronType=Prs	Reflex=Yes
+PRON	Case=All	Number=Plur	Person=3	PronType=Prs
+VERB	Mood=Cnd	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+AUX	Mood=Ind	Number=Sing	Person=2	Tense=Past	VerbForm=Fin	Voice=Act
+DET	Case=Nom	Number=Plur	PronType=Tot
+VERB	Mood=Qot	Tense=Pres	VerbForm=Fin	Voice=Act
+ADJ	Case=Ade	Degree=Cmp	Number=Sing
+PRON	Case=Com	Number=Sing	PronType=Tot
+ADJ	Case=All	Degree=Pos	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+DET	Case=Ela	Number=Plur	PronType=Ind
+VERB	Case=Abe	VerbForm=Sup	Voice=Act
+PRON	Case=Par	Number=Plur	PronType=Rel
+DET	Case=Ill	Number=Sing	PronType=Dem
+PRON	Case=Ade	Number=Plur	Person=2	PronType=Prs
+VERB	Mood=Ind	Number=Plur	Person=2	Tense=Past	VerbForm=Fin	Voice=Act
+PRON	Case=Gen	Number=Plur	Person=1	PronType=Prs
+ADJ	Case=Nom	Number=Sing	PronType=Rel
+PRON	Case=Ill	Number=Sing	PronType=Prs	Reflex=Yes
+PRON	Case=Ine	Number=Sing	PronType=Rcp	Reflex=Yes
+DET	Case=Abl	Number=Sing	PronType=Ind
+NOUN	Case=Ess	Number=Sing
+ADJ	Case=Ela	Degree=Pos	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+NOUN	Case=Ter	Number=Plur
+AUX	VerbForm=Conv
+ADJ	Case=Tra	Degree=Pos	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Act
+AUX	Mood=Ind	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+AUX	Connegative=Yes	Mood=Cnd	Tense=Pres	VerbForm=Fin	Voice=Act
+PROPN	Number=Sing
+VERB	Mood=Cnd	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+AUX	Mood=Cnd	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Mood=Imp	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Gen	Number=Plur	PronType=Dem
+ADJ	Case=Nom	Number=Plur	PronType=Dem
+AUX	Mood=Ind	Tense=Pres	VerbForm=Fin	Voice=Act
+ADJ	Case=Tra	Degree=Pos	Number=Plur
+NOUN	Case=Tra	Number=Plur
+DET	Case=Ill	Number=Sing	PronType=Ind
+PRON	Case=Ela	Number=Plur	Person=3	PronType=Prs
+DET	Case=Ill	Number=Plur	PronType=Dem
+ADJ	Case=Ill	Degree=Pos	Number=Plur
+PRON	Case=Com	Number=Plur	Person=2	PronType=Prs
+PRON	Case=Par	Number=Plur	Person=1	PronType=Prs
+ADJ	Case=Nom	Degree=Sup	Number=Plur
+PRON	Case=Ade	Number=Plur	PronType=Rel
+ADJ	Case=Abl	Degree=Pos	Number=Sing
+PRON	Case=Gen	Number=Plur	PronType=Rel
+ADJ	Case=All	Degree=Pos	Number=Sing
+ADJ	Case=All	Number=Sing	PronType=Ind
+PRON	Case=Ade	Number=Plur	Person=1	PronType=Prs
+AUX	Mood=Ind	Number=Sing	Person=1	Tense=Past	VerbForm=Fin	Voice=Act
+PRON	Case=Ine	Number=Sing	Person=1	PronType=Prs
+PRON	Case=Ade	Number=Sing	PronType=Dem	Reflex=Yes
+DET	Case=Par	Number=Plur	PronType=Ind
+PRON	Case=Tra	Number=Sing	PronType=Ind
+PRON	Case=Com	Number=Sing	Person=3	PronType=Prs
+DET	Case=Gen	Number=Plur	PronType=Ind
+DET	Case=All	Number=Sing	PronType=Dem
+VERB	Mood=Cnd	Tense=Past	VerbForm=Fin	Voice=Act
+PRON	Case=All	Number=Plur	PronType=Prs	Reflex=Yes
+NUM	Case=All	Number=Sing	NumForm=Letter	NumType=Card
+PRON	Case=Com	Number=Plur	Person=1	PronType=Prs
+PRON	Case=Ine	Number=Sing	Person=3	PronType=Prs
+PRON	Case=All	Number=Sing	PronType=Int
+PRON	Case=Ade	Number=Sing	PronType=Int
+ADJ	Case=Ade	Number=Sing	PronType=Dem
+NOUN	Case=Gen	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+PROPN	Case=Tra	Number=Sing
+PRON	Case=Abl	Number=Sing	Person=2	PronType=Prs
+DET	Case=Nom	Number=Plur	PronType=Rel
+PRON	Case=Ade	Number=Sing	PronType=Rel
+ADJ	Case=Ill	Degree=Pos	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+NOUN	Abbr=Yes
+NUM	Case=Par	Number=Sing	NumType=Card
+NOUN	Abbr=Yes	Case=All	Number=Sing
+PRON	Case=Ela	Number=Plur	PronType=Rel
+PROPN	Case=Ine	Number=Plur
+ADJ	Case=Ela	Degree=Pos	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Act
+ADJ	Case=Ade	Number=Sing	NumForm=Digit	NumType=Ord
+ADJ	Case=Gen	Number=Sing	PronType=Dem
+ADJ	Case=Nom	Number=Sing	NumForm=Digit	NumType=Ord
+NUM	Case=Abl	Number=Sing	NumForm=Digit	NumType=Card
+PROPN	Case=Abl	Number=Sing
+ADJ	Case=Ine	Degree=Pos	Number=Plur
+NUM	Case=Gen	Number=Sing	NumForm=Digit	NumType=Card
+PROPN	Case=Ess	Number=Sing
+ADJ	Case=All	Number=Sing	NumForm=Digit	NumType=Ord
+NOUN	Abbr=Yes	Case=Ine	Number=Sing
+ADJ	Case=Abl	Degree=Pos	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+NUM	Case=Par	Number=Plur	NumForm=Letter	NumType=Card
+ADJ	Case=Gen	Number=Sing	NumForm=Digit	NumType=Ord
+SYM	Abbr=Yes
+NUM	Case=Nom	Number=Sing	NumType=Card
+ADJ	Case=Add	Degree=Pos	Number=Sing
+DET	Case=Ade	Number=Plur	PronType=Tot
+NOUN	Case=Gen	Hyph=Yes	Number=Sing
+PRON	Case=Abl	Number=Sing	Poss=Yes	PronType=Prs	Reflex=Yes
+ADJ	Case=Ade	Degree=Pos	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Act
+PRON	Case=Ine	Number=Sing	PronType=Rel
+ADJ	Case=Ela	Number=Sing	NumForm=Digit	NumType=Ord
+ADJ	Case=Nom	Degree=Cmp	Number=Plur
+NOUN	Case=Ess	Number=Plur
+NOUN	Abbr=Yes	Case=Gen	Number=Sing
+ADJ	Case=Gen	Number=Sing	NumForm=Letter	NumType=Ord
+ADJ	Case=Nom	Number=Plur	NumForm=Letter	NumType=Ord
+NUM	Case=All	Number=Sing	NumForm=Digit	NumType=Card
+NUM	NumType=Card
+ADJ	Case=Gen	Number=Sing	NumType=Ord
+ADJ	Case=All	Number=Sing	NumForm=Letter	NumType=Ord
+ADJ	Case=All	Degree=Sup	Number=Sing
+ADJ	Case=Tra	Number=Sing	NumType=Ord
+ADJ	Case=Gen	Degree=Sup	Number=Sing
+NUM	Case=Ela	Number=Sing	NumForm=Digit	NumType=Card
+ADP	_
+NOUN	Abbr=Yes	Case=Par	Number=Sing
+ADJ	Case=Ade	Degree=Pos	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+DET	Case=Gen	Number=Plur	PronType=Tot
+ADJ	Case=Tra	Degree=Sup	Number=Sing
+ADJ	Case=Nom	Degree=Sup	Number=Sing
+PRON	Case=All	Number=Sing	PronType=Rel
+ADJ	Case=Ine	Number=Sing	NumForm=Letter	NumType=Ord
+ADJ	Case=Ess	Number=Sing	NumType=Ord
+ADJ	Case=Ess	Number=Sing	NumForm=Letter	NumType=Ord
+ADJ	Case=Tra	Number=Sing	NumForm=Letter	NumType=Ord
+PRON	Case=Ess	Number=Sing	PronType=Dem
+NOUN	Abbr=Yes	Case=Ade	Number=Sing
+ADJ	Case=Par	Number=Sing	NumForm=Digit	NumType=Ord
+ADJ	NumForm=Digit	NumType=Ord
+ADV	Abbr=Yes
+ADJ	Case=Nom	Degree=Pos	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+X	Abbr=Yes
+VERB	Mood=Cnd	Number=Sing	Person=2	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Ter	Number=Sing	Person=1	PronType=Prs
+PRON	Case=Ter	Number=Plur	Person=1	PronType=Prs
+VERB	Case=Ela	VerbForm=Sup	Voice=Act
+PRON	Case=Com	Number=Sing	PronType=Ind
+PRON	Case=Gen	Number=Sing	PronType=Prs
+DET	Case=Abl	Number=Sing	PronType=Dem
+PRON	Case=Ela	Number=Sing	Poss=Yes	PronType=Prs	Reflex=Yes
+NOUN	Case=Nom	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Act
+ADJ	Case=Gen	Number=Sing	PronType=Ind
+PRON	Case=Abe	Number=Sing	PronType=Dem
+PRON	Case=Gen	Number=Sing	PronType=Int
+PRON	Case=All	Number=Sing	Poss=Yes	PronType=Prs	Reflex=Yes
+PRON	Case=Com	Number=Sing	PronType=Int
+PRON	Case=Abl	Number=Sing	Person=1	PronType=Prs
+NOUN	Case=Abl	Number=Plur
+ADJ	Case=Nom	Number=Plur
+ADJ	Case=Par	Number=Plur	PronType=Dem
+ADJ	Case=Par	Number=Sing	PronType=Rel
+ADJ	Case=Nom	Degree=Pos	Number=Plur	Tense=Past	VerbForm=Part	Voice=Act
+ADJ	Case=Par	Number=Plur	PronType=Ind
+ADJ	Case=Ine	Number=Sing	PronType=Ind
+DET	Case=Ine	Number=Plur	PronType=Dem
+ADJ	Case=All	Degree=Pos	Number=Plur
+ADJ	Case=Par	Number=Plur
+ADJ	Case=Com	Degree=Pos	Number=Sing
+PRON	Case=Ine	Number=Sing	PronType=Ind
+ADJ	Case=Gen	Degree=Sup	Number=Plur
+PRON	Case=Com	Number=Sing	Person=1	PronType=Prs
+PRON	Case=Par	Number=Plur	PronType=Tot
+NOUN	Number=Sing
+PRON	Case=All	Number=Sing	PronType=Rcp	Reflex=Yes
+PRON	Case=Com	Number=Plur	PronType=Dem
+PRON	Case=Tra	Number=Sing	Poss=Yes	PronType=Prs	Reflex=Yes
+ADJ	Case=Nom	Number=Plur	PronType=Ind
+PRON	Case=Tra	Number=Sing	PronType=Dem
+PROPN	_
+VERB	Mood=Ind	Number=Plur	Person=3	Tense=Imp	VerbForm=Fin	Voice=Act
+VERB	Mood=Ind	Number=Sing	Person=3	Tense=Imp	VerbForm=Fin	Voice=Act
+VERB	Connegative=Yes	Mood=Ind	Tense=Imp	VerbForm=Fin	Voice=Act
+AUX	Mood=Ind	Number=Sing	Person=3	Tense=Imp	VerbForm=Fin	Voice=Act
+NUM	Case=Ela	Number=Sing	NumForm=Letter	NumType=Card
+ADJ	Degree=Pos	VerbForm=Part	Voice=Act
+PRON	Case=Gen	Number=Sing	PronType=Tot
+DET	Case=Gen	Number=Sing	PronType=Tot
+AUX	Mood=Ind	Number=Plur	Person=3	Tense=Imp	VerbForm=Fin	Voice=Act
+VERB	Mood=Ind	Number=Sing	Person=1	Tense=Imp	VerbForm=Fin	Voice=Act
+VERB	Mood=Ind	Tense=Imp	VerbForm=Fin	Voice=Pass
+VERB	Mood=Ind	Polarity=Neg	Tense=Imp	VerbForm=Fin	Voice=Act
+PRON	Case=Com	Number=Sing	PronType=Rel
+NOUN	_
+DET	Case=Ela	Number=Plur	PronType=Tot
+VERB	Mood=Cnd	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+NOUN	Abbr=Yes	Case=Nom	Number=Sing
+ADJ	Case=Nom	Degree=Pos	Number=Sing	VerbForm=Part	Voice=Act
+ADJ	Case=Par	Degree=Pos	Number=Plur	VerbForm=Part	Voice=Act
+NUM	Case=Par	Number=Sing	NumForm=Letter	NumType=Ord
+PRON	Case=Abl	Number=Sing	PronType=Rel
+AUX	Mood=Cnd	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+NUM	Case=Nom	Number=Plur	NumForm=Letter	NumType=Card
+ADJ	Case=Par	Degree=Pos	Number=Sing	VerbForm=Part	Voice=Act
+ADV	VerbForm=Part	Voice=Act
+ADJ	Case=Gen	Degree=Pos	Number=Sing	VerbForm=Part	Voice=Act
+PRON	Case=Com	Number=Sing	Poss=Yes	PronType=Prs
+NUM	Case=Add	Number=Sing	NumForm=Letter	NumType=Ord
+AUX	Mood=Ind	Number=Sing	Person=1	Tense=Imp	VerbForm=Fin	Voice=Act
+VERB	Mood=Ind	Number=Plur	Person=1	Tense=Imp	VerbForm=Fin	Voice=Act
+DET	Case=Ade	Number=Sing	PronType=Tot
+NUM	Case=Abl	Number=Sing	NumForm=Letter	NumType=Card
+PRON	Case=Com	Number=Sing	PronType=Prs	Reflex=Yes
+ADJ	Case=Ade	Degree=Cmp	Number=Plur
+PRON	Case=All	Number=Sing	PronType=Tot
+VERB	Mood=Cnd	Tense=Pres	VerbForm=Fin	Voice=Pass
+ADJ	Case=Ill	Degree=Pos	Number=Sing
+VERB	Case=All	VerbForm=Sup	Voice=Act
+X	Abbr=Yes	Case=Gen	Number=Sing
+NUM	Case=Ter	Number=Sing	NumForm=Letter	NumType=Card
+PROPN	Case=Par	Number=Plur
+PRON	Case=Ela	Number=Sing	PronType=Prs	Reflex=Yes
+ADJ	Case=Ela	Number=Sing	NumForm=Letter	NumType=Ord
+PRON	Case=Par	Number=Sing	Poss=Yes	PronType=Prs
+PRON	Case=Ade	Number=Sing	PronType=Tot
+NUM	Case=Com	Number=Sing	NumForm=Letter	NumType=Card
+PRON	Case=Ela	Number=Plur	PronType=Ind
+ADJ	Case=Ine	Degree=Pos	Number=Sing	VerbForm=Part	Voice=Act
+PRON	Case=Nom	Number=Plur	PronType=Ind
+VERB	Mood=Ind	Number=Sing	Person=2	Tense=Imp	VerbForm=Fin	Voice=Act
+ADJ	Case=Abl	Number=Sing	NumForm=Letter	NumType=Ord
+ADJ	Case=Nom	Number=Sing	NumType=Ord
+NUM	Case=Add	Number=Sing	NumForm=Letter	NumType=Card
+ADJ	Case=All	Degree=Pos	Number=Sing	VerbForm=Part	Voice=Act
+ADJ	Case=Ill	Degree=Pos	Number=Sing	VerbForm=Part	Voice=Act
+PRON	Case=Add	Number=Sing	PronType=Dem
+PRON	Case=Ter	Number=Sing	PronType=Dem
+PRON	Case=Ela	Number=Plur	Person=1	PronType=Prs
+NUM	Case=Ill	Number=Plur	NumForm=Letter	NumType=Card
+ADJ	Case=Par	Degree=Cmp	Number=Plur

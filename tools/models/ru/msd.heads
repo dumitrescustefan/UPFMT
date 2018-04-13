@@ -1,0 +1,715 @@
+ADP	_
+NOUN	Animacy=Inan	Case=Acc	Gender=Neut	Number=Sing
+NOUN	Animacy=Inan	Case=Gen	Gender=Fem	Number=Sing
+NOUN	Animacy=Inan	Case=Ins	Gender=Fem	Number=Plur
+PROPN	Animacy=Anim	Case=Gen	Gender=Masc	Number=Sing
+CCONJ	_
+NOUN	Animacy=Anim	Case=Ins	Gender=Masc	Number=Plur
+PUNCT	_
+PRON	Animacy=Anim	Case=Nom	Gender=Masc	Number=Sing
+VERB	Aspect=Perf	Gender=Masc	Mood=Ind	Number=Sing	Tense=Past	VerbForm=Fin
+DET	Animacy=Inan	Case=Acc	Number=Plur	Reflex=Yes
+NOUN	Animacy=Inan	Case=Acc	Gender=Neut	Number=Plur
+NOUN	Animacy=Anim	Case=Nom	Gender=Masc	Number=Sing
+PROPN	Animacy=Anim	Case=Nom	Gender=Fem	Number=Sing
+VERB	Aspect=Perf	Gender=Fem	Mood=Ind	Number=Sing	Tense=Past	VerbForm=Fin
+VERB	Aspect=Perf	VerbForm=Inf
+ADJ	Animacy=Inan	Case=Loc	Gender=Fem	Number=Sing
+NOUN	Animacy=Inan	Case=Loc	Gender=Fem	Number=Sing
+SCONJ	_
+PRON	Case=Nom	Gender=Masc	Number=Sing	Person=3
+AUX	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Tense=Fut	VerbForm=Fin
+VERB	Animacy=Inan	Aspect=Perf	Case=Nom	Gender=Masc	Number=Sing	Tense=Past	Variant=Short	VerbForm=Part	Voice=Pass
+NOUN	Animacy=Anim	Case=Gen	Gender=Masc	Number=Plur
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Mid
+NOUN	Animacy=Inan	Case=Nom	Gender=Fem	Number=Sing
+NOUN	Animacy=Inan	Case=Acc	Gender=Masc	Number=Sing
+NOUN	Animacy=Inan	Case=Dat	Gender=Fem	Number=Sing
+PRON	Animacy=Inan	Case=Gen	Gender=Masc	Number=Sing
+PART	Polarity=Neg
+ADJ	Animacy=Anim	Case=Nom	Gender=Masc	Number=Sing	Variant=Short
+VERB	Aspect=Imp	VerbForm=Inf	Voice=Mid
+NUM	Animacy=Anim	Case=Nom	Gender=Masc	Number=Sing	NumType=Card
+ADJ	Animacy=Inan	Case=Nom	Gender=Fem	Number=Sing
+DET	Animacy=Inan	Case=Acc	Gender=Masc	Number=Sing
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin
+NOUN	Animacy=Inan	Case=Gen	Gender=Neut	Number=Sing
+NUM	Animacy=Inan	Case=Nom	Gender=Masc	Number=Sing	NumType=Card
+NUM	Animacy=Inan	Case=Nom	NumType=Card
+NUM	Animacy=Inan	Case=Nom	Gender=Masc	NumType=Card
+NUM	Case=Nom	NumType=Card
+DET	Animacy=Inan	Case=Ins	Gender=Neut	Number=Sing
+PART	_
+NOUN	Animacy=Inan	Case=Ins	Gender=Neut	Number=Sing
+VERB	Aspect=Imp	Gender=Fem	Mood=Ind	Number=Sing	Tense=Past	VerbForm=Fin	Voice=Mid
+NOUN	Animacy=Inan	Case=Gen	Gender=Masc	Number=Sing
+ADV	Degree=Cmp
+VERB	Animacy=Inan	Aspect=Imp	Case=Nom	Gender=Masc	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+NOUN	Animacy=Inan	Case=Acc	Gender=Fem	Number=Sing
+NOUN	Animacy=Inan	Case=Nom	Gender=Masc	Number=Sing
+NOUN	Animacy=Anim	Case=Gen	Gender=Masc	Number=Sing
+PROPN	Animacy=Inan	Case=Nom	Gender=Masc	Number=Sing
+ADJ	Animacy=Inan	Case=Gen	Gender=Neut	Number=Sing
+ADJ	Animacy=Inan	Case=Gen	Gender=Masc	Number=Sing
+ADJ	Animacy=Inan	Case=Loc	Gender=Masc	Number=Sing
+NOUN	Animacy=Inan	Case=Loc	Gender=Masc	Number=Sing
+PROPN	Animacy=Inan	Case=Acc	Gender=Masc	Number=Sing
+ADV	_
+DET	Animacy=Inan	Case=Gen	Gender=Fem	Number=Sing	Reflex=Yes
+ADJ	Animacy=Inan	Case=Nom	Gender=Masc	Number=Sing
+NOUN	Animacy=Inan	Case=Loc	Gender=Neut	Number=Sing
+NUM	Case=Gen	NumType=Card
+NOUN	Animacy=Inan	Case=Gen	Gender=Masc	Number=Plur
+NOUN	Animacy=Inan	Case=Ins	Gender=Fem	Number=Sing
+NUM	Animacy=Inan	Case=Gen	NumType=Card
+ADJ	Animacy=Inan	Case=Acc	Gender=Masc	Number=Sing
+PROPN	Animacy=Anim	Case=Nom	Gender=Masc	Number=Sing
+VERB	Aspect=Imp	Gender=Masc	Mood=Ind	Number=Sing	Tense=Past	VerbForm=Fin	Voice=Mid
+VERB	Aspect=Imp	VerbForm=Inf
+AUX	Aspect=Imp	Gender=Fem	Mood=Ind	Number=Sing	Tense=Past	VerbForm=Fin
+VERB	Animacy=Inan	Aspect=Perf	Case=Nom	Gender=Fem	Number=Sing	Tense=Past	Variant=Short	VerbForm=Part	Voice=Pass
+VERB	Aspect=Imp	VerbForm=Conv
+VERB	Animacy=Anim	Aspect=Perf	Case=Acc	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+NOUN	Animacy=Anim	Case=Acc	Gender=Masc	Number=Sing
+NUM	Animacy=Inan	Case=Acc	Gender=Neut	NumType=Card
+VERB	Aspect=Perf	VerbForm=Conv
+PROPN	Animacy=Anim	Case=Acc	Gender=Masc	Number=Sing
+NOUN	Animacy=Anim	Case=Dat	Gender=Masc	Number=Sing
+ADJ	Animacy=Inan	Case=Acc	Gender=Neut	Number=Sing
+PROPN	Animacy=Inan	Case=Loc	Gender=Masc	Number=Sing
+DET	Animacy=Inan	Case=Gen	Gender=Neut	Number=Sing
+PROPN	Animacy=Inan	Case=Gen	Gender=Fem	Number=Sing
+ADJ	Animacy=Inan	Case=Gen	Gender=Fem	Number=Sing
+NOUN	Animacy=Inan	Case=Gen	Gender=Fem	Number=Plur
+NOUN	Animacy=Inan	Case=Nom	Gender=Neut	Number=Sing
+VERB	Animacy=Inan	Aspect=Perf	Case=Nom	Gender=Neut	Number=Sing	Tense=Past	Variant=Short	VerbForm=Part	Voice=Pass
+ADJ	Animacy=Inan	Case=Dat	Degree=Sup	Gender=Masc	Number=Sing
+PRON	Case=Dat	Number=Plur	Person=3
+ADJ	Animacy=Inan	Case=Dat	Gender=Masc	Number=Sing
+NOUN	Animacy=Inan	Case=Dat	Gender=Masc	Number=Sing
+AUX	Aspect=Imp	Gender=Masc	Mood=Ind	Number=Sing	Tense=Past	VerbForm=Fin
+ADJ	Animacy=Inan	Case=Gen	Number=Plur
+PROPN	Animacy=Inan	Case=Gen	Gender=Masc	Number=Sing
+NUM	Case=Loc	NumType=Card
+NOUN	Animacy=Inan	Case=Loc	Gender=Masc	Number=Plur
+VERB	Aspect=Perf	Gender=Masc	Mood=Ind	Number=Sing	Tense=Past	VerbForm=Fin	Voice=Mid
+DET	Person=3
+PROPN	Animacy=Inan	Case=Gen	Gender=Neut	Number=Sing
+ADJ	Animacy=Inan	Case=Nom	Gender=Neut	Number=Sing
+PROPN	Animacy=Inan	Case=Nom	Gender=Fem	Number=Sing
+PROPN	Animacy=Inan	Case=Nom	Gender=Masc	Number=Plur
+ADJ	Animacy=Anim	Case=Nom	Gender=Fem	Number=Sing
+NOUN	Animacy=Anim	Case=Nom	Gender=Fem	Number=Sing
+VERB	Animacy=Anim	Aspect=Perf	Case=Nom	Gender=Masc	Number=Sing	Tense=Past	Variant=Short	VerbForm=Part	Voice=Pass
+ADJ	Animacy=Inan	Case=Ins	Gender=Masc	Number=Sing
+NOUN	Animacy=Inan	Case=Ins	Gender=Masc	Number=Plur
+PRON	Case=Dat	Gender=Masc	Number=Sing	Person=3
+VERB	Aspect=Imp	Gender=Masc	Mood=Ind	Number=Sing	Tense=Past	VerbForm=Fin
+NOUN	Animacy=Anim	Case=Ins	Gender=Masc	Number=Sing
+ADJ	Animacy=Anim	Case=Gen	Gender=Masc	Number=Sing
+NOUN	Animacy=Anim	Case=Gen	Gender=Fem	Number=Sing
+PROPN	Animacy=Anim	Case=Gen	Gender=Fem	Number=Sing
+ADJ	Animacy=Anim	Case=Gen	Gender=Fem	Number=Sing
+AUX	Aspect=Imp	Gender=Masc	Mood=Ind	Number=Sing	Tense=Past	VerbForm=Fin	Voice=Mid
+ADJ	Animacy=Anim	Case=Ins	Gender=Masc	Number=Sing
+PROPN	Animacy=Inan	Case=Loc	Gender=Fem	Number=Sing
+DET	Animacy=Inan	Case=Gen	Gender=Masc	Number=Sing
+AUX	Aspect=Imp	Gender=Neut	Mood=Ind	Number=Sing	Tense=Past	VerbForm=Fin
+PROPN	Animacy=Anim	Case=Gen	Gender=Masc	Number=Plur
+PRON	Animacy=Inan	Case=Loc	Gender=Masc	Number=Sing
+ADJ	Animacy=Inan	Case=Nom	Number=Plur
+NOUN	Animacy=Inan	Case=Nom	Gender=Masc	Number=Plur
+ADJ	Animacy=Anim	Case=Gen	Degree=Sup	Number=Plur
+ADJ	Animacy=Anim	Case=Gen	Number=Plur
+ADJ	Animacy=Inan	Case=Nom	Number=Plur	Variant=Short
+AUX	Aspect=Imp	Mood=Ind	Number=Plur	Tense=Past	VerbForm=Fin
+VERB	Aspect=Perf	VerbForm=Inf	Voice=Mid
+DET	Animacy=Inan	Case=Loc	Number=Plur
+NOUN	Animacy=Inan	Case=Gen	Gender=Neut	Number=Plur
+VERB	Animacy=Anim	Aspect=Imp	Case=Gen	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Act
+PROPN	Animacy=Anim	Case=Ins	Gender=Masc	Number=Sing
+NOUN	Animacy=Anim	Case=Nom	Gender=Masc	Number=Plur
+ADJ	Animacy=Anim	Case=Nom	Gender=Masc	Number=Sing
+ADJ	Animacy=Inan	Case=Dat	Number=Plur
+NOUN	Animacy=Inan	Case=Dat	Gender=Fem	Number=Plur
+NOUN	Animacy=Inan	Case=Dat	Gender=Masc	Number=Plur
+VERB	Animacy=Inan	Aspect=Imp	Case=Dat	Number=Plur	Tense=Past	VerbForm=Part	Voice=Act
+NOUN	Animacy=Inan	Case=Loc	Gender=Neut	Number=Plur
+NOUN	Animacy=Inan	Case=Nom	Gender=Neut	Number=Plur
+VERB	Animacy=Inan	Aspect=Perf	Case=Nom	Number=Plur	Tense=Past	Variant=Short	VerbForm=Part	Voice=Pass
+VERB	Aspect=Imp	Gender=Neut	Mood=Ind	Number=Sing	Tense=Past	VerbForm=Fin
+PRON	Animacy=Inan	Case=Gen	Gender=Neut	Number=Sing
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Tense=Past	VerbForm=Fin
+ADJ	Animacy=Inan	Case=Acc	Gender=Fem	Number=Sing
+NOUN	Animacy=Anim	Case=Acc	Gender=Masc	Number=Plur
+VERB	Animacy=Anim	Aspect=Perf	Case=Acc	Number=Plur	Tense=Past	VerbForm=Part	Voice=Act
+PROPN	Animacy=Inan	Case=Acc	Gender=Fem	Number=Sing
+NUM	Case=Acc	NumType=Card
+PRON	Animacy=Inan	Case=Gen	Number=Plur
+SYM	_
+VERB	Aspect=Perf	Gender=Neut	Mood=Ind	Number=Sing	Tense=Past	VerbForm=Fin	Voice=Mid
+NOUN	Animacy=Inan	Case=Acc	Gender=Masc	Number=Plur
+NUM	Animacy=Inan	Case=Gen	Gender=Masc	Number=Sing	NumType=Card
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Tense=Past	VerbForm=Fin
+VERB	Animacy=Inan	Aspect=Perf	Case=Nom	Gender=Fem	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Aspect=Imp	Gender=Fem	Mood=Ind	Number=Sing	Tense=Past	VerbForm=Fin
+VERB	Animacy=Inan	Aspect=Imp	Case=Gen	Number=Plur	Tense=Past	VerbForm=Part	Voice=Act
+VERB	Animacy=Inan	Aspect=Imp	Case=Gen	Gender=Neut	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin
+NOUN	Animacy=Inan	Case=Nom	Gender=Fem	Number=Plur
+PRON	Animacy=Inan	Case=Ins	Gender=Neut	Number=Sing
+ADJ	Animacy=Inan	Case=Nom	Degree=Sup	Gender=Masc	Number=Sing
+DET	Animacy=Inan	Case=Nom	Number=Plur
+NOUN	Animacy=Inan	Case=Ins	Gender=Masc	Number=Sing
+DET	Animacy=Inan	Case=Loc	Gender=Neut	Number=Sing
+ADJ	Animacy=Anim	Case=Nom	Number=Plur
+NOUN	Animacy=Anim	Case=Nom	Gender=Fem	Number=Plur
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Mid
+VERB	Aspect=Imp	Tense=Pres
+DET	Animacy=Inan	Case=Gen	Number=Plur
+VERB	Animacy=Inan	Aspect=Perf	Case=Nom	Number=Plur	Tense=Past	VerbForm=Part	Voice=Pass
+ADJ	Animacy=Inan	Case=Ins	Number=Plur
+NOUN	Animacy=Inan	Case=Dat	Gender=Neut	Number=Plur
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Tense=Past	VerbForm=Fin	Voice=Mid
+VERB	Animacy=Inan	Aspect=Perf	Case=Ins	Gender=Fem	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+PROPN	Animacy=Anim	Case=Ins	Gender=Masc	Number=Plur
+PRON	Case=Nom	Number=Plur	Person=3
+PRON	Case=Gen	Gender=Masc	Number=Sing	Person=3
+VERB	Animacy=Inan	Aspect=Imp	Case=Nom	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Act
+ADJ	Animacy=Inan	Case=Ins	Gender=Fem	Number=Sing
+DET	Animacy=Inan	Case=Acc	Gender=Fem	Number=Sing	Reflex=Yes
+NOUN	Animacy=Inan	Case=Loc	Gender=Fem	Number=Plur
+ADJ	Animacy=Inan	Case=Gen	Degree=Sup	Number=Plur
+PRON	Animacy=Inan	Case=Nom	Gender=Neut	Number=Sing
+ADJ	Animacy=Inan	Case=Ins	Gender=Neut	Number=Sing
+ADJ	Animacy=Inan	Case=Loc	Number=Plur
+DET	Animacy=Anim	Case=Nom	Number=Plur
+VERB	Animacy=Inan	Aspect=Perf	Case=Nom	Gender=Neut	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+VERB	Animacy=Inan	Aspect=Perf	Case=Nom	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+NOUN	Animacy=Inan	Case=Dat	Gender=Neut	Number=Sing
+AUX	Aspect=Perf	Mood=Ind	Number=Plur	Tense=Past	VerbForm=Fin	Voice=Mid
+VERB	Animacy=Inan	Aspect=Imp	Case=Ins	Number=Plur	Tense=Past	VerbForm=Part	Voice=Act
+ADJ	Animacy=Inan	Case=Dat	Gender=Fem	Number=Sing
+DET	Animacy=Inan	Case=Loc	Gender=Fem	Number=Sing
+NOUN	Animacy=Anim	Case=Ins	Gender=Fem	Number=Sing
+PRON	Case=Ins	Gender=Masc	Number=Sing	Person=3
+NUM	Animacy=Anim	Case=Nom	NumType=Card
+ADJ	Animacy=Anim	Case=Acc	Number=Plur
+VERB	Animacy=Anim	Aspect=Perf	Case=Nom	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+VERB	Animacy=Anim	Aspect=Perf	Case=Nom	Gender=Fem	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+DET	Animacy=Inan	Case=Nom	Gender=Neut	Number=Sing
+VERB	Aspect=Perf	Gender=Neut	Mood=Ind	Number=Sing	Tense=Past	VerbForm=Fin
+PRON	Animacy=Inan	Case=Dat	Gender=Neut	Number=Sing
+NUM	Animacy=Inan	Case=Acc	NumType=Card
+PRON	Case=Acc	Number=Plur	Person=1
+PRON	Animacy=Inan	Case=Acc	Number=Plur
+ADJ	Animacy=Inan	Case=Acc	Number=Plur
+DET	Animacy=Inan	Case=Acc	Gender=Neut	Number=Sing
+DET	Animacy=Inan	Case=Loc	Gender=Masc	Number=Sing	Reflex=Yes
+ADJ	Animacy=Inan	Case=Loc	Gender=Neut	Number=Sing
+PRON	Case=Acc	Reflex=Yes
+NOUN	Animacy=Inan	Case=Acc	Gender=Fem	Number=Plur
+PROPN	Animacy=Anim	Case=Acc	Gender=Fem	Number=Sing
+ADJ	Animacy=Inan	Case=Nom	Degree=Sup	Number=Plur
+PROPN	Animacy=Inan	Case=Nom	Gender=Neut	Number=Sing
+PROPN	Animacy=Inan	Case=Nom	Gender=Fem	Number=Plur
+VERB	Animacy=Inan	Aspect=Perf	Case=Gen	Number=Plur	Tense=Past	VerbForm=Part	Voice=Act
+DET	Animacy=Anim	Case=Dat	Number=Plur
+NUM	Animacy=Anim	Case=Dat	Gender=Masc	NumType=Card
+NOUN	Animacy=Anim	Case=Dat	Gender=Masc	Number=Plur
+AUX	Aspect=Imp	Mood=Ind	Number=Plur	Person=3	Tense=Fut	VerbForm=Fin
+DET	Animacy=Inan	Case=Ins	Number=Plur	Reflex=Yes
+NOUN	Animacy=Anim	Case=Gen	Gender=Fem	Number=Plur
+NUM	Animacy=Inan	Case=Acc	Gender=Masc	NumType=Card
+VERB	Animacy=Inan	Aspect=Imp	Case=Nom	Gender=Fem	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+ADJ	Animacy=Inan	Case=Nom	Gender=Fem	Number=Sing	Variant=Short
+PRON	Case=Acc	Number=Plur	Person=3
+VERB	Animacy=Inan	Aspect=Perf	Case=Loc	Gender=Neut	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+PRON	Case=Acc	Gender=Masc	Number=Sing	Person=3
+NOUN	Animacy=Inan	Case=Ins	Gender=Neut	Number=Plur
+ADJ	Animacy=Anim	Case=Dat	Gender=Masc	Number=Sing
+DET	Animacy=Anim	Case=Gen	Gender=Masc	Number=Sing	Reflex=Yes
+AUX	Aspect=Perf	Gender=Masc	Mood=Ind	Number=Sing	Tense=Past	VerbForm=Fin
+DET	Animacy=Anim	Case=Gen	Gender=Fem	Number=Sing	Reflex=Yes
+VERB	Aspect=Perf	Gender=Fem	Mood=Ind	Number=Sing	Tense=Past	VerbForm=Fin	Voice=Mid
+PROPN	Animacy=Inan	Case=Ins	Gender=Fem	Number=Sing
+PROPN	Animacy=Inan	Case=Ins	Gender=Masc	Number=Sing
+PRON	Animacy=Inan	Case=Loc	Gender=Neut	Number=Sing
+PRON	Case=Acc	Gender=Fem	Number=Sing	Person=3
+VERB	Animacy=Anim	Aspect=Perf	Case=Gen	Number=Plur	Tense=Past	VerbForm=Part	Voice=Act
+DET	Animacy=Inan	Case=Nom	Gender=Masc	Number=Sing
+ADJ	Animacy=Inan	Case=Nom	Gender=Masc	Number=Sing	Variant=Short
+ADJ	Degree=Cmp
+PROPN	Animacy=Anim	Case=Nom	Gender=Masc	Number=Plur
+VERB	Aspect=Imp	Gender=Neut	Mood=Ind	Number=Sing	Tense=Past	VerbForm=Fin	Voice=Mid
+VERB	Animacy=Inan	Aspect=Perf	Case=Gen	Number=Plur	Tense=Past	VerbForm=Part	Voice=Pass
+AUX	Aspect=Imp	Mood=Ind	Number=Plur	Tense=Past	VerbForm=Fin	Voice=Mid
+ADJ	Animacy=Inan	Case=Ins	Degree=Sup	Gender=Fem	Number=Sing
+PRON	Case=Loc	Reflex=Yes
+PRON	Animacy=Inan	Case=Nom	Number=Plur
+AUX	Aspect=Imp	VerbForm=Conv
+DET	Animacy=Inan	Case=Gen	Gender=Fem	Number=Sing
+VERB	Animacy=Anim	Aspect=Imp	Case=Nom	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+VERB	Degree=Pos
+PRON	Case=Loc	Gender=Masc	Number=Sing	Person=3
+PROPN	Animacy=Inan	Case=Gen	Gender=Fem	Number=Plur
+VERB	Animacy=Inan	Aspect=Imp	Case=Nom	Gender=Neut	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+VERB	Animacy=Inan	Aspect=Imp	Case=Loc	Number=Plur	Tense=Past	VerbForm=Part	Voice=Act
+PRON	Animacy=Inan	Case=Nom	Gender=Fem	Number=Sing
+PRON	Case=Gen	Number=Plur	Person=3
+DET	Animacy=Inan	Case=Acc	Gender=Fem	Number=Sing
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Tense=Past	VerbForm=Fin	Voice=Mid
+VERB	Animacy=Inan	Aspect=Imp	Case=Dat	Gender=Fem	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+NUM	Animacy=Anim	Case=Ins	NumType=Card
+PROPN	Animacy=Inan	Case=Acc	Gender=Neut	Number=Sing
+VERB	Animacy=Inan	Aspect=Perf	Case=Nom	Gender=Neut	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+PRON	Animacy=Inan	Case=Gen	Gender=Fem	Number=Sing
+NUM	Animacy=Inan	Case=Nom	Gender=Fem	Number=Sing	NumType=Card
+PRON	Case=Ins	Reflex=Yes
+VERB	Animacy=Inan	Aspect=Perf	Case=Acc	Gender=Fem	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Animacy=Anim	Aspect=Perf	Case=Nom	Number=Plur	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Animacy=Inan	Aspect=Perf	Case=Acc	Gender=Fem	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+PRON	Case=Nom	Number=Plur	Person=1
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin
+AUX	Aspect=Imp	VerbForm=Inf
+VERB	Animacy=Anim	Aspect=Imp	Case=Nom	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Act
+DET	Animacy=Anim	Case=Ins	Number=Plur	Reflex=Yes
+PROPN	Animacy=Inan	Case=Ins	Gender=Neut	Number=Sing
+VERB	Animacy=Inan	Aspect=Imp	Case=Ins	Gender=Masc	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+DET	Animacy=Inan	Case=Dat	Gender=Fem	Number=Sing
+ADJ	Animacy=Anim	Case=Ins	Number=Plur
+AUX	Aspect=Perf	Gender=Neut	Mood=Ind	Number=Sing	Tense=Past	VerbForm=Fin
+VERB	Animacy=Inan	Aspect=Imp	Case=Acc	Gender=Masc	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+AUX	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin
+DET	Animacy=Inan	Case=Ins	Number=Plur
+PROPN	Animacy=Anim	Case=Ins	Gender=Fem	Number=Sing
+NUM	Animacy=Inan	Case=Gen	Gender=Fem	NumType=Card
+DET	Animacy=Anim	Case=Gen	Gender=Masc	Number=Sing
+DET	Animacy=Inan	Case=Acc	Gender=Neut	Number=Sing	Reflex=Yes
+PRON	Case=Nom	Gender=Fem	Number=Sing	Person=3
+VERB	Animacy=Inan	Aspect=Imp	Case=Ins	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+DET	Animacy=Inan	Case=Dat	Gender=Neut	Number=Sing
+ADJ	Animacy=Inan	Case=Gen	Degree=Sup	Gender=Neut	Number=Sing
+ADJ	Animacy=Inan	Case=Ins	Degree=Sup	Gender=Neut	Number=Sing
+AUX	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Mid
+DET	Animacy=Inan	Case=Nom	Gender=Fem	Number=Sing
+PRON	Animacy=Inan	Case=Acc	Gender=Neut	Number=Sing
+NUM	Case=Ins	NumType=Card
+VERB	Animacy=Inan	Aspect=Perf	Case=Nom	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+ADJ	Animacy=Inan	Case=Nom	Gender=Neut	Number=Sing	Variant=Short
+NUM	Animacy=Inan	Case=Loc	Gender=Masc	NumType=Card
+PRON	Animacy=Anim	Case=Nom	Number=Plur
+ADJ	Animacy=Anim	Case=Dat	Degree=Sup	Gender=Masc	Number=Sing
+VERB	Animacy=Inan	Aspect=Imp	Case=Gen	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Act
+NOUN	Animacy=Anim	Case=Loc	Gender=Fem	Number=Sing
+PROPN	Animacy=Anim	Case=Loc	Gender=Fem	Number=Sing
+VERB	Animacy=Inan	Aspect=Imp	Case=Nom	Number=Plur	Tense=Past	VerbForm=Part	Voice=Act
+VERB	Animacy=Inan	Aspect=Perf	Case=Dat	Number=Plur	Tense=Past	VerbForm=Part	Voice=Pass
+PRON	Animacy=Inan	Case=Loc	Gender=Fem	Number=Sing
+NOUN	Animacy=Anim	Case=Loc	Gender=Masc	Number=Sing
+NOUN	Animacy=Anim	Case=Dat	Gender=Fem	Number=Sing
+PROPN	Animacy=Anim	Case=Dat	Gender=Fem	Number=Sing
+DET	Animacy=Inan	Case=Loc	Gender=Masc	Number=Sing
+NUM	Animacy=Inan	Case=Dat	Gender=Masc	NumType=Card
+NUM	Animacy=Inan	Case=Dat	NumType=Card
+DET	Animacy=Inan	Case=Gen	Gender=Masc	Number=Sing	Reflex=Yes
+ADJ	Animacy=Inan	Case=Ins	Degree=Sup	Gender=Masc	Number=Sing
+AUX	Aspect=Perf	Gender=Fem	Mood=Ind	Number=Sing	Tense=Past	VerbForm=Fin
+NUM	Animacy=Inan	Case=Ins	Gender=Fem	Number=Sing	NumType=Card
+ADJ	Animacy=Inan	Case=Acc	Degree=Sup	Gender=Masc	Number=Sing
+VERB	Animacy=Inan	Aspect=Imp	Case=Nom	Gender=Fem	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Pass
+ADJ	Animacy=Inan	Case=Acc	Degree=Sup	Gender=Neut	Number=Sing
+ADJ	Animacy=Anim	Case=Nom	Gender=Fem	Number=Sing	Variant=Short
+PRON	Case=Dat	Number=Sing	Person=1
+DET	Animacy=Inan	Case=Nom	Gender=Neut	Number=Sing	Person=1
+AUX	Animacy=Inan	Aspect=Imp	Case=Nom	Number=Plur	Tense=Past	VerbForm=Part	Voice=Act
+PRON	Animacy=Inan	Case=Acc	Gender=Masc	Number=Sing
+NOUN	_
+ADJ	Animacy=Inan	Case=Dat	Gender=Neut	Number=Sing
+PRON	Animacy=Inan	Case=Dat	Gender=Masc	Number=Sing
+VERB	Animacy=Inan	Aspect=Perf	Case=Acc	Number=Plur	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=3	Tense=Fut	VerbForm=Fin	Voice=Mid
+PRON	Case=Dat	Gender=Fem	Number=Sing	Person=3
+VERB	Animacy=Inan	Aspect=Perf	Case=Ins	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+PROPN	Animacy=Inan	Case=Loc	Gender=Masc	Number=Plur
+DET	Animacy=Inan	Case=Dat	Gender=Masc	Number=Sing
+NUM	Animacy=Inan	Case=Nom	Gender=Fem	NumType=Card
+VERB	Animacy=Inan	Aspect=Imp	Case=Nom	Gender=Masc	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Pass
+DET	Animacy=Anim	Case=Nom	Gender=Masc	Number=Sing	Person=2
+VERB	Aspect=Imp	Mood=Imp	Number=Sing	Person=2	VerbForm=Fin
+DET	Animacy=Inan	Case=Acc	Number=Plur
+VERB	Animacy=Anim	Aspect=Imp	Case=Nom	Gender=Masc	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+ADJ	Animacy=Anim	Case=Dat	Number=Plur
+NUM	Animacy=Inan	Case=Acc	Gender=Masc	Number=Sing	NumType=Card
+PROPN	Animacy=Inan	Case=Dat	Gender=Fem	Number=Sing
+DET	Animacy=Inan	Case=Acc	Gender=Masc	Number=Sing	Reflex=Yes
+VERB	Animacy=Anim	Aspect=Imp	Case=Gen	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+VERB	Animacy=Anim	Aspect=Imp	Case=Dat	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Act
+VERB	Animacy=Inan	Aspect=Perf	Case=Ins	Gender=Neut	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	Tense=Fut	VerbForm=Fin
+NOUN	Animacy=Anim	Case=Loc	Gender=Fem	Number=Plur
+PRON	Animacy=Inan	Case=Nom	Gender=Masc	Number=Sing
+PROPN	Animacy=Inan	Case=Gen	Gender=Masc	Number=Plur
+DET	Animacy=Anim	Case=Gen	Number=Plur
+ADJ	Animacy=Anim	Case=Acc	Gender=Masc	Number=Sing
+NUM	Animacy=Anim	Case=Gen	Number=Plur	NumType=Card
+VERB	Animacy=Inan	Aspect=Imp	Case=Nom	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	Tense=Fut	VerbForm=Fin	Voice=Mid
+DET	Animacy=Inan	Case=Dat	Number=Plur
+VERB	Animacy=Anim	Aspect=Perf	Case=Nom	Number=Plur	Tense=Past	VerbForm=Part	Voice=Act
+ADV	Degree=Sup
+PROPN	Animacy=Anim	Case=Dat	Gender=Masc	Number=Sing
+AUX	Aspect=Imp	Mood=Ind	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin
+PRON	Case=Gen	Gender=Neut	Number=Sing	Person=3
+VERB	Animacy=Anim	Aspect=Imp	Case=Nom	Number=Plur	Tense=Past	VerbForm=Part	Voice=Act
+VERB	Animacy=Inan	Aspect=Perf	Case=Acc	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+PROPN	Animacy=Inan	Case=Dat	Gender=Masc	Number=Sing
+VERB	Animacy=Inan	Aspect=Imp	Case=Loc	Gender=Fem	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Pass
+DET	Animacy=Anim	Case=Ins	Gender=Masc	Number=Sing	Reflex=Yes
+VERB	Animacy=Anim	Aspect=Perf	Case=Nom	Gender=Fem	Number=Sing	Tense=Past	Variant=Short	VerbForm=Part	Voice=Pass
+VERB	Animacy=Inan	Aspect=Perf	Case=Ins	Gender=Fem	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+VERB	Animacy=Inan	Aspect=Perf	Case=Dat	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+PRON	Case=Gen	Gender=Fem	Number=Sing	Person=3
+NUM	Animacy=Anim	Case=Dat	Gender=Masc	Number=Sing	NumType=Card
+NUM	Animacy=Inan	Case=Dat	Gender=Fem	Number=Sing	NumType=Card
+PROPN	Animacy=Anim	Case=Loc	Gender=Masc	Number=Sing
+VERB	Animacy=Inan	Aspect=Perf	Case=Loc	Gender=Fem	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin
+PRON	Case=Acc	Number=Plur	Person=2
+PRON	Case=Dat	Reflex=Yes
+VERB	Animacy=Inan	Aspect=Perf	Case=Gen	Gender=Fem	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+AUX	Aspect=Imp	Gender=Fem	Mood=Ind	Number=Sing	Tense=Past	VerbForm=Fin	Voice=Mid
+VERB	Animacy=Inan	Aspect=Perf	Case=Nom	Gender=Fem	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+VERB	Animacy=Inan	Aspect=Imp	Case=Acc	Gender=Fem	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+NUM	Animacy=Inan	Case=Loc	Gender=Masc	Number=Sing	NumType=Card
+VERB	Animacy=Inan	Aspect=Perf	Case=Loc	Number=Plur	Tense=Past	VerbForm=Part	Voice=Pass
+AUX	_
+ADJ	Animacy=Inan	Case=Nom	Degree=Sup	Gender=Fem	Number=Sing
+DET	Animacy=Anim	Case=Dat	Gender=Masc	Number=Sing
+NUM	Animacy=Inan	Case=Acc	Gender=Fem	NumType=Card
+NUM	Animacy=Inan	Case=Loc	Gender=Fem	Number=Sing	NumType=Card
+PROPN	Animacy=Inan	Case=Loc	Gender=Fem	Number=Plur
+VERB	Animacy=Anim	Aspect=Perf	Case=Ins	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Animacy=Inan	Aspect=Perf	Case=Loc	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+NUM	Animacy=Anim	Case=Nom	Gender=Masc	NumType=Card
+PRON	Case=Nom	Number=Sing	Person=1
+ADJ	Animacy=Inan	Case=Acc	Degree=Sup	Number=Plur
+VERB	Animacy=Anim	Aspect=Perf	Case=Nom	Number=Plur	Tense=Past	Variant=Short	VerbForm=Part	Voice=Pass
+VERB	Animacy=Inan	Aspect=Imp	Case=Loc	Gender=Neut	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+VERB	Animacy=Anim	Aspect=Imp	Case=Nom	Gender=Masc	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Pass
+NUM	Animacy=Anim	Case=Acc	NumType=Card
+VERB	Animacy=Inan	Aspect=Perf	Case=Dat	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Animacy=Inan	Aspect=Imp	Case=Gen	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Pass
+PRON	Animacy=Anim	Case=Ins	Number=Plur
+PROPN	Animacy=Anim	Case=Gen	Gender=Fem	Number=Plur
+PRON	Animacy=Inan	Case=Ins	Gender=Fem	Number=Sing
+DET	Animacy=Anim	Case=Dat	Number=Plur	Reflex=Yes
+VERB	Animacy=Anim	Aspect=Imp	Case=Acc	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Act
+PRON	Case=Nom	Number=Sing	Person=2
+VERB	Animacy=Inan	Aspect=Imp	Case=Acc	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Act
+NUM	Case=Dat	NumType=Card
+NOUN	Animacy=Anim	Case=Gen	Gender=Neut	Number=Plur
+VERB	Animacy=Anim	Aspect=Imp	Case=Gen	Number=Plur	Tense=Past	VerbForm=Part	Voice=Act
+VERB	Animacy=Inan	Aspect=Perf	Case=Gen	Gender=Neut	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+AUX	Aspect=Perf	VerbForm=Inf
+VERB	Animacy=Inan	Aspect=Perf	Case=Loc	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+NUM	Animacy=Anim	Case=Gen	Gender=Masc	Number=Sing	NumType=Card
+DET	Animacy=Anim	Case=Nom	Gender=Masc	Number=Sing
+NUM	Animacy=Anim	Case=Acc	Gender=Masc	Number=Sing	NumType=Card
+PRON	Animacy=Anim	Case=Gen	Number=Plur
+VERB	Animacy=Inan	Aspect=Perf	Case=Gen	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+PRON	Case=Ins	Gender=Neut	Number=Sing	Person=3
+VERB	Animacy=Inan	Aspect=Imp	Case=Ins	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Act
+PRON	Animacy=Anim	Case=Ins	Gender=Fem	Number=Sing
+NUM	Animacy=Anim	Case=Acc	Gender=Masc	NumType=Card
+NOUN	Animacy=Anim	Case=Acc	Gender=Fem	Number=Plur
+ADJ	Animacy=Inan	Case=Gen	Degree=Sup	Gender=Masc	Number=Sing
+ADJ	Animacy=Inan	Case=Acc	Degree=Sup	Gender=Fem	Number=Sing
+AUX	Aspect=Perf	Mood=Ind	Number=Plur	Tense=Past	VerbForm=Fin
+NUM	Animacy=Inan	Case=Ins	NumType=Card
+NUM	Animacy=Inan	Case=Dat	Gender=Masc	Number=Sing	NumType=Card
+NUM	Animacy=Anim	Case=Ins	Gender=Masc	Number=Sing	NumType=Card
+PRON	Animacy=Anim	Case=Gen	Gender=Masc	Number=Sing
+PRON	Animacy=Inan	Case=Dat	Gender=Fem	Number=Sing
+PRON	Animacy=Inan	Case=Dat	Number=Plur
+NUM	Animacy=Anim	Case=Ins	Gender=Fem	Number=Sing	NumType=Card
+NUM	Animacy=Anim	Case=Gen	NumType=Card
+PRON	Case=Loc	Number=Plur	Person=3
+DET	Animacy=Anim	Case=Ins	Number=Plur
+DET	Animacy=Inan	Case=Ins	Gender=Masc	Number=Sing
+VERB	Animacy=Inan	Aspect=Perf	Case=Ins	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+PRON	Animacy=Anim	Case=Dat	Gender=Masc	Number=Sing
+PRON	Animacy=Anim	Case=Dat	Number=Plur
+PRON	Case=Ins	Number=Plur	Person=3
+VERB	Animacy=Inan	Aspect=Imp	Case=Gen	Gender=Fem	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Pass
+VERB	Animacy=Anim	Aspect=Perf	Case=Gen	Number=Plur	Tense=Past	VerbForm=Part	Voice=Pass
+NUM	Animacy=Inan	Case=Gen	Gender=Masc	NumType=Card
+PRON	Case=Dat	Number=Plur	Person=1
+NUM	Animacy=Anim	Case=Dat	NumType=Card
+VERB	Animacy=Anim	Aspect=Perf	Case=Dat	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+DET	Animacy=Anim	Case=Dat	Gender=Masc	Number=Sing	Reflex=Yes
+DET	Animacy=Inan	Case=Loc	Gender=Fem	Number=Sing	Reflex=Yes
+PROPN	Animacy=Inan	Case=Loc	Gender=Neut	Number=Sing
+NOUN	Animacy=Anim	Case=Nom	Gender=Neut	Number=Plur
+VERB	Animacy=Anim	Aspect=Imp	Case=Ins	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Act
+NUM	Animacy=Anim	Case=Ins	Gender=Masc	NumType=Card
+NUM	Animacy=Inan	Case=Nom	Gender=Neut	Number=Sing	NumType=Card
+VERB	Animacy=Inan	Aspect=Imp	Case=Acc	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+PRON	Case=Ins	Gender=Fem	Number=Sing	Person=3
+VERB	Animacy=Inan	Aspect=Perf	Case=Gen	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+VERB	Animacy=Inan	Aspect=Imp	Case=Gen	Gender=Fem	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+VERB	Animacy=Inan	Aspect=Perf	Case=Acc	Number=Plur	Tense=Past	VerbForm=Part	Voice=Act
+ADJ	Animacy=Anim	Case=Acc	Gender=Fem	Number=Sing
+NOUN	Animacy=Anim	Case=Acc	Gender=Fem	Number=Sing
+VERB	Animacy=Inan	Aspect=Imp	Case=Gen	Gender=Neut	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Pass
+DET	Animacy=Anim	Case=Acc	Gender=Masc	Number=Sing
+NUM	Animacy=Inan	Case=Gen	Gender=Neut	NumType=Card
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=1	Tense=Fut	VerbForm=Fin
+PRON	Case=Nom	Number=Plur	Person=2
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Person=2	Tense=Pres	VerbForm=Fin
+PRON	Case=Ins	Number=Sing	Person=1
+DET	Animacy=Inan	Case=Ins	Number=Plur	Person=1
+NUM	Animacy=Inan	Case=Ins	Gender=Masc	Number=Sing	NumType=Card
+PRON	Case=Loc	Gender=Fem	Number=Sing	Person=3
+VERB	Animacy=Inan	Aspect=Imp	Case=Nom	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Pass
+VERB	Aspect=Perf	Mood=Imp	Number=Sing	Person=2	VerbForm=Fin
+VERB	Animacy=Inan	Aspect=Imp	Case=Dat	Gender=Neut	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Pass
+NOUN	Animacy=Anim	Case=Dat	Gender=Neut	Number=Sing
+DET	Animacy=Inan	Case=Gen	Gender=Neut	Number=Sing	Reflex=Yes
+NUM	Animacy=Anim	Case=Gen	Gender=Masc	NumType=Card
+VERB	Animacy=Inan	Aspect=Perf	Case=Ins	Number=Plur	Tense=Past	VerbForm=Part	Voice=Act
+DET	Animacy=Anim	Case=Gen	Number=Plur	Reflex=Yes
+DET	Animacy=Inan	Case=Gen	Number=Plur	Person=1
+NOUN	Animacy=Anim	Case=Loc	Gender=Masc	Number=Plur
+AUX	Animacy=Inan	Aspect=Perf	Case=Nom	Gender=Fem	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+PRON	Case=Nom	Gender=Neut	Number=Sing	Person=3
+PRON	Animacy=Anim	Case=Ins	Gender=Masc	Number=Sing
+DET	Animacy=Anim	Case=Acc	Number=Plur
+PRON	Animacy=Inan	Case=Acc	Gender=Fem	Number=Sing
+DET	Animacy=Anim	Case=Dat	Gender=Fem	Number=Sing	Reflex=Yes
+VERB	Animacy=Inan	Aspect=Imp	Case=Acc	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Pass
+NUM	Animacy=Inan	Case=Ins	Gender=Neut	NumType=Card
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=3	Tense=Fut	VerbForm=Fin
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Tense=Fut	VerbForm=Fin
+VERB	Animacy=Inan	Aspect=Perf	Case=Nom	Number=Plur	Tense=Past	VerbForm=Part	Voice=Act
+AUX	Aspect=Imp	Mood=Ind	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Mid
+NUM	Animacy=Inan	Case=Acc	Gender=Fem	Number=Sing	NumType=Card
+VERB	Animacy=Inan	Aspect=Imp	Case=Loc	Gender=Masc	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+NUM	Animacy=Inan	Case=Loc	Gender=Neut	Number=Sing	NumType=Card
+ADJ	Animacy=Anim	Case=Ins	Gender=Fem	Number=Sing
+VERB	Animacy=Inan	Aspect=Imp	Case=Gen	Gender=Fem	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+DET	Animacy=Inan	Case=Loc	Number=Plur	Reflex=Yes
+NUM	Animacy=Inan	Case=Nom	Number=Sing	NumType=Card
+AUX	Animacy=Anim	Aspect=Imp	Case=Ins	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+VERB	Animacy=Anim	Aspect=Imp	Case=Acc	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+VERB	Animacy=Inan	Aspect=Imp	Case=Acc	Gender=Fem	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+AUX	Aspect=Perf	Mood=Ind	Number=Plur	Person=3	Tense=Fut	VerbForm=Fin
+DET	Animacy=Inan	Case=Acc	Number=Plur	Person=1
+NUM	Animacy=Inan	Case=Gen	Gender=Neut	Number=Sing	NumType=Card
+NUM	Animacy=Inan	Case=Loc	NumType=Card
+ADJ	Animacy=Anim	Case=Nom	Number=Plur	Variant=Short
+NOUN	Animacy=Anim	Case=Ins	Gender=Neut	Number=Plur
+PROPN	Animacy=Inan	Case=Gen	Gender=Neut	Number=Plur
+VERB	Animacy=Anim	Aspect=Perf	Case=Ins	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+VERB	Animacy=Inan	Aspect=Perf	Case=Ins	Number=Plur	Tense=Past	VerbForm=Part	Voice=Pass
+NUM	Animacy=Inan	Case=Gen	Gender=Fem	Number=Sing	NumType=Card
+AUX	Animacy=Anim	Aspect=Imp	Case=Gen	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+ADJ	Animacy=Anim	Case=Loc	Gender=Masc	Number=Sing
+PRON	Case=Acc	Gender=Neut	Number=Sing	Person=3
+ADJ	Animacy=Anim	Case=Nom	Degree=Sup	Gender=Fem	Number=Sing
+VERB	Animacy=Anim	Aspect=Perf	Case=Nom	Gender=Fem	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+NUM	Animacy=Inan	Case=Dat	Gender=Fem	NumType=Card
+PRON	Case=Gen	Reflex=Yes
+DET	Animacy=Inan	Case=Gen	Number=Plur	Reflex=Yes
+VERB	Animacy=Inan	Aspect=Imp	Case=Nom	Gender=Masc	Number=Sing	Tense=Pres	Variant=Short	VerbForm=Part	Voice=Act
+PRON	Case=Dat	Number=Plur	Person=2
+VERB	Aspect=Perf	Mood=Imp	Number=Plur	Person=2	VerbForm=Fin
+PRON	Case=Voc	Number=Plur	Person=2
+DET	Animacy=Anim	Case=Voc	Number=Plur
+AUX	Animacy=Anim	Aspect=Perf	Case=Nom	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+DET	Animacy=Inan	Case=Gen	Gender=Fem	Number=Sing	Person=1
+DET	Animacy=Inan	Case=Ins	Gender=Fem	Number=Sing
+NUM	Animacy=Inan	Case=Ins	Gender=Masc	NumType=Card
+NUM	Animacy=Inan	Case=Ins	Gender=Fem	NumType=Card
+VERB	Animacy=Inan	Aspect=Imp	Case=Gen	Number=Plur	Tense=Past	VerbForm=Part	Voice=Pass
+NUM	Animacy=Anim	Case=Nom	Gender=Fem	NumType=Card
+NUM	Animacy=Anim	Case=Dat	Gender=Fem	NumType=Card
+AUX	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	Tense=Fut	VerbForm=Fin
+VERB	Animacy=Inan	Aspect=Perf	Case=Gen	Gender=Neut	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+DET	Animacy=Inan	Case=Dat	Number=Plur	Reflex=Yes
+AUX	Aspect=Imp	VerbForm=Inf	Voice=Mid
+X	_
+VERB	Animacy=Inan	Aspect=Imp	Case=Gen	Gender=Masc	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+VERB	Aspect=Imp	Mood=Imp	Number=Plur	Person=2	VerbForm=Fin
+NOUN	Animacy=Anim	Case=Ins	Gender=Fem	Number=Plur
+NUM	Animacy=Anim	Case=Gen	Gender=Masc	Number=Plur	NumType=Card
+NUM	Animacy=Anim	Case=Gen	Gender=Neut	Number=Sing	NumType=Card
+ADJ	Animacy=Anim	Case=Gen	Gender=Neut	Number=Sing
+NOUN	Animacy=Anim	Case=Gen	Gender=Neut	Number=Sing
+ADJ	Animacy=Inan	Case=Nom	Degree=Sup	Gender=Fem	Number=Plur
+VERB	Animacy=Inan	Aspect=Imp	Case=Gen	Gender=Masc	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Pass
+VERB	Animacy=Anim	Aspect=Perf	Case=Gen	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+NUM	Animacy=Anim	Case=Loc	Gender=Masc	NumType=Card
+VERB	Animacy=Anim	Aspect=Imp	Case=Nom	Gender=Fem	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+VERB	Animacy=Inan	Aspect=Imp	Case=Nom	Gender=Neut	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Pass
+VERB	Animacy=Inan	Aspect=Perf	Case=Acc	Gender=Neut	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+DET	Animacy=Anim	Case=Acc	Gender=Masc	Number=Sing	Reflex=Yes
+PRON	Animacy=Inan	Case=Loc	Number=Plur
+NUM	Animacy=Inan	Case=Gen	Number=Plur	NumType=Card
+VERB	Animacy=Anim	Aspect=Perf	Case=Acc	Gender=Fem	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Animacy=Inan	Aspect=Perf	Case=Loc	Gender=Fem	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+VERB	Animacy=Anim	Aspect=Imp	Case=Acc	Gender=Fem	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+AUX	Aspect=Perf	VerbForm=Conv
+NUM	Animacy=Anim	Case=Loc	NumType=Card
+VERB	Animacy=Inan	Aspect=Imp	Case=Acc	Gender=Masc	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Pass
+VERB	Animacy=Inan	Aspect=Perf	Case=Gen	Gender=Fem	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=1	Tense=Fut	VerbForm=Fin	Voice=Mid
+NUM	Animacy=Inan	Case=Nom	Gender=Neut	NumType=Card
+VERB	Animacy=Inan	Aspect=Imp	Case=Ins	Gender=Neut	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+NUM	Animacy=Inan	Case=Loc	Gender=Fem	NumType=Card
+AUX	Aspect=Imp	Mood=Ind	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin
+PRON	Case=Acc	Number=Sing	Person=2
+PROPN	Animacy=Anim	Case=Nom	Gender=Fem	Number=Plur
+VERB	Animacy=Anim	Aspect=Perf	Case=Ins	Number=Plur	Tense=Past	VerbForm=Part	Voice=Act
+VERB	Animacy=Inan	Aspect=Imp	Case=Gen	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+VERB	Animacy=Inan	Aspect=Imp	Case=Nom	Gender=Neut	Number=Sing	Tense=Pres	Variant=Short	VerbForm=Part	Voice=Pass
+NOUN	Animacy=Anim	Case=Voc	Gender=Masc	Number=Sing
+DET	Animacy=Anim	Case=Nom	Gender=Masc	Number=Sing	Person=1
+PROPN	Animacy=Inan	Case=Ins	Gender=Masc	Number=Plur
+VERB	Animacy=Inan	Aspect=Imp	Case=Ins	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Pass
+VERB	Animacy=Anim	Aspect=Imp	Case=Ins	Gender=Masc	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+DET	Animacy=Inan	Case=Ins	Gender=Fem	Number=Sing	Reflex=Yes
+VERB	Animacy=Inan	Aspect=Imp	Case=Nom	Gender=Neut	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+AUX	Animacy=Anim	Aspect=Perf	Case=Nom	Gender=Masc	Number=Sing	Tense=Past	Variant=Short	VerbForm=Part	Voice=Pass
+VERB	Animacy=Inan	Aspect=Imp	Case=Nom	Gender=Fem	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+AUX	Animacy=Inan	Case=Acc	Gender=Neut	Number=Sing
+PRON	Animacy=Anim	Case=Nom	Gender=Fem	Number=Sing
+NOUN	Animacy=Anim	Case=Loc	Gender=Neut	Number=Plur
+DET	Animacy=Inan	Case=Dat	Gender=Masc	Number=Sing	Reflex=Yes
+VERB	Animacy=Anim	Aspect=Perf	Case=Gen	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Animacy=Anim	Aspect=Imp	Case=Ins	Gender=Fem	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Pass
+ADJ	Animacy=Anim	Case=Loc	Gender=Fem	Number=Sing
+VERB	Animacy=Anim	Aspect=Perf	Case=Nom	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+NUM	Animacy=Inan	Case=Nom	Number=Plur	NumType=Card
+AUX	Animacy=Inan	Aspect=Perf	Case=Nom	Gender=Masc	Number=Sing	Tense=Past	Variant=Short	VerbForm=Part	Voice=Pass
+VERB	Animacy=Inan	Aspect=Perf	Case=Acc	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+DET	Animacy=Inan	Case=Nom	Gender=Fem	Number=Sing	Person=1
+PRON	Animacy=Inan	Case=Ins	Gender=Masc	Number=Sing
+VERB	Animacy=Anim	Aspect=Perf	Case=Dat	Number=Plur	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Animacy=Inan	Aspect=Imp	Case=Acc	Gender=Fem	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Pass
+DET	Animacy=Anim	Case=Ins	Gender=Fem	Number=Sing	Reflex=Yes
+ADJ	Animacy=Anim	Case=Nom	Degree=Sup	Number=Plur
+NUM	Animacy=Inan	Case=Acc	Gender=Neut	Number=Sing	NumType=Card
+VERB	Animacy=Anim	Aspect=Imp	Case=Ins	Number=Plur	Tense=Past	VerbForm=Part	Voice=Act
+VERB	Animacy=Anim	Aspect=Perf	Case=Dat	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Animacy=Anim	Aspect=Perf	Case=Loc	Number=Plur	Tense=Past	VerbForm=Part	Voice=Pass
+ADJ	Animacy=Inan	Case=Dat	Degree=Sup	Gender=Fem	Number=Sing
+VERB	Animacy=Anim	Aspect=Perf	Case=Acc	Number=Plur	Tense=Past	VerbForm=Part	Voice=Pass
+DET	Animacy=Inan	Case=Loc	Gender=Neut	Number=Sing	Reflex=Yes
+DET	Animacy=Anim	Case=Ins	Gender=Masc	Number=Sing
+VERB	Animacy=Inan	Aspect=Imp	Case=Dat	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Pass
+VERB	Animacy=Inan	Aspect=Perf	Case=Acc	Gender=Neut	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+PROPN	Animacy=Inan	Case=Acc	Gender=Masc	Number=Plur
+VERB	Animacy=Anim	Aspect=Imp	Case=Gen	Gender=Masc	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+DET	Animacy=Anim	Case=Dat	Gender=Fem	Number=Sing
+AUX	Animacy=Anim	Aspect=Perf	Case=Nom	Gender=Fem	Number=Sing	Tense=Past	Variant=Short	VerbForm=Part	Voice=Pass
+VERB	Aspect=Imp	Mood=Imp	Number=Plur	Person=2	VerbForm=Fin	Voice=Mid
+PRON	Animacy=Inan	Case=Ins	Number=Plur
+VERB	Animacy=Anim	Aspect=Perf	Case=Ins	Number=Plur	Tense=Past	VerbForm=Part	Voice=Pass
+PRON	Case=Gen	Number=Plur	Person=1
+VERB	Animacy=Inan	Aspect=Imp	Case=Ins	Gender=Fem	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+DET	Animacy=Inan	Case=Dat	Gender=Fem	Number=Sing	Reflex=Yes
+VERB	Animacy=Inan	Aspect=Imp	Case=Ins	Gender=Fem	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+VERB	Animacy=Anim	Aspect=Imp	Case=Dat	Gender=Masc	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+ADJ	Animacy=Inan	Case=Ins	Degree=Sup	Number=Plur
+NUM	Animacy=Inan	Case=Loc	Gender=Neut	NumType=Card
+AUX	Aspect=Perf	Gender=Fem	Mood=Ind	Number=Sing	Tense=Past	VerbForm=Fin	Voice=Mid
+PRON	Animacy=Anim	Case=Acc	Gender=Masc	Number=Sing
+AUX	Animacy=Inan	Aspect=Perf	Case=Nom	Number=Plur	Tense=Past	VerbForm=Part	Voice=Act
+VERB	Animacy=Inan	Aspect=Perf	Case=Dat	Gender=Fem	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+PROPN	Animacy=Inan	Case=Dat	Gender=Fem	Number=Plur
+NUM	Animacy=Anim	Case=Gen	Gender=Fem	NumType=Card
+NUM	Animacy=Anim	Case=Acc	Gender=Fem	NumType=Card
+AUX	Aspect=Perf	Gender=Neut	Mood=Ind	Number=Sing	Tense=Past	VerbForm=Fin	Voice=Mid
+NOUN	Animacy=Anim	Case=Dat	Gender=Neut	Number=Plur
+VERB	Animacy=Inan	Aspect=Imp	Case=Loc	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Pass
+NUM	Animacy=Anim	Case=Nom	Gender=Fem	Number=Sing	NumType=Card
+VERB	Animacy=Inan	Aspect=Perf	Case=Dat	Gender=Fem	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+VERB	Animacy=Inan	Aspect=Imp	Case=Acc	Gender=Neut	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+AUX	Aspect=Perf	VerbForm=Inf	Voice=Mid
+VERB	Animacy=Inan	Aspect=Perf	Case=Loc	Gender=Neut	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+VERB	Animacy=Anim	Aspect=Imp	Case=Gen	Gender=Fem	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+ADJ	Animacy=Anim	Case=Loc	Number=Plur
+VERB	Animacy=Inan	Aspect=Imp	Case=Acc	Gender=Neut	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Pass
+VERB	Animacy=Anim	Aspect=Perf	Case=Nom	Gender=Neut	Number=Sing	Tense=Past	Variant=Short	VerbForm=Part	Voice=Pass
+VERB	Animacy=Anim	Aspect=Perf	Case=Dat	Number=Plur	Tense=Past	VerbForm=Part	Voice=Act
+NOUN	Animacy=Anim	Case=Dat	Gender=Fem	Number=Plur
+VERB	Animacy=Inan	Aspect=Imp	Case=Loc	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Act
+AUX	Animacy=Inan	Aspect=Imp	Case=Nom	Gender=Neut	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+VERB	Animacy=Inan	Aspect=Imp	Case=Gen	Gender=Fem	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+VERB	Animacy=Inan	Aspect=Imp	Case=Ins	Gender=Neut	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Pass
+PROPN	Animacy=Inan	Case=Dat	Gender=Masc	Number=Plur
+NUM	Degree=Cmp	NumType=Card
+VERB	Animacy=Inan	Aspect=Perf	Case=Loc	Number=Plur	Tense=Past	VerbForm=Part	Voice=Act
+DET	Animacy=Anim	Case=Acc	Number=Plur	Reflex=Yes
+VERB	Animacy=Inan	Aspect=Imp	Case=Dat	Gender=Masc	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+PROPN	Animacy=Inan	Case=Dat	Gender=Neut	Number=Sing
+VERB	Animacy=Anim	Aspect=Imp	Case=Gen	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Pass
+VERB	Animacy=Inan	Aspect=Imp	Case=Ins	Gender=Neut	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+VERB	Animacy=Inan	Aspect=Imp	Case=Loc	Gender=Neut	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Pass
+DET	Animacy=Inan	Case=Ins	Gender=Masc	Number=Sing	Person=1
+DET	Animacy=Inan	Case=Gen	Gender=Masc	Number=Sing	Person=1
+PROPN	Animacy=Anim	Case=Acc	Gender=Masc	Number=Plur
+DET	Animacy=Inan	Case=Loc	Gender=Fem	Number=Sing	Person=1
+ADJ	Animacy=Inan	Case=Gen	Degree=Sup	Gender=Fem	Number=Sing
+DET	Animacy=Inan	Case=Ins	Gender=Fem	Number=Sing	Person=1
+DET	Animacy=Inan	Case=Nom	Number=Plur	Person=1
+AUX	Aspect=Perf	Gender=Masc	Mood=Ind	Number=Sing	Tense=Past	VerbForm=Fin	Voice=Mid
+PRON	Case=Dat	Number=Sing	Person=2
+PRON	Case=Gen	Number=Sing	Person=1
+VERB	Animacy=Inan	Aspect=Imp	Case=Loc	Gender=Fem	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+PROPN	Animacy=Inan	Case=Nom	Gender=Neut	Number=Plur
+VERB	Animacy=Anim	Aspect=Imp	Case=Nom	Gender=Fem	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Pass
+VERB	Animacy=Inan	Aspect=Perf	Case=Acc	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Act
+NUM	Case=Gen	Gender=Masc	NumType=Card
+PRON	Animacy=Anim	Case=Gen	Gender=Fem	Number=Sing
+VERB	Animacy=Inan	Aspect=Imp	Case=Loc	Gender=Fem	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+ADJ	Animacy=Anim	Case=Nom	Degree=Sup	Gender=Masc	Number=Sing
+NOUN	Animacy=Inan	Case=Par	Gender=Masc	Number=Sing
+VERB	Animacy=Anim	Aspect=Imp	Case=Nom	Number=Plur	Tense=Pres	VerbForm=Part	Voice=Pass
+VERB	Animacy=Inan	Aspect=Imp	Case=Acc	Gender=Fem	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+AUX	Animacy=Anim	Aspect=Imp	Case=Gen	Gender=Masc	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Person=3	Tense=Fut	VerbForm=Fin	Voice=Mid
+ADJ	Animacy=Anim	Case=Ins	Degree=Sup	Gender=Masc	Number=Sing
+VERB	Animacy=Anim	Aspect=Imp	Case=Acc	Number=Plur	Tense=Past	VerbForm=Part	Voice=Act
+NUM	Animacy=Inan	Case=Ins	Gender=Neut	Number=Sing	NumType=Card
+AUX	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	Tense=Fut	VerbForm=Fin	Voice=Mid
+DET	Animacy=Anim	Case=Gen	Gender=Fem	Number=Sing
+AUX	Animacy=Anim	Aspect=Perf	Case=Ins	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+VERB	Animacy=Anim	Aspect=Imp	Case=Ins	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+AUX	Animacy=Inan	Case=Acc	Gender=Masc	Number=Sing
+DET	Animacy=Inan	Case=Ins	Gender=Masc	Number=Sing	Reflex=Yes
+AUX	Animacy=Inan	Case=Nom	Gender=Masc	Number=Plur
+AUX	Animacy=Inan	Aspect=Perf	Case=Nom	Gender=Neut	Number=Sing	Tense=Past	Variant=Short	VerbForm=Part	Voice=Pass
+NOUN	Animacy=Anim	Case=Acc	Gender=Neut	Number=Plur
+VERB	Degree=Cmp
+DET	Animacy=Anim	Case=Gen	Number=Plur	Person=1
+VERB	Animacy=Inan	Aspect=Imp	Case=Nom	Number=Plur	Tense=Past	Variant=Short	VerbForm=Part	Voice=Pass
+DET	Animacy=Inan	Case=Gen	Gender=Neut	Number=Sing	Person=2
+DET	Animacy=Anim	Case=Gen	Gender=Masc	Number=Sing	Person=2
+PRON	Case=Dat	Gender=Neut	Number=Sing	Person=3
+VERB	Animacy=Inan	Aspect=Imp	Case=Nom	Gender=Fem	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+ADJ	Animacy=Inan	Case=Loc	Degree=Sup	Gender=Fem	Number=Sing
+PROPN	Animacy=Anim	Case=Loc	Gender=Masc	Number=Plur
+VERB	Animacy=Inan	Aspect=Imp	Case=Dat	Gender=Neut	Number=Sing	Tense=Pres	VerbForm=Part	Voice=Act
+PROPN	Animacy=Inan	Case=Acc	Gender=Fem	Number=Plur
+VERB	Animacy=Inan	Aspect=Imp	Case=Gen	Gender=Neut	Number=Sing	Tense=Past	VerbForm=Part	Voice=Act
+ADJ	Animacy=Anim	Case=Ins	Degree=Sup	Number=Plur
+VERB	Animacy=Anim	Aspect=Perf	Case=Acc	Gender=Masc	Number=Sing	Tense=Past	VerbForm=Part	Voice=Pass
+PRON	Case=Ins	Number=Sing	Person=2
+PRON	Case=Gen	Number=Sing	Person=2
+DET	Animacy=Inan	Case=Dat	Gender=Neut	Number=Sing	Reflex=Yes
+VERB	Animacy=Inan	Aspect=Imp	Case=Nom	Number=Plur	Tense=Past	VerbForm=Part	Voice=Pass
+PRON	Case=Acc	Number=Sing	Person=1
+DET	Animacy=Inan	Case=Acc	Gender=Neut	Number=Sing	Person=1
+VERB	Animacy=Inan	Aspect=Imp	Case=Acc	Number=Plur	Tense=Past	VerbForm=Part	Voice=Act

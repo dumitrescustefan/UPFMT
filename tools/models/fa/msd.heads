@@ -1,0 +1,162 @@
+ADJ	Degree=Sup
+NOUN	Number=Sing
+ADP	_
+ADJ	Degree=Pos
+VERB	Number=Sing	Person=3	VerbForm=Part
+VERB	Number=Sing	Person=3	Tense=Past
+PUNCT	_
+NOUN	Number=Plur
+VERB	Number=Plur	Person=3	Tense=Pres
+SCONJ	_
+AUX	Number=Sing	Person=3	Tense=Pres
+PART	_
+VERB	Mood=Sub	Number=Plur	Person=3	Tense=Pres
+ADJ	Degree=Cmp
+NUM	NumType=Card
+AUX	Number=Plur	Person=3	VerbForm=Part
+CCONJ	_
+ADV	Polarity=Neg
+DET	_
+ADV	_
+VERB	Number=Sing	Person=3	Polarity=Neg	VerbForm=Part
+VERB	Number=Plur	Person=3	Tense=Past
+PRON	Number=Plur	PronType=Dem
+PRON	Number=Sing	Person=3	PronType=Prs	Reflex=Yes
+AUX	Number=Sing	Person=3	VerbForm=Part
+AUX	Number=Sing	Person=3	Tense=Past
+VERB	Number=Sing	Person=3	Tense=Pres
+ADJ	Number=Sing	Person=3	VerbForm=Part
+AUX	Number=Plur	Person=3	Polarity=Neg	Tense=Past
+PRON	Number=Sing	PronType=Dem
+VERB	Mood=Sub	Number=Sing	Person=3	Tense=Pres
+AUX	VerbForm=Inf
+VERB	Mood=Sub	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin
+VERB	Mood=Sub	Number=Plur	Person=1	Tense=Pres
+PRON	Number=Sing	Person=3	PronType=Prs
+_	_
+PRON	PronType=Tot
+AUX	Number=Plur	Person=3	Tense=Pres
+ADV	Case=Tem
+AUX	Number=Plur	Person=1	Tense=Pres
+ADV	PronType=Int
+AUX	Number=Sing	Person=3	Polarity=Neg	Tense=Pres
+VERB	Number=Sing	Person=3	Polarity=Neg	Tense=Pres
+AUX	Mood=Sub	Number=Sing	Person=3	Tense=Pres
+PRON	Number=Sing	Person=2	PronType=Prs
+VERB	Mood=Imp	Number=Sing	Person=2
+PRON	Number=Sing	Person=1	PronType=Prs
+VERB	Number=Sing	Person=2	Polarity=Neg	Tense=Past
+INTJ	_
+VERB	Mood=Imp	Number=Sing	Person=2	Polarity=Neg
+AUX	Number=Sing	Person=3	Polarity=Neg	VerbForm=Part
+VERB	Number=Sing	Person=2	Tense=Pres
+VERB	Mood=Sub	Number=Sing	Person=1	Tense=Pres
+VERB	Number=Sing	Person=1	Tense=Pres
+AUX	Mood=Sub
+AUX	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin
+VERB	Number=Plur	Person=2	Tense=Pres
+AUX	Number=Sing	Person=1	Tense=Pres
+VERB	Mood=Sub
+VERB	Number=Sing	Person=2	Tense=Past
+ADV	Case=Loc
+VERB	Number=Plur	Person=1	Tense=Pres
+PRON	PronType=Rcp
+VERB	Number=Plur	Person=3	VerbForm=Part
+AUX	Number=Plur	Person=2	Tense=Past
+PRON	Number=Plur	Person=1	PronType=Prs
+PRON	PronType=Ind
+VERB	Mood=Sub	Number=Sing	Person=3	Polarity=Neg	Tense=Pres
+VERB	Mood=Sub	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin
+VERB	Number=Plur	Person=1	Tense=Past
+AUX	Number=Sing	Person=2	Tense=Pres
+VERB	Mood=Sub	Number=Plur	Person=1	Polarity=Neg	Tense=Pres
+VERB	Number=Sing	Person=2	Polarity=Neg	Tense=Pres
+VERB	Mood=Sub	Number=Sing	Person=2	Tense=Pres
+VERB	Number=Plur	Person=1	Polarity=Neg	Tense=Pres
+AUX	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin
+VERB	Number=Plur	Person=1	VerbForm=Part
+PRON	Number=Plur	Person=3	PronType=Prs
+AUX	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin
+AUX	Mood=Sub	Number=Sing	Person=3	Polarity=Neg	Tense=Pres
+VERB	Number=Sing	Person=1	Tense=Past
+AUX	Mood=Sub	Number=Plur	Person=1	Tense=Pres
+NOUN	Case=Voc
+AUX	_
+VERB	Number=Sing	Person=1	Polarity=Neg	Tense=Past
+PRON	Number=Sing	Person=1	PronType=Prs	Reflex=Yes
+VERB	Number=Plur	Person=2	Tense=Past
+VERB	Mood=Sub	Number=Plur	Person=2	Tense=Pres
+PRON	Number=Plur	Person=2	PronType=Prs
+AUX	Number=Plur	Person=1	Tense=Past
+VERB	Number=Plur	Person=1	Polarity=Neg	Tense=Past
+VERB	Number=Sing	Person=1	Polarity=Neg	Tense=Pres
+AUX	Number=Sing	Person=1	Tense=Past
+VERB	Number=Sing	Person=1	VerbForm=Part
+PRON	Number=Plur	PronType=Ind
+VERB	Number=Plur	Person=2	Polarity=Neg	Tense=Pres
+VERB	Mood=Sub	Number=Plur	Person=2	Polarity=Neg	Tense=Pres
+VERB	Mood=Sub	Number=Sing	Person=1	Polarity=Neg	Tense=Pres
+VERB	Mood=Imp	Number=Plur	Person=2
+VERB	Number=Plur	Person=2	Polarity=Neg	Tense=Past
+AUX	Mood=Sub	Number=Plur	Person=3	Tense=Pres
+AUX	Number=Plur	Person=1	Polarity=Neg	Tense=Pres
+AUX	Number=Plur	Person=3	Tense=Past
+AUX	Number=Sing	Person=3	Tense=Past	VerbForm=Fin
+PRON	Number=Sing	Person=2	PronType=Prs	Reflex=Yes
+VERB	Number=Plur	Person=3	Polarity=Neg	Tense=Pres
+AUX	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin
+AUX	Number=Sing	Person=1	Polarity=Neg	Tense=Past
+AUX	Number=Plur	Person=2	Polarity=Neg	Tense=Past
+VERB	Number=Plur	Person=2	VerbForm=Part
+VERB	Mood=Sub	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin
+AUX	Number=Plur	Person=3	Polarity=Neg	Tense=Pres
+AUX	Mood=Sub	Number=Sing	Person=1	Tense=Pres
+AUX	Mood=Sub	Number=Plur	Person=2	Tense=Pres
+VERB	Number=Plur	Person=3	Polarity=Neg	Tense=Past
+ADJ	_
+AUX	Number=Sing	Person=3	Tense=Fut	VerbForm=Fin
+AUX	Polarity=Neg	VerbForm=Inf
+AUX	Number=Plur	Person=3	Polarity=Neg	Tense=Fut	VerbForm=Fin
+ADJ	Number=Sing	Person=3	Polarity=Neg	VerbForm=Part
+AUX	Number=Sing	Person=1	Polarity=Neg	Tense=Pres
+VERB	Mood=Sub	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin
+AUX	Mood=Sub	Number=Sing	Person=1	Polarity=Neg	Tense=Pres
+AUX	Mood=Sub	Number=Plur	Person=3	Polarity=Neg	Tense=Pres
+VERB	Mood=Sub	Number=Plur	Person=3	Polarity=Neg	Tense=Pres
+AUX	Mood=Sub	Number=Plur	Person=3	Polarity=Neg	Tense=Pres	VerbForm=Fin
+VERB	Number=Plur	Person=3	Polarity=Neg	VerbForm=Part
+VERB	Mood=Sub	Number=Sing	Person=2	Polarity=Neg	Tense=Pres
+AUX	Number=Plur	Person=1	Polarity=Neg	Tense=Past
+AUX	Number=Plur	Person=2	Tense=Pres
+AUX	Number=Sing	Person=1	VerbForm=Part
+PRON	PronType=Rel
+PRON	Number=Sing	Person=3
+PRON	Number=Sing	Person=2
+AUX	Number=Plur	Person=1	Tense=Fut	VerbForm=Fin
+AUX	Number=Sing	Person=1	Tense=Fut	VerbForm=Fin
+VERB	Number=Plur	Person=1	Polarity=Neg	VerbForm=Part
+AUX	Number=Sing	Person=2	Tense=Pres	VerbForm=Fin
+AUX	Number=Sing	Person=2	Tense=Past
+AUX	Number=Plur	Person=1	VerbForm=Part
+X	_
+VERB	Number=Sing	Person=3	Polarity=Neg	Tense=Past
+PRON	PronType=Neg
+AUX	Number=Plur	Person=3	Polarity=Neg	VerbForm=Part
+AUX	Number=Plur	Person=3	Tense=Fut	VerbForm=Fin
+AUX	Number=Sing	Person=3	Polarity=Neg	Tense=Fut	VerbForm=Fin
+AUX	Mood=Sub	Number=Plur	Person=2	Polarity=Neg	Tense=Pres
+VERB	Number=Sing	Person=2	VerbForm=Part
+AUX	Mood=Sub	Number=Sing	Person=2	Tense=Pres
+AUX	Mood=Sub	Number=Sing	Person=2	Polarity=Neg	Tense=Pres
+AUX	Number=Sing	Person=2	Polarity=Neg	Tense=Pres
+VERB	_
+AUX	Number=Sing	Person=1	Polarity=Neg	Tense=Fut	VerbForm=Fin
+AUX	Number=Plur	Person=2	VerbForm=Part
+AUX	Mood=Sub	Number=Plur	Person=1	Polarity=Neg	Tense=Pres
+AUX	Number=Sing	Person=2	Polarity=Neg	Tense=Fut	VerbForm=Fin
+AUX	Number=Sing	Person=2	VerbForm=Part
+PRON	PronType=Int
+AUX	Number=Sing	Person=2	Tense=Fut	VerbForm=Fin
+VERB	Mood=Imp	Number=Plur	Person=2	Polarity=Neg
+VERB	Number=Sing	Person=1	Polarity=Neg	VerbForm=Part
+AUX	Number=Plur	Person=1	Polarity=Neg	Tense=Fut	VerbForm=Fin

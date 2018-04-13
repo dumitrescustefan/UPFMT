@@ -1,0 +1,157 @@
+ADP	AdpType=Prep
+NOUN	Definite=Ind	Gender=Com	Number=Sing
+AUX	Mood=Ind	Tense=Pres	VerbForm=Fin	Voice=Act
+PROPN	_
+VERB	Definite=Ind	Number=Sing	Tense=Past	VerbForm=Part
+NOUN	Definite=Def	Gender=Neut	Number=Sing
+SCONJ	_
+NOUN	Definite=Def	Gender=Com	Number=Sing
+VERB	Mood=Ind	Tense=Pres	VerbForm=Fin	Voice=Act
+ADV	_
+DET	Number=Plur	PronType=Dem
+ADJ	Degree=Pos	Number=Plur
+NOUN	Definite=Ind	Gender=Com	Number=Plur
+PUNCT	_
+CCONJ	_
+ADJ	Definite=Ind	Degree=Cmp	Number=Sing
+ADJ	Degree=Cmp
+PRON	PartType=Inf
+DET	Gender=Com	Number=Sing	PronType=Ind
+ADJ	Definite=Ind	Degree=Pos	Number=Sing
+PRON	Case=Acc	Gender=Neut	Number=Sing	Person=3	PronType=Prs
+NOUN	Definite=Ind	Gender=Neut	Number=Plur
+ADJ	Definite=Def	Degree=Pos	Number=Sing
+DET	Gender=Neut	Number=Sing	PronType=Dem
+ADV	Degree=Pos
+VERB	Definite=Def	Number=Sing	Tense=Past	VerbForm=Part
+NOUN	Definite=Ind	Gender=Neut	Number=Sing
+PRON	PronType=Dem
+NUM	NumType=Card
+ADJ	Definite=Ind	Degree=Pos	Gender=Neut	Number=Sing
+PRON	Case=Acc	Gender=Com	Number=Sing	Person=3	PronType=Prs
+ADJ	Degree=Pos	Gender=Com	Number=Sing
+PRON	Case=Nom	Gender=Com	Number=Sing	Person=3	PronType=Prs
+ADJ	NumType=Ord
+DET	Gender=Com	Number=Sing	Number[psor]=Sing	Person=3	Poss=Yes	PronType=Prs	Reflex=Yes
+AUX	Mood=Ind	Tense=Past	VerbForm=Fin	Voice=Act
+VERB	VerbForm=Inf	Voice=Act
+VERB	Mood=Ind	Tense=Past	VerbForm=Fin	Voice=Act
+NOUN	_
+VERB	Mood=Ind	Tense=Pres	VerbForm=Fin	Voice=Pass
+ADP	PartType=Inf
+ADJ	Degree=Pos
+NOUN	Definite=Def	Gender=Com	Number=Plur
+DET	Number[psor]=Sing	Person=3	Poss=Yes	PronType=Prs
+NOUN	Case=Gen	Definite=Def	Gender=Com	Number=Sing
+AUX	VerbForm=Inf	Voice=Act
+ADJ	Definite=Ind	Degree=Pos	Gender=Com	Number=Sing
+DET	Gender=Com	Number=Sing	PronType=Dem
+DET	Number=Plur	PronType=Ind
+PRON	Gender=Com	Number=Sing	PronType=Ind
+PRON	Case=Acc	Person=3	PronType=Prs	Reflex=Yes
+PART	PartType=Inf
+DET	Gender=Neut	Number=Sing	PronType=Ind
+PRON	Case=Acc	Number=Plur	Person=3	PronType=Prs
+NOUN	Case=Gen	Definite=Def	Gender=Neut	Number=Sing
+PRON	Case=Nom	Number=Plur	Person=3	PronType=Prs
+PRON	Case=Nom	Gender=Com	Number=Sing	Person=1	PronType=Prs
+PRON	Case=Nom	Gender=Com	PronType=Ind
+PRON	Gender=Neut	Number=Sing	PronType=Ind
+VERB	Mood=Imp
+DET	Gender=Com	Number=Sing	Number[psor]=Sing	Person=1	Poss=Yes	PronType=Prs
+AUX	Definite=Ind	Number=Sing	Tense=Past	VerbForm=Part
+X	_
+PRON	Case=Nom	Gender=Com	Number=Plur	Person=1	PronType=Prs
+NOUN	Case=Gen	Definite=Def	Gender=Com	Number=Plur
+VERB	Tense=Pres	VerbForm=Part
+PRON	Number=Plur	PronType=Int,Rel
+VERB	VerbForm=Inf	Voice=Pass
+NOUN	Case=Gen	Definite=Ind	Gender=Com	Number=Sing
+ADV	Degree=Cmp
+ADV	PartType=Inf
+ADV	Degree=Sup
+PRON	Number=Plur	PronType=Dem
+PRON	Number=Plur	PronType=Ind
+NOUN	Definite=Def	Gender=Neut	Number=Plur
+PRON	Case=Acc	Gender=Com	Number=Sing	Person=1	PronType=Prs
+PROPN	Case=Gen
+ADP	_
+ADJ	Degree=Cmp	Number=Plur
+ADJ	Definite=Def	Degree=Sup
+DET	Gender=Neut	Number=Sing	Number[psor]=Sing	Person=1	Poss=Yes	PronType=Prs
+ADJ	Degree=Pos	Number=Sing
+DET	Number=Plur	Number[psor]=Sing	Person=3	Poss=Yes	PronType=Prs	Reflex=Yes
+DET	Gender=Com	Number=Sing	Number[psor]=Plur	Person=1	Poss=Yes	PronType=Prs	Style=Form
+PRON	Number=Plur	PronType=Rcp
+ADJ	Case=Gen	Degree=Cmp
+NOUN	Case=Gen	Definite=Def	Gender=Neut	Number=Plur
+DET	Number[psor]=Plur	Person=3	Poss=Yes	PronType=Prs
+INTJ	_
+DET	Number=Plur	Number[psor]=Sing	Person=1	Poss=Yes	PronType=Prs
+ADJ	Degree=Pos	Gender=Neut	Number=Sing
+DET	Gender=Neut	Number=Sing	Number[psor]=Plur	Person=1	Poss=Yes	PronType=Prs	Style=Form
+PRON	Case=Acc	Gender=Com	Number=Sing	Person=2	PronType=Prs
+DET	Gender=Com	Number=Sing	Number[psor]=Sing	Person=2	Poss=Yes	PronType=Prs
+NOUN	Case=Gen	Definite=Ind	Gender=Neut	Number=Plur
+PRON	Number=Sing	PronType=Int,Rel
+DET	Number=Plur	Number[psor]=Plur	Person=1	Poss=Yes	PronType=Prs	Style=Form
+PRON	Gender=Neut	Number=Sing	PronType=Int,Rel
+ADJ	Definite=Def	Degree=Sup	Number=Plur
+PRON	Case=Nom	Gender=Com	Number=Sing	Person=2	PronType=Prs
+DET	Gender=Neut	Number=Sing	Number[psor]=Sing	Person=3	Poss=Yes	PronType=Prs	Reflex=Yes
+NOUN	Definite=Ind	Number=Sing
+VERB	Number=Plur	Tense=Past	VerbForm=Part
+PRON	Number=Plur	Number[psor]=Sing	Person=3	Poss=Yes	PronType=Prs	Reflex=Yes
+SYM	_
+PRON	Case=Nom	Gender=Com	Person=2	Polite=Form	PronType=Prs
+ADJ	Degree=Sup
+DET	Number=Plur	PronType=Ind	Style=Arch
+DET	Case=Gen	Gender=Com	Number=Sing	PronType=Dem
+X	Foreign=Yes
+DET	Person=2	Polite=Form	Poss=Yes	PronType=Prs
+PRON	Gender=Neut	Number=Sing	PronType=Dem
+PRON	Case=Acc	Gender=Com	Number=Plur	Person=1	PronType=Prs
+NOUN	Case=Gen	Definite=Ind	Gender=Neut	Number=Sing
+PRON	Case=Gen	PronType=Int,Rel
+PRON	Gender=Com	Number=Sing	PronType=Dem
+X	Abbr=Yes
+NOUN	Case=Gen	Definite=Ind	Gender=Com	Number=Plur
+ADJ	Definite=Def	Degree=Abs
+ADJ	Definite=Ind	Degree=Sup	Number=Sing
+NOUN	Definite=Ind
+NOUN	Gender=Com	Number=Plur
+DET	Number[psor]=Plur	Person=1	Poss=Yes	PronType=Prs
+PRON	Gender=Com	PronType=Int,Rel
+PRON	Case=Nom	Gender=Com	Number=Plur	Person=2	PronType=Prs
+ADV	Degree=Abs
+VERB	VerbForm=Ger
+VERB	Tense=Past	VerbForm=Part
+ADJ	Definite=Def	Degree=Sup	Number=Sing
+PRON	Number=Plur	Number[psor]=Plur	Person=1	Poss=Yes	PronType=Prs	Style=Form
+ADJ	Case=Gen	Definite=Def	Degree=Pos	Number=Sing
+ADJ	Case=Gen	Degree=Pos	Number=Plur
+PRON	Case=Acc	Gender=Com	Person=2	Polite=Form	PronType=Prs
+PRON	Gender=Com	Number=Sing	PronType=Int,Rel
+VERB	Tense=Pres
+DET	Case=Gen	Number=Plur	PronType=Ind
+DET	Number[psor]=Plur	Person=2	Poss=Yes	PronType=Prs
+PRON	Person=2	Polite=Form	Poss=Yes	PronType=Prs
+DET	Gender=Neut	Number=Sing	Number[psor]=Sing	Person=2	Poss=Yes	PronType=Prs
+AUX	Tense=Pres	VerbForm=Part
+VERB	Mood=Ind	Tense=Past	VerbForm=Fin	Voice=Pass
+PRON	Gender=Com	Number=Sing	Number[psor]=Sing	Person=3	Poss=Yes	PronType=Prs	Reflex=Yes
+ADJ	Degree=Sup	Number=Plur
+PRON	Case=Acc	Gender=Com	Number=Plur	Person=2	PronType=Prs
+PRON	Gender=Neut	Number=Sing	Number[psor]=Sing	Person=3	Poss=Yes	PronType=Prs	Reflex=Yes
+NOUN	Definite=Ind	Number=Plur
+VERB	Case=Gen	Number=Plur	Tense=Past	VerbForm=Part
+AUX	Mood=Imp
+PRON	Gender=Com	Number=Sing	Number[psor]=Sing	Person=1	Poss=Yes	PronType=Prs
+PRON	Number[psor]=Sing	Person=3	Poss=Yes	PronType=Prs
+VERB	Definite=Def	Gender=Com	Number=Sing	Tense=Past	VerbForm=Part
+DET	Number=Plur	Number[psor]=Sing	Person=2	Poss=Yes	PronType=Prs
+DET	Case=Gen	Gender=Com	Number=Sing	PronType=Ind
+NOUN	Case=Gen
+PRON	Number[psor]=Plur	Person=3	Poss=Yes	PronType=Prs
+DET	PronType=Dem
+NOUN	Definite=Def	Number=Plur

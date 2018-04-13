@@ -1,0 +1,98 @@
+PROPN	Case=Nom	Gender=Fem
+PROPN	Case=Dat	Gender=Masc
+VERB	Tense=Past	VerbForm=Part
+NOUN	Case=Nom	Number[psor]=Plur,Sing	Person[psor]=3
+PRON	Number[psor]=Plur,Sing	Person[psor]=3	PronType=Ref
+ADJ	_
+NOUN	Case=Ins	Number=Plur
+ADJ	Case=Loc
+VERB	Case=Loc	Tense=Past	VerbForm=Ger
+PUNCT	_
+_	_
+NOUN	_
+ADP	_
+NOUN	Case=Gen
+ADJ	Case=Nom	Number[psor]=Plur,Sing	Person[psor]=3
+PART	_
+VERB	Aspect=Perf	VerbForm=Conv
+NOUN	Case=Ins	Number[psor]=Plur,Sing	Person[psor]=3
+ADV	_
+VERB	Mood=Pot	VerbForm=Part
+AUX	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Fin
+NOUN	Case=Nom
+NOUN	Case=Dat	Number[psor]=Plur,Sing	Person[psor]=3
+VERB	Aspect=Perf	VerbForm=Conv	Voice=Pass
+VERB	Polarity=Neg	Tense=Past	VerbForm=Part
+NOUN	Case=Dat
+AUX	Aspect=Imp	VerbForm=Part
+NOUN	Case=Gen	Number=Plur	Number[psor]=Plur,Sing	Person[psor]=3
+NOUN	Case=Abl	Number[psor]=Plur,Sing	Person[psor]=3
+PRON	Case=Gen	Number[psor]=Plur,Sing	Person[psor]=3	PronType=Ref
+VERB	Case=Dat	Number[psor]=Plur,Sing	Person[psor]=3	Tense=Past	VerbForm=Ger
+X	_
+VERB	Mood=Ind	Number=Sing	Person=3	Polarity=Neg	Tense=Past	VerbForm=Fin
+NOUN	Case=Loc	Number[psor]=Plur,Sing	Person[psor]=3
+VERB	Mood=Cnd	Number=Sing	Person=3	VerbForm=Conv
+CCONJ	_
+NOUN	Case=Acc	Number[psor]=Plur,Sing	Person[psor]=3
+PRON	Case=Nom	Number=Sing	Person=3	PronType=Prs
+PROPN	Case=Nom
+VERB	Aspect=Imp	VerbForm=Cov
+AUX	Mood=Imp	Number=Sing	Person=2	Polarity=Neg	VerbForm=Fin
+VERB	Aspect=Imp	VerbForm=Part
+AUX	Mood=Cnd	Number=Sing	Person=1	VerbForm=Conv
+NOUN	Case=Nom	Number[psor]=Sing	Person[psor]=1
+VERB	Mood=Ind	Number=Sing	Person=3	Tense=Aor	VerbForm=Fin	Voice=Pass
+NUM	Case=Gen	Number[psor]=Plur,Sing	NumType=Coll	Person[psor]=3
+DET	PronType=Ind
+AUX	Mood=Pot	VerbForm=Part
+VERB	Aspect=Perf	VerbForm=Conv	Voice=Coop
+VERB	Tense=Past	VerbForm=Part	Voice=Pass
+NUM	NumType=Card
+NUM	NumType=Ord
+VERB	Mood=Ind	Number=Sing	Person=3	Tense=Fut	VerbForm=Fin
+PROPN	Case=Gen
+AUX	Mood=Ind	Number=Sing	Person=3	Polarity=Neg	Tense=Aor	VerbForm=Fin
+NOUN	Case=Gen	Number[psor]=Plur,Sing	Person[psor]=3
+PRON	Case=Nom	PronType=Int
+VERB	Mood=Opt	Number=Sing	Person=3	VerbForm=Fin
+NUM	Case=Nom	Number[psor]=Plur,Sing	NumType=Coll	Person[psor]=3
+NOUN	Case=Loc
+NOUN	Case=Abl
+VERB	Case=Nom	Number[psor]=Plur,Sing	Person[psor]=3	VerbForm=Ger
+VERB	Case=Dat	VerbForm=Ger
+AUX	Mood=Cnd	Number=Sing	Person=3	VerbForm=Conv
+DET	PronType=Dem
+NOUN	Case=Nom	Number=Plur
+PROPN	Case=Gen	Gender=Fem
+AUX	Mood=Cnd	Number=Sing	Person=3	Polarity=Neg	VerbForm=Conv
+PRON	Case=Gen	Number=Sing	Person=3	PronType=Prs
+NOUN	Case=Ins
+NOUN	Case=Dat	Number=Plur
+PRON	Case=Nom	Number[psor]=Plur,Sing	Person[psor]=3	PronType=Ref
+PRON	Case=Dat	PronType=Neg
+VERB	Case=Dat	Polarity=Neg	Tense=Fut	VerbForm=Part
+VERB	Case=Gen	Number[psor]=Plur,Sing	Person[psor]=3	VerbForm=Ger
+PRON	Case=Nom	PronType=Dem
+ADJ	Case=Nom
+ADJ	Case=Gen
+VERB	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Fin
+SCONJ	_
+AUX	Mood=Imp	Number=Sing	Person=2	VerbForm=Fin
+VERB	Aspect=Perf	Polarity=Neg	VerbForm=Conv
+AUX	Aspect=Perf	VerbForm=Conv
+PRON	Case=Dat	Number=Sing	Person=3	PronType=Prs
+VERB	Mood=Ind	Number=Sing	Person=3	Tense=Aor	VerbForm=Fin
+PROPN	Case=Dat	Gender=Fem
+VERB	Case=Nom	Number[psor]=Plur,Sing	Person[psor]=3	Polarity=Neg	VerbForm=Ger
+PROPN	Case=Gen	Gender=Masc
+PROPN	Case=Gen	Number[psor]=Plur,Sing	Person[psor]=3
+PROPN	Case=Nom	Gender=Masc
+VERB	Case=Abl	VerbForm=Ger	Voice=Pass
+NOUN	Case=Acc
+NOUN	Case=Nom	Gender=Masc
+VERB	Mood=Pot	Tense=Past	VerbForm=Part
+AUX	Case=Dat	VerbForm=Ger
+AUX	Case=Abl	VerbForm=Ger
+NOUN	Case=Nom	Gender=Fem
+VERB	Mood=Ind	Number=Sing	Person=3	Polarity=Neg	Tense=Past	VerbForm=Fin	Voice=Pass

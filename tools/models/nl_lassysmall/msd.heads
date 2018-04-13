@@ -1,0 +1,58 @@
+ADJ	Degree=Pos
+NOUN	Gender=Com	Number=Sing
+PROPN	_
+PUNCT	_
+DET	Definite=Def
+NOUN	Gender=Neut	Number=Sing
+PROPN	Number=Sing
+NUM	_
+PROPN	Gender=Neut	Number=Sing
+VERB	VerbForm=Part
+ADP	_
+NOUN	Number=Plur
+AUX	Number=Sing	Tense=Past	VerbForm=Fin
+CCONJ	_
+PRON	Case=Nom	Person=3	PronType=Prs
+AUX	Number=Sing	Tense=Pres	VerbForm=Fin
+DET	Definite=Ind
+VERB	Number=Sing	Tense=Pres	VerbForm=Fin
+PROPN	Gender=Com	Number=Sing
+VERB	VerbForm=Inf
+ADV	_
+SCONJ	_
+PRON	PronType=Rel
+AUX	Number=Plur	Tense=Pres	VerbForm=Fin
+ADJ	Degree=Sup
+PRON	PronType=Dem
+PRON	Case=Acc	Person=3	PronType=Prs	Reflex=Yes
+PRON	PronType=Ind
+VERB	Number=Sing	Tense=Past	VerbForm=Fin
+ADJ	Degree=Cmp
+PRON	Person=3	PronType=Dem
+PROPN	Number=Plur
+DET	_
+PRON	Person=3	PronType=Int
+PRON	Person=3	PronType=Prs
+VERB	Number=Plur	Tense=Pres	VerbForm=Fin
+AUX	VerbForm=Part
+PRON	Case=Acc	Person=3	PronType=Prs
+VERB	Number=Plur	Tense=Past	VerbForm=Fin
+SYM	_
+X	Abbr=Yes
+AUX	Number=Plur	Tense=Past	VerbForm=Fin
+PRON	Person=3	PronType=Ind
+X	Foreign=Yes
+AUX	VerbForm=Inf
+NOUN	Number=Sing
+PRON	Person=3	PronType=Rel
+PRON	Case=Acc	Person=1	PronType=Prs
+X	_
+NOUN	Gender=Com,Neut	Number=Sing
+PRON	Case=Acc	PronType=Rcp
+INTJ	_
+PRON	Case=Acc	Person=2	PronType=Prs
+PRON	Case=Nom	Person=2	PronType=Prs
+PROPN	Gender=Com,Neut	Number=Sing
+PRON	Case=Nom	Person=1	PronType=Prs
+PRON	Person=1	PronType=Prs
+PRON	PronType=Int

@@ -1,0 +1,2736 @@
+1709
+ff_0:</s>
+ff_1:<UNK>_
+ff_2:|
+ff_3:|
+ff_4:|
+ff_5:|
+ff_6:|
+ff_7:|
+ff_8:|
+ff_9:|
+ff_10:NONE
+ff_11:</s>
+ff_12:<UNK>_
+ff_13:|
+ff_14:|
+ff_15:|
+ff_16:|
+ff_17:|
+ff_18:|
+ff_19:|
+ff_20:|
+ff_21:NONE
+ff_22:<OOV>
+ff_23:PROPN
+ff_24:c
+ff_25:r
+ff_26:e
+ff_27:a
+ff_28:t
+ff_29:i
+ff_30:v
+ff_31:e
+ff_32:F-UPPER-SSTART
+ff_33:<OOV>
+ff_34:PROPN
+ff_35:c
+ff_36:o
+ff_37:m
+ff_38:m
+ff_39:m
+ff_40:o
+ff_41:n
+ff_42:s
+ff_43:F-UPPER
+ff_44:<OOV>
+ff_45:PART
+ff_46:n
+ff_47:'
+ff_48:|
+ff_49:|
+ff_50:|
+ff_51:|
+ff_52:n
+ff_53:'
+ff_54:ALL_LOWER
+ff_11:<OOV>
+ff_12:PROPN
+ff_13:c
+ff_14:r
+ff_15:e
+ff_16:a
+ff_17:t
+ff_18:i
+ff_19:v
+ff_20:e
+ff_21:F-UPPER-SSTART
+ff_25:o
+ff_26:m
+ff_27:m
+ff_28:m
+ff_29:o
+ff_30:n
+ff_31:s
+ff_32:F-UPPER
+ff_34:PART
+ff_35:n
+ff_36:'
+ff_37:|
+ff_38:|
+ff_39:|
+ff_40:|
+ff_42:'
+ff_43:ALL_LOWER
+ff_45:AUX
+ff_46:e
+ff_47:s
+ff_48:t
+ff_51:e
+ff_52:s
+ff_53:t
+ff_0:<OOV>
+ff_1:PROPN
+ff_2:c
+ff_3:r
+ff_4:e
+ff_5:a
+ff_6:t
+ff_7:i
+ff_8:v
+ff_9:e
+ff_10:F-UPPER-SSTART
+ff_14:o
+ff_15:m
+ff_16:m
+ff_17:m
+ff_18:o
+ff_19:n
+ff_20:s
+ff_21:F-UPPER
+ff_23:PART
+ff_24:n
+ff_25:'
+ff_26:|
+ff_27:|
+ff_28:|
+ff_29:|
+ff_31:'
+ff_32:ALL_LOWER
+ff_34:AUX
+ff_35:e
+ff_36:s
+ff_37:t
+ff_40:e
+ff_41:s
+ff_42:t
+ff_45:ADV
+ff_46:p
+ff_47:a
+ff_48:s
+ff_51:p
+ff_52:a
+ff_53:s
+ff_3:o
+ff_4:m
+ff_5:m
+ff_6:m
+ff_7:o
+ff_8:n
+ff_9:s
+ff_10:F-UPPER
+ff_12:PART
+ff_13:n
+ff_14:'
+ff_20:'
+ff_21:ALL_LOWER
+ff_23:AUX
+ff_24:e
+ff_25:s
+ff_26:t
+ff_29:e
+ff_30:s
+ff_31:t
+ff_34:ADV
+ff_35:p
+ff_36:a
+ff_37:s
+ff_40:p
+ff_41:a
+ff_45:DET
+ff_46:u
+ff_47:n
+ff_52:u
+ff_53:n
+ff_1:PART
+ff_2:n
+ff_3:'
+ff_9:'
+ff_10:ALL_LOWER
+ff_12:AUX
+ff_13:e
+ff_14:s
+ff_15:t
+ff_18:e
+ff_19:s
+ff_20:t
+ff_23:ADV
+ff_24:p
+ff_25:a
+ff_26:s
+ff_29:p
+ff_30:a
+ff_34:DET
+ff_35:u
+ff_36:n
+ff_41:u
+ff_42:n
+ff_45:NOUN
+ff_46:c
+ff_48:b
+ff_49:i
+ff_50:i
+ff_51:n
+ff_52:e
+ff_1:AUX
+ff_2:e
+ff_3:s
+ff_4:t
+ff_7:e
+ff_8:s
+ff_9:t
+ff_12:ADV
+ff_13:p
+ff_14:a
+ff_15:s
+ff_18:p
+ff_19:a
+ff_23:DET
+ff_24:u
+ff_25:n
+ff_30:u
+ff_31:n
+ff_34:NOUN
+ff_37:b
+ff_38:i
+ff_39:i
+ff_40:n
+ff_41:e
+ff_45:ADP
+ff_46:d
+ff_52:d
+ff_1:ADV
+ff_2:p
+ff_3:a
+ff_4:s
+ff_7:p
+ff_8:a
+ff_12:DET
+ff_13:u
+ff_14:n
+ff_19:u
+ff_20:n
+ff_23:NOUN
+ff_26:b
+ff_27:i
+ff_28:i
+ff_29:n
+ff_30:e
+ff_34:ADP
+ff_35:d
+ff_41:d
+ff_46:a
+ff_47:v
+ff_48:o
+ff_49:c
+ff_50:c
+ff_51:a
+ff_52:t
+ff_1:DET
+ff_2:u
+ff_3:n
+ff_8:u
+ff_9:n
+ff_12:NOUN
+ff_15:b
+ff_16:i
+ff_17:i
+ff_18:n
+ff_19:e
+ff_23:ADP
+ff_24:d
+ff_30:d
+ff_35:a
+ff_36:v
+ff_37:o
+ff_38:c
+ff_39:c
+ff_40:a
+ff_41:t
+ff_45:CCONJ
+ff_47:t
+ff_1:NOUN
+ff_4:b
+ff_5:i
+ff_6:i
+ff_7:n
+ff_8:e
+ff_12:ADP
+ff_13:d
+ff_19:d
+ff_24:a
+ff_25:v
+ff_26:o
+ff_27:c
+ff_28:c
+ff_29:a
+ff_30:t
+ff_34:CCONJ
+ff_36:t
+ff_47:e
+ff_53:e
+ff_1:ADP
+ff_2:d
+ff_8:d
+ff_13:a
+ff_14:v
+ff_15:o
+ff_16:c
+ff_17:c
+ff_18:a
+ff_19:t
+ff_23:CCONJ
+ff_25:t
+ff_36:e
+ff_42:e
+ff_45:VERB
+ff_46:f
+ff_47:o
+ff_48:u
+ff_49:r
+ff_50:r
+ff_52:i
+ff_2:a
+ff_3:v
+ff_4:o
+ff_5:c
+ff_6:c
+ff_7:a
+ff_8:t
+ff_12:CCONJ
+ff_14:t
+ff_25:e
+ff_34:VERB
+ff_35:f
+ff_37:u
+ff_38:r
+ff_39:r
+ff_41:i
+ff_1:CCONJ
+ff_3:t
+ff_14:e
+ff_23:VERB
+ff_24:f
+ff_26:u
+ff_27:r
+ff_28:r
+ff_30:i
+ff_3:e
+ff_12:VERB
+ff_13:f
+ff_15:u
+ff_16:r
+ff_17:r
+ff_19:i
+ff_46:s
+ff_48:r
+ff_49:v
+ff_51:c
+ff_1:VERB
+ff_2:f
+ff_4:u
+ff_5:r
+ff_6:r
+ff_8:i
+ff_35:s
+ff_37:r
+ff_38:v
+ff_40:c
+ff_24:s
+ff_26:r
+ff_27:v
+ff_29:c
+ff_48:n
+ff_49:s
+ff_50:s
+ff_53:l
+ff_13:s
+ff_15:r
+ff_16:v
+ff_18:c
+ff_37:n
+ff_38:s
+ff_39:s
+ff_42:l
+ff_45:ADJ
+ff_46:j
+ff_47:u
+ff_51:q
+ff_2:s
+ff_4:r
+ff_5:v
+ff_7:c
+ff_26:n
+ff_27:s
+ff_28:s
+ff_31:l
+ff_34:ADJ
+ff_35:j
+ff_36:u
+ff_40:q
+ff_45:PUNCT
+ff_46:.
+ff_47:|
+ff_52:|
+ff_53:.
+ff_15:n
+ff_16:s
+ff_17:s
+ff_20:l
+ff_23:ADJ
+ff_24:j
+ff_25:u
+ff_29:q
+ff_34:PUNCT
+ff_35:.
+ff_36:|
+ff_41:|
+ff_42:.
+ff_44:</s>
+ff_45:<UNK>_
+ff_46:|
+ff_53:|
+ff_54:NONE
+ff_4:n
+ff_5:s
+ff_6:s
+ff_9:l
+ff_12:ADJ
+ff_13:j
+ff_14:u
+ff_18:q
+ff_23:PUNCT
+ff_24:.
+ff_25:|
+ff_30:|
+ff_31:.
+ff_33:</s>
+ff_34:<UNK>_
+ff_35:|
+ff_42:|
+ff_43:NONE
+ff_46:ê
+ff_49:e
+ff_50:ê
+ff_51:t
+ff_52:r
+ff_35:ê
+ff_38:e
+ff_39:ê
+ff_40:t
+ff_41:r
+ff_46:t
+ff_49:u
+ff_50:t
+ff_53:u
+ff_24:ê
+ff_27:e
+ff_28:ê
+ff_29:t
+ff_30:r
+ff_35:t
+ff_38:u
+ff_39:t
+ff_42:u
+ff_46:r
+ff_49:p
+ff_50:a
+ff_51:b
+ff_52:l
+ff_13:ê
+ff_16:e
+ff_17:ê
+ff_18:t
+ff_19:r
+ff_24:t
+ff_27:u
+ff_31:u
+ff_35:r
+ff_38:p
+ff_39:a
+ff_40:b
+ff_41:l
+ff_45:_
+ff_51:d
+ff_2:ê
+ff_5:e
+ff_6:ê
+ff_7:t
+ff_8:r
+ff_13:t
+ff_16:u
+ff_20:u
+ff_24:r
+ff_27:p
+ff_28:a
+ff_29:b
+ff_30:l
+ff_34:_
+ff_40:d
+ff_2:t
+ff_5:u
+ff_9:u
+ff_13:r
+ff_16:p
+ff_17:a
+ff_18:b
+ff_19:l
+ff_23:_
+ff_29:d
+ff_46:l
+ff_51:l
+ff_1:ADJ
+ff_2:r
+ff_5:p
+ff_6:a
+ff_7:b
+ff_8:l
+ff_12:_
+ff_18:d
+ff_35:l
+ff_40:l
+ff_46:é
+ff_48:e
+ff_49:n
+ff_50:u
+ff_1:_
+ff_7:d
+ff_24:l
+ff_29:l
+ff_35:é
+ff_37:e
+ff_38:n
+ff_39:u
+ff_47:r
+ff_48:é
+ff_49:j
+ff_13:l
+ff_18:l
+ff_24:é
+ff_27:n
+ff_28:u
+ff_36:r
+ff_37:é
+ff_38:j
+ff_47:é
+ff_2:l
+ff_7:l
+ff_13:é
+ff_16:n
+ff_17:u
+ff_26:é
+ff_27:j
+ff_36:é
+ff_2:é
+ff_5:n
+ff_6:u
+ff_15:é
+ff_16:j
+ff_25:é
+ff_4:é
+ff_5:j
+ff_14:é
+ff_3:é
+ff_49:t
+ff_3:u
+ff_38:t
+ff_46:o
+ff_52:o
+ff_27:t
+ff_35:o
+ff_41:o
+ff_16:t
+ff_24:o
+ff_30:o
+ff_5:t
+ff_13:o
+ff_19:o
+ff_48:i
+ff_49:l
+ff_51:i
+ff_2:o
+ff_8:o
+ff_37:i
+ff_38:l
+ff_40:i
+ff_26:i
+ff_27:l
+ff_52:c
+ff_15:i
+ff_16:l
+ff_41:c
+ff_51:r
+ff_4:i
+ff_5:l
+ff_30:c
+ff_40:r
+ff_19:c
+ff_29:r
+ff_8:c
+ff_18:r
+ff_29:m
+ff_37:x
+ff_42:x
+ff_46:à
+ff_53:à
+ff_18:m
+ff_26:x
+ff_31:x
+ff_35:à
+ff_42:à
+ff_7:m
+ff_15:x
+ff_20:x
+ff_24:à
+ff_31:à
+ff_49:m
+ff_51:m
+ff_4:x
+ff_9:x
+ff_13:à
+ff_20:à
+ff_40:m
+ff_2:à
+ff_9:à
+ff_49:d
+ff_51:o
+ff_38:d
+ff_48:f
+ff_27:d
+ff_37:f
+ff_50:d
+ff_16:d
+ff_26:f
+ff_39:d
+ff_50:e
+ff_5:d
+ff_15:f
+ff_28:d
+ff_39:e
+ff_49:o
+ff_4:f
+ff_17:d
+ff_28:e
+ff_38:o
+ff_46:,
+ff_53:,
+ff_6:d
+ff_17:e
+ff_27:o
+ff_35:,
+ff_42:,
+ff_6:e
+ff_16:o
+ff_24:,
+ff_31:,
+ff_45:PRON
+ff_48:c
+ff_53:i
+ff_5:o
+ff_12:PUNCT
+ff_13:,
+ff_20:,
+ff_34:PRON
+ff_37:c
+ff_42:i
+ff_1:PUNCT
+ff_2:,
+ff_9:,
+ff_23:PRON
+ff_26:c
+ff_31:i
+ff_50:o
+ff_51:u
+ff_12:PRON
+ff_15:c
+ff_20:i
+ff_39:o
+ff_40:u
+ff_53:a
+ff_1:PRON
+ff_4:c
+ff_9:i
+ff_28:o
+ff_29:u
+ff_42:a
+ff_49:é
+ff_52:é
+ff_17:o
+ff_18:u
+ff_31:a
+ff_38:é
+ff_41:é
+ff_6:o
+ff_7:u
+ff_20:a
+ff_27:é
+ff_30:é
+ff_9:a
+ff_16:é
+ff_19:é
+ff_5:é
+ff_7:r
+ff_8:é
+ff_51:v
+ff_40:v
+ff_53:r
+ff_29:v
+ff_42:r
+ff_18:v
+ff_31:r
+ff_7:v
+ff_20:r
+ff_9:r
+ff_51:é
+ff_53:é
+ff_40:é
+ff_42:é
+ff_47:i
+ff_29:é
+ff_31:é
+ff_36:i
+ff_18:é
+ff_20:é
+ff_25:i
+ff_7:é
+ff_9:é
+ff_14:i
+ff_3:i
+ff_7:q
+ff_47:p
+ff_48:p
+ff_36:p
+ff_37:p
+ff_25:p
+ff_26:p
+ff_14:p
+ff_15:p
+ff_47:f
+ff_3:p
+ff_4:p
+ff_36:f
+ff_47:c
+ff_25:f
+ff_36:c
+ff_14:f
+ff_25:c
+ff_3:f
+ff_14:c
+ff_3:c
+ff_46:m
+ff_35:m
+ff_24:m
+ff_47:x
+ff_13:m
+ff_36:x
+ff_2:m
+ff_25:x
+ff_14:x
+ff_46:g
+ff_48:a
+ff_3:x
+ff_35:g
+ff_37:a
+ff_24:g
+ff_26:a
+ff_13:g
+ff_15:a
+ff_51:s
+ff_53:f
+ff_2:g
+ff_4:a
+ff_40:s
+ff_42:f
+ff_29:s
+ff_31:f
+ff_18:s
+ff_20:f
+ff_7:s
+ff_9:f
+ff_46::
+ff_53::
+ff_35::
+ff_42::
+ff_24::
+ff_31::
+ff_23:SCONJ
+ff_45:PROPN
+ff_54:F-UPPER
+ff_12:SCONJ
+ff_1:SCONJ
+ff_46:b
+ff_50:b
+ff_35:b
+ff_39:b
+ff_24:b
+ff_28:b
+ff_50:n
+ff_13:b
+ff_17:b
+ff_39:n
+ff_2:b
+ff_6:b
+ff_28:n
+ff_17:n
+ff_6:n
+ff_50:l
+ff_39:l
+ff_28:l
+ff_17:l
+ff_6:l
+ff_32:ALL_CAPS
+ff_21:ALL_CAPS
+ff_10:ALL_CAPS
+ff_45:NUM
+ff_46:0
+ff_53:0
+ff_34:NUM
+ff_35:0
+ff_42:0
+ff_23:NUM
+ff_24:0
+ff_31:0
+ff_50:m
+ff_12:NUM
+ff_13:0
+ff_20:0
+ff_1:NUM
+ff_2:0
+ff_9:0
+ff_48:m
+ff_50:p
+ff_39:p
+ff_28:p
+ff_17:p
+ff_6:p
+ff_49:a
+ff_38:a
+ff_48:d
+ff_37:d
+ff_53:c
+ff_26:d
+ff_42:c
+ff_46:i
+ff_47:m
+ff_15:d
+ff_31:c
+ff_35:i
+ff_36:m
+ff_4:d
+ff_20:c
+ff_24:i
+ff_25:m
+ff_9:c
+ff_13:i
+ff_14:m
+ff_2:i
+ff_3:m
+ff_48:g
+ff_50:g
+ff_52:m
+ff_37:g
+ff_39:g
+ff_41:m
+ff_26:g
+ff_28:g
+ff_30:m
+ff_15:g
+ff_17:g
+ff_19:m
+ff_4:g
+ff_6:g
+ff_8:m
+ff_46:v
+ff_49:-
+ff_50:-
+ff_35:v
+ff_38:-
+ff_39:-
+ff_24:v
+ff_27:-
+ff_28:-
+ff_13:v
+ff_16:-
+ff_17:-
+ff_2:v
+ff_5:-
+ff_6:-
+ff_50:v
+ff_39:v
+ff_28:v
+ff_17:v
+ff_6:v
+ff_47:h
+ff_36:h
+ff_25:h
+ff_14:h
+ff_3:h
+ff_46:y
+ff_53:y
+ff_35:y
+ff_42:y
+ff_24:y
+ff_31:y
+ff_13:y
+ff_20:y
+ff_2:y
+ff_9:y
+ff_46:h
+ff_47:y
+ff_50:h
+ff_51:è
+ff_35:h
+ff_36:y
+ff_39:h
+ff_40:è
+ff_47:ù
+ff_53:ù
+ff_24:h
+ff_25:y
+ff_28:h
+ff_29:è
+ff_36:ù
+ff_42:ù
+ff_13:h
+ff_14:y
+ff_17:h
+ff_18:è
+ff_25:ù
+ff_31:ù
+ff_2:h
+ff_3:y
+ff_6:h
+ff_7:è
+ff_14:ù
+ff_20:ù
+ff_3:ù
+ff_9:ù
+ff_48:l
+ff_37:l
+ff_26:l
+ff_15:l
+ff_4:l
+ff_30:j
+ff_19:j
+ff_2:j
+ff_8:j
+ff_46:q
+ff_35:q
+ff_24:q
+ff_13:q
+ff_2:q
+ff_47:0
+ff_52:0
+ff_36:0
+ff_41:0
+ff_25:0
+ff_30:0
+ff_14:0
+ff_19:0
+ff_3:0
+ff_8:0
+ff_52:j
+ff_41:j
+ff_53:x
+ff_45:SCONJ
+ff_34:SCONJ
+ff_49:z
+ff_53:z
+ff_38:z
+ff_42:z
+ff_27:z
+ff_31:z
+ff_16:z
+ff_20:z
+ff_5:z
+ff_9:z
+ff_49:b
+ff_38:b
+ff_27:b
+ff_16:b
+ff_5:b
+ff_47:l
+ff_36:l
+ff_25:l
+ff_14:l
+ff_3:l
+ff_52:b
+ff_41:b
+ff_30:b
+ff_19:b
+ff_8:b
+ff_49:k
+ff_52:k
+ff_38:k
+ff_41:k
+ff_27:k
+ff_30:k
+ff_16:k
+ff_19:k
+ff_48:j
+ff_51:j
+ff_37:j
+ff_40:j
+ff_26:j
+ff_29:j
+ff_15:j
+ff_18:j
+ff_4:j
+ff_7:j
+ff_50:j
+ff_39:j
+ff_28:j
+ff_17:j
+ff_6:j
+ff_50:f
+ff_39:f
+ff_28:f
+ff_17:f
+ff_52:p
+ff_41:p
+ff_30:p
+ff_19:p
+ff_52:v
+ff_8:p
+ff_41:v
+ff_47:ê
+ff_49:h
+ff_52:h
+ff_36:ê
+ff_38:h
+ff_41:h
+ff_25:ê
+ff_27:h
+ff_30:h
+ff_14:ê
+ff_16:h
+ff_19:h
+ff_3:ê
+ff_5:h
+ff_8:h
+ff_48:x
+ff_51:x
+ff_40:x
+ff_29:x
+ff_18:x
+ff_7:x
+ff_5:k
+ff_8:k
+ff_49:f
+ff_38:f
+ff_27:f
+ff_16:f
+ff_5:f
+ff_52:è
+ff_41:è
+ff_30:è
+ff_19:è
+ff_8:è
+ff_53:h
+ff_42:h
+ff_31:h
+ff_20:h
+ff_9:h
+ff_52:g
+ff_41:g
+ff_30:g
+ff_19:g
+ff_8:g
+ff_48:'
+ff_37:'
+ff_26:'
+ff_6:f
+ff_15:'
+ff_4:'
+ff_50:y
+ff_39:y
+ff_28:y
+ff_17:y
+ff_6:y
+ff_47:b
+ff_53:d
+ff_36:b
+ff_42:d
+ff_25:b
+ff_31:d
+ff_14:b
+ff_20:d
+ff_3:b
+ff_9:d
+ff_51:f
+ff_40:f
+ff_29:f
+ff_18:f
+ff_7:f
+ff_49:î
+ff_50:î
+ff_38:î
+ff_39:î
+ff_27:î
+ff_28:î
+ff_16:î
+ff_17:î
+ff_5:î
+ff_6:î
+ff_46:-
+ff_51:-
+ff_35:-
+ff_40:-
+ff_24:-
+ff_29:-
+ff_13:-
+ff_18:-
+ff_2:-
+ff_7:-
+ff_50:é
+ff_39:é
+ff_28:é
+ff_48:0
+ff_49:0
+ff_50:0
+ff_51:0
+ff_17:é
+ff_37:0
+ff_38:0
+ff_39:0
+ff_40:0
+ff_46:?
+ff_53:?
+ff_6:é
+ff_26:0
+ff_27:0
+ff_28:0
+ff_29:0
+ff_35:?
+ff_42:?
+ff_15:0
+ff_16:0
+ff_17:0
+ff_18:0
+ff_24:?
+ff_31:?
+ff_50:ç
+ff_39:ç
+ff_28:ç
+ff_17:ç
+ff_6:ç
+ff_49:à
+ff_38:à
+ff_27:à
+ff_16:à
+ff_5:à
+ff_49:x
+ff_38:x
+ff_27:x
+ff_16:x
+ff_5:x
+ff_46:;
+ff_53:;
+ff_35:;
+ff_42:;
+ff_24:;
+ff_31:;
+ff_48:q
+ff_37:q
+ff_26:q
+ff_15:q
+ff_4:q
+ff_52:f
+ff_41:f
+ff_30:f
+ff_19:f
+ff_8:f
+ff_47:è
+ff_36:è
+ff_25:è
+ff_14:è
+ff_3:è
+ff_50:q
+ff_39:q
+ff_28:q
+ff_17:q
+ff_6:q
+ff_54:ALL_CAPS
+ff_43:ALL_CAPS
+ff_53:-
+ff_42:-
+ff_31:-
+ff_20:-
+ff_9:-
+ff_51:g
+ff_40:g
+ff_29:g
+ff_18:g
+ff_7:g
+ff_52:x
+ff_41:x
+ff_30:x
+ff_19:x
+ff_53:g
+ff_42:g
+ff_31:g
+ff_20:g
+ff_49:ô
+ff_52:ô
+ff_38:ô
+ff_41:ô
+ff_27:ô
+ff_30:ô
+ff_16:ô
+ff_19:ô
+ff_5:ô
+ff_8:ô
+ff_48:è
+ff_37:è
+ff_26:è
+ff_15:è
+ff_4:è
+ff_51:h
+ff_40:h
+ff_29:h
+ff_18:h
+ff_7:h
+ff_51:ê
+ff_40:ê
+ff_29:ê
+ff_18:ê
+ff_7:ê
+ff_48:v
+ff_37:v
+ff_26:v
+ff_15:v
+ff_4:v
+ff_47:g
+ff_36:g
+ff_25:g
+ff_14:g
+ff_3:g
+ff_49:g
+ff_38:g
+ff_27:g
+ff_16:g
+ff_5:g
+ff_46:­
+ff_53:­
+ff_35:­
+ff_42:­
+ff_24:­
+ff_31:­
+ff_13:­
+ff_20:­
+ff_2:­
+ff_9:­
+ff_47:d
+ff_36:d
+ff_25:d
+ff_14:d
+ff_3:d
+ff_48:y
+ff_52:y
+ff_37:y
+ff_41:y
+ff_26:y
+ff_30:y
+ff_15:y
+ff_19:y
+ff_4:y
+ff_8:y
+ff_50:ô
+ff_39:ô
+ff_28:ô
+ff_17:ô
+ff_6:ô
+ff_47:.
+ff_36:.
+ff_25:.
+ff_14:.
+ff_20:.
+ff_3:.
+ff_9:.
+ff_49:è
+ff_38:è
+ff_27:è
+ff_50:è
+ff_16:è
+ff_39:è
+ff_5:è
+ff_28:è
+ff_17:è
+ff_6:è
+ff_49:q
+ff_38:q
+ff_48:.
+ff_27:q
+ff_37:.
+ff_53:k
+ff_16:q
+ff_26:.
+ff_42:k
+ff_5:q
+ff_15:.
+ff_31:k
+ff_47:w
+ff_4:.
+ff_20:k
+ff_36:w
+ff_9:k
+ff_25:w
+ff_14:w
+ff_3:w
+ff_46:k
+ff_35:k
+ff_24:k
+ff_13:k
+ff_2:k
+ff_46:(
+ff_53:(
+ff_35:(
+ff_42:(
+ff_48:-
+ff_24:(
+ff_31:(
+ff_37:-
+ff_46:/
+ff_53:/
+ff_13:(
+ff_20:(
+ff_26:-
+ff_35:/
+ff_42:/
+ff_2:(
+ff_9:(
+ff_15:-
+ff_24:/
+ff_31:/
+ff_46:)
+ff_53:)
+ff_4:-
+ff_5:0
+ff_6:0
+ff_7:0
+ff_13:/
+ff_20:/
+ff_35:)
+ff_42:)
+ff_2:/
+ff_9:/
+ff_24:)
+ff_31:)
+ff_4:0
+ff_13:)
+ff_20:)
+ff_50:k
+ff_2:)
+ff_9:)
+ff_39:k
+ff_28:k
+ff_17:k
+ff_6:k
+ff_53:m
+ff_42:m
+ff_31:m
+ff_20:m
+ff_9:m
+ff_45:X
+ff_34:X
+ff_23:X
+ff_12:X
+ff_1:X
+ff_53:b
+ff_42:b
+ff_31:b
+ff_20:b
+ff_9:b
+ff_46:z
+ff_35:z
+ff_24:z
+ff_13:z
+ff_2:z
+ff_47:û
+ff_51:û
+ff_36:û
+ff_40:û
+ff_25:û
+ff_29:û
+ff_14:û
+ff_18:û
+ff_3:û
+ff_7:û
+ff_8:x
+ff_48:h
+ff_37:h
+ff_26:h
+ff_15:h
+ff_4:h
+ff_50:x
+ff_39:x
+ff_28:x
+ff_17:x
+ff_6:x
+ff_51:y
+ff_40:y
+ff_29:y
+ff_18:y
+ff_7:y
+ff_47:â
+ff_50:â
+ff_36:â
+ff_39:â
+ff_25:â
+ff_28:â
+ff_14:â
+ff_17:â
+ff_3:â
+ff_6:â
+ff_47:ô
+ff_51:ô
+ff_36:ô
+ff_40:ô
+ff_25:ô
+ff_29:ô
+ff_14:ô
+ff_18:ô
+ff_3:ô
+ff_7:ô
+ff_50:'
+ff_39:'
+ff_28:'
+ff_17:'
+ff_6:'
+ff_52:î
+ff_41:î
+ff_30:î
+ff_19:î
+ff_8:î
+ff_53:q
+ff_42:q
+ff_31:q
+ff_20:q
+ff_9:q
+ff_48:ô
+ff_37:ô
+ff_26:ô
+ff_15:ô
+ff_4:ô
+ff_46:î
+ff_35:î
+ff_24:î
+ff_13:î
+ff_49:â
+ff_51:â
+ff_38:â
+ff_40:â
+ff_27:â
+ff_29:â
+ff_16:â
+ff_18:â
+ff_5:â
+ff_7:â
+ff_49:ç
+ff_51:ç
+ff_38:ç
+ff_40:ç
+ff_27:ç
+ff_29:ç
+ff_16:ç
+ff_18:ç
+ff_5:ç
+ff_7:ç
+ff_48:ç
+ff_37:ç
+ff_26:ç
+ff_15:ç
+ff_4:ç
+ff_47:j
+ff_36:j
+ff_25:j
+ff_14:j
+ff_3:j
+ff_47:à
+ff_36:à
+ff_25:à
+ff_14:à
+ff_3:à
+ff_46:â
+ff_35:â
+ff_24:â
+ff_13:â
+ff_2:â
+ff_52:ê
+ff_41:ê
+ff_30:ê
+ff_19:ê
+ff_46:w
+ff_51:w
+ff_35:w
+ff_40:w
+ff_24:w
+ff_29:w
+ff_13:w
+ff_18:w
+ff_2:w
+ff_7:w
+ff_45:SYM
+ff_46:%
+ff_53:%
+ff_34:SYM
+ff_35:%
+ff_42:%
+ff_23:SYM
+ff_24:%
+ff_31:%
+ff_12:SYM
+ff_13:%
+ff_20:%
+ff_1:SYM
+ff_2:%
+ff_9:%
+ff_8:ê
+ff_46:«
+ff_53:«
+ff_35:«
+ff_42:«
+ff_24:«
+ff_31:«
+ff_46:»
+ff_53:»
+ff_13:«
+ff_20:«
+ff_35:»
+ff_42:»
+ff_2:«
+ff_9:«
+ff_24:»
+ff_31:»
+ff_13:»
+ff_20:»
+ff_2:»
+ff_9:»
+ff_9:g
+ff_48:û
+ff_52:û
+ff_37:û
+ff_41:û
+ff_26:û
+ff_30:û
+ff_15:û
+ff_19:û
+ff_4:û
+ff_8:û
+ff_48:â
+ff_37:â
+ff_26:â
+ff_15:â
+ff_4:â
+ff_48:z
+ff_37:z
+ff_26:z
+ff_15:z
+ff_4:z
+ff_53:o
+ff_42:o
+ff_46:[
+ff_53:[
+ff_31:o
+ff_35:[
+ff_42:[
+ff_20:o
+ff_24:[
+ff_31:[
+ff_46:]
+ff_53:]
+ff_9:o
+ff_13:[
+ff_20:[
+ff_35:]
+ff_42:]
+ff_2:[
+ff_9:[
+ff_24:]
+ff_31:]
+ff_13:]
+ff_20:]
+ff_47:q
+ff_36:q
+ff_25:q
+ff_14:q
+ff_3:q
+ff_13:.
+ff_2:.
+ff_48:w
+ff_53:w
+ff_37:w
+ff_42:w
+ff_26:w
+ff_31:w
+ff_15:w
+ff_20:w
+ff_4:w
+ff_9:w
+ff_51:k
+ff_40:k
+ff_29:k
+ff_18:k
+ff_7:k
+ff_46:"
+ff_53:"
+ff_35:"
+ff_42:"
+ff_24:"
+ff_31:"
+ff_13:"
+ff_20:"
+ff_2:"
+ff_9:"
+ff_49:y
+ff_38:y
+ff_27:y
+ff_16:y
+ff_5:y
+ff_46:x
+ff_35:x
+ff_24:x
+ff_13:x
+ff_49:ê
+ff_38:ê
+ff_27:ê
+ff_16:ê
+ff_5:ê
+ff_52:.
+ff_41:.
+ff_30:.
+ff_19:.
+ff_8:.
+ff_51:î
+ff_40:î
+ff_29:î
+ff_18:î
+ff_7:î
+ff_48:k
+ff_37:k
+ff_26:k
+ff_15:k
+ff_4:k
+ff_42:j
+ff_31:j
+ff_20:j
+ff_9:j
+ff_47:í
+ff_51:í
+ff_36:í
+ff_40:í
+ff_50:á
+ff_25:í
+ff_29:í
+ff_39:á
+ff_14:í
+ff_18:í
+ff_28:á
+ff_3:í
+ff_7:í
+ff_17:á
+ff_6:á
+ff_47:ä
+ff_36:ä
+ff_25:ä
+ff_14:ä
+ff_3:ä
+ff_53:p
+ff_42:p
+ff_31:p
+ff_20:p
+ff_9:p
+ff_49:º
+ff_50:­
+ff_53:º
+ff_38:º
+ff_39:­
+ff_42:º
+ff_27:º
+ff_28:­
+ff_31:º
+ff_16:º
+ff_17:­
+ff_20:º
+ff_5:º
+ff_6:­
+ff_9:º
+ff_46:—
+ff_53:—
+ff_35:—
+ff_42:—
+ff_24:—
+ff_31:—
+ff_13:—
+ff_20:—
+ff_2:—
+ff_9:—
+ff_46:œ
+ff_35:œ
+ff_24:œ
+ff_13:œ
+ff_2:œ
+ff_24:ç
+ff_30:ç
+ff_13:ç
+ff_19:ç
+ff_2:ç
+ff_8:ç
+ff_35:ç
+ff_41:ç
+ff_47:,
+ff_52:,
+ff_36:,
+ff_41:,
+ff_25:,
+ff_30:,
+ff_14:,
+ff_19:,
+ff_3:,
+ff_8:,
+129
+_
+Polarity=Neg
+Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
+Gender=Masc|Number=Sing
+Gender=Masc|Number=Plur
+Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+Definite=Ind|Gender=Masc|Number=Plur|PronType=Dem
+Number=Sing
+Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+VerbForm=Inf
+Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part
+Definite=Def|Number=Plur|PronType=Art
+Number=Plur
+Number=Sing|Tense=Pres|VerbForm=Part
+Definite=Def|Number=Sing|PronType=Art
+Gender=Fem|Number=Sing
+Gender=Masc|Number=Sing|PronType=Dem
+Gender=Fem|Number=Plur
+Number=Plur|Tense=Past|VerbForm=Part
+Gender=Fem|Number=Sing|PronType=Dem
+Number=Sing|PronType=Dem
+Gender=Fem|Number=Sing|PronType=Tot
+Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+Definite=Def|Gender=Masc|Number=Sing|PronType=Art
+PronType=Neg
+Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+Definite=Ind|Gender=Fem|Number=Plur|PronType=Dem
+Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part
+NumType=Card
+Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part
+Gender=Masc
+Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin
+Gender=Masc|Number=Sing|PronType=Ind
+Gender=Fem|Number=Sing|PronType=Ind
+PronType=Rel
+Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin
+Number=Sing|Person=1|PronType=Prs
+Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+Gender=Masc|Number=Sing|NumType=Ord
+Number=Plur|Person=2|PronType=Prs
+Gender=Masc|Number=Plur|PronType=Tot
+Gender=Masc|Number=Plur|PronType=Prs
+VerbForm=Ger
+Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin
+PronType=Dem
+Gender=Masc|Tense=Past|VerbForm=Part
+Number=Plur|PronType=Ind
+Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part
+Gender=Fem|Number=Sing|PronType=Prs
+Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin
+Gender=Masc|Number=Sing|PronType=Prs
+Gender=Masc|Number=Sing|Person=3|PronType=Prs
+Tense=Past|VerbForm=Part
+Person=3|PronType=Prs
+Gender=Fem|Number=Sing|NumType=Ord
+Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin
+Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+Number=Plur|Person=3|PronType=Prs
+Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin
+Definite=Def|PronType=Art
+Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin
+Number=Sing|Person=3|PronType=Prs
+Gender=Fem|Number=Sing|PronType=Rel
+Mood=Ind|Number=Sing|Person=1|VerbForm=Fin
+Gender=Fem|Number=Plur|PronType=Ind
+Number=Plur|Person=1|PronType=Prs
+Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+Number=Sing|Person=3|PronType=Dem
+Gender=Fem|Number=Plur|Person=3|PronType=Prs
+Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin
+Gender=Fem|Number=Plur|PronType=Tot
+Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin
+Number=Plur|PronType=Dem
+Gender=Masc|Number=Plur|NumType=Ord
+Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+Number=Sing|PronType=Prs
+Gender=Fem
+Gender=Fem|Number=Sing|Person=3|PronType=Art
+Person=1|PronType=Prs
+Gender=Masc|Number=Plur|PronType=Rel
+Gender=Fem|Number=Sing|Person=3|PronType=Prs
+Gender=Masc|Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin
+PronType=Prs
+Number=Plur|Tense=Pres|VerbForm=Part
+Gender=Masc|Number=Sing|PronType=Rel
+Gender=Masc|Number=Plur|Person=3|PronType=Prs
+Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+Gender=Masc|Number=Sing|Person=3|PronType=Dem
+Gender=Masc|PronType=Ind
+Gender=Masc|Number=Plur|Person=3|PronType=Dem
+Gender=Fem|Number=Plur|PronType=Rel
+Gender=Masc|Number=Plur|PronType=Ind
+Gender=Fem|Number=Sing|PronType=Art
+Gender=Fem|Number=Plur|PronType=Prs
+Number=Sing|NumType=Ord
+Gender=Masc|Number=Sing|PronType=Art
+Number=Sing|PronType=Ind
+Mood=Imp|Tense=Pres|VerbForm=Fin
+Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin
+Definite=Ind|Number=Plur|PronType=Dem
+Definite=Ind|Gender=Masc|Number=Plur|PronType=Art
+Gender=Fem|Number=Plur|PronType=Dem
+Definite=Ind|Gender=Fem|Number=Plur|PronType=Art
+Gender=Masc|Number=Plur|PronType=Dem
+Definite=Ind|Number=Plur|PronType=Art
+Definite=Def|Gender=Masc|Number=Plur|PronType=Art
+Gender=Fem|Number=Sing|Person=3|PronType=Dem
+Tense=Pres|VerbForm=Part
+Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin
+Definite=Ind|Gender=Masc|Number=Sing|PronType=Dem
+Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin
+Definite=Ind|Gender=Fem|Number=Sing|PronType=Dem
+Tense=Pres|VerbForm=Inf
+Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part
+Gender=Masc|Number=Sing|PronType=Tot
+Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+Definite=Ind|PronType=Dem
+Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin
+PronType=Ind
+Gender=Fem|Number=Plur|NumType=Ord
+Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin
+Gender=Masc|Number=Sing|PronType=Int
+895
+207 2 131
+486 3 29
+178 4 7
+1012 5 -24
+195 6 -24
+139 -24 -98
+32 8 -16
+279 9 22
+826 10 11
+35 -16 -25
+217 12 14
+127 -25 13
+193 -25 -16
+390 15 -16
+123 16 -16
+35 -16 17
+185 -16 18
+239 -16 19
+634 -25 20
+40 -16 21
+391 -25 -16
+304 23 27
+789 -101 24
+166 -101 25
+702 26 -25
+39 -101 -25
+470 28 -25
+101 -16 -25
+518 30 36
+114 31 -107
+215 32 -13
+163 33 34
+15 -111 -13
+288 35 -13
+390 -111 -13
+208 37 41
+27 38 -4
+185 39 -27
+250 -83 40
+294 -98 -27
+73 42 87
+260 43 70
+268 44 46
+253 45 -8
+49 -105 -13
+760 47 49
+16 -8 48
+42 -13 -63
+294 -8 50
+41 51 53
+432 52 -28
+16 -110 -108
+574 54 55
+217 -28 -106
+193 56 62
+49 57 59
+170 58 -8
+1 -28 -110
+308 60 61
+5 -110 -108
+12 -110 -28
+387 -110 63
+1228 -108 64
+216 -28 65
+239 -28 66
+670 -28 67
+138 68 69
+15 -8 -28
+377 -28 -8
+361 71 73
+269 -109 72
+120 -107 -78
+182 74 75
+29 -42 -74
+114 76 80
+215 77 78
+217 -43 -99
+217 79 -43
+218 -43 -99
+673 81 83
+321 82 -48
+41 -99 -43
+235 -68 84
+156 85 86
+5 -68 -48
+89 -68 -97
+25 88 94
+114 89 91
+265 -22 90
+692 -22 -18
+149 -21 92
+210 -102 93
+4 -34 -35
+673 95 97
+187 -23 96
+27 -129 -35
+260 98 106
+112 99 102
+17 100 101
+4 -119 -110
+41 -63 -124
+43 103 105
+37 -28 104
+50 -8 -28
+1 -63 -116
+382 107 109
+574 108 -53
+15 -53 -51
+334 110 123
+574 111 113
+184 112 -51
+5 -34 -53
+227 -102 114
+124 115 116
+1 -51 -99
+278 117 119
+868 -53 118
+200 -53 -51
+55 120 122
+555 121 -53
+49 -51 -53
+36 -81 -51
+113 -51 124
+797 -102 125
+68 -94 126
+212 127 128
+218 -122 -34
+27 129 130
+5 -34 -35
+84 -34 -122
+232 132 437
+73 133 258
+286 134 152
+236 135 146
+508 136 137
+27 -19 -14
+179 138 139
+16 -6 -19
+1224 -19 140
+414 141 143
+27 -6 142
+149 -6 -19
+403 144 -6
+100 145 -6
+45 -19 -6
+741 147 148
+6 -5 -19
+213 -19 149
+1615 -19 150
+91 -6 151
+25 -19 -6
+235 153 172
+72 154 155
+766 -17 -19
+448 156 157
+45 -19 -6
+741 -19 158
+35 -14 159
+224 -6 160
+108 161 167
+587 -6 162
+358 -6 163
+237 164 165
+47 -6 -19
+27 166 -6
+89 -6 -19
+234 168 169
+16 -19 -17
+149 170 171
+15 -14 -19
+128 -32 -6
+237 173 208
+968 174 175
+76 -19 -6
+590 176 180
+67 -19 177
+129 178 179
+26 -6 -19
+165 -9 -6
+1181 181 183
+177 -19 182
+1393 -19 -6
+448 184 189
+639 -19 185
+792 -19 186
+209 -19 187
+292 188 -6
+695 -6 -14
+885 -6 190
+518 191 195
+179 -14 192
+276 -6 193
+288 -6 194
+209 -6 -19
+400 -14 196
+1282 197 198
+15 -19 -6
+332 199 201
+4 -19 200
+6 -6 -17
+830 202 203
+6 -6 -19
+489 204 205
+97 -6 -19
+445 -6 206
+349 207 -19
+16 -19 -6
+496 209 217
+67 210 213
+25 -5 211
+5 212 -19
+195 -5 -6
+65 214 215
+72 -5 -32
+673 -5 216
+5 -32 -17
+178 218 225
+72 219 220
+204 -6 -19
+70 221 222
+25 -19 -5
+94 -6 223
+482 -6 224
+122 -6 -32
+321 226 234
+753 227 228
+100 -19 -14
+78 229 231
+168 -32 230
+4 -5 -5
+229 232 233
+100 -5 -32
+41 -32 -6
+1006 -19 235
+335 -19 236
+72 -6 237
+713 238 239
+102 -5 -19
+973 -19 240
+204 241 253
+413 242 244
+54 -6 243
+28 -19 -32
+590 -19 245
+358 246 247
+50 -19 -6
+26 -19 248
+233 -19 249
+85 250 252
+123 -6 251
+264 -6 -19
+523 -19 -6
+227 254 255
+53 -6 -32
+414 256 257
+25 -32 -6
+150 -32 -6
+30 259 295
+563 260 266
+483 261 262
+25 -9 -17
+230 263 265
+16 264 -17
+5 -9 -5
+879 -5 -17
+286 267 274
+464 -5 268
+68 269 271
+25 270 -17
+6 -5 -17
+32 272 -17
+767 -5 273
+90 -5 -17
+446 275 278
+149 276 277
+5 -5 -9
+26 -5 -17
+69 279 280
+35 -5 -9
+32 281 291
+284 282 283
+1 -17 -5
+67 -5 284
+464 -5 285
+584 286 287
+29 -17 -5
+148 -5 288
+702 289 290
+16 -5 -17
+127 -5 -17
+813 -17 292
+253 293 294
+4 -17 -32
+46 -17 -5
+32 296 369
+684 297 300
+16 298 -5
+131 299 -17
+5 -5 -17
+590 301 303
+27 -82 302
+336 -17 -5
+70 304 308
+1219 -17 305
+69 306 -5
+4 -5 307
+217 -5 -17
+26 309 313
+236 -17 310
+283 -17 311
+238 312 -5
+6 -5 -17
+929 314 319
+1606 -32 315
+127 316 317
+17 -17 -9
+213 -17 318
+77 -17 -5
+678 -17 320
+227 321 341
+143 322 328
+1055 -5 323
+522 -5 324
+235 325 327
+4 -5 326
+6 -17 -9
+344 -5 -17
+17 329 338
+971 330 331
+4 -19 -17
+78 332 333
+68 -17 -5
+177 334 335
+5 -5 -17
+36 336 -5
+4 -17 337
+38 -17 -5
+231 -5 339
+29 -5 340
+213 -5 -17
+236 342 343
+28 -6 -17
+25 344 347
+67 -5 345
+217 -5 346
+72 -5 -17
+402 348 349
+5 -5 -9
+1055 350 354
+359 -5 351
+554 -5 352
+67 353 -17
+49 -5 -17
+464 355 357
+403 356 -5
+162 -5 -17
+446 358 361
+278 359 -17
+178 -17 360
+276 -17 -5
+180 -5 362
+745 363 367
+224 -17 364
+65 365 -5
+49 -17 366
+132 -17 -5
+169 -5 368
+300 -5 -17
+597 370 374
+187 -32 371
+210 372 373
+48 -17 -6
+37 -82 -17
+203 375 377
+16 -17 376
+276 -17 -5
+763 378 380
+563 -17 379
+5 -17 -5
+943 381 384
+114 382 383
+67 -32 -17
+5 -5 -32
+335 385 386
+209 -32 -5
+496 387 405
+653 388 390
+291 -5 389
+4 -6 -5
+210 391 396
+65 392 394
+16 393 -17
+129 -17 -5
+100 395 -17
+48 -17 -5
+477 397 398
+65 -5 -17
+334 399 401
+150 400 -5
+4 -17 -5
+907 -17 402
+1304 -17 403
+877 404 -5
+42 -17 -5
+286 406 407
+359 -5 -17
+606 408 410
+25 -32 409
+16 -17 -5
+359 411 413
+449 -17 412
+45 -5 -17
+741 -5 414
+575 415 417
+16 416 -17
+41 -17 -5
+150 418 429
+576 -17 419
+160 420 421
+41 -5 -17
+190 422 423
+29 -5 -17
+341 424 425
+78 -17 -5
+63 -17 426
+128 427 -5
+6 -5 428
+304 -17 -5
+1453 -17 430
+356 -17 431
+646 -17 432
+1081 433 -5
+147 -5 434
+1 -17 435
+45 -5 436
+65 -5 -17
+399 438 623
+73 439 508
+237 440 481
+587 441 452
+680 -127 442
+713 -19 443
+166 444 445
+26 -19 -6
+108 446 448
+369 -19 447
+480 -19 -14
+194 -19 449
+48 -19 450
+246 -6 451
+392 -6 -14
+792 -19 453
+300 454 456
+536 455 -14
+27 -14 -6
+447 -14 457
+88 458 460
+260 -19 459
+28 -6 -14
+785 461 464
+87 -19 462
+185 463 -14
+108 -14 -19
+1169 465 469
+233 -19 466
+292 -19 467
+244 -19 468
+349 -19 -14
+822 470 472
+45 471 -19
+54 -17 -14
+230 -14 473
+284 -14 474
+208 475 476
+62 -19 -14
+693 -14 477
+342 478 480
+382 -19 479
+28 -19 -14
+400 -14 -19
+336 482 485
+49 483 -32
+6 -1 484
+16 -14 -5
+318 486 490
+43 487 488
+16 -14 -79
+15 -17 489
+26 -19 -6
+292 491 496
+215 -14 492
+287 493 494
+5 -5 -32
+17 495 -6
+632 -6 -32
+361 -14 497
+260 498 501
+4 499 500
+15 -32 -14
+37 -79 -6
+142 -14 502
+384 503 504
+6 -14 -6
+186 -14 505
+618 506 507
+45 -14 -6
+70 -14 -6
+32 509 576
+910 510 515
+449 511 513
+178 -17 512
+239 -9 -57
+260 -9 514
+48 -40 -100
+236 516 518
+752 517 -17
+1 -9 -57
+632 519 523
+319 -9 520
+72 521 522
+27 -17 -9
+396 -82 -17
+285 524 530
+486 525 528
+494 526 527
+5 -19 -9
+124 -5 -17
+6 529 -17
+105 -17 -9
+31 -17 531
+686 532 533
+173 -5 -17
+72 -17 534
+286 535 536
+763 -9 -17
+584 -1 537
+560 538 542
+62 -1 539
+334 -17 540
+15 -17 541
+231 -17 -9
+683 543 545
+210 544 -17
+735 -17 -9
+374 546 551
+765 -17 547
+85 -17 548
+175 -5 549
+198 -5 550
+154 -5 -9
+105 552 557
+84 -17 553
+101 -5 554
+27 -5 555
+278 556 -9
+45 -9 -5
+571 558 559
+5 -9 -5
+318 -17 560
+337 -9 561
+354 -17 562
+255 563 566
+321 -9 564
+219 565 -17
+62 -9 -9
+16 567 571
+49 568 -9
+78 -9 569
+235 -17 570
+67 -17 -9
+378 572 573
+5 -17 -9
+403 574 -9
+401 -17 575
+151 -17 -9
+597 577 586
+108 578 581
+122 579 580
+6 -9 -32
+150 -9 -6
+139 -6 582
+564 583 585
+16 584 -9
+634 -5 -5
+15 -100 -32
+699 587 592
+227 -40 588
+260 -40 589
+65 590 591
+30 -5 -9
+89 -9 -5
+114 593 597
+800 -100 594
+65 595 596
+49 -9 -18
+128 -9 -5
+27 598 600
+401 -1 599
+1 -9 -5
+334 -9 601
+449 602 603
+94 -5 -9
+739 604 606
+65 -9 605
+5 -5 -5
+563 607 608
+5 -5 -9
+1306 -9 609
+378 610 613
+310 -9 611
+251 612 -5
+188 -5 -9
+276 614 618
+102 -9 615
+352 616 -5
+78 617 -5
+50 -9 -5
+673 619 620
+460 -9 -5
+498 -9 621
+524 -9 622
+626 -9 -5
+331 624 781
+73 625 668
+237 626 635
+309 627 629
+108 -118 628
+1 -104 -31
+201 630 633
+194 631 -31
+6 -62 632
+25 -50 -29
+323 -89 634
+349 -50 -31
+72 636 645
+235 637 640
+16 -39 638
+290 639 -77
+162 -77 -70
+483 641 643
+26 -70 642
+1 -114 -125
+558 644 -70
+1 -70 -125
+336 646 661
+16 647 654
+65 648 651
+285 649 -39
+100 -67 650
+1 -58 -115
+67 652 653
+98 -47 -12
+42 -50 -47
+253 655 656
+236 -20 -59
+175 -47 657
+114 658 659
+4 -59 -12
+405 660 -47
+49 -113 -47
+286 662 664
+26 663 -89
+5 -55 -50
+518 665 666
+1 -39 -55
+36 -12 667
+1391 -12 -50
+699 669 671
+505 670 -11
+48 -120 -11
+32 672 707
+449 673 682
+418 -39 674
+277 -11 675
+169 -11 676
+253 -3 677
+334 -11 678
+359 -11 679
+78 680 681
+103 -3 -11
+256 -11 -3
+686 683 684
+183 -3 -29
+933 685 686
+101 -70 -39
+627 -29 687
+169 -29 688
+880 689 691
+482 -39 690
+53 -39 -3
+336 692 695
+16 693 -29
+15 694 -3
+6 -12 -60
+236 696 701
+494 697 698
+28 -3 -15
+72 699 700
+54 -3 -60
+103 -60 -3
+334 702 704
+72 703 -29
+49 -60 -3
+228 -60 705
+559 -60 706
+798 -60 -3
+152 708 767
+285 709 741
+72 710 729
+277 711 712
+16 -44 -113
+185 713 717
+188 714 716
+5 -121 715
+15 -15 -113
+1221 -15 -44
+534 -44 718
+375 719 720
+1 -44 -55
+195 721 722
+25 -44 -113
+161 723 724
+6 -113 -44
+739 -113 725
+197 -113 726
+583 -113 727
+352 -113 728
+685 -113 -15
+332 730 734
+169 -12 731
+203 732 733
+1 -87 -12
+195 -87 -3
+335 735 738
+458 736 737
+5 -37 -12
+28 -3 -10
+114 -60 739
+234 -37 740
+49 -37 -3
+72 742 759
+235 743 751
+398 -3 744
+139 745 747
+26 -64 746
+27 -3 -49
+102 748 749
+25 -3 -75
+36 -3 750
+6 -64 -3
+335 752 756
+71 -73 753
+1271 754 755
+271 -49 -117
+158 -92 -49
+69 757 -49
+17 758 -80
+29 -49 -49
+336 760 766
+71 761 762
+26 -3 -60
+42 763 764
+65 -12 -3
+16 -7 765
+43 -7 -12
+97 -7 -3
+679 768 770
+113 -3 769
+202 -10 -33
+961 771 777
+15 772 773
+347 -103 -104
+575 774 775
+87 -45 -104
+37 -103 776
+38 -128 -45
+181 778 779
+113 -39 -52
+1074 -3 780
+365 -29 -12
+658 782 853
+210 783 797
+73 784 787
+111 -69 785
+29 786 -41
+43 -42 -97
+402 788 789
+74 -126 -36
+321 790 795
+597 791 792
+95 -109 -95
+79 793 794
+25 -93 -126
+39 -56 -61
+517 -65 796
+37 -91 -34
+25 798 817
+112 799 800
+309 -22 -46
+576 801 803
+73 -107 802
+133 -21 -112
+1099 804 807
+65 805 806
+45 -109 -18
+15 -95 -93
+303 808 811
+28 -71 809
+1 -97 810
+4 -22 -93
+440 -18 812
+277 813 -71
+353 -22 814
+544 -22 815
+344 816 -71
+4 -22 -71
+400 -38 818
+113 819 833
+151 820 822
+57 -88 821
+309 -88 -56
+112 823 824
+486 -65 -84
+147 825 826
+107 -88 -56
+917 -36 827
+423 -88 828
+178 829 830
+1 -46 -86
+741 -84 831
+258 -88 832
+338 -88 -54
+73 834 840
+518 835 837
+147 -72 836
+43 -96 -61
+30 -91 838
+6 -97 839
+92 -91 -85
+32 841 846
+465 842 843
+72 -35 -66
+175 844 845
+16 -38 -71
+149 -34 -86
+114 847 849
+575 848 -54
+100 -81 -38
+237 850 852
+27 851 -90
+1 -129 -126
+1 -38 -36
+146 854 889
+72 855 872
+73 856 863
+235 857 861
+575 858 859
+48 -123 -77
+6 -76 860
+40 -76 -77
+335 -125 862
+1066 -123 -70
+235 864 868
+234 865 867
+84 -64 866
+121 -64 -49
+260 -75 -80
+285 869 870
+155 -15 -44
+335 -73 871
+383 -80 -49
+114 873 877
+286 -12 874
+713 875 876
+113 -39 -60
+177 -12 -3
+152 878 881
+285 879 880
+335 -10 -37
+358 -60 -3
+418 882 884
+335 -58 883
+5 -39 -115
+237 885 887
+68 -70 886
+92 -11 -45
+679 -33 888
+73 -39 -11
+809 -30 890
+110 -2 891
+180 892 894
+73 893 -1
+577 -1 -2
+111 895 -1
+236 -26 -1

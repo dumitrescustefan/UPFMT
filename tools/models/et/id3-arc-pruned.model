@@ -1,0 +1,5452 @@
+3799
+ff_0:</s>
+ff_1:NOUN_Case=Nom|Number=Sing
+ff_2:S
+ff_3:</s>
+ff_4:VERB_Connegative=Yes|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act
+ff_5:VERB
+ff_6:</s>
+ff_7:PROPN_Case=Nom|Number=Sing
+ff_8:</s>
+ff_9:PROPN_Case=Nom|Number=Sing
+ff_10:</s>
+ff_11:NULL
+ff_12:</s>
+ff_13:NULL
+ff_14:</s>
+ff_15:NULL
+ff_16:</s>
+ff_17:NULL
+ff_18:</s>
+ff_19:NULL
+ff_20:</s>
+ff_21:NULL
+ff_0:"
+ff_1:PUNCT__
+ff_2:Z
+ff_4:PROPN_Case=Nom|Number=Sing
+ff_5:PROPN
+ff_7:NULL
+ff_9:NULL
+ff_1:PROPN_Case=Nom|Number=Sing
+ff_4:NOUN_Case=Nom|Number=Sing
+ff_5:NOUN
+ff_6:"
+ff_7:PUNCT__
+ff_8:"
+ff_9:PUNCT__
+ff_14:"
+ff_15:PUNCT__
+ff_16:"
+ff_17:PUNCT__
+ff_0:ei
+ff_1:AUX_Mood=Ind|Polarity=Neg|VerbForm=Fin
+ff_2:V
+ff_1:PROPN_Case=Gen|Number=Sing
+ff_4:NOUN_Case=Ine|Number=Sing
+ff_1:NOUN_Case=Ine|Number=Sing
+ff_7:PROPN_Case=Gen|Number=Sing
+ff_9:PROPN_Case=Gen|Number=Sing
+ff_1:ADV__
+ff_2:D
+ff_0:.
+ff_4:VERB_VerbForm=Inf
+ff_1:AUX_Mood=Cnd|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_4:PROPN_Case=Abe|Number=Sing
+ff_1:PROPN_Case=Abe|Number=Sing
+ff_1:PROPN_Case=All|Number=Sing
+ff_1:AUX_Tense=Past|VerbForm=Part|Voice=Act
+ff_0:,
+ff_4:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_1:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_6:,
+ff_9:NOUN_Case=Nom|Number=Sing
+ff_15:ADV__
+ff_17:ADV__
+ff_1:NOUN_Case=Gen|Number=Sing
+ff_7:NOUN_Case=Gen|Number=Sing
+ff_9:NOUN_Case=Gen|Number=Sing
+ff_4:ADJ_Case=Nom|Degree=Pos|Number=Sing
+ff_5:ADJ
+ff_0:oli
+ff_1:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_0:ju
+ff_0:ja
+ff_1:CCONJ__
+ff_2:J
+ff_1:ADJ_Case=Nom|Degree=Pos|Number=Sing
+ff_2:A
+ff_6:ja
+ff_7:CCONJ__
+ff_8:ja
+ff_9:CCONJ__
+ff_3:mees
+ff_0:aga
+ff_1:ADJ_Case=Ade|Degree=Pos|Number=Sing
+ff_3:ajal
+ff_4:NOUN_Case=Ade|Number=Sing
+ff_10:ajal
+ff_11:NOUN_Case=Ade|Number=Sing
+ff_12:ajal
+ff_13:NOUN_Case=Ade|Number=Sing
+ff_0:ajal
+ff_1:NOUN_Case=Ade|Number=Sing
+ff_4:ADJ_Degree=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_7:ADJ_Case=Ade|Degree=Pos|Number=Sing
+ff_9:ADJ_Case=Ade|Degree=Pos|Number=Sing
+ff_10:,
+ff_11:PUNCT__
+ff_13:ADJ_Degree=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_18:aga
+ff_19:CCONJ__
+ff_20:oli
+ff_21:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_1:ADJ_Degree=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_6:ajal
+ff_7:NOUN_Case=Ade|Number=Sing
+ff_8:ajal
+ff_9:NOUN_Case=Ade|Number=Sing
+ff_0:mees
+ff_9:ADJ_Degree=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_14:aga
+ff_15:CCONJ__
+ff_16:oli
+ff_17:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_1:PRON_Case=Nom|Number=Sing|Person=3|PronType=Prs
+ff_2:P
+ff_4:VERB_Tense=Past|VerbForm=Part|Voice=Act
+ff_0:sisse
+ff_9:VERB_VerbForm=Inf
+ff_0:juba
+ff_4:ADV__
+ff_5:ADV
+ff_6:juba
+ff_7:ADV__
+ff_8:juba
+ff_9:ADV__
+ff_1:DET_Case=Gen|Number=Sing|PronType=Rel
+ff_4:NOUN_Case=Com|Number=Sing
+ff_13:VERB_VerbForm=Inf
+ff_19:NOUN_Case=Com|Number=Sing
+ff_21:NOUN_Case=Com|Number=Sing
+ff_1:NOUN_Case=Com|Number=Sing
+ff_7:DET_Case=Gen|Number=Sing|PronType=Rel
+ff_9:DET_Case=Gen|Number=Sing|PronType=Rel
+ff_1:VERB_VerbForm=Inf
+ff_15:NOUN_Case=Com|Number=Sing
+ff_17:NOUN_Case=Com|Number=Sing
+ff_0:ning
+ff_1:DET_Case=Par|Number=Sing|PronType=Rel
+ff_4:NOUN_Case=Par|Number=Sing
+ff_10:ning
+ff_11:CCONJ__
+ff_13:NOUN_Case=Par|Number=Sing
+ff_19:NOUN_Case=Par|Number=Sing
+ff_20:ning
+ff_21:CCONJ__
+ff_1:NOUN_Case=Par|Number=Sing
+ff_7:DET_Case=Par|Number=Sing|PronType=Rel
+ff_9:DET_Case=Par|Number=Sing|PronType=Rel
+ff_6:ning
+ff_9:NOUN_Case=Par|Number=Sing
+ff_15:NOUN_Case=Par|Number=Sing
+ff_16:ning
+ff_17:CCONJ__
+ff_11:VERB_Tense=Past|VerbForm=Part|Voice=Act
+ff_13:VERB_Tense=Past|VerbForm=Part|Voice=Act
+ff_7:VERB_Tense=Past|VerbForm=Part|Voice=Act
+ff_9:VERB_Tense=Past|VerbForm=Part|Voice=Act
+ff_0:et
+ff_1:SCONJ__
+ff_0:pärast
+ff_1:ADP_AdpType=Prep
+ff_2:K
+ff_6:pärast
+ff_7:ADP_AdpType=Prep
+ff_8:pärast
+ff_9:ADP_AdpType=Prep
+ff_0:ta
+ff_1:VERB_Tense=Past|VerbForm=Part|Voice=Act
+ff_14:et
+ff_15:SCONJ__
+ff_16:väga
+ff_0:väga
+ff_1:NOUN_Case=Tra|Number=Sing
+ff_7:NOUN_Case=Tra|Number=Sing
+ff_9:NOUN_Case=Tra|Number=Sing
+ff_1:PRON_Case=Ela|Number=Sing|PronType=Int
+ff_4:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_0:nad
+ff_1:PRON_Case=Nom|Number=Plur|Person=3|PronType=Prs
+ff_0:ära
+ff_3:mõtles
+ff_0:mõtles
+ff_14:ta
+ff_15:PRON_Case=Nom|Number=Sing|Person=3|PronType=Prs
+ff_16:ta
+ff_17:PRON_Case=Nom|Number=Sing|Person=3|PronType=Prs
+ff_1:NOUN_Case=Par|Number=Plur
+ff_1:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_9:NOUN_Case=Par|Number=Plur
+ff_15:PRON_Case=Ela|Number=Sing|PronType=Int
+ff_17:PRON_Case=Ela|Number=Sing|PronType=Int
+ff_0:?
+ff_1:NOUN_Case=Gen|Number=Plur
+ff_0:!
+ff_1:DET_Case=Par|Number=Plur|PronType=Dem
+ff_4:NOUN_Case=Par|Number=Plur
+ff_7:DET_Case=Par|Number=Plur|PronType=Dem
+ff_9:DET_Case=Par|Number=Plur|PronType=Dem
+ff_1:ADJ_Case=Par|Number=Sing|NumForm=Letter|NumType=Ord
+ff_2:N
+ff_3:korda
+ff_0:korda
+ff_7:ADJ_Case=Par|Number=Sing|NumForm=Letter|NumType=Ord
+ff_9:NOUN_Case=Ine|Number=Sing
+ff_15:NOUN_Case=Ine|Number=Sing
+ff_17:ADJ_Case=Par|Number=Sing|NumForm=Letter|NumType=Ord
+ff_4:NOUN_Case=Nom|Number=Plur
+ff_0:need
+ff_1:PRON_Case=Nom|Number=Plur|PronType=Dem
+ff_1:ADJ_Case=Nom|Degree=Pos|Number=Plur
+ff_0:olid
+ff_1:AUX_Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_3:saanud
+ff_0:ega
+ff_1:ADV_Polarity=Neg
+ff_0:eesti
+ff_1:ADJ__
+ff_2:G
+ff_6:eesti
+ff_7:ADJ__
+ff_8:eesti
+ff_9:ADJ__
+ff_1:PRON_Case=Ela|Number=Plur|PronType=Dem
+ff_1:ADJ_Case=Tra|Degree=Pos|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act
+ff_0:saanud
+ff_9:ADJ_Case=Tra|Degree=Pos|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act
+ff_14:ega
+ff_15:ADV_Polarity=Neg
+ff_17:PRON_Case=Ela|Number=Plur|PronType=Dem
+ff_0:hea
+ff_1:ADJ_Case=Ine|Degree=Pos|Number=Sing
+ff_7:ADJ_Case=Ine|Degree=Pos|Number=Sing
+ff_9:ADJ_Case=Ine|Degree=Pos|Number=Sing
+ff_1:ADJ_Case=Gen|Degree=Pos|Number=Sing
+ff_7:ADJ_Case=Gen|Degree=Pos|Number=Sing
+ff_9:ADJ_Case=Gen|Degree=Pos|Number=Sing
+ff_0:nagu
+ff_6:nagu
+ff_7:SCONJ__
+ff_8:nagu
+ff_9:SCONJ__
+ff_3:oli
+ff_4:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_5:AUX
+ff_8:.
+ff_12:.
+ff_13:PUNCT__
+ff_14:vana
+ff_15:ADJ_Case=Nom|Degree=Pos|Number=Sing
+ff_16:vana
+ff_17:ADJ_Case=Nom|Degree=Pos|Number=Sing
+ff_18:vana
+ff_19:ADJ_Case=Nom|Degree=Pos|Number=Sing
+ff_20:vana
+ff_21:ADJ_Case=Nom|Degree=Pos|Number=Sing
+ff_0:tal
+ff_1:PRON_Case=Ade|Number=Sing|Person=3|PronType=Prs
+ff_4:PROPN_Case=Gen|Number=Sing
+ff_3:vana
+ff_1:PRON_Case=Nom|Number=Sing|PronType=Dem
+ff_0:umbes
+ff_3:viis
+ff_4:NUM_Case=Nom|Number=Sing|NumForm=Letter|NumType=Card
+ff_5:NUM
+ff_10:viis
+ff_11:NUM_Case=Nom|Number=Sing|NumForm=Letter|NumType=Card
+ff_12:viis
+ff_13:NUM_Case=Nom|Number=Sing|NumForm=Letter|NumType=Card
+ff_0:viis
+ff_1:NUM_Case=Nom|Number=Sing|NumForm=Letter|NumType=Card
+ff_6:umbes
+ff_8:umbes
+ff_19:PRON_Case=Nom|Number=Sing|PronType=Dem
+ff_21:PRON_Case=Nom|Number=Sing|PronType=Dem
+ff_6:viis
+ff_7:NUM_Case=Nom|Number=Sing|NumForm=Letter|NumType=Card
+ff_8:viis
+ff_9:NUM_Case=Nom|Number=Sing|NumForm=Letter|NumType=Card
+ff_0:vana
+ff_15:PRON_Case=Nom|Number=Sing|PronType=Dem
+ff_17:PRON_Case=Nom|Number=Sing|PronType=Dem
+ff_4:PRON_Case=Nom|Number=Sing|PronType=Int
+ff_5:PRON
+ff_1:PRON_Case=All|Number=Sing|PronType=Ind
+ff_3:oma
+ff_4:PRON_Case=Nom|Number=Sing|Poss=Yes|PronType=Prs
+ff_7:PRON_Case=Nom|Number=Sing|PronType=Dem
+ff_9:PRON_Case=Nom|Number=Sing|PronType=Dem
+ff_1:INTJ__
+ff_2:I
+ff_1:NOUN_Case=All|Number=Plur
+ff_0:kui
+ff_6:järele
+ff_7:ADP_AdpType=Post
+ff_8:järele
+ff_9:ADP_AdpType=Post
+ff_0:järele
+ff_1:ADP_AdpType=Post
+ff_4:NOUN_Case=Gen|Number=Sing
+ff_9:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_14:kui
+ff_17:NOUN_Case=Gen|Number=Sing
+ff_0:teise
+ff_1:DET_Case=Gen|Number=Sing|PronType=Ind
+ff_6:teise
+ff_7:DET_Case=Gen|Number=Sing|PronType=Ind
+ff_8:teise
+ff_9:DET_Case=Gen|Number=Sing|PronType=Ind
+ff_0:naise
+ff_4:NOUN_Case=All|Number=Sing
+ff_10:ja
+ff_13:NOUN_Case=All|Number=Sing
+ff_19:NOUN_Case=Gen|Number=Sing
+ff_21:NOUN_Case=Gen|Number=Sing
+ff_1:NOUN_Case=All|Number=Sing
+ff_6:naise
+ff_8:naise
+ff_9:NOUN_Case=All|Number=Sing
+ff_15:NOUN_Case=Gen|Number=Sing
+ff_1:ADJ_Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_9:ADJ_Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_15:ADJ_Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_16:,
+ff_0:paar
+ff_1:ADJ_Case=Par|Degree=Pos|Number=Sing
+ff_9:ADJ_Case=Par|Degree=Pos|Number=Sing
+ff_14:paar
+ff_15:NUM_Case=Nom|Number=Sing|NumForm=Letter|NumType=Card
+ff_16:paar
+ff_17:NUM_Case=Nom|Number=Sing|NumForm=Letter|NumType=Card
+ff_11:PROPN_Case=Ill|Number=Sing
+ff_13:PROPN_Case=Ill|Number=Sing
+ff_1:NOUN_Case=Nom|Number=Plur
+ff_9:PROPN_Case=Add|Number=Sing
+ff_11:NOUN_Case=Ela|Number=Sing
+ff_13:NOUN_Case=Ela|Number=Sing
+ff_15:PROPN_Case=Add|Number=Sing
+ff_17:PROPN_Case=Gen|Number=Sing
+ff_1:PROPN_Case=Add|Number=Sing
+ff_7:PROPN_Case=Ill|Number=Sing
+ff_9:PROPN_Case=Ill|Number=Sing
+ff_0:või
+ff_4:PROPN_Case=Ill|Number=Sing
+ff_1:PROPN_Case=Ill|Number=Sing
+ff_4:PROPN_Case=Add|Number=Sing
+ff_6:või
+ff_8:või
+ff_7:NOUN_Case=Ela|Number=Sing
+ff_9:NOUN_Case=Ela|Number=Sing
+ff_0:nende
+ff_1:PRON_Case=Gen|Number=Plur|Person=3|PronType=Prs
+ff_4:NOUN_Case=Ela|Number=Sing
+ff_1:ADJ_Case=Ela|Degree=Pos|Number=Sing
+ff_1:NOUN_Case=Ela|Number=Sing
+ff_4:NOUN_Case=Tra|Number=Sing
+ff_6:nende
+ff_7:PRON_Case=Gen|Number=Plur|Person=3|PronType=Prs
+ff_9:ADJ_Case=Ela|Degree=Pos|Number=Sing
+ff_15:ADJ_Case=Ela|Degree=Pos|Number=Sing
+ff_16:nende
+ff_17:PRON_Case=Gen|Number=Plur|Person=3|PronType=Prs
+ff_4:VERB_Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_1:NOUN_Case=Ill|Number=Sing
+ff_1:PRON_Case=Par|Number=Sing|PronType=Int
+ff_1:PRON_Case=Ade|Number=Sing|PronType=Dem
+ff_7:PRON_Case=Ade|Number=Sing|PronType=Dem
+ff_9:PRON_Case=Ade|Number=Sing|PronType=Dem
+ff_4:PROPN_Case=Ela|Number=Sing
+ff_1:PROPN_Case=Ela|Number=Sing
+ff_0:kes
+ff_1:PRON_Case=Nom|Number=Sing|PronType=Int
+ff_6:kes
+ff_7:PRON_Case=Nom|Number=Sing|PronType=Int
+ff_0:nii
+ff_4:ADJ_Case=Par|Degree=Pos|Number=Plur
+ff_11:ADJ_Case=Par|Degree=Pos|Number=Plur
+ff_13:ADJ_Case=Par|Degree=Pos|Number=Plur
+ff_1:ADJ_Case=Par|Degree=Pos|Number=Plur
+ff_6:nii
+ff_8:nii
+ff_11:NOUN_Case=Par|Number=Plur
+ff_13:NOUN_Case=Par|Number=Plur
+ff_7:ADJ_Case=Par|Degree=Pos|Number=Plur
+ff_9:ADJ_Case=Par|Degree=Pos|Number=Plur
+ff_7:NOUN_Case=Par|Number=Plur
+ff_0:siis
+ff_1:DET_Case=Tra|Number=Sing|PronType=Ind
+ff_7:DET_Case=Tra|Number=Sing|PronType=Ind
+ff_9:DET_Case=Tra|Number=Sing|PronType=Ind
+ff_16:kui
+ff_17:SCONJ__
+ff_1:PRON_Case=Gen|Number=Sing|Person=3|PronType=Prs
+ff_11:NOUN_Case=Nom|Number=Sing
+ff_19:NOUN_Case=All|Number=Sing
+ff_21:NOUN_Case=All|Number=Sing
+ff_7:PRON_Case=Gen|Number=Sing|Person=3|PronType=Prs
+ff_9:PRON_Case=Gen|Number=Sing|Person=3|PronType=Prs
+ff_11:VERB_VerbForm=Inf
+ff_7:VERB_VerbForm=Inf
+ff_0:see
+ff_6:see
+ff_9:NOUN_Case=Ill|Number=Sing
+ff_15:NOUN_Case=Ill|Number=Sing
+ff_16:see
+ff_8:all
+ff_14:all
+ff_15:ADP_AdpType=Post
+ff_16:naise
+ff_0:all
+ff_1:VERB_Connegative=Yes|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act
+ff_8:teha
+ff_16:ei
+ff_17:AUX_Mood=Ind|Polarity=Neg|VerbForm=Fin
+ff_0:seda
+ff_1:PRON_Case=Par|Number=Sing|PronType=Dem
+ff_3:teha
+ff_0:teha
+ff_6:seda
+ff_7:PRON_Case=Par|Number=Sing|PronType=Dem
+ff_8:seda
+ff_9:PRON_Case=Par|Number=Sing|PronType=Dem
+ff_3:polnud
+ff_4:VERB_Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act
+ff_1:PROPN_Case=Ade|Number=Sing
+ff_0:oma
+ff_1:PRON_Case=Gen|Number=Sing|Poss=Yes|PronType=Prs
+ff_6:oma
+ff_7:PRON_Case=Gen|Number=Sing|Poss=Yes|PronType=Prs
+ff_8:oma
+ff_9:PRON_Case=Gen|Number=Sing|Poss=Yes|PronType=Prs
+ff_0:lihtsalt
+ff_4:VERB_VerbForm=Conv
+ff_11:VERB_VerbForm=Conv
+ff_19:PROPN_Case=Nom|Number=Sing
+ff_21:NOUN_Case=Par|Number=Sing
+ff_1:VERB_VerbForm=Conv
+ff_7:NOUN_Case=Par|Number=Sing
+ff_1:NUM_Case=Par|Number=Sing|NumForm=Letter|NumType=Card
+ff_1:ADJ_Case=Par|Degree=Sup|Number=Sing
+ff_7:NUM_Case=Par|Number=Sing|NumForm=Letter|NumType=Card
+ff_9:ADJ_Case=Par|Degree=Sup|Number=Sing
+ff_15:ADJ_Case=Par|Degree=Sup|Number=Sing
+ff_17:NUM_Case=Par|Number=Sing|NumForm=Letter|NumType=Card
+ff_1:PRON_Case=Nom|Number=Sing|Poss=Yes|PronType=Prs
+ff_4:NUM_Case=Nom|Number=Sing|NumForm=Digit|NumType=Card
+ff_4:NUM_NumForm=Digit|NumType=Card
+ff_4:ADP_AdpType=Post
+ff_5:ADP
+ff_12:selle
+ff_13:PRON_Case=Gen|Number=Sing|PronType=Dem
+ff_18:selle
+ff_19:PRON_Case=Gen|Number=Sing|PronType=Dem
+ff_20:,
+ff_21:PUNCT__
+ff_0:selle
+ff_1:PRON_Case=Gen|Number=Sing|PronType=Dem
+ff_3:selle
+ff_4:PRON_Case=Gen|Number=Sing|PronType=Dem
+ff_11:ADV__
+ff_13:ADV__
+ff_1:NUM_NumForm=Digit|NumType=Card
+ff_8:selle
+ff_9:PRON_Case=Gen|Number=Sing|PronType=Dem
+ff_14:selle
+ff_15:PRON_Case=Gen|Number=Sing|PronType=Dem
+ff_1:PROPN_Case=Nom|Number=Plur
+ff_8:eest
+ff_14:eest
+ff_17:DET_Case=Gen|Number=Sing|PronType=Ind
+ff_0:eest
+ff_1:NOUN_Case=Abl|Number=Sing
+ff_1:NUM_Case=Gen|Number=Sing|NumForm=Letter|NumType=Card
+ff_4:NUM_Case=Gen|Number=Sing|NumForm=Letter|NumType=Card
+ff_11:PROPN_Case=Nom|Number=Sing
+ff_18:oli
+ff_19:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_21:NUM_Case=Gen|Number=Sing|NumForm=Letter|NumType=Card
+ff_7:NUM_Case=Gen|Number=Sing|NumForm=Letter|NumType=Card
+ff_9:NUM_Case=Gen|Number=Sing|NumForm=Letter|NumType=Card
+ff_0:talle
+ff_1:PRON_Case=All|Number=Sing|Person=3|PronType=Prs
+ff_0:kõik
+ff_1:PRON_Case=Nom|Number=Sing|PronType=Tot
+ff_7:ADJ_Case=Nom|Degree=Pos|Number=Sing
+ff_9:ADJ_Case=Nom|Degree=Pos|Number=Sing
+ff_3:kõik
+ff_4:PRON_Case=Nom|Number=Sing|PronType=Tot
+ff_0:on
+ff_1:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_16:on
+ff_17:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_11:PRON_Case=Nom|Number=Sing|Person=3|PronType=Prs
+ff_21:ADV__
+ff_4:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_1:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_15:NOUN_Case=Nom|Number=Sing
+ff_17:NOUN_Case=Nom|Number=Sing
+ff_8:ta
+ff_9:PRON_Case=Nom|Number=Sing|Person=3|PronType=Prs
+ff_10:kohale
+ff_11:ADP_AdpType=Post
+ff_12:kohale
+ff_13:ADP_AdpType=Post
+ff_6:kohale
+ff_8:kohale
+ff_0:kohale
+ff_8:üles
+ff_17:ADJ_Case=Gen|Degree=Pos|Number=Sing
+ff_0:üles
+ff_1:NOUN_Case=Add|Number=Sing
+ff_14:!
+ff_16:!
+ff_1:DET_Case=Nom|Number=Sing|PronType=Ind
+ff_10:mees
+ff_19:VERB_VerbForm=Conv
+ff_21:VERB_VerbForm=Conv
+ff_11:DET_Case=Nom|Number=Sing|PronType=Ind
+ff_13:NOUN_Case=Com|Number=Sing
+ff_7:DET_Case=Nom|Number=Sing|PronType=Ind
+ff_9:NOUN_Case=Com|Number=Sing
+ff_0:vastu
+ff_6:vastu
+ff_8:vastu
+ff_19:NOUN_Case=Nom|Number=Sing
+ff_6:ta
+ff_0:peaks
+ff_1:AUX_Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_1:AUX_Case=Ill|VerbForm=Sup|Voice=Act
+ff_1:NOUN_Case=Ill|Number=Plur
+ff_3:tuul
+ff_0:tuul
+ff_1:AUX_Mood=Qot|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_3:tundis
+ff_3:nüüd
+ff_18:nüüd
+ff_19:ADV__
+ff_21:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_0:nüüd
+ff_11:ADJ_Case=Nom|Degree=Pos|Number=Sing
+ff_13:ADJ_Case=Nom|Degree=Pos|Number=Sing
+ff_0:kuidas
+ff_14:kuidas
+ff_17:NOUN_Case=Add|Number=Sing
+ff_4:ADJ_Case=Ess|Degree=Pos|Number=Sing
+ff_1:ADJ_Case=Ess|Degree=Pos|Number=Sing
+ff_6:.
+ff_10:.
+ff_7:NOUN_Case=Nom|Number=Sing
+ff_3:olid
+ff_4:AUX_Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_13:NOUN_Case=Nom|Number=Sing
+ff_4:ADJ_Case=Ine|Degree=Pos|Number=Sing
+ff_13:NOUN_Case=Ade|Number=Plur
+ff_21:NOUN_Case=Ine|Number=Sing
+ff_16:nagu
+ff_4:NOUN_Case=Ade|Number=Plur
+ff_1:DET_Case=Ade|Number=Plur|PronType=Dem
+ff_1:ADJ_Case=Ade|Degree=Pos|Number=Plur
+ff_1:NOUN_Case=Ade|Number=Plur
+ff_15:DET_Case=Ade|Number=Plur|PronType=Dem
+ff_17:ADJ_Case=Ade|Degree=Pos|Number=Plur
+ff_4:VERB_Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_0:sa
+ff_1:PRON_Case=Nom|Number=Sing|Person=2|PronType=Prs
+ff_4:VERB_Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+ff_1:VERB_Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+ff_0:ma
+ff_1:PRON_Case=Nom|Number=Sing|Person=1|PronType=Prs
+ff_0:vist
+ff_6:vist
+ff_14:ajal
+ff_16:vist
+ff_0:küsis
+ff_17:PROPN_Case=Nom|Number=Sing
+ff_3:küsis
+ff_4:ADJ_Degree=Pos
+ff_15:NOUN_Case=Par|Number=Plur
+ff_16:ja
+ff_8:,
+ff_4:VERB_Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_0:veel
+ff_4:VERB_Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_4:VERB_Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_4:VERB_Case=Ill|VerbForm=Sup|Voice=Act
+ff_1:VERB_Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_9:VERB_Case=Ill|VerbForm=Sup|Voice=Act
+ff_14:sa
+ff_15:PRON_Case=Nom|Number=Sing|Person=2|PronType=Prs
+ff_16:jälle
+ff_0:jälle
+ff_1:ADJ_Case=Tra|Degree=Pos|Number=Sing
+ff_1:VERB_Case=Ill|VerbForm=Sup|Voice=Act
+ff_7:ADJ_Case=Tra|Degree=Pos|Number=Sing
+ff_9:ADJ_Case=Tra|Degree=Pos|Number=Sing
+ff_14:nii
+ff_3:nii
+ff_9:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_18:teda
+ff_19:PRON_Case=Par|Number=Sing|Person=3|PronType=Prs
+ff_0:teda
+ff_1:PRON_Case=Par|Number=Sing|Person=3|PronType=Prs
+ff_4:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_1:PRON_Case=Gen|Number=Sing|PronType=Rcp|Reflex=Yes
+ff_7:PRON_Case=Gen|Number=Sing|PronType=Rcp|Reflex=Yes
+ff_9:PRON_Case=Gen|Number=Sing|PronType=Rcp|Reflex=Yes
+ff_1:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_11:NOUN_Case=Par|Number=Sing
+ff_4:VERB_Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act
+ff_0:ikka
+ff_1:PRON_Case=Com|Number=Sing|PronType=Dem
+ff_17:PROPN_Case=All|Number=Sing
+ff_8:see
+ff_0:tema
+ff_6:ise
+ff_7:PRON_Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes
+ff_8:ise
+ff_9:PRON_Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes
+ff_0:ise
+ff_1:PRON_Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes
+ff_3:tema
+ff_4:PRON_Case=Nom|Number=Sing|Person=3|PronType=Prs
+ff_6:selle
+ff_7:PRON_Case=Gen|Number=Sing|PronType=Dem
+ff_0:...
+ff_12:!
+ff_19:NOUN_Case=Ade|Number=Sing
+ff_20:kõik
+ff_21:PRON_Case=Nom|Number=Sing|PronType=Tot
+ff_9:VERB_Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_17:VERB_Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_3:poiss
+ff_0:poiss
+ff_0:mina
+ff_1:VERB_Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_9:NOUN_Case=Abl|Number=Sing
+ff_14:mina
+ff_15:PRON_Case=Nom|Number=Sing|Person=1|PronType=Prs
+ff_17:NOUN_Case=Tra|Number=Sing
+ff_1:NUM_Case=Tra|Number=Sing|NumForm=Letter|NumType=Card
+ff_7:NUM_Case=Tra|Number=Sing|NumForm=Letter|NumType=Card
+ff_9:NUM_Case=Tra|Number=Sing|NumForm=Letter|NumType=Card
+ff_4:VERB_Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_0:mitte
+ff_3:keegi
+ff_4:PRON_Case=Nom|Number=Sing|PronType=Ind
+ff_0:keegi
+ff_1:PRON_Case=Nom|Number=Sing|PronType=Ind
+ff_6:mitte
+ff_7:ADV_Polarity=Neg
+ff_8:mitte
+ff_9:ADV_Polarity=Neg
+ff_1:VERB_Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_8:mind
+ff_9:PRON_Case=Par|Number=Sing|Person=1|PronType=Prs
+ff_14:keegi
+ff_15:PRON_Case=Nom|Number=Sing|PronType=Ind
+ff_0:mind
+ff_1:PRON_Case=Par|Number=Sing|Person=1|PronType=Prs
+ff_4:PROPN_Case=Ine|Number=Sing
+ff_0:olen
+ff_1:AUX_Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_1:PROPN_Case=Ine|Number=Sing
+ff_8:olen
+ff_9:AUX_Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_16:et
+ff_0:su
+ff_1:PRON_Case=Gen|Number=Sing|Person=2|PronType=Prs
+ff_0:ka
+ff_6:ka
+ff_8:ka
+ff_0:mu
+ff_1:PRON_Case=Gen|Number=Sing|Person=1|PronType=Prs
+ff_8:mu
+ff_9:PRON_Case=Gen|Number=Sing|Person=1|PronType=Prs
+ff_1:PRON_Case=Nom|Number=Plur|Person=1|PronType=Prs
+ff_4:VERB_Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+ff_3:juba
+ff_12:juba
+ff_18:juba
+ff_11:NUM_Case=Gen|Number=Sing|NumForm=Letter|NumType=Card
+ff_12:eest
+ff_18:eest
+ff_19:ADP_AdpType=Post
+ff_6:ei
+ff_8:ei
+ff_14:juba
+ff_17:NUM_Case=Gen|Number=Sing|NumForm=Letter|NumType=Card
+ff_0:sinna
+ff_6:sinna
+ff_15:ADJ_Case=Gen|Degree=Pos|Number=Sing
+ff_16:sinna
+ff_0:ühe
+ff_6:ühe
+ff_16:ühe
+ff_0:enne
+ff_0:sulle
+ff_1:PRON_Case=All|Number=Sing|Person=2|PronType=Prs
+ff_1:PRON_Case=Par|Number=Sing|Person=2|PronType=Prs
+ff_3:mis
+ff_6:su
+ff_7:PRON_Case=Gen|Number=Sing|Person=2|PronType=Prs
+ff_8:su
+ff_9:PRON_Case=Gen|Number=Sing|Person=2|PronType=Prs
+ff_0:oleks
+ff_17:NOUN_Case=Ine|Number=Sing
+ff_1:AUX_Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_4:VERB_Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_1:VERB_Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_9:VERB_Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+ff_14:vist
+ff_13:PRON_Case=Ade|Number=Sing|Person=2|PronType=Prs
+ff_18:ta
+ff_19:PRON_Case=Nom|Number=Sing|Person=3|PronType=Prs
+ff_20:ta
+ff_21:PRON_Case=Nom|Number=Sing|Person=3|PronType=Prs
+ff_0::
+ff_4:PRON_Case=Ade|Number=Sing|Person=2|PronType=Prs
+ff_10::
+ff_12:"
+ff_18:"
+ff_19:PUNCT__
+ff_20:?
+ff_9:PRON_Case=Nom|Number=Sing|PronType=Int
+ff_1:PRON_Case=Ade|Number=Sing|Person=2|PronType=Prs
+ff_6::
+ff_16:?
+ff_14:või
+ff_1:PRON_Case=Ela|Number=Sing|PronType=Ind
+ff_7:ADJ_Case=Ela|Number=Sing|PronType=Ind
+ff_9:ADJ_Case=Ela|Number=Sing|PronType=Ind
+ff_1:ADJ_Case=Ela|Number=Sing|PronType=Ind
+ff_4:PRON_Case=Ela|Number=Sing|PronType=Ind
+ff_3:tuleb
+ff_1:PRON_Case=All|Number=Sing|Person=1|PronType=Prs
+ff_0:tuleb
+ff_9:VERB_Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act
+ff_15:DET_Case=Gen|Number=Sing|PronType=Rel
+ff_4:NOUN_Case=Abl|Number=Sing
+ff_11:NOUN_Case=Com|Number=Sing
+ff_13:NOUN_Case=Abl|Number=Sing
+ff_18:sa
+ff_19:PRON_Case=Nom|Number=Sing|Person=2|PronType=Prs
+ff_1:VERB_Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act
+ff_7:NOUN_Case=Com|Number=Sing
+ff_3:mina
+ff_4:PRON_Case=Nom|Number=Sing|Person=1|PronType=Prs
+ff_14:ma
+ff_16:korda
+ff_17:NOUN_Case=Par|Number=Sing
+ff_9:ADJ_Case=Par|Number=Sing|NumForm=Letter|NumType=Ord
+ff_4:PRON_Case=Ade|Number=Plur|Person=3|PronType=Prs
+ff_16:oma
+ff_17:PRON_Case=Gen|Number=Sing|Poss=Yes|PronType=Prs
+ff_4:PRON_Case=Ade|Number=Sing|PronType=Dem
+ff_11:PRON_Case=Ade|Number=Sing|PronType=Dem
+ff_13:PRON_Case=Ade|Number=Sing|PronType=Dem
+ff_12:ja
+ff_13:CCONJ__
+ff_15:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_0:üle
+ff_8:üle
+ff_14:üle
+ff_16:seda
+ff_17:PRON_Case=Par|Number=Sing|PronType=Dem
+ff_17:PRON_Case=Gen|Number=Sing|PronType=Dem
+ff_11:NOUN_Case=Gen|Number=Sing
+ff_6:veel
+ff_8:veel
+ff_1:ADJ_Case=Par|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_9:ADJ_Case=Par|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_14:viis
+ff_16:viis
+ff_11:NUM_NumForm=Digit|NumType=Card
+ff_13:NUM_NumForm=Digit|NumType=Card
+ff_7:NUM_NumForm=Digit|NumType=Card
+ff_9:NUM_NumForm=Digit|NumType=Card
+ff_15:ADJ_Case=Par|Degree=Pos|Number=Sing
+ff_17:ADJ_Case=Par|Degree=Pos|Number=Sing
+ff_17:PRON_Case=Nom|Number=Sing|PronType=Ind
+ff_1:CCONJ_Polarity=Neg
+ff_6:ega
+ff_7:CCONJ_Polarity=Neg
+ff_8:ega
+ff_9:CCONJ_Polarity=Neg
+ff_1:PRON_Case=Ine|Number=Sing|PronType=Dem
+ff_15:PRON_Case=Ine|Number=Sing|PronType=Dem
+ff_17:PRON_Case=Ine|Number=Sing|PronType=Dem
+ff_19:NOUN_Case=Nom|Number=Plur
+ff_21:NOUN_Case=Nom|Number=Plur
+ff_7:NOUN_Case=Gen|Number=Plur
+ff_9:NOUN_Case=Gen|Number=Plur
+ff_0:vene
+ff_4:NOUN_Case=Gen|Number=Plur
+ff_11:NOUN_Case=Gen|Number=Plur
+ff_13:NOUN_Case=Gen|Number=Plur
+ff_6:vene
+ff_8:vene
+ff_4:ADJ_Case=Par|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_10:paar
+ff_12:liikusid
+ff_13:VERB_Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act
+ff_19:ADJ_Case=Par|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_21:ADJ_Case=Par|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_7:ADJ_Case=Ess|Degree=Pos|Number=Sing
+ff_9:ADJ_Case=Ess|Degree=Pos|Number=Sing
+ff_6:paar
+ff_8:liikusid
+ff_15:ADJ_Case=Par|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_17:ADJ_Case=Par|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_3:liikusid
+ff_1:PRON_Case=Nom|Number=Plur|PronType=Rel
+ff_0:liikusid
+ff_14:kes
+ff_15:PRON_Case=Nom|Number=Plur|PronType=Rel
+ff_0:vaid
+ff_6:vaid
+ff_8:vaid
+ff_3:hakkas
+ff_18:,
+ff_21:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_0:kõige
+ff_4:ADJ_Case=Par|Degree=Cmp|Number=Sing
+ff_11:ADP_AdpType=Prep
+ff_13:ADJ_Case=Par|Degree=Cmp|Number=Sing
+ff_19:ADJ_Case=Par|Degree=Cmp|Number=Sing
+ff_21:ADP_AdpType=Prep
+ff_1:ADJ_Case=Par|Degree=Cmp|Number=Sing
+ff_6:kõige
+ff_8:kõige
+ff_9:ADJ_Case=Par|Degree=Cmp|Number=Sing
+ff_15:ADJ_Case=Par|Degree=Cmp|Number=Sing
+ff_17:ADP_AdpType=Prep
+ff_1:PROPN_Case=Com|Number=Sing
+ff_8:ühe
+ff_6:ette
+ff_8:ette
+ff_0:ette
+ff_9:NOUN_Case=Nom|Number=Plur
+ff_15:NOUN_Case=Gen|Number=Plur
+ff_17:NOUN_Case=Gen|Number=Plur
+ff_4:ADJ_Degree=Pos|Tense=Past|VerbForm=Part|Voice=Pass
+ff_11:SCONJ__
+ff_13:ADJ_Degree=Pos|Tense=Past|VerbForm=Part|Voice=Pass
+ff_19:ADJ_Degree=Pos|Tense=Past|VerbForm=Part|Voice=Pass
+ff_21:SCONJ__
+ff_1:ADJ_Degree=Pos|Tense=Past|VerbForm=Part|Voice=Pass
+ff_7:NOUN_Case=All|Number=Sing
+ff_9:ADJ_Degree=Pos|Tense=Past|VerbForm=Part|Voice=Pass
+ff_15:ADJ_Degree=Pos|Tense=Past|VerbForm=Part|Voice=Pass
+ff_6:tema
+ff_16:tema
+ff_17:PRON_Case=Gen|Number=Sing|Person=3|PronType=Prs
+ff_3:jäi
+ff_6:vahele
+ff_8:vahele
+ff_0:vahele
+ff_0:ainult
+ff_6:ainult
+ff_8:ainult
+ff_9:VERB_VerbForm=Conv
+ff_15:VERB_VerbForm=Conv
+ff_3:käis
+ff_0:vahel
+ff_6:kui
+ff_15:PROPN_Case=Nom|Number=Sing
+ff_0:saa
+ff_1:AUX_Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_0:mul
+ff_1:PRON_Case=Ade|Number=Sing|Person=1|PronType=Prs
+ff_14:mul
+ff_15:PRON_Case=Ade|Number=Sing|Person=1|PronType=Prs
+ff_0:inimesed
+ff_8:ju
+ff_14:inimesed
+ff_15:NOUN_Case=Nom|Number=Plur
+ff_16:inimesed
+ff_17:NOUN_Case=Nom|Number=Plur
+ff_14:mitte
+ff_3:mitte
+ff_4:ADV_Polarity=Neg
+ff_6:aga
+ff_8:aga
+ff_16:polnud
+ff_17:AUX_Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act
+ff_0:polnud
+ff_1:AUX_Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act
+ff_1:ADJ_Case=Nom|Number=Sing
+ff_1:PRON_Case=All|Number=Sing|PronType=Prs|Reflex=Yes
+ff_3:tegi
+ff_17:PRON_Case=All|Number=Sing|PronType=Prs|Reflex=Yes
+ff_0:-
+ff_6:-
+ff_8:välja
+ff_17:NOUN_Case=Ela|Number=Sing
+ff_7:ADJ_Case=Ela|Degree=Pos|Number=Sing
+ff_17:ADJ_Case=Ela|Degree=Pos|Number=Sing
+ff_4:ADJ_Case=Ela|Degree=Pos|Number=Sing
+ff_10:oma
+ff_11:PRON_Case=Gen|Number=Sing|Poss=Yes|PronType=Prs
+ff_13:ADJ_Case=Ela|Degree=Pos|Number=Sing
+ff_19:ADJ_Case=Ela|Degree=Pos|Number=Sing
+ff_20:oma
+ff_21:PRON_Case=Gen|Number=Sing|Poss=Yes|PronType=Prs
+ff_0:välja
+ff_4:NOUN_Case=Ter|Number=Sing
+ff_1:ADV_PronType=Rel
+ff_3:ukse
+ff_0:ukse
+ff_8:ukse
+ff_15:ADV_PronType=Rel
+ff_17:VERB_VerbForm=Conv
+ff_1:NUM_Case=Ade|Number=Plur|NumForm=Letter|NumType=Card
+ff_1:ADV_PronType=Int
+ff_3:üks
+ff_4:PRON_Case=Ade|Number=Sing|Person=3|PronType=Prs
+ff_1:AUX_Connegative=Yes|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act
+ff_0:üks
+ff_7:ADV_PronType=Int
+ff_9:ADV_PronType=Int
+ff_1:AUX_VerbForm=Inf
+ff_9:VERB_Connegative=Yes|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act
+ff_14:nad
+ff_15:PRON_Case=Nom|Number=Plur|Person=3|PronType=Prs
+ff_13:PROPN_Case=Nom|Number=Sing
+ff_0:(
+ff_6:(
+ff_8:)
+ff_0:)
+ff_6:...
+ff_16:...
+ff_1:NOUN_Case=Ine|Number=Plur
+ff_0:isegi
+ff_4:ADJ_Case=Nom|Degree=Cmp|Number=Sing
+ff_1:ADJ_Case=Nom|Degree=Cmp|Number=Sing
+ff_6:isegi
+ff_3:telefoni
+ff_0:telefoni
+ff_8:isegi
+ff_0:saab
+ff_4:NOUN_Case=Abe|Number=Sing
+ff_13:NOUN_Case=Abe|Number=Sing
+ff_20:saab
+ff_21:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_1:NOUN_Case=Abe|Number=Sing
+ff_9:NOUN_Case=Abe|Number=Sing
+ff_16:saab
+ff_1:ADJ_Degree=Pos
+ff_9:ADJ_Degree=Pos
+ff_15:ADJ_Degree=Pos
+ff_7:ADJ_Degree=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_3:isa
+ff_0:isa
+ff_11:ADJ_Degree=Pos|Tense=Past|VerbForm=Part|Voice=Pass
+ff_21:ADJ_Degree=Pos|Tense=Past|VerbForm=Part|Voice=Pass
+ff_7:PROPN_Case=Ine|Number=Sing
+ff_9:PROPN_Case=Ine|Number=Sing
+ff_7:ADJ_Degree=Pos|Tense=Past|VerbForm=Part|Voice=Pass
+ff_17:ADJ_Degree=Pos|Tense=Past|VerbForm=Part|Voice=Pass
+ff_3:sai
+ff_7:ADJ_Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_15:PROPN_Case=Gen|Number=Sing
+ff_17:ADJ_Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_0:seal
+ff_1:PRON_Case=Nom|Number=Plur|PronType=Tot
+ff_6:naine
+ff_8:naine
+ff_0:naine
+ff_4:PRON_Case=Nom|Number=Plur|PronType=Tot
+ff_7:NOUN_Case=Nom|Number=Plur
+ff_8:ema
+ff_14:ema
+ff_3:naine
+ff_3:ema
+ff_0:ema
+ff_1:ADJ_Case=Ade|Number=Sing|NumForm=Letter|NumType=Ord
+ff_21:VERB_Case=Ill|VerbForm=Sup|Voice=Act
+ff_3:läks
+ff_7:ADJ_Case=Ade|Number=Sing|NumForm=Letter|NumType=Ord
+ff_9:ADJ_Case=Ade|Number=Sing|NumForm=Letter|NumType=Ord
+ff_3:seisis
+ff_0:tegi
+ff_3:vaatas
+ff_0:vaatas
+ff_15:NOUN_Case=All|Number=Sing
+ff_3:maja
+ff_0:maja
+ff_16:selle
+ff_11:PRON_Case=Gen|Number=Sing|PronType=Prs|Reflex=Yes
+ff_13:PRON_Case=Gen|Number=Sing|PronType=Prs|Reflex=Yes
+ff_7:PRON_Case=Gen|Number=Sing|PronType=Prs|Reflex=Yes
+ff_9:PRON_Case=Gen|Number=Sing|PronType=Prs|Reflex=Yes
+ff_1:PRON_Case=Gen|Number=Sing|PronType=Prs|Reflex=Yes
+ff_4:PRON_Case=Gen|Number=Sing|Person=3|PronType=Prs
+ff_4:ADJ_Case=Gen|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_8:tema
+ff_11:ADJ_Case=Gen|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_13:ADJ_Case=Gen|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_1:ADJ_Case=Gen|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_7:ADJ_Case=Gen|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_9:ADJ_Case=Gen|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_16:aga
+ff_13:NOUN_Case=Gen|Number=Sing
+ff_3:tal
+ff_12:nagu
+ff_13:SCONJ__
+ff_14:nagu
+ff_18:nagu
+ff_19:SCONJ__
+ff_13:ADJ_Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_21:NOUN_Case=Nom|Number=Sing
+ff_4:ADJ_Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_1:DET_Case=Ine|Number=Sing|PronType=Ind
+ff_7:DET_Case=Ine|Number=Sing|PronType=Ind
+ff_9:DET_Case=Ine|Number=Sing|PronType=Ind
+ff_14:isegi
+ff_16:isegi
+ff_4:ADJ_Case=Nom|Degree=Pos|Number=Plur
+ff_3:midagi
+ff_4:PRON_Case=Par|Number=Sing|PronType=Ind
+ff_0:midagi
+ff_1:PRON_Case=Par|Number=Sing|PronType=Ind
+ff_17:ADJ_Case=Par|Number=Sing|PronType=Ind
+ff_1:ADJ_Case=Par|Number=Sing|PronType=Ind
+ff_8:kui
+ff_0:pidi
+ff_15:ADJ_Case=Ade|Degree=Pos|Number=Sing
+ff_4:VERB_Case=Ine|VerbForm=Sup|Voice=Act
+ff_1:VERB_Case=Ine|VerbForm=Sup|Voice=Act
+ff_6:lihtsalt
+ff_8:lihtsalt
+ff_0:kööki
+ff_15:NOUN_Case=Ela|Number=Sing
+ff_11:NOUN_Case=Ine|Number=Sing
+ff_1:DET_Case=Ela|Number=Sing|PronType=Ind
+ff_7:DET_Case=Ela|Number=Sing|PronType=Ind
+ff_9:DET_Case=Ela|Number=Sing|PronType=Ind
+ff_0:vastas
+ff_3:vastas
+ff_3:ole
+ff_4:VERB_Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_13:NOUN_Case=Nom|Number=Plur
+ff_0:minu
+ff_3:minu
+ff_4:PRON_Case=Gen|Number=Sing|Person=1|PronType=Prs
+ff_0:praegu
+ff_7:PRON_Case=Nom|Number=Sing|Person=3|PronType=Prs
+ff_1:DET_Case=All|Number=Sing|PronType=Ind
+ff_7:DET_Case=All|Number=Sing|PronType=Ind
+ff_14:vene
+ff_15:ADJ__
+ff_17:DET_Case=All|Number=Sing|PronType=Ind
+ff_10:tuleb
+ff_11:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_13:VERB_Case=Ill|VerbForm=Sup|Voice=Act
+ff_19:VERB_Case=Ill|VerbForm=Sup|Voice=Act
+ff_20:tuleb
+ff_21:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_6:tuleb
+ff_7:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_15:VERB_Case=Ill|VerbForm=Sup|Voice=Act
+ff_16:tuleb
+ff_17:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_3:on
+ff_4:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_17:NOUN_Case=Ade|Number=Sing
+ff_14:tema
+ff_16:nüüd
+ff_1:NOUN_Case=Ela|Number=Plur
+ff_0:mööda
+ff_9:VERB_Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_15:NOUN_Case=Ade|Number=Sing
+ff_3:veel
+ff_14:(
+ff_14:kohe
+ff_16:kohe
+ff_0:kohe
+ff_8:ära
+ff_9:NOUN_Case=Add|Number=Sing
+ff_15:NOUN_Case=Add|Number=Sing
+ff_3:päeva
+ff_0:päeva
+ff_0:siin
+ff_6:siin
+ff_16:siin
+ff_0:tagasi
+ff_8:tagasi
+ff_14:tagasi
+ff_7:NOUN_Case=Ter|Number=Sing
+ff_9:NOUN_Case=Ter|Number=Sing
+ff_1:NOUN_Case=Ter|Number=Sing
+ff_7:ADJ_Case=Nom|Degree=Pos|Number=Plur
+ff_9:ADJ_Case=Nom|Degree=Pos|Number=Plur
+ff_4:PRON_Case=Ade|Number=Sing|Person=1|PronType=Prs
+ff_0:ütles
+ff_8:viimaks
+ff_14:viimaks
+ff_3:ütles
+ff_0:viimaks
+ff_1:PRON_Case=Com|Number=Sing|Person=2|PronType=Prs
+ff_0:oled
+ff_1:AUX_Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_3:kuidas
+ff_4:ADV_PronType=Int
+ff_1:PRON_Case=Par|Number=Sing|PronType=Tot
+ff_0:miks
+ff_9:PRON_Case=Par|Number=Sing|Person=2|PronType=Prs
+ff_16:naine
+ff_4:VERB_Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_8:on
+ff_9:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_3:seal
+ff_16:vaid
+ff_16:olen
+ff_17:AUX_Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_0:mis
+ff_1:PRON_Case=Nom|Number=Sing|PronType=Rel
+ff_6:on
+ff_7:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_8:elu
+ff_14:elu
+ff_4:PRON_Case=Nom|Number=Sing|PronType=Rel
+ff_3:elu
+ff_0:elu
+ff_1:PROPN_Case=Par|Number=Sing
+ff_4:PROPN_Case=Ade|Number=Sing
+ff_7:ADJ_Case=Par|Degree=Pos|Number=Sing
+ff_0:natuke
+ff_6:natuke
+ff_8:natuke
+ff_0:kaks
+ff_6:kaks
+ff_8:kaks
+ff_3:siis
+ff_10:siis
+ff_21:VERB_Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_1:VERB_Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_9:PROPN_Case=Par|Number=Sing
+ff_4:VERB_Tense=Past|VerbForm=Part|Voice=Pass
+ff_21:ADJ_Case=Tra|Degree=Cmp|Number=Sing
+ff_1:ADJ_Case=Tra|Degree=Cmp|Number=Sing
+ff_7:ADJ_Case=Tra|Degree=Cmp|Number=Sing
+ff_9:ADJ_Case=Tra|Degree=Cmp|Number=Sing
+ff_15:ADJ_Case=Tra|Degree=Cmp|Number=Sing
+ff_17:ADJ_Case=Tra|Degree=Cmp|Number=Sing
+ff_4:ADJ_Case=Tra|Degree=Cmp|Number=Sing
+ff_1:PRON_Case=Tra|Number=Sing|PronType=Prs|Reflex=Yes
+ff_6:ees
+ff_8:ees
+ff_18:talle
+ff_19:PRON_Case=All|Number=Sing|Person=3|PronType=Prs
+ff_21:VERB_Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_0:ees
+ff_10:taga
+ff_12:taga
+ff_1:VERB_Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_6:taga
+ff_8:taga
+ff_0:taga
+ff_10:"
+ff_20:"
+ff_18:siis
+ff_9:VERB_Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_15:VERB_Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_4:ADJ__
+ff_4:PROPN_Abbr=Yes
+ff_3:tuli
+ff_0:peale
+ff_17:DET_Case=Nom|Number=Sing|PronType=Ind
+ff_14:vaid
+ff_15:VERB_VerbForm=Inf
+ff_10:teha
+ff_19:VERB_VerbForm=Inf
+ff_21:VERB_VerbForm=Inf
+ff_1:ADJ_Case=Par|Number=Sing
+ff_6:teha
+ff_17:VERB_VerbForm=Inf
+ff_4:ADJ_Case=Par|Number=Sing
+ff_1:NUM_Case=Ine|Number=Sing|NumForm=Letter|NumType=Card
+ff_13:NOUN_Case=Ine|Number=Sing
+ff_19:NOUN_Case=Ine|Number=Sing
+ff_7:NUM_Case=Ine|Number=Sing|NumForm=Letter|NumType=Card
+ff_9:NUM_Case=Ine|Number=Sing|NumForm=Letter|NumType=Card
+ff_17:NOUN_Case=Par|Number=Plur
+ff_6:kõik
+ff_7:PRON_Case=Nom|Number=Plur|PronType=Tot
+ff_8:need
+ff_9:PRON_Case=Nom|Number=Plur|PronType=Dem
+ff_14:need
+ff_15:PRON_Case=Nom|Number=Plur|PronType=Dem
+ff_16:kõik
+ff_17:PRON_Case=Nom|Number=Plur|PronType=Tot
+ff_3:taga
+ff_12:,
+ff_4:PRON_Case=Ade|Number=Plur|PronType=Dem
+ff_1:PRON_Case=Ade|Number=Plur|PronType=Dem
+ff_14:oli
+ff_16:nad
+ff_17:PRON_Case=Nom|Number=Plur|Person=3|PronType=Prs
+ff_13:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_21:PRON_Case=Ade|Number=Plur|PronType=Dem
+ff_16:teda
+ff_17:PRON_Case=Par|Number=Sing|Person=3|PronType=Prs
+ff_4:NOUN_Case=Add|Number=Sing
+ff_6:enne
+ff_9:NUM_Case=Par|Number=Sing|NumForm=Letter|NumType=Card
+ff_15:NUM_Case=Par|Number=Sing|NumForm=Letter|NumType=Card
+ff_16:enne
+ff_20:-
+ff_16:-
+ff_10:ise
+ff_11:PRON_Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes
+ff_13:PRON_Case=Nom|Number=Sing|PronType=Ind
+ff_19:PRON_Case=Nom|Number=Sing|PronType=Ind
+ff_20:ise
+ff_21:PRON_Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes
+ff_9:PRON_Case=Nom|Number=Sing|PronType=Ind
+ff_16:ise
+ff_17:PRON_Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes
+ff_10:keegi
+ff_11:PRON_Case=Nom|Number=Sing|PronType=Ind
+ff_12:keegi
+ff_6:keegi
+ff_7:PRON_Case=Nom|Number=Sing|PronType=Ind
+ff_8:keegi
+ff_18:keegi
+ff_18:ja
+ff_14:ja
+ff_13:NOUN_Case=Tra|Number=Sing
+ff_19:NOUN_Case=Tra|Number=Sing
+ff_21:NOUN_Case=Par|Number=Plur
+ff_15:NOUN_Case=Tra|Number=Sing
+ff_3:aega
+ff_0:aega
+ff_6:väga
+ff_14:kohale
+ff_0:tuppa
+ff_4:VERB_Mood=Imp|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_7:PRON_Case=Nom|Number=Sing|PronType=Tot
+ff_8:kõik
+ff_9:PRON_Case=Nom|Number=Sing|PronType=Tot
+ff_4:PRON_Case=Nom|Number=Sing|PronType=Dem
+ff_0:pole
+ff_1:AUX_Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_11:NOUN_Case=All|Number=Sing
+ff_21:NOUN_Case=Ade|Number=Sing
+ff_7:NOUN_Case=Add|Number=Sing
+ff_11:PROPN_Case=Gen|Number=Sing
+ff_13:PROPN_Case=Gen|Number=Sing
+ff_14:olid
+ff_15:AUX_Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_7:PRON_Case=Par|Number=Sing|Person=3|PronType=Prs
+ff_9:PRON_Case=Par|Number=Sing|Person=3|PronType=Prs
+ff_11:PROPN_Case=Par|Number=Sing
+ff_13:PROPN_Case=Par|Number=Sing
+ff_0:enam
+ff_14:polnud
+ff_15:AUX_Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act
+ff_16:enam
+ff_7:PROPN_Case=Par|Number=Sing
+ff_4:AUX_Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act
+ff_9:AUX_VerbForm=Inf
+ff_16:nii
+ff_9:PRON_Case=Par|Number=Sing|PronType=Ind
+ff_15:PRON_Case=Par|Number=Sing|PronType=Ind
+ff_16:ega
+ff_17:CCONJ_Polarity=Neg
+ff_3:minema
+ff_0:minema
+ff_8:nüüd
+ff_6:juurde
+ff_8:juurde
+ff_0:juurde
+ff_1:DET_Case=Ade|Number=Sing|PronType=Dem
+ff_7:DET_Case=Ade|Number=Sing|PronType=Dem
+ff_9:DET_Case=Ade|Number=Sing|PronType=Dem
+ff_13:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_18:kui
+ff_17:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_10:all
+ff_12:all
+ff_15:ADJ_Case=Par|Degree=Pos|Number=Plur
+ff_17:ADJ_Case=Par|Degree=Pos|Number=Plur
+ff_6:all
+ff_3:kui
+ff_4:SCONJ__
+ff_5:SCONJ
+ff_6:siis
+ff_8:siis
+ff_12:kui
+ff_15:ADJ_Case=Ine|Degree=Pos|Number=Sing
+ff_6:ütles
+ff_7:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_8:ütles
+ff_0:just
+ff_6:just
+ff_8:just
+ff_11:NOUN_Case=Abl|Number=Sing
+ff_11:ADJ_Degree=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_7:NOUN_Case=Abl|Number=Sing
+ff_13:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_9:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_14:,
+ff_17:NOUN_Case=All|Number=Sing
+ff_12:ise
+ff_13:PRON_Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes
+ff_6:üle
+ff_1:ADJ_Case=Nom|Number=Sing|NumForm=Letter|NumType=Ord
+ff_7:ADJ_Case=Nom|Number=Sing|NumForm=Letter|NumType=Ord
+ff_9:ADJ_Case=Nom|Number=Sing|NumForm=Letter|NumType=Ord
+ff_6:tagasi
+ff_1:PRON_Case=Ade|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_14:oma
+ff_15:PRON_Case=Gen|Number=Sing|Poss=Yes|PronType=Prs
+ff_3:oled
+ff_4:AUX_Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_10:juurde
+ff_12:juurde
+ff_1:VERB_Tense=Past|VerbForm=Part|Voice=Pass
+ff_8:oled
+ff_9:AUX_Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_14:oled
+ff_15:AUX_Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_1:DET_Case=Nom|Number=Sing|PronType=Tot
+ff_21:PRON_Case=Nom|Number=Sing|PronType=Ind
+ff_7:DET_Case=Nom|Number=Sing|PronType=Tot
+ff_9:DET_Case=Nom|Number=Sing|PronType=Tot
+ff_12:tundis
+ff_8:tundis
+ff_0:tundis
+ff_9:VERB_Case=Ine|VerbForm=Sup|Voice=Act
+ff_8:minema
+ff_14:minema
+ff_15:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_11:NOUN_Case=Add|Number=Sing
+ff_1:PRON_Case=Gen|Number=Sing|PronType=Rel
+ff_9:PRON_Case=Gen|Number=Sing|PronType=Rel
+ff_15:PRON_Case=Gen|Number=Sing|PronType=Rel
+ff_14:siis
+ff_16:siis
+ff_8:midagi
+ff_4:ADJ_Case=Par|Degree=Pos|Number=Sing
+ff_8:väga
+ff_3:mehe
+ff_10:mehe
+ff_12:mehe
+ff_0:mehe
+ff_6:mehe
+ff_8:mehe
+ff_10:et
+ff_12:ta
+ff_13:PRON_Case=Nom|Number=Sing|Person=3|PronType=Prs
+ff_6:et
+ff_3:ta
+ff_6:kohe
+ff_8:kohe
+ff_6:jäi
+ff_8:jäi
+ff_1:PRON_Case=Ela|Number=Sing|Person=3|PronType=Prs
+ff_0:jäi
+ff_14:mis
+ff_15:PRON_Case=Nom|Number=Sing|PronType=Rel
+ff_16:järele
+ff_21:ADJ_Case=Gen|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_17:ADJ_Case=Gen|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_7:NOUN_Case=Ine|Number=Sing
+ff_10:nagu
+ff_20:nagu
+ff_14:vastu
+ff_16:vastu
+ff_4:ADJ_Case=Ine|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_11:ADJ_Case=Ine|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_19:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_21:ADJ_Case=Ine|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_1:ADJ_Case=Ine|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_7:ADJ_Case=Ine|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_17:ADJ_Case=Ine|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_16:välja
+ff_4:ADJ_Case=Gen|Degree=Pos|Number=Sing
+ff_11:ADJ_Case=Gen|Degree=Pos|Number=Sing
+ff_13:ADJ_Case=Gen|Degree=Pos|Number=Sing
+ff_14:just
+ff_17:ADV_Polarity=Neg
+ff_0:kuid
+ff_8:kuid
+ff_14:kuid
+ff_9:VERB_Tense=Past|VerbForm=Part|Voice=Pass
+ff_0:mille
+ff_14:mille
+ff_16:mille
+ff_17:PRON_Case=Gen|Number=Sing|PronType=Rel
+ff_17:NOUN_Case=Ine|Number=Plur
+ff_7:PRON_Case=Gen|Number=Sing|Person=1|PronType=Prs
+ff_16:minu
+ff_17:PRON_Case=Gen|Number=Sing|Person=1|PronType=Prs
+ff_1:ADJ_Case=Abe|Degree=Pos|VerbForm=Sup|Voice=Act
+ff_10:kaks
+ff_20:kaks
+ff_21:NUM_Case=Nom|Number=Sing|NumForm=Letter|NumType=Card
+ff_7:ADJ_Case=Abe|Degree=Pos|VerbForm=Sup|Voice=Act
+ff_9:ADJ_Case=Abe|Degree=Pos|VerbForm=Sup|Voice=Act
+ff_16:kaks
+ff_18:see
+ff_21:ADJ_Degree=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_10:kõik
+ff_11:PRON_Case=Nom|Number=Sing|PronType=Tot
+ff_12:kõik
+ff_13:PRON_Case=Nom|Number=Sing|PronType=Tot
+ff_3:see
+ff_18:all
+ff_19:ADJ_Degree=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_15:ADJ_Degree=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_0:kogu
+ff_1:DET_PronType=Tot
+ff_6:kogu
+ff_7:DET_PronType=Tot
+ff_8:kogu
+ff_9:DET_PronType=Tot
+ff_20:sellest
+ff_21:PRON_Case=Ela|Number=Sing|PronType=Dem
+ff_3:andis
+ff_0:sellest
+ff_1:PRON_Case=Ela|Number=Sing|PronType=Dem
+ff_7:VERB_Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_9:VERB_Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_4:VERB_Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_1:VERB_Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_3:sellest
+ff_4:PRON_Case=Ela|Number=Sing|PronType=Dem
+ff_16:mitte
+ff_4:VERB_Connegative=Yes|Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_1:AUX_Mood=Cnd|Polarity=Neg|VerbForm=Fin
+ff_1:VERB_Connegative=Yes|Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_9:VERB_Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_17:VERB_Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_4:VERB_Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_0:end
+ff_1:PRON_Case=Par|Number=Sing|PronType=Prs|Reflex=Yes
+ff_6:ümber
+ff_8:ümber
+ff_0:ümber
+ff_1:VERB_Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_3:hea
+ff_10:hea
+ff_12:hea
+ff_6:hea
+ff_8:hea
+ff_16:viimaks
+ff_14:see
+ff_9:ADJ_Case=Ess|Degree=Pos|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass
+ff_15:ADJ_Case=Ess|Degree=Pos|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass
+ff_4:ADJ_Case=Ess|Degree=Pos|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass
+ff_1:ADJ_Case=Ess|Degree=Pos|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass
+ff_11:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_3:akna
+ff_0:akna
+ff_4:NOUN_Case=Ela|Number=Plur
+ff_1:ADJ_Case=Ela|Degree=Pos|Number=Plur
+ff_6:akna
+ff_9:ADJ_Case=Ela|Degree=Pos|Number=Plur
+ff_15:ADJ_Case=Ela|Degree=Pos|Number=Plur
+ff_16:akna
+ff_1:DET_Case=Gen|Number=Plur|PronType=Dem
+ff_4:ADJ_Case=Gen|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_10:nende
+ff_11:DET_Case=Gen|Number=Plur|PronType=Dem
+ff_12:poole
+ff_19:ADJ_Case=Gen|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_21:ADJ_Case=Gen|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_1:ADJ_Case=Gen|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_7:DET_Case=Gen|Number=Plur|PronType=Dem
+ff_8:poole
+ff_15:ADJ_Case=Gen|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_17:ADJ_Case=Gen|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_0:poole
+ff_9:PRON_Case=All|Number=Sing|PronType=Dem
+ff_15:PRON_Case=All|Number=Sing|PronType=Dem
+ff_1:PRON_Case=All|Number=Sing|PronType=Dem
+ff_0:hakkas
+ff_15:VERB_Tense=Past|VerbForm=Part|Voice=Act
+ff_21:NOUN_Case=Ela|Number=Sing
+ff_1:PRON_Case=Gen|Number=Sing|PronType=Ind
+ff_1:ADJ_Case=Par|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_7:PRON_Case=Gen|Number=Sing|PronType=Ind
+ff_9:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_15:ADJ_Case=Par|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_17:ADJ_Case=Par|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_8:teda
+ff_16:mis
+ff_17:PRON_Case=Nom|Number=Plur|PronType=Rel
+ff_0:noor
+ff_11:PROPN_Case=Com|Number=Sing
+ff_13:PROPN_Case=Com|Number=Sing
+ff_7:PROPN_Case=Com|Number=Sing
+ff_9:PROPN_Case=Com|Number=Sing
+ff_4:PROPN_Case=Com|Number=Sing
+ff_6:kääbus
+ff_8:kääbus
+ff_0:kääbus
+ff_4:VERB_Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_0:edasi
+ff_1:PRON_Case=Nom|Number=Plur|Person=2|PronType=Prs
+ff_1:AUX_Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_9:AUX_Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_17:PRON_Case=Nom|Number=Plur|Person=2|PronType=Prs
+ff_1:PRON_Case=All|Number=Plur|Person=1|PronType=Prs
+ff_1:PRON_Case=Par|Number=Plur|PronType=Dem
+ff_0:pea
+ff_4:DET_Case=Nom|Number=Sing|PronType=Ind
+ff_5:DET
+ff_13:DET_Case=Nom|Number=Sing|PronType=Ind
+ff_6:pea
+ff_8:pea
+ff_9:DET_Case=Nom|Number=Sing|PronType=Ind
+ff_1:DET_Case=Ine|Number=Sing|PronType=Dem
+ff_7:DET_Case=Ine|Number=Sing|PronType=Dem
+ff_15:VERB_Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_17:DET_Case=Ine|Number=Sing|PronType=Dem
+ff_1:PRON_Case=Par|Number=Plur|Person=2|PronType=Prs
+ff_16:praegu
+ff_0:neid
+ff_1:PRON_Case=Par|Number=Plur|Person=3|PronType=Prs
+ff_7:PRON_Case=Par|Number=Plur|PronType=Ind
+ff_1:PRON_Case=Par|Number=Plur|PronType=Ind
+ff_3:neid
+ff_4:PRON_Case=Par|Number=Plur|Person=3|PronType=Prs
+ff_18:on
+ff_19:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_20:neid
+ff_21:PRON_Case=Par|Number=Plur|Person=3|PronType=Prs
+ff_3:tee
+ff_1:DET_Case=Par|Number=Sing|PronType=Ind
+ff_7:DET_Case=Par|Number=Sing|PronType=Ind
+ff_9:DET_Case=Par|Number=Sing|PronType=Ind
+ff_4:VERB_Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_1:VERB_Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_6:mööda
+ff_0:mida
+ff_1:PRON_Case=Par|Number=Sing|PronType=Rel
+ff_14:mida
+ff_15:PRON_Case=Par|Number=Sing|PronType=Rel
+ff_16:mida
+ff_17:PRON_Case=Par|Number=Sing|PronType=Rel
+ff_9:ADJ_Case=Nom|Number=Sing|PronType=Dem
+ff_15:ADJ_Case=Nom|Number=Sing|PronType=Dem
+ff_4:ADJ_Case=Nom|Number=Sing|PronType=Dem
+ff_1:ADJ_Case=Nom|Number=Sing|PronType=Dem
+ff_9:VERB_Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_14:umbes
+ff_16:umbes
+ff_9:NOUN_Case=Ine|Number=Plur
+ff_4:NOUN_Case=Ine|Number=Plur
+ff_7:ADJ_Case=Par|Number=Sing|PronType=Dem
+ff_9:ADJ_Case=Par|Number=Sing|PronType=Dem
+ff_1:ADJ_Case=Par|Number=Sing|PronType=Dem
+ff_9:AUX_Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_16:midagi
+ff_17:PRON_Case=Par|Number=Sing|PronType=Ind
+ff_1:AUX_Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_1:DET_Case=Nom|Number=Plur|PronType=Dem
+ff_20:ütles
+ff_7:DET_Case=Nom|Number=Plur|PronType=Dem
+ff_9:DET_Case=Nom|Number=Plur|PronType=Dem
+ff_7:PRON_Case=Ade|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_9:PRON_Case=Ade|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_1:DET_Case=All|Number=Plur|PronType=Tot
+ff_4:NOUN_Case=All|Number=Plur
+ff_11:DET_Case=All|Number=Plur|PronType=Tot
+ff_21:DET_Case=All|Number=Plur|PronType=Tot
+ff_7:DET_Case=All|Number=Plur|PronType=Tot
+ff_17:DET_Case=All|Number=Plur|PronType=Tot
+ff_16:kääbus
+ff_4:VERB_Connegative=Yes|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_11:NOUN_Case=Nom|Number=Plur
+ff_21:VERB_Tense=Past|VerbForm=Part|Voice=Pass
+ff_18:olid
+ff_19:AUX_Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_1:DET_Case=Par|Number=Sing|PronType=Dem
+ff_7:DET_Case=Par|Number=Sing|PronType=Dem
+ff_9:DET_Case=Par|Number=Sing|PronType=Dem
+ff_1:DET_Case=Ade|Number=Sing|PronType=Ind
+ff_9:DET_Case=Ade|Number=Sing|PronType=Ind
+ff_14:sinna
+ff_6:eest
+ff_16:pärast
+ff_7:PROPN_Case=All|Number=Sing
+ff_9:PROPN_Case=All|Number=Sing
+ff_14:ka
+ff_16:ka
+ff_8:nende
+ff_9:DET_Case=Gen|Number=Plur|PronType=Dem
+ff_15:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_4:VERB_Mood=Imp|Number=Sing|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_1:VERB_Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_8:et
+ff_3:ei
+ff_1:DET_Case=Nom|Number=Plur|PronType=Ind
+ff_7:DET_Case=Nom|Number=Plur|PronType=Ind
+ff_9:DET_Case=Nom|Number=Plur|PronType=Ind
+ff_17:VERB_Connegative=Yes|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act
+ff_9:AUX_Mood=Ind|Polarity=Neg|VerbForm=Fin
+ff_14:ainult
+ff_8:hakkas
+ff_17:PROPN_Case=Ade|Number=Sing
+ff_1:PRON_Case=Gen|Number=Plur|Person=2|PronType=Prs
+ff_18:kuidas
+ff_19:ADV_PronType=Int
+ff_20:kuidas
+ff_21:ADV_PronType=Int
+ff_7:PRON_Case=Gen|Number=Plur|Person=2|PronType=Prs
+ff_9:PRON_Case=Gen|Number=Plur|Person=2|PronType=Prs
+ff_15:ADV_PronType=Int
+ff_16:kuidas
+ff_17:ADV_PronType=Int
+ff_16:kuid
+ff_7:PRON_Case=Par|Number=Sing|PronType=Ind
+ff_11:PRON_Case=Par|Number=Sing|PronType=Ind
+ff_21:AUX_Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act
+ff_6:peale
+ff_8:peale
+ff_3:peale
+ff_4:ADP_AdpType=Prep
+ff_10:peale
+ff_12:akna
+ff_18:akna
+ff_20:peale
+ff_8:akna
+ff_14:akna
+ff_16:peale
+ff_1:PRON_Case=Ela|Number=Sing|PronType=Rel
+ff_15:PRON_Case=Ela|Number=Sing|PronType=Rel
+ff_17:PRON_Case=Ela|Number=Sing|PronType=Rel
+ff_4:ADJ_Case=Nom|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_13:ADJ_Case=Nom|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_19:ADJ_Case=Nom|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_1:ADJ_Case=Nom|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_14:välja
+ff_9:ADJ_Case=Nom|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_15:ADJ_Case=Nom|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_16:vene
+ff_17:ADJ__
+ff_6:läks
+ff_8:läks
+ff_10:läks
+ff_12:läks
+ff_0:läks
+ff_7:PRON_Case=Nom|Number=Sing|PronType=Rel
+ff_6:täis
+ff_8:täis
+ff_0:täis
+ff_9:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_6:kuidas
+ff_17:VERB_Case=Ill|VerbForm=Sup|Voice=Act
+ff_14:ning
+ff_16:ukse
+ff_3:tõukas
+ff_0:tõukas
+ff_8:sisse
+ff_1:DET_Case=Ela|Number=Sing|PronType=Dem
+ff_6:sellest
+ff_7:DET_Case=Ela|Number=Sing|PronType=Dem
+ff_15:VERB_Tense=Past|VerbForm=Part|Voice=Pass
+ff_16:sellest
+ff_17:DET_Case=Ela|Number=Sing|PronType=Dem
+ff_1:ADJ_Case=Gen|Degree=Pos|Number=Plur
+ff_4:NOUN_Case=Com|Number=Plur
+ff_1:NOUN_Case=Com|Number=Plur
+ff_7:ADJ_Case=Gen|Degree=Pos|Number=Plur
+ff_9:ADJ_Case=Gen|Degree=Pos|Number=Plur
+ff_14:väga
+ff_1:ADJ_Case=Par|Number=Plur|PronType=Rel
+ff_19:ADJ_Case=Par|Number=Plur|PronType=Rel
+ff_21:ADJ_Case=Par|Number=Plur|PronType=Rel
+ff_9:NOUN_Case=Ade|Number=Plur
+ff_15:ADJ_Case=Par|Number=Plur|PronType=Rel
+ff_17:ADJ_Case=Par|Number=Plur|PronType=Rel
+ff_11:PRON_Case=Gen|Number=Sing|PronType=Ind
+ff_19:ADJ_Case=Ine|Degree=Pos|Number=Sing
+ff_8:eemale
+ff_0:eemale
+ff_15:PROPN_Case=All|Number=Sing
+ff_14:ise
+ff_14:mu
+ff_15:PRON_Case=Gen|Number=Sing|Person=1|PronType=Prs
+ff_0:kas
+ff_3:tagasi
+ff_15:ADJ_Case=Nom|Degree=Cmp|Number=Sing
+ff_17:ADJ_Case=Nom|Degree=Cmp|Number=Sing
+ff_9:PRON_Case=Ela|Number=Sing|Person=3|PronType=Prs
+ff_8:ning
+ff_9:PROPN_Case=Ela|Number=Sing
+ff_8:pole
+ff_9:VERB_Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_3:pole
+ff_15:PRON_Case=Par|Number=Sing|PronType=Prs|Reflex=Yes
+ff_17:PRON_Case=Par|Number=Sing|PronType=Prs|Reflex=Yes
+ff_6:vana
+ff_8:vana
+ff_3:need
+ff_4:PRON_Case=Nom|Number=Plur|PronType=Dem
+ff_14:sisse
+ff_3:sa
+ff_4:PRON_Case=Nom|Number=Sing|Person=2|PronType=Prs
+ff_0:kus
+ff_11:VERB_Case=Ine|VerbForm=Sup|Voice=Act
+ff_13:VERB_Case=Ine|VerbForm=Sup|Voice=Act
+ff_6:mind
+ff_7:PRON_Case=Par|Number=Sing|Person=1|PronType=Prs
+ff_7:VERB_Case=Ine|VerbForm=Sup|Voice=Act
+ff_14:on
+ff_15:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_9:ADJ_Tense=Past|VerbForm=Part|Voice=Act
+ff_14:kas
+ff_16:ma
+ff_17:PRON_Case=Nom|Number=Sing|Person=1|PronType=Prs
+ff_4:ADJ_Tense=Past|VerbForm=Part|Voice=Act
+ff_1:ADJ_Tense=Past|VerbForm=Part|Voice=Act
+ff_14:olen
+ff_15:AUX_Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_16:või
+ff_4:VERB_Connegative=Yes|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_1:AUX_Mood=Imp|Number=Sing|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_3:laps
+ff_8:oleks
+ff_9:VERB_Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_3:oleks
+ff_6:üks
+ff_16:üks
+ff_15:PROPN_Case=Ela|Number=Sing
+ff_17:PROPN_Case=Ela|Number=Sing
+ff_7:INTJ__
+ff_15:PROPN_Case=Par|Number=Sing
+ff_7:PRON_Case=Nom|Number=Plur|PronType=Rel
+ff_15:AUX_Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_16:kes
+ff_1:DET_Case=Nom|Number=Sing|PronType=Dem
+ff_9:DET_Case=Nom|Number=Sing|PronType=Dem
+ff_15:DET_Case=Nom|Number=Sing|PronType=Dem
+ff_14:teda
+ff_15:PRON_Case=Par|Number=Sing|Person=3|PronType=Prs
+ff_16:talle
+ff_17:PRON_Case=All|Number=Sing|Person=3|PronType=Prs
+ff_17:ADP_AdpType=Post
+ff_14:end
+ff_16:end
+ff_6:poole
+ff_12::
+ff_19:ADJ_Case=Tra|Degree=Pos|Number=Sing
+ff_0:küll
+ff_16:noor
+ff_10:minna
+ff_12:minna
+ff_16:hea
+ff_6:minna
+ff_8:minna
+ff_0:minna
+ff_3:minna
+ff_8:oli
+ff_1:DET_Case=Gen|Number=Sing|PronType=Dem
+ff_7:DET_Case=Gen|Number=Sing|PronType=Dem
+ff_18:ning
+ff_20:tal
+ff_21:PRON_Case=Ade|Number=Sing|Person=3|PronType=Prs
+ff_16:tal
+ff_17:PRON_Case=Ade|Number=Sing|Person=3|PronType=Prs
+ff_8:isa
+ff_18:kes
+ff_19:PRON_Case=Nom|Number=Sing|PronType=Rel
+ff_20:on
+ff_14:eesti
+ff_16:kogu
+ff_17:DET_PronType=Tot
+ff_20:teda
+ff_21:PRON_Case=Par|Number=Sing|Person=3|PronType=Prs
+ff_1:VERB_Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_15:VERB_Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_3:nende
+ff_4:PRON_Case=Gen|Number=Plur|Person=3|PronType=Prs
+ff_10:-
+ff_19:INTJ__
+ff_20:ka
+ff_4:ADJ_Case=Nom|Number=Sing|PronType=Ind
+ff_1:ADJ_Case=Nom|Number=Sing|PronType=Ind
+ff_8:küll
+ff_14:küll
+ff_18:mul
+ff_19:PRON_Case=Ade|Number=Sing|Person=1|PronType=Prs
+ff_7:ADJ_Degree=Pos
+ff_8:siin
+ff_3:nagu
+ff_0:mulle
+ff_12:peale
+ff_8:sellest
+ff_9:DET_Case=Ela|Number=Sing|PronType=Dem
+ff_3:saa
+ff_0:lahti
+ff_4:VERB_Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_3:enam
+ff_14:seda
+ff_15:PRON_Case=Par|Number=Sing|PronType=Dem
+ff_17:NOUN_Case=Abe|Number=Sing
+ff_15:DET_Case=Gen|Number=Sing|PronType=Ind
+ff_14:lihtsalt
+ff_16:lihtsalt
+ff_3:lihtsalt
+ff_4:ADJ_Case=Ela|Degree=Cmp|Number=Sing
+ff_13:ADJ_Case=Ela|Degree=Cmp|Number=Sing
+ff_21:DET_Case=Ela|Number=Sing|PronType=Ind
+ff_1:ADJ_Case=Ela|Degree=Cmp|Number=Sing
+ff_9:ADJ_Case=Ela|Degree=Cmp|Number=Sing
+ff_17:DET_Case=Ela|Number=Sing|PronType=Ind
+ff_7:ADJ_Case=Par|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_16:ette
+ff_6:hakkas
+ff_3:kääbus
+ff_4:VERB_Connegative=Yes|Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_1:AUX_Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_0:ole
+ff_1:AUX_Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_1:PRON_Case=Ela|Number=Sing|Person=2|PronType=Prs
+ff_3:mul
+ff_6:ju
+ff_4:AUX_Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_7:ADJ_Case=Par|Number=Sing|PronType=Ind
+ff_9:ADJ_Case=Par|Number=Sing|PronType=Ind
+ff_11:ADV_PronType=Int
+ff_21:VERB_Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_1:PRON_Case=Par|Number=Plur|PronType=Int
+ff_15:PRON_Case=Par|Number=Plur|PronType=Int
+ff_16:seal
+ff_8:mööda
+ff_0:ringi
+ff_7:ADV_PronType=Rel
+ff_16:ringi
+ff_8:minu
+ff_1:PRON_Case=All|Number=Plur|Person=2|PronType=Prs
+ff_8:vaatas
+ff_14:vaatas
+ff_15:ADJ_Case=Par|Number=Sing|PronType=Ind
+ff_14:nüüd
+ff_9:ADJ_Case=Nom|Number=Sing|PronType=Ind
+ff_7:DET_Case=Ade|Number=Sing|PronType=Ind
+ff_4:ADJ_Case=Gen|Degree=Cmp|Number=Sing
+ff_11:ADJ_Case=Gen|Degree=Cmp|Number=Sing
+ff_13:ADJ_Case=Gen|Degree=Cmp|Number=Sing
+ff_1:ADJ_Case=Gen|Degree=Cmp|Number=Sing
+ff_7:ADJ_Case=Gen|Degree=Cmp|Number=Sing
+ff_9:ADJ_Case=Gen|Degree=Cmp|Number=Sing
+ff_9:VERB_Connegative=Yes|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_16:tegi
+ff_1:VERB_Connegative=Yes|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_4:ADJ_Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass
+ff_3:kes
+ff_10:see
+ff_11:DET_Case=Nom|Number=Sing|PronType=Dem
+ff_20:see
+ff_21:DET_Case=Nom|Number=Sing|PronType=Dem
+ff_20:ja
+ff_7:DET_Case=Nom|Number=Sing|PronType=Dem
+ff_17:DET_Case=Nom|Number=Sing|PronType=Dem
+ff_14:peaks
+ff_15:AUX_Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_0:tuli
+ff_8:tuppa
+ff_16:keegi
+ff_12:andis
+ff_19:ADJ_Case=Par|Degree=Pos|Number=Sing
+ff_21:ADJ_Case=Par|Degree=Pos|Number=Sing
+ff_8:andis
+ff_0:andis
+ff_21:ADJ_Degree=Pos
+ff_17:ADJ_Case=Nom|Degree=Pos|Number=Plur
+ff_13:ADJ__
+ff_19:ADJ__
+ff_12:hakkas
+ff_21:ADJ_Case=Gen|Degree=Pos|Number=Sing
+ff_9:INTJ__
+ff_3:tundi
+ff_10:tundi
+ff_19:PRON_Case=Com|Number=Sing|PronType=Dem
+ff_21:VERB_Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+ff_0:tundi
+ff_16:sisse
+ff_3:sisse
+ff_19:NOUN_Case=Par|Number=Plur
+ff_8:sinna
+ff_1:VERB_Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_1:DET_Case=Nom|Number=Sing|PronType=Int
+ff_6:mis
+ff_7:DET_Case=Nom|Number=Sing|PronType=Int
+ff_8:mis
+ff_9:DET_Case=Nom|Number=Sing|PronType=Int
+ff_8:tegi
+ff_1:DET_Case=Ela|Number=Sing|PronType=Tot
+ff_7:DET_Case=Ela|Number=Sing|PronType=Tot
+ff_9:DET_Case=Ela|Number=Sing|PronType=Tot
+ff_13:PRON_Case=Nom|Number=Sing|Person=2|PronType=Prs
+ff_9:PRON_Case=Nom|Number=Sing|Person=2|PronType=Prs
+ff_18:ainult
+ff_0:sinu
+ff_6:sinu
+ff_8:sinu
+ff_10:eest
+ff_4:PRON_Case=Gen|Number=Sing|PronType=Prs|Reflex=Yes
+ff_17:PRON_Case=Gen|Number=Sing|PronType=Prs|Reflex=Yes
+ff_8:sa
+ff_17:ADV_PronType=Rel
+ff_3:või
+ff_0:maha
+ff_8:maha
+ff_16:ainult
+ff_14:ei
+ff_15:AUX_Mood=Ind|Polarity=Neg|VerbForm=Fin
+ff_7:PRON_Case=Ela|Number=Sing|Person=2|PronType=Prs
+ff_17:PRON_Case=Ela|Number=Sing|Person=2|PronType=Prs
+ff_19:PROPN_Case=Ine|Number=Sing
+ff_14:ole
+ff_15:AUX_Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_16:sa
+ff_17:PRON_Case=Nom|Number=Sing|Person=2|PronType=Prs
+ff_4:INTJ__
+ff_5:INTJ
+ff_6:viimaks
+ff_8:lahti
+ff_3:just
+ff_7:ADJ_Case=Ela|Degree=Pos|Number=Plur
+ff_17:ADJ_Case=Ela|Degree=Pos|Number=Plur
+ff_1:PRON_Case=Ela|Number=Sing|Person=1|PronType=Prs
+ff_17:NOUN_Case=Ela|Number=Plur
+ff_1:DET_Case=Nom|Number=Sing|PronType=Rel
+ff_9:DET_Case=Nom|Number=Sing|PronType=Rel
+ff_15:DET_Case=Nom|Number=Sing|PronType=Rel
+ff_14:.
+ff_7:VERB_Connegative=Yes|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act
+ff_11:VERB_Connegative=Yes|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act
+ff_13:VERB_Connegative=Yes|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act
+ff_13:NOUN_Case=Com|Number=Plur
+ff_19:NOUN_Case=Com|Number=Plur
+ff_9:NOUN_Case=Com|Number=Plur
+ff_15:NOUN_Case=Com|Number=Plur
+ff_4:ADJ_Case=Par|Number=Sing|NumForm=Letter|NumType=Ord
+ff_11:ADJ_Case=Par|Number=Sing|NumForm=Letter|NumType=Ord
+ff_13:ADJ_Case=Par|Number=Sing|NumForm=Letter|NumType=Ord
+ff_16:kõige
+ff_11:ADJ_Case=Par|Degree=Cmp|Number=Sing
+ff_7:ADJ_Case=Par|Degree=Cmp|Number=Sing
+ff_17:PRON_Case=Ade|Number=Sing|PronType=Prs|Reflex=Yes
+ff_1:PRON_Case=Ade|Number=Sing|PronType=Prs|Reflex=Yes
+ff_16:ees
+ff_4:PRON_Case=Ade|Number=Sing|PronType=Prs|Reflex=Yes
+ff_11:ADJ_Case=Par|Number=Sing|PronType=Dem
+ff_13:ADJ_Case=Par|Number=Sing|PronType=Dem
+ff_4:ADJ_Case=Par|Number=Sing|PronType=Dem
+ff_15:ADJ_Case=Tra|Degree=Pos|Number=Sing
+ff_16:pidi
+ff_0:sest
+ff_14:sest
+ff_16:sest
+ff_3:valas
+ff_0:valas
+ff_15:PRON_Case=All|Number=Sing|PronType=Prs|Reflex=Yes
+ff_0:alla
+ff_14:ära
+ff_7:PRON_Case=Par|Number=Sing|Person=2|PronType=Prs
+ff_14:andis
+ff_0:kõrvale
+ff_6:kõrvale
+ff_8:kõrvale
+ff_8:kööki
+ff_14:kööki
+ff_3:kööki
+ff_9:PRON_Case=Ela|Number=Sing|Person=2|PronType=Prs
+ff_20:!
+ff_0:tee
+ff_16:su
+ff_17:PRON_Case=Gen|Number=Sing|Person=2|PronType=Prs
+ff_3:seda
+ff_4:PRON_Case=Par|Number=Sing|PronType=Dem
+ff_9:ADJ_Case=Ine|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_3:pea
+ff_13:AUX_Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_19:PRON_Case=Nom|Number=Plur|Person=2|PronType=Prs
+ff_17:DET_Case=Par|Number=Plur|PronType=Dem
+ff_15:PRON_Case=Nom|Number=Plur|Person=2|PronType=Prs
+ff_1:PRON_Case=Ine|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_7:PRON_Case=Ine|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_9:PRON_Case=Ine|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_8:enam
+ff_8:tuleb
+ff_14:tuleb
+ff_15:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_1:PRON_Case=All|Number=Plur|Person=3|PronType=Prs
+ff_17:PRON_Case=All|Number=Plur|Person=3|PronType=Prs
+ff_18:mind
+ff_19:PRON_Case=Par|Number=Sing|Person=1|PronType=Prs
+ff_6:minu
+ff_21:DET_Case=Nom|Number=Sing|PronType=Ind
+ff_4:AUX_Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_18:nii
+ff_16:mu
+ff_8:edasi
+ff_6:seal
+ff_4:VERB_Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_1:VERB_Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_17:VERB_Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_18:et
+ff_20:mul
+ff_21:PRON_Case=Ade|Number=Sing|Person=1|PronType=Prs
+ff_16:mul
+ff_17:PRON_Case=Ade|Number=Sing|Person=1|PronType=Prs
+ff_20:üle
+ff_6:mu
+ff_16:üle
+ff_9:VERB_Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_15:VERB_Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_0:võib
+ff_16:ära
+ff_3:tuppa
+ff_7:NOUN_Case=Ill|Number=Sing
+ff_0:läbi
+ff_8:läbi
+ff_3:tormas
+ff_10:kui
+ff_20:tuppa
+ff_21:NOUN_Case=Add|Number=Sing
+ff_0:tormas
+ff_16:tuppa
+ff_3:üles
+ff_18:kohe
+ff_8:ringi
+ff_14:ringi
+ff_15:PRON_Case=Ade|Number=Sing|PronType=Prs|Reflex=Yes
+ff_17:VERB_Tense=Past|VerbForm=Part|Voice=Act
+ff_0:pikali
+ff_8:pikali
+ff_6:seisis
+ff_8:seisis
+ff_1:AUX_Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act
+ff_21:PROPN_Case=Nom|Number=Sing
+ff_15:DET_Case=Ine|Number=Sing|PronType=Ind
+ff_0:seisis
+ff_17:ADJ_Degree=Pos
+ff_16:ümber
+ff_10:ka
+ff_16:veel
+ff_14:?
+ff_7:AUX_Mood=Ind|Polarity=Neg|VerbForm=Fin
+ff_14:...
+ff_1:DET_Case=Nom|Number=Plur|PronType=Tot
+ff_7:DET_Case=Nom|Number=Plur|PronType=Tot
+ff_17:DET_Case=Nom|Number=Plur|PronType=Tot
+ff_3:ees
+ff_0:koos
+ff_6:koos
+ff_8:koos
+ff_3:ringi
+ff_10:ees
+ff_15:PRON_Case=Gen|Number=Sing|PronType=Prs|Reflex=Yes
+ff_4:VERB_Mood=Qot|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_11:VERB_Mood=Qot|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_13:VERB_Mood=Qot|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_1:VERB_Mood=Qot|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_4:PROPN_Case=Par|Number=Sing
+ff_7:VERB_Mood=Qot|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_9:VERB_Mood=Qot|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_17:VERB_Case=Ine|VerbForm=Sup|Voice=Act
+ff_9:ADJ_Case=Nom|Degree=Cmp|Number=Sing
+ff_16:oled
+ff_17:AUX_Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_1:ADJ_Case=Ade|Degree=Cmp|Number=Sing
+ff_8:paar
+ff_3:viskas
+ff_0:viskas
+ff_6:pealt
+ff_16:pealt
+ff_0:pealt
+ff_10:poole
+ff_17:AUX_Case=Ill|VerbForm=Sup|Voice=Act
+ff_4:PRON_Case=Com|Number=Sing|PronType=Tot
+ff_7:PRON_Case=Com|Number=Sing|PronType=Tot
+ff_9:PRON_Case=Com|Number=Sing|PronType=Tot
+ff_1:PRON_Case=Com|Number=Sing|PronType=Tot
+ff_17:DET_Case=Ade|Number=Sing|PronType=Dem
+ff_0:püha
+ff_8:püha
+ff_3:all
+ff_4:ADJ_Case=All|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_11:ADJ_Case=All|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_13:ADJ_Case=All|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_1:ADJ_Case=All|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_4:PROPN_Case=All|Number=Sing
+ff_11:PROPN_Case=All|Number=Sing
+ff_7:ADJ_Case=All|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_9:ADJ_Case=All|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_14:talle
+ff_15:PRON_Case=All|Number=Sing|Person=3|PronType=Prs
+ff_13:NOUN_Case=Ela|Number=Plur
+ff_17:ADJ_Case=Gen|Degree=Pos|Number=Plur
+ff_9:NOUN_Case=Ela|Number=Plur
+ff_1:DET_Case=Ela|Number=Plur|PronType=Ind
+ff_7:DET_Case=Ela|Number=Plur|PronType=Ind
+ff_15:NOUN_Case=Ela|Number=Plur
+ff_17:DET_Case=Ela|Number=Plur|PronType=Ind
+ff_15:DET_Case=Ela|Number=Plur|PronType=Ind
+ff_4:VERB_Case=Abe|VerbForm=Sup|Voice=Act
+ff_19:VERB_Case=Abe|VerbForm=Sup|Voice=Act
+ff_21:NOUN_Case=Gen|Number=Plur
+ff_1:VERB_Case=Abe|VerbForm=Sup|Voice=Act
+ff_15:VERB_Case=Abe|VerbForm=Sup|Voice=Act
+ff_14:ette
+ff_16:täis
+ff_17:ADJ_Case=Par|Degree=Cmp|Number=Sing
+ff_14:järele
+ff_7:DET_Case=Nom|Number=Sing|PronType=Rel
+ff_16:ju
+ff_6:mida
+ff_7:PRON_Case=Par|Number=Sing|PronType=Rel
+ff_8:mida
+ff_9:PRON_Case=Par|Number=Sing|PronType=Rel
+ff_21:VERB_Connegative=Yes|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act
+ff_17:PRON_Case=Nom|Number=Sing|PronType=Tot
+ff_3:välja
+ff_16:juba
+ff_15:ADJ_Case=Nom|Degree=Pos|Number=Plur
+ff_1:PRON_Case=Par|Number=Plur|PronType=Rel
+ff_15:PRON_Case=Par|Number=Plur|PronType=Rel
+ff_1:DET_Case=Ill|Number=Sing|PronType=Dem
+ff_7:DET_Case=Ill|Number=Sing|PronType=Dem
+ff_9:DET_Case=Ill|Number=Sing|PronType=Dem
+ff_4:PRON_Case=Ade|Number=Plur|Person=2|PronType=Prs
+ff_9:VERB_Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act
+ff_15:VERB_Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act
+ff_17:DET_Case=Ela|Number=Sing|PronType=Tot
+ff_4:VERB_Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act
+ff_1:VERB_Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act
+ff_4:PRON_Case=All|Number=Sing|PronType=Ind
+ff_10:sellest
+ff_11:PRON_Case=Ela|Number=Sing|PronType=Dem
+ff_13:ADJ_Case=Par|Degree=Pos|Number=Sing
+ff_21:PRON_Case=All|Number=Sing|PronType=Ind
+ff_7:PRON_Case=Ela|Number=Sing|PronType=Dem
+ff_17:PRON_Case=All|Number=Sing|PronType=Ind
+ff_12:vahele
+ff_18:vahele
+ff_1:PRON_Case=Gen|Number=Plur|Person=1|PronType=Prs
+ff_14:vahele
+ff_4:PRON_Case=Gen|Number=Plur|Person=1|PronType=Prs
+ff_14:taga
+ff_10:vahel
+ff_12:vahel
+ff_6:vahel
+ff_8:vahel
+ff_16:edasi
+ff_10:tuul
+ff_8:-
+ff_6:tuul
+ff_4:PRON_Case=All|Number=Sing|PronType=Dem
+ff_21:PRON_Case=All|Number=Sing|PronType=Dem
+ff_17:PRON_Case=All|Number=Sing|PronType=Dem
+ff_10:ümber
+ff_12:ümber
+ff_8:nad
+ff_9:PRON_Case=Nom|Number=Plur|Person=3|PronType=Prs
+ff_1:ADJ_Case=Nom|Number=Sing|PronType=Rel
+ff_4:ADJ_Case=Nom|Number=Sing|PronType=Rel
+ff_15:DET_Case=Par|Number=Sing|PronType=Rel
+ff_17:PRON_Case=Ill|Number=Sing|PronType=Prs|Reflex=Yes
+ff_1:PRON_Case=Ill|Number=Sing|PronType=Prs|Reflex=Yes
+ff_13:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_0:vesi
+ff_3:vesi
+ff_1:PRON_Case=Ine|Number=Sing|PronType=Rcp|Reflex=Yes
+ff_6:kus
+ff_14:vesi
+ff_17:PRON_Case=Ine|Number=Sing|PronType=Rcp|Reflex=Yes
+ff_12:...
+ff_18:...
+ff_20:ajal
+ff_9:NOUN_Case=Ess|Number=Sing
+ff_1:DET_Case=Abl|Number=Sing|PronType=Ind
+ff_7:DET_Case=Abl|Number=Sing|PronType=Ind
+ff_9:DET_Case=Abl|Number=Sing|PronType=Ind
+ff_13:NOUN_Case=Ess|Number=Sing
+ff_19:NOUN_Case=Ess|Number=Sing
+ff_4:NOUN_Case=Ess|Number=Sing
+ff_1:NOUN_Case=Ess|Number=Sing
+ff_15:NOUN_Case=Ess|Number=Sing
+ff_10:läbi
+ff_20:läbi
+ff_6:läbi
+ff_16:läbi
+ff_16:olid
+ff_17:AUX_Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_6:edasi
+ff_4:ADJ_Case=Ela|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_11:ADJ_Case=Ela|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_13:ADJ_Case=Ela|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_1:ADJ_Case=Ela|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_7:ADJ_Case=Ela|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_9:ADJ_Case=Ela|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_1:NOUN_Case=Ter|Number=Plur
+ff_17:NOUN_Case=Ter|Number=Plur
+ff_1:AUX_VerbForm=Conv
+ff_15:AUX_VerbForm=Conv
+ff_17:AUX_VerbForm=Conv
+ff_17:PRON_Case=Par|Number=Plur|PronType=Rel
+ff_3:rüütlid
+ff_0:rüütlid
+ff_6:sest
+ff_1:ADJ_Case=Tra|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_9:ADJ_Case=Tra|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_3:praegu
+ff_3:rüütel
+ff_10:rüütel
+ff_0:rüütel
+ff_15:VERB_Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_20:vastu
+ff_0:mitu
+ff_10:end
+ff_11:PRON_Case=Par|Number=Sing|PronType=Prs|Reflex=Yes
+ff_12:korda
+ff_18:korda
+ff_20:end
+ff_21:PRON_Case=Par|Number=Sing|PronType=Prs|Reflex=Yes
+ff_6:mitu
+ff_8:mitu
+ff_6:end
+ff_7:PRON_Case=Par|Number=Sing|PronType=Prs|Reflex=Yes
+ff_8:korda
+ff_14:korda
+ff_0:sir
+ff_6:sir
+ff_8:sir
+ff_20:.
+ff_1:AUX_Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_9:AUX_Case=Ill|VerbForm=Sup|Voice=Act
+ff_16:peaks
+ff_17:AUX_Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_17:ADJ_Case=Nom|Number=Sing|NumForm=Letter|NumType=Ord
+ff_12:läbi
+ff_18:läbi
+ff_20:mehe
+ff_14:läbi
+ff_16:mehe
+ff_14:minu
+ff_1:AUX_Connegative=Yes|Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_9:PROPN_Number=Sing
+ff_14:sir
+ff_4:PROPN_Number=Sing
+ff_19:VERB_Tense=Past|VerbForm=Part|Voice=Act
+ff_1:PROPN_Number=Sing
+ff_16:mees
+ff_8:hobuse
+ff_14:hobuse
+ff_0:hobuse
+ff_14:aega
+ff_16:aega
+ff_0:jumal
+ff_4:PRON_Case=All|Number=Plur|Person=1|PronType=Prs
+ff_11:NOUN_Case=Ter|Number=Sing
+ff_21:NOUN_Case=Ter|Number=Sing
+ff_0:me
+ff_17:NOUN_Case=Ter|Number=Sing
+ff_4:ADJ_Case=Ade|Degree=Pos|Number=Sing
+ff_4:VERB_Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_12:pärast
+ff_18:pärast
+ff_14:püha
+ff_14:pärast
+ff_1:VERB_Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_4:VERB_Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_1:AUX_Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_14:me
+ff_15:PRON_Case=Nom|Number=Plur|Person=1|PronType=Prs
+ff_1:VERB_Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_7:PRON_Case=Gen|Number=Plur|Person=1|PronType=Prs
+ff_17:PRON_Case=Gen|Number=Plur|Person=1|PronType=Prs
+ff_14:-
+ff_11:PRON_Case=Nom|Number=Sing|PronType=Dem
+ff_20:täis
+ff_1:PRON_Case=Gen|Number=Plur|PronType=Dem
+ff_4:PRON_Case=Gen|Number=Plur|PronType=Dem
+ff_11:ADJ_Case=Nom|Number=Plur|PronType=Dem
+ff_13:ADJ_Case=Nom|Number=Plur|PronType=Dem
+ff_7:ADJ_Case=Nom|Number=Plur|PronType=Dem
+ff_9:ADJ_Case=Nom|Number=Plur|PronType=Dem
+ff_1:ADJ_Case=Nom|Number=Plur|PronType=Dem
+ff_14:edasi
+ff_1:AUX_Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_15:VERB_Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+ff_1:ADJ_Case=Tra|Degree=Pos|Number=Plur
+ff_4:NOUN_Case=Tra|Number=Plur
+ff_13:NOUN_Case=Tra|Number=Plur
+ff_18:mis
+ff_19:PRON_Case=Nom|Number=Plur|PronType=Rel
+ff_20:ma
+ff_21:PRON_Case=Nom|Number=Sing|Person=1|PronType=Prs
+ff_1:NOUN_Case=Tra|Number=Plur
+ff_7:ADJ_Case=Tra|Degree=Pos|Number=Plur
+ff_9:ADJ_Case=Tra|Degree=Pos|Number=Plur
+ff_9:NOUN_Case=Tra|Number=Plur
+ff_17:NOUN_Case=Com|Number=Plur
+ff_9:PRON_Case=Par|Number=Plur|PronType=Ind
+ff_11:VERB_Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_9:DET_Case=Ine|Number=Sing|PronType=Dem
+ff_15:DET_Case=Nom|Number=Plur|PronType=Dem
+ff_3:tõde
+ff_0:tõde
+ff_20:küsis
+ff_17:PRON_Case=Nom|Number=Sing|PronType=Int
+ff_18:tõde
+ff_14:tõde
+ff_17:NOUN_Case=Ill|Number=Sing
+ff_20:lahti
+ff_20:ju
+ff_14:kõik
+ff_15:PRON_Case=Nom|Number=Plur|PronType=Tot
+ff_4:DET_Case=Tra|Number=Sing|PronType=Ind
+ff_11:DET_Case=Tra|Number=Sing|PronType=Ind
+ff_13:DET_Case=Tra|Number=Sing|PronType=Ind
+ff_10:kas
+ff_12:ole
+ff_13:VERB_Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_21:VERB_Case=Ine|VerbForm=Sup|Voice=Act
+ff_6:kas
+ff_8:ole
+ff_14:veel
+ff_3:naise
+ff_1:DET_Case=Ill|Number=Sing|PronType=Ind
+ff_7:DET_Case=Ill|Number=Sing|PronType=Ind
+ff_9:DET_Case=Ill|Number=Sing|PronType=Ind
+ff_9:DET_Case=Gen|Number=Sing|PronType=Dem
+ff_16:minna
+ff_6:laps
+ff_8:laps
+ff_0:laps
+ff_1:VERB_Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_6:nüüd
+ff_17:DET_Case=Gen|Number=Sing|PronType=Dem
+ff_3:küll
+ff_17:ADJ_Case=Ine|Degree=Pos|Number=Sing
+ff_19:AUX_VerbForm=Conv
+ff_6:alla
+ff_8:alla
+ff_8:mille
+ff_1:PRON_Case=Ela|Number=Plur|Person=3|PronType=Prs
+ff_7:PRON_Case=Ela|Number=Plur|Person=3|PronType=Prs
+ff_9:PRON_Case=Ela|Number=Plur|Person=3|PronType=Prs
+ff_6:miks
+ff_8:miks
+ff_3:miks
+ff_7:ADJ_Case=Par|Number=Plur|PronType=Rel
+ff_8:pidi
+ff_1:DET_Case=Ill|Number=Plur|PronType=Dem
+ff_4:NOUN_Case=Ill|Number=Plur
+ff_1:ADJ_Case=Ill|Degree=Pos|Number=Plur
+ff_7:ADJ_Case=Ill|Degree=Pos|Number=Plur
+ff_9:ADJ_Case=Ill|Degree=Pos|Number=Plur
+ff_4:ADJ_Case=Ill|Degree=Pos|Number=Plur
+ff_11:DET_Case=Ill|Number=Plur|PronType=Dem
+ff_12:polnud
+ff_13:VERB_Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act
+ff_19:ADJ_Case=Ill|Degree=Pos|Number=Plur
+ff_21:ADJ_Case=Ill|Degree=Pos|Number=Plur
+ff_7:DET_Case=Ill|Number=Plur|PronType=Dem
+ff_8:polnud
+ff_9:VERB_Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act
+ff_15:ADJ_Case=Ill|Degree=Pos|Number=Plur
+ff_17:ADJ_Case=Ill|Degree=Pos|Number=Plur
+ff_1:VERB_Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act
+ff_14:kus
+ff_16:kus
+ff_1:VERB_Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_8:rüütlid
+ff_1:PRON_Case=Com|Number=Plur|Person=2|PronType=Prs
+ff_8:koju
+ff_16:tagasi
+ff_0:koju
+ff_17:AUX_Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_10:pärast
+ff_20:pärast
+ff_19:NOUN_Case=Gen|Number=Plur
+ff_18:veel
+ff_21:PROPN_Case=Par|Number=Sing
+ff_1:PRON_Case=Par|Number=Plur|Person=1|PronType=Prs
+ff_1:ADJ_Case=Nom|Degree=Sup|Number=Plur
+ff_15:ADJ_Case=Nom|Degree=Sup|Number=Plur
+ff_17:ADJ_Case=Nom|Degree=Sup|Number=Plur
+ff_9:PRON_Case=Gen|Number=Plur|Person=3|PronType=Prs
+ff_14:seisis
+ff_14:naine
+ff_8:noor
+ff_14:noor
+ff_11:ADJ_Case=Par|Degree=Pos|Number=Sing
+ff_8:laua
+ff_14:laua
+ff_0:laua
+ff_4:ADJ_Case=Par|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_10:täis
+ff_19:ADJ_Case=Par|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_21:ADJ_Case=Par|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_3:laua
+ff_1:PRON_Case=Ade|Number=Plur|PronType=Rel
+ff_15:PRON_Case=Ade|Number=Plur|PronType=Rel
+ff_17:PRON_Case=Ade|Number=Plur|PronType=Rel
+ff_14:kõrvale
+ff_16:kõrvale
+ff_1:ADJ_Case=Abl|Degree=Pos|Number=Sing
+ff_7:ADJ_Case=Abl|Degree=Pos|Number=Sing
+ff_9:ADJ_Case=Abl|Degree=Pos|Number=Sing
+ff_16:hobuse
+ff_15:NOUN_Case=Ade|Number=Plur
+ff_17:NOUN_Case=Ade|Number=Plur
+ff_15:ADJ_Case=Ade|Degree=Pos|Number=Plur
+ff_1:PRON_Case=Gen|Number=Plur|PronType=Rel
+ff_4:ADJ_Case=Par|Number=Sing|PronType=Ind
+ff_9:PRON_Case=Gen|Number=Plur|PronType=Rel
+ff_15:PRON_Case=Gen|Number=Plur|PronType=Rel
+ff_6:elu
+ff_14:pole
+ff_15:AUX_Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_16:pole
+ff_17:AUX_Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_15:AUX_Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_17:AUX_Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_17:PRON_Case=Nom|Number=Sing|PronType=Rel
+ff_9:PRON_Case=Gen|Number=Plur|Person=1|PronType=Prs
+ff_1:ADJ_Case=All|Degree=Pos|Number=Sing
+ff_7:ADJ_Case=All|Degree=Pos|Number=Sing
+ff_9:ADJ_Case=All|Degree=Pos|Number=Sing
+ff_9:AUX_Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_9:ADJ_Case=All|Number=Sing|PronType=Ind
+ff_16:me
+ff_17:PRON_Case=Nom|Number=Plur|Person=1|PronType=Prs
+ff_4:ADJ_Case=All|Number=Sing|PronType=Ind
+ff_1:ADJ_Case=All|Number=Sing|PronType=Ind
+ff_7:PRON_Case=All|Number=Sing|PronType=Ind
+ff_9:PRON_Case=All|Number=Sing|PronType=Ind
+ff_15:AUX_Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_17:AUX_Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_10:ega
+ff_11:CCONJ_Polarity=Neg
+ff_20:ega
+ff_21:CCONJ_Polarity=Neg
+ff_4:PRON_Case=Ade|Number=Plur|Person=1|PronType=Prs
+ff_1:PRON_Case=Ade|Number=Plur|Person=1|PronType=Prs
+ff_3:mille
+ff_4:PRON_Case=Gen|Number=Sing|PronType=Rel
+ff_19:NOUN_Case=Ine|Number=Plur
+ff_13:NOUN_Case=Add|Number=Sing
+ff_19:NOUN_Case=Add|Number=Sing
+ff_6:hobuse
+ff_1:AUX_Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+ff_17:AUX_Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+ff_20:kui
+ff_18:ühe
+ff_20:ühe
+ff_21:PRON_Case=Gen|Number=Sing|PronType=Dem
+ff_14:ühe
+ff_3:ühe
+ff_16:tõde
+ff_1:PRON_Case=Ine|Number=Sing|Person=1|PronType=Prs
+ff_17:PRON_Case=Ine|Number=Sing|Person=1|PronType=Prs
+ff_10:veel
+ff_20:veel
+ff_1:PRON_Case=Ade|Number=Sing|PronType=Dem|Reflex=Yes
+ff_3:sõitsid
+ff_0:sõitsid
+ff_11:ADJ_Case=Par|Number=Sing|PronType=Ind
+ff_13:ADJ_Case=Par|Number=Sing|PronType=Ind
+ff_9:DET_Case=All|Number=Sing|PronType=Ind
+ff_1:DET_Case=Par|Number=Plur|PronType=Ind
+ff_4:PRON_Case=Tra|Number=Sing|PronType=Ind
+ff_11:PRON_Case=Tra|Number=Sing|PronType=Ind
+ff_13:PRON_Case=Tra|Number=Sing|PronType=Ind
+ff_1:PRON_Case=Tra|Number=Sing|PronType=Ind
+ff_7:PRON_Case=Tra|Number=Sing|PronType=Ind
+ff_9:PRON_Case=Tra|Number=Sing|PronType=Ind
+ff_6:oli
+ff_10:oli
+ff_16:teha
+ff_13:ADJ_Case=Tra|Degree=Pos|Number=Sing
+ff_18:laps
+ff_10:isegi
+ff_20:isegi
+ff_14:laps
+ff_4:ADJ_Case=Tra|Degree=Pos|Number=Sing
+ff_6:isa
+ff_7:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_8:enne
+ff_14:tegi
+ff_16:laps
+ff_15:DET_Case=Gen|Number=Sing|PronType=Dem
+ff_7:VERB_Case=Ill|VerbForm=Sup|Voice=Act
+ff_11:ADJ_Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_18:end
+ff_19:PRON_Case=Par|Number=Sing|PronType=Prs|Reflex=Yes
+ff_21:NOUN_Case=Ess|Number=Sing
+ff_10:kus
+ff_11:ADJ_Case=Par|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_7:ADJ_Case=Par|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_9:ADJ_Case=Par|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_13:ADJ_Case=Par|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_17:NOUN_Case=Ess|Number=Sing
+ff_12:üle
+ff_19:ADJ_Case=Gen|Degree=Pos|Number=Sing
+ff_4:PRON_Case=Com|Number=Sing|Person=3|PronType=Prs
+ff_15:PRON_Case=Gen|Number=Sing|Person=3|PronType=Prs
+ff_17:ADJ_Case=Tra|Degree=Pos|Number=Sing
+ff_15:CCONJ_Polarity=Neg
+ff_1:DET_Case=Gen|Number=Plur|PronType=Ind
+ff_11:NOUN_Case=Com|Number=Plur
+ff_7:DET_Case=Gen|Number=Plur|PronType=Ind
+ff_15:ADJ_Case=Gen|Degree=Pos|Number=Plur
+ff_17:DET_Case=Gen|Number=Plur|PronType=Ind
+ff_7:NOUN_Case=Com|Number=Plur
+ff_6:sisse
+ff_8:olid
+ff_9:AUX_Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_11:ADJ_Case=Nom|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_3:silmad
+ff_18:silmad
+ff_20:silmad
+ff_0:silmad
+ff_7:ADJ_Case=Nom|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_14:silmad
+ff_16:silmad
+ff_14:maha
+ff_19:ADJ_Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_16:poole
+ff_20:poole
+ff_21:ADP_AdpType=Post
+ff_16:mitu
+ff_1:PRON_Case=Ade|Number=Plur|Person=3|PronType=Prs
+ff_3:eest
+ff_1:DET_Case=All|Number=Sing|PronType=Dem
+ff_7:DET_Case=All|Number=Sing|PronType=Dem
+ff_9:VERB_Mood=Cnd|Tense=Past|VerbForm=Fin|Voice=Act
+ff_15:ADJ_Case=All|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_17:ADJ_Case=All|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_4:VERB_Mood=Cnd|Tense=Past|VerbForm=Fin|Voice=Act
+ff_1:VERB_Mood=Cnd|Tense=Past|VerbForm=Fin|Voice=Act
+ff_11:PRON_Case=Nom|Number=Plur|PronType=Tot
+ff_13:PRON_Case=Nom|Number=Plur|PronType=Tot
+ff_9:PRON_Case=Nom|Number=Plur|PronType=Tot
+ff_3:nad
+ff_4:PRON_Case=Nom|Number=Plur|Person=3|PronType=Prs
+ff_1:PRON_Case=All|Number=Plur|PronType=Prs|Reflex=Yes
+ff_14:rüütel
+ff_9:NOUN_Case=All|Number=Plur
+ff_3:hobuse
+ff_3:sinu
+ff_4:PRON_Case=Gen|Number=Sing|Person=2|PronType=Prs
+ff_12:?
+ff_14:alla
+ff_18:hakkas
+ff_20:hakkas
+ff_1:NUM_Case=All|Number=Sing|NumForm=Letter|NumType=Card
+ff_15:NUM_Case=All|Number=Sing|NumForm=Letter|NumType=Card
+ff_17:NUM_Case=All|Number=Sing|NumForm=Letter|NumType=Card
+ff_15:ADJ_Case=Abe|Degree=Pos|VerbForm=Sup|Voice=Act
+ff_17:ADJ_Case=Abe|Degree=Pos|VerbForm=Sup|Voice=Act
+ff_18:tal
+ff_19:PRON_Case=Ade|Number=Sing|Person=3|PronType=Prs
+ff_10:aega
+ff_18:nad
+ff_19:PRON_Case=Nom|Number=Plur|Person=3|PronType=Prs
+ff_15:NOUN_Case=Ine|Number=Plur
+ff_17:VERB_Case=Abe|VerbForm=Sup|Voice=Act
+ff_17:ADJ_Degree=Pos|Tense=Past|VerbForm=Part|Voice=Act
+ff_4:PRON_Case=Com|Number=Sing|Person=2|PronType=Prs
+ff_1:PRON_Case=Com|Number=Sing|Person=3|PronType=Prs
+ff_9:PRON_Case=All|Number=Sing|PronType=Prs|Reflex=Yes
+ff_4:PRON_Case=Com|Number=Plur|Person=1|PronType=Prs
+ff_1:PRON_Case=Com|Number=Plur|Person=1|PronType=Prs
+ff_10:vastu
+ff_12:vastu
+ff_16:minema
+ff_10:rüütlid
+ff_10:järele
+ff_12:järele
+ff_9:PRON_Case=Nom|Number=Sing|PronType=Rel
+ff_6:ronis
+ff_8:ronis
+ff_3:ronis
+ff_0:ronis
+ff_18:kööki
+ff_20:kööki
+ff_16:kööki
+ff_16:oleks
+ff_9:PRON_Case=Ine|Number=Sing|Person=3|PronType=Prs
+ff_15:PRON_Case=Ine|Number=Sing|Person=3|PronType=Prs
+ff_1:PRON_Case=Ine|Number=Sing|Person=3|PronType=Prs
+ff_13:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_3:isegi
+ff_12:isegi
+ff_4:DET_Case=Nom|Number=Plur|PronType=Ind
+ff_11:DET_Case=Nom|Number=Plur|PronType=Ind
+ff_13:DET_Case=Nom|Number=Plur|PronType=Ind
+ff_6:need
+ff_17:DET_Case=Nom|Number=Sing|PronType=Int
+ff_13:ADJ_Case=Nom|Degree=Cmp|Number=Sing
+ff_19:ADJ_Case=Nom|Degree=Cmp|Number=Sing
+ff_1:PRON_Case=All|Number=Sing|PronType=Int
+ff_3:saab
+ff_10:alla
+ff_12:alla
+ff_9:PRON_Case=Ade|Number=Sing|PronType=Int
+ff_4:PRON_Case=Ade|Number=Sing|PronType=Int
+ff_1:PRON_Case=Ade|Number=Sing|PronType=Int
+ff_1:ADJ_Case=Ade|Number=Sing|PronType=Dem
+ff_4:CCONJ__
+ff_5:CCONJ
+ff_7:ADJ_Case=Ade|Number=Sing|PronType=Dem
+ff_9:ADJ_Case=Ade|Number=Sing|PronType=Dem
+ff_20:eest
+ff_16:eest
+ff_6:neid
+ff_16:neid
+ff_17:PRON_Case=Par|Number=Plur|PronType=Dem
+ff_11:NOUN_Case=Tra|Number=Sing
+ff_9:AUX_Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act
+ff_10:sinu
+ff_11:PRON_Case=Gen|Number=Sing|Person=2|PronType=Prs
+ff_14:pea
+ff_16:pea
+ff_17:PRON_Case=Ade|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_3:pärast
+ff_16:elu
+ff_11:AUX_VerbForm=Inf
+ff_19:PROPN_Case=Gen|Number=Sing
+ff_21:AUX_VerbForm=Inf
+ff_7:AUX_VerbForm=Inf
+ff_17:AUX_VerbForm=Inf
+ff_17:AUX_Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_13:ADP_AdpType=Prep
+ff_4:PRON_Case=All|Number=Sing|Person=2|PronType=Prs
+ff_18:sest
+ff_21:PRON_Case=All|Number=Sing|Person=2|PronType=Prs
+ff_17:PRON_Case=All|Number=Sing|Person=2|PronType=Prs
+ff_11:NOUN_Case=Gen|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act
+ff_21:NOUN_Case=Gen|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act
+ff_7:NOUN_Case=Gen|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act
+ff_17:NOUN_Case=Gen|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act
+ff_1:NOUN_Case=Gen|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act
+ff_4:NOUN_Case=Gen|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act
+ff_17:DET_Case=Par|Number=Sing|PronType=Ind
+ff_15:PRON_Case=Nom|Number=Sing|PronType=Tot
+ff_14:pidi
+ff_13:PROPN_Case=Tra|Number=Sing
+ff_9:PROPN_Case=Tra|Number=Sing
+ff_1:PROPN_Case=Tra|Number=Sing
+ff_3:edasi
+ff_6:teda
+ff_15:PRON_Case=Nom|Number=Sing|PronType=Int
+ff_20:sinu
+ff_21:PRON_Case=Gen|Number=Sing|Person=2|PronType=Prs
+ff_16:sinu
+ff_6:sa
+ff_7:PRON_Case=Nom|Number=Sing|Person=2|PronType=Prs
+ff_14:rüütlid
+ff_1:PRON_Case=Abl|Number=Sing|Person=2|PronType=Prs
+ff_6:püha
+ff_7:PRON_Case=Abl|Number=Sing|Person=2|PronType=Prs
+ff_1:DET_Case=Nom|Number=Plur|PronType=Rel
+ff_8:rüütel
+ff_14:läks
+ff_11:PRON_Case=Ade|Number=Sing|PronType=Rel
+ff_13:PRON_Case=Ade|Number=Sing|PronType=Rel
+ff_7:PRON_Case=Ade|Number=Sing|PronType=Rel
+ff_9:PRON_Case=Ade|Number=Sing|PronType=Rel
+ff_4:PRON_Case=Ade|Number=Sing|PronType=Rel
+ff_1:PRON_Case=Ade|Number=Sing|PronType=Rel
+ff_4:ADJ_Case=Ill|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_11:ADJ_Case=Ill|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_17:PRON_Case=Par|Number=Plur|PronType=Ind
+ff_21:ADJ_Case=Ill|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_1:ADJ_Case=Ill|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_7:ADJ_Case=Ill|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_17:ADJ_Case=Ill|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_10:(
+ff_12:)
+ff_7:VERB_Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_11:VERB_Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_13:VERB_Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_19:NOUN_Abbr=Yes
+ff_21:NOUN_Abbr=Yes
+ff_15:NOUN_Abbr=Yes
+ff_17:NOUN_Abbr=Yes
+ff_4:NOUN_Abbr=Yes
+ff_1:NOUN_Abbr=Yes
+ff_2:Y
+ff_14:)
+ff_16:(
+ff_1:NUM_Case=Par|Number=Sing|NumType=Card
+ff_11:NUM_Case=Par|Number=Sing|NumType=Card
+ff_13:ADJ_Case=Par|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_21:NUM_Case=Par|Number=Sing|NumType=Card
+ff_7:NUM_Case=Par|Number=Sing|NumType=Card
+ff_12:-
+ff_17:NUM_Case=Par|Number=Sing|NumType=Card
+ff_17:VERB_Tense=Past|VerbForm=Part|Voice=Pass
+ff_9:NOUN_Abbr=Yes|Case=All|Number=Sing
+ff_15:NOUN_Abbr=Yes|Case=All|Number=Sing
+ff_1:NOUN_Abbr=Yes|Case=All|Number=Sing
+ff_9:NOUN_Abbr=Yes
+ff_7:NOUN_Abbr=Yes
+ff_14:vahel
+ff_16:vahel
+ff_1:PRON_Case=Ela|Number=Plur|PronType=Rel
+ff_7:PRON_Case=Ela|Number=Plur|PronType=Rel
+ff_9:PRON_Case=Ela|Number=Plur|PronType=Rel
+ff_1:PROPN_Case=Ine|Number=Plur
+ff_0:täna
+ff_15:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_1:NUM_Case=Nom|Number=Sing|NumForm=Digit|NumType=Card
+ff_7:NUM_Case=Nom|Number=Sing|NumForm=Digit|NumType=Card
+ff_11:PROPN_Case=Ela|Number=Sing
+ff_13:PROPN_Case=Ela|Number=Sing
+ff_19:PROPN_Case=Ela|Number=Sing
+ff_21:PROPN_Case=Ela|Number=Sing
+ff_9:NUM_Case=Nom|Number=Sing|NumForm=Digit|NumType=Card
+ff_15:NUM_Case=Nom|Number=Sing|NumForm=Digit|NumType=Card
+ff_7:PROPN_Case=Ela|Number=Sing
+ff_14:kõige
+ff_8::
+ff_19:VERB_Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_21:VERB_Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_4:ADJ_Case=Ela|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_11:ADJ_Case=Ela|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_13:ADJ_Case=Ela|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_1:ADJ_Case=Ela|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_7:ADJ_Case=Ela|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_9:ADJ_Case=Ela|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_1:ADJ_Case=Ade|Number=Sing|NumForm=Digit|NumType=Ord
+ff_3:aastal
+ff_0:aastal
+ff_7:ADJ_Case=Ade|Number=Sing|NumForm=Digit|NumType=Ord
+ff_9:ADJ_Case=Ade|Number=Sing|NumForm=Digit|NumType=Ord
+ff_6:aastal
+ff_15:PROPN_Case=Ine|Number=Sing
+ff_16:aastal
+ff_7:NOUN_Case=All|Number=Plur
+ff_17:NOUN_Case=All|Number=Plur
+ff_11:ADJ_Case=Ade|Degree=Pos|Number=Sing
+ff_13:ADJ_Case=Ade|Degree=Pos|Number=Sing
+ff_20:võib
+ff_16:võib
+ff_1:ADJ_Case=Gen|Number=Sing|PronType=Dem
+ff_7:ADJ_Case=Gen|Number=Sing|PronType=Dem
+ff_9:ADJ_Case=Gen|Number=Sing|PronType=Dem
+ff_14:ümber
+ff_18:kuid
+ff_21:ADJ_Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_7:PROPN_Case=Add|Number=Sing
+ff_11:PRON_Case=Gen|Number=Plur|PronType=Dem
+ff_7:PRON_Case=Gen|Number=Plur|PronType=Dem
+ff_11:ADJ_Case=Gen|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_7:ADJ_Case=Gen|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_11:ADJ_Case=Nom|Number=Sing|NumForm=Digit|NumType=Ord
+ff_13:ADJ_Case=Nom|Number=Sing|NumForm=Digit|NumType=Ord
+ff_7:ADJ_Case=Nom|Number=Sing|NumForm=Digit|NumType=Ord
+ff_9:ADJ_Case=Nom|Number=Sing|NumForm=Digit|NumType=Ord
+ff_1:ADJ_Case=Nom|Number=Sing|NumForm=Digit|NumType=Ord
+ff_15:NUM_NumForm=Digit|NumType=Card
+ff_19:NUM_NumForm=Digit|NumType=Card
+ff_4:ADJ_Case=Nom|Number=Sing|NumForm=Digit|NumType=Ord
+ff_21:VERB_Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_20:et
+ff_1:NUM_Case=Abl|Number=Sing|NumForm=Digit|NumType=Card
+ff_1:PROPN_Case=Abl|Number=Sing
+ff_7:PROPN_Case=Abl|Number=Sing
+ff_9:PROPN_Case=Abl|Number=Sing
+ff_19:NUM_Case=Abl|Number=Sing|NumForm=Digit|NumType=Card
+ff_21:NUM_Case=Abl|Number=Sing|NumForm=Digit|NumType=Card
+ff_15:NUM_Case=Abl|Number=Sing|NumForm=Digit|NumType=Card
+ff_17:NUM_Case=Abl|Number=Sing|NumForm=Digit|NumType=Card
+ff_1:ADJ_Case=Ine|Degree=Pos|Number=Plur
+ff_7:ADJ_Case=Ine|Degree=Pos|Number=Plur
+ff_17:ADJ_Case=Ine|Degree=Pos|Number=Plur
+ff_17:ADJ_Case=All|Degree=Pos|Number=Sing
+ff_6:mille
+ff_7:PRON_Case=Gen|Number=Sing|PronType=Rel
+ff_4:NUM_Case=Gen|Number=Sing|NumForm=Digit|NumType=Card
+ff_11:NUM_Case=Gen|Number=Sing|NumForm=Digit|NumType=Card
+ff_13:NUM_Case=Gen|Number=Sing|NumForm=Digit|NumType=Card
+ff_1:NUM_Case=Gen|Number=Sing|NumForm=Digit|NumType=Card
+ff_7:NUM_Case=Gen|Number=Sing|NumForm=Digit|NumType=Card
+ff_9:NUM_Case=Gen|Number=Sing|NumForm=Digit|NumType=Card
+ff_19:NOUN_Case=Ela|Number=Sing
+ff_12:aastal
+ff_19:ADJ_Case=Ade|Number=Sing|NumForm=Digit|NumType=Ord
+ff_21:ADJ_Case=Ade|Number=Sing|NumForm=Digit|NumType=Ord
+ff_4:PRON_Case=Ine|Number=Sing|PronType=Dem
+ff_11:PRON_Case=Ine|Number=Sing|PronType=Dem
+ff_13:PRON_Case=Ine|Number=Sing|PronType=Dem
+ff_7:PRON_Case=Ine|Number=Sing|PronType=Dem
+ff_9:PRON_Case=Ine|Number=Sing|PronType=Dem
+ff_17:ADJ_Case=Ade|Number=Sing|NumForm=Digit|NumType=Ord
+ff_8:aastal
+ff_15:ADJ_Case=Ade|Number=Sing|NumForm=Digit|NumType=Ord
+ff_4:ADJ_Case=Ade|Number=Sing|NumForm=Digit|NumType=Ord
+ff_1:PROPN_Case=Ess|Number=Sing
+ff_6:praegu
+ff_9:PROPN_Case=Ess|Number=Sing
+ff_15:PROPN_Case=Ess|Number=Sing
+ff_4:ADJ_Case=Abe|Degree=Pos|VerbForm=Sup|Voice=Act
+ff_11:ADJ_Case=Abe|Degree=Pos|VerbForm=Sup|Voice=Act
+ff_13:ADJ_Case=Abe|Degree=Pos|VerbForm=Sup|Voice=Act
+ff_15:NOUN_Case=All|Number=Plur
+ff_21:NUM_Case=Gen|Number=Sing|NumForm=Digit|NumType=Card
+ff_17:NUM_Case=Gen|Number=Sing|NumForm=Digit|NumType=Card
+ff_1:ADJ_Case=All|Number=Sing|NumForm=Digit|NumType=Ord
+ff_7:ADJ_Case=All|Number=Sing|NumForm=Digit|NumType=Ord
+ff_9:ADJ_Case=All|Number=Sing|NumForm=Digit|NumType=Ord
+ff_1:NOUN_Abbr=Yes|Case=Ine|Number=Sing
+ff_4:NUM_Case=Par|Number=Sing|NumForm=Letter|NumType=Card
+ff_11:NUM_Case=Par|Number=Sing|NumForm=Letter|NumType=Card
+ff_13:NUM_Case=Par|Number=Sing|NumForm=Letter|NumType=Card
+ff_13:PRON_Case=Ade|Number=Plur|PronType=Rel
+ff_18:ees
+ff_20:ees
+ff_9:PRON_Case=Ade|Number=Plur|PronType=Rel
+ff_14:ees
+ff_7:AUX_Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_4:PRON_Case=Ade|Number=Plur|PronType=Rel
+ff_9:PRON_Case=All|Number=Plur|Person=3|PronType=Prs
+ff_10:vana
+ff_12:vana
+ff_4:ADJ_Case=Abl|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_1:ADJ_Case=Abl|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_17:PROPN_Case=Ine|Number=Sing
+ff_15:ADJ_Case=Abl|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_17:ADJ_Case=Abl|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_1:NUM_Case=Par|Number=Plur|NumForm=Letter|NumType=Card
+ff_7:NUM_Case=Par|Number=Plur|NumForm=Letter|NumType=Card
+ff_9:NUM_Case=Par|Number=Plur|NumForm=Letter|NumType=Card
+ff_17:PRON_Case=Par|Number=Plur|Person=3|PronType=Prs
+ff_11:ADJ_Case=Nom|Number=Sing|PronType=Rel
+ff_13:ADJ_Case=Nom|Number=Sing|PronType=Rel
+ff_7:ADJ_Case=Nom|Number=Sing|PronType=Rel
+ff_9:ADJ_Case=Nom|Number=Sing|PronType=Rel
+ff_4:AUX_VerbForm=Inf
+ff_15:AUX_VerbForm=Inf
+ff_12:tagasi
+ff_18:tagasi
+ff_21:NUM_Case=Par|Number=Sing|NumForm=Letter|NumType=Card
+ff_10:minema
+ff_11:VERB_Case=Ill|VerbForm=Sup|Voice=Act
+ff_12:minema
+ff_15:NOUN_Case=Abl|Number=Sing
+ff_6:minema
+ff_9:PRON_Case=Gen|Number=Plur|PronType=Dem
+ff_19:NOUN_Case=Ter|Number=Sing
+ff_1:ADJ_Case=Gen|Number=Sing|NumForm=Digit|NumType=Ord
+ff_7:ADJ_Case=Gen|Number=Sing|NumForm=Digit|NumType=Ord
+ff_9:ADJ_Case=Gen|Number=Sing|NumForm=Digit|NumType=Ord
+ff_13:NOUN_Abbr=Yes
+ff_19:ADJ_Case=Ade|Degree=Pos|Number=Sing
+ff_11:PROPN_Case=Abl|Number=Sing
+ff_11:SYM_Abbr=Yes
+ff_13:SYM_Abbr=Yes
+ff_15:NOUN_Case=Tra|Number=Plur
+ff_17:NOUN_Case=Tra|Number=Plur
+ff_7:SYM_Abbr=Yes
+ff_9:SYM_Abbr=Yes
+ff_1:SYM_Abbr=Yes
+ff_7:NUM_Case=Nom|Number=Sing|NumType=Card
+ff_9:NUM_Case=Nom|Number=Sing|NumType=Card
+ff_11:NUM_Case=Nom|Number=Sing|NumType=Card
+ff_13:NUM_Case=Nom|Number=Sing|NumType=Card
+ff_4:NUM_Case=Nom|Number=Sing|NumType=Card
+ff_1:NUM_Case=Nom|Number=Sing|NumType=Card
+ff_4:SYM_Abbr=Yes
+ff_5:SYM
+ff_18:ajal
+ff_21:NUM_NumForm=Digit|NumType=Card
+ff_17:NUM_NumForm=Digit|NumType=Card
+ff_16::
+ff_20::
+ff_7:NOUN_Case=Ine|Number=Plur
+ff_13:PROPN_Case=All|Number=Sing
+ff_20:saanud
+ff_21:AUX_Connegative=Yes|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act
+ff_11:PROPN_Case=Ade|Number=Sing
+ff_6:täna
+ff_8:täna
+ff_17:NUM_Case=Nom|Number=Sing|NumForm=Digit|NumType=Card
+ff_10:aastal
+ff_21:ADJ_Case=Nom|Degree=Cmp|Number=Sing
+ff_1:ADJ_Case=Add|Degree=Pos|Number=Sing
+ff_15:ADJ_Case=Add|Degree=Pos|Number=Sing
+ff_17:ADJ_Case=Add|Degree=Pos|Number=Sing
+ff_3:inimesed
+ff_10:inimesed
+ff_19:NOUN_Case=Ela|Number=Plur
+ff_21:ADJ_Case=Nom|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_17:ADJ_Case=Nom|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_6:inimesed
+ff_11:NOUN_Case=Ade|Number=Plur
+ff_11:PRON_Case=Ade|Number=Sing|PronType=Prs|Reflex=Yes
+ff_13:PRON_Case=Ade|Number=Sing|PronType=Prs|Reflex=Yes
+ff_7:PRON_Case=Ade|Number=Sing|PronType=Prs|Reflex=Yes
+ff_9:PRON_Case=Ade|Number=Sing|PronType=Prs|Reflex=Yes
+ff_1:DET_Case=Ade|Number=Plur|PronType=Tot
+ff_7:DET_Case=Ade|Number=Plur|PronType=Tot
+ff_9:DET_Case=Ade|Number=Plur|PronType=Tot
+ff_7:VERB_Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_1:NOUN_Case=Gen|Hyph=Yes|Number=Sing
+ff_13:NOUN_Case=Gen|Hyph=Yes|Number=Sing
+ff_19:NOUN_Case=Gen|Hyph=Yes|Number=Sing
+ff_4:NOUN_Case=Gen|Hyph=Yes|Number=Sing
+ff_9:NOUN_Case=Gen|Hyph=Yes|Number=Sing
+ff_15:NOUN_Case=Gen|Hyph=Yes|Number=Sing
+ff_11:NOUN_Abbr=Yes
+ff_21:NOUN_Case=Tra|Number=Sing
+ff_13:ADJ_Case=Tra|Degree=Cmp|Number=Sing
+ff_19:ADJ_Case=Tra|Degree=Cmp|Number=Sing
+ff_21:DET_Case=Tra|Number=Sing|PronType=Ind
+ff_17:DET_Case=Tra|Number=Sing|PronType=Ind
+ff_6:maja
+ff_16:maja
+ff_7:VERB_Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_7:NOUN_Case=Abe|Number=Sing
+ff_10:või
+ff_13:NOUN_Case=Ine|Number=Plur
+ff_20:või
+ff_9:ADJ_Case=Ine|Degree=Pos|Number=Plur
+ff_1:PRON_Case=Abl|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_7:PRON_Case=Abl|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_9:PRON_Case=Abl|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_19:NOUN_Case=Ade|Number=Plur
+ff_4:ADJ_Case=Ade|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_1:ADJ_Case=Ade|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_7:ADJ_Case=Ade|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_17:ADJ_Case=Ade|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_6:tee
+ff_16:tee
+ff_1:PRON_Case=Ine|Number=Sing|PronType=Rel
+ff_8:sai
+ff_15:PRON_Case=Ine|Number=Sing|PronType=Rel
+ff_0:sai
+ff_15:SYM_Abbr=Yes
+ff_19:SYM_Abbr=Yes
+ff_1:ADJ_Case=Ela|Number=Sing|NumForm=Digit|NumType=Ord
+ff_9:ADJ_Case=Ela|Number=Sing|NumForm=Digit|NumType=Ord
+ff_15:ADJ_Case=Ela|Number=Sing|NumForm=Digit|NumType=Ord
+ff_21:PROPN_Case=Gen|Number=Sing
+ff_17:VERB_Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_21:ADJ_Case=Abe|Degree=Pos|VerbForm=Sup|Voice=Act
+ff_11:DET_Case=Ade|Number=Sing|PronType=Dem
+ff_13:DET_Case=Ade|Number=Sing|PronType=Dem
+ff_4:DET_Case=Ade|Number=Sing|PronType=Dem
+ff_0:foto
+ff_16:foto
+ff_16:ajal
+ff_1:ADJ_Case=Nom|Degree=Cmp|Number=Plur
+ff_7:ADJ_Case=Nom|Degree=Cmp|Number=Plur
+ff_9:ADJ_Case=Nom|Degree=Cmp|Number=Plur
+ff_4:ADJ_Case=Nom|Degree=Cmp|Number=Plur
+ff_17:ADJ_Case=Nom|Degree=Cmp|Number=Plur
+ff_12:pea
+ff_18:pea
+ff_1:NOUN_Case=Ess|Number=Plur
+ff_7:NOUN_Case=Ess|Number=Plur
+ff_9:NOUN_Case=Ess|Number=Plur
+ff_14:täna
+ff_21:ADJ_Case=Nom|Number=Plur|NumForm=Letter|NumType=Ord
+ff_4:NOUN_Abbr=Yes|Case=Gen|Number=Sing
+ff_1:NOUN_Abbr=Yes|Case=Gen|Number=Sing
+ff_1:ADJ_Case=Gen|Number=Sing|NumForm=Letter|NumType=Ord
+ff_9:ADJ_Case=Gen|Number=Sing|NumForm=Letter|NumType=Ord
+ff_15:NOUN_Abbr=Yes|Case=Gen|Number=Sing
+ff_17:NOUN_Abbr=Yes|Case=Gen|Number=Sing
+ff_19:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_4:ADJ_Case=Nom|Number=Plur|NumForm=Letter|NumType=Ord
+ff_1:ADJ_Case=Nom|Number=Plur|NumForm=Letter|NumType=Ord
+ff_7:NUM_Case=All|Number=Sing|NumForm=Digit|NumType=Card
+ff_9:NUM_Case=All|Number=Sing|NumForm=Digit|NumType=Card
+ff_1:NUM_Case=All|Number=Sing|NumForm=Digit|NumType=Card
+ff_9:NUM_NumType=Card
+ff_13:NUM_NumType=Card
+ff_15:NUM_Case=All|Number=Sing|NumForm=Digit|NumType=Card
+ff_17:NUM_Case=All|Number=Sing|NumForm=Digit|NumType=Card
+ff_19:NUM_Case=All|Number=Sing|NumForm=Digit|NumType=Card
+ff_21:NUM_Case=All|Number=Sing|NumForm=Digit|NumType=Card
+ff_4:NUM_Case=All|Number=Sing|NumForm=Digit|NumType=Card
+ff_4:NUM_NumType=Card
+ff_1:NUM_NumType=Card
+ff_17:NUM_Case=Nom|Number=Sing|NumType=Card
+ff_11:NOUN_Case=All|Number=Plur
+ff_21:NOUN_Case=All|Number=Plur
+ff_1:ADJ_Case=Gen|Number=Sing|NumType=Ord
+ff_9:ADJ_Case=Gen|Number=Sing|NumType=Ord
+ff_15:ADJ_Case=Gen|Number=Sing|NumType=Ord
+ff_1:ADJ_Case=All|Number=Sing|NumForm=Letter|NumType=Ord
+ff_3:kohale
+ff_7:ADJ_Case=All|Number=Sing|NumForm=Letter|NumType=Ord
+ff_9:ADJ_Case=All|Number=Sing|NumForm=Letter|NumType=Ord
+ff_21:PROPN_Case=All|Number=Sing
+ff_1:ADJ_Case=All|Degree=Sup|Number=Sing
+ff_9:ADJ_Case=All|Degree=Sup|Number=Sing
+ff_15:ADJ_Case=All|Degree=Sup|Number=Sing
+ff_9:ADJ_Case=Tra|Number=Sing|NumType=Ord
+ff_11:ADJ_Case=Tra|Number=Sing|NumType=Ord
+ff_13:ADJ_Case=Tra|Number=Sing|NumType=Ord
+ff_1:ADJ_Case=Tra|Number=Sing|NumType=Ord
+ff_7:ADJ_Case=Tra|Number=Sing|NumType=Ord
+ff_4:ADJ_Case=Tra|Number=Sing|NumType=Ord
+ff_21:PROPN_Case=Ine|Number=Sing
+ff_12:ning
+ff_9:ADJ_Case=Ade|Degree=Pos|Number=Plur
+ff_1:ADJ_Case=Gen|Degree=Sup|Number=Sing
+ff_7:ADJ_Case=Gen|Degree=Sup|Number=Sing
+ff_9:ADJ_Case=Gen|Degree=Sup|Number=Sing
+ff_1:NUM_Case=Ela|Number=Sing|NumForm=Digit|NumType=Card
+ff_7:NUM_Case=Ela|Number=Sing|NumForm=Digit|NumType=Card
+ff_15:ADJ_Case=Nom|Degree=Cmp|Number=Plur
+ff_17:NUM_Case=Ela|Number=Sing|NumForm=Digit|NumType=Card
+ff_15:PRON_Case=Ela|Number=Plur|PronType=Rel
+ff_15:NUM_Case=Nom|Number=Sing|NumType=Card
+ff_19:NUM_Case=Nom|Number=Sing|NumType=Card
+ff_21:NOUN_Abbr=Yes|Case=Par|Number=Sing
+ff_1:ADP__
+ff_4:NOUN_Abbr=Yes|Case=Par|Number=Sing
+ff_13:NOUN_Case=Ter|Number=Sing
+ff_1:NOUN_Abbr=Yes|Case=Par|Number=Sing
+ff_7:ADP__
+ff_11:PROPN_Case=Ine|Number=Sing
+ff_13:PROPN_Case=Ine|Number=Sing
+ff_4:ADJ_Case=Ade|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_11:ADJ_Case=Ade|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_13:ADJ_Case=Ade|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_1:ADJ_Case=Ade|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_7:ADJ_Case=Ade|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_9:ADJ_Case=Ade|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_14::
+ff_15:PROPN_Case=Ade|Number=Sing
+ff_1:DET_Case=Gen|Number=Plur|PronType=Tot
+ff_4:ADJ_Case=Tra|Degree=Sup|Number=Sing
+ff_7:DET_Case=Gen|Number=Plur|PronType=Tot
+ff_9:DET_Case=Gen|Number=Plur|PronType=Tot
+ff_13:ADJ_Case=Tra|Degree=Sup|Number=Sing
+ff_19:ADJ_Case=Tra|Degree=Sup|Number=Sing
+ff_1:ADJ_Case=Tra|Degree=Sup|Number=Sing
+ff_9:ADJ_Case=Tra|Degree=Sup|Number=Sing
+ff_15:ADJ_Case=Tra|Degree=Sup|Number=Sing
+ff_1:ADJ_Case=Nom|Degree=Sup|Number=Sing
+ff_15:ADJ_Case=Nom|Degree=Sup|Number=Sing
+ff_17:ADJ_Case=Nom|Degree=Sup|Number=Sing
+ff_11:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_7:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+ff_1:PRON_Case=All|Number=Sing|PronType=Rel
+ff_15:PRON_Case=All|Number=Sing|PronType=Rel
+ff_17:PRON_Case=All|Number=Sing|PronType=Rel
+ff_11:NOUN_Case=Ela|Number=Plur
+ff_7:NOUN_Case=Ela|Number=Plur
+ff_1:ADJ_Case=Ine|Number=Sing|NumForm=Letter|NumType=Ord
+ff_18:küll
+ff_7:ADJ_Case=Ine|Number=Sing|NumForm=Letter|NumType=Ord
+ff_9:ADJ_Case=Ine|Number=Sing|NumForm=Letter|NumType=Ord
+ff_1:ADJ_Case=Ess|Number=Sing|NumType=Ord
+ff_15:PROPN_Case=Com|Number=Sing
+ff_15:ADJ_Case=Gen|Degree=Cmp|Number=Sing
+ff_17:ADJ_Case=Gen|Degree=Cmp|Number=Sing
+ff_18:pidi
+ff_7:ADJ_Case=Gen|Number=Sing|NumForm=Letter|NumType=Ord
+ff_4:ADJ_Case=Nom|Degree=Sup|Number=Sing
+ff_7:AUX_VerbForm=Conv
+ff_11:ADJ_Case=Ade|Number=Sing|NumForm=Digit|NumType=Ord
+ff_13:ADJ_Case=Ade|Number=Sing|NumForm=Digit|NumType=Ord
+ff_10:täna
+ff_20:täna
+ff_16:täna
+ff_1:ADJ_Case=Ess|Number=Sing|NumForm=Letter|NumType=Ord
+ff_7:ADJ_Case=Ess|Number=Sing|NumForm=Letter|NumType=Ord
+ff_9:ADJ_Case=Ess|Number=Sing|NumForm=Letter|NumType=Ord
+ff_19:PROPN_Case=Par|Number=Sing
+ff_17:PROPN_Case=Par|Number=Sing
+ff_1:ADJ_Case=Tra|Number=Sing|NumForm=Letter|NumType=Ord
+ff_10:jäi
+ff_12:jäi
+ff_16:maha
+ff_13:NUM_Case=Nom|Number=Sing|NumForm=Digit|NumType=Card
+ff_19:NUM_Case=Nom|Number=Sing|NumForm=Digit|NumType=Card
+ff_15:ADJ_Case=Gen|Degree=Sup|Number=Sing
+ff_15:ADJ_Case=Ade|Number=Sing|NumForm=Letter|NumType=Ord
+ff_6:päeva
+ff_14:teise
+ff_15:ADJ_Case=Gen|Number=Sing|NumForm=Letter|NumType=Ord
+ff_16:päeva
+ff_1:PRON_Case=Ess|Number=Sing|PronType=Dem
+ff_4:NOUN_Abbr=Yes|Case=Ade|Number=Sing
+ff_11:NOUN_Abbr=Yes|Case=Ade|Number=Sing
+ff_1:NOUN_Abbr=Yes|Case=Ade|Number=Sing
+ff_18:välja
+ff_20:sai
+ff_3:punktiga
+ff_0:punktiga
+ff_8:punktiga
+ff_12:punktiga
+ff_1:ADJ_Case=Par|Number=Sing|NumForm=Digit|NumType=Ord
+ff_7:ADJ_Case=Par|Number=Sing|NumForm=Digit|NumType=Ord
+ff_9:ADJ_Case=Par|Number=Sing|NumForm=Digit|NumType=Ord
+ff_1:ADJ_NumForm=Digit|NumType=Ord
+ff_7:ADJ_NumForm=Digit|NumType=Ord
+ff_9:ADJ_NumForm=Digit|NumType=Ord
+ff_11:PROPN_Case=Add|Number=Sing
+ff_13:PROPN_Case=Add|Number=Sing
+ff_1:ADV_Abbr=Yes
+ff_9:ADV_Abbr=Yes
+ff_15:ADV_Abbr=Yes
+ff_17:DET_Case=Nom|Number=Plur|PronType=Dem
+ff_4:ADV_Abbr=Yes
+ff_11:NOUN_Case=Ess|Number=Sing
+ff_1:ADJ_Case=Nom|Degree=Pos|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass
+ff_9:ADJ_Case=Nom|Degree=Pos|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass
+ff_15:ADJ_Case=Nom|Degree=Pos|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass
+ff_4:ADJ_Case=All|Degree=Pos|Number=Sing
+ff_18::
+ff_1:X_Abbr=Yes
+ff_4:VERB_Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_1:VERB_Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_9:PRON_Case=Ela|Number=Sing|PronType=Dem
+ff_17:PRON_Case=Ter|Number=Sing|Person=1|PronType=Prs
+ff_1:PRON_Case=Ter|Number=Sing|Person=1|PronType=Prs
+ff_3:paar
+ff_20:paar
+ff_13:NUM_Case=Gen|Number=Sing|NumForm=Letter|NumType=Card
+ff_14:peale
+ff_1:PRON_Case=Ter|Number=Plur|Person=1|PronType=Prs
+ff_12:sinu
+ff_13:PRON_Case=Gen|Number=Sing|Person=2|PronType=Prs
+ff_4:VERB_Case=Ela|VerbForm=Sup|Voice=Act
+ff_1:VERB_Case=Ela|VerbForm=Sup|Voice=Act
+ff_6:talle
+ff_7:PRON_Case=All|Number=Sing|Person=3|PronType=Prs
+ff_8:pealt
+ff_8:peaks
+ff_3:peaks
+ff_1:PRON_Case=Com|Number=Sing|PronType=Ind
+ff_9:PRON_Case=Com|Number=Sing|PronType=Ind
+ff_15:PRON_Case=Com|Number=Sing|PronType=Ind
+ff_17:VERB_Case=Ela|VerbForm=Sup|Voice=Act
+ff_1:PRON_Case=Gen|Number=Sing|PronType=Prs
+ff_7:PRON_Case=Gen|Number=Sing|PronType=Prs
+ff_9:PRON_Case=Gen|Number=Sing|PronType=Prs
+ff_1:DET_Case=Abl|Number=Sing|PronType=Dem
+ff_7:DET_Case=Abl|Number=Sing|PronType=Dem
+ff_9:DET_Case=Abl|Number=Sing|PronType=Dem
+ff_3:noor
+ff_15:PRON_Case=Ela|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_17:PRON_Case=Ela|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_1:PRON_Case=Ela|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_15:PRON_Case=Gen|Number=Plur|Person=2|PronType=Prs
+ff_19:ADJ_Case=Nom|Number=Sing
+ff_4:ADJ_Case=Nom|Number=Sing
+ff_4:PRON_Case=Ela|Number=Sing|Person=2|PronType=Prs
+ff_3:täna
+ff_7:PRON_Case=All|Number=Sing|PronType=Dem
+ff_16:mulle
+ff_17:PRON_Case=All|Number=Sing|Person=1|PronType=Prs
+ff_1:NOUN_Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_6:mees
+ff_6:mina
+ff_7:PRON_Case=Nom|Number=Sing|Person=1|PronType=Prs
+ff_16:mina
+ff_15:DET_Case=Ela|Number=Sing|PronType=Tot
+ff_14:seal
+ff_9:ADJ_Case=Gen|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act
+ff_1:ADJ_Case=Gen|Number=Sing|PronType=Ind
+ff_9:ADJ_Case=Gen|Number=Sing|PronType=Ind
+ff_15:ADJ_Case=Gen|Number=Sing|PronType=Ind
+ff_16:koos
+ff_21:VERB_Tense=Past|VerbForm=Part|Voice=Act
+ff_4:PRON_Case=Abe|Number=Sing|PronType=Dem
+ff_11:PRON_Case=Abe|Number=Sing|PronType=Dem
+ff_13:PRON_Case=Abe|Number=Sing|PronType=Dem
+ff_1:PRON_Case=Abe|Number=Sing|PronType=Dem
+ff_7:PRON_Case=Abe|Number=Sing|PronType=Dem
+ff_9:PRON_Case=Abe|Number=Sing|PronType=Dem
+ff_16:mööda
+ff_1:PRON_Case=Gen|Number=Sing|PronType=Int
+ff_7:PRON_Case=Gen|Number=Sing|PronType=Int
+ff_17:PRON_Case=Gen|Number=Sing|PronType=Int
+ff_1:PRON_Case=All|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_1:PRON_Case=Com|Number=Sing|PronType=Int
+ff_15:PRON_Case=Com|Number=Sing|PronType=Int
+ff_17:PRON_Case=Com|Number=Sing|PronType=Int
+ff_7:PRON_Case=Ela|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_8:üks
+ff_4:NOUN_Case=Ill|Number=Sing
+ff_15:ADJ_Case=All|Degree=Pos|Number=Sing
+ff_9:VERB_Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_17:VERB_Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_1:PRON_Case=Abl|Number=Sing|Person=1|PronType=Prs
+ff_3:mida
+ff_4:PRON_Case=Par|Number=Sing|PronType=Rel
+ff_4:NOUN_Case=Abl|Number=Plur
+ff_11:NOUN_Case=Abl|Number=Plur
+ff_13:NOUN_Case=Abl|Number=Plur
+ff_1:NOUN_Case=Abl|Number=Plur
+ff_7:NOUN_Case=Abl|Number=Plur
+ff_9:NOUN_Case=Abl|Number=Plur
+ff_1:ADJ_Case=Nom|Number=Plur
+ff_10:ema
+ff_21:VERB_Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_11:PRON_Case=Gen|Number=Sing|Person=1|PronType=Prs
+ff_21:PRON_Case=Gen|Number=Sing|Person=1|PronType=Prs
+ff_1:ADJ_Case=Par|Number=Plur|PronType=Dem
+ff_11:ADJ_Case=Par|Number=Plur|PronType=Dem
+ff_21:ADJ_Case=Par|Number=Plur|PronType=Dem
+ff_7:ADJ_Case=Par|Number=Plur|PronType=Dem
+ff_17:ADJ_Case=Par|Number=Plur|PronType=Dem
+ff_15:ADJ_Case=Tra|Degree=Pos|Number=Plur
+ff_11:PRON_Case=Par|Number=Sing|PronType=Int
+ff_7:PRON_Case=Par|Number=Sing|PronType=Int
+ff_8:aega
+ff_8:silmad
+ff_11:VERB_Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act
+ff_7:VERB_Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act
+ff_1:ADJ_Case=Par|Number=Sing|PronType=Rel
+ff_9:ADJ_Case=Par|Number=Sing|PronType=Rel
+ff_15:ADJ_Case=Par|Number=Sing|PronType=Rel
+ff_8:mulle
+ff_9:PRON_Case=All|Number=Sing|Person=1|PronType=Prs
+ff_10:seda
+ff_11:PRON_Case=Par|Number=Sing|PronType=Dem
+ff_12:seda
+ff_13:PRON_Case=Par|Number=Sing|PronType=Dem
+ff_7:PRON_Case=Par|Number=Plur|PronType=Dem
+ff_8:neid
+ff_9:PRON_Case=Par|Number=Plur|PronType=Dem
+ff_1:ADJ_Case=Nom|Degree=Pos|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act
+ff_9:ADJ_Case=Nom|Degree=Pos|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act
+ff_15:ADJ_Case=Nom|Degree=Pos|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act
+ff_7:ADJ_Case=Nom|Number=Sing|PronType=Dem
+ff_1:ADJ_Case=Par|Number=Plur|PronType=Ind
+ff_7:ADJ_Case=Par|Number=Plur|PronType=Ind
+ff_17:ADJ_Case=Par|Number=Plur|PronType=Ind
+ff_14:juurde
+ff_8:mina
+ff_9:PRON_Case=Nom|Number=Sing|Person=1|PronType=Prs
+ff_1:ADJ_Case=Ine|Number=Sing|PronType=Ind
+ff_7:ADJ_Case=Ine|Number=Sing|PronType=Ind
+ff_9:ADJ_Case=Ine|Number=Sing|PronType=Ind
+ff_11:NOUN_Case=Ine|Number=Plur
+ff_1:DET_Case=Ine|Number=Plur|PronType=Dem
+ff_7:DET_Case=Ine|Number=Plur|PronType=Dem
+ff_9:DET_Case=Ine|Number=Plur|PronType=Dem
+ff_8:ma
+ff_20:mis
+ff_21:PRON_Case=Nom|Number=Sing|PronType=Rel
+ff_11:ADJ_Case=Ess|Degree=Pos|Number=Sing
+ff_1:ADJ_Case=All|Degree=Pos|Number=Plur
+ff_7:ADJ_Case=All|Degree=Pos|Number=Plur
+ff_17:ADJ_Case=All|Degree=Pos|Number=Plur
+ff_8:võib
+ff_1:ADJ_Case=Par|Number=Plur
+ff_7:ADJ_Case=Par|Number=Plur
+ff_9:ADJ_Case=Par|Number=Plur
+ff_1:ADJ_Case=Com|Degree=Pos|Number=Sing
+ff_1:PRON_Case=Ine|Number=Sing|PronType=Ind
+ff_19:AUX_Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+ff_15:AUX_Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+ff_7:ADJ_Case=Nom|Degree=Pos|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass
+ff_17:ADJ_Case=Nom|Degree=Pos|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass
+ff_18:linna
+ff_20:linna
+ff_0:linna
+ff_3:linna
+ff_4:ADJ_Case=Gen|Degree=Sup|Number=Plur
+ff_11:ADJ_Case=Gen|Degree=Sup|Number=Plur
+ff_21:ADJ_Case=Gen|Degree=Sup|Number=Plur
+ff_1:ADJ_Case=Gen|Degree=Sup|Number=Plur
+ff_7:ADJ_Case=Gen|Degree=Sup|Number=Plur
+ff_17:ADJ_Case=Gen|Degree=Sup|Number=Plur
+ff_17:DET_Case=Nom|Number=Plur|PronType=Ind
+ff_7:VERB_VerbForm=Conv
+ff_15:NUM_Case=Par|Number=Plur|NumForm=Letter|NumType=Card
+ff_17:NUM_Case=Par|Number=Plur|NumForm=Letter|NumType=Card
+ff_8:saa
+ff_9:AUX_Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_10:selle
+ff_11:PRON_Case=Gen|Number=Sing|PronType=Dem
+ff_4:ADJ_Case=Par|Number=Plur|PronType=Ind
+ff_15:PRON_Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes
+ff_3:tõuseb
+ff_0:tõuseb
+ff_12:mööda
+ff_13:VERB_Tense=Past|VerbForm=Part|Voice=Pass
+ff_1:PRON_Case=Com|Number=Sing|Person=1|PronType=Prs
+ff_3:ainult
+ff_10:ainult
+ff_20:ainult
+ff_16:linna
+ff_14:miks
+ff_1:PRON_Case=Par|Number=Plur|PronType=Tot
+ff_3:olen
+ff_7:NOUN_Number=Sing
+ff_9:NOUN_Number=Sing
+ff_1:NOUN_Number=Sing
+ff_11:ADJ_Case=Par|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
+ff_1:ADJ_Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass
+ff_7:ADJ_Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass
+ff_9:ADJ_Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass
+ff_10:ühe
+ff_12:ühe
+ff_17:AUX_Mood=Cnd|Polarity=Neg|VerbForm=Fin
+ff_1:PRON_Case=All|Number=Sing|PronType=Rcp|Reflex=Yes
+ff_4:PRON_Case=Nom|Number=Plur|Person=1|PronType=Prs
+ff_1:VERB_Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+ff_14:mind
+ff_15:PRON_Case=Par|Number=Sing|Person=1|PronType=Prs
+ff_16:mind
+ff_17:PRON_Case=Par|Number=Sing|Person=1|PronType=Prs
+ff_3:keeras
+ff_9:VERB_Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_4:PRON_Case=Par|Number=Sing|PronType=Int
+ff_1:PRON_Case=Com|Number=Plur|PronType=Dem
+ff_1:PRON_Case=Tra|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_7:PRON_Case=Tra|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_9:PRON_Case=Tra|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+ff_8:mehed
+ff_14:mehed
+ff_0:mehed
+ff_7:PRON_Case=All|Number=Sing|PronType=Int
+ff_9:PRON_Case=All|Number=Sing|PronType=Int
+ff_4:PRON_Case=All|Number=Sing|PronType=Int
+ff_16:ikka
+ff_1:ADJ_Case=Nom|Number=Plur|PronType=Ind
+ff_7:ADJ_Case=Nom|Number=Plur|PronType=Ind
+ff_9:ADJ_Case=Nom|Number=Plur|PronType=Ind
+ff_4:NUM_Case=Ela|Number=Sing|NumForm=Digit|NumType=Card
+ff_11:NUM_Case=Ela|Number=Sing|NumForm=Digit|NumType=Card
+ff_13:NUM_Case=Ela|Number=Sing|NumForm=Digit|NumType=Card
+ff_18:peaks
+ff_19:AUX_Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_9:NUM_Case=Ela|Number=Sing|NumForm=Digit|NumType=Card
+ff_8:kuidas
+ff_11:NUM_NumType=Card
+ff_7:NUM_NumType=Card
+ff_11:INTJ__
+ff_1:PRON_Case=Tra|Number=Sing|PronType=Dem
+ff_1:VERB_Connegative=Yes|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_15:VERB_Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_6:nad
+ff_7:PRON_Case=Nom|Number=Plur|Person=3|PronType=Prs
+ff_20:aega
+ff_10:päeva
+ff_12:päeva
+ff_8:päeva
+ff_1:PROPN__
+ff_4:PROPN__
+ff_4:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act
+ff_4:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act
+ff_1:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act
+ff_4:VERB_Connegative=Yes|Mood=Ind|Tense=Imp|VerbForm=Fin|Voice=Act
+ff_1:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act
+ff_21:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act
+ff_1:NUM_Case=Ela|Number=Sing|NumForm=Letter|NumType=Card
+ff_7:NUM_Case=Ela|Number=Sing|NumForm=Letter|NumType=Card
+ff_9:NUM_Case=Ela|Number=Sing|NumForm=Letter|NumType=Card
+ff_3:mehed
+ff_7:PRON_Case=Par|Number=Plur|Person=3|PronType=Prs
+ff_9:PRON_Case=Par|Number=Plur|Person=3|PronType=Prs
+ff_20:...
+ff_1:ADJ_Degree=Pos|VerbForm=Part|Voice=Act
+ff_7:ADJ_Degree=Pos|VerbForm=Part|Voice=Act
+ff_17:ADJ_Degree=Pos|VerbForm=Part|Voice=Act
+ff_11:DET_Case=Par|Number=Sing|PronType=Dem
+ff_13:DET_Case=Par|Number=Sing|PronType=Dem
+ff_6:korda
+ff_4:DET_Case=Par|Number=Sing|PronType=Dem
+ff_11:DET_Case=Par|Number=Sing|PronType=Ind
+ff_13:DET_Case=Par|Number=Sing|PronType=Ind
+ff_4:DET_Case=Par|Number=Sing|PronType=Ind
+ff_18:(
+ff_1:PRON_Case=Gen|Number=Sing|PronType=Tot
+ff_7:PRON_Case=Gen|Number=Sing|PronType=Tot
+ff_17:PRON_Case=Gen|Number=Sing|PronType=Tot
+ff_9:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act
+ff_15:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act
+ff_12:viskas
+ff_13:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act
+ff_18:viskas
+ff_19:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act
+ff_8:viskas
+ff_14:viskas
+ff_6:noor
+ff_15:VERB_Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_7:PRON_Case=Par|Number=Plur|PronType=Rel
+ff_7:PROPN_Case=Ade|Number=Sing
+ff_1:DET_Case=Gen|Number=Sing|PronType=Tot
+ff_7:DET_Case=Gen|Number=Sing|PronType=Tot
+ff_17:DET_Case=Gen|Number=Sing|PronType=Tot
+ff_1:AUX_Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act
+ff_15:NUM_Case=Gen|Number=Sing|NumForm=Letter|NumType=Card
+ff_19:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act
+ff_4:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act
+ff_4:VERB_Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin|Voice=Act
+ff_1:VERB_Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin|Voice=Act
+ff_12:aega
+ff_6:aega
+ff_15:INTJ__
+ff_13:VERB_Mood=Ind|Tense=Imp|VerbForm=Fin|Voice=Pass
+ff_19:VERB_Mood=Ind|Tense=Imp|VerbForm=Fin|Voice=Pass
+ff_11:ADV_PronType=Rel
+ff_9:VERB_Mood=Ind|Tense=Imp|VerbForm=Fin|Voice=Pass
+ff_15:VERB_Mood=Ind|Tense=Imp|VerbForm=Fin|Voice=Pass
+ff_4:VERB_Mood=Ind|Tense=Imp|VerbForm=Fin|Voice=Pass
+ff_11:PROPN_Case=Tra|Number=Sing
+ff_1:VERB_Mood=Ind|Tense=Imp|VerbForm=Fin|Voice=Pass
+ff_7:PROPN_Case=Tra|Number=Sing
+ff_4:PROPN_Case=Tra|Number=Sing
+ff_18:juurde
+ff_9:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act
+ff_1:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act
+ff_21:PRON_Case=Com|Number=Sing|PronType=Dem
+ff_7:VERB_Connegative=Yes|Mood=Ind|Tense=Imp|VerbForm=Fin|Voice=Act
+ff_9:VERB_Connegative=Yes|Mood=Ind|Tense=Imp|VerbForm=Fin|Voice=Act
+ff_1:VERB_Connegative=Yes|Mood=Ind|Tense=Imp|VerbForm=Fin|Voice=Act
+ff_4:PRON_Case=Com|Number=Sing|PronType=Dem
+ff_17:VERB_Mood=Ind|Polarity=Neg|Tense=Imp|VerbForm=Fin|Voice=Act
+ff_4:VERB_Mood=Ind|Polarity=Neg|Tense=Imp|VerbForm=Fin|Voice=Act
+ff_10:midagi
+ff_12:midagi
+ff_13:PRON_Case=Par|Number=Sing|PronType=Ind
+ff_1:VERB_Mood=Ind|Polarity=Neg|Tense=Imp|VerbForm=Fin|Voice=Act
+ff_6:midagi
+ff_1:PRON_Case=Com|Number=Sing|PronType=Rel
+ff_7:PRON_Case=Com|Number=Sing|PronType=Rel
+ff_16:sai
+ff_17:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act
+ff_1:NOUN__
+ff_7:NOUN__
+ff_9:NOUN__
+ff_9:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act
+ff_14:tal
+ff_15:PRON_Case=Ade|Number=Sing|Person=3|PronType=Prs
+ff_1:DET_Case=Ela|Number=Plur|PronType=Tot
+ff_7:DET_Case=Ela|Number=Plur|PronType=Tot
+ff_4:VERB_Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_1:VERB_Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_7:ADJ_Case=Add|Degree=Pos|Number=Sing
+ff_9:ADJ_Case=Add|Degree=Pos|Number=Sing
+ff_1:NOUN_Abbr=Yes|Case=Nom|Number=Sing
+ff_21:NOUN_Case=Ill|Number=Sing
+ff_4:ADJ_Case=Nom|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act
+ff_14:teha
+ff_4:ADJ_Degree=Pos|VerbForm=Part|Voice=Act
+ff_11:ADJ_Degree=Pos|VerbForm=Part|Voice=Act
+ff_13:ADJ_Degree=Pos|VerbForm=Part|Voice=Act
+ff_9:ADJ_Degree=Pos|VerbForm=Part|Voice=Act
+ff_7:ADJ_Case=Nom|Degree=Cmp|Number=Sing
+ff_4:ADJ_Case=Par|Degree=Pos|Number=Plur|VerbForm=Part|Voice=Act
+ff_11:ADJ_Case=Par|Degree=Pos|Number=Plur|VerbForm=Part|Voice=Act
+ff_13:ADJ_Case=Par|Degree=Pos|Number=Plur|VerbForm=Part|Voice=Act
+ff_1:ADJ_Case=Par|Degree=Pos|Number=Plur|VerbForm=Part|Voice=Act
+ff_20:just
+ff_7:ADJ_Case=Par|Degree=Pos|Number=Plur|VerbForm=Part|Voice=Act
+ff_9:ADJ_Case=Par|Degree=Pos|Number=Plur|VerbForm=Part|Voice=Act
+ff_16:just
+ff_12:tuli
+ff_18:tuli
+ff_8:tuli
+ff_14:tuli
+ff_15:PRON_Case=All|Number=Plur|Person=3|PronType=Prs
+ff_12:kõrvale
+ff_4:NUM_Case=Par|Number=Sing|NumForm=Letter|NumType=Ord
+ff_13:NUM_Case=Par|Number=Sing|NumForm=Letter|NumType=Ord
+ff_19:NUM_Case=Par|Number=Sing|NumForm=Letter|NumType=Ord
+ff_1:NUM_Case=Par|Number=Sing|NumForm=Letter|NumType=Ord
+ff_9:NUM_Case=Par|Number=Sing|NumForm=Letter|NumType=Ord
+ff_15:NUM_Case=Par|Number=Sing|NumForm=Letter|NumType=Ord
+ff_20:lihtsalt
+ff_17:PRON_Case=Tra|Number=Sing|PronType=Dem
+ff_7:PRON_Case=All|Number=Sing|PronType=Prs|Reflex=Yes
+ff_1:PRON_Case=Abl|Number=Sing|PronType=Rel
+ff_1:AUX_Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_7:PRON_Case=Abl|Number=Sing|PronType=Rel
+ff_11:PRON_Case=All|Number=Sing|PronType=Prs|Reflex=Yes
+ff_15:AUX_Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_16:kas
+ff_7:NUM_Case=Par|Number=Sing|NumForm=Letter|NumType=Ord
+ff_4:ADJ_Case=Gen|Degree=Pos|Number=Plur
+ff_21:NOUN_Case=Com|Number=Plur
+ff_11:NOUN_Case=Ill|Number=Sing
+ff_13:NOUN_Case=Ill|Number=Sing
+ff_17:NOUN__
+ff_1:NUM_Case=Nom|Number=Plur|NumForm=Letter|NumType=Card
+ff_1:ADJ_Case=Par|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act
+ff_19:ADJ_Case=Par|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act
+ff_21:ADJ_Case=Par|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act
+ff_15:ADJ_Case=Par|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act
+ff_17:ADJ_Case=Par|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act
+ff_4:NOUN_Case=Ess|Number=Plur
+ff_10:ta
+ff_13:VERB_Case=Ela|VerbForm=Sup|Voice=Act
+ff_19:VERB_Case=Ela|VerbForm=Sup|Voice=Act
+ff_9:VERB_Case=Ela|VerbForm=Sup|Voice=Act
+ff_15:VERB_Case=Ela|VerbForm=Sup|Voice=Act
+ff_19:AUX_Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_1:ADV_VerbForm=Part|Voice=Act
+ff_7:ADV_VerbForm=Part|Voice=Act
+ff_9:ADV_VerbForm=Part|Voice=Act
+ff_16:saa
+ff_17:AUX_Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_19:NOUN_Case=Abl|Number=Sing
+ff_7:PRON_Case=Nom|Number=Sing|Poss=Yes|PronType=Prs
+ff_9:PRON_Case=Nom|Number=Sing|Poss=Yes|PronType=Prs
+ff_14:poole
+ff_3:poole
+ff_9:PRON_Case=Gen|Number=Sing|PronType=Ind
+ff_1:ADJ_Case=Gen|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act
+ff_10:vaid
+ff_20:vaid
+ff_7:ADJ_Case=Gen|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act
+ff_9:ADJ_Case=Gen|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act
+ff_6:pidi
+ff_4:PRON_Case=Com|Number=Sing|Poss=Yes|PronType=Prs
+ff_11:PRON_Case=Com|Number=Sing|Poss=Yes|PronType=Prs
+ff_21:ADJ_Case=Gen|Degree=Cmp|Number=Sing
+ff_1:PRON_Case=Com|Number=Sing|Poss=Yes|PronType=Prs
+ff_4:ADJ_Case=Gen|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act
+ff_7:PRON_Case=Com|Number=Sing|Poss=Yes|PronType=Prs
+ff_3:teise
+ff_4:NUM_Case=Add|Number=Sing|NumForm=Letter|NumType=Ord
+ff_1:NUM_Case=Add|Number=Sing|NumForm=Letter|NumType=Ord
+ff_7:NUM_Case=Add|Number=Sing|NumForm=Letter|NumType=Ord
+ff_18:võib
+ff_7:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_19:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_20:oleks
+ff_21:AUX_Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_17:AUX_Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_11:ADJ_Case=Gen|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act
+ff_13:ADJ_Case=Gen|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act
+ff_1:AUX_Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin|Voice=Act
+ff_17:VERB_Mood=Ind|Tense=Imp|VerbForm=Fin|Voice=Pass
+ff_4:VERB_Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin|Voice=Act
+ff_14:mööda
+ff_17:PRON_Case=Nom|Number=Plur|PronType=Dem
+ff_19:ADJ_Degree=Pos|VerbForm=Part|Voice=Act
+ff_15:ADJ_Degree=Pos|VerbForm=Part|Voice=Act
+ff_1:DET_Case=Ade|Number=Sing|PronType=Tot
+ff_7:DET_Case=Ade|Number=Sing|PronType=Tot
+ff_9:DET_Case=Ade|Number=Sing|PronType=Tot
+ff_21:NOUN_Case=Abl|Number=Sing
+ff_11:NUM_Case=Abl|Number=Sing|NumForm=Letter|NumType=Card
+ff_13:NUM_Case=Abl|Number=Sing|NumForm=Letter|NumType=Card
+ff_17:NOUN_Case=Abl|Number=Sing
+ff_7:NUM_Case=Abl|Number=Sing|NumForm=Letter|NumType=Card
+ff_9:NUM_Case=Abl|Number=Sing|NumForm=Letter|NumType=Card
+ff_1:NUM_Case=Abl|Number=Sing|NumForm=Letter|NumType=Card
+ff_18:praegu
+ff_14:praegu
+ff_11:ADJ_Case=Nom|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act
+ff_13:ADJ_Case=Nom|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act
+ff_1:ADJ_Case=Nom|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act
+ff_7:ADJ_Case=Nom|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act
+ff_9:ADJ_Case=Nom|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act
+ff_1:PRON_Case=Com|Number=Sing|PronType=Prs|Reflex=Yes
+ff_7:PRON_Case=Com|Number=Sing|PronType=Prs|Reflex=Yes
+ff_17:PRON_Case=Com|Number=Sing|PronType=Prs|Reflex=Yes
+ff_15:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act
+ff_14:enam
+ff_1:ADJ_Case=Ade|Degree=Cmp|Number=Plur
+ff_7:ADJ_Case=Ade|Degree=Cmp|Number=Plur
+ff_9:ADJ_Case=Ade|Degree=Cmp|Number=Plur
+ff_11:ADJ_Case=Ela|Degree=Pos|Number=Sing
+ff_17:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act
+ff_10:kes
+ff_11:PRON_Case=Nom|Number=Sing|PronType=Rel
+ff_7:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act
+ff_11:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+ff_9:PRON_Case=All|Number=Sing|PronType=Tot
+ff_17:PRON_Case=Par|Number=Sing|Person=2|PronType=Prs
+ff_1:PRON_Case=All|Number=Sing|PronType=Tot
+ff_4:PRON_Case=All|Number=Sing|PronType=Tot
+ff_7:DET_Case=Par|Number=Plur|PronType=Ind
+ff_17:AUX_Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act
+ff_11:ADJ_Case=Nom|Degree=Pos|Number=Plur
+ff_21:ADJ_Case=Nom|Degree=Pos|Number=Plur
+ff_4:AUX_Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act
+ff_18:isegi
+ff_18:vastu
+ff_14:pealt
+ff_11:ADJ_Case=Nom|Number=Sing|NumForm=Letter|NumType=Ord
+ff_21:ADJ_Case=Nom|Number=Sing|NumForm=Letter|NumType=Ord
+ff_21:ADJ_Case=Nom|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act
+ff_7:NOUN_Case=Ill|Number=Plur
+ff_9:NOUN_Case=Ill|Number=Plur
+ff_3:viskus
+ff_3:liikus
+ff_20:pikali
+ff_14:kaks
+ff_3:liigutas
+ff_3:liigutab
+ff_3:prantsatas
+ff_14:enne
+ff_15:ADP_AdpType=Prep
+ff_3:eemale
+ff_3:tatsas
+ff_19:NOUN_Case=Ill|Number=Sing
+ff_11:ADJ_Degree=Pos
+ff_14:üles
+ff_20:välja
+ff_4:VERB_Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Pass
+ff_11:ADJ_Case=Gen|Degree=Pos|Number=Plur
+ff_13:ADJ_Case=Gen|Degree=Pos|Number=Plur
+ff_3:tilgub
+ff_3:sõidutas
+ff_20:talle
+ff_3:talle
+ff_1:ADJ_Case=Ill|Degree=Pos|Number=Sing
+ff_7:ADJ_Case=Ill|Degree=Pos|Number=Sing
+ff_9:ADJ_Case=Ill|Degree=Pos|Number=Sing
+ff_1:VERB_Case=All|VerbForm=Sup|Voice=Act
+ff_3:tilkus
+ff_17:DET_Case=Ade|Number=Sing|PronType=Ind
+ff_1:X_Abbr=Yes|Case=Gen|Number=Sing
+ff_7:X_Abbr=Yes|Case=Gen|Number=Sing
+ff_9:X_Abbr=Yes|Case=Gen|Number=Sing
+ff_9:NUM_Case=Ter|Number=Sing|NumForm=Letter|NumType=Card
+ff_15:NUM_Case=Ter|Number=Sing|NumForm=Letter|NumType=Card
+ff_11:NUM_Case=Ela|Number=Sing|NumForm=Letter|NumType=Card
+ff_13:NUM_Case=Ela|Number=Sing|NumForm=Letter|NumType=Card
+ff_1:NUM_Case=Ter|Number=Sing|NumForm=Letter|NumType=Card
+ff_9:DET_Case=Nom|Number=Plur|PronType=Tot
+ff_11:ADJ_Case=Ine|Degree=Pos|Number=Sing
+ff_13:ADJ_Case=Ine|Degree=Pos|Number=Sing
+ff_1:PROPN_Case=Par|Number=Plur
+ff_19:ADJ_Case=Nom|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act
+ff_20:nende
+ff_21:PRON_Case=Gen|Number=Plur|PronType=Dem
+ff_15:ADJ_Case=Nom|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act
+ff_17:PRON_Case=Gen|Number=Plur|PronType=Dem
+ff_1:PRON_Case=Ela|Number=Sing|PronType=Prs|Reflex=Yes
+ff_21:ADJ_Case=Gen|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act
+ff_3:metsa
+ff_0:metsa
+ff_17:ADJ_Case=Gen|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act
+ff_10:poiss
+ff_19:PROPN_Case=Ade|Number=Sing
+ff_4:NUM_Case=Ela|Number=Sing|NumForm=Letter|NumType=Card
+ff_3:kaks
+ff_18:tuul
+ff_20:keegi
+ff_15:X_Abbr=Yes
+ff_17:X_Abbr=Yes
+ff_18:sinna
+ff_11:DET_Case=Nom|Number=Plur|PronType=Tot
+ff_13:ADJ_Case=Nom|Degree=Pos|Number=Plur
+ff_18:mu
+ff_19:PRON_Case=Gen|Number=Sing|Person=1|PronType=Prs
+ff_20:mu
+ff_18:maha
+ff_20:maha
+ff_9:DET_Case=Par|Number=Plur|PronType=Ind
+ff_21:PRON_Case=Gen|Number=Plur|Person=3|PronType=Prs
+ff_13:ADJ_Case=Nom|Number=Sing|NumForm=Letter|NumType=Ord
+ff_4:ADJ_Case=Nom|Number=Sing|NumForm=Letter|NumType=Ord
+ff_9:DET_Case=Gen|Number=Plur|PronType=Ind
+ff_15:DET_Case=Gen|Number=Plur|PronType=Ind
+ff_19:PRON_Case=Par|Number=Plur|Person=1|PronType=Prs
+ff_1:ADJ_Case=Ela|Number=Sing|NumForm=Letter|NumType=Ord
+ff_18:ma
+ff_19:PRON_Case=Nom|Number=Sing|Person=1|PronType=Prs
+ff_21:AUX_Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin|Voice=Act
+ff_7:ADJ_Case=Ela|Number=Sing|NumForm=Letter|NumType=Ord
+ff_9:ADJ_Case=Ela|Number=Sing|NumForm=Letter|NumType=Ord
+ff_0:vett
+ff_15:DET_Case=Par|Number=Sing|PronType=Ind
+ff_21:ADJ_Degree=Pos|VerbForm=Part|Voice=Act
+ff_3:sisenes
+ff_18:midagi
+ff_19:PRON_Case=Par|Number=Sing|PronType=Ind
+ff_3:sõitsin
+ff_1:PRON_Case=Par|Number=Sing|Poss=Yes|PronType=Prs
+ff_11:ADJ_Case=Par|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act
+ff_13:ADJ_Case=Par|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act
+ff_7:ADJ_Case=Par|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act
+ff_9:ADJ_Case=Par|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act
+ff_4:ADJ_Case=Par|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act
+ff_18:oma
+ff_19:PRON_Case=Par|Number=Sing|Poss=Yes|PronType=Prs
+ff_15:PRON_Case=Par|Number=Sing|Poss=Yes|PronType=Prs
+ff_1:PRON_Case=Ade|Number=Sing|PronType=Tot
+ff_4:PRON_Case=Ade|Number=Sing|PronType=Tot
+ff_4:X_Abbr=Yes
+ff_5:X
+ff_4:NUM_Case=Ter|Number=Sing|NumForm=Letter|NumType=Card
+ff_3:tormasin
+ff_1:NUM_Case=Com|Number=Sing|NumForm=Letter|NumType=Card
+ff_1:PRON_Case=Ela|Number=Plur|PronType=Ind
+ff_4:NUM_Case=Com|Number=Sing|NumForm=Letter|NumType=Card
+ff_7:PRON_Case=Ela|Number=Plur|PronType=Ind
+ff_17:PRON_Case=Ela|Number=Plur|PronType=Ind
+ff_2:abbr/?,.cap
+ff_20:ukse
+ff_7:X_Abbr=Yes
+ff_9:X_Abbr=Yes
+ff_12:pidi
+ff_17:DET_Case=Gen|Number=Plur|PronType=Dem
+ff_18:me
+ff_19:PRON_Case=Nom|Number=Plur|Person=1|PronType=Prs
+ff_20:ringi
+ff_1:ADJ_Case=Ine|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act
+ff_9:ADJ_Case=Ine|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act
+ff_15:ADJ_Case=Ine|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act
+ff_11:AUX_Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin|Voice=Act
+ff_3:mu
+ff_1:PRON_Case=Nom|Number=Plur|PronType=Ind
+ff_7:PRON_Case=Nom|Number=Plur|PronType=Ind
+ff_9:PRON_Case=Nom|Number=Plur|PronType=Ind
+ff_4:VERB_Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin|Voice=Act
+ff_1:ADJ_Case=Abl|Number=Sing|NumForm=Letter|NumType=Ord
+ff_4:ADJ_Case=Abl|Number=Sing|NumForm=Letter|NumType=Ord
+ff_10:naine
+ff_12:naine
+ff_18:üles
+ff_20:üles
+ff_19:PROPN_Case=Ill|Number=Sing
+ff_21:PROPN_Case=Ill|Number=Sing
+ff_19:NOUN_Case=Ill|Number=Plur
+ff_21:NOUN_Case=Ill|Number=Plur
+ff_21:ADJ_Case=Nom|Number=Sing|NumType=Ord
+ff_4:ADJ_Case=Nom|Number=Sing|NumType=Ord
+ff_1:ADJ_Case=Nom|Number=Sing|NumType=Ord
+ff_18:.
+ff_18:mööda
+ff_19:ADP_AdpType=Prep
+ff_20:mööda
+ff_8:linna
+ff_14:linna
+ff_10:pealt
+ff_12:pealt
+ff_1:NUM_Case=Add|Number=Sing|NumForm=Letter|NumType=Card
+ff_7:NUM_Case=Add|Number=Sing|NumForm=Letter|NumType=Card
+ff_9:NUM_Case=Add|Number=Sing|NumForm=Letter|NumType=Card
+ff_19:PRON_Case=Ela|Number=Sing|Person=3|PronType=Prs
+ff_20:eemale
+ff_4:ADJ_Case=All|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act
+ff_11:ADJ_Case=All|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act
+ff_13:ADJ_Case=All|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act
+ff_1:ADJ_Case=All|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act
+ff_7:ADJ_Case=All|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act
+ff_9:ADJ_Case=All|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act
+ff_10:kõrvale
+ff_4:ADJ_Case=Ill|Degree=Pos|Number=Sing
+ff_11:ADJ_Case=Ill|Degree=Pos|Number=Sing
+ff_13:ADJ_Case=Ill|Degree=Pos|Number=Sing
+ff_6:vastas
+ff_8:vastas
+ff_4:ADJ_Case=Ill|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act
+ff_1:ADJ_Case=Ill|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act
+ff_7:ADJ_Case=Ill|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act
+ff_17:ADJ_Case=Ill|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act
+ff_0:palli
+ff_3:palli
+ff_17:ADJ_Case=Ill|Degree=Pos|Number=Sing
+ff_4:ADJ_Case=Ade|Number=Sing|NumForm=Letter|NumType=Ord
+ff_11:ADJ_Case=Ade|Number=Sing|NumForm=Letter|NumType=Ord
+ff_1:PRON_Case=Add|Number=Sing|PronType=Dem
+ff_18:palli
+ff_3:täis
+ff_1:PRON_Case=Ter|Number=Sing|PronType=Dem
+ff_20:korda
+ff_18:kohale
+ff_3:sinna
+ff_10:edasi
+ff_12:edasi
+ff_3:mitu
+ff_10:mitu
+ff_12:mitu
+ff_12:ema
+ff_6:ema
+ff_10:silmad
+ff_10:mööda
+ff_10:vahele
+ff_20:vett
+ff_3:kõige
+ff_6:linna
+ff_1:PRON_Case=Ela|Number=Plur|Person=1|PronType=Prs
+ff_4:NUM_Case=Abl|Number=Sing|NumForm=Letter|NumType=Card
+ff_1:NUM_Case=Ill|Number=Plur|NumForm=Letter|NumType=Card
+ff_4:NUM_Case=Ill|Number=Plur|NumForm=Letter|NumType=Card
+ff_18:vahel
+ff_19:NOUN_Case=All|Number=Plur
+ff_21:ADJ_Case=Tra|Degree=Pos|Number=Plur
+ff_19:ADJ_Case=Tra|Degree=Pos|Number=Plur
+ff_4:ADJ_Case=Tra|Degree=Pos|Number=Plur
+ff_20:laua
+ff_3:vett
+ff_10:punktiga
+ff_6:punktiga
+ff_1:ADJ_Case=Par|Degree=Cmp|Number=Plur
+ff_7:ADJ_Case=Par|Degree=Cmp|Number=Plur
+ff_9:ADJ_Case=Par|Degree=Cmp|Number=Plur
+34
+nsubj
+punct
+nmod
+aux
+obl
+advmod
+conj
+nsubj:cop
+cop
+cc
+amod
+acl
+compound:prt
+det
+ccomp
+obj
+csubj:cop
+mark
+case
+xcomp
+parataxis
+advcl
+nummod
+discourse
+nmod:poss
+csubj
+flat
+compound
+vocative
+appos
+acl:relcl
+advmod:quant
+orphan
+cc:preconj
+1616
+24 -2 2
+6 3 847
+50 4 123
+1 5 72
+28 6 64
+49 7 56
+562 -6 8
+580 9 10
+4 -13 -6
+2133 -18 11
+3355 12 19
+2021 13 14
+501 -6 -6
+3597 -6 15
+3594 -6 16
+3599 -6 17
+3603 -6 18
+4 -6 -6
+59 20 26
+982 -6 21
+242 -6 22
+4 23 24
+12 -6 -6
+853 -6 25
+980 -6 -6
+422 -6 -6
+537 -13 28
+1592 -13 29
+3133 -13 30
+432 -6 31
+1534 -6 32
+608 -6 33
+2466 -6 34
+707 35 36
+4 -6 -6
+1138 -6 37
+5 -6 38
+3400 -6 39
+642 -6 40
+12 41 -6
+676 -6 42
+1499 -6 43
+1725 -6 44
+3540 -6 45
+1063 46 47
+177 -18 -6
+4 48 -6
+494 -6 49
+565 -6 50
+52 -6 51
+116 -6 52
+602 -6 53
+584 -6 54
+177 -6 55
+583 -6 -6
+4 57 -6
+116 -18 -18
+913 -6 -6
+583 60 61
+906 -6 -6
+11 62 -6
+494 63 -18
+913 -18 -6
+40 -22 65
+16 66 69
+2348 -18 67
+238 -22 68
+2133 -22 -6
+34 70 71
+9 -6 -7
+78 -7 -6
+541 -18 73
+386 -6 74
+1703 75 78
+49 -18 -18
+602 -18 77
+177 -6 -6
+904 79 81
+59 80 -13
+4 -13 -13
+1500 82 83
+7 -13 -6
+180 -13 84
+1105 -18 85
+1085 86 88
+562 87 -13
+4 -7 -6
+509 -13 89
+1831 -13 90
+117 -13 91
+521 -13 92
+1908 93 94
+642 -6 -13
+760 -13 95
+1679 96 97
+66 -6 -13
+1961 98 99
+583 -6 -13
+837 -13 100
+2019 -13 101
+1795 102 103
+1655 -6 -13
+1167 -13 104
+15 105 -15
+297 -13 106
+1069 -13 107
+1272 -13 108
+1965 -13 109
+506 -13 110
+470 111 112
+116 -13 -6
+584 113 117
+374 -34 114
+2075 -13 115
+643 116 -6
+49 -13 -6
+856 -6 -6
+1440 -13 119
+1649 120 121
+583 -13 -6
+2033 122 -6
+116 -6 -6
+43 124 298
+28 125 146
+592 126 129
+3355 -22 127
+3354 -22 128
+3400 -22 -20
+134 130 139
+4 -20 -20
+580 -26 132
+642 -26 133
+1 134 135
+494 -20 -20
+59 -26 -20
+52 -20 137
+59 -26 138
+733 -26 -22
+436 -22 140
+1028 -20 141
+1268 -28 142
+3355 -22 143
+488 144 -4
+52 145 -4
+12 -9 -4
+79 147 151
+170 -22 148
+495 149 -7
+7 -21 150
+12 -7 -22
+61 152 220
+170 153 181
+169 154 179
+2002 -7 155
+1430 -7 156
+168 157 162
+565 -22 158
+125 -26 159
+185 -15 -15
+59 161 -15
+17 -26 -15
+2705 -26 163
+634 164 165
+494 -26 -15
+432 -22 166
+1499 -22 167
+838 -22 168
+134 169 172
+584 -22 -22
+9 171 -22
+64 -22 -15
+12 173 -22
+60 -22 174
+62 -15 -15
+189 -22 176
+488 -22 177
+1183 -22 178
+1433 -22 -15
+749 -22 -22
+1 -7 -22
+436 182 183
+111 -7 -22
+542 184 186
+40 -26 185
+63 -15 -22
+111 -7 -7
+15 -22 -7
+12 189 217
+1360 190 192
+1 -22 191
+60 -21 -15
+40 193 198
+1586 -20 194
+37 -21 195
+1138 -21 196
+2687 -21 197
+182 -7 -7
+1 199 214
+1539 -15 200
+37 -21 201
+584 -22 202
+595 -22 203
+2203 -22 204
+62 205 206
+17 -7 -22
+402 -22 207
+743 -22 208
+1499 -22 209
+135 -15 210
+490 -15 211
+587 -15 212
+1556 213 -7
+5 -7 -15
+16 -9 215
+177 -21 216
+300 -21 -7
+9 218 219
+11 -22 -20
+4 -21 -26
+134 221 238
+4 222 236
+239 223 224
+494 -22 -22
+47 -20 -20
+170 -22 226
+670 -22 227
+105 -26 228
+129 -26 229
+766 -26 230
+16 231 -20
+3355 -26 232
+3357 -26 233
+417 234 -20
+5 235 -20
+7 -20 -26
+12 -26 -26
+66 -22 -26
+60 239 247
+239 240 242
+1352 241 -22
+4 -15 -22
+150 -7 243
+123 244 246
+7 -15 245
+52 -22 -21
+543 -15 -21
+592 248 263
+3355 -22 249
+4 250 -20
+15 251 262
+3354 -20 -20
+3400 -22 253
+9 254 -20
+59 -20 255
+16 256 260
+150 -22 257
+116 -22 258
+174 -22 259
+2649 -22 -20
+8 -22 261
+239 -22 -20
+7 -15 -22
+436 -22 264
+239 265 267
+1352 266 -22
+1188 -22 -15
+16 268 275
+2107 -22 269
+495 -21 270
+566 -21 271
+5 -7 272
+7 273 274
+116 -22 -22
+585 -22 -20
+725 -21 276
+4 277 295
+707 -21 278
+892 279 281
+9 280 -7
+150 -22 -21
+9 282 287
+1832 -22 -22
+151 -22 284
+189 -22 285
+59 -22 286
+3134 -22 -7
+188 288 289
+12 -15 -7
+1 290 -21
+302 -21 291
+611 -21 292
+15 293 -22
+7 -15 294
+35 -15 -22
+7 296 -15
+15 -22 297
+9 -26 -20
+75 299 308
+159 300 303
+123 301 -18
+4 -18 -18
+494 -18 -34
+7 304 -34
+3357 -18 305
+3355 306 -10
+4 307 -10
+1 -10 -10
+2 309 391
+7 310 361
+1138 -16 311
+239 -22 312
+52 313 319
+66 -8 314
+338 -1 315
+348 -1 316
+519 -1 317
+47 -1 318
+28 -16 -16
+3355 320 321
+1736 -5 -1
+362 -16 322
+3410 -16 323
+2706 324 325
+9 -16 -21
+583 -29 326
+1730 -29 327
+707 -16 328
+608 -22 329
+2632 -20 330
+181 -1 -1
+733 332 334
+28 -1 333
+484 -16 -5
+1292 335 336
+12 -1 -16
+326 -29 337
+562 -29 338
+674 -29 339
+1325 -5 340
+3540 -5 341
+853 342 343
+12 -5 -1
+59 344 353
+485 345 349
+4 346 -1
+1 347 -1
+12 348 -1
+16 -1 -1
+28 350 -1
+4 351 -1
+1 352 -1
+12 -1 -1
+116 354 357
+28 355 -1
+1 356 -1
+4 -1 -1
+66 358 -1
+494 359 -1
+4 360 -1
+11 -1 -1
+34 362 375
+170 363 365
+169 364 -22
+59 -15 -15
+15 366 371
+16 -29 367
+1 368 -29
+40 -1 369
+59 -7 370
+9 -22 -21
+61 372 -21
+1360 -15 373
+1682 -29 374
+40 -8 -7
+239 376 377
+583 -15 -22
+494 378 380
+1416 -5 379
+280 -15 -1
+59 381 382
+204 -22 -1
+4 383 389
+3355 -1 384
+116 -1 385
+1 386 -7
+78 -7 387
+5 -1 388
+642 -1 -16
+63 -5 390
+281 -22 -1
+30 392 421
+28 393 400
+1138 -16 394
+3410 -16 395
+52 396 397
+1756 -1 -1
+562 -29 398
+707 -29 399
+1097 -1 -1
+34 401 403
+169 -15 402
+9 -1 -29
+1585 -1 -1
+47 405 406
+9 -16 -5
+52 -16 407
+16 408 413
+239 -22 409
+62 410 -1
+7 411 -1
+59 412 -1
+4 -1 -1
+79 414 416
+7 -21 415
+4 -7 -1
+2742 -5 417
+11 418 -16
+67 -16 419
+136 -16 420
+437 -16 -1
+3 422 682
+333 423 466
+3355 424 427
+28 -16 425
+1597 -5 426
+3594 -5 -16
+7 428 456
+59 -16 429
+3354 430 434
+348 -1 431
+28 432 -1
+12 433 -1
+4 -1 -1
+602 -1 435
+177 436 439
+28 437 -1
+1 438 -1
+12 -1 -1
+116 440 443
+66 -16 441
+1091 -1 442
+28 -1 -1
+1435 -1 444
+3357 -1 445
+28 446 447
+1499 -29 -16
+583 448 449
+47 -16 -16
+12 450 -5
+1598 -5 451
+4 452 -1
+5 -1 453
+357 -1 454
+52 455 -16
+16 -16 -16
+239 -22 457
+15 458 463
+1092 -29 459
+177 -1 460
+294 -5 461
+1184 462 -16
+12 -1 -16
+9 464 465
+17 -7 -15
+64 -22 -16
+146 467 552
+164 -5 468
+28 469 491
+494 470 472
+4 -16 471
+3598 -16 -1
+3619 -1 473
+362 -8 474
+242 -1 475
+4 476 490
+3608 -16 -16
+3355 478 479
+1 -16 -1
+423 -1 480
+5 -16 481
+584 482 484
+1 483 -16
+11 -16 -16
+1108 -16 485
+116 -16 486
+52 487 488
+12 -16 -16
+59 489 -16
+12 -16 -16
+1655 -16 -16
+1 492 545
+296 -5 493
+276 494 504
+52 -16 495
+3400 -1 -1
+889 -16 497
+116 -5 498
+63 -5 499
+3540 -5 500
+494 501 -1
+7 502 -1
+4 503 -1
+330 -1 -1
+519 -5 505
+239 -22 506
+15 507 541
+136 -1 508
+422 -1 509
+5 -16 -16
+16 511 -16
+1532 -16 512
+1552 -16 -1
+2721 514 515
+602 -16 -1
+1126 516 520
+59 517 518
+4 -1 -16
+3355 519 -16
+4 -1 -16
+157 -1 521
+496 -1 522
+853 -1 523
+421 524 526
+7 -1 525
+565 -16 -5
+294 -5 527
+676 -5 528
+862 -5 529
+977 -5 530
+3355 531 536
+1578 -5 532
+752 533 534
+4 -5 -16
+66 535 -16
+3597 -16 -1
+3370 -5 537
+766 538 539
+494 -5 -16
+48 540 -16
+59 -5 -16
+832 -5 542
+52 -1 543
+228 -7 544
+1499 -33 -16
+2307 546 547
+4 -16 -1
+1126 548 549
+16 -1 -16
+189 -16 550
+427 -16 551
+767 -16 -5
+187 553 583
+9 -16 -16
+164 -5 555
+116 556 559
+189 -5 557
+2835 -5 558
+383 -5 -16
+1063 560 561
+123 -1 -1
+150 -1 562
+381 563 564
+4 -16 -1
+497 -1 565
+862 -1 566
+1166 -1 567
+494 568 574
+4 569 -16
+7 570 -1
+11 571 -16
+16 572 -16
+66 -16 573
+28 -16 -1
+1794 -1 575
+3259 -1 576
+3659 -1 577
+3798 -1 578
+59 579 -16
+28 -16 -16
+427 -16 581
+4 582 -16
+432 -16 -5
+65 584 605
+296 585 586
+78 -7 -5
+164 -5 587
+1742 -5 588
+123 589 590
+1588 -16 -5
+13 591 -5
+520 592 594
+16 -5 593
+4 -16 -5
+166 -5 595
+3597 596 597
+3759 -16 -5
+362 -5 598
+810 -5 599
+1138 -5 600
+1483 -5 601
+3354 602 603
+28 -16 -16
+52 604 -16
+28 -16 -16
+1124 606 611
+7 -16 -16
+494 -1 608
+580 -1 -16
+62 -16 610
+164 -5 -22
+173 612 632
+15 613 631
+3355 -5 614
+389 -5 615
+7 616 -5
+640 -5 617
+584 618 620
+990 -20 619
+28 -5 -5
+302 -20 -20
+28 622 629
+494 -5 623
+582 -5 624
+889 -5 625
+3121 -5 626
+3400 -5 627
+52 -20 628
+116 -20 -20
+583 630 -20
+593 -5 -20
+9 -7 -22
+44 633 641
+296 -5 634
+1655 -16 -16
+3355 -5 636
+28 637 -16
+494 -16 638
+12 639 -5
+582 -5 640
+3400 -5 -16
+16 642 663
+2297 643 645
+28 644 -20
+583 -20 -5
+62 646 647
+833 -5 -22
+466 -5 -5
+34 649 650
+46 -7 -5
+3162 -1 651
+3301 -1 652
+3446 -1 653
+3632 -1 654
+862 655 656
+7 -1 -5
+2651 657 658
+28 -20 -5
+533 659 660
+235 -20 -5
+584 661 -5
+46 662 -5
+28 -5 -5
+61 664 669
+40 -5 665
+92 666 667
+95 -5 -7
+9 668 -15
+46 -15 -22
+2297 -20 670
+2178 671 672
+59 -20 -21
+239 -22 673
+59 674 678
+11 675 -16
+63 -22 676
+10 -3 677
+2865 -3 -5
+548 679 681
+15 -7 680
+7 -5 -21
+79 -7 -5
+115 683 790
+114 684 687
+1138 -16 685
+15 686 -7
+362 -16 -1
+568 688 691
+7 -1 689
+123 -16 690
+238 -22 -1
+16 692 777
+179 693 697
+565 -16 694
+3355 -16 695
+116 696 -1
+1 -1 -1
+564 698 699
+1138 -16 -1
+1116 700 701
+1138 -16 -1
+260 702 706
+707 -16 703
+52 704 -1
+1 -1 705
+1184 -1 -1
+647 -1 707
+675 -1 708
+1437 -16 709
+294 -5 710
+481 -5 711
+1 712 747
+1501 -1 713
+698 -16 714
+1518 -16 715
+1021 716 718
+4 717 -1
+116 -1 -16
+415 719 721
+52 -16 -16
+116 -1 -16
+364 -16 722
+2384 -16 723
+371 724 726
+52 -16 725
+707 -5 -1
+964 727 728
+28 -1 -16
+209 -1 729
+2435 -11 730
+483 731 732
+59 -1 -16
+601 733 734
+4 -16 -1
+7 735 745
+3204 -1 736
+362 -16 737
+658 -16 738
+1104 -16 739
+1506 -16 740
+1670 -16 741
+177 742 744
+12 743 -16
+3297 -16 -5
+3182 -16 -5
+1295 -5 -5
+669 -5 -1
+256 748 749
+28 -5 -22
+696 -5 750
+734 -5 751
+868 -5 752
+1422 -5 753
+811 754 755
+565 -16 -1
+482 756 757
+7 -1 -7
+208 -1 758
+1020 759 766
+1720 -16 -16
+4 761 -1
+116 -1 762
+300 -1 763
+494 -1 764
+642 765 -16
+28 -1 -16
+303 -5 767
+370 -1 768
+11 769 776
+618 -5 770
+580 -16 -16
+2604 -1 772
+1506 773 774
+494 -1 -16
+2124 775 -16
+584 -1 -16
+28 -16 -5
+34 778 784
+61 779 -21
+17 780 783
+64 -7 781
+169 -15 782
+9 -22 -15
+15 -1 -7
+59 785 787
+1 -7 -7
+7 -7 -15
+1118 -15 788
+52 -15 789
+384 -1 -5
+77 791 829
+7 792 815
+15 793 814
+59 794 800
+591 -20 795
+4 -20 -20
+107 -22 797
+3261 -11 798
+125 799 -20
+11 -11 -20
+3355 -11 801
+955 -11 -11
+3354 -11 803
+3400 -11 804
+494 -20 805
+20 806 -11
+177 -11 807
+296 -11 808
+353 -11 809
+416 -11 810
+827 -11 811
+591 812 -20
+116 -11 813
+584 -20 -20
+490 -7 -7
+170 816 818
+490 -15 817
+583 -15 -22
+239 819 820
+1352 -15 -22
+61 821 826
+584 -15 822
+17 823 -7
+59 824 -7
+4 825 -7
+76 -22 -7
+79 -7 827
+5 -15 828
+9 -21 -20
+289 -24 830
+200 831 845
+602 -23 -23
+7 -11 833
+10 -7 -5
+59 835 839
+7 836 -23
+4 837 -23
+1 838 -1
+1307 -1 -5
+270 840 843
+7 841 -16
+1 842 -23
+116 -23 -1
+20 844 -16
+584 -16 -23
+2690 -1 846
+1 -5 -13
+3 848 1127
+7 849 1048
+32 850 960
+2 851 874
+139 852 854
+4 853 -32
+28 -8 -32
+31 855 858
+13 856 -3
+48 -7 857
+220 -29 -8
+196 859 860
+16 -32 -8
+497 861 862
+10 -3 -30
+12 863 872
+8 -1 864
+150 -1 865
+86 866 867
+28 -1 -8
+15 868 -30
+302 -30 869
+67 870 871
+207 -30 -8
+45 -8 -8
+45 873 -3
+773 -30 -8
+30 875 893
+31 876 881
+12 877 880
+66 -3 878
+28 879 -8
+4 -8 -8
+8 -30 -3
+47 -3 -3
+474 883 884
+10 -30 -7
+299 -27 885
+20 886 -27
+355 -8 887
+4 888 -8
+109 -8 889
+127 -30 890
+3191 -30 891
+574 892 -3
+548 -30 -3
+333 894 896
+12 895 -32
+86 -1 -8
+146 897 906
+139 898 899
+440 -3 -32
+31 900 901
+118 -1 -3
+299 -3 902
+776 -3 903
+793 -3 904
+196 905 -8
+276 -8 -3
+65 907 926
+1938 -8 908
+840 -5 909
+45 910 913
+12 911 -3
+28 912 -3
+1 -3 -3
+1566 914 915
+28 -3 -3
+235 916 919
+86 917 -3
+12 918 -3
+16 -3 -3
+2787 920 921
+127 -32 -3
+299 922 -3
+28 923 -3
+12 924 -3
+1 925 -3
+4 -3 -3
+28 -3 -3
+44 928 936
+474 929 931
+31 930 -3
+20 -3 -11
+207 932 933
+12 -3 -3
+31 934 -3
+12 935 -3
+4 -3 -3
+56 937 938
+299 -27 -5
+86 -5 939
+173 -20 940
+424 -5 941
+1090 -5 942
+2291 -5 943
+556 944 -3
+46 -5 -3
+45 946 948
+46 -7 947
+150 -5 -30
+310 949 951
+47 950 -3
+12 -30 -25
+187 952 954
+139 -3 953
+3460 -3 -7
+232 955 956
+86 -7 -3
+112 -5 957
+294 -5 958
+559 -5 959
+1985 -5 -3
+27 961 991
+30 962 969
+8 963 965
+12 964 -27
+16 -3 -3
+13 966 -3
+47 -3 967
+26 968 -3
+28 -27 -27
+44 970 973
+26 -27 -27
+12 -27 -27
+258 -3 -3
+1125 974 975
+28 -5 -8
+1124 976 977
+26 -27 -11
+56 -27 978
+79 -7 979
+790 -30 980
+662 -27 981
+300 -27 982
+3352 -27 983
+28 984 -3
+12 985 -3
+2230 -3 986
+333 -3 987
+26 988 -3
+369 -3 989
+65 -3 990
+2 -3 -3
+2 992 1006
+62 993 996
+16 994 995
+11 -16 -31
+1 -21 -30
+264 -3 997
+1702 -29 998
+2766 -27 999
+17 1000 -1
+1088 -1 1001
+484 1002 1004
+4 -8 -8
+68 -1 -8
+120 1005 -8
+28 -8 -8
+30 1007 1011
+12 1008 -1
+4 1009 1010
+3113 -27 -8
+120 -8 -29
+69 1012 1027
+333 -8 1013
+146 1014 1018
+20 -16 -16
+28 1016 -5
+375 -5 1017
+3718 -5 -16
+187 1019 1020
+93 -5 -16
+2801 -5 -5
+150 -7 1022
+1363 -20 1023
+1011 1024 1025
+12 -3 -5
+887 -8 1026
+2164 -8 -5
+264 -3 1028
+283 1029 1039
+333 1030 1031
+1003 -8 -8
+146 1032 1033
+164 -3 -8
+187 1034 1035
+12 -8 -30
+915 -5 1036
+44 -5 1037
+66 -5 1038
+354 -5 -3
+92 1040 1041
+1 -7 -34
+146 1042 1045
+28 -16 1043
+16 1044 -8
+520 -8 -5
+157 -8 1046
+65 1047 -5
+296 -5 -5
+79 1049 1051
+662 1050 -7
+26 -27 -7
+34 1052 1108
+61 1053 1093
+2 -7 -7
+36 1055 1062
+26 -7 1056
+283 1057 1059
+4 -29 1058
+1 -7 -29
+841 -16 1060
+352 -29 1061
+68 -1 -1
+673 1063 1064
+26 -30 -29
+2416 -8 1065
+793 -8 1066
+139 -31 1067
+1949 -1 1068
+4 1069 -30
+848 -30 -7
+13 1071 1091
+15 1072 1088
+283 1073 1075
+4 -30 1074
+249 -30 -3
+352 -30 1076
+16 1077 1079
+31 1078 -7
+30 -29 -7
+770 -30 1080
+45 -5 1081
+9 1082 -3
+258 -3 1083
+315 -3 1084
+46 1085 1086
+31 -3 -7
+131 1087 -7
+10 -3 -7
+1337 1089 1090
+9 -31 -5
+1361 -31 -7
+26 -27 1092
+4 -30 -5
+725 -21 1094
+36 1095 1105
+37 1096 1097
+11 -3 -27
+865 -3 1098
+511 -29 1099
+961 -3 1100
+2 -30 1101
+31 1102 1103
+496 -7 -30
+17 -3 -3
+45 -30 -3
+26 -7 -7
+15 -3 1107
+9 -21 -7
+32 1109 1118
+781 -7 1110
+2 1111 1112
+4 -8 -32
+276 -32 1113
+239 -22 1114
+839 1115 1116
+17 -8 -30
+556 -25 1117
+1626 -5 -3
+2 1119 1122
+239 1120 1121
+64 -31 -22
+220 -3 -8
+27 1123 1124
+11 -3 -27
+69 -5 1125
+16 -5 -5
+1 -5 -8
+162 -19 1128
+77 1129 1197
+69 1130 1136
+7 1131 1134
+68 -11 -11
+21 1133 -20
+2956 -8 -11
+302 -31 1135
+542 -17 -7
+28 1137 1154
+1413 -14 1138
+103 -12 1139
+846 -12 1140
+320 -12 1141
+998 -12 1142
+769 -12 1143
+1649 -32 1144
+1482 -12 1145
+3115 -12 1146
+1469 -12 1147
+120 -20 1148
+1041 -12 1149
+1635 -12 1150
+2089 -12 1151
+3033 -12 1152
+3233 -12 1153
+3303 -12 -11
+103 1155 1156
+34 -7 -12
+16 1157 1174
+846 1158 1159
+26 -11 -12
+998 -12 1160
+320 -12 1161
+31 -11 1162
+7 1163 1173
+1469 -12 1164
+1482 -12 1165
+1635 -12 1166
+769 1167 1168
+139 -12 -11
+1456 -12 1169
+189 -12 1170
+556 -12 1171
+955 -12 1172
+1374 -12 -11
+84 -11 -11
+76 1175 1183
+31 1176 1178
+15 -11 1177
+34 -7 -12
+15 -7 -7
+242 -7 1180
+62 -7 -22
+32 1182 -31
+64 -31 -7
+61 1184 1185
+4 -31 -7
+934 1186 1187
+7 -31 -7
+139 -11 1188
+36 -11 1189
+17 1190 -12
+299 -11 1191
+947 -11 1192
+353 -11 1193
+434 -11 1194
+123 1195 1196
+352 -12 -11
+1395 -11 -12
+43 1198 1305
+28 1199 1220
+134 1200 1202
+68 -17 1201
+1 -12 -12
+41 -4 1203
+1025 -4 1204
+526 -4 1205
+1 -9 -9
+168 -28 1207
+436 -22 1208
+212 -4 1209
+916 -4 1210
+71 1211 -9
+2164 -4 1212
+68 -9 -9
+677 -4 1214
+939 -4 1215
+86 1216 1218
+660 -4 1217
+489 -4 -9
+867 1219 -9
+68 -4 -9
+16 1221 1238
+60 -21 1222
+7 1223 1236
+134 1224 1230
+32 1225 1227
+150 -17 1226
+1137 -17 -12
+20 1228 -20
+68 -17 1229
+142 -17 -22
+592 1231 1233
+13 1232 -22
+120 -22 -20
+436 -22 1234
+1 1235 -9
+27 -12 -21
+134 -12 1237
+239 -22 -9
+69 1239 1257
+7 1240 1247
+134 1241 1244
+64 -17 -17
+67 -22 1243
+183 -22 -17
+592 -20 1245
+1 -22 -22
+17 -22 -26
+34 1248 1254
+1535 1249 1250
+17 -26 -31
+170 1251 1252
+301 -22 -22
+35 -22 1253
+157 -22 -7
+79 -7 1255
+60 -21 1256
+318 -7 -17
+79 1258 1259
+20 -7 -9
+120 1260 1265
+34 1261 1262
+125 -7 -22
+60 -21 1263
+245 1264 -22
+1 -21 -9
+301 -22 1266
+61 1267 1286
+111 -7 1268
+496 1269 1270
+12 -7 -21
+1361 -31 1271
+1 -31 -31
+32 1273 1278
+495 1274 1277
+150 -7 1275
+169 1276 -31
+207 -31 -12
+86 -7 -31
+486 -7 1279
+749 -12 1280
+63 -12 1281
+204 -12 1282
+436 -12 -31
+9 1284 -9
+4 1285 -7
+31 -7 -31
+60 1287 1292
+8 -21 -21
+17 -31 1289
+7 1290 1291
+11 -31 -7
+33 -22 -21
+34 1293 1295
+9 -21 1294
+1 -17 -9
+45 1296 1298
+1 -7 1297
+150 -21 -9
+134 1299 1301
+125 -12 -12
+1709 -31 -12
+245 -9 1302
+352 -12 1303
+125 -12 1304
+548 -12 -31
+115 1306 1499
+426 1307 1311
+299 1308 -3
+12 1309 -3
+4 1310 -3
+1 -3 -3
+32 1312 1443
+672 1313 1319
+299 -25 -25
+766 -3 -3
+294 -3 1316
+951 -3 1317
+1203 -3 1318
+1573 -3 -25
+392 1320 1334
+31 -25 -25
+3508 -3 -25
+299 1323 1325
+12 1324 -25
+167 -3 -25
+167 -3 1326
+139 1327 1328
+1 -3 -3
+395 -3 1329
+12 1330 -25
+196 -3 1331
+3191 -3 1332
+310 -25 1333
+355 -25 -3
+667 1335 1344
+86 -3 1336
+738 -3 1337
+1 -25 1338
+299 1339 1340
+4 -3 -25
+666 -25 1341
+11 1342 -25
+123 -25 1343
+31 -3 -25
+31 1345 1373
+1735 -14 1346
+513 -14 1347
+260 1348 1353
+12 1349 -14
+47 -14 1350
+519 -14 1351
+1 -8 1352
+7 -8 -8
+1546 -11 1354
+1782 -11 1355
+1604 -25 1356
+12 1357 -3
+114 -8 1358
+564 -8 1359
+568 -8 1360
+28 1361 1370
+1116 -8 1362
+1501 -8 1363
+2144 -25 1364
+256 -5 1365
+1505 -5 1366
+1115 -14 1367
+1887 -3 -3
+647 -14 1369
+1323 -14 -3
+483 -8 1371
+7 -3 -3
+9 -7 -3
+7 1374 1436
+1335 -3 1375
+2144 -25 1376
+351 1377 1378
+12 -25 -3
+1 1379 1418
+139 1380 1386
+1531 -14 1381
+12 1382 1385
+992 -3 1383
+138 -14 1384
+1577 -14 -11
+97 -32 -14
+1311 -3 1387
+196 1388 1392
+1523 -3 1389
+1481 -14 -14
+195 -14 1391
+2471 -14 -11
+114 1393 1394
+45 -8 -1
+2748 -11 1395
+992 1396 1397
+12 -3 -3
+87 -34 1398
+1481 -3 1399
+1984 -3 1400
+3170 -11 1401
+3243 -11 1402
+3330 -11 1403
+179 -8 1404
+209 -8 1405
+547 -8 1406
+675 -8 1407
+1104 -8 1408
+603 -3 1409
+1947 -3 1410
+2709 -3 1411
+3182 -3 1412
+3320 -3 1413
+3378 -3 1414
+3695 -3 1415
+3713 -3 1416
+456 1417 -14
+45 -3 -14
+425 -3 1419
+139 1420 1425
+647 -32 1421
+16 1422 -3
+1116 -3 1423
+415 1424 -14
+11 -14 -14
+141 -5 1426
+1422 -3 1427
+370 -8 1428
+563 -8 1429
+1115 -8 1430
+209 1431 1433
+11 1432 -14
+12 -8 -8
+114 -8 1434
+260 -8 1435
+567 -8 -14
+16 1437 1441
+123 1438 1439
+1354 -32 -14
+1 1440 -7
+1186 -14 -8
+34 -7 1442
+139 -5 -31
+69 1444 1459
+68 1445 1450
+16 1446 -7
+2748 -11 1447
+164 -5 1448
+480 -5 1449
+1947 -5 -8
+414 1451 1452
+1011 -16 -5
+10 -8 -8
+1531 -14 1454
+576 -8 1455
+1017 -8 1456
+93 -8 1457
+114 -8 1458
+675 -8 -5
+7 1460 1496
+120 1461 1466
+2179 -8 -8
+260 -8 1463
+482 -8 1464
+564 -8 1465
+568 -8 -5
+618 -3 1467
+1018 1468 1469
+1 -11 -8
+26 1470 1473
+1735 -14 1471
+513 -14 1472
+671 -25 -8
+285 1474 1475
+284 -11 -25
+20 1476 1494
+482 1477 1481
+263 -14 1478
+4 1479 1480
+483 -3 -14
+1241 -3 -3
+1 1482 1488
+1093 -5 1483
+1427 -14 1484
+731 -11 1485
+1698 -11 1486
+260 -8 1487
+371 -8 -3
+208 -14 1489
+4 1490 -8
+28 1491 1493
+282 -8 1492
+1421 -5 -3
+294 -5 -8
+4 -14 -14
+474 -3 -14
+645 -3 1497
+1019 1498 -7
+4 -31 -11
+50 1500 1563
+7 1501 1555
+292 -18 1502
+1649 -32 1503
+69 -6 -6
+904 -13 1505
+1341 1506 1507
+374 -34 -6
+1298 -13 1508
+541 -18 1509
+841 1510 1513
+434 -6 1511
+453 -6 1512
+2713 -6 -13
+434 -13 1514
+1440 -13 1515
+2019 -13 -6
+121 1517 1523
+217 -11 1518
+1192 -5 1519
+1072 -18 1520
+1 1521 -6
+4 1522 -6
+12 -6 -6
+283 1524 1528
+913 -18 1525
+1701 -18 1526
+717 1527 -6
+1 -22 -6
+1 1529 1538
+139 1530 1532
+4 1531 -32
+12 -6 -6
+196 -6 1533
+493 -3 1534
+1456 -3 1535
+2096 -3 1536
+31 1537 -6
+12 -6 -6
+1500 -13 1539
+1965 -13 1540
+2265 -3 1541
+374 1542 1543
+45 -34 -6
+1284 1544 1545
+28 -34 -6
+1294 1546 1547
+12 -3 -6
+688 1548 1549
+139 -3 -6
+263 1550 1552
+266 -6 1551
+4 -3 -6
+581 1553 -6
+31 1554 -6
+393 -6 -3
+120 1556 1557
+123 -6 -7
+15 -6 -6
+49 1559 -33
+78 -7 -6
+1 1561 1562
+12 -7 -22
+32 -21 -6
+75 1564 1566
+159 -18 1565
+374 -34 -10
+200 1567 1606
+264 1568 1575
+7 1569 1574
+12 1570 1573
+472 1571 1572
+1 -28 -23
+3554 -28 -27
+263 -23 -28
+926 -23 -7
+86 1576 1577
+3626 -23 -11
+7 1578 1601
+270 -23 1579
+1307 1580 1581
+393 -3 -11
+32 1582 1596
+199 -11 1583
+12 1584 1588
+3101 -11 1585
+2854 -11 1586
+2970 -11 1587
+3104 -11 -23
+472 -23 1589
+142 -23 1590
+335 -23 1591
+196 -23 1592
+1178 -23 1593
+2786 -23 1594
+461 -23 1595
+2715 -23 -11
+93 -11 1597
+2734 -27 1598
+2766 -27 1599
+26 1600 -23
+461 -23 -23
+718 -30 1602
+69 1603 1604
+123 -23 -7
+199 -11 1605
+832 -31 -23
+289 -24 1607
+217 1608 1612
+792 1609 -11
+11 1610 -3
+139 -3 1611
+299 -3 -11
+7 1613 1616
+26 1614 1615
+13 -27 -3
+2689 -27 -3
+33 -3 -30

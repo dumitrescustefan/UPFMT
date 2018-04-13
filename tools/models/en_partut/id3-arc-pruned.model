@@ -1,0 +1,4539 @@
+2694
+ff_0:</s>
+ff_1:PROPN__
+ff_2:SP
+ff_3:</s>
+ff_4:NOUN_Number=Sing
+ff_5:NOUN
+ff_6:</s>
+ff_7:PROPN__
+ff_8:</s>
+ff_9:PROPN__
+ff_10:</s>
+ff_11:NULL
+ff_12:</s>
+ff_13:NULL
+ff_14:</s>
+ff_15:NULL
+ff_16:</s>
+ff_17:NULL
+ff_18:</s>
+ff_19:NULL
+ff_20:</s>
+ff_21:NULL
+ff_4:PROPN__
+ff_5:PROPN
+ff_7:NULL
+ff_9:NULL
+ff_1:NOUN_Number=Sing
+ff_2:S
+ff_0:is
+ff_1:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_2:VA
+ff_0:not
+ff_1:PART_Polarity=Neg
+ff_2:PART
+ff_0:a
+ff_1:DET_Definite=Ind|Number=Sing|PronType=Art
+ff_2:RI
+ff_0:law
+ff_0:and
+ff_1:CCONJ__
+ff_2:CC
+ff_4:VERB_Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin
+ff_5:VERB
+ff_2:VM
+ff_1:VERB_Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin
+ff_2:V
+ff_6:and
+ff_7:CCONJ__
+ff_8:services
+ff_9:NOUN_Number=Plur
+ff_15:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_16:not
+ff_17:PART_Polarity=Neg
+ff_1:ADJ_Degree=Pos
+ff_2:A
+ff_3:services
+ff_4:NOUN_Number=Plur
+ff_0:services
+ff_1:NOUN_Number=Plur
+ff_7:ADJ_Degree=Pos
+ff_9:ADJ_Degree=Pos
+ff_0:.
+ff_1:PUNCT__
+ff_2:FS
+ff_4:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_0:no
+ff_1:DET_PronType=Ind
+ff_2:DI
+ff_11:NOUN_Number=Sing
+ff_13:NOUN_Number=Sing
+ff_6:no
+ff_7:DET_PronType=Ind
+ff_9:VERB_Number=Sing|Tense=Pres|VerbForm=Part
+ff_15:VERB_Number=Sing|Tense=Pres|VerbForm=Part
+ff_16:no
+ff_17:DET_PronType=Ind
+ff_1:VERB_Number=Sing|Tense=Pres|VerbForm=Part
+ff_7:NOUN_Number=Sing
+ff_9:NOUN_Number=Sing
+ff_0:the
+ff_1:DET_Definite=Def|PronType=Art
+ff_2:RD
+ff_4:VERB_Number=Sing|Tense=Pres|VerbForm=Part
+ff_6:the
+ff_7:DET_Definite=Def|PronType=Art
+ff_9:VERB_Tense=Past|VerbForm=Part
+ff_15:VERB_Tense=Past|VerbForm=Part
+ff_16:the
+ff_17:DET_Definite=Def|PronType=Art
+ff_1:VERB_Tense=Past|VerbForm=Part
+ff_0:,
+ff_2:FF
+ff_11:NOUN_Number=Plur
+ff_13:NOUN_Number=Plur
+ff_1:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_6:,
+ff_7:PUNCT__
+ff_14:and
+ff_15:CCONJ__
+ff_16:and
+ff_17:CCONJ__
+ff_7:NOUN_Number=Plur
+ff_0:for
+ff_1:ADP__
+ff_2:E
+ff_10:use
+ff_12:use
+ff_6:for
+ff_7:ADP__
+ff_16:for
+ff_17:ADP__
+ff_6:use
+ff_8:use
+ff_0:from
+ff_3:use
+ff_0:its
+ff_1:DET_Number=Sing|Poss=Yes|PronType=Prs
+ff_2:AP
+ff_0:use
+ff_6:from
+ff_8:its
+ff_9:DET_Number=Sing|Poss=Yes|PronType=Prs
+ff_14:its
+ff_15:DET_Number=Sing|Poss=Yes|PronType=Prs
+ff_16:from
+ff_8:,
+ff_9:PUNCT__
+ff_14:,
+ff_15:PUNCT__
+ff_17:NOUN_Number=Plur
+ff_0:to
+ff_4:ADJ_Degree=Pos
+ff_5:ADJ
+ff_6:to
+ff_14:the
+ff_15:DET_Definite=Def|PronType=Art
+ff_15:NOUN_Number=Sing
+ff_0:of
+ff_0:this
+ff_1:DET_Number=Sing|PronType=Dem
+ff_2:DD
+ff_6:of
+ff_8:this
+ff_9:DET_Number=Sing|PronType=Dem
+ff_14:this
+ff_15:DET_Number=Sing|PronType=Dem
+ff_16:of
+ff_1:ADV__
+ff_2:B
+ff_1:PRON_Person=2|PronType=Prs
+ff_2:PE
+ff_15:ADJ_Degree=Pos
+ff_17:ADJ_Degree=Pos
+ff_6:-
+ff_8:-
+ff_0:-
+ff_16:,
+ff_17:PUNCT__
+ff_1:ADV_PronType=Neg
+ff_2:BN
+ff_4:ADV_PronType=Neg
+ff_5:ADV
+ff_9:ADV_PronType=Neg
+ff_15:ADV_PronType=Neg
+ff_0:(
+ff_2:FB
+ff_6:(
+ff_8:)
+ff_14:for
+ff_15:ADP__
+ff_17:NOUN_Number=Sing
+ff_0:)
+ff_6:a
+ff_7:DET_Definite=Ind|Number=Sing|PronType=Art
+ff_9:VERB_VerbForm=Inf
+ff_1:PART__
+ff_4:VERB_VerbForm=Inf
+ff_1:VERB_VerbForm=Inf
+ff_7:PART__
+ff_9:VERB_Mood=Ind|Person=3|Tense=Past|VerbForm=Fin
+ff_14:rights
+ff_15:NOUN_Number=Plur
+ff_16:rights
+ff_3:rights
+ff_0:rights
+ff_0:in
+ff_6:in
+ff_8:the
+ff_9:DET_Definite=Def|PronType=Art
+ff_16:in
+ff_0:as
+ff_4:VERB_Mood=Ind|Person=3|Tense=Past|VerbForm=Fin
+ff_1:VERB_Mood=Ind|Person=3|Tense=Past|VerbForm=Fin
+ff_6:as
+ff_9:ADV__
+ff_15:ADV__
+ff_16:as
+ff_0::
+ff_2:FC
+ff_8:of
+ff_9:ADP__
+ff_0:where
+ff_1:SCONJ__
+ff_2:CS
+ff_3:work
+ff_0:work
+ff_6:where
+ff_7:SCONJ__
+ff_14:work
+ff_16:a
+ff_17:DET_Definite=Ind|Number=Sing|PronType=Art
+ff_3:made
+ff_4:VERB_Tense=Past|VerbForm=Part
+ff_10:to
+ff_11:ADP__
+ff_13:VERB_Tense=Past|VerbForm=Part
+ff_15:VERB_Mood=Ind|Person=3|Tense=Past|VerbForm=Fin
+ff_19:VERB_Tense=Past|VerbForm=Part
+ff_20:to
+ff_21:ADP__
+ff_15:NUM_NumType=Card
+ff_17:NUM_NumType=Card
+ff_1:NUM_NumType=Card
+ff_2:N
+ff_16:to
+ff_0:by
+ff_1:ADJ_Number=Sing
+ff_6:by
+ff_9:ADJ_Number=Sing
+ff_4:ADP__
+ff_5:ADP
+ff_17:VERB_Tense=Past|VerbForm=Part
+ff_9:DET_PronType=Ind
+ff_15:DET_PronType=Ind
+ff_1:AUX_Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin
+ff_1:AUX_VerbForm=Inf
+ff_4:PRON_Person=2|PronType=Prs
+ff_5:PRON
+ff_13:VERB_Number=Sing|Tense=Pres|VerbForm=Part
+ff_19:DET_PronType=Ind
+ff_21:NOUN_Number=Sing
+ff_9:CCONJ__
+ff_13:ADP__
+ff_17:DET_Number=Sing|PronType=Dem
+ff_1:AUX_Tense=Past|VerbForm=Part
+ff_7:ADV__
+ff_15:SCONJ__
+ff_17:AUX_Tense=Past|VerbForm=Part
+ff_1:DET_PronType=Dem
+ff_9:DET_PronType=Dem
+ff_15:DET_PronType=Dem
+ff_1:PRON_Number=Sing|Person=1|PronType=Prs
+ff_4:VERB_Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+ff_1:VERB_Person=3|Tense=Past|VerbForm=Part
+ff_0:on
+ff_6:on
+ff_15:PROPN__
+ff_16:on
+ff_7:NUM_NumType=Card
+ff_9:NUM_NumType=Card
+ff_3:like
+ff_11:ADV__
+ff_13:ADV__
+ff_0:would
+ff_1:AUX_Mood=Ind|Person=3|Tense=Past|VerbForm=Fin
+ff_0:like
+ff_17:ADV__
+ff_4:ADV__
+ff_14:you
+ff_15:PRON_Person=2|PronType=Prs
+ff_16:year
+ff_0:you
+ff_3:year
+ff_0:new
+ff_0:year
+ff_8:new
+ff_0:that
+ff_6:that
+ff_8:period
+ff_16:you
+ff_17:PRON_Person=2|PronType=Prs
+ff_3:period
+ff_0:period
+ff_1:NOUN_Gender=Fem|Number=Sing
+ff_3:point
+ff_4:NOUN_Gender=Fem|Number=Sing
+ff_3:order
+ff_0:order
+ff_0:will
+ff_0:be
+ff_8:and
+ff_3:been
+ff_0:there
+ff_0:have
+ff_0:been
+ff_14:there
+ff_12:.
+ff_13:PUNCT__
+ff_19:PRON_Number=Sing|PronType=Ind
+ff_21:PRON_Number=Sing|PronType=Ind
+ff_7:DET_Number=Sing|Poss=Yes|PronType=Prs
+ff_4:PRON_Number=Sing|PronType=Ind
+ff_1:PRON_Number=Sing|PronType=Ind
+ff_2:PI
+ff_15:VERB_VerbForm=Inf
+ff_1:PRON_PronType=Rel
+ff_2:PR
+ff_7:PRON_PronType=Rel
+ff_14:will
+ff_15:AUX_Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin
+ff_0:up
+ff_8:on
+ff_0:which
+ff_6:then
+ff_8:then
+ff_0:then
+ff_3:will
+ff_4:AUX_Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin
+ff_5:AUX
+ff_14:which
+ff_15:PRON_PronType=Rel
+ff_16:will
+ff_17:AUX_Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin
+ff_10:of
+ff_18:the
+ff_19:DET_Definite=Def|PronType=Art
+ff_20:the
+ff_21:DET_Definite=Def|PronType=Art
+ff_3:would
+ff_4:AUX_Mood=Ind|Person=3|Tense=Past|VerbForm=Fin
+ff_8:it
+ff_9:PRON_Number=Sing|Person=3|PronType=Prs
+ff_14:it
+ff_15:PRON_Number=Sing|Person=3|PronType=Prs
+ff_17:PART__
+ff_0:it
+ff_1:PRON_Number=Sing|Person=3|PronType=Prs
+ff_14:would
+ff_15:AUX_Mood=Ind|Person=3|Tense=Past|VerbForm=Fin
+ff_16:be
+ff_17:AUX_VerbForm=Inf
+ff_3:set
+ff_1:VERB_VerbForm=Ger
+ff_0:with
+ff_6:this
+ff_7:DET_Number=Sing|PronType=Dem
+ff_8:'s
+ff_9:PART__
+ff_14:'s
+ff_15:PART__
+ff_16:this
+ff_0:'s
+ff_0:first
+ff_1:ADJ_Degree=Pos|NumType=Ord
+ff_2:NO
+ff_0:part
+ff_4:VERB_VerbForm=Ger
+ff_6:with
+ff_14:year
+ff_16:-
+ff_8:a
+ff_9:DET_Definite=Ind|Number=Sing|PronType=Art
+ff_0:has
+ff_8:in
+ff_8:man
+ff_9:NOUN_Gender=Masc|Number=Sing
+ff_3:man
+ff_4:NOUN_Gender=Masc|Number=Sing
+ff_0:young
+ff_3:old
+ff_18:a
+ff_19:DET_Definite=Ind|Number=Sing|PronType=Art
+ff_20:old
+ff_21:ADJ_Degree=Pos
+ff_0:old
+ff_6:year
+ff_14:-
+ff_0:man
+ff_1:NOUN_Gender=Masc|Number=Sing
+ff_14:a
+ff_15:DET_Definite=Ind|Number=Sing|PronType=Art
+ff_16:old
+ff_0:who
+ff_6:who
+ff_8:death
+ff_14:has
+ff_16:been
+ff_3:death
+ff_0:death
+ff_8:to
+ff_6:now
+ff_8:now
+ff_0:now
+ff_3:is
+ff_4:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_6:which
+ff_14:is
+ff_14:by
+ff_3:make
+ff_0:make
+ff_17:VERB_VerbForm=Ger
+ff_0:your
+ff_1:DET_Poss=Yes|PronType=Prs
+ff_14:your
+ff_15:DET_Poss=Yes|PronType=Prs
+ff_16:your
+ff_17:DET_Poss=Yes|PronType=Prs
+ff_9:VERB_Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin
+ff_6:you
+ff_7:PRON_Person=2|PronType=Prs
+ff_8:has
+ff_9:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_14:to
+ff_17:NOUN_Gender=Masc|Number=Sing
+ff_17:PROPN__
+ff_3:has
+ff_16:who
+ff_17:PRON_PronType=Rel
+ff_8:order
+ff_14:order
+ff_0:should
+ff_6:your
+ff_7:DET_Poss=Yes|PronType=Prs
+ff_8:your
+ff_9:DET_Poss=Yes|PronType=Prs
+ff_3:which
+ff_4:PRON_PronType=Rel
+ff_0:an
+ff_6:an
+ff_8:an
+ff_0:however
+ff_3:however
+ff_0:he
+ff_1:PRON_Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_9:VERB_VerbForm=Ger
+ff_0:before
+ff_10:more
+ff_11:ADV_Degree=Cmp
+ff_12:more
+ff_13:ADV_Degree=Cmp
+ff_6:before
+ff_16:before
+ff_6:more
+ff_7:ADV_Degree=Cmp
+ff_8:more
+ff_9:ADV_Degree=Cmp
+ff_0:more
+ff_1:ADV_Degree=Cmp
+ff_0:because
+ff_0:public
+ff_8:public
+ff_14:public
+ff_6:because
+ff_8:is
+ff_9:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_7:PRON_Number=Sing|Person=1|PronType=Prs
+ff_9:PRON_Number=Sing|Person=1|PronType=Prs
+ff_8:fact
+ff_3:fact
+ff_0:fact
+ff_1:AUX_Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin
+ff_8:increased
+ff_3:increased
+ff_0:during
+ff_6:during
+ff_0:our
+ff_8:our
+ff_14:our
+ff_0:increased
+ff_14:that
+ff_4:NUM_NumType=Card
+ff_5:NUM
+ff_0:?
+ff_0:them
+ff_1:PRON_Number=Plur|Person=3|PronType=Prs
+ff_0:they
+ff_0:had
+ff_14:they
+ff_15:PRON_Number=Plur|Person=3|PronType=Prs
+ff_16:part
+ff_0:any
+ff_14:any
+ff_16:any
+ff_10:not
+ff_11:PART_Polarity=Neg
+ff_12:not
+ff_13:PART_Polarity=Neg
+ff_6:not
+ff_7:PART_Polarity=Neg
+ff_8:not
+ff_9:PART_Polarity=Neg
+ff_0:among
+ff_6:among
+ff_10:for
+ff_13:ADJ_Degree=Pos
+ff_19:ADJ_Degree=Pos
+ff_20:for
+ff_0:also
+ff_0:point
+ff_14:out
+ff_0:out
+ff_10:that
+ff_11:SCONJ__
+ff_13:VERB_VerbForm=Inf
+ff_19:NOUN_Number=Sing
+ff_6:its
+ff_16:its
+ff_17:DET_Number=Sing|Poss=Yes|PronType=Prs
+ff_3:did
+ff_0:so
+ff_3:then
+ff_3:end
+ff_0:end
+ff_16:which
+ff_1:AUX_Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin
+ff_17:AUX_Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin
+ff_8:as
+ff_9:VERB_Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin
+ff_15:VERB_Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin
+ff_4:VERB_Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin
+ff_13:VERB_Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin
+ff_1:VERB_Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin
+ff_0:we
+ff_1:PRON_Number=Plur|Person=1|PronType=Prs
+ff_16:then
+ff_3:know
+ff_0:do
+ff_1:AUX_Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+ff_0:but
+ff_14:in
+ff_14:but
+ff_0:if
+ff_0:were
+ff_1:AUX_Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin
+ff_6:if
+ff_8:were
+ff_9:AUX_Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin
+ff_0:several
+ff_6:several
+ff_8:several
+ff_0:against
+ff_6:against
+ff_1:PRON_PronType=Prs
+ff_4:VERB_Mood=Ind|VerbForm=Fin
+ff_0:shall
+ff_11:NOUN_Gender=Masc|Number=Sing
+ff_13:NOUN_Gender=Masc|Number=Sing
+ff_7:NOUN_Gender=Masc|Number=Sing
+ff_0:capital
+ff_8:capital
+ff_14:capital
+ff_15:NOUN_Gender=Masc|Number=Sing
+ff_3:so
+ff_3:clear
+ff_0:are
+ff_0:clear
+ff_14:are
+ff_15:AUX_Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin
+ff_3:take
+ff_6:'s
+ff_0:into
+ff_3:account
+ff_0:account
+ff_6:into
+ff_8:into
+ff_6:any
+ff_1:PRON_Number=Sing|PronType=Dem
+ff_2:PD
+ff_0:better
+ff_7:VERB_VerbForm=Ger
+ff_7:PRON_Number=Sing|PronType=Dem
+ff_8:better
+ff_0:than
+ff_3:better
+ff_6:than
+ff_10:this
+ff_11:PRON_Number=Sing|PronType=Dem
+ff_12:better
+ff_14:now
+ff_16:now
+ff_18:is
+ff_19:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_20:a
+ff_21:DET_Definite=Ind|Number=Sing|PronType=Art
+ff_10:if
+ff_13:VERB_Mood=Ind|Person=3|Tense=Past|VerbForm=Fin
+ff_21:ADV__
+ff_0:how
+ff_0:my
+ff_10:how
+ff_20:how
+ff_6:my
+ff_8:my
+ff_6:how
+ff_16:how
+ff_8:can
+ff_9:AUX_Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin
+ff_14:can
+ff_3:shall
+ff_3:can
+ff_0:can
+ff_3:that
+ff_14:be
+ff_15:AUX_VerbForm=Inf
+ff_16:our
+ff_0:important
+ff_0:well
+ff_6:well
+ff_16:well
+ff_0:safety
+ff_16:safety
+ff_0:being
+ff_1:AUX_VerbForm=Ger
+ff_6:being
+ff_7:AUX_VerbForm=Ger
+ff_8:being
+ff_9:AUX_VerbForm=Ger
+ff_8:that
+ff_9:SCONJ__
+ff_0:right
+ff_8:right
+ff_14:right
+ff_6:so
+ff_8:time
+ff_16:is
+ff_17:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_3:time
+ff_0:time
+ff_1:DET_PronType=Tot
+ff_2:T
+ff_3:same
+ff_0:same
+ff_7:DET_PronType=Tot
+ff_0:must
+ff_8:law
+ff_14:law
+ff_16:with
+ff_3:law
+ff_8:ensure
+ff_14:ensure
+ff_3:ensure
+ff_0:ensure
+ff_8:safety
+ff_14:safety
+ff_1:ADJ_Degree=Cmp
+ff_3:safety
+ff_7:ADJ_Degree=Cmp
+ff_9:ADJ_Degree=Cmp
+ff_3:us
+ff_4:PRON_Number=Plur|Person=1|PronType=Prs
+ff_10:who
+ff_11:PRON_PronType=Rel
+ff_12:,
+ff_20:today
+ff_0:us
+ff_8:with
+ff_16:today
+ff_0:today
+ff_16:an
+ff_8:make
+ff_14:make
+ff_17:ADJ_Degree=Cmp
+ff_8:have
+ff_3:future
+ff_0:future
+ff_3:have
+ff_14:we
+ff_15:PRON_Number=Plur|Person=1|PronType=Prs
+ff_14:more
+ff_15:ADV_Degree=Cmp
+ff_3:more
+ff_4:ADV_Degree=Cmp
+ff_8:any
+ff_0:such
+ff_6:such
+ff_7:DET_PronType=Dem
+ff_8:such
+ff_10:,
+ff_11:PUNCT__
+ff_13:PROPN__
+ff_10:citizens
+ff_12:citizens
+ff_0:two
+ff_6:citizens
+ff_8:citizens
+ff_3:citizens
+ff_0:citizens
+ff_11:PROPN__
+ff_19:PROPN__
+ff_21:PROPN__
+ff_8:all
+ff_9:PRON_PronType=Ind
+ff_17:VERB_Number=Sing|Tense=Pres|VerbForm=Part
+ff_3:all
+ff_4:PRON_PronType=Ind
+ff_0:all
+ff_1:PRON_PronType=Ind
+ff_0:within
+ff_0:last
+ff_6:within
+ff_16:last
+ff_17:ADJ_Degree=Pos|NumType=Ord
+ff_8:for
+ff_0:those
+ff_1:PRON_Number=Plur|PronType=Dem
+ff_7:VERB_Mood=Ind|Person=3|Tense=Past|VerbForm=Fin
+ff_3:those
+ff_4:PRON_Number=Plur|PronType=Dem
+ff_11:VERB_VerbForm=Ger
+ff_13:VERB_VerbForm=Ger
+ff_3:public
+ff_7:VERB_VerbForm=Inf
+ff_17:VERB_VerbForm=Inf
+ff_0:given
+ff_0:international
+ff_3:given
+ff_14:international
+ff_16:international
+ff_0:these
+ff_1:DET_Number=Plur|PronType=Dem
+ff_14:these
+ff_15:DET_Number=Plur|PronType=Dem
+ff_16:these
+ff_17:DET_Number=Plur|PronType=Dem
+ff_8:therefore
+ff_0:therefore
+ff_14:as
+ff_3:as
+ff_8:way
+ff_16:example
+ff_3:example
+ff_0:example
+ff_3:way
+ff_0:under
+ff_0:way
+ff_8:under
+ff_4:PRON_Number=Sing|Person=3|PronType=Prs
+ff_21:VERB_VerbForm=Inf
+ff_0:particularly
+ff_6:particularly
+ff_3:goods
+ff_0:goods
+ff_15:PRON_Number=Plur|PronType=Dem
+ff_17:NOUN__
+ff_3:part
+ff_4:NOUN__
+ff_1:NOUN__
+ff_15:NOUN__
+ff_8:states
+ff_14:them
+ff_16:them
+ff_17:PRON_Number=Plur|Person=3|PronType=Prs
+ff_3:states
+ff_0:states
+ff_0:very
+ff_8:standards
+ff_3:standards
+ff_0:standards
+ff_0:although
+ff_6:although
+ff_15:PRON_Number=Sing|Person=1|PronType=Prs
+ff_16:it
+ff_17:PRON_Number=Sing|Person=3|PronType=Prs
+ff_6:set
+ff_8:set
+ff_11:ADJ_Degree=Pos
+ff_19:NOUN_Number=Plur
+ff_0:set
+ff_14:standards
+ff_0:equal
+ff_16:equal
+ff_16:by
+ff_3:therefore
+ff_8:support
+ff_3:support
+ff_0:support
+ff_16:my
+ff_6:be
+ff_7:AUX_Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin
+ff_14:on
+ff_0:or
+ff_0:at
+ff_6:or
+ff_8:at
+ff_14:at
+ff_16:or
+ff_6:very
+ff_8:very
+ff_0:take
+ff_8:end
+ff_15:AUX_VerbForm=Ger
+ff_17:AUX_VerbForm=Ger
+ff_14:an
+ff_1:NOUN_Gender=Masc|Number=Plur
+ff_4:NOUN_Gender=Masc|Number=Plur
+ff_15:NOUN_Gender=Masc|Number=Plur
+ff_16:have
+ff_17:AUX_Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+ff_10:which
+ff_12:made
+ff_8:made
+ff_0:made
+ff_0:their
+ff_6:their
+ff_8:their
+ff_3:one
+ff_0:one
+ff_1:ADJ_Degree=Sup
+ff_17:ADJ_Degree=Sup
+ff_14:have
+ff_1:AUX_Number=Sing|Tense=Pres|VerbForm=Part
+ff_7:AUX_Number=Sing|Tense=Pres|VerbForm=Part
+ff_9:AUX_Number=Sing|Tense=Pres|VerbForm=Part
+ff_1:AUX_Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin
+ff_4:PRON_Number=Plur|Person=3|PronType=Prs
+ff_0:few
+ff_3:do
+ff_4:AUX_Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin
+ff_14:not
+ff_15:PART_Polarity=Neg
+ff_14:do
+ff_16:do
+ff_17:AUX_Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin
+ff_14:/
+ff_0:/
+ff_11:NUM_NumType=Card
+ff_21:NUM_NumType=Card
+ff_6:/
+ff_10:/
+ff_16:/
+ff_19:NUM_NumType=Card
+ff_20:/
+ff_21:PUNCT__
+ff_16:goods
+ff_8:by
+ff_14:)
+ff_16:(
+ff_0:member
+ff_16:member
+ff_8:goods
+ff_14:force
+ff_16:force
+ff_3:force
+ff_0:force
+ff_0:only
+ff_14:being
+ff_15:AUX_Number=Sing|Tense=Pres|VerbForm=Part
+ff_8:work
+ff_20:of
+ff_6:is
+ff_7:VERB_Mood=Ind|Tense=Pres|VerbForm=Fin
+ff_9:VERB_Mood=Ind|Tense=Pres|VerbForm=Fin
+ff_1:VERB_Mood=Ind|Tense=Pres|VerbForm=Fin
+ff_6:work
+ff_14:very
+ff_18:are
+ff_19:AUX_Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin
+ff_20:are
+ff_21:AUX_Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin
+ff_7:ADV_PronType=Neg
+ff_8:no
+ff_16:are
+ff_1:X__
+ff_2:X
+ff_6:)
+ff_3:a
+ff_4:X__
+ff_5:X
+ff_15:X__
+ff_1:X_Foreign=Yes
+ff_2:SW
+ff_7:X_Foreign=Yes
+ff_9:X_Foreign=Yes
+ff_4:X_Foreign=Yes
+ff_15:X_Foreign=Yes
+ff_17:X_Foreign=Yes
+ff_0:less
+ff_6:less
+ff_8:less
+ff_4:ADJ_Number=Sing
+ff_7:ADJ_Number=Sing
+ff_12:goods
+ff_11:VERB_Tense=Past|VerbForm=Part
+ff_7:VERB_Tense=Past|VerbForm=Part
+ff_19:ADV__
+ff_15:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_16:early
+ff_9:PRON_Number=Sing|PronType=Dem
+ff_15:PRON_Number=Sing|PronType=Dem
+ff_3:this
+ff_4:PRON_Number=Sing|PronType=Dem
+ff_3:early
+ff_0:early
+ff_8:within
+ff_12:make
+ff_18:make
+ff_19:VERB_VerbForm=Inf
+ff_6:at
+ff_0:three
+ff_8:three
+ff_14:three
+ff_15:VERB_Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin
+ff_0:between
+ff_6:between
+ff_8:force
+ff_16:into
+ff_0:may
+ff_8:used
+ff_16:may
+ff_3:used
+ff_0:used
+ff_3:it
+ff_21:NOUN_Number=Plur
+ff_10:the
+ff_11:DET_Definite=Def|PronType=Art
+ff_10:goods
+ff_6:goods
+ff_6:these
+ff_7:DET_Number=Plur|PronType=Dem
+ff_9:PRON_PronType=Rel
+ff_4:ADJ_Degree=Cmp
+ff_8:than
+ff_16:standards
+ff_6:safety
+ff_9:VERB_Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin
+ff_3:were
+ff_4:VERB_Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin
+ff_1:VERB_Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin
+ff_6:they
+ff_7:PRON_Number=Plur|Person=3|PronType=Prs
+ff_1:PRON_PronType=Int
+ff_2:PQ
+ff_4:PRON_PronType=Int
+ff_6:we
+ff_7:PRON_Number=Plur|Person=1|PronType=Prs
+ff_8:today
+ff_17:VERB_Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin
+ff_16:we
+ff_17:PRON_Number=Plur|Person=1|PronType=Prs
+ff_6:our
+ff_14:he
+ff_15:PRON_Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_16:has
+ff_4:SCONJ__
+ff_5:SCONJ
+ff_6:out
+ff_8:out
+ff_0:could
+ff_8:been
+ff_16:more
+ff_17:ADV_Degree=Cmp
+ff_3:had
+ff_6:had
+ff_7:AUX_Mood=Ind|Person=3|Tense=Past|VerbForm=Fin
+ff_8:part
+ff_16:very
+ff_14:up
+ff_16:up
+ff_14:also
+ff_16:account
+ff_8:much
+ff_16:work
+ff_3:much
+ff_0:much
+ff_15:ADJ_Number=Sing
+ff_16:new
+ff_0:after
+ff_6:after
+ff_1:DET_Definite=Ind|PronType=Art
+ff_7:DET_Definite=Ind|PronType=Art
+ff_9:DET_Definite=Ind|PronType=Art
+ff_8:same
+ff_9:AUX_Tense=Past|VerbForm=Part
+ff_4:PRON_Number=Sing|Person=1|PronType=Prs
+ff_8:what
+ff_9:PRON_Number=Sing|PronType=Rel
+ff_14:first
+ff_15:ADJ_Degree=Pos|NumType=Ord
+ff_16:first
+ff_3:what
+ff_4:PRON_Number=Sing|PronType=Rel
+ff_0:what
+ff_1:PRON_Number=Sing|PronType=Rel
+ff_7:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_0:most
+ff_3:important
+ff_10:as
+ff_12:important
+ff_6:most
+ff_8:most
+ff_8:important
+ff_17:VERB_Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+ff_1:VERB_Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+ff_17:PRON_Number=Sing|Person=1|PronType=Prs
+ff_0:many
+ff_3:people
+ff_0:people
+ff_6:many
+ff_8:many
+ff_14:people
+ff_8:some
+ff_14:some
+ff_15:PRON_PronType=Ind
+ff_0:some
+ff_3:some
+ff_10:within
+ff_3:just
+ff_0:just
+ff_6:just
+ff_6:but
+ff_15:ADJ_Degree=Cmp
+ff_0:economic
+ff_8:economic
+ff_16:within
+ff_15:VERB_Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+ff_16:must
+ff_16:at
+ff_16:would
+ff_17:AUX_Mood=Ind|Person=3|Tense=Past|VerbForm=Fin
+ff_8:point
+ff_14:from
+ff_8:we
+ff_9:PRON_Number=Plur|Person=1|PronType=Prs
+ff_0:when
+ff_6:when
+ff_16:were
+ff_17:AUX_Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin
+ff_19:PRON_Number=Sing|Person=1|PronType=Prs
+ff_15:NOUN_Gender=Fem|Number=Sing
+ff_0:she
+ff_1:PRON_Gender=Fem|Number=Sing|Person=3|PronType=Prs
+ff_6:she
+ff_7:PRON_Gender=Fem|Number=Sing|Person=3|PronType=Prs
+ff_9:NOUN_Gender=Fem|Number=Sing
+ff_14:my
+ff_10:but
+ff_11:CCONJ__
+ff_12:but
+ff_13:CCONJ__
+ff_8:but
+ff_3:economy
+ff_0:social
+ff_0:economy
+ff_8:social
+ff_14:social
+ff_0:potential
+ff_16:potential
+ff_7:VERB_Number=Sing|Tense=Pres|VerbForm=Part
+ff_18:those
+ff_19:PRON_Number=Plur|PronType=Dem
+ff_20:those
+ff_21:PRON_Number=Plur|PronType=Dem
+ff_8:these
+ff_9:DET_Number=Plur|PronType=Dem
+ff_14:those
+ff_16:those
+ff_17:PRON_Number=Plur|PronType=Dem
+ff_0:both
+ff_14:both
+ff_16:both
+ff_14:their
+ff_16:their
+ff_8:us
+ff_16:can
+ff_0:was
+ff_1:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ff_16:companies
+ff_3:companies
+ff_0:companies
+ff_3:was
+ff_4:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ff_12:of
+ff_3:because
+ff_0:his
+ff_0:own
+ff_14:his
+ff_16:own
+ff_3:in
+ff_9:NOUN_Gender=Masc|Number=Plur
+ff_3:growth
+ff_10:in
+ff_12:future
+ff_20:growth
+ff_0:growth
+ff_8:future
+ff_16:growth
+ff_17:NOUN_Gender=Fem|Number=Sing
+ff_3:many
+ff_15:VERB_VerbForm=Ger
+ff_8:account
+ff_14:account
+ff_8:increase
+ff_14:increase
+ff_3:increase
+ff_0:increase
+ff_16:between
+ff_14:so
+ff_16:so
+ff_16:citizens
+ff_14:just
+ff_14:of
+ff_12:in
+ff_3:than
+ff_1:ADV_Degree=Sup
+ff_10:than
+ff_7:ADV_Degree=Sup
+ff_9:ADV_Degree=Sup
+ff_12:year
+ff_0:financial
+ff_10:with
+ff_20:,
+ff_6:financial
+ff_8:financial
+ff_8:year
+ff_6:last
+ff_7:ADJ_Degree=Pos|NumType=Ord
+ff_8:last
+ff_9:ADJ_Degree=Pos|NumType=Ord
+ff_14:were
+ff_15:AUX_Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin
+ff_10:our
+ff_11:DET_Poss=Yes|PronType=Prs
+ff_20:our
+ff_21:DET_Poss=Yes|PronType=Prs
+ff_4:ADJ_Degree=Pos|NumType=Ord
+ff_8:help
+ff_3:help
+ff_0:help
+ff_0:school
+ff_6:early
+ff_8:school
+ff_14:school
+ff_0:second
+ff_8:like
+ff_14:second
+ff_16:second
+ff_10:point
+ff_21:VERB_Tense=Past|VerbForm=Part
+ff_7:NOUN_Gender=Fem|Number=Sing
+ff_3:we
+ff_8:had
+ff_8:development
+ff_14:development
+ff_3:development
+ff_0:development
+ff_10:all
+ff_11:PRON_PronType=Ind
+ff_12:all
+ff_13:PRON_PronType=Ind
+ff_6:all
+ff_7:PRON_PronType=Ind
+ff_14:was
+ff_15:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ff_16:was
+ff_17:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ff_14:must
+ff_13:NUM_NumType=Card
+ff_0:thus
+ff_16:thus
+ff_16:development
+ff_6:services
+ff_8:are
+ff_9:AUX_Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin
+ff_4:VERB_Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+ff_16:being
+ff_0:even
+ff_0:though
+ff_6:even
+ff_14:though
+ff_0:large
+ff_14:large
+ff_16:large
+ff_14:should
+ff_16:should
+ff_14:or
+ff_16:there
+ff_12:used
+ff_18:used
+ff_6:some
+ff_8:given
+ff_14:given
+ff_16:some
+ff_14:used
+ff_8:or
+ff_16:that
+ff_0:living
+ff_8:living
+ff_14:living
+ff_10:support
+ff_11:VERB_VerbForm=Inf
+ff_12:support
+ff_6:support
+ff_6:social
+ff_0:especially
+ff_3:especially
+ff_16:especially
+ff_10:women
+ff_11:NOUN_Gender=Fem|Number=Plur
+ff_12:women
+ff_13:NOUN_Gender=Fem|Number=Plur
+ff_6:women
+ff_7:NOUN_Gender=Fem|Number=Plur
+ff_8:women
+ff_9:NOUN_Gender=Fem|Number=Plur
+ff_3:women
+ff_4:NOUN_Gender=Fem|Number=Plur
+ff_0:women
+ff_1:NOUN_Gender=Fem|Number=Plur
+ff_8:people
+ff_16:among
+ff_8:young
+ff_14:young
+ff_6:order
+ff_16:order
+ff_3:years
+ff_3:age
+ff_0:age
+ff_0:each
+ff_1:DET_Number=Sing|PronType=Ind
+ff_18:account
+ff_6:each
+ff_7:DET_Number=Sing|PronType=Ind
+ff_8:each
+ff_9:DET_Number=Sing|PronType=Ind
+ff_8:one
+ff_14:one
+ff_0:everyone
+ff_14:name
+ff_16:name
+ff_3:name
+ff_0:real
+ff_0:name
+ff_8:real
+ff_14:real
+ff_3:who
+ff_4:VERB_Mood=Imp|Person=3|Tense=Pres|VerbForm=Fin
+ff_0:over
+ff_19:VERB_Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin
+ff_6:over
+ff_16:over
+ff_8:share
+ff_16:they
+ff_3:share
+ff_0:share
+ff_8:age
+ff_14:age
+ff_16:real
+ff_8:products
+ff_3:products
+ff_0:products
+ff_3:became
+ff_3:%
+ff_4:SYM__
+ff_5:SYM
+ff_18:%
+ff_19:SYM__
+ff_21:VERB_Mood=Ind|Person=3|Tense=Past|VerbForm=Fin
+ff_0:%
+ff_1:SYM__
+ff_6:up
+ff_12:to
+ff_3:including
+ff_0:including
+ff_3:result
+ff_4:VERB_Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin
+ff_8:%
+ff_9:SYM__
+ff_14:%
+ff_15:SYM__
+ff_14:–
+ff_16:–
+ff_0:–
+ff_12:%
+ff_13:SYM__
+ff_14:if
+ff_16:people
+ff_1:DET_PronType=Int
+ff_2:DQ
+ff_14:what
+ff_15:DET_PronType=Int
+ff_16:what
+ff_17:DET_PronType=Int
+ff_16:public
+ff_8:they
+ff_9:PRON_Number=Plur|Person=3|PronType=Prs
+ff_8:which
+ff_17:DET_PronType=Dem
+ff_9:NOUN__
+ff_8:international
+ff_0:health
+ff_14:economic
+ff_16:social
+ff_3:social
+ff_3:health
+ff_3:economic
+ff_20:health
+ff_16:health
+ff_16:economic
+ff_14:therefore
+ff_7:NOUN__
+ff_18:potential
+ff_20:potential
+ff_0:life
+ff_8:life
+ff_3:potential
+ff_9:VERB_Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin
+ff_4:VERB_Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin
+ff_1:VERB_Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin
+ff_3:be
+ff_3:such
+ff_12:as
+ff_14:such
+ff_16:such
+ff_10:or
+ff_18:in
+ff_19:ADP__
+ff_16:less
+ff_16:than
+ff_0:market
+ff_10:where
+ff_6:market
+ff_8:market
+ff_16:right
+ff_10:on
+ff_14:life
+ff_20:in
+ff_3:new
+ff_6:new
+ff_17:ADV_PronType=Neg
+ff_10:and
+ff_18:new
+ff_20:new
+ff_14:new
+ff_18:as
+ff_20:as
+ff_12::
+ff_16:same
+ff_18:out
+ff_8:published
+ff_3:published
+ff_0:published
+ff_6:it
+ff_7:PRON_Number=Sing|Person=3|PronType=Prs
+ff_8:early
+ff_14:early
+ff_3:plays
+ff_20:need
+ff_14:important
+ff_3:need
+ff_0:need
+ff_11:ADV_Degree=Sup
+ff_13:ADV_Degree=Sup
+ff_0:years
+ff_3:at
+ff_14:with
+ff_10:(
+ff_12:)
+ff_20:year
+ff_6:under
+ff_0:another
+ff_0:18
+ff_6:another
+ff_8:18
+ff_14:18
+ff_16:another
+ff_18:,
+ff_19:PUNCT__
+ff_0:while
+ff_6:while
+ff_10:a
+ff_11:DET_Definite=Ind|Number=Sing|PronType=Art
+ff_12:sector
+ff_8:sector
+ff_3:sector
+ff_0:sector
+ff_16:financial
+ff_6:public
+ff_14:sector
+ff_0:other
+ff_14:other
+ff_16:other
+ff_16:also
+ff_3:group
+ff_0:group
+ff_6:states
+ff_8:countries
+ff_14:all
+ff_15:DET_PronType=Tot
+ff_3:countries
+ff_0:countries
+ff_1:PRON_Number=Plur|PronType=Ind
+ff_10:one
+ff_11:PRON_Number=Plur|PronType=Ind
+ff_20:one
+ff_21:PRON_Number=Plur|PronType=Ind
+ff_4:PRON_Number=Plur|PronType=Ind
+ff_3:and
+ff_4:CCONJ__
+ff_5:CCONJ
+ff_6:one
+ff_7:PRON_Number=Plur|PronType=Ind
+ff_16:one
+ff_17:PRON_Number=Plur|PronType=Ind
+ff_0:;
+ff_8:rights
+ff_3:right
+ff_3:equal
+ff_0:without
+ff_6:without
+ff_16:without
+ff_14:equal
+ff_10:by
+ff_18:an
+ff_20:an
+ff_8:him
+ff_9:PRON_Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_3:him
+ff_4:PRON_Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_0:him
+ff_8:against
+ff_0:did
+ff_14:did
+ff_6:international
+ff_3:international
+ff_10:under
+ff_20:under
+ff_16:under
+ff_8:was
+ff_9:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ff_6:shall
+ff_7:AUX_Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin
+ff_3:family
+ff_0:family
+ff_16:his
+ff_8:equal
+ff_8:during
+ff_14:during
+ff_8:access
+ff_14:access
+ff_3:access
+ff_0:access
+ff_3:country
+ff_0:country
+ff_8:his
+ff_8:government
+ff_3:government
+ff_0:government
+ff_10:at
+ff_20:social
+ff_1:PRON_Gender=Masc|Number=Sing|PronType=Ind
+ff_4:PRON_Gender=Masc|Number=Sing|PronType=Ind
+ff_16:group
+ff_3:any
+ff_4:DET_PronType=Ind
+ff_5:DET
+ff_14:set
+ff_6:those
+ff_0:about
+ff_6:about
+ff_16:'s
+ff_8:know
+ff_16:but
+ff_3:well
+ff_12:well
+ff_18:we
+ff_19:PRON_Number=Plur|Person=1|PronType=Prs
+ff_20:we
+ff_21:PRON_Number=Plur|Person=1|PronType=Prs
+ff_0:know
+ff_8:well
+ff_15:ADJ_Degree=Sup
+ff_3:wrote
+ff_9:VERB_Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+ff_0:"
+ff_8:"
+ff_14:"
+ff_17:VERB_Mood=Ind|Person=3|Tense=Past|VerbForm=Fin
+ff_10:based
+ff_12:based
+ff_6:based
+ff_8:based
+ff_3:based
+ff_0:based
+ff_18:and
+ff_19:CCONJ__
+ff_20:people
+ff_8:those
+ff_14:into
+ff_8:there
+ff_3:there
+ff_8:be
+ff_9:AUX_VerbForm=Inf
+ff_10:some
+ff_11:DET_PronType=Ind
+ff_20:some
+ff_21:DET_PronType=Ind
+ff_15:PRON_Person=3|PronType=Dem
+ff_1:PRON_Person=3|PronType=Dem
+ff_11:PRON_Number=Sing|Person=3|PronType=Prs
+ff_18:'s
+ff_4:VERB_Mood=Imp|Person=2|Tense=Pres|VerbForm=Fin
+ff_6:two
+ff_16:two
+ff_6:them
+ff_8:them
+ff_3:them
+ff_10:them
+ff_11:PRON_Number=Plur|Person=3|PronType=Prs
+ff_12:them
+ff_13:PRON_Number=Plur|Person=3|PronType=Prs
+ff_9:VERB_Tense=Pres|VerbForm=Part
+ff_1:VERB_Tense=Pres|VerbForm=Part
+ff_4:VERB_Tense=Pres|VerbForm=Part
+ff_10:years
+ff_12:years
+ff_8:few
+ff_14:few
+ff_6:years
+ff_8:years
+ff_12:know
+ff_13:VERB_Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+ff_18:know
+ff_19:VERB_Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+ff_14:know
+ff_6:"
+ff_17:PRON_Number=Sing|PronType=Dem
+ff_8:so
+ff_0:major
+ff_3:you
+ff_8:health
+ff_8:you
+ff_9:PRON_Person=2|PronType=Prs
+ff_4:ADJ_Degree=Sup
+ff_10:s
+ff_11:X__
+ff_12:s
+ff_13:X__
+ff_6:s
+ff_7:X__
+ff_8:s
+ff_9:X__
+ff_0:s
+ff_9:VERB_VerbForm=Part
+ff_15:VERB_VerbForm=Part
+ff_1:VERB_VerbForm=Part
+ff_4:VERB_VerbForm=Part
+ff_8:other
+ff_18:up
+ff_21:VERB_Number=Sing|Tense=Pres|VerbForm=Part
+ff_19:VERB_Mood=Ind|Person=3|Tense=Past|VerbForm=Fin
+ff_8:after
+ff_8:first
+ff_6:thus
+ff_14:shall
+ff_16:shall
+ff_16:all
+ff_17:DET_PronType=Tot
+ff_14:made
+ff_8:two
+ff_8:thus
+ff_6:–
+ff_8:–
+ff_0:emerging
+ff_3:markets
+ff_0:markets
+ff_6:emerging
+ff_8:'
+ff_14:'
+ff_16:emerging
+ff_0:'
+ff_6:markets
+ff_8:markets
+ff_3:long
+ff_10:long
+ff_20:long
+ff_0:long
+ff_6:long
+ff_16:long
+ff_0:world
+ff_8:world
+ff_8:growth
+ff_8:take
+ff_14:take
+ff_8:over
+ff_3:economies
+ff_0:economies
+ff_12:economies
+ff_18:economies
+ff_21:SCONJ__
+ff_8:economies
+ff_14:economies
+ff_17:SCONJ__
+ff_14:growth
+ff_8:from
+ff_3:market
+ff_12:market
+ff_18:market
+ff_14:market
+ff_6:countries
+ff_3:are
+ff_3:out
+ff_10:out
+ff_20:out
+ff_16:out
+ff_10:growth
+ff_12:growth
+ff_6:growth
+ff_0:political
+ff_14:political
+ff_16:political
+ff_10:-
+ff_12:-
+ff_8:long
+ff_14:countries
+ff_16:few
+ff_8:up
+ff_7:VERB_Tense=Pres|VerbForm=Part
+ff_17:VERB_Tense=Pres|VerbForm=Part
+ff_6:few
+ff_8:without
+ff_12:example
+ff_8:example
+ff_10:second
+ff_12:second
+ff_6:second
+ff_8:second
+ff_3:second
+ff_3:first
+ff_17:PRON_NumType=Ord|PronType=Ind
+ff_4:PRON_NumType=Ord|PronType=Ind
+ff_10:well
+ff_1:PRON_NumType=Ord|PronType=Ind
+ff_4:VERB_Tense=Pres|VerbForm=Inf
+ff_14:world
+ff_3:world
+ff_16:most
+ff_1:PRON_PronType=Dem
+ff_11:DET_Definite=Ind|PronType=Art
+ff_21:DET_Definite=Ind|PronType=Art
+ff_17:DET_Definite=Ind|PronType=Art
+ff_6:world
+ff_13:ADJ_Degree=Cmp
+ff_19:ADJ_Degree=Cmp
+ff_6:much
+ff_3:capital
+ff_12:capital
+ff_8:particularly
+ff_14:government
+ff_4:VERB_Mood=Ind|Tense=Pres|VerbForm=Fin
+ff_1:AUX_Number=Plur|Tense=Pres
+ff_17:AUX_Number=Plur|Tense=Pres
+ff_14:share
+ff_6:large
+ff_8:large
+ff_19:NOUN_Gender=Fem|Number=Sing
+ff_21:NOUN_Gender=Fem|Number=Sing
+ff_8:economy
+ff_3:'
+ff_15:VERB_Tense=Pres|VerbForm=Part
+ff_14:economy
+ff_0:recent
+ff_6:recent
+ff_16:recent
+ff_18:his
+ff_19:DET_Poss=Yes|PronType=Prs
+ff_6:his
+ff_10:between
+ff_10:after
+ff_12:after
+ff_3:should
+ff_16:countries
+ff_10:"
+ff_10:rights
+ff_12:rights
+ff_6:rights
+ff_6:like
+ff_8:need
+ff_10:economies
+ff_21:VERB_Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin
+ff_6:economies
+ff_16:capital
+ff_20:%
+ff_21:SYM__
+ff_16:%
+ff_17:SYM__
+ff_6:'
+ff_10:countries
+ff_10:'
+ff_11:PART__
+ff_12:'
+ff_13:PART__
+ff_6:government
+ff_10:its
+ff_11:DET_Number=Sing|Poss=Yes|PronType=Prs
+ff_20:its
+ff_21:DET_Number=Sing|Poss=Yes|PronType=Prs
+ff_11:SYM__
+ff_12:period
+ff_18:period
+ff_7:SYM__
+ff_14:period
+ff_14:increased
+ff_14:much
+ff_8:even
+ff_6:major
+ff_8:major
+ff_3:major
+ff_8:do
+ff_0:often
+ff_6:only
+ff_16:only
+ff_10:country
+ff_12:country
+ff_6:country
+ff_8:country
+ff_14:citizens
+ff_14:two
+ff_14:support
+ff_8:when
+ff_0:result
+ff_20:economy
+ff_16:economy
+ff_14:could
+ff_6:he
+ff_7:PRON_Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_16:he
+ff_17:PRON_Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_16:after
+ff_14:financial
+ff_6:sector
+ff_16:sector
+ff_3:financial
+ff_12:financial
+ff_16:?
+ff_8:recent
+ff_14:recent
+ff_16:"
+ff_8:crisis
+ff_14:before
+ff_3:crisis
+ff_0:crisis
+ff_10:increase
+ff_12:increase
+ff_6:increase
+ff_2:D
+ff_18:sector
+ff_6:increased
+ff_10:while
+ff_3:over
+ff_10:sector
+ff_18:growth
+ff_20:others
+ff_16:others
+ff_3:others
+ff_0:others
+ff_8:labor
+ff_14:labor
+ff_3:labor
+ff_0:labor
+ff_6:real
+ff_10:is
+ff_11:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_12:is
+ff_13:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_18:evidence
+ff_20:evidence
+ff_0:evidence
+ff_7:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_3:evidence
+ff_14:most
+ff_10:companies
+ff_18:it
+ff_19:PRON_Number=Sing|Person=3|PronType=Prs
+ff_16:just
+ff_16:crisis
+ff_15:PRON_PronType=Dem
+ff_3:real
+ff_14:because
+ff_18:many
+ff_20:many
+ff_14:many
+ff_16:many
+ff_0:career
+ff_8:career
+ff_6:other
+ff_14:services
+ff_16:services
+ff_16:take
+ff_8:best
+ff_9:ADJ_Degree=Sup
+ff_3:best
+ff_0:best
+ff_6:today
+ff_3:today
+ff_10:'s
+ff_12:'s
+ff_11:ADJ_Degree=Cmp
+ff_18:much
+ff_20:much
+ff_16:much
+ff_18:group
+ff_20:force
+ff_12:can
+ff_18:can
+ff_20:and
+ff_21:CCONJ__
+ff_18:but
+ff_20:but
+ff_3:society
+ff_0:society
+ff_14:society
+ff_16:society
+ff_12:?
+ff_18:could
+ff_19:AUX_Mood=Ind|Person=3|Tense=Past|VerbForm=Fin
+ff_0:human
+ff_6:human
+ff_8:human
+ff_6:both
+ff_9:PRON_Number=Plur|PronType=Dem
+ff_16:like
+ff_20:do
+ff_14:human
+ff_1:DET_PronType=Rel
+ff_2:DR
+ff_7:DET_PronType=Rel
+ff_9:DET_PronType=Rel
+ff_14:how
+ff_12:another
+ff_13:DET_Definite=Ind|Number=Sing|PronType=Art
+ff_18:another
+ff_20:countries
+ff_8:another
+ff_14:another
+ff_3:another
+ff_4:DET_Definite=Ind|Number=Sing|PronType=Art
+ff_2:P
+ff_9:PRON_PronType=Prs
+ff_15:PRON_PronType=Prs
+ff_16:against
+ff_10:before
+ff_18:country
+ff_20:country
+ff_14:country
+ff_16:country
+ff_16:did
+ff_18:all
+ff_19:PRON_PronType=Ind
+ff_14:markets
+ff_8:companies
+ff_18:economy
+ff_20:–
+ff_6:potential
+ff_8:potential
+ff_19:VERB_VerbForm=Ger
+ff_21:VERB_VerbForm=Ger
+ff_14:within
+ff_6:companies
+ff_16:support
+ff_18:companies
+ff_20:companies
+ff_14:companies
+ff_14:several
+ff_8:did
+ff_14:same
+ff_12:then
+ff_3:must
+ff_3:most
+ff_8:between
+ff_10:markets
+ff_12:markets
+ff_16:access
+ff_18:its
+ff_19:DET_Number=Sing|Poss=Yes|PronType=Prs
+ff_6:important
+ff_18:has
+ff_18:capital
+ff_20:on
+ff_14:particularly
+ff_6:economic
+ff_16:economies
+ff_12:account
+ff_3:of
+ff_16:three
+ff_8:story
+ff_14:story
+ff_3:story
+ff_0:modern
+ff_14:modern
+ff_16:modern
+ff_12:development
+ff_18:world
+ff_20:world
+ff_7:ADJ_Degree=Sup
+ff_0:story
+ff_16:world
+ff_11:DET_Number=Sing|PronType=Dem
+ff_21:DET_Number=Sing|PronType=Dem
+ff_20:-
+ff_21:X__
+ff_17:X__
+ff_20:more
+ff_21:ADV_Degree=Cmp
+ff_21:VERB_Person=3|VerbForm=Ger
+ff_12:services
+ff_18:services
+ff_6:economy
+ff_1:VERB_Person=3|VerbForm=Ger
+ff_6:share
+ff_4:VERB_Person=3|VerbForm=Ger
+ff_16:human
+ff_16:need
+ff_9:PRON_Number=Sing|PronType=Ind
+ff_15:PRON_Number=Sing|PronType=Ind
+ff_3:other
+ff_14:each
+ff_18:well
+ff_6:especially
+ff_8:especially
+ff_14:own
+ff_3:love
+ff_0:love
+ff_14:way
+ff_8:own
+ff_12:safety
+ff_18:safety
+ff_16:major
+ff_8:emerging
+ff_6:same
+ff_14:better
+ff_3:last
+ff_8:modern
+ff_18:standards
+ff_20:standards
+ff_6:living
+ff_4:INTJ__
+ff_5:INTJ
+ff_1:INTJ__
+ff_2:_
+ff_10:did
+ff_11:VERB_Mood=Ind|Person=3|Tense=Past|VerbForm=Fin
+ff_12:did
+ff_11:INTJ__
+ff_21:ADJ_Degree=Cmp
+ff_6:did
+ff_3:not
+ff_4:PART_Polarity=Neg
+ff_5:PART
+ff_8:others
+ff_9:PRON_Number=Plur|PronType=Ind
+ff_16:about
+ff_16:share
+ff_16:labor
+ff_8:century
+ff_3:century
+ff_0:century
+ff_10:set
+ff_18:need
+ff_8:political
+ff_6:best
+ff_10:especially
+ff_6:old
+ff_16:age
+ff_6:future
+ff_7:PRON_PronType=Int
+ff_14:future
+ff_1:DET_Number=Plur|PronType=Ind
+ff_11:DET_Number=Plur|PronType=Ind
+ff_18:health
+ff_20:including
+ff_7:DET_Number=Plur|PronType=Ind
+ff_14:health
+ff_16:including
+ff_10:life
+ff_12:life
+ff_6:life
+ff_3:life
+ff_10:such
+ff_6:health
+ff_6:political
+ff_16:while
+ff_0:through
+ff_10:through
+ff_19:NOUN_Gender=Masc|Number=Sing
+ff_6:through
+ff_8:education
+ff_3:education
+ff_0:education
+ff_14:use
+ff_16:women
+ff_17:NOUN_Gender=Fem|Number=Plur
+ff_8:how
+ff_16:education
+ff_1:AUX_Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin
+ff_11:AUX_Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin
+ff_16:each
+ff_17:DET_Number=Sing|PronType=Ind
+ff_16:life
+ff_18:have
+ff_8:innovation
+ff_3:innovation
+ff_0:innovation
+ff_14:others
+ff_15:PRON_Number=Plur|PronType=Ind
+ff_14:innovation
+ff_16:living
+ff_10:age
+ff_12:age
+ff_6:age
+ff_16:innovation
+ff_20:than
+ff_8:both
+ff_20:years
+ff_3:the
+ff_4:DET_Definite=Def|PronType=Art
+ff_10:just
+ff_16:years
+ff_18:before
+ff_21:PRON_Number=Sing|Person=3|PronType=Prs
+ff_4:VERB_Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin
+ff_10:less
+ff_12:less
+ff_16:best
+ff_3:from
+ff_6:innovation
+ff_18:most
+ff_19:ADJ_Degree=Sup
+ff_20:most
+ff_21:ADJ_Degree=Sup
+ff_6:better
+ff_16:better
+ff_10:time
+ff_12:time
+ff_6:time
+ff_1:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ff_8:before
+ff_3:now
+ff_12:now
+ff_8:only
+ff_8:through
+ff_14:time
+ff_8:result
+ff_3:living
+ff_17:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_3:everyone
+ff_6:fact
+ff_16:increased
+ff_14:may
+ff_16:where
+ff_15:VERB_Mood=Ind|Tense=Pres|VerbForm=Fin
+ff_19:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_18:this
+ff_19:PRON_Number=Sing|PronType=Dem
+ff_3:less
+ff_9:VERB_Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin
+ff_1:VERB_Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin
+ff_18:even
+ff_14:even
+ff_16:through
+ff_3:each
+ff_14:crisis
+ff_12:"
+ff_18:year
+ff_20:.
+ff_16:young
+ff_0:children
+ff_3:children
+ff_14:children
+ff_12:social
+ff_12:health
+ff_16:future
+ff_0:child
+ff_3:child
+ff_6:child
+ff_8:child
+ff_8:evidence
+ff_14:child
+ff_8:children
+ff_0:female
+ff_8:female
+ff_14:female
+ff_3:through
+ff_3:she
+ff_4:PRON_Gender=Fem|Number=Sing|Person=3|PronType=Prs
+ff_14:she
+ff_15:PRON_Gender=Fem|Number=Sing|Person=3|PronType=Prs
+ff_0:her
+ff_6:her
+ff_16:her
+ff_7:NOUN_Gender=Masc|Number=Plur
+ff_14:women
+ff_18:based
+ff_14:based
+ff_6:school
+ff_16:school
+ff_16:based
+ff_4:ADV_Degree=Sup
+ff_10:like
+ff_3:human
+ff_14:education
+ff_10:better
+ff_6:part
+ff_12:education
+ff_18:education
+ff_12:equal
+ff_18:equal
+ff_10:force
+ff_12:force
+ff_6:force
+ff_14:about
+ff_1:AUX_Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin
+ff_18:their
+ff_20:their
+ff_13:NOUN_Gender=Fem|Number=Sing
+ff_6:labor
+ff_20:with
+ff_3:school
+ff_12:school
+ff_18:only
+ff_14:only
+ff_16:female
+ff_10:fact
+ff_18:women
+ff_3:could
+ff_6:modern
+ff_6:children
+ff_6:female
+ff_10:example
+ff_20:by
+ff_14:need
+ff_16:important
+ff_14:potential
+ff_18:people
+ff_12:that
+ff_13:PRON_PronType=Rel
+ff_1:PRON_Person=3|PronType=Prs
+ff_14:best
+ff_3:only
+ff_10:female
+ff_12:female
+ff_3:female
+ff_12:have
+ff_20:less
+ff_14:when
+ff_6:equal
+ff_15:NOUN_Gender=Fem|Number=Plur
+ff_11:VERB_Number=Sing|Tense=Pres|VerbForm=Part
+ff_10:labor
+ff_12:labor
+ff_14:help
+ff_12:men
+ff_13:NOUN_Gender=Masc|Number=Plur
+ff_8:men
+ff_3:men
+ff_0:men
+ff_10:much
+ff_12:much
+ff_20:make
+ff_16:make
+ff_10:access
+ff_20:access
+ff_6:access
+ff_12:help
+ff_18:help
+ff_10:so
+ff_16:time
+ff_15:DET_Number=Sing|PronType=Ind
+ff_10:they
+ff_12:are
+ff_13:AUX_Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin
+ff_20:they
+ff_21:PRON_Number=Plur|Person=3|PronType=Prs
+ff_10:–
+ff_12:–
+ff_6:though
+ff_3:when
+ff_14:years
+ff_18:countries
+ff_6:what
+ff_17:PRON_PronType=Int
+ff_12:economic
+ff_14:through
+ff_8:group
+ff_18:that
+ff_18:he
+ff_19:PRON_Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_6:standards
+ff_17:VERB_Mood=Ind|Tense=Pres|VerbForm=Fin
+ff_13:ADJ_Degree=Pos|NumType=Ord
+ff_18:second
+ff_19:ADJ_Degree=Pos|NumType=Ord
+ff_17:AUX_Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin
+ff_4:VERB_Mood=Imp|Number=Plur|Tense=Pres|VerbForm=Fin
+ff_14:us
+ff_16:us
+ff_10:other
+ff_12:other
+ff_7:VERB_Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin
+ff_11:VERB_Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin
+ff_8:everyone
+ff_14:everyone
+ff_3:how
+ff_12:how
+ff_8:could
+ff_9:AUX_Mood=Ind|Person=3|Tense=Past|VerbForm=Fin
+ff_16:could
+ff_6:development
+ff_18:be
+ff_19:AUX_VerbForm=Inf
+ff_3:before
+ff_18:financial
+ff_10:order
+ff_18:to
+ff_20:order
+ff_14:like
+ff_20:us
+ff_14:old
+ff_8:later
+ff_0:later
+ff_14:where
+ff_10:over
+ff_18:"
+ff_3:.
+ff_4:PUNCT__
+ff_5:PUNCT
+ff_18:citizens
+ff_6:however
+ff_0:became
+ff_8:including
+ff_16:men
+ff_17:NOUN_Gender=Masc|Number=Plur
+ff_10:need
+ff_3:our
+ff_4:PRON_Poss=Yes|PronType=Prs
+ff_1:PRON_Poss=Yes|PronType=Prs
+ff_2:PP
+ff_8:if
+ff_14:part
+ff_10:from
+ff_19:VERB_Number=Sing|Tense=Pres|VerbForm=Part
+ff_6:are
+ff_3:up
+ff_16:used
+ff_18:more
+ff_19:ADV_Degree=Cmp
+ff_3:-
+ff_18:-
+ff_3:company
+ff_0:company
+ff_10:because
+ff_21:NOUN_Gender=Masc|Number=Plur
+ff_10:no
+ff_20:no
+ff_16:period
+ff_8:works
+ff_14:works
+ff_3:works
+ff_0:works
+ff_14:products
+ff_14:less
+ff_20:fact
+ff_4:DET_PronType=Tot
+ff_3:called
+ff_18:political
+ff_20:political
+ff_3:political
+ff_18:with
+ff_14:fact
+ff_16:fact
+ff_19:AUX_Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin
+ff_11:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ff_14:no
+ff_6:member
+ff_8:member
+ff_14:thus
+ff_6:18
+ff_16:18
+ff_11:X_Foreign=Yes
+ff_13:X_Foreign=Yes
+ff_19:X_Foreign=Yes
+ff_21:X_Foreign=Yes
+ff_8:society
+ff_3:characters
+ff_0:characters
+ff_3:writing
+ff_10:writing
+ff_0:writing
+ff_12:such
+ff_6:works
+ff_8:critics
+ff_3:critics
+ff_0:critics
+ff_16:child
+ff_6:style
+ff_16:style
+ff_3:style
+ff_0:style
+ff_3:his
+ff_4:DET_Poss=Yes|PronType=Prs
+ff_3:career
+ff_3:during
+ff_16:critic
+ff_3:critic
+ff_0:critic
+ff_10:his
+ff_18:life
+ff_20:his
+ff_8:writing
+ff_8:family
+ff_14:family
+ff_3:married
+ff_12:love
+ff_8:love
+ff_3:later
+ff_3:father
+ff_0:father
+ff_8:south
+ff_14:south
+ff_3:south
+ff_0:south
+ff_12:;
+ff_4:PRON_PronType=Dem
+ff_3:–
+ff_6:family
+ff_10:year
+ff_18:children
+ff_3:novel
+ff_0:novel
+ff_14:had
+ff_16:him
+ff_8:novel
+ff_10:school
+ff_20:school
+ff_16:family
+ff_18::
+ff_16:became
+ff_14:later
+ff_16:later
+ff_8:.
+ff_12:law
+ff_12:over
+ff_1:VERB_Tense=Pres|VerbForm=Inf
+ff_14:him
+ff_9:NOUN_Gender=Masc
+ff_15:NOUN_Gender=Masc
+ff_4:NOUN_Gender=Masc
+ff_1:NOUN_Gender=Masc
+ff_0:called
+ff_1:DET_PronType=Art
+ff_7:DET_PronType=Art
+ff_9:DET_PronType=Art
+ff_6:have
+ff_10:would
+ff_11:AUX_Mood=Ind|Person=3|Tense=Past|VerbForm=Fin
+ff_8:he
+ff_6:would
+ff_18:critics
+ff_0:married
+ff_8:married
+ff_1:AUX_Person=3|VerbForm=Ger
+ff_7:AUX_Person=3|VerbForm=Ger
+ff_14:man
+ff_16:man
+ff_10:works
+ff_12:works
+ff_14:then
+ff_1:DET_Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_15:DET_Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_17:DET_Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_3:about
+ff_8:name
+ff_14:love
+ff_9:PRON_PronType=Int
+ff_6:called
+ff_8:called
+ff_10:critic
+ff_20:critic
+ff_6:critic
+ff_16:death
+ff_8:father
+ff_14:father
+ff_12:man
+ff_18:man
+ff_10:about
+ff_20:time
+ff_6:society
+ff_10:end
+ff_12:novel
+ff_6:father
+ff_12:career
+ff_18:especially
+ff_14:especially
+ff_10:love
+ff_6:love
+ff_16:father
+ff_4:DET_Number=Sing|PronType=Dem
+ff_12:right
+ff_18:any
+ff_10:novel
+ff_10:make
+ff_6:make
+ff_0:de
+ff_1:DET_Definite=Def|Number=Plur|PronType=Art
+ff_6:de
+ff_9:DET_Definite=Def|Number=Plur|PronType=Art
+ff_15:DET_Definite=Def|Number=Plur|PronType=Art
+ff_16:de
+ff_19:NOUN__
+ff_0:wrote
+ff_10:both
+ff_12:both
+ff_3:for
+ff_7:PRON_Number=Plur|PronType=Dem
+ff_10:world
+ff_12:world
+ff_14:writing
+ff_10:characters
+ff_12:characters
+ff_6:characters
+ff_8:characters
+ff_14:her
+ff_11:NOUN_Gender=Fem|Number=Sing
+ff_12:critic
+ff_12:it
+ff_13:PRON_Number=Sing|Person=3|PronType=Prs
+ff_18:would
+ff_20:would
+ff_21:AUX_Mood=Ind|Person=3|Tense=Past|VerbForm=Fin
+ff_8:critic
+ff_15:PRON_Poss=Yes|PronType=Prs
+ff_17:PRON_Poss=Yes|PronType=Prs
+ff_8:her
+ff_12:living
+ff_3:her
+ff_4:PRON_Person=3|PronType=Prs
+ff_10:social
+ff_9:AUX_Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin
+ff_12:from
+ff_3:to
+ff_10:health
+ff_18:way
+ff_20:wrote
+ff_3:being
+ff_2:DP
+ff_3:"
+ff_3:several
+ff_16:often
+ff_14:characters
+ff_18:use
+ff_10:critics
+ff_18:writing
+ff_14:novel
+ff_8:clear
+ff_16:characters
+ff_1:DET_Definite=Def|Number=Sing|PronType=Art
+ff_15:DET_Definite=Def|Number=Sing|PronType=Art
+ff_17:DET_Definite=Def|Number=Sing|PronType=Art
+ff_9:DET_Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+ff_3:if
+ff_8:who
+ff_16:when
+ff_18:time
+ff_18:of
+ff_19:SCONJ__
+ff_20:"
+ff_3:he
+ff_14:after
+ff_16:she
+ff_17:PRON_Gender=Fem|Number=Sing|Person=3|PronType=Prs
+ff_3:may
+ff_18:may
+ff_3:often
+ff_8:company
+ff_14:company
+ff_8:about
+ff_10:later
+ff_20:later
+ff_6:later
+ff_16:if
+ff_21:VERB_Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+ff_10:those
+ff_11:PRON_Number=Plur|PronType=Dem
+ff_12:those
+ff_13:PRON_Number=Plur|PronType=Dem
+ff_6:th
+ff_16:th
+ff_20:novel
+ff_0:th
+ff_16:novel
+ff_8:style
+ff_14:style
+ff_4:DET_PronType=Int
+ff_7:AUX_Tense=Past|VerbForm=Part
+ff_18:work
+ff_20:work
+ff_4:DET_PronType=Art
+ff_9:ADJ_Gender=Fem|Number=Sing
+ff_15:ADJ_Gender=Fem|Number=Sing
+ff_17:DET_PronType=Art
+ff_1:ADJ_Gender=Fem|Number=Sing
+ff_10:called
+ff_12:called
+ff_1:DET_Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+ff_7:DET_Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+ff_1:DET_Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs
+ff_9:DET_Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs
+ff_15:DET_Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs
+ff_0:la
+ff_16:la
+ff_9:ADJ_Gender=Masc|Number=Sing
+ff_15:ADJ_Gender=Masc|Number=Sing
+ff_1:ADJ_Gender=Masc|Number=Sing
+ff_18:less
+ff_16:story
+ff_0:plays
+ff_3:sonnets
+ff_0:sonnets
+ff_18:two
+ff_20:two
+ff_12:had
+ff_3:18
+ff_6:three
+ff_11:NOUN_Gender=Masc|Number=Plur
+ff_18:been
+ff_20:been
+ff_10:him
+ff_11:PRON_Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_12:him
+ff_13:PRON_Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_6:him
+ff_16:end
+ff_8:th
+ff_0:tragedies
+ff_14:including
+ff_3:tragedies
+ff_6:plays
+ff_8:plays
+ff_16:during
+ff_9:DET_PronType=Tot
+ff_10:plays
+ff_10:century
+ff_19:PART__
+ff_20:century
+ff_6:century
+ff_16:century
+ff_18:old
+ff_3:two
+ff_3:theatre
+ff_12:theatre
+ff_0:theatre
+ff_8:theatre
+ff_6:account
+ff_10:account
+ff_10:story
+ff_12:century
+ff_18:century
+ff_14:century
+ff_6:career
+ff_10:career
+ff_16:career
+ff_20:career
+ff_14:theatre
+ff_3:scholars
+ff_0:scholars
+ff_8:will
+ff_10:evidence
+ff_10:death
+ff_12:name
+ff_18:name
+ff_20:death
+ff_6:death
+ff_11:ADJ_Degree=Sup
+ff_13:ADJ_Degree=Sup
+ff_14:career
+ff_12:before
+ff_20:just
+ff_10:group
+ff_12:group
+ff_6:group
+ff_8:became
+ff_12:became
+ff_14:became
+ff_18:became
+ff_16:company
+ff_3:king
+ff_0:king
+ff_16:south
+ff_18:made
+ff_20:made
+ff_18:company
+ff_20:him
+ff_21:PRON_Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ff_11:PRON_NumType=Ord|PronType=Ind
+ff_20:second
+ff_21:PRON_NumType=Ord|PronType=Ind
+ff_7:PRON_NumType=Ord|PronType=Ind
+ff_14:plays
+ff_16:plays
+ff_12:own
+ff_18:him
+ff_21:NOUN_Gender=Masc|Number=Sing
+ff_7:DET_PronType=Int
+ff_9:DET_PronType=Int
+ff_14:scholars
+ff_16:scholars
+ff_10:company
+ff_12:there
+ff_6:company
+ff_16:'
+ff_6:men
+ff_17:INTJ__
+ff_2:I
+ff_3:three
+ff_12:three
+ff_18:three
+ff_14:death
+ff_16:had
+ff_19:NOUN_Gender=Masc|Number=Plur
+ff_20:children
+ff_20:all
+ff_21:PRON_PronType=Ind
+ff_17:PRON_PronType=Ind
+ff_18:child
+ff_20:child
+ff_14:married
+ff_16:children
+ff_10:scholars
+ff_16:therefore
+ff_18:did
+ff_20:did
+ff_21:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ff_10:period
+ff_20:tragedies
+ff_12:death
+ff_20:love
+ff_16:love
+ff_8:tragedies
+ff_14:tragedies
+ff_16:tragedies
+ff_18:king
+ff_8:old
+ff_9:VERB_Person=3|VerbForm=Ger
+ff_14:king
+ff_16:king
+ff_20:them
+ff_14:last
+ff_1:ADJ__
+ff_9:VERB_Mood=Imp|Person=2|Tense=Pres|VerbForm=Fin
+ff_1:VERB_Mood=Imp|Person=2|Tense=Pres|VerbForm=Fin
+ff_12:plays
+ff_9:PRON_Person=3|PronType=Prs
+ff_16:several
+ff_18:do
+ff_0:folio
+ff_8:folio
+ff_8:because
+ff_6:sonnets
+ff_8:sonnets
+ff_8:wrote
+ff_16:evidence
+ff_14:published
+ff_14:sonnets
+ff_12:than
+ff_21:NOUN_Gender=Fem|Number=Plur
+ff_20:plays
+ff_10:particularly
+ff_12:tragedies
+ff_18:example
+ff_12:long
+ff_10:many
+ff_10:style
+ff_12:style
+ff_7:PRON_Number=Sing|PronType=Rel
+ff_17:PRON_Number=Sing|PronType=Rel
+ff_16:though
+ff_13:SCONJ__
+ff_11:ADJ_Number=Sing
+ff_20:use
+ff_16:use
+ff_14:th
+ff_18:plays
+ff_14:critic
+ff_3:modern
+ff_16:s
+ff_6:there
+ff_3:against
+ff_9:PRON_NumType=Ord|PronType=Ind
+ff_15:PRON_NumType=Ord|PronType=Ind
+ff_20:scholars
+ff_6:scholars
+ff_14:major
+ff_10:though
+ff_18:scholars
+ff_8:often
+43
+nmod
+flat:name
+nsubj
+cop
+advmod
+det
+cc
+aux
+conj
+amod
+obj
+punct
+acl
+case
+nmod:poss
+obl
+iobj
+mark
+advcl
+nsubj:pass
+nummod
+aux:pass
+xcomp
+obl:agent
+fixed
+vocative
+compound
+expl
+ccomp
+acl:relcl
+compound:prt
+appos
+flat
+det:predet
+parataxis
+flat:foreign
+csubj:pass
+csubj
+nmod:npmod
+discourse
+dislocated
+goeswith
+orphan
+1799
+25 2 565
+63 -12 3
+104 4 71
+43 5 30
+131 6 8
+357 -25 7
+177 -14 -16
+311 -31 9
+501 -31 10
+357 11 15
+344 -18 12
+967 -18 13
+1 14 -18
+4 -18 -18
+213 16 21
+191 -14 17
+103 -18 18
+138 -18 19
+1 -31 20
+226 -31 -16
+42 22 24
+573 -18 -18
+255 -18 -14
+186 25 26
+4 -31 -18
+103 -31 27
+253 -31 28
+192 29 -18
+1 -18 -18
+230 -25 31
+133 32 47
+1310 -25 33
+342 -31 34
+671 35 36
+344 -14 -25
+131 37 39
+4 -14 -14
+215 -14 -16
+963 40 41
+103 -14 -5
+255 -16 42
+138 43 44
+4 -14 -14
+186 45 -14
+132 46 -14
+2446 -14 -14
+162 48 53
+728 -25 49
+138 -25 50
+268 51 52
+553 -25 -14
+114 -14 -25
+944 54 56
+4 -14 -14
+501 -14 -14
+344 57 61
+1080 -14 58
+57 59 -14
+4 60 -14
+12 -14 -14
+191 62 64
+5 63 -14
+4 -14 -14
+186 65 68
+5 66 -14
+4 67 -14
+12 -14 -14
+1 69 -14
+23 70 -14
+12 -14 -14
+43 72 358
+149 73 96
+293 74 75
+4 -5 -28
+4 76 85
+103 77 78
+83 -18 -5
+501 -31 79
+1 80 -5
+192 -5 81
+65 82 83
+11 -5 -5
+213 84 -5
+12 -5 -5
+1 86 95
+1309 -28 87
+1349 -5 88
+253 89 90
+526 -40 -5
+1600 -28 91
+292 -5 92
+394 93 94
+12 -5 -28
+926 -5 -5
+342 -31 -5
+31 97 137
+294 -8 98
+363 99 100
+342 -22 -8
+357 101 103
+1 102 -8
+528 -8 -8
+477 -8 104
+213 105 134
+1 106 108
+245 -8 -8
+461 -4 -8
+1482 -22 -22
+2311 -4 110
+29 111 113
+4 112 -22
+12 -22 -22
+461 114 115
+4 -22 -22
+534 -22 116
+93 -8 117
+342 -8 118
+1650 -8 119
+1668 -8 120
+1065 121 123
+4 122 -22
+12 -22 -22
+245 124 126
+4 125 -22
+12 -22 -22
+212 -8 127
+4 128 -22
+236 129 130
+12 -22 -22
+533 131 132
+11 -22 -22
+811 -22 133
+290 -22 -22
+533 -22 135
+29 -8 136
+527 -8 -4
+44 -8 138
+40 -7 139
+34 140 141
+32 -5 -18
+203 -18 142
+213 143 189
+54 144 147
+1 145 -10
+4 146 -23
+11 -23 -23
+1482 -39 148
+151 149 167
+475 150 152
+474 -11 151
+1 -20 -20
+337 153 157
+1 -20 154
+11 -3 -3
+292 -3 156
+4 -20 -20
+1419 -17 158
+252 -3 159
+1031 -3 160
+150 -3 161
+20 162 -3
+1340 -3 163
+4 164 -20
+523 -3 165
+433 -20 166
+434 -20 -20
+11 168 187
+223 -11 169
+46 -19 170
+277 171 173
+4 172 -11
+12 -3 -3
+2311 -20 -20
+28 175 177
+27 176 -20
+4 -11 -20
+212 -11 178
+1024 -16 179
+696 -16 180
+313 181 182
+4 -20 -20
+1 183 186
+306 -16 184
+2 185 -20
+4 -20 -20
+12 -20 -3
+13 -16 188
+1 -3 -16
+55 190 204
+964 -11 191
+808 192 193
+1 -10 -3
+192 194 195
+4 -23 -23
+4 196 -23
+177 197 198
+1 -23 -10
+11 199 -10
+65 -23 200
+1236 -23 201
+42 202 203
+54 -23 -10
+54 -10 -23
+46 205 209
+45 -38 206
+193 -42 207
+177 208 -23
+4 -19 -23
+28 210 249
+42 211 222
+27 -11 212
+58 -11 213
+12 214 -3
+284 -3 215
+2564 -3 216
+115 -3 217
+205 -3 218
+526 -3 219
+794 -3 220
+1 221 -3
+4 -3 -3
+65 223 226
+1303 -11 224
+1 225 -3
+4 -3 -3
+27 227 236
+69 -3 228
+192 229 231
+1 230 -11
+4 -11 -11
+1447 -3 232
+1 233 -11
+4 234 -11
+177 -11 235
+83 -11 -11
+253 -3 237
+177 238 243
+115 -3 239
+559 -3 240
+1349 -3 241
+4 242 -11
+1 -11 -11
+192 244 246
+4 245 -11
+2292 -3 -3
+997 -3 247
+1 248 -11
+83 -11 -11
+474 -11 250
+1419 251 253
+4 252 -11
+192 -11 -11
+151 254 299
+336 255 270
+177 256 259
+399 -11 257
+4 258 -3
+11 -11 -3
+42 260 261
+399 -28 -11
+253 -11 262
+2263 -11 263
+357 -3 264
+4 265 268
+65 266 267
+11 -3 -3
+11 -3 -3
+394 -3 269
+1251 -3 -3
+655 271 272
+1164 -11 -17
+2136 -11 273
+272 274 277
+177 275 276
+4 -11 -3
+150 -3 -11
+1 278 292
+252 -3 279
+65 280 283
+150 -17 281
+4 282 -3
+434 -3 -3
+666 -3 -3
+4 285 -3
+42 -3 286
+524 287 288
+177 -3 -3
+475 -3 289
+192 290 -3
+11 291 -3
+337 -3 -3
+1227 293 294
+42 -11 -3
+357 295 296
+523 -3 -3
+177 297 -3
+523 298 -3
+4 -3 -3
+118 300 301
+192 -15 -15
+192 302 316
+863 -11 303
+2263 -11 304
+202 -1 305
+704 -11 306
+383 -3 307
+1472 -3 308
+12 309 -3
+139 -3 310
+2311 -3 311
+910 312 313
+1 -3 -11
+4 314 -3
+1 -3 315
+313 -3 -3
+65 317 326
+353 -10 318
+306 319 320
+313 -3 -3
+1 321 323
+2 322 -3
+4 -3 -3
+4 -11 -11
+1218 -3 325
+1637 -3 -11
+35 -6 327
+81 -6 328
+12 329 -3
+383 -3 330
+223 -11 331
+526 -11 332
+357 333 334
+1 -3 -11
+304 -3 335
+567 -3 336
+719 -11 337
+4 338 350
+1498 -3 -3
+568 -3 340
+931 -3 341
+1164 -3 342
+277 343 345
+253 -11 344
+177 -3 -3
+253 -3 346
+1 347 349
+42 -11 348
+83 -3 -3
+42 -3 -11
+177 351 357
+1 352 353
+399 -11 -3
+666 -11 -11
+1349 -11 355
+277 -3 356
+399 -3 -11
+313 -3 -11
+55 359 384
+2488 -42 360
+746 361 363
+12 362 -10
+1 -10 -10
+6 364 376
+286 365 366
+1 -10 -10
+1330 367 368
+19 -1 -10
+1 369 -10
+4 370 -10
+57 371 373
+12 372 -10
+54 -10 -10
+12 374 -10
+54 375 -10
+5 -10 -10
+230 -25 377
+553 -25 378
+471 379 381
+1 380 -10
+215 -10 -10
+12 382 -10
+23 383 -10
+1 -10 -10
+40 385 387
+230 386 -7
+4 -25 -7
+82 388 390
+230 -25 389
+694 -25 -6
+1 391 489
+23 392 402
+2 393 394
+12 -2 -1
+223 395 396
+12 -21 -21
+354 -33 397
+148 -5 398
+284 -2 399
+863 -27 400
+27 401 -1
+12 -1 -1
+223 403 409
+471 404 405
+12 -21 -27
+581 -27 406
+5 407 -21
+4 408 -21
+12 -21 -21
+149 410 416
+268 411 415
+148 412 -25
+1883 -25 413
+4 414 -5
+11 -5 -5
+230 -25 -5
+46 417 419
+95 -42 418
+471 -19 -13
+6 420 467
+28 421 441
+286 -27 422
+368 423 424
+4 -27 -1
+57 425 431
+59 426 427
+12 -1 -1
+12 428 430
+4 429 -1
+27 -1 -1
+13 -1 -1
+587 -1 -1
+205 -1 433
+843 434 435
+12 -11 -1
+59 436 437
+4 -1 -1
+4 438 -1
+27 439 -1
+12 440 -1
+5 -1 -1
+2 442 453
+368 443 444
+4 -33 -1
+286 -33 445
+57 446 447
+2535 -32 -1
+12 448 -1
+317 -3 449
+1230 -3 450
+4 451 -1
+2346 -33 452
+5 -1 -1
+118 -15 454
+354 -10 455
+568 -3 456
+151 457 458
+554 -28 -3
+203 459 460
+4 -18 -14
+31 -4 461
+306 -6 -6
+864 -1 463
+33 -5 464
+304 -1 465
+629 -34 466
+870 -10 -6
+868 -36 468
+151 469 473
+337 470 -3
+319 -3 471
+484 -3 472
+4 -28 -28
+28 474 479
+12 475 478
+230 -25 476
+27 477 -3
+132 -3 -3
+297 -1 -16
+2 480 482
+132 -3 481
+806 -32 -1
+203 483 484
+1406 -14 -18
+31 -4 485
+11 486 -5
+67 -6 487
+44 -8 488
+863 -42 -3
+31 490 495
+294 -8 491
+363 -8 492
+342 -22 493
+265 -8 494
+463 -8 -4
+118 -15 496
+176 497 498
+131 -18 -14
+36 499 501
+806 500 -6
+5 -1 -6
+149 502 509
+728 -25 503
+529 -14 504
+316 505 506
+5 -43 -5
+230 -25 507
+694 -25 508
+1354 -25 -5
+203 510 512
+553 -25 511
+131 -25 -18
+28 513 521
+6 514 519
+379 515 516
+5 -11 -10
+997 -3 517
+753 -1 518
+38 -1 -1
+230 -25 520
+4 -3 -19
+32 -5 522
+223 -21 523
+354 -10 524
+44 -8 525
+6 526 545
+151 527 532
+474 -11 528
+336 529 -3
+4 530 -3
+5 531 -3
+12 -3 -3
+46 -13 533
+307 534 535
+57 -3 -3
+568 536 537
+277 -3 -3
+1074 538 540
+403 -15 539
+4 -15 -1
+156 -42 541
+1814 -34 542
+629 543 -6
+5 544 -6
+4 -6 -6
+863 546 548
+471 547 -42
+1272 -42 -42
+336 549 551
+132 -28 -28
+4 -28 -28
+4 552 557
+19 -3 -3
+139 554 555
+132 -3 -11
+313 556 -3
+132 -3 -3
+67 -6 558
+151 -3 559
+650 -1 560
+133 561 562
+11 -3 -5
+306 -3 563
+543 -1 564
+815 -1 -25
+43 566 1356
+109 567 602
+228 568 578
+46 -19 569
+213 570 -16
+223 -16 571
+129 -16 572
+27 573 -24
+175 -24 -24
+50 575 576
+1 -16 -24
+152 577 -24
+4 -24 -24
+46 579 582
+134 580 581
+61 -23 -23
+394 -38 -19
+149 583 584
+142 -18 -5
+54 585 591
+134 586 587
+4 -10 -23
+142 588 589
+1 -19 -10
+964 590 -16
+65 -10 -11
+807 592 594
+15 593 -16
+17 -1 -21
+203 595 596
+15 -18 -16
+104 -16 -16
+38 598 599
+9 -16 -1
+152 600 -16
+7 601 -16
+27 -24 -16
+46 603 758
+134 604 679
+261 -23 605
+399 -29 606
+1844 -19 607
+394 608 611
+15 609 -29
+50 -29 610
+9 -23 -23
+604 612 615
+1 613 -29
+603 -23 614
+9 -29 -23
+213 -23 -23
+15 617 630
+130 -19 618
+9 619 629
+776 -19 620
+902 621 622
+1 -19 -23
+1 623 -29
+175 -29 624
+196 -29 625
+79 626 -23
+17 -23 627
+342 -23 628
+4 -23 -23
+16 -19 -19
+4 -23 -29
+225 632 659
+1090 -29 633
+1127 -29 634
+1581 -29 635
+50 636 642
+357 -23 637
+1 638 -23
+42 -19 639
+192 640 -19
+910 -19 641
+9 -29 -23
+12 643 -19
+180 -19 644
+288 -19 645
+748 -19 646
+955 -19 647
+1142 -19 648
+79 649 655
+177 650 651
+1 -19 -19
+192 652 653
+9 -19 -23
+65 654 -23
+1 -23 -23
+42 656 657
+4 -19 -23
+692 658 -23
+253 -23 -19
+435 660 662
+17 661 -19
+1 -29 -23
+115 -19 663
+126 -19 664
+942 -19 665
+137 666 673
+86 -19 667
+175 668 669
+65 -19 -23
+192 670 -23
+79 671 -23
+9 672 -23
+17 -19 -23
+196 -29 674
+333 -29 675
+479 -29 676
+559 -29 677
+415 678 -23
+192 -23 -29
+208 680 697
+278 681 687
+213 -29 -29
+4 683 -37
+182 -37 -29
+73 -38 685
+248 686 -29
+65 -29 -19
+535 -19 -19
+177 -19 689
+45 -38 690
+248 -19 -29
+207 692 693
+130 -19 -29
+435 -29 694
+2258 -29 695
+1592 696 -19
+7 -38 -19
+7 698 729
+12 -19 -19
+8 700 702
+10 -19 701
+1473 -19 -35
+16 703 712
+456 -35 704
+77 705 706
+42 -3 -19
+178 -23 707
+1127 -23 708
+65 -38 709
+177 710 711
+4 -38 -19
+95 -38 -19
+126 -19 713
+137 714 715
+416 -38 -19
+4 716 721
+42 -38 717
+175 -19 718
+1 719 -29
+79 -29 720
+253 -29 -19
+17 -29 -38
+9 723 -19
+77 724 725
+11 -29 -19
+130 -23 726
+79 727 -29
+65 -23 728
+1146 -23 -29
+48 730 731
+1819 -23 -9
+96 732 735
+1015 -19 733
+16 734 -9
+45 -9 -9
+127 736 739
+357 -35 737
+1724 -35 738
+29 -9 -19
+178 -19 -19
+350 741 743
+17 742 -23
+1 -19 -23
+65 -35 744
+15 745 -29
+246 -29 -23
+594 747 748
+90 -20 -29
+505 -38 749
+61 750 751
+45 -23 -3
+1127 752 753
+17 -23 -19
+195 -30 754
+69 -29 755
+267 -29 756
+526 -29 757
+1281 -29 -19
+149 759 765
+208 760 761
+15 -18 -29
+153 -5 -5
+9 -11 -18
+10 -9 764
+98 -9 -5
+213 766 940
+28 767 907
+170 768 769
+84 -11 -16
+7 -20 -20
+129 771 773
+4 -3 772
+11 -26 -39
+12 774 823
+60 775 785
+27 776 779
+61 777 -3
+4 -11 778
+9 -20 -11
+4 780 -11
+1586 -3 781
+9 782 -3
+79 -3 783
+1390 -3 784
+16 -20 -20
+79 786 798
+16 787 791
+4 788 -16
+27 789 790
+1 -3 -20
+59 -20 -20
+222 -11 792
+72 -3 793
+9 794 -20
+8 795 796
+1 -3 -20
+27 797 -20
+89 -3 -20
+153 799 800
+15 -3 -16
+366 -23 801
+10 802 807
+2515 -20 803
+8 804 806
+16 -3 805
+27 -23 -3
+4 -20 -3
+405 -16 808
+1767 -16 809
+58 -3 810
+137 -3 811
+233 -3 812
+1202 -3 813
+1447 -3 814
+189 815 816
+4 -20 -3
+8 817 818
+1 -3 -20
+73 819 820
+1 -3 -20
+89 821 -20
+27 822 -20
+61 -3 -20
+16 824 827
+1 825 -11
+78 826 -3
+4 -11 -3
+79 -23 828
+232 -11 -20
+174 830 841
+1180 -32 831
+182 -3 832
+16 833 836
+4 834 -20
+27 835 -23
+173 -11 -11
+1 837 -11
+4 838 -11
+61 -20 839
+9 840 -20
+50 -20 -11
+96 -9 842
+17 843 874
+102 -3 844
+72 845 846
+1 -3 -16
+275 -16 847
+278 -16 848
+539 -16 849
+259 -11 850
+2249 -3 851
+50 852 854
+130 -3 853
+9 -20 -3
+60 855 857
+4 856 -20
+1085 -20 -3
+9 858 859
+4 -20 -11
+59 860 866
+84 861 863
+1 862 -20
+11 -20 -20
+69 -11 864
+918 865 -20
+11 -11 -20
+206 -20 867
+1 868 872
+84 -20 869
+422 -11 870
+143 -20 871
+4 -3 -20
+1129 -3 873
+1783 -3 -11
+84 875 895
+73 876 877
+275 -16 -16
+153 878 879
+716 -20 -3
+9 880 891
+79 -20 881
+10 882 885
+1 883 -20
+4 884 -20
+702 -20 -11
+50 -20 886
+1 887 -20
+408 -11 888
+27 889 -3
+4 890 -3
+435 -3 -11
+4 892 -20
+1 893 -11
+61 -20 894
+27 -11 -20
+88 896 897
+10 -9 -19
+79 898 899
+4 -11 -16
+1 900 -23
+182 -19 901
+60 -11 902
+222 -11 903
+10 904 906
+407 -11 905
+27 -20 -11
+15 -20 -11
+127 908 916
+126 909 914
+7 910 912
+4 911 -11
+30 -8 -3
+54 913 -5
+4 -10 -9
+2 915 -21
+4 -16 -1
+12 917 935
+16 918 927
+31 919 920
+4 -22 -8
+8 921 922
+4 -3 -3
+44 -8 923
+47 -9 924
+863 -23 925
+308 -3 926
+964 -3 -20
+55 928 932
+278 -29 929
+7 930 931
+668 -20 -19
+137 -19 -9
+17 933 934
+1 -16 -9
+9 -3 -20
+13 936 937
+72 -20 -23
+215 938 939
+1 -3 -8
+303 -11 -16
+208 941 945
+278 -29 942
+171 943 -19
+15 -29 944
+1 -19 -16
+28 946 1279
+170 947 948
+96 -9 -16
+126 949 960
+78 950 951
+27 -3 -26
+16 -26 952
+548 -26 953
+4 954 -16
+570 -16 955
+192 956 -3
+130 -3 957
+1 958 -3
+8 -3 959
+17 -16 -3
+7 961 1064
+85 962 967
+192 963 -3
+16 964 -3
+1 965 -3
+4 966 -3
+59 -3 -3
+12 968 1053
+60 969 999
+4 -11 -11
+152 971 973
+42 -23 972
+1207 -17 -11
+153 974 984
+357 975 976
+27 -11 -11
+59 -3 977
+10 -3 978
+175 -3 979
+549 -3 980
+1164 -3 981
+1572 -3 982
+192 983 -11
+50 -11 -11
+1 985 995
+10 -3 986
+794 -3 987
+42 988 989
+27 -11 -3
+65 -11 990
+192 -11 991
+27 992 993
+177 -11 -11
+177 -11 994
+16 -11 -11
+65 -3 996
+1390 -3 -11
+192 -23 998
+175 -11 -3
+78 1000 1018
+192 -11 -11
+4 -3 -11
+284 -26 1003
+379 -26 1004
+357 -11 1005
+65 1006 1010
+4 1007 -3
+10 -11 1008
+16 1009 -3
+1084 -11 -3
+16 1011 -11
+27 1012 1015
+1 1013 -11
+4 1014 -11
+42 -11 -3
+4 1016 -3
+42 1017 -11
+59 -11 -3
+65 1019 1023
+59 1020 1021
+1 -11 -17
+88 -16 1022
+647 -11 -3
+192 1024 1030
+259 1025 1027
+15 1026 -11
+27 -3 -16
+102 -11 1028
+79 1029 -3
+8 -11 -3
+42 1031 1034
+152 1032 1033
+4 -3 -11
+1079 -11 -3
+544 -26 1035
+647 -11 1036
+884 -11 1037
+130 -11 1038
+177 1039 1046
+79 -3 1040
+72 -3 -3
+137 -11 1042
+222 -11 1043
+8 1044 -3
+1094 -11 1045
+27 -3 -3
+152 -3 1047
+253 -3 1048
+260 -3 1049
+1290 -3 1050
+8 1051 -11
+1 -11 -11
+27 -11 -3
+17 1054 -23
+174 -3 1055
+794 -3 1056
+72 -3 1057
+394 -3 1058
+546 -3 1059
+2304 -3 1060
+374 1061 1062
+60 -11 -3
+93 1063 -11
+192 -3 -11
+48 -9 1065
+97 1066 1077
+192 1067 1070
+96 -9 1068
+4 1069 -23
+136 -23 -16
+96 1071 1073
+15 -11 1072
+1 -9 -9
+158 1074 1075
+9 -3 -38
+65 1076 -11
+15 -3 -11
+16 1078 1156
+177 1079 1098
+275 -16 1080
+423 1081 1083
+399 1082 -11
+27 -23 -11
+1445 -3 1084
+84 1085 1089
+1 -11 -11
+12 1087 -3
+666 -3 1088
+27 -11 -11
+687 -3 1090
+1112 -3 1091
+1516 -3 1092
+1817 1093 1094
+27 -11 -3
+592 -11 1095
+173 1096 -11
+4 1097 -11
+1 -11 -11
+174 1099 1101
+1236 -23 1100
+65 -11 -11
+2263 1102 1103
+1 -23 -3
+275 -16 1104
+749 -16 1105
+2193 -16 1106
+998 -3 1107
+84 1108 1123
+357 1109 1110
+1 -11 -11
+65 1111 1113
+27 1112 -11
+4 -3 -3
+27 1114 1121
+2249 -11 -11
+11 1116 -3
+83 -3 1117
+520 -3 1118
+1443 -3 1119
+1 1120 -11
+42 -11 -11
+42 1122 -3
+1 -11 -3
+11 1124 -11
+42 1125 1132
+1 1126 -3
+121 -3 1127
+78 -11 1128
+143 -11 1129
+1112 -11 1130
+1233 -11 1131
+59 -3 -3
+121 -11 1133
+1112 -3 1134
+918 -11 1135
+65 1136 1138
+27 1137 -11
+2316 -11 -3
+2316 -3 1139
+49 -3 1140
+192 1141 1152
+259 -11 1142
+284 -11 1143
+1 1144 1149
+396 -11 1145
+539 -11 1146
+647 -11 1147
+423 -3 1148
+143 -3 -3
+919 -3 1150
+2249 -3 1151
+2258 -3 -11
+758 -3 1153
+78 1154 -11
+27 -11 -11
+1245 -3 -11
+12 1157 1275
+394 -3 1158
+134 -11 -11
+192 -29 -23
+192 1161 1197
+4 1162 1188
+275 -16 1163
+88 1164 1176
+9 1165 1172
+1 1166 1171
+61 -3 1167
+27 1168 -11
+50 -11 1169
+86 -11 1170
+79 -11 -11
+175 -11 -3
+27 1173 -11
+84 1174 -11
+61 -3 1175
+2309 -3 -23
+182 1177 1178
+1 -3 -3
+71 -3 1179
+171 1180 1182
+15 1181 -3
+1244 -3 -11
+73 1183 1184
+152 -3 -11
+379 1185 1186
+9 -23 -11
+50 1187 -11
+153 -23 -11
+49 -3 1189
+848 -16 1190
+158 -11 1191
+59 -11 1192
+1 1193 -23
+61 -11 1194
+17 -23 1195
+212 1196 -11
+173 -11 -23
+51 -29 1198
+247 -19 1199
+173 1200 1221
+357 1201 1202
+86 -11 -11
+79 1203 1211
+1212 -3 1204
+15 1205 -11
+1581 -3 1206
+17 -11 1207
+1 1208 -11
+4 1209 -11
+42 -11 1210
+177 -11 -3
+177 1212 1214
+10 -3 1213
+175 -3 -11
+27 1215 -23
+65 -11 1216
+4 1217 -11
+152 1218 -23
+153 -23 1219
+42 -11 1220
+17 -11 -23
+278 -29 1222
+308 -19 1223
+1600 -3 1224
+158 1225 1226
+65 -23 -11
+735 -16 1227
+1346 1228 1229
+1 -11 -16
+260 -3 1230
+1309 -3 1231
+65 1232 1250
+59 -11 1233
+175 -11 1234
+620 -11 1235
+72 -11 1236
+86 -11 1237
+435 -11 1238
+74 -11 1239
+246 -11 1240
+257 -11 1241
+412 -11 1242
+79 1243 1246
+1 1244 -3
+301 -3 1245
+15 -11 -11
+1043 -11 1247
+50 1248 -3
+1 1249 -3
+416 -3 -3
+75 -3 1251
+267 -3 1252
+361 -3 1253
+451 -3 1254
+744 -3 1255
+841 -3 1256
+257 1257 1260
+88 -11 1258
+177 1259 -3
+4 -11 -3
+1085 -3 1261
+1179 -3 1262
+1580 -3 1263
+357 1264 1271
+17 -11 1265
+153 -3 1266
+301 -3 1267
+1783 -3 1268
+2080 -3 1269
+50 1270 -11
+443 -11 -3
+539 1272 1273
+42 -3 -11
+559 1274 -11
+79 -3 -11
+153 -3 -3
+9 -23 -32
+15 -3 1278
+65 -3 -11
+55 1280 1309
+15 1281 1298
+1 1282 1294
+54 1283 1291
+48 -9 1284
+96 -10 1285
+9 1286 1288
+65 1287 -23
+78 -10 -23
+444 -23 1289
+11 1290 -23
+42 -23 -11
+409 -3 1292
+7 -10 1293
+177 -10 -23
+12 -11 -11
+7 -23 1296
+42 -3 -11
+16 -3 -32
+9 1299 1302
+96 -9 1300
+42 -19 1301
+48 -9 -29
+7 -10 -10
+54 1304 1305
+4 -10 -41
+12 -16 -11
+1 1307 -10
+17 -35 1308
+78 -29 -23
+44 1310 1313
+17 1311 1312
+12 -8 -8
+9 -9 -8
+12 1314 1347
+104 1315 1316
+15 -5 -18
+97 1317 1321
+158 1318 1319
+2 -9 -21
+126 -3 1320
+15 -16 -23
+7 1322 1335
+1 1323 1331
+16 1324 1326
+192 1325 -3
+4 -3 -3
+2263 1327 1328
+2 -3 -23
+111 -16 1329
+221 -16 1330
+394 -16 -3
+62 -12 1332
+177 -11 1333
+277 1334 -3
+4 -11 -18
+47 -3 -3
+79 -17 1337
+308 -20 1338
+65 -3 1339
+9 1340 1342
+88 1341 -11
+1262 -11 -3
+72 -11 1343
+83 -11 1344
+173 -11 1345
+180 -11 1346
+399 -11 -3
+85 -3 1348
+63 -12 1349
+10 1350 1353
+16 1351 -11
+680 1352 -3
+4 -11 -3
+60 -3 1354
+128 1355 -11
+9 -23 -11
+46 1357 1469
+308 1358 1360
+77 -13 1359
+225 -13 -30
+6 1361 1420
+96 1362 1363
+126 -35 -9
+16 1364 1372
+343 1365 1367
+7 1366 -14
+5 -13 -13
+95 1368 1369
+7 -30 -35
+1483 1370 1371
+12 -10 -13
+45 -30 -13
+134 1373 1378
+267 -13 -13
+412 -38 1375
+1264 -38 1376
+762 1377 -13
+4 -13 -38
+129 1379 1385
+1483 -10 1380
+45 -13 -13
+7 -23 1382
+5 -30 -1
+47 -9 1384
+456 -35 -13
+126 1386 1387
+7 -19 -19
+175 1388 1394
+15 1389 1391
+7 -30 1390
+4 -13 -13
+7 -30 1392
+17 -38 1393
+171 -38 -30
+47 -9 1395
+193 1396 1403
+208 -13 1397
+97 -32 1398
+102 -38 1399
+12 1400 -13
+273 -13 1401
+246 1402 -30
+4 -13 -30
+207 -30 1404
+626 1405 1406
+15 -30 -30
+667 -13 -13
+453 -19 1408
+137 1409 1412
+516 -30 1410
+61 -19 1411
+108 -19 -13
+340 -38 1413
+1350 -38 1414
+415 1415 1416
+10 -13 -38
+154 -30 1417
+247 -30 1418
+310 -30 1419
+533 -30 -13
+133 1421 1453
+96 -9 1422
+47 -9 1423
+278 1424 1428
+4 1425 -38
+17 1426 1427
+171 -29 -38
+79 -19 -19
+134 1429 1446
+15 1430 1445
+130 1431 1433
+9 1432 -38
+195 -23 -23
+171 -38 1434
+225 1435 1443
+90 -23 1436
+294 -23 1437
+408 -23 1438
+4 1439 -38
+175 -38 1440
+79 1441 -19
+1 1442 -19
+178 -38 -19
+16 1444 -19
+1 -19 -19
+408 -38 -19
+8 -35 1447
+51 -3 1448
+17 1449 -19
+90 -19 1450
+130 -19 -19
+196 -38 1452
+648 -38 -19
+238 1454 1461
+427 1455 1456
+4 -38 -29
+47 -9 1457
+980 -30 1458
+90 -13 1459
+435 -13 1460
+936 -13 -30
+23 1462 1464
+193 1463 -13
+102 -19 -30
+134 1465 1467
+9 -23 1466
+4 -19 -19
+86 -29 1468
+267 -9 -19
+109 1470 1520
+133 1471 1475
+223 -21 1472
+148 -5 1473
+203 -18 1474
+2054 -43 -16
+104 -14 1476
+223 1477 1479
+11 -21 -21
+286 -16 -21
+162 -16 1480
+55 1481 1485
+194 -10 1482
+447 1483 1484
+4 -5 -10
+7 -19 -1
+149 1486 1487
+1 -14 -5
+142 1488 1492
+118 -15 1489
+1043 1490 -1
+111 1491 -1
+5 -16 -1
+23 -1 -1
+12 1494 -2
+153 -43 -1
+187 1496 1508
+15 1497 1502
+171 -43 1498
+978 -43 1499
+257 1500 -1
+5 1501 -1
+2 -1 -1
+9 -1 1503
+1076 1504 1505
+79 -16 -1
+50 -16 1506
+184 -16 1507
+361 -16 -1
+2538 -43 1509
+127 1510 1513
+405 -16 1511
+69 -9 1512
+155 -9 -1
+108 1514 1518
+722 -16 1515
+1511 -16 1516
+16 1517 -1
+59 -1 -1
+1977 1519 -1
+7 -9 -1
+48 1521 1529
+103 -14 1522
+29 -4 1523
+194 -10 1524
+996 -10 1525
+61 1526 -9
+57 1527 -9
+15 1528 -9
+27 -9 -9
+96 1530 1548
+148 1531 1532
+15 -5 -9
+126 1533 1547
+1 1534 1540
+170 -16 1535
+285 -26 1536
+12 1537 -40
+1939 -40 1538
+132 1539 -9
+28 -3 -9
+5 1541 1545
+27 -9 1542
+4 1543 -9
+29 -4 1544
+36 -6 -3
+54 -9 1546
+4 -8 -18
+180 -1 -9
+55 1549 1574
+308 -30 1550
+208 1551 1555
+278 1552 1554
+267 -13 1553
+4 -38 -13
+1 -19 -1
+6 1556 1566
+16 1557 1562
+614 -13 1558
+2315 -13 1559
+1346 -1 1560
+647 1561 -10
+4 -10 -10
+823 -30 1563
+1561 1564 1565
+4 -10 -30
+51 -30 -10
+4 -10 -10
+17 1568 1569
+8 -32 -10
+9 -23 1570
+15 -32 -9
+15 1572 1573
+1 -11 -5
+7 -19 -10
+223 -21 1575
+133 1576 1603
+28 1577 1592
+15 1578 1584
+11 1579 -16
+97 -16 1580
+1 -3 1581
+132 1582 -16
+259 -16 1583
+628 -16 -3
+210 1585 1586
+1 -19 -9
+170 -16 1587
+1 1588 1591
+78 -26 1589
+134 -23 1590
+173 -11 -3
+27 -16 -3
+149 -5 1593
+9 1594 1597
+4 1595 -20
+10 -23 1596
+44 -8 -3
+1 1598 1600
+159 -5 1599
+15 -10 -18
+11 1601 -14
+62 -12 1602
+188 -3 -5
+348 -1 1604
+149 1605 1611
+170 -7 1606
+278 1607 1609
+1 -13 1608
+15 -18 -30
+99 -9 1610
+51 -30 -5
+16 1612 1691
+28 1613 1664
+6 1614 1657
+5 1615 1647
+12 1616 1645
+60 1617 1625
+27 1618 1622
+638 -3 1619
+1 1620 -1
+4 1621 -1
+7 -1 -1
+7 1623 -3
+794 -3 1624
+59 -1 -1
+259 -1 1626
+97 -1 1627
+647 -1 1628
+1217 -1 1629
+1383 -1 1630
+85 -3 1631
+275 -1 1632
+144 -3 1633
+804 -1 1634
+905 -1 1635
+7 1636 1644
+78 -1 -1
+27 -1 -1
+1145 -1 1639
+2550 -1 1640
+1 1641 -3
+4 1642 -3
+27 1643 -1
+8 -3 -3
+366 -1 -3
+276 -27 1646
+412 -11 -1
+86 -39 1648
+173 -1 1649
+919 -3 1650
+1756 -3 1651
+263 1652 1653
+60 -3 -1
+78 1654 -1
+1 1655 -1
+4 1656 -1
+7 -1 -1
+4 1658 1661
+7 -1 1659
+173 1660 -3
+1 -1 -1
+162 -3 -3
+27 -3 1663
+1 -19 -3
+2 1665 1674
+688 -1 1666
+8 1667 1673
+57 -1 1668
+4 1669 1671
+11 1670 -3
+5 -1 -1
+6 1672 -3
+731 -3 -1
+85 -1 -1
+1258 -1 1675
+4 1676 1687
+7 1677 1683
+63 -12 1678
+29 -4 1679
+80 -6 1680
+104 -5 1681
+13 1682 -10
+870 -10 -3
+304 -3 1684
+355 -10 1685
+195 -36 1686
+277 -5 -14
+7 1688 1690
+104 1689 -1
+114 -14 -5
+1 -6 -15
+127 1692 1735
+126 1693 1709
+171 1694 1697
+7 1695 1696
+4 -26 -26
+135 -1 -19
+5 1698 1706
+15 1699 1700
+59 -1 -3
+8 1701 1703
+2 1702 -32
+377 -32 -3
+130 1704 1705
+135 -32 -19
+78 -3 -1
+97 -11 1707
+423 -3 1708
+1477 -3 -32
+97 1710 1734
+98 -9 1711
+1 1712 1732
+1475 1713 1714
+257 -1 -1
+320 -30 1715
+868 -32 1716
+415 -1 -1
+5 -32 -1
+7 -32 1719
+130 -32 1720
+4 1721 -1
+17 1722 1726
+136 -32 1723
+15 1724 -1
+171 -32 1725
+5 -32 -1
+6 1727 -1
+5 1728 -32
+15 -32 1729
+167 1730 -32
+129 1731 -1
+2 -32 -32
+5 -1 1733
+4 -15 -19
+2 -3 -1
+208 1736 1737
+663 -38 -13
+104 1738 1739
+5 -5 -14
+308 1740 1741
+380 -1 -30
+162 1742 1743
+79 -3 -16
+12 1744 1795
+284 1745 1748
+4 1746 1747
+7 -32 -10
+7 -1 -30
+23 1749 1754
+2258 -3 1750
+173 1751 1753
+15 -32 1752
+10 -32 -1
+702 -32 -1
+6 1755 -3
+7 1756 1771
+2 1757 1760
+170 -1 -1
+221 -1 1759
+2535 -1 -32
+170 -1 1761
+60 1762 1765
+9 1763 -1
+61 -1 -1
+257 -1 -3
+171 1766 1770
+4 1767 -1
+5 1768 1769
+50 -3 -1
+27 -1 -1
+205 -1 -3
+15 1772 1790
+5 1773 1784
+153 1774 1776
+175 -3 1775
+1405 -3 -1
+4 1777 1783
+2 -1 1778
+174 1779 1781
+61 -3 1780
+257 -3 -32
+79 1782 -3
+244 -3 -3
+9 -1 -3
+27 1785 1787
+50 -32 1786
+1384 -32 -1
+4 -1 -1
+2 1789 -3
+368 -3 -1
+17 1791 1792
+4 -32 -13
+137 1793 1794
+5 -3 -11
+175 -29 -1
+6 1796 1798
+84 -3 1797
+277 -30 -1
+4 1799 -3
+2 -1 -36

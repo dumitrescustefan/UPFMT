@@ -1,0 +1,184 @@
+DET	Number=Plur	PronType=Ind
+NOUN	Definite=Ind	Gender=Masc	Number=Plur
+ADP	_
+NOUN	Definite=Def	Gender=Masc	Number=Sing
+PUNCT	_
+NOUN	Gender=Masc
+CCONJ	_
+NOUN	Definite=Ind	Number=Plur
+PRON	Animacy=Hum	Case=Nom	Number=Sing	Person=1	PronType=Prs
+VERB	Mood=Ind	Tense=Past	VerbForm=Fin
+NOUN	Definite=Ind	Gender=Masc	Number=Sing
+NOUN	_
+PROPN	_
+PRON	Gender=Neut	Number=Sing	Person=3	PronType=Prs
+AUX	Mood=Ind	Tense=Past	VerbForm=Fin
+ADJ	Definite=Ind	Degree=Pos	Gender=Neut	Number=Sing
+PRON	Animacy=Hum	Case=Nom	Number=Plur	Person=1	PronType=Prs
+ADV	_
+ADJ	Definite=Ind	Degree=Pos	Number=Sing
+NOUN	Definite=Ind	Gender=Fem	Number=Sing
+DET	Gender=Masc	Number=Sing	Poss=Yes	PronType=Prs
+ADJ	Definite=Def	Degree=Pos	Number=Sing
+NOUN	Definite=Def	Gender=Neut	Number=Sing
+SCONJ	_
+DET	Gender=Neut	Number=Sing	Poss=Yes	PronType=Prs
+NOUN	Definite=Ind	Gender=Neut	Number=Sing
+AUX	Mood=Ind	Tense=Pres	VerbForm=Fin
+PART	_
+VERB	VerbForm=Inf
+PRON	PronType=Rel
+VERB	VerbForm=Part
+PRON	Animacy=Hum	Case=Acc	Number=Sing	Person=1	PronType=Prs
+ADJ	Degree=Pos	Number=Plur
+DET	Number=Plur	PronType=Dem
+NOUN	Definite=Ind	Gender=Neut	Number=Plur
+NOUN	Abbr=Yes
+ADJ	Definite=Ind	Degree=Pos	Gender=Masc	Number=Sing
+ADV	Abbr=Yes
+VERB	Mood=Ind	Tense=Pres	VerbForm=Fin
+ADJ	Degree=Cmp
+ADJ	VerbForm=Part
+PRON	Case=Nom	Gender=Masc	Number=Sing	Person=3	PronType=Prs
+DET	PronType=Int
+AUX	VerbForm=Inf
+NOUN	Definite=Def	Gender=Masc	Number=Plur
+DET	Gender=Neut	Number=Sing	PronType=Dem
+NOUN	Definite=Def	Gender=Fem	Number=Plur
+NOUN	Definite=Def	Gender=Neut	Number=Plur
+PRON	Case=Acc	Number=Sing	PronType=Prs
+DET	Gender=Fem	Number=Sing	PronType=Dem
+NOUN	Definite=Def	Gender=Fem	Number=Sing
+DET	Gender=Fem	Number=Sing	Poss=Yes	PronType=Prs
+ADJ	Abbr=Yes
+ADV	Polarity=Neg
+DET	Gender=Masc	Number=Sing	PronType=Art
+INTJ	_
+PRON	Animacy=Hum	Number=Sing	PronType=Art,Prs
+DET	Gender=Neut	Number=Sing	PronType=Art
+PROPN	Case=Gen
+PRON	Animacy=Hum	Case=Nom	Number=Plur	Person=3	PronType=Prs
+ADJ	Definite=Ind	Gender=Neut	Number=Sing	VerbForm=Part
+ADJ	Definite=Ind	Number=Sing	VerbForm=Part
+NOUN	Definite=Ind	Gender=Fem	Number=Plur
+DET	Definite=Ind	Gender=Masc	Number=Sing	PronType=Dem
+DET	Number=Plur	Polarity=Neg	PronType=Neg
+PRON	Animacy=Hum	Case=Acc	Number=Plur	Person=3	PronType=Prs
+PRON	Animacy=Hum	Case=Acc	Number=Plur	Person=2	PronType=Prs
+PRON	Animacy=Hum	Case=Nom	Number=Plur	Person=2	PronType=Prs
+DET	Gender=Fem	Number=Sing	PronType=Art
+NOUN	Case=Gen	Definite=Def	Gender=Neut	Number=Sing
+PRON	PronType=Int
+NOUN	Case=Gen	Definite=Ind	Gender=Neut	Number=Sing
+DET	Definite=Ind	Gender=Neut	Number=Sing	PronType=Dem
+NUM	NumType=Card
+DET	Gender=Masc	Number=Sing	PronType=Dem
+DET	Number=Plur	PronType=Tot
+ADJ	Definite=Ind	Degree=Sup
+NUM	Number=Plur	NumType=Card
+DET	Definite=Def	PronType=Prs
+NOUN	Case=Gen	Definite=Def	Gender=Fem	Number=Sing
+VERB	Mood=Imp	VerbForm=Fin
+DET	Gender=Neut	Number=Sing	PronType=Ind
+DET	Definite=Def	PronType=Dem
+X	_
+NOUN	Case=Gen	Gender=Masc
+ADJ	Number=Plur	VerbForm=Part
+PRON	Case=Acc	Gender=Masc	Number=Sing	Person=3	PronType=Prs
+DET	Number=Sing	PronType=Tot
+PRON	Number=Plur	Person=3	PronType=Prs
+NOUN	Case=Gen	Definite=Ind	Gender=Masc	Number=Sing
+PRON	Animacy=Hum	Number=Plur	PronType=Rcp
+ADJ	Definite=Def	Degree=Sup
+NUM	Gender=Masc	Number=Sing	NumType=Card
+DET	PronType=Prs
+DET	Gender=Masc	Number=Sing	PronType=Ind
+PRON	Gender=Neut	Number=Sing	Person=3	PronType=Ind,Prs
+ADJ	Definite=Ind	Degree=Pos
+DET	Number=Plur	Poss=Yes	PronType=Prs
+DET	Gender=Masc	Number=Sing	PronType=Tot
+SYM	_
+DET	Gender=Neut	Number=Sing	PronType=Tot
+NOUN	Number=Plur
+AUX	VerbForm=Part
+DET	Definite=Ind	Gender=Masc	Number=Sing	PronType=Prs
+NOUN	Case=Gen	Definite=Def	Gender=Masc	Number=Sing
+PRON	Gender=Fem,Masc	Number=Sing	Person=3	PronType=Prs
+PRON	Abbr=Yes	PronType=Prs
+VERB	Abbr=Yes	Mood=Ind	Tense=Pres	VerbForm=Fin
+ADJ	_
+NOUN	Gender=Neut
+PRON	Animacy=Hum	Case=Acc	Number=Plur	Person=1	PronType=Prs
+DET	Definite=Ind	Gender=Neut	Number=Sing	PronType=Prs
+DET	Definite=Ind	Gender=Fem	Number=Sing	PronType=Dem
+NOUN	Gender=Fem
+ADJ	Degree=Pos
+NUM	Definite=Def	Number=Sing	NumType=Card
+PRON	Animacy=Hum	Case=Nom	Number=Sing	Person=2	PronType=Prs
+PRON	Animacy=Hum	Case=Acc	Number=Sing	Person=2	PronType=Prs
+NUM	Definite=Def	NumType=Card
+PRON	Case=Nom	Gender=Fem	Number=Sing	Person=3	PronType=Prs
+DET	Gender=Fem	Number=Sing	PronType=Tot
+PRON	Number=Plur	Person=3	PronType=Prs,Tot
+PRON	Case=Acc	Gender=Fem	Number=Sing	Person=3	PronType=Prs
+DET	Gender=Fem	Number=Sing	Polarity=Neg	PronType=Neg
+NUM	Gender=Fem	Number=Sing	NumType=Card
+ADJ	Definite=Def	Number=Sing	VerbForm=Part
+ADJ	Definite=Ind	Degree=Pos	Gender=Fem	Number=Sing
+PRON	Animacy=Hum	PronType=Int
+AUX	Mood=Imp	VerbForm=Fin
+NOUN	Case=Gen	Definite=Def	Gender=Neut	Number=Plur
+DET	Number=Plur	PronType=Prs
+DET	Case=Gen	Gender=Masc	Number=Sing	PronType=Dem
+CCONJ	Abbr=Yes
+PRON	Number=Plur	Person=3	Polarity=Neg	PronType=Neg,Prs
+PRON	Gender=Masc	Number=Sing	Person=3	PronType=Ind,Prs
+DET	Definite=Def	Number=Sing	PronType=Dem
+ADJ	Number=Plur
+DET	Gender=Masc	Number=Sing	Polarity=Neg	PronType=Neg
+DET	Definite=Ind	Gender=Fem	Number=Sing	PronType=Prs
+PRON	Gender=Masc	Number=Sing	Person=3	Polarity=Neg	PronType=Neg,Prs
+NOUN	Abbr=Yes	Case=Gen
+NOUN	Case=Gen	Definite=Ind	Gender=Neut	Number=Plur
+DET	Case=Gen	Number=Plur	PronType=Dem
+ADV	Definite=Def
+PRON	Number=Sing	Polarity=Neg	PronType=Neg
+NOUN	Case=Gen	Definite=Ind	Gender=Masc	Number=Plur
+NOUN	Abbr=Yes	Definite=Def,Ind	Gender=Neut	Number=Plur,Sing
+DET	Gender=Neut	Number=Sing	PronType=Prs
+PRON	Number=Plur	Person=3	PronType=Ind,Prs
+ADJ	Case=Gen	Definite=Def	Degree=Pos	Number=Sing
+ADP	Abbr=Yes
+DET	Gender=Fem	Number=Sing	PronType=Ind
+ADJ	Case=Gen	Definite=Ind	Degree=Pos	Number=Sing
+PRON	Animacy=Hum	Case=Nom	Person=1	PronType=Prs
+NOUN	Case=Gen	Definite=Def	Gender=Masc	Number=Plur
+NUM	Gender=Neut	Number=Sing	NumType=Card
+PRON	Gender=Fem	Number=Sing	Person=3	PronType=Art,Prs
+NOUN	Definite=Def	Number=Plur
+NOUN	Abbr=Yes	Gender=Masc
+NOUN	Case=Gen
+ADJ	Definite=Ind	Gender=Fem	Number=Sing	VerbForm=Part
+NOUN	Case=Gen	Definite=Ind	Gender=Fem	Number=Sing
+ADJ	Case=Gen	Degree=Pos	Number=Plur
+ADV	VerbForm=Inf
+ADJ	Degree=Sup
+ADJ	Definite=Ind	Degree=Pos	Gender=Neut
+NOUN	Definite=Ind	Gender=Masc
+PRON	Animacy=Hum	Case=Nom	Gender=Masc	Person=3	PronType=Prs
+PROPN	Abbr=Yes
+DET	Case=Gen	Gender=Neut	Number=Sing	PronType=Dem
+VERB	Definite=Ind	Gender=Neut	Number=Sing	VerbForm=Part
+PRON	Gender=Neut	Person=3	PronType=Prs
+NOUN	Case=Gen	Gender=Fem
+NOUN	Case=Gen	Gender=Neut
+ADJ	Definite=Def	VerbForm=Part
+DET	PronType=Dem
+ADJ	Definite=Ind	Gender=Neut	Number=Sing
+NOUN	Case=Gen	Definite=Ind	Gender=Fem	Number=Plur
+ADJ	Definite=Ind	Degree=Pos	Number=Sing	VerbForm=Part
+ADJ	Definite=Ind	Degree=Pos	Gender=Neut	Number=Sing	VerbForm=Part
+NOUN	Case=Gen	Definite=Def	Gender=Fem	Number=Plur
+ADJ	Definite=Ind	Number=Plur	VerbForm=Part
+NUM	NumType=Card	PronType=Dem
+VERB	Definite=Ind	Number=Sing	VerbForm=Part

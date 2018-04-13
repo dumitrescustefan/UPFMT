@@ -1,0 +1,361 @@
+X	_
+NOUN	Case=Nom	Gender=Neut	Number=Sing	Polarity=Pos
+NOUN	Animacy=Inan	Case=Gen	Gender=Masc	Number=Plur	Polarity=Pos
+ADJ	Animacy=Inan	Aspect=Imp	Case=Gen	Gender=Masc	Number=Plur	Polarity=Pos	Tense=Pres	VerbForm=Part	Voice=Act
+ADP	AdpType=Prep	Case=Ins
+NOUN	Case=Ins	Gender=Neut	Number=Sing	Polarity=Pos
+NOUN	Case=Gen	Gender=Fem	Number=Plur	Polarity=Pos
+ADJ	Case=Gen	Degree=Pos	Gender=Fem	Number=Sing	Polarity=Pos
+NOUN	Case=Gen	Gender=Fem	Number=Sing	Polarity=Pos
+AUX	Mood=Ind	Number=Plur	Person=3	Polarity=Pos	Tense=Pres	VerbForm=Fin	Voice=Act
+NOUN	Animacy=Inan	Case=Nom	Gender=Masc	Number=Plur	Polarity=Pos
+ADJ	Aspect=Imp	Case=Nom	Gender=Fem	Number=Plur	Polarity=Pos	Tense=Pres	VerbForm=Part	Voice=Act
+PUNCT	_
+ADV	_
+ADP	AdpType=Prep	Case=Acc
+ADJ	Case=Acc	Degree=Pos	Gender=Neut	Number=Sing	Polarity=Pos
+NOUN	Case=Acc	Gender=Neut	Number=Sing	Polarity=Pos
+ADJ	Case=Gen	Degree=Pos	Gender=Fem	Number=Plur	Polarity=Pos
+NOUN	Case=Nom	Gender=Fem	Number=Plur	Polarity=Pos
+NOUN	Animacy=Anim	Case=Dat	Gender=Masc	Number=Plur	Polarity=Pos
+CCONJ	_
+ADJ	Animacy=Inan	Case=Nom	Degree=Pos	Gender=Masc	Number=Plur	Polarity=Pos
+ADP	AdpType=Prep	Case=Loc
+NOUN	Case=Loc	Gender=Neut	Number=Sing	Polarity=Pos
+ADP	AdpType=Prep	Case=Gen
+ADJ	Animacy=Inan	Case=Gen	Degree=Pos	Gender=Masc	Number=Plur	Polarity=Pos
+NOUN	Case=Acc	Gender=Fem	Number=Plur	Polarity=Pos
+ADJ	Case=Ins	Degree=Pos	Gender=Fem	Number=Sing	Polarity=Pos
+NOUN	Case=Ins	Gender=Fem	Number=Sing	Polarity=Pos
+ADP	AdpType=Prep	Case=Dat
+NOUN	Case=Dat	Gender=Neut	Number=Sing	Polarity=Pos
+NOUN	Animacy=Inan	Case=Ins	Gender=Masc	Number=Sing	Polarity=Pos
+VERB	Polarity=Pos	VerbForm=Inf
+NOUN	Animacy=Inan	Case=Acc	Gender=Masc	Number=Sing	Polarity=Pos
+ADJ	Animacy=Inan	Case=Loc	Degree=Pos	Gender=Masc	Number=Sing	Polarity=Pos
+NOUN	Animacy=Inan	Case=Loc	Gender=Masc	Number=Sing	Polarity=Pos
+PRON	Case=Acc	PronType=Prs	Reflex=Yes	Variant=Short
+VERB	Mood=Ind	Number=Plur	Person=3	Polarity=Pos	Tense=Pres	VerbForm=Fin	Voice=Act
+SCONJ	_
+ADJ	Animacy=Inan	Case=Acc	Degree=Pos	Gender=Masc	Number=Sing	Polarity=Pos
+ADJ	Case=Loc	Degree=Pos	Gender=Fem	Number=Sing	Polarity=Pos
+NOUN	Case=Loc	Gender=Fem	Number=Sing	Polarity=Pos
+NUM	NumForm=Roman	NumType=Card
+AUX	Gender=Neut	Polarity=Pos
+VERB	Gender=Neut	Number=Sing	Polarity=Pos	VerbForm=Part	Voice=Pass
+VERB	Gender=Neut	Number=Sing	Polarity=Pos	Tense=Past	VerbForm=Part	Voice=Act
+ADP	AdpType=Voc	Case=Dat
+DET	Case=Gen	Number=Plur	PronType=Dem
+PRON	Case=Nom	Gender=Neut	Number=Sing	PronType=Int,Rel
+AUX	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Tense=Pres	VerbForm=Fin	Voice=Act
+ADV	Degree=Pos	Polarity=Pos
+ADJ	Case=Nom	Degree=Pos	Gender=Neut	Number=Sing	Polarity=Pos
+VERB	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Tense=Pres	VerbForm=Fin	Voice=Act
+ADJ	Animacy=Inan	Case=Gen	Degree=Pos	Gender=Masc	Number=Sing	Polarity=Pos
+NOUN	Animacy=Inan	Case=Gen	Gender=Masc	Number=Sing	Polarity=Pos
+ADJ	Animacy=Inan	Case=Acc	Degree=Pos	Gender=Masc	Number=Plur	Polarity=Pos
+NOUN	Animacy=Inan	Case=Acc	Gender=Masc	Number=Plur	Polarity=Pos
+NOUN	Case=Nom	Gender=Fem	Number=Sing	Polarity=Pos
+DET	Case=Gen	Gender=Masc,Neut	Number=Sing	PronType=Dem
+NOUN	Case=Gen	Gender=Neut	Number=Sing	Polarity=Pos
+ADJ	Animacy=Inan	Case=Dat	Degree=Pos	Gender=Masc	Number=Sing	Polarity=Pos
+NOUN	Animacy=Inan	Case=Dat	Gender=Masc	Number=Sing	Polarity=Pos
+DET	Gender[psor]=Masc,Neut	Number[psor]=Sing	Person=3	Poss=Yes	PronType=Prs
+ADP	AdpType=Voc	Case=Ins
+ADP	AdpType=Voc	Case=Gen
+ADJ	Case=Dat	Degree=Pos	Gender=Neut	Number=Sing	Polarity=Pos
+ADV	Degree=Cmp	Polarity=Pos
+ADP	AdpType=Voc	Case=Loc
+ADJ	Case=Gen	Degree=Pos	Gender=Neut	Number=Sing	Polarity=Pos
+ADJ	Case=Nom	Degree=Pos	Gender=Fem	Number=Plur	Polarity=Pos
+ADJ	Animacy=Inan	Case=Ins	Degree=Pos	Gender=Masc	Number=Sing	Polarity=Pos
+PRON	Case=Nom	Gender=Masc	Number=Sing	PronType=Int,Rel
+ADJ	Case=Acc	Degree=Pos	Gender=Fem	Number=Sing	Polarity=Pos
+NOUN	Case=Acc	Gender=Fem	Number=Sing	Polarity=Pos
+ADJ	Aspect=Imp	Case=Gen	Gender=Neut	Number=Sing	Polarity=Pos	Tense=Pres	VerbForm=Part	Voice=Act
+VERB	Animacy=Inan	Gender=Fem,Masc	Number=Plur	Polarity=Pos	VerbForm=Part	Voice=Pass
+ADJ	Case=Loc	Degree=Pos	Gender=Neut	Number=Plur	Polarity=Pos
+NOUN	Case=Loc	Gender=Neut	Number=Plur	Polarity=Pos
+ADJ	Case=Ins	Degree=Pos	Gender=Fem	Number=Plur	Polarity=Pos
+NOUN	Case=Ins	Gender=Fem	Number=Plur	Polarity=Pos
+NOUN	Animacy=Inan	Case=Nom	Gender=Masc	Number=Sing	Polarity=Pos
+ADJ	Aspect=Imp	Case=Acc	Gender=Fem	Number=Plur	Polarity=Pos	Tense=Pres	VerbForm=Part	Voice=Act
+ADJ	Animacy=Inan	Case=Nom	Degree=Pos	Gender=Masc	Number=Sing	Polarity=Pos
+VERB	Gender=Masc	Number=Sing	Polarity=Pos	VerbForm=Part	Voice=Pass
+ADJ	Case=Nom	Degree=Pos	Gender=Fem	Number=Sing	Polarity=Pos
+ADJ	Aspect=Imp	Case=Acc	Gender=Fem	Number=Sing	Polarity=Pos	Tense=Pres	VerbForm=Part	Voice=Act
+SYM	_
+NOUN	Gender=Neut	Polarity=Pos
+ADJ	Abbr=Yes	Degree=Pos	Polarity=Pos
+AUX	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Tense=Fut	VerbForm=Fin	Voice=Act
+PRON	Case=Loc	Number=Plur	PronType=Tot
+NOUN	Animacy=Inan	Case=Loc	Gender=Masc	Number=Plur	Polarity=Pos
+PRON	Case=Loc	Number=Plur	Person=3	PrepCase=Pre	PronType=Prs
+ADJ	Animacy=Inan	Case=Loc	Degree=Pos	Gender=Masc	Number=Plur	Polarity=Pos
+DET	Gender=Fem	Gender[psor]=Fem	Number=Sing	Number[psor]=Sing	Person=3	Poss=Yes	PronType=Prs
+ADJ	Case=Gen	Degree=Pos	Gender=Neut	Number=Plur	Polarity=Pos
+NOUN	Case=Gen	Gender=Neut	Number=Plur	Polarity=Pos
+VERB	Mood=Ind	Number=Sing	Person=3	Polarity=Neg	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Gen	Gender=Masc,Neut	Number=Sing	PrepCase=Npr	PronType=Rel
+VERB	Polarity=Neg	VerbForm=Inf
+DET	Case=Ins	Gender=Fem	Number=Sing	PronType=Dem
+PRON	Case=Ins	Gender=Fem	Number=Sing	PronType=Int,Rel
+DET	Case=Nom	Gender=Neut	Number=Plur	PronType=Ind
+NOUN	Case=Nom	Gender=Neut	Number=Plur	Polarity=Pos
+ADJ	Animacy=Inan	Case=Gen	Degree=Cmp	Gender=Masc	Number=Plur	Polarity=Pos
+ADJ	Case=Acc	Degree=Pos	Gender=Fem	Number=Plur	Polarity=Pos
+PRON	Case=Nom	Gender=Fem	Number=Plur	PronType=Int,Rel
+PRON	Case=Ins	Number=Plur	PrepCase=Npr	PronType=Rel
+PRON	Animacy=Inan	Case=Nom	Gender=Masc	Number=Plur	PronType=Int,Rel
+VERB	Mood=Ind	Number=Plur	Person=3	Polarity=Neg	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Acc	Gender=Fem	Number=Plur	PronType=Int,Rel
+VERB	Gender=Fem,Neut	Number=Plur,Sing	Polarity=Pos	Tense=Past	VerbForm=Part	Voice=Act
+NOUN	Animacy=Anim	Case=Acc	Gender=Masc	Number=Sing	Polarity=Pos
+PRON	Case=Acc	Gender=Neut	Number=Sing	PronType=Dem
+NOUN	Case=Loc	Gender=Fem	Number=Plur	Polarity=Pos
+ADJ	Aspect=Imp	Case=Gen	Gender=Fem	Number=Sing	Polarity=Pos	Tense=Pres	VerbForm=Part	Voice=Act
+PART	_
+DET	Case=Nom	Gender=Fem	Number=Plur	PronType=Dem
+PRON	Case=Nom	Gender=Fem	Number=Sing	PronType=Int,Rel
+ADJ	Animacy=Anim	Aspect=Imp	Case=Nom	Gender=Masc	Number=Sing	Polarity=Pos	Tense=Pres	VerbForm=Part	Voice=Act
+NOUN	Animacy=Anim	Case=Nom	Gender=Masc	Number=Sing	Polarity=Pos
+NOUN	Animacy=Anim	Case=Gen	Gender=Masc	Number=Sing	Polarity=Pos
+ADJ	Aspect=Imp	Case=Nom	Gender=Fem	Number=Sing	Polarity=Pos	Tense=Pres	VerbForm=Part	Voice=Act
+PRON	Case=Acc	Gender=Masc	Number=Plur	PronType=Int,Rel
+ADJ	Animacy=Anim	Aspect=Imp	Case=Dat	Gender=Masc	Number=Sing	Polarity=Pos	Tense=Pres	VerbForm=Part	Voice=Act
+NOUN	Animacy=Inan	Case=Dat	Gender=Masc	Number=Plur	Polarity=Pos
+NOUN	Case=Dat	Gender=Fem	Number=Sing	Polarity=Pos
+DET	Case=Acc	Gender=Fem	Number=Sing	PronType=Dem
+NOUN	Animacy=Inan	Case=Ins	Gender=Masc	Number=Plur	Polarity=Pos
+AUX	_
+DET	Case=Nom	Gender=Neut	Number=Sing	PronType=Dem
+ADV	Degree=Sup	Polarity=Pos
+VERB	Mood=Ind	Number=Sing	Person=3	Polarity=Pos	Tense=Fut	VerbForm=Fin	Voice=Act
+DET	Case=Loc	Gender=Masc,Neut	Number=Sing	PronType=Dem
+NUM	Case=Ins	Gender=Fem	Number=Sing	NumForm=Word	NumType=Card	NumValue=1,2,3
+ADJ	Case=Gen	Gender=Fem	Number=Sing	NumType=Ord
+AUX	Gender=Fem,Neut	Number=Plur,Sing	Polarity=Neg	Tense=Past	VerbForm=Part	Voice=Act
+ADJ	Case=Loc	Degree=Pos	Gender=Fem	Number=Plur	Polarity=Pos
+_	_
+AUX	Mood=Cnd	Person=3	VerbForm=Fin
+AUX	Animacy=Inan	Gender=Fem,Masc	Number=Plur	Polarity=Pos	Tense=Past	VerbForm=Part	Voice=Act
+ADJ	Animacy=Anim	Aspect=Imp	Case=Gen	Gender=Masc	Number=Sing	Polarity=Pos	Tense=Pres	VerbForm=Part	Voice=Act
+DET	Animacy=Inan	Case=Acc	Gender=Masc	Number=Sing	PronType=Dem
+ADJ	Animacy=Inan	Case=Ins	Degree=Pos	Gender=Masc	Number=Plur	Polarity=Pos
+ADJ	Case=Loc	Degree=Pos	Gender=Neut	Number=Sing	Polarity=Pos
+ADP	AdpType=Voc	Case=Acc
+PRON	Case=Acc	Number=Plur	Person=3	PronType=Prs
+ADJ	Animacy=Inan	Case=Nom	Degree=Pos	Gender=Masc	Number=Sing	Polarity=Neg
+AUX	Polarity=Pos	VerbForm=Inf
+ADJ	Animacy=Inan	Case=Acc	Degree=Pos	Gender=Masc	Number=Sing	Polarity=Neg
+PRON	Case=Dat	Gender=Masc,Neut	Number=Sing	PrepCase=Pre	PronType=Rel
+DET	Animacy=Inan	Case=Acc	Gender=Masc	Number=Sing	Poss=Yes	PronType=Prs	Reflex=Yes
+ADJ	Case=Gen	Degree=Pos	Gender=Neut	Number=Sing	Polarity=Neg
+ADJ	Animacy=Inan	Case=Gen	Degree=Pos	Gender=Masc	Number=Sing	Polarity=Neg
+ADJ	Case=Ins	Degree=Pos	Gender=Neut	Number=Sing	Polarity=Pos
+NUM	Case=Nom	Gender=Masc	Number=Sing	NumForm=Word	NumType=Card	NumValue=1,2,3
+PRON	Case=Nom	Gender=Neut	Number=Sing	PronType=Dem
+PRON	Case=Gen	Number=Plur	PronType=Int,Rel
+ADJ	Gender=Neut	Number=Sing	Polarity=Pos	Variant=Short
+DET	Number[psor]=Plur	Person=3	Poss=Yes	PronType=Prs
+DET	Case=Gen	Gender=Fem	Number=Sing	PronType=Dem
+PRON	Case=Acc	Gender=Fem	Number=Sing	PronType=Int,Rel
+AUX	Mood=Cnd	VerbForm=Fin
+ADJ	Animacy=Anim	Aspect=Imp	Case=Gen	Gender=Masc	Number=Plur	Polarity=Pos	Tense=Pres	VerbForm=Part	Voice=Act
+VERB	Gender=Masc	Number=Sing	Polarity=Pos	Tense=Past	VerbForm=Part	Voice=Act
+NOUN	Abbr=Yes	Gender=Fem	Polarity=Pos
+NOUN	Abbr=Yes	Animacy=Inan	Gender=Masc	Polarity=Pos
+PRON	Abbr=Yes	PronType=Dem
+ADJ	Animacy=Anim	Case=Nom	Degree=Pos	Gender=Masc	Number=Sing	Polarity=Pos
+VERB	Animacy=Inan	Gender=Fem,Masc	Number=Plur	Polarity=Pos	Tense=Past	VerbForm=Part	Voice=Act
+NOUN	Animacy=Anim	Case=Ins	Gender=Masc	Number=Sing	Polarity=Pos
+NOUN	Animacy=Anim	Case=Gen	Gender=Masc	Number=Plur	Polarity=Pos
+DET	Case=Nom	Gender=Masc	Number=Sing	PronType=Dem
+DET	Gender[psor]=Masc,Neut	Number[psor]=Sing	Person=3	Poss=Yes	PronType=Rel
+VERB	Gender=Fem,Neut	Number=Plur,Sing	Polarity=Pos	VerbForm=Part	Voice=Pass
+NOUN	Case=Dat	Gender=Fem	Number=Plur	Polarity=Neg
+ADJ	Case=Loc	Degree=Pos	Gender=Neut	Number=Sing	Polarity=Neg
+PRON	Case=Acc	Gender=Masc,Neut	Number=Sing	Person=3	PronType=Prs	Style=Arch
+ADJ	Case=Nom	Degree=Pos	Gender=Neut	Number=Plur	Polarity=Pos
+PRON	Case=Nom	Gender=Neut	Number=Plur	PronType=Int,Rel
+AUX	Mood=Ind	Number=Plur	Person=3	Polarity=Neg	Tense=Pres	VerbForm=Fin	Voice=Act
+ADJ	Case=Acc	Degree=Pos	Gender=Fem	Number=Plur	Polarity=Neg
+PRON	Case=Gen	Gender=Masc,Neut	Number=Sing	PronType=Int,Rel
+DET	Case=Gen	Gender=Masc,Neut	Gender[psor]=Fem	Number=Sing	Number[psor]=Sing	Person=3	Poss=Yes	PronType=Prs
+DET	Case=Gen	Number=Plur	Poss=Yes	PronType=Prs	Reflex=Yes
+DET	Case=Acc	Gender=Fem	Number=Plur	PronType=Dem
+PRON	Case=Gen	Gender=Fem	Number=Sing	PronType=Int,Rel
+DET	Gender=Fem	Gender[psor]=Fem	Number=Sing	Number[psor]=Sing	Person=3	Poss=Yes	PronType=Rel
+ADJ	Animacy=Inan	Aspect=Imp	Case=Acc	Gender=Masc	Number=Plur	Polarity=Pos	Tense=Pres	VerbForm=Part	Voice=Act
+PRON	Case=Ins	Gender=Masc,Neut	Number=Sing	PronType=Dem
+ADJ	Case=Loc	Gender=Neut	Number=Sing	NumType=Ord
+AUX	Gender=Masc	Number=Sing	Polarity=Pos	Tense=Past	VerbForm=Part	Voice=Act
+ADJ	Aspect=Imp	Case=Gen	Gender=Fem	Number=Plur	Polarity=Pos	Tense=Pres	VerbForm=Part	Voice=Act
+ADJ	Case=Nom	Degree=Cmp	Gender=Fem	Number=Sing	Polarity=Pos
+PRON	Case=Gen	Number=Plur	PrepCase=Pre	PronType=Rel
+ADJ	Gender=Masc	Number=Sing	Polarity=Pos	Variant=Short
+NOUN	Case=Acc	Gender=Fem	Number=Sing	Polarity=Neg
+NOUN	Case=Dat	Gender=Fem	Number=Plur	Polarity=Pos
+PRON	Case=Loc	Gender=Masc,Neut	Number=Sing	PronType=Int,Rel
+ADJ	Case=Gen	Degree=Pos	Gender=Fem	Number=Plur	Polarity=Neg
+ADJ	Case=Ins	Degree=Pos	Gender=Fem	Number=Sing	Polarity=Neg
+DET	Case=Nom	Gender=Fem	Number=Sing	PronType=Dem
+ADP	AdpType=Comprep
+DET	Case=Dat	Gender=Fem	Number=Sing	PronType=Dem
+ADJ	Case=Dat	Degree=Pos	Gender=Fem	Number=Sing	Polarity=Pos
+NUM	Case=Gen	Gender=Masc,Neut	Number=Sing	NumForm=Word	NumType=Card	NumValue=1,2,3
+PRON	Case=Acc	Gender=Fem	Number=Sing	Person=3	PronType=Prs
+AUX	Mood=Ind	Number=Plur	Person=3	Polarity=Pos	Tense=Fut	VerbForm=Fin	Voice=Act
+ADJ	Aspect=Imp	Case=Loc	Gender=Fem	Number=Sing	Polarity=Pos	Tense=Pres	VerbForm=Part	Voice=Act
+ADJ	Animacy=Anim	Case=Dat	Degree=Pos	Gender=Masc	Number=Sing	Polarity=Pos
+ADJ	Case=Loc	Degree=Cmp	Gender=Neut	Number=Sing	Polarity=Pos
+ADJ	Gender=Fem,Neut	Number=Plur,Sing	Polarity=Pos	Variant=Short
+ADJ	Case=Dat	Degree=Pos	Gender=Neut	Number=Plur	Polarity=Pos
+NOUN	Case=Dat	Gender=Neut	Number=Plur	Polarity=Pos
+ADJ	Aspect=Imp	Case=Loc	Gender=Neut	Number=Plur	Polarity=Pos	Tense=Pres	VerbForm=Part	Voice=Act
+PRON	Case=Gen	Number=Plur	PronType=Tot
+ADJ	Animacy=Inan	Aspect=Imp	Case=Nom	Gender=Masc	Number=Plur	Polarity=Pos	Tense=Pres	VerbForm=Part	Voice=Act
+PRON	Case=Dat	Gender=Masc,Neut	Number=Sing	PronType=Int,Rel
+PRON	Case=Dat	Gender=Fem	Number=Sing	PronType=Int,Rel
+PRON	Case=Ins	Number=Plur	PronType=Int,Rel
+DET	Number[psor]=Plur	Person=3	Poss=Yes	PronType=Rel
+PRON	Case=Loc	Number=Plur	PrepCase=Pre	PronType=Rel
+DET	Animacy=Inan	Case=Nom	Gender=Masc	Number=Plur	PronType=Dem
+ADJ	Case=Acc	Gender=Fem	Number=Sing	NumType=Ord
+ADJ	Animacy=Inan	Gender=Fem,Masc	Number=Plur	Polarity=Pos	Variant=Short
+ADJ	Case=Gen	Gender=Neut	Number=Sing	NumType=Ord
+ADJ	Case=Ins	Degree=Pos	Gender=Neut	Number=Plur	Polarity=Pos
+NOUN	Case=Ins	Gender=Neut	Number=Plur	Polarity=Pos
+NUM	Case=Gen	Gender=Fem	Number=Sing	NumForm=Word	NumType=Card	NumValue=1,2,3
+ADJ	Case=Dat	Degree=Pos	Gender=Fem	Number=Plur	Polarity=Pos
+ADJ	Case=Gen	Degree=Pos	Gender=Fem	Number=Sing	Polarity=Neg
+PRON	Case=Nom	Gender=Masc	Number=Sing	PrepCase=Npr	PronType=Rel
+ADJ	Case=Acc	Degree=Pos	Gender=Fem	Number=Sing	Polarity=Neg
+ADJ	Animacy=Inan	Case=Acc	Gender=Masc	Number=Sing	NumType=Ord
+PRON	Case=Loc	Gender=Masc,Neut	Number=Sing	PrepCase=Pre	PronType=Rel
+PRON	Case=Dat	Number=Plur	Person=3	PronType=Prs
+ADJ	Animacy=Anim	Case=Dat	Gender=Masc	Number=Sing	NumType=Ord
+ADJ	Case=Nom	Degree=Pos	Gender=Fem	Number=Sing	Polarity=Neg
+ADJ	Case=Nom	Gender=Fem	Number=Sing	NumType=Ord
+ADJ	Aspect=Imp	Case=Ins	Gender=Fem	Number=Sing	Polarity=Pos	Tense=Pres	VerbForm=Part	Voice=Act
+PRON	Case=Nom	Gender=Fem	Number=Plur	PronType=Tot
+ADJ	Animacy=Anim	Case=Dat	Degree=Pos	Gender=Masc	Number=Plur	Polarity=Pos
+NOUN	Animacy=Anim	Case=Ins	Gender=Masc	Number=Plur	Polarity=Pos
+ADJ	Animacy=Anim	Case=Gen	Degree=Pos	Gender=Masc	Number=Plur	Polarity=Pos
+ADJ	Animacy=Anim	Aspect=Imp	Case=Nom	Gender=Masc	Number=Plur	Polarity=Pos	Tense=Pres	VerbForm=Part	Voice=Act
+NOUN	Animacy=Anim	Case=Nom	Gender=Masc	Number=Plur	Polarity=Pos
+NOUN	Case=Gen	Gender=Neut	Number=Sing	Polarity=Neg
+VERB	Animacy=Anim	Gender=Masc	Number=Plur	Polarity=Pos	Tense=Past	VerbForm=Part	Voice=Act
+ADJ	Animacy=Anim	Case=Nom	Degree=Pos	Gender=Masc	Number=Plur	Polarity=Pos
+VERB	Animacy=Anim	Gender=Masc	Number=Plur	Polarity=Neg	Tense=Past	VerbForm=Part	Voice=Act
+PRON	Case=Acc	Gender=Masc	Number=Plur	PronType=Tot
+PRON	Case=Dat	Gender=Fem	Number=Sing	Person=3	PronType=Prs
+PRON	Case=Ins	Gender=Masc,Neut	Number=Sing	PronType=Int,Rel
+ADJ	Animacy=Anim	Case=Gen	Degree=Pos	Gender=Masc	Number=Sing	Polarity=Pos
+NUM	Case=Gen	Number=Plur	NumForm=Word	NumType=Card	NumValue=1,2,3
+DET	Case=Gen	Gender[psor]=Fem	Number=Plur	Number[psor]=Sing	Person=3	Poss=Yes	PronType=Prs
+ADJ	Animacy=Inan	Case=Gen	Degree=Pos	Gender=Masc	Number=Plur	Polarity=Neg
+ADJ	Animacy=Inan	Case=Acc	Degree=Cmp	Gender=Masc	Number=Plur	Polarity=Pos
+NOUN	Case=Acc	Gender=Neut	Number=Plur	Polarity=Pos
+PRON	Case=Dat	PronType=Prs	Reflex=Yes
+VERB	Gender=Fem,Neut	Number=Plur,Sing	Polarity=Neg	Tense=Past	VerbForm=Part	Voice=Act
+DET	Case=Ins	Number=Plur	PronType=Dem
+DET	Case=Loc	Gender=Fem	Number=Sing	PronType=Dem
+DET	Case=Loc	Number=Plur	PronType=Dem
+ADJ	Aspect=Imp	Case=Ins	Gender=Fem	Number=Plur	Polarity=Pos	Tense=Pres	VerbForm=Part	Voice=Act
+PRON	Animacy=Inan	Case=Acc	Gender=Masc	Number=Sing	PronType=Int,Rel
+NOUN	Case=Acc	Gender=Neut	Number=Sing	Polarity=Neg
+DET	Animacy=Inan	Case=Acc	Gender=Masc	Gender[psor]=Fem	Number=Sing	Number[psor]=Sing	Person=3	Poss=Yes	PronType=Prs
+ADJ	Animacy=Inan	Case=Acc	Degree=Cmp	Gender=Masc	Number=Sing	Polarity=Pos
+ADJ	Case=Acc	Degree=Pos	Gender=Neut	Number=Plur	Polarity=Pos
+ADJ	Animacy=Inan	Case=Nom	Degree=Cmp	Gender=Masc	Number=Sing	Polarity=Pos
+ADJ	Animacy=Inan	Aspect=Imp	Case=Dat	Gender=Masc	Number=Sing	Polarity=Pos	Tense=Pres	VerbForm=Part	Voice=Act
+PRON	Case=Loc	Gender=Fem	Number=Sing	PrepCase=Pre	PronType=Rel
+AUX	Gender=Fem,Neut	Number=Plur,Sing	Polarity=Pos	Tense=Past	VerbForm=Part	Voice=Act
+DET	Case=Gen	Gender=Fem	Number=Sing	PronType=Ind
+ADJ	Aspect=Imp	Case=Dat	Gender=Neut	Number=Sing	Polarity=Pos	Tense=Pres	VerbForm=Part	Voice=Act
+PRON	Case=Acc	Gender=Neut	Number=Sing	PronType=Int,Rel
+ADJ	Case=Loc	Degree=Pos	Gender=Fem	Number=Sing	Polarity=Neg
+ADJ	Case=Nom	Degree=Pos	Gender=Fem	Number=Plur	Polarity=Neg
+DET	Case=Gen	Number=Plur	PronType=Ind
+ADJ	Case=Acc	Degree=Cmp	Gender=Fem	Number=Sing	Polarity=Pos
+NUM	Case=Acc	Number=Sing	NumForm=Word	NumType=Card
+AUX	Gender=Masc	Number=Sing	Polarity=Neg	Tense=Past	VerbForm=Part	Voice=Act
+PRON	Animacy=Inan	Case=Nom	Gender=Masc	Number=Plur	PronType=Tot
+ADJ	Animacy=Anim	Case=Ins	Degree=Pos	Gender=Masc	Number=Plur	Polarity=Neg
+PRON	Case=Ins	PronType=Prs	Reflex=Yes
+ADJ	Case=Nom	Degree=Pos	Gender=Neut	Number=Sing	Polarity=Neg
+ADJ	Animacy=Inan	Case=Nom	Degree=Pos	Gender=Masc	Number=Plur	Polarity=Neg
+AUX	Animacy=Inan	Gender=Fem,Masc	Number=Plur	Polarity=Neg	Tense=Past	VerbForm=Part	Voice=Act
+NOUN	Animacy=Anim	Case=Dat	Gender=Masc	Number=Sing	Polarity=Pos
+ADJ	Animacy=Inan	Aspect=Imp	Case=Loc	Gender=Masc	Number=Sing	Polarity=Pos	Tense=Pres	VerbForm=Part	Voice=Act
+ADJ	Animacy=Inan	Case=Loc	Gender=Masc	Number=Sing	NumType=Ord
+ADV	NumType=Ord
+ADJ	Hyph=Yes	Polarity=Pos
+ADJ	Case=Loc	Gender=Fem	Number=Sing	NumType=Ord
+PRON	Case=Nom	Gender=Fem	Number=Sing	PrepCase=Npr	PronType=Rel
+ADJ	Animacy=Inan	Aspect=Imp	Case=Acc	Gender=Masc	Number=Sing	Polarity=Pos	Tense=Pres	VerbForm=Part	Voice=Act
+ADJ	Animacy=Inan	Case=Gen	Gender=Masc	Number=Sing	NumType=Ord
+DET	Case=Gen	Gender=Masc,Neut	Number=Sing	Poss=Yes	PronType=Prs	Reflex=Yes
+PRON	Case=Dat	Number=Plur	PronType=Int,Rel
+PRON	Case=Loc	Number=Plur	PronType=Int,Rel
+PRON	Case=Ins	Gender=Masc,Neut	Number=Sing	PrepCase=Pre	PronType=Rel
+ADV	Degree=Pos	Polarity=Neg
+PRON	Case=Loc	PronType=Prs	Reflex=Yes
+ADJ	Animacy=Inan	Aspect=Imp	Case=Loc	Gender=Masc	Number=Plur	Polarity=Pos	Tense=Pres	VerbForm=Part	Voice=Act
+ADJ	Animacy=Inan	Case=Ins	Gender=Masc	Number=Sing	NumType=Ord
+ADJ	Aspect=Imp	Case=Dat	Gender=Fem	Number=Sing	Polarity=Pos	Tense=Pres	VerbForm=Part	Voice=Act
+ADJ	Animacy=Anim	Aspect=Imp	Case=Acc	Gender=Masc	Number=Sing	Polarity=Pos	Tense=Pres	VerbForm=Part	Voice=Act
+ADJ	Animacy=Inan	Aspect=Imp	Case=Ins	Gender=Masc	Number=Sing	Polarity=Pos	Tense=Pres	VerbForm=Part	Voice=Act
+PRON	Case=Gen	Gender=Masc,Neut	Number=Sing	PronType=Dem
+VERB	Gender=Neut	Number=Sing	Polarity=Neg	VerbForm=Part	Voice=Pass
+ADV	NumType=Mult
+ADJ	Animacy=Anim	Aspect=Imp	Case=Ins	Gender=Masc	Number=Sing	Polarity=Pos	Tense=Pres	VerbForm=Part	Voice=Act
+PRON	Case=Nom	Gender=Masc	Number=Sing	PronType=Ind
+PRON	Case=Gen	Number=Plur	Person=3	PrepCase=Pre	PronType=Prs
+NUM	Case=Acc	Gender=Neut	Number=Sing	NumForm=Word	NumType=Card	NumValue=1,2,3
+DET	Animacy=Inan	Case=Acc	Gender=Masc	Number=Plur	PronType=Dem
+DET	Case=Ins	Gender=Masc,Neut	Number=Sing	PronType=Dem
+ADJ	Animacy=Inan	Aspect=Imp	Case=Gen	Gender=Masc	Number=Sing	Polarity=Pos	Tense=Pres	VerbForm=Part	Voice=Act
+DET	Case=Gen	Gender=Fem	Number=Sing	Poss=Yes	PronType=Prs	Reflex=Yes
+PRON	Case=Dat	Gender=Masc,Neut	Number=Sing	PronType=Dem
+DET	Case=Loc	Gender=Fem	Number=Sing	Poss=Yes	PronType=Prs	Reflex=Yes
+PRON	Case=Gen	Gender=Fem	Number=Sing	Person=3	PrepCase=Pre	PronType=Prs
+DET	Case=Nom	Gender=Fem	Number=Sing	PronType=Neg
+PRON	Case=Loc	Gender=Masc,Neut	Number=Sing	PronType=Dem
+NUM	Case=Loc	Gender=Masc,Neut	Number=Sing	NumForm=Word	NumType=Card	NumValue=1,2,3
+ADJ	Aspect=Imp	Case=Loc	Gender=Neut	Number=Sing	Polarity=Pos	Tense=Pres	VerbForm=Part	Voice=Act
+DET	Case=Ins	Gender=Masc,Neut	Gender[psor]=Fem	Number=Sing	Number[psor]=Sing	Person=3	Poss=Yes	PronType=Prs
+DET	Case=Dat	Gender=Masc,Neut	Number=Sing	PronType=Dem
+ADJ	Animacy=Inan	Case=Dat	Degree=Pos	Gender=Masc	Number=Plur	Polarity=Pos
+PRON	Case=Dat	Gender=Masc,Neut	Number=Sing	Person=3	PronType=Prs
+ADJ	Aspect=Imp	Case=Acc	Gender=Neut	Number=Sing	Polarity=Pos	Tense=Pres	VerbForm=Part	Voice=Act
+PRON	Case=Acc	Gender=Fem	Number=Sing	PrepCase=Pre	PronType=Rel
+VERB	Case=Acc	Gender=Fem	Number=Sing	Polarity=Pos	VerbForm=Part	Voice=Pass
+PRON	Case=Acc	Gender=Fem	Number=Plur	PronType=Dem
+PRON	Animacy=Anim	Case=Acc	Gender=Masc	Number=Plur	PronType=Dem
+ADJ	Case=Dat	Gender=Neut	Number=Sing	NumType=Ord
+NOUN	Animacy=Anim	Case=Acc	Gender=Masc	Number=Plur	Polarity=Pos
+PRON	Case=Ins	Number=Plur	Person=3	PronType=Prs
+AUX	Gender=Neut	Number=Sing	Polarity=Pos	Tense=Past	VerbForm=Part	Voice=Act
+PRON	Case=Ins	Gender=Masc,Neut	Number=Sing	PrepCase=Npr	PronType=Rel
+VERB	Polarity=Pos	Style=Arch	VerbForm=Inf
+ADJ	Animacy=Inan	Case=Dat	Gender=Masc	Number=Sing	NumType=Ord
+PRON	Case=Dat	Number=Plur	PrepCase=Pre	PronType=Rel
+NUM	Case=Nom	Gender=Fem,Neut	Number=Plur	NumForm=Word	NumType=Card	NumValue=1,2,3
+PRON	Case=Dat	Gender=Fem	Number=Sing	Person=3	PrepCase=Pre	PronType=Prs
+ADJ	Animacy=Inan	Case=Nom	Degree=Sup	Gender=Masc	Number=Sing	Polarity=Pos
+DET	Case=Dat	Number=Plur	PronType=Int,Rel
+ADJ	Aspect=Imp	Case=Nom	Gender=Neut	Number=Sing	Polarity=Pos	Tense=Pres	VerbForm=Part	Voice=Act
+PRON	Case=Loc	Gender=Fem	Number=Sing	PronType=Int,Rel
+ADJ	Animacy=Inan	Aspect=Imp	Case=Nom	Gender=Masc	Number=Sing	Polarity=Pos	Tense=Pres	VerbForm=Part	Voice=Act
+DET	Case=Acc	Gender=Neut	Gender[psor]=Fem	Number=Sing	Number[psor]=Sing	Person=3	Poss=Yes	PronType=Prs
+DET	Case=Nom	Gender=Masc,Neut	Gender[psor]=Fem	Number=Sing	Number[psor]=Sing	Person=3	Poss=Yes	PronType=Prs
+NOUN	Case=Nom	Gender=Neut	Number=Sing	Polarity=Neg
+PRON	Case=Ins	Number=Plur	Person=3	PrepCase=Pre	PronType=Prs
+DET	Case=Acc	Gender=Fem	Number=Sing	Poss=Yes	PronType=Prs	Reflex=Yes
+DET	Case=Nom	Gender=Masc	Number=Sing	PronType=Neg
+PRON	Case=Loc	Gender=Masc,Neut	Number=Sing	PronType=Neg
+ADJ	Animacy=Inan	Case=Ins	Degree=Sup	Gender=Masc	Number=Sing	Polarity=Pos
+ADJ	Animacy=Inan	Case=Gen	Degree=Sup	Gender=Masc	Number=Sing	Polarity=Pos
+PRON	Case=Acc	Number=Plur	Person=3	PrepCase=Pre	PronType=Prs

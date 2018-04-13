@@ -1,0 +1,691 @@
+ADJ	Case=Nom	Gender=Fem
+PUNCT	_
+NOUN	Animacy=Inan	Case=Nom	Gender=Fem
+ADJ	Case=Nom	Degree=Pos	Gender=Fem
+CCONJ	_
+SCONJ	_
+ADJ	Case=Nom	Gender=Masc
+NOUN	Animacy=Inan	Case=Nom	Gender=Masc
+VERB	Aspect=Imp	Gender=Fem	Mood=Ind	Tense=Past	VerbForm=Fin
+ADV	_
+ADJ	Aspect=Perf	Case=Nom	Gender=Fem	VerbForm=Part	Voice=Pass
+PART	Polarity=Neg
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=3	Tense=Fut	VerbForm=Fin
+ADJ	Case=Nom	Number=Plur
+NOUN	Animacy=Inan	Case=Nom	Gender=Masc	Number=Plur
+VERB	Aspect=Perf	Tense=Past	VerbForm=Conv
+PRON	Animacy=Inan	Case=Acc	Number=Ptan	PronType=Tot
+ADP	Case=Loc
+NOUN	Animacy=Inan	Case=Loc	Gender=Neut
+ADP	Case=Gen
+NOUN	Animacy=Inan	Case=Gen	Gender=Neut
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Tense=Past	VerbForm=Fin
+ADJ	Case=Ins	Degree=Pos	Number=Plur
+ADJ	Case=Ins	Number=Plur
+NOUN	Animacy=Inan	Case=Ins	Gender=Masc	Number=Plur
+ADJ	Case=Gen	Gender=Masc
+NOUN	Animacy=Inan	Case=Gen	Gender=Masc
+ADV	PronType=Ind
+ADP	Case=Acc
+NOUN	Animacy=Inan	Case=Acc	Gender=Neut
+PRON	Case=Acc	Gender=Neut	Person=3	PronType=Prs
+NOUN	Animacy=Inan	Case=Ins	Gender=Fem	Number=Plur
+ADV	PronType=Dem
+PRON	Case=Loc	Number=Plur	Person=3	PronType=Prs
+VERB	Aspect=Imp	Gender=Neut	Mood=Ind	Tense=Past	VerbForm=Fin
+NOUN	Animacy=Inan	Case=Nom	Gender=Neut
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Tense=Past	VerbForm=Fin
+ADP	Case=Ins
+PRON	Case=Ins	Number=Plur	Person=3	PronType=Prs
+ADJ	Case=Nom	Degree=Pos	Number=Plur
+NOUN	Animacy=Inan	Case=Nom	Gender=Fem	Number=Plur
+DET	Case=Nom	Number=Plur	PronType=Ind
+NOUN	Animacy=Anim	Case=Nom	Gender=Masc	Number=Plur
+AUX	Aspect=Imp	Tense=Past	VerbForm=Conv
+ADJ	Case=Nom	Degree=Cmp	Number=Plur
+NOUN	Animacy=Inan	Case=Acc	Gender=Masc	Number=Plur
+ADJ	Animacy=Inan	Case=Acc	Gender=Masc	NumType=Ord
+NOUN	Animacy=Inan	Case=Acc	Gender=Masc
+ADJ	Aspect=Perf	Case=Nom	Number=Plur	VerbForm=Part	Voice=Pass
+ADJ	Case=Gen	Degree=Pos	Gender=Masc
+NOUN	Animacy=Inan	Case=Gen	Gender=Masc	Number=Plur
+ADJ	Case=Ins	Gender=Masc	NumType=Ord
+NOUN	Animacy=Inan	Case=Ins	Gender=Masc
+ADJ	Case=Loc	Gender=Masc	NumType=Ord
+NOUN	Animacy=Inan	Case=Loc	Gender=Masc
+NOUN	Animacy=Inan	Case=Ins	Gender=Neut	Number=Plur
+NOUN	Animacy=Inan	Case=Loc	Gender=Fem
+VERB	Aspect=Imp	Gender=Masc	Mood=Ind	Tense=Past	VerbForm=Fin
+VERB	Aspect=Perf	Gender=Masc	Mood=Ind	Tense=Past	VerbForm=Fin
+PRON	Animacy=Inan	Case=Acc	Gender=Neut	PronType=Tot
+PRON	Animacy=Inan	Case=Acc	Gender=Neut	PronType=Rel
+PART	_
+ADV	Degree=Pos
+NOUN	Animacy=Inan	Case=Nom	Gender=Neut	Number=Plur
+NOUN	Animacy=Inan	Case=Acc	Gender=Fem
+NOUN	Animacy=Inan	Case=Nom	Number=Ptan
+PRON	Case=Nom	Number=Plur	Person=3	PronType=Prs
+NOUN	Animacy=Inan	Case=Gen	Gender=Masc	Style=Odd
+NOUN	Animacy=Inan	Case=Acc	Gender=Masc	Style=Odd
+ADJ	Case=Nom	Degree=Pos	Gender=Neut
+ADJ	Case=Nom	Gender=Neut
+NOUN	Animacy=Anim	Case=Nom	Gender=Masc
+PRON	Case=Dat	PronType=Prs	Reflex=Yes
+ADJ	Aspect=Perf	Case=Loc	Gender=Fem	VerbForm=Part	Voice=Pass
+ADJ	Aspect=Imp	Case=Gen	Gender=Masc	VerbForm=Part	Voice=Pass
+NOUN	Animacy=Anim	Case=Gen	Gender=Masc
+ADJ	Animacy=Inan	Case=Acc	Gender=Masc
+VERB	Aspect=Imp	Tense=Pres	VerbForm=Conv
+PRON	Case=Acc	Gender=Masc	Person=3	PronType=Prs
+INTJ	_
+PRON	Animacy=Inan	Case=Nom	Gender=Neut	PronType=Dem
+PRON	Animacy=Inan	Case=Nom	Gender=Neut	PronType=Ind
+NOUN	Animacy=Inan	Case=Loc	Number=Ptan
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin
+ADJ	Case=Loc	Degree=Pos	Gender=Masc
+DET	Case=Gen	Gender=Fem	PronType=Ind
+ADJ	Case=Gen	Gender=Fem
+NOUN	Animacy=Inan	Case=Gen	Gender=Fem	Style=Odd
+DET	Case=Acc	Gender=Fem	PronType=Ind
+ADJ	Case=Acc	Gender=Fem
+VERB	Aspect=Imp	VerbForm=Inf
+DET	Case=Nom	Gender=Masc	PronType=Dem
+PRON	Case=Acc	Number=Plur	Person=3	PronType=Prs
+NOUN	Animacy=Inan	Case=Ins	Gender=Fem
+NOUN	Animacy=Inan	Case=Loc	Gender=Masc	Number=Plur
+ADJ	Case=Loc	Gender=Masc
+NOUN	Animacy=Inan	Case=Acc	Gender=Neut	Number=Plur
+PRON	Case=Gen	Number=Plur	Person=3	PronType=Prs
+DET	Case=Gen	Number=Plur	PronType=Dem
+NOUN	Animacy=Inan	Case=Gen	Gender=Fem	Number=Plur
+DET	Case=Nom	Number=Plur	PronType=Dem
+DET	Case=Loc	Number=Plur	PronType=Rel
+PRON	Animacy=Inan	Case=Acc	Gender=Neut	PronType=Ind
+PRON	Case=Nom	Gender=Masc	Person=3	PronType=Prs
+VERB	Aspect=Perf	Gender=Fem	Mood=Ind	Tense=Past	VerbForm=Fin
+ADJ	Case=Ins	Degree=Pos	Gender=Fem
+PROPN	Animacy=Anim	Case=Gen	Gender=Fem	NameType=Giv
+PROPN	Animacy=Anim	Case=Gen	Gender=Fem	NameType=Pat
+DET	Case=Acc	Gender=Fem	Poss=Yes	PronType=Prs	Reflex=Yes
+DET	Case=Acc	Gender=Fem	PronType=Rel
+PROPN	Animacy=Anim	Case=Nom	Gender=Fem	NameType=Giv
+PROPN	Animacy=Anim	Case=Nom	Gender=Fem	NameType=Pat
+DET	Case=Dat	Gender=Fem	PronType=Tot
+NOUN	Animacy=Anim	Case=Dat	Gender=Fem
+DET	Case=Loc	Gender=Fem	PronType=Dem
+ADJ	Case=Nom	Degree=Pos	Gender=Masc
+NOUN	Animacy=Anim	Case=Nom	Gender=Fem	Number=Plur
+PRON	Case=Nom	Gender=Fem	Person=3	PronType=Prs
+DET	Animacy=Inan	Case=Acc	Number=Plur	PronType=Ind
+ADJ	Animacy=Inan	Case=Acc	Degree=Pos	Number=Plur
+DET	Case=Gen	Number=Plur	Poss=Yes	PronType=Prs	Reflex=Yes
+NOUN	Animacy=Anim	Case=Gen	Gender=Masc	Number=Plur
+ADJ	Animacy=Inan	Case=Acc	Number=Plur
+DET	Case=Loc	Gender=Masc	PronType=Dem
+ADV	PronType=Rel
+VERB	Aspect=Perf	VerbForm=Inf
+PRON	Animacy=Inan	Case=Gen	Gender=Neut	PronType=Ind
+PROPN	Animacy=Inan
+DET	Case=Nom	Gender=Masc	PronType=Rel
+NOUN	Animacy=Inan	Case=Gen	Gender=Neut	Number=Plur
+NOUN	Animacy=Inan	Case=Acc	Gender=Fem	Number=Plur
+ADJ	Case=Loc	Gender=Neut
+NOUN	Animacy=Anim	Case=Nom	Gender=Fem
+ADJ	Case=Gen	Degree=Pos	Gender=Fem
+NOUN	Animacy=Inan	Case=Gen	Gender=Fem
+NOUN	Animacy=Anim	Case=Gen	Gender=Fem
+DET	Case=Ins	Gender=Fem	PronType=Dem
+PRON	Animacy=Anim	Case=Acc	Gender=Masc	PronType=Rel
+ADJ	Aspect=Perf	Case=Gen	Gender=Fem	VerbForm=Part	Voice=Pass
+NOUN	Foreign=Yes
+X	Foreign=Yes
+ADJ	Animacy=Inan	Aspect=Perf	Case=Acc	Gender=Masc	VerbForm=Part	Voice=Act
+ADJ	Case=Loc	Degree=Pos	Gender=Fem
+ADJ	Case=Loc	Gender=Fem
+ADJ	Aspect=Perf	Case=Ins	Gender=Fem	VerbForm=Part	Voice=Pass
+DET	Case=Nom	Gender=Fem	PronType=Prs	Reflex=Yes
+PRON	Case=Gen	PronType=Prs	Reflex=Yes
+DET	Animacy=Inan	Case=Acc	Gender=Masc	PronType=Dem
+ADJ	Animacy=Inan	Case=Acc	Degree=Pos	Gender=Masc
+ADJ	Hyph=Yes
+ADJ	Animacy=Inan	Aspect=Imp	Case=Acc	Gender=Masc	VerbForm=Part	Voice=Pass
+ADJ	Aspect=Perf	Case=Gen	Gender=Masc	VerbForm=Part	Voice=Pass
+NOUN	Animacy=Inan	Case=Loc	Gender=Fem	Number=Plur
+PROPN	Animacy=Anim	Case=Gen	Gender=Masc	NameType=Sur
+DET	Case=Gen	Gender=Fem	PronType=Dem
+DET	Case=Nom	Number=Plur	PronType=Tot
+PROPN	Animacy=Anim	Case=Gen	Gender=Masc	NameType=Giv
+PRON	Animacy=Inan	Case=Gen	Gender=Neut	PronType=Dem
+PRON	Case=Acc	PronType=Prs	Reflex=Yes
+NOUN	Animacy=Inan	Case=Ins	Gender=Neut
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin
+DET	Case=Ins	Number=Plur	PronType=Ind
+NOUN	Animacy=Anim	Case=Ins	Gender=Fem	Number=Plur
+ADV	Degree=Cmp
+DET	Case=Gen	Gender=Masc	PronType=Ind
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=2	Tense=Pres	VerbForm=Fin
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=2	Tense=Fut	VerbForm=Fin
+NUM	Case=Acc	Gender=Masc	NumType=Card
+PRON	Animacy=Inan	Case=Acc	Gender=Neut	PronType=Dem
+AUX	_
+PROPN	Animacy=Anim	Case=Nom	Gender=Masc	NameType=Sur
+NOUN	Animacy=Anim	Case=Acc	Gender=Fem
+PRON	Case=Loc	PronType=Prs	Reflex=Yes
+PROPN	Animacy=Anim	Case=Nom	Gender=Masc	NameType=Giv
+NOUN	Animacy=Anim	Case=Acc	Gender=Masc
+PROPN	Animacy=Anim	Case=Acc	Gender=Fem	NameType=Giv
+PROPN	Animacy=Anim	Case=Acc	Gender=Fem	NameType=Pat
+PROPN	Animacy=Anim	Case=Acc	Gender=Fem	NameType=Sur
+AUX	Aspect=Imp	Gender=Fem	Mood=Ind	Tense=Past	VerbForm=Fin
+NUM	Case=Acc	Number=Plur	NumType=Card
+DET	Case=Gen	Number=Plur	PronType=Tot
+NUM	Case=Acc	Gender=Fem	NumType=Card
+NOUN	Animacy=Anim	Case=Acc	Gender=Masc	Number=Plur
+ADJ	Case=Ins	Gender=Fem
+DET	Case=Ins	Number=Plur	PronType=Tot
+NUM	Case=Nom	Number=Plur	NumType=Card
+PROPN	Animacy=Anim	Case=Nom	Gender=Masc	NameType=Giv	Number=Plur
+ADJ	Case=Gen	Number=Plur
+ADV	PronType=Tot
+ADJ	Animacy=Inan	Aspect=Perf	Case=Acc	Gender=Masc	VerbForm=Part	Voice=Pass
+DET	Case=Gen	Gender=Masc	PronType=Rel
+NOUN	Animacy=Anim	Case=Ins	Gender=Masc	Number=Plur
+ADJ	Aspect=Perf	Case=Nom	Gender=Masc	VerbForm=Part	Voice=Pass
+ADJ	Case=Acc	Degree=Pos	Gender=Fem
+ADJ	Case=Ins	Degree=Pos	Gender=Masc
+PROPN	Abbr=Yes	Animacy=Inan	Case=Gen	Gender=Masc
+NOUN	Animacy=Anim	Case=Ins	Gender=Masc
+DET	Animacy=Inan	Case=Acc	Number=Plur	PronType=Tot
+ADJ	Aspect=Perf	Case=Gen	Gender=Fem	VerbForm=Part	Voice=Act
+PRON	Case=Gen	Gender=Masc	Person=3	PrepCase=Pre	PronType=Prs
+ADJ	Case=Ins	Gender=Masc
+NOUN	Animacy=Inan	Case=Ins	Number=Plur
+NOUN	Animacy=Inan	Case=Dat	Gender=Fem
+PRON	Case=Ins	Gender=Masc	Person=3	PrepCase=Pre	PronType=Prs
+NOUN	Animacy=Inan	Case=Nom	Gender=Masc	Style=Odd
+NUM	Case=Acc	Gender=Neut	NumType=Card
+DET	Case=Gen	Gender=Masc	Person=3	Poss=Yes	PronType=Prs
+ADJ	Aspect=Perf	Case=Loc	Degree=Pos	Gender=Masc	VerbForm=Part	Voice=Pass
+ADJ	Case=Ins	Gender=Neut
+DET	Case=Ins	Gender=Masc	Poss=Yes	PronType=Prs	Reflex=Yes
+AUX	Animacy=Inan	Case=Acc	Number=Plur	PronType=Dem
+ADJ	Aspect=Imp	Case=Acc	Gender=Fem	VerbForm=Part	Voice=Pass
+DET	Case=Ins	Number=Plur	PronType=Rel
+DET	Case=Acc	Gender=Fem	Person=3	Poss=Yes	PronType=Prs
+DET	Case=Acc	Gender=Neut	PronType=Tot
+DET	Case=Nom	Gender=Masc	PronType=Tot	Variant=Short
+NUM	Animacy=Inan	Case=Acc	Gender=Masc	NumType=Card
+DET	Case=Nom	Gender=Fem	PronType=Ind
+NUM	Case=Ins	Number=Plur	NumType=Card
+DET	Case=Gen	Gender=Fem	Person=3	Poss=Yes	PronType=Prs
+DET	Case=Acc	Gender=Fem	PronType=Dem
+DET	Case=Loc	Gender=Neut	Poss=Yes	PronType=Prs	Reflex=Yes
+ADJ	Case=Loc	Degree=Pos	Gender=Neut
+DET	Animacy=Inan	Case=Acc	Gender=Masc	PronType=Ind
+NOUN	Animacy=Inan	Case=Acc	Gender=Fem	Number=Plur	Style=Odd
+DET	Animacy=Inan	Case=Acc	Gender=Masc	PronType=Tot
+NUM	Case=Nom	Gender=Masc	NumType=Card
+ADJ	Animacy=Anim	Case=Acc	Number=Plur
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Style=Rare	Tense=Pres	VerbForm=Fin
+DET	Case=Acc	Gender=Fem	PronType=Tot
+DET	Animacy=Inan	Case=Acc	Gender=Masc	Poss=Yes	PronType=Prs	Reflex=Yes
+NOUN	Animacy=Inan	Case=Acc	Number=Plur	Style=Odd
+PRON	Case=Dat	Gender=Masc	Person=3	PronType=Prs
+NOUN	Animacy=Inan	Case=Ins	Number=Ptan
+PRON	Case=Dat	Gender=Fem	Person=3	PronType=Prs
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Style=Odd	Tense=Pres	VerbForm=Fin
+NOUN	Animacy=Inan	Case=Dat	Gender=Masc
+NOUN	Animacy=Anim	Case=Gen	Gender=Fem	Number=Plur
+ADJ	Aspect=Perf	Case=Nom	Number=Plur	Style=Rare	VerbForm=Part	Voice=Pass
+PROPN	Animacy=Inan	Case=Nom	Gender=Masc
+AUX	Aspect=Imp	Gender=Masc	Mood=Ind	Tense=Past	VerbForm=Fin
+ADJ	Aspect=Perf	Case=Acc	Gender=Neut	VerbForm=Part	Voice=Pass
+PROPN	Animacy=Inan	Case=Gen	Gender=Fem
+PROPN	Abbr=Yes	Animacy=Inan	Case=Gen	Gender=Fem
+PRON	Animacy=Anim	Case=Nom	Number=Plur	Person=1	PronType=Prs
+PRON	Animacy=Anim	Case=Acc	Number=Ptan	PronType=Tot
+PRON	Animacy=Anim	Case=Gen	Gender=Masc	PronType=Rel
+AUX	Aspect=Imp	Mood=Ind	Number=Plur	Tense=Past	VerbForm=Fin
+VERB	Aspect=Perf	Gender=Neut	Mood=Ind	Tense=Past	VerbForm=Fin
+PRON	Animacy=Inan	Case=Ins	Gender=Neut	PronType=Dem
+DET	Animacy=Anim	Case=Acc	Gender=Masc	Person=1	Poss=Yes	PronType=Prs
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Style=Odd	Tense=Past	VerbForm=Fin
+ADJ	Case=Gen	Gender=Masc	NumType=Ord
+ADJ	Case=Loc	Degree=Pos	Number=Plur
+NOUN	Animacy=Inan	Case=Loc	Gender=Neut	Number=Plur
+DET	Case=Acc	Gender=Neut	Person=1	Poss=Yes	PronType=Prs
+AUX	Aspect=Imp	Gender=Neut	Mood=Ind	Tense=Past	VerbForm=Fin
+ADJ	Case=Ins	Degree=Pos	Gender=Neut
+ADJ	Case=Gen	Degree=Pos	Number=Plur
+DET	Case=Gen	Number=Plur	Person=1	Poss=Yes	PronType=Prs
+PROPN	Animacy=Inan	Case=Loc	Gender=Masc
+PRON	Animacy=Anim	Case=Nom	Number=Sing	Person=1	PronType=Prs
+DET	Case=Nom	Gender=Fem	Person=1	Poss=Yes	PronType=Prs
+ADJ	Case=Gen	Degree=Pos	Gender=Masc	NumType=Ord
+DET	Case=Gen	Gender=Neut	PronType=Ind
+NUM	Case=Gen	Gender=Masc	NumType=Card
+NOUN	Animacy=Inan	Case=Gen	Number=Ptan
+PRON	Case=Ins	Gender=Masc	Person=3	PronType=Prs
+DET	Case=Ins	Number=Plur	Person=1	Poss=Yes	PronType=Prs
+NOUN	Animacy=Anim	Case=Ins	Number=Ptan
+ADJ	Case=Gen	Degree=Pos	Gender=Neut
+PRON	Case=Nom	Gender=Neut	Person=3	PronType=Prs
+ADJ	Aspect=Perf	Case=Nom	Gender=Neut	VerbForm=Part	Voice=Pass
+DET	Case=Acc	Gender=Fem	PronType=Prs	Reflex=Yes
+ADJ	Case=Ins	Degree=Sup	Number=Plur
+DET	Case=Acc	Number=Plur	NumType=Card	PronType=Ind
+PRON	Animacy=Anim	Case=Dat	Number=Plur	Person=1	PronType=Prs
+PRON	Animacy=Inan	Case=Nom	Gender=Neut	PronType=Rel
+DET	Case=Loc	Gender=Fem	Person=1	Poss=Yes	PronType=Prs
+NOUN	Animacy=Anim	Aspect=Perf	Case=Nom	Number=Ptan	Voice=Act
+PRON	Animacy=Anim	Case=Acc	Number=Plur	Person=1	PronType=Prs
+ADJ	Case=Gen	Gender=Neut
+DET	Case=Loc	Gender=Fem	PronType=Rel
+DET	Case=Nom	Gender=Masc	Person=1	Poss=Yes	PronType=Prs
+PROPN	Animacy=Inan	Case=Loc	Gender=Masc	Style=Odd
+PROPN	Animacy=Inan	Case=Loc	Gender=Fem
+NOUN	Animacy=Inan	Case=Loc	Number=Ptan	NumType=Ord
+NOUN	Animacy=Inan	Case=Gen	Gender=Fem	Number=Plur	Style=Odd
+DET	Case=Ins	Gender=Fem	Person=1	Poss=Yes	PronType=Prs
+NOUN	Animacy=Anim	Case=Ins	Gender=Fem
+PRON	Animacy=Anim	Case=Gen	Number=Plur	Person=1	PronType=Prs
+ADV	PronType=Neg
+NOUN	Animacy=Anim	Case=Acc	Gender=Fem	Number=Plur
+DET	Case=Nom	Number=Plur	PronType=Rel
+DET	Animacy=Anim	Case=Acc	Number=Plur	Poss=Yes	PronType=Prs	Reflex=Yes
+PROPN	Animacy=Inan	Case=Acc	Gender=Masc
+PRON	Case=Acc	Gender=Fem	Person=3	PronType=Prs
+DET	Case=Nom	Gender=Fem	PronType=Rel
+ADJ	Case=Ins	Degree=Sup	Gender=Fem
+PROPN	Abbr=Yes	Animacy=Anim	Case=Nom	Gender=Fem
+NOUN	Animacy=Inan	Case=Acc	Gender=Fem	Style=Odd
+DET	Case=Acc	Gender=Neut	PronType=Dem
+DET	Case=Acc	Gender=Fem	Person=1	Poss=Yes	PronType=Prs
+DET	Case=Ins	Gender=Fem	PronType=Ind
+PROPN	Animacy=Inan	Case=Acc	Gender=Fem
+ADV	PronType=Int
+PROPN	Abbr=Yes	Animacy=Anim	Case=Ins	Gender=Fem
+ADJ	Case=Acc	Degree=Pos	Gender=Neut
+ADJ	Case=Gen	Number=Plur	Style=Odd
+NOUN	Animacy=Anim	Case=Gen	Gender=Masc	Style=Odd
+NOUN	Animacy=Anim	Case=Dat	Gender=Masc	Style=Odd
+DET	Case=Nom	Number=Plur	Person=1	Poss=Yes	PronType=Prs
+DET	Case=Gen	Gender=Masc	Person=1	Poss=Yes	PronType=Prs
+DET	Case=Gen	Gender=Neut	Person=3	Poss=Yes	PronType=Prs
+ADJ	Case=Nom	Gender=Fem	Style=Odd
+DET	Case=Gen	Gender=Fem	Person=1	Poss=Yes	PronType=Prs
+DET	Case=Loc	Number=Plur	Person=1	Poss=Yes	PronType=Prs
+NOUN	Animacy=Inan	Case=Acc	Gender=Neut	Style=Odd
+NOUN	Animacy=Anim	Case=Nom	Gender=Masc	Style=Odd
+DET	Case=Gen	Number=Plur	Person=3	Poss=Yes	PronType=Prs
+ADJ	Aspect=Perf	Case=Gen	Number=Plur	VerbForm=Part	Voice=Pass
+ADJ	Case=Loc	Number=Plur
+DET	Animacy=Inan	Case=Acc	Number=Plur	Poss=Yes	PronType=Prs	Reflex=Yes
+NOUN	Animacy=Anim	Case=Nom	Number=Ptan
+ADV	Degree=Sup
+PROPN	Animacy=Anim	Case=Ins	Gender=Masc	NameType=Giv
+ADJ	Case=Loc	Gender=Masc	Style=Odd
+PART	PronType=Prs
+ADJ	Animacy=Anim	Case=Acc	Degree=Pos	Number=Plur
+ADJ	Animacy=Inan	Case=Acc	Degree=Sup	Number=Plur
+DET	Case=Gen	Gender=Masc	PronType=Dem
+DET	Case=Ins	Gender=Masc	PronType=Dem
+DET	Animacy=Inan	Case=Acc	Number=Plur	PronType=Dem
+ADJ	Aspect=Perf	Case=Ins	Degree=Pos	Gender=Neut	VerbForm=Part	Voice=Pass
+DET	Case=Nom	Gender=Masc	PronType=Ind
+NOUN	Animacy=Inan	Case=Loc	Gender=Fem	Style=Odd
+ADJ	Case=Loc	Degree=Pos	Gender=Fem	NumType=Ord
+ADJ	Case=Nom	Gender=Fem	NumType=Ord
+DET	Case=Ins	Gender=Fem	Poss=Yes	PronType=Prs	Reflex=Yes
+NUM	NumType=Card
+ADJ	Animacy=Inan	Aspect=Perf	Case=Acc	Number=Plur	VerbForm=Part	Voice=Pass
+AUX	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin
+ADJ	Case=Nom	Degree=Sup	Gender=Fem
+VERB	Aspect=Perf	Mood=Ind	Person=0	VerbForm=Fin
+PRON	Animacy=Anim	Case=Ins	Number=Plur	Person=1	PronType=Prs
+DET	Animacy=Anim	Case=Acc	Number=Plur	Person=1	Poss=Yes	PronType=Prs
+ADJ	Case=Nom	Number=Plur	Style=Odd
+PROPN	Animacy=Inan	Case=Acc	Gender=Neut
+DET	Case=Loc	Number=Plur	PronType=Ind
+ADJ	Aspect=Imp	Case=Ins	Gender=Fem	VerbForm=Part	Voice=Pass
+PROPN	Animacy=Inan	Case=Loc	Gender=Neut
+ADJ	Case=Acc	Gender=Neut
+NOUN	Animacy=Inan	Case=Gen	Gender=Fem	Style=Rare
+PROPN	Animacy=Inan	Case=Loc	Number=Ptan
+NOUN	Animacy=Inan	Aspect=Perf	Case=Acc	Number=Plur	Voice=Pass
+ADJ	Case=Loc	Degree=Pos	Gender=Masc	NumType=Ord
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Style=Odd	Tense=Past	VerbForm=Fin
+PROPN	Animacy=Inan	Case=Gen	Number=Ptan
+DET	Case=Acc	Gender=Neut	PronType=Ind
+PRON	Animacy=Anim	Case=Nom	Gender=Masc	PronType=Rel
+PROPN	Animacy=Inan	Case=Gen	Gender=Masc
+PROPN	Animacy=Inan	Case=Ins	Number=Ptan
+PRON	Animacy=Inan	Case=Ins	Gender=Neut	PronType=Ind
+DET	Case=Ins	Gender=Neut	PronType=Dem
+DET	Case=Nom	Gender=Masc	PronType=Prs	Reflex=Yes
+NOUN	Animacy=Anim	Case=Gen	Number=Plur
+DET	Case=Loc	Gender=Neut	PronType=Ind
+ADJ	Animacy=Inan	Case=Acc	Degree=Cmp	Number=Plur
+DET	Case=Nom	Gender=Neut	PronType=Tot
+ADJ	Case=Nom	Degree=Sup	Gender=Neut
+ADJ	Case=Gen	Degree=Sup	Gender=Masc
+PRON	Animacy=Anim	Case=Dat	Number=Sing	Person=1	PronType=Prs
+AUX	Aspect=Imp	VerbForm=Inf
+NOUN	Animacy=Anim	Case=Acc	Number=Ptan
+NOUN	Animacy=Anim	Case=Acc	Gender=Masc	Number=Plur	Style=Rare
+NOUN	Animacy=Inan	Case=Loc	Gender=Fem	Number=Plur	Style=Odd
+ADJ	Animacy=Anim	Case=Acc	Degree=Pos	Number=Plur	NumType=Ord
+DET	Case=Nom	Gender=Neut	PronType=Prs	Reflex=Yes
+ADJ	Case=Ins	Gender=Fem	NumType=Ord
+NUM	Case=Gen	Gender=Fem	NumType=Card
+DET	Case=Loc	Gender=Neut	Person=1	Poss=Yes	PronType=Prs
+PROPN	Animacy=Anim	Case=Dat	Gender=Masc	NameType=Giv
+DET	Case=Gen	Gender=Neut	Poss=Yes	PronType=Prs	Reflex=Yes
+PRON	Animacy=Inan	Case=Gen	Gender=Neut	PronType=Int
+PRON	Animacy=Anim	Case=Dat	Number=Sing	Person=2	PronType=Prs
+PRON	Animacy=Anim	Foreign=Yes	Number=Sing	Person=2	PronType=Prs
+ADJ	Case=Nom	Foreign=Yes	Gender=Masc
+DET	Case=Ins	Number=Plur	Person=2	Poss=Yes	PronType=Prs
+PRON	Animacy=Anim	Case=Gen	Number=Sing	Person=2	PronType=Prs
+PRON	Animacy=Inan	Case=Gen	Gender=Neut	PronType=Rel
+PRON	Animacy=Anim	Case=Nom	Number=Sing	Person=2	PronType=Prs
+DET	Case=Dat	Gender=Masc	PronType=Rel
+NOUN	Animacy=Anim	Case=Dat	Gender=Masc
+NOUN	Animacy=Inan	Case=Gen	Gender=Masc	Number=Plur	Style=Odd
+PROPN	Animacy=Anim	Case=Acc	Gender=Masc	NameType=Giv
+DET	Case=Acc	Gender=Neut	Poss=Yes	PronType=Prs	Reflex=Yes
+DET	Case=Ins	Number=Plur	Person=3	Poss=Yes	PronType=Prs
+PROPN	Animacy=Inan	Case=Gen	Gender=Masc	Style=Odd
+DET	Case=Gen	Gender=Masc	PronType=Tot
+ADJ	Aspect=Perf	Case=Ins	Number=Plur	VerbForm=Part	Voice=Pass
+DET	Case=Loc	Gender=Fem	Person=3	Poss=Yes	PronType=Prs
+NOUN	Animacy=Anim	Case=Nom	Gender=Fem	Variant=Uncontr
+NOUN	Animacy=Anim	Case=Gen	Gender=Neut	Number=Plur
+DET	Case=Acc	Gender=Neut	PronType=Rel
+DET	Case=Loc	Gender=Masc	Person=3	Poss=Yes	PronType=Prs
+NOUN	Animacy=Inan	Case=Loc	Gender=Masc	Style=Odd
+PROPN	Animacy=Anim	Case=Dat	Gender=Masc	NameType=Sur
+PRON	Animacy=Anim	Case=Nom	Number=Ptan	PronType=Tot
+ADJ	Aspect=Perf	Case=Gen	Gender=Neut	VerbForm=Part	Voice=Pass
+PRON	Case=Dat	Number=Plur	Person=3	PronType=Prs
+PRON	Case=Gen	Number=Plur	Person=3	PrepCase=Pre	PronType=Prs
+DET	Animacy=Anim	Case=Acc	Number=Plur	PronType=Ind
+DET	Case=Ins	Number=Plur	PronType=Dem
+ADJ	Animacy=Anim	Case=Acc	Gender=Masc
+NOUN	Animacy=Inan	Animacy[gram]=Anim	Case=Acc	Gender=Masc
+ADJ	Animacy=Anim	Aspect=Perf	Case=Acc	Gender=Masc	VerbForm=Part	Voice=Pass
+NUM	Case=Ins	Gender=Neut	NumType=Card
+PRON	Animacy=Inan	Case=Nom	Gender=Neut	PronType=Tot
+NOUN	Animacy=Inan	Case=Acc	Number=Ptan
+PRON	Animacy=Anim	Case=Gen	Number=Sing	Person=1	PronType=Prs
+DET	Case=Ins	Gender=Masc	PronType=Ind
+NUM	Case=Gen	Number=Plur	NumType=Card
+DET	Animacy=Anim	Case=Acc	Number=Plur	PronType=Rel
+ADJ	Case=Ins	Degree=Cmp	Number=Plur
+PRON	Animacy=Inan	Case=Loc	Gender=Neut	PronType=Tot
+ADJ	Animacy=Anim	Case=Acc	Gender=Masc	NumType=Ord
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin
+NOUN	Animacy=Inan	Case=Loc	Gender=Masc	NumType=Ord
+PRON	Animacy=Anim	Case=Nom	Number=Ptan	PronType=Dem
+DET	Case=Gen	Gender=Masc	PronType=Neg
+DET	Case=Gen	Gender=Fem	PronType=Neg
+NOUN	Animacy=Inan	Case=Gen	Gender=Masc	NumType=Ord
+NOUN	Animacy=Anim	Case=Ins	Gender=Masc	NumType=Ord
+PRON	Case=Ins	PronType=Prs	Reflex=Yes
+ADJ	Animacy=Anim	Aspect=Perf	Case=Acc	Number=Plur	VerbForm=Part	Voice=Pass
+NOUN	Animacy=Anim	Case=Ins	Number=Plur
+ADJ	Case=Acc	Degree=Pos	Gender=Fem	NumType=Ord
+PRON	Animacy=Anim	Case=Acc	Number=Sing	Person=1	PronType=Prs
+DET	Case=Gen	Number=Plur	NumType=Card	PronType=Ind
+ADJ	Animacy=Inan	Case=Acc	Degree=Pos	Number=Plur	NumType=Ord
+PROPN	Animacy=Inan	Case=Nom	Gender=Fem
+PRON	Animacy=Anim	Case=Nom	PronType=Ind
+NOUN	Animacy=Inan	Case=Nom	Gender=Masc	Number=Plur	Style=Odd
+ADJ	Aspect=Perf	Case=Ins	Gender=Masc	VerbForm=Part	Voice=Pass
+ADJ	Case=Loc	Gender=Neut	NumType=Ord
+ADJ	Case=Gen	Gender=Neut	NumType=Ord
+PROPN	Animacy=Anim	Case=Gen	Gender=Masc	NameType=Sur	Number=Plur
+DET	Case=Nom	Gender=Fem	Person=3	Poss=Yes	PronType=Prs
+PROPN	Animacy=Inan	Case=Ins	Gender=Masc
+ADJ	Case=Acc	Gender=Fem	Variant=Uncontr
+NOUN	Animacy=Anim	Case=Loc	Gender=Masc	Number=Plur
+DET	Case=Nom	Gender=Fem	PronType=Tot
+NOUN	Animacy=Anim	Case=Dat	Gender=Masc	Number=Plur
+PRON	Animacy=Inan	Case=Ins	Gender=Neut	PronType=Rel
+ADJ	Aspect=Perf	Case=Loc	Gender=Masc	VerbForm=Part	Voice=Pass
+DET	Animacy=Inan	Case=Acc	Gender=Masc	Person=1	Poss=Yes	PronType=Prs
+ADJ	Case=Ins	Number=Plur	Style=Odd
+ADJ	Aspect=Imp	Case=Ins	Number=Plur	VerbForm=Part	Voice=Pass
+ADJ	Case=Nom	Degree=Sup	Gender=Masc
+DET	Case=Gen	Number=Plur	PronType=Neg
+DET	Case=Loc	Gender=Masc	PronType=Prs	Reflex=Yes
+NOUN	Animacy=Inan	Case=Loc	Gender=Masc	Number=Plur	Style=Odd
+DET	Animacy=Anim	Case=Acc	Number=Plur	PronType=Tot
+DET	Case=Gen	Gender=Neut	PronType=Tot
+ADJ	Case=Nom	Degree=Cmp	Gender=Masc
+PRON	Animacy=Anim	Case=Dat	Gender=Masc	PronType=Tot
+PRON	Animacy=Inan	Case=Loc	Gender=Neut	PronType=Dem
+DET	Case=Nom	Gender=Neut	PronType=Dem
+DET	Case=Loc	Number=Plur	PronType=Tot
+NOUN	Animacy=Inan	Case=Nom	Foreign=Yes	Number=Sing
+NOUN	Animacy=Inan	Case=Gen	Foreign=Yes	Gender=Masc	Number=Plur
+NOUN	Animacy=Anim	Case=Gen	Foreign=Yes	Gender=Fem	Number=Plur
+ADJ	Case=Gen	Foreign=Yes	Number=Plur
+NOUN	Animacy=Inan	Case=Gen	Foreign=Yes	Gender=Fem	Number=Plur
+DET	Case=Gen	Gender=Neut	PronType=Dem
+ADJ	Aspect=Imp	Case=Gen	Number=Plur	VerbForm=Part	Voice=Pass
+PROPN	Animacy=Inan	Case=Gen	Gender=Neut
+PROPN	Animacy=Anim	Case=Acc	Gender=Masc	NameType=Sur
+DET	Animacy=Anim	Case=Acc	Gender=Masc	PronType=Rel
+ADJ	Aspect=Perf	Case=Ins	Degree=Pos	Number=Plur	VerbForm=Part	Voice=Pass
+DET	Case=Loc	Gender=Masc	PronType=Rel
+ADJ	Case=Dat	Gender=Masc
+DET	Case=Gen	Gender=Fem	PronType=Rel
+DET	Case=Loc	Gender=Fem	PronType=Prs	Reflex=Yes
+DET	Case=Ins	Gender=Masc	PronType=Tot
+PROPN	_
+PRON	Animacy=Inan	Case=Gen	PronType=Neg
+DET	Animacy=Inan	Case=Acc	Number=Plur	Person=1	Poss=Yes	PronType=Prs
+ADJ	Case=Gen	Degree=Sup	Number=Plur
+DET	Case=Nom	Number=Plur	Person=3	Poss=Yes	PronType=Prs
+ADJ	Case=Dat	Number=Plur
+PRON	Animacy=Anim	Case=Gen	Number=Ptan	PronType=Tot
+NOUN	Animacy=Anim	Case=Gen	Gender=Masc	NumType=Ord
+PRON	Animacy=Anim	Case=Nom	Gender=Fem	PronType=Dem
+PRON	Case=Acc	Gender=Fem	Person=3	PrepCase=Pre	PronType=Prs
+DET	Case=Nom	Gender=Fem	PronType=Dem
+DET	Case=Dat	Gender=Masc	Person=1	Poss=Yes	PronType=Prs
+ADJ	Case=Nom	Gender=Masc	NumType=Ord
+PROPN	Animacy=Anim	Case=Nom	Gender=Fem	NameType=Sur
+PRON	Animacy=Anim	Case=Acc	PronType=Ind
+NOUN	Animacy=Anim	Case=Dat	Gender=Neut	Number=Plur
+ADJ	Aspect=Perf	Case=Acc	Gender=Fem	VerbForm=Part	Voice=Act
+DET	Case=Loc	Gender=Fem	PronType=Ind
+PRON	Animacy=Anim	Case=Nom	Gender=Masc	PronType=Prs	Reflex=Yes
+DET	Case=Loc	Number=Plur	Person=3	Poss=Yes	PronType=Prs
+NOUN	Animacy=Inan	Case=Ins	Gender=Masc	Style=Rare
+ADJ	Animacy=Anim	Case=Acc	Degree=Pos	Gender=Masc
+DET	Animacy=Inan	Case=Acc	Gender=Masc	PronType=Rel
+ADJ	Aspect=Imp	Case=Gen	Gender=Neut	VerbForm=Part	Voice=Pass
+VERB	Aspect=Perf	Gender=Fem	Mood=Ind	Style=Odd	Tense=Past	VerbForm=Fin
+NUM	Case=Ins	Gender=Masc	NumType=Card
+ADV	Degree=Abs
+ADJ	Aspect=Perf	Case=Ins	Degree=Pos	Gender=Masc	VerbForm=Part	Voice=Pass
+PRON	Case=Acc	Number=Plur	Person=3	PrepCase=Pre	PronType=Prs
+ADJ	Case=Acc	Degree=Sup	Gender=Fem
+PRON	Animacy=Anim	Case=Ins	Number=Sing	Person=1	PronType=Prs
+DET	Case=Nom	Gender=Masc	Person=3	Poss=Yes	PronType=Prs
+DET	Case=Ins	Gender=Fem	PronType=Rel
+ADJ	Case=Acc	Gender=Fem	NumType=Ord
+ADJ	Aspect=Perf	Case=Loc	Number=Plur	VerbForm=Part	Voice=Pass
+DET	Case=Nom	Gender=Masc	PronType=Tot
+ADJ	Aspect=Perf	Case=Acc	Gender=Fem	VerbForm=Part	Voice=Pass
+ADJ	Case=Gen	Degree=Cmp	Gender=Masc
+ADJ	Case=Gen	Degree=Sup	Gender=Fem
+DET	Animacy=Inan	Case=Acc	Gender=Masc	PronType=Prs	Reflex=Yes
+DET	Case=Loc	Gender=Masc	PronType=Ind
+NOUN	Animacy=Anim	Case=Dat	Gender=Fem	Number=Plur
+NOUN	Animacy=Inan	Case=Ins	Gender=Fem	Style=Odd
+DET	Case=Dat	Gender=Fem	PronType=Ind
+DET	Case=Nom	Number=Plur	NumType=Card	PronType=Ind
+PROPN	Animacy=Anim	Case=Ins	Gender=Masc	NameType=Sur
+NOUN	Animacy=Anim	Case=Nom	Gender=Fem	Style=Odd
+DET	Case=Acc	Gender=Masc	Person=3	Poss=Yes	PronType=Prs
+DET	Case=Ins	Gender=Masc	Person=3	Poss=Yes	PronType=Prs
+PROPN	Abbr=Yes	Animacy=Inan	Case=Loc	Gender=Masc
+ADJ	Case=Gen	Degree=Pos	Number=Plur	NumType=Ord
+ADV	Foreign=Yes
+NOUN	Animacy=Inan	Case=Nom	Foreign=Yes	Gender=Neut
+DET	Case=Nom	Gender=Neut	Person=1	Poss=Yes	PronType=Prs
+DET	Case=Nom	Number=Plur	PronType=Prs	Reflex=Yes
+ADJ	Case=Ins	Degree=Sup	Gender=Neut
+AUX	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Tense=Fut	VerbForm=Fin
+ADJ	Animacy=Inan	Case=Acc	Degree=Pos	Gender=Masc	NumType=Ord
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin
+ADJ	Case=Ins	Degree=Sup	Gender=Masc
+PRON	Case=Gen	Gender=Fem	Person=3	PrepCase=Pre	PronType=Prs
+VERB	Aspect=Imp	Gender=Neut	Mood=Ind	Style=Odd	Tense=Past	VerbForm=Fin
+PROPN	Animacy=Inan	Case=Nom	Gender=Masc	Number=Plur
+DET	Case=Ins	Gender=Neut	Poss=Yes	PronType=Prs	Reflex=Yes
+DET	Animacy=Anim	Case=Acc	Gender=Masc	PronType=Tot
+ADJ	Case=Loc	Degree=Sup	Number=Plur
+NOUN	Animacy=Inan	Case=Gen	Number=Ptan	NumType=Ord
+ADJ	Aspect=Perf	Case=Ins	Degree=Pos	Gender=Fem	VerbForm=Part	Voice=Pass
+DET	Case=Gen	Gender=Neut	Person=1	Poss=Yes	PronType=Prs
+DET	Animacy=Inan	Case=Acc	Number=Plur	PronType=Rel
+PROPN	Animacy=Anim	Case=Ins	Gender=Fem	NameType=Giv
+NOUN	Animacy=Inan	Case=Dat	Gender=Masc	Number=Plur
+VERB	Aspect=Perf	Mood=Ind	Number=Sing	Person=1	Tense=Fut	VerbForm=Fin
+VERB	Aspect=Imp	Mood=Imp	Number=Plur	Person=2	VerbForm=Fin
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Person=2	Tense=Pres	VerbForm=Fin
+PRON	Animacy=Anim	Case=Gen	Number=Plur	Person=2	PronType=Prs
+VERB	Aspect=Perf	Mood=Imp	Number=Plur	Person=2	VerbForm=Fin
+VERB	Aspect=Imp	Mood=Imp	Number=Sing	Person=2	VerbForm=Fin
+PROPN	Abbr=Yes	Animacy=Inan	Case=Nom	Gender=Masc
+PRON	Animacy=Anim	Case=Dat	Number=Plur	Person=2	PronType=Prs
+NOUN	Animacy=Anim	Case=Nom	Gender=Neut	Number=Plur
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=3	Tense=Fut	VerbForm=Fin
+ADJ	Animacy=Inan	Case=Acc	Degree=Cmp	Gender=Masc
+DET	Case=Gen	Number=Plur	PronType=Rel
+ADJ	Aspect=Imp	Case=Ins	Gender=Neut	VerbForm=Part	Voice=Pass
+PRON	Animacy=Anim	Case=Nom	Gender=Masc	PronType=Int
+PRON	Animacy=Anim	Case=Dat	Number=Ptan	PronType=Tot
+PROPN	Animacy=Inan	Case=Gen	Foreign=Yes	Gender=Masc
+NOUN	Animacy=Anim	Case=Voc	Gender=Masc	Number=Plur
+DET	Case=Ins	Number=Plur	NumType=Card	PronType=Ind
+PROPN	Animacy=Inan	Foreign=Yes
+AUX	Aspect=Imp	Mood=Ind	Number=Plur	Person=1	Tense=Fut	VerbForm=Fin
+VERB	Aspect=Perf	Mood=Imp	Number=Plur	Person=1	VerbForm=Fin
+PRON	Animacy=Anim	Case=Ins	Number=Plur	Person=2	PronType=Prs
+DET	Case=Gen	Number=Plur	PronType=Ind
+VERB	Aspect=Imp	Mood=Ind	Number=Plur	Person=1	Tense=Fut	VerbForm=Fin
+ADJ	Case=Gen	Degree=Pos	Gender=Fem	NumType=Ord
+NOUN	Abbr=Yes	Animacy=Inan	Case=Gen	Gender=Fem	Number=Plur
+ADJ	Case=Ins	Degree=Cmp	Gender=Fem
+DET	Case=Dat	Number=Plur	Person=2	Poss=Yes	PronType=Prs
+PRON	Animacy=Anim	Case=Gen	Gender=Masc	PronType=Int
+PROPN	Animacy=Anim	Case=Gen	Gender=Fem	NameType=Sur
+NOUN	Animacy=Anim	Case=Voc	Gender=Neut	Number=Plur
+DET	Case=Loc	Gender=Neut	PronType=Dem
+DET	Animacy=Inan	Case=Acc	Gender=Masc	Person=2	Poss=Yes	PronType=Prs
+DET	Case=Loc	Gender=Masc	PronType=Tot
+NOUN	Abbr=Yes	Animacy=Inan	Case=Gen	Gender=Masc
+PRON	Animacy=Inan	Case=Acc	Gender=Neut	PronType=Int
+SYM	_
+NOUN	Animacy=Inan	Case=Voc	Number=Ptan
+ADJ	Abbr=Yes
+NOUN	Abbr=Yes	Animacy=Inan	Case=Acc	Gender=Neut
+AUX	Aspect=Imp	Mood=Ind	Number=Sing	Person=1	Tense=Fut	VerbForm=Fin
+PRON	Animacy=Anim	Case=Acc	Number=Plur	PronType=Dem
+PRON	Animacy=Anim	Case=Nom	Number=Plur	Person=2	PronType=Prs
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=1	Tense=Fut	VerbForm=Fin
+DET	Case=Loc	Gender=Fem	Poss=Yes	PronType=Prs	Reflex=Yes
+NOUN	Animacy=Anim	Case=Acc	Number=Plur
+DET	Animacy=Anim	Case=Acc	Number=Plur	PronType=Dem
+NUM	Case=Loc	Number=Plur	NumType=Card
+PRON	Animacy=Inan	Case=Gen	Gender=Neut	PronType=Tot
+DET	Case=Dat	Gender=Masc	PronType=Prs	Reflex=Yes
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=2	Tense=Fut	VerbForm=Fin
+NOUN	Animacy=Inan	Animacy[gram]=Anim	Case=Acc	Gender=Masc	Style=Odd
+PRON	Animacy=Anim	Case=Acc	Gender=Masc	PronType=Tot
+DET	Case=Ins	Gender=Neut	Person=3	Poss=Yes	PronType=Prs
+DET	Case=Loc	Gender=Neut	Person=3	Poss=Yes	PronType=Prs
+PRON	Animacy=Anim	Case=Gen	Gender=Masc	PronType=Dem
+NOUN	Animacy=Anim	Case=Nom	Number=Plur
+ADJ	Aspect=Imp	Case=Nom	Gender=Masc	VerbForm=Part	Voice=Pass
+PRON	Animacy=Anim	Case=Dat	Gender=Masc	PronType=Ind
+PRON	Animacy=Anim	Case=Nom	PronType=Neg
+ADJ	Case=Nom	Gender=Masc	Variant=Short
+DET	Animacy=Anim	Case=Acc	Gender=Masc	PronType=Ind
+PROPN	Abbr=Yes	Animacy=Inan	Case=Nom	Gender=Fem
+PROPN	Abbr=Yes	Animacy=Inan	Case=Loc	Gender=Neut
+DET	Animacy=Anim	Case=Acc	Gender=Masc	Person=3	Poss=Yes	PronType=Prs
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=3	Tense=Fut	VerbForm=Fin
+ADJ	Case=Nom	Degree=Sup	Number=Plur
+ADJ	Case=Gen	Number=Plur	NumType=Ord
+NOUN	Abbr=Yes	Animacy=Inan	Case=Gen	Number=Ptan
+NOUN	Abbr=Yes	Animacy=Inan	Case=Loc	Gender=Fem
+PRON	Animacy=Anim	Case=Nom	Number=Plur	Person=2	Polite=Form	PronType=Prs
+VERB	Aspect=Perf	Mood=Ind	Number=Plur	Person=2	Tense=Fut	VerbForm=Fin
+PROPN	Animacy=Anim	Case=Voc	Gender=Fem	NameType=Giv
+PRON	Animacy=Inan	Case=Nom	Number=Ptan	PronType=Tot
+NOUN	Abbr=Yes	Animacy=Inan	Case=Acc	Gender=Fem
+NOUN	Animacy=Anim	Case=Voc	Gender=Masc
+ADJ	Aspect=Imp	Case=Acc	Gender=Fem	Style=Odd	Tense=Pres	VerbForm=Part	Voice=Act
+DET	Case=Gen	Gender=Masc	Poss=Yes	PronType=Prs	Reflex=Yes
+PRON	Animacy=Anim	Case=Gen	Number=Plur	Person=2	Polite=Form	PronType=Prs
+PRON	Animacy=Anim	Case=Dat	Number=Plur	Person=2	Polite=Form	PronType=Prs
+DET	Case=Dat	Number=Plur	Poss=Yes	PronType=Prs	Reflex=Yes
+NOUN	Animacy=Anim	Aspect=Perf	Case=Dat	Number=Plur	Voice=Pass
+NUM	Case=Dat	Number=Plur	NumType=Card
+NOUN	Animacy=Anim	Case=Dat	Gender=Masc	Number=Plur	Style=Coll
+PRON	Animacy=Anim	Case=Acc	Number=Plur	Person=2	Polite=Form	PronType=Prs
+PRON	Animacy=Inan	Case=Dat	PronType=Neg
+PRON	Case=Loc	Gender=Masc	Person=3	PrepCase=Pre	PronType=Prs
+PRON	Animacy=Anim	Case=Nom	Number=Plur	PronType=Dem
+DET	Case=Nom	Gender=Neut	Person=3	Poss=Yes	PronType=Prs
+PRON	Animacy=Anim	Case=Dat	PronType=Neg
+DET	Case=Dat	Gender=Masc	PronType=Ind
+ADJ	Case=Nom	Degree=Cmp	Gender=Fem
+PRON	Animacy=Anim	Case=Dat	Gender=Fem	PronType=Dem
+NOUN	Animacy=Anim	Case=Nom	Gender=Masc	Number=Plur	Style=Coll
+PRON	Animacy=Inan	Case=Acc	PronType=Neg
+NOUN	Abbr=Yes	Animacy=Inan	Case=Gen	Gender=Fem
+PROPN	Animacy=Anim	Case=Voc	Gender=Masc
+ADJ	Case=Nom	Degree=Pos	Gender=Fem	NumType=Ord
+VERB	Aspect=Imp	Mood=Ind	Number=Sing	Person=1	Tense=Fut	VerbForm=Fin
+NOUN	Animacy=Anim	Aspect=Imp	Case=Gen	Number=Ptan	Tense=Pres	Voice=Act
+NOUN	Animacy=Inan	Case=Dat	Gender=Neut
+ADJ	Aspect=Perf	Case=Dat	Number=Plur	VerbForm=Part	Voice=Pass
+NOUN	Animacy=Inan	Case=Dat	Gender=Fem	Number=Plur
+AUX	Aspect=Imp	Mood=Ind	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin
+NOUN	Animacy=Inan	Aspect=Imp	Case=Gen	Number=Ptan	Tense=Pres	Voice=Act
+ADJ	Case=Gen	Gender=Fem	NumType=Ord
+ADJ	Aspect=Perf	Case=Loc	Gender=Neut	VerbForm=Part	Voice=Pass
+ADJ	Case=Acc	Degree=Cmp	Gender=Fem
+ADJ	Case=Loc	Degree=Cmp	Number=Plur
+NOUN	Animacy=Anim	Case=Loc	Gender=Fem	Number=Plur
+DET	Case=Gen	Number=Plur	Person=3	Poss=Yes	PronType=Prs	Style=Odd
+ADJ	Animacy=Inan	Aspect=Perf	Case=Acc	Degree=Pos	Gender=Masc	VerbForm=Part	Voice=Pass
+ADJ	Case=Voc	Gender=Masc
+ADJ	Case=Voc	Degree=Pos	Gender=Masc
+DET	Animacy=Anim	Case=Acc	Gender=Masc	PronType=Dem
+DET	Case=Gen	Gender=Fem	Person=2	Poss=Yes	PronType=Prs
+NOUN	Abbr=Yes	Animacy=Inan
+ADJ	Case=Nom	Degree=Pos	Gender=Masc	NumType=Ord
+PRON	Animacy=Anim	Case=Ins	Number=Plur	Person=2	Polite=Form	PronType=Prs
+DET	Case=Gen	Gender=Neut	Person=2	Poss=Yes	PronType=Prs
+ADV	PronType=Dem	Style=Odd
+AUX	Aspect=Imp	Mood=Imp	Number=Plur	Person=2	VerbForm=Fin
+PROPN	Abbr=Yes	Animacy=Anim
+PROPN	Abbr=Yes
+NOUN	Animacy=Anim	Aspect=Imp	Case=Nom	Gender=Masc	Tense=Pres	Voice=Act
+ADJ	Animacy=Inan	Aspect=Imp	Case=Acc	Number=Plur	VerbForm=Part	Voice=Pass
+NOUN	Abbr=Yes
+DET	Case=Ins	Gender=Masc	PronType=Rel
+PROPN	Animacy=Inan	Case=Acc	Number=Ptan
+PRON	Animacy=Inan	Case=Acc	PronType=Ind
+DET	Animacy=Anim	Case=Acc	Gender=Masc	Person=2	Poss=Yes	PronType=Prs
+DET	Case=Gen	Number=Plur	Person=2	Poss=Yes	PronType=Prs
+DET	Case=Ins	Gender=Neut	PronType=Ind
+DET	Case=Nom	Gender=Masc	Person=2	Poss=Yes	PronType=Prs

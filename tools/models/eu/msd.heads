@@ -1,0 +1,884 @@
+ADV	_
+PUNCT	_
+VERB	Case=Loc	VerbForm=Part
+NOUN	Animacy=Inan	Case=Abs	Definite=Def	Number=Sing
+NOUN	_
+NUM	NumType=Card
+VERB	VerbForm=Part
+CCONJ	_
+ADJ	Case=Dat	Definite=Def	Number=Sing
+ADJ	_
+ADJ	Case=Abs	Definite=Def	Number=Sing
+VERB	Case=Ine
+VERB	Case=Abs	Definite=Ind
+NOUN	Animacy=Anim	Case=Abs	Definite=Ind
+AUX	Aspect=Prog	Mood=Ind	Number[abs]=Plur	Person[abs]=3
+ADJ	Case=Abs	Definite=Def	Number=Plur
+NOUN	Animacy=Inan	Case=Ine	Definite=Def	Number=Sing
+VERB	Case=Loc
+NOUN	Case=Abs	Definite=Def	Number=Sing
+VERB	Aspect=Perf	VerbForm=Part
+AUX	Mood=Ind	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=3
+PROPN	Case=Erg	Definite=Def	Number=Sing
+PROPN	_
+DET	Case=Ine	Definite=Def	Number=Sing
+AUX	Mood=Ind	Number[abs]=Plur	Number[dat]=Sing	Person[abs]=3	Person[dat]=3
+NUM	NumType=Ord
+NOUN	Animacy=Inan	Case=Ins	Definite=Ind
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Plur	Number[erg]=Sing	Person[abs]=3	Person[erg]=3
+NOUN	Animacy=Inan	Case=Abs	Definite=Def	Number=Plur
+PRON	PronType=Prs
+PART	Polarity=Neg
+VERB	Aspect=Imp	VerbForm=Inf
+AUX	Mood=Ind	Number[abs]=Sing	Person[abs]=1
+ADJ	Case=Erg	Definite=Def	Number=Plur
+PROPN	Case=Loc	Definite=Def	Number=Sing
+ADJ	Case=Abs	Definite=Def	Degree=Sup	Number=Sing
+AUX	Mood=Ind	Number[abs]=Sing	Number[erg]=Plur	Person[abs]=3	Person[erg]=3
+DET	Case=Ben	Definite=Def	Number=Plur
+NOUN	Animacy=Anim	Case=Abs	Definite=Def	Number=Sing
+AUX	Mood=Ind	Number[abs]=Sing	Person[abs]=3
+NOUN	Case=Gen	Definite=Def	Number=Sing
+NOUN	Case=Abs	Definite=Ind
+AUX	Aspect=Perf	VerbForm=Part
+DET	Case=Gen	Number=Sing
+AUX	Mood=Ind	Number[abs]=Plur	Number[erg]=Sing	Person[abs]=3	Person[erg]=3
+AUX	Mood=Ind	Number[abs]=Sing	Number[dat]=Sing	Number[erg]=Plur	Person[abs]=3	Person[dat]=3	Person[erg]=1
+PROPN	Case=Dat	Definite=Def	Number=Sing
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Number[erg]=Plur	Person[abs]=3	Person[erg]=1
+VERB	Case=Abs
+PRON	Case=Dat	Definite=Ind
+VERB	_
+AUX	Mood=Ind	Number[abs]=Sing	Number[dat]=Sing	Number[erg]=Plur	Person[abs]=3	Person[dat]=3	Person[erg]=3
+PRON	PronType=Int
+NOUN	Animacy=Anim	Case=Gen	Definite=Def	Number=Sing
+NOUN	Case=Ins	Definite=Def	Number=Sing
+DET	Case=Abs	Definite=Ind
+NOUN	Animacy=Inan	Case=Loc	Definite=Def	Number=Sing
+ADJ	Case=Gen	Definite=Def	Number=Plur
+AUX	Mood=Ind	Number[abs]=Sing	Number[dat]=Plur	Person[abs]=3	Person[dat]=3
+NOUN	Animacy=Anim	Case=Erg	Definite=Def	Number=Sing
+AUX	Mood=Ind	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=3	Polarity=Pos
+NOUN	Animacy=Inan	Case=All	Definite=Def	Number=Sing
+NOUN	Case=Loc	Definite=Def	Number=Sing
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=3
+NOUN	Case=All	Definite=Def	Number=Sing
+DET	Case=Ine	Definite=Def	Number=Plur
+AUX	Mood=Ind	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=2	Person[erg]=3	Polite[abs]=Infm
+NOUN	Animacy=Inan	Case=Erg	Definite=Def	Number=Sing
+ADJ	Case=Abs	Definite=Ind
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Person[abs]=3
+DET	_
+ADJ	Case=Gen	Definite=Def	Number=Sing
+PROPN	Case=Abs	Definite=Def	Number=Plur
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Plur	Person[abs]=3
+PROPN	Case=Gen	Definite=Def	Number=Sing
+NOUN	Case=Erg	Definite=Def	Number=Sing
+VERB	Aspect=Prosp	VerbForm=Part
+NOUN	Case=Ine	Definite=Def	Number=Sing
+NOUN	Animacy=Inan	Case=Ine	Definite=Def	Number=Plur
+DET	Case=Abs	Definite=Def	Number=Sing
+AUX	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Person[abs]=3
+NOUN	Animacy=Anim	Case=Erg	Definite=Def	Number=Plur
+ADJ	Case=Loc	Definite=Def	Number=Sing
+NOUN	Case=Ins	Definite=Ind
+DET	Case=Abs	Definite=Def	Number=Plur
+VERB	Case=Par	Definite=Ind	VerbForm=Part
+NOUN	Animacy=Inan	Case=Abl	Definite=Def	Number=Plur
+AUX	Mood=Ind	Number[abs]=Plur	Person[abs]=3
+VERB	Case=Abs	Definite=Def	Number=Sing	VerbForm=Part
+VERB	Case=Gen	Definite=Def	Number=Sing
+NOUN	Animacy=Inan	Case=Loc	Definite=Def	Number=Plur
+PROPN	Case=Abs	Definite=Def	Number=Sing
+PROPN	Case=Ine	Definite=Def	Number=Sing
+AUX	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=3
+DET	Case=Par	Definite=Ind
+AUX	Mood=Ind	Number[abs]=Sing	Number[erg]=Plur	Person[abs]=3	Person[erg]=1
+NOUN	Animacy=Anim	Case=Erg	Definite=Ind
+NOUN	Animacy=Inan	Case=Gen	Definite=Def	Number=Sing
+NOUN	Animacy=Inan	Case=Gen	Definite=Def	Number=Plur
+ADJ	Case=Abs	Definite=Def	Degree=Cmp	Number=Sing
+NOUN	Case=Abl	Definite=Def	Number=Sing
+NOUN	Animacy=Inan	Case=Dat	Definite=Def	Number=Sing
+AUX	Mood=Ind	Number[abs]=Sing	Number[dat]=Sing	Person[abs]=3	Person[dat]=3
+ADJ	Case=Erg	Definite=Def	Number=Sing
+AUX	VerbForm=Part
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=1	Polarity=Pos
+AUX	Aspect=Prosp	VerbForm=Part
+NOUN	Animacy=Inan	Case=Abs	Definite=Ind
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Plur	Number[erg]=Plur	Person[abs]=3	Person[erg]=3
+NOUN	Animacy=Inan	Case=Par	Definite=Ind
+DET	Case=Gen	Definite=Def	Number=Sing
+NOUN	Case=Abs	Definite=Ind	Degree=Cmp
+NOUN	Case=Erg	Definite=Def	Number=Plur
+ADJ	Case=Ine	Definite=Def	Number=Sing
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Number[erg]=Plur	Person[abs]=3	Person[erg]=3
+VERB	Case=Cau
+VERB	VerbForm=Inf
+AUX	Mood=Sub	Number[abs]=Sing	Number[erg]=Plur	Person[abs]=3	Person[erg]=1
+AUX	Mood=Pot	Number[abs]=Sing	Person[abs]=3
+NOUN	Case=Abs	Definite=Def	Number=Plur
+NOUN	Case=Com	Definite=Def	Number=Sing
+ADJ	Case=Gen	Definite=Def	Degree=Sup	Number=Plur
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Number[dat]=Plur	Person[abs]=3	Person[dat]=3
+NOUN	Case=Dat	Definite=Def	Number=Plur
+PRON	Case=Erg	Definite=Ind
+VERB	Case=Abs	Definite=Def	Number=Sing
+DET	Case=Com	Definite=Def	Number=Sing
+AUX	Mood=Ind	Number[abs]=Plur	Number[erg]=Plur	Person[abs]=3	Person[erg]=3
+NOUN	Animacy=Inan	Case=Com	Definite=Def	Number=Plur
+NOUN	Animacy=Inan	Case=Com	Definite=Def	Number=Sing
+AUX	Mood=Ind	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=1
+NOUN	Case=Gen	Definite=Def	Number=Plur
+NOUN	Animacy=Inan	Case=Ben	Definite=Def	Number=Sing
+AUX	Mood=Ind	Number[abs]=Plur	Number[dat]=Sing	Number[erg]=Sing	Person[abs]=3	Person[dat]=3	Person[erg]=1
+DET	Case=Erg	Definite=Def	Number=Sing
+ADV	Case=Loc
+ADJ	Case=Ine	Definite=Def	Degree=Cmp	Number=Sing
+AUX	Mood=Ind	Number[abs]=Plur	Number[dat]=Plur	Number[erg]=Sing	Person[abs]=3	Person[dat]=1	Person[erg]=3
+AUX	Mood=Ind	Number[abs]=Sing	Number[dat]=Plur	Number[erg]=Sing	Person[abs]=3	Person[dat]=1	Person[erg]=3
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Plur	Number[erg]=Plur	Person[abs]=3	Person[erg]=1
+VERB	Case=Ins	Definite=Ind	VerbForm=Part
+AUX	Mood=Ind	Number[abs]=Sing	Number[dat]=Sing	Number[erg]=Sing	Person[abs]=3	Person[dat]=1	Person[erg]=3
+AUX	Mood=Ind	Number[abs]=Plur	Person[abs]=1
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Plur	Person[abs]=1
+PROPN	Case=Com	Definite=Def	Number=Sing
+AUX	Mood=Imp	Number[abs]=Plur	Number[erg]=Sing	Person[abs]=3	Person[erg]=2
+PROPN	Case=All	Definite=Def	Number=Sing
+DET	Case=Ine	Definite=Ind
+AUX	Mood=Ind	Number[abs]=Sing	Number[dat]=Sing	Number[erg]=Sing	Person[abs]=3	Person[dat]=3	Person[erg]=3
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Plur	Number[erg]=Sing	Person[abs]=3	Person[erg]=3	Polarity=Pos
+NOUN	Animacy=Inan	Case=Loc	Definite=Ind
+NOUN	Animacy=Anim	Case=Abs	Definite=Def	Number=Plur
+AUX	Case=Abs	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Sing	Person[abs]=3
+VERB	Case=Ins	Definite=Def	Number=Sing	VerbForm=Part
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=1
+ADJ	Case=Loc	Definite=Def	Number=Plur
+NOUN	Animacy=Inan	Case=Abl	Definite=Def	Number=Sing
+AUX	Mood=Pot	Number[abs]=Plur	Person[abs]=3
+PART	Polarity=Pos
+AUX	Mood=Ind	Number[abs]=Plur	Number[erg]=Sing	Person[abs]=3	Person[erg]=1
+NOUN	Animacy=Inan	Case=Abl	Definite=Ind
+VERB	Aspect=Prog	Gender=Fem	Mood=Ind	Number[abs]=Sing	Person[abs]=3	Polite=Infm
+NOUN	Case=Par	Definite=Ind
+VERB	Case=Erg	Definite=Def	Number=Sing
+VERB	Case=Par
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Number[dat]=Plur	Number[erg]=Sing	Person[abs]=3	Person[dat]=3	Person[erg]=3
+NOUN	Animacy=Inan	Case=Erg	Definite=Def	Number=Plur
+NOUN	Animacy=Inan	Case=Ine	Definite=Ind
+NOUN	Case=Dat	Definite=Def	Number=Sing
+AUX	Mood=Ind	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=2
+ADJ	Case=Abl	Definite=Def	Number=Sing
+DET	Case=Dat	Definite=Ind
+NOUN	Animacy=Inan
+AUX	Mood=Ind	Number[abs]=Sing	Number[dat]=Plur	Number[erg]=Plur	Person[abs]=3	Person[dat]=3	Person[erg]=3
+SYM	Animacy=Inan	Case=Abs	Definite=Def	Number=Sing
+DET	Case=Loc	Definite=Def	Number=Sing
+INTJ	_
+DET	Case=Dat	Definite=Def	Number=Sing
+ADJ	Degree=Cmp
+ADJ	Case=Ine	Definite=Def	Degree=Cmp	Number=Plur
+AUX	Case=Abs	Definite=Def	Mood=Pot	Number=Plur	Number[abs]=Plur	Person[abs]=3
+ADJ	Case=Ine	Definite=Def	Number=Plur
+ADJ	Case=Loc	Definite=Ind
+ADJ	Case=Ine	Definite=Ind
+VERB	Aspect=Prog	Mood=Cnd	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=1
+ADJ	Case=Dat	Definite=Def	Number=Plur
+AUX	Mood=Ind	Number[abs]=Plur	Number[erg]=Plur	Person[abs]=3	Person[erg]=1
+NOUN	Animacy=Anim	Case=Dat	Definite=Def	Number=Plur
+ADV	PronType=Int
+AUX	Mood=Pot	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=1
+PRON	Case=Abs	Definite=Ind
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Person[abs]=1
+NOUN	Case=Cau	Definite=Def	Number=Sing
+X	_
+AUX	Mood=Pot	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=3
+DET	Case=Gen	Definite=Def	Number=Plur
+ADJ	Case=Par	Definite=Ind
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=3	Polarity=Pos
+AUX	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Number[dat]=Sing	Person[abs]=3	Person[dat]=3
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=2	Person[erg]=1
+VERB	Voice=Cau
+NOUN	Animacy=Anim	Case=Gen	Definite=Def	Number=Plur
+NOUN	Animacy=Inan	Case=Ben	Definite=Def	Number=Plur
+ADJ	Case=Abs	Definite=Def	Degree=Sup	Number=Plur
+PROPN	Case=Abl	Definite=Def	Number=Sing
+VERB	Aspect=Prog	Gender=Fem	Mood=Ind	Number[abs]=Sing	Number[erg]=Plur	Person[abs]=3	Person[erg]=1	Polite=Infm
+VERB	Case=All
+PROPN	Case=Erg	Definite=Def	Number=Plur
+NOUN	Animacy=Inan	Case=All	Definite=Def	Number=Plur
+NOUN	Case=Ine	Definite=Def	Number=Plur
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Person[abs]=3	Polarity=Pos
+VERB	Case=Abs	Definite=Def	Number=Plur	VerbForm=Part
+NUM	Case=Abs	Definite=Ind	NumType=Card
+ADV	Case=Abl
+PROPN	Animacy=Inan	Case=Erg	Definite=Def	Number=Sing
+PROPN	Case=Ben	Definite=Def	Number=Sing
+AUX	Aspect=Prog	Mood=Cnd	Number[abs]=Sing	Person[abs]=3
+AUX	Case=Loc
+NOUN	Animacy=Inan	Case=Ess	Definite=Ind
+AUX	Mood=Ind	Number[abs]=Sing	Number[erg]=Plur	Person[abs]=3	Person[erg]=3	Polarity=Pos
+AUX	Mood=Pot	Number[abs]=Plur	Number[erg]=Sing	Person[abs]=3	Person[erg]=3
+NOUN	Animacy=Anim	Case=Dat	Definite=Def	Number=Sing
+DET	Case=Loc	Definite=Ind
+ADJ	Animacy=Inan	Case=Abs	Definite=Def	Number=Sing
+AUX	Mood=Ind	Number[abs]=Sing	Number[dat]=Plur	Number[erg]=Sing	Person[abs]=3	Person[dat]=2	Person[erg]=1
+DET	Case=Erg	Definite=Def	Number=Plur
+DET	Case=Dat	Definite=Def	Number=Plur
+AUX	Mood=Ind	Number[abs]=Plur	Number[dat]=Plur	Person[abs]=3	Person[dat]=1
+AUX	Mood=Ind	Number[abs]=Plur	Number[dat]=Sing	Person[abs]=1	Person[dat]=3
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Plur	Person[abs]=3	Polarity=Pos
+ADJ	Case=Ins	Definite=Ind
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Person[abs]=2
+AUX	Mood=Ind	Number[abs]=Plur	Number[erg]=Sing	Person[abs]=3	Person[erg]=2
+DET	Case=Abl	Definite=Def	Number=Sing
+AUX	Gender=Fem	Mood=Ind	Number[abs]=Sing	Number[dat]=Sing	Number[erg]=Sing	Person[abs]=3	Person[dat]=3	Person[erg]=3	Polite=Infm
+NOUN	Animacy=Inan	Case=Gen	Definite=Ind
+NOUN	Animacy=Inan	Case=Dat	Definite=Def	Number=Plur
+AUX	Mood=Ind	Number[abs]=Sing	Number[dat]=Plur	Number[erg]=Sing	Person[abs]=3	Person[dat]=3	Person[erg]=2
+VERB	Aspect=Prog	Mood=Pot	Number[abs]=Sing	Person[abs]=3
+NOUN	Case=All	Definite=Def	Number=Plur
+ADJ	Case=Ine	Definite=Def	Degree=Sup	Number=Plur
+DET	Case=Cau	Definite=Def	Number=Sing
+ADJ	Case=Erg	Definite=Def	Degree=Sup	Number=Plur
+NOUN	Case=Ins	Definite=Def	Number=Plur
+AUX	Mood=Imp	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=2
+NOUN	Case=Erg	Definite=Ind
+AUX	Aspect=Prog	Case=Ins	Definite=Def	Mood=Ind	Number=Plur	Number[abs]=Sing	Person[abs]=3
+AUX	Case=Erg	Definite=Def	Mood=Ind	Number=Plur	Number[abs]=Sing	Number[erg]=Plur	Person[abs]=3	Person[erg]=3
+PRON	Case=Gen
+VERB	Aspect=Prog	Case=Ins	Definite=Def	Mood=Ind	Number=Plur	Number[abs]=Sing	Number[dat]=Sing	Person[abs]=3	Person[dat]=3
+NOUN	Animacy=Anim	Case=Gen	Definite=Ind
+NOUN	Case=Loc	Definite=Ind
+VERB	Aspect=Prog	Mood=Cnd	Number[abs]=Sing	Person[abs]=3
+DET	Case=Erg	Definite=Ind
+VERB	Case=Dat	Definite=Def	Number=Sing
+ADJ	Case=Abs	Definite=Ind	Degree=Cmp
+NOUN	Case=Com	Definite=Ind
+PROPN	Animacy=Inan	Case=Loc	Definite=Def	Number=Sing
+AUX	Case=Loc	VerbForm=Part
+AUX	Mood=Ind	Number[abs]=Plur	Number[dat]=Plur	Number[erg]=Sing	Person[abs]=3	Person[dat]=3	Person[erg]=3
+AUX	Mood=Pot	Number[abs]=Plur	Number[erg]=Sing	Person[abs]=3	Person[erg]=2
+ADV	Case=Abs	Definite=Def	Number=Sing
+AUX	Mood=Ind	Number[abs]=Plur	Number[dat]=Plur	Number[erg]=Sing	Person[abs]=3	Person[dat]=3	Person[erg]=1
+AUX	Case=Abs	Definite=Def	Mood=Pot	Number=Sing	Number[abs]=Sing	Person[abs]=3
+ADV	Degree=Sup
+PROPN	Animacy=Inan	Case=Gen	Definite=Def	Number=Sing
+VERB	Aspect=Prog	Mood=Imp	Number[abs]=Plur	Person[abs]=2
+NOUN	Case=Lat	Definite=Def	Number=Sing
+AUX	VerbForm=Inf
+AUX	Case=Abs	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Sing	Number[erg]=Plur	Person[abs]=3	Person[erg]=3
+NOUN	Case=Com	Definite=Def	Number=Plur
+AUX	Mood=Cnd	Number[abs]=Sing	Number[dat]=Sing	Person[abs]=3	Person[dat]=1
+NOUN	Animacy=Inan	Case=Erg	Definite=Ind
+AUX	Case=Abs	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=3
+ADV	Case=Ine
+AUX	Mood=Sub	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=1
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Number[dat]=Sing	Number[erg]=Sing	Person[abs]=3	Person[dat]=3	Person[erg]=3
+DET	Case=Loc	Definite=Def	Number=Plur
+AUX	Mood=Ind	Number[abs]=Plur	Number[dat]=Sing	Number[erg]=Plur	Person[abs]=3	Person[dat]=3	Person[erg]=3
+NOUN	Animacy=Anim	Case=Loc	Definite=Def	Number=Plur
+PROPN	Definite=Def	Number=Sing
+AUX	Mood=Pot	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=2
+PROPN	Animacy=Inan	Case=Dat	Definite=Def	Number=Sing
+AUX	Mood=Sub	Number[abs]=Sing	Number[dat]=Sing	Number[erg]=Plur	Person[abs]=3	Person[dat]=3	Person[erg]=3
+SYM	Case=Abs	Definite=Def	Number=Sing
+DET	Case=Ine	Number=Sing
+AUX	Mood=Ind	Number[abs]=Sing	Number[erg]=Plur	Person[abs]=3	Person[erg]=2
+AUX	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Number[erg]=Plur	Person[abs]=3	Person[erg]=3
+AUX	Mood=Sub	Number[abs]=Sing	Person[abs]=3
+VERB	Case=Ins	Definite=Def	Number=Sing
+AUX	Case=Abs	Definite=Def	Mood=Ind	Number=Plur	Number[abs]=Plur	Person[abs]=3
+AUX	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Person[abs]=2	Polite[abs]=Infm
+VERB	Aspect=Prog	Mood=Sub	Number[abs]=Sing	Person[abs]=1
+NOUN	Animacy=Inan	Definite=Def	Number=Sing
+AUX	Mood=Ind	Number[abs]=Sing	Number[dat]=Plur	Number[erg]=Sing	Person[abs]=3	Person[dat]=3	Person[erg]=3
+VERB	Aspect=Prog	Mood=Cnd	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=3
+AUX	Mood=Sub	Number[abs]=Sing	Number[erg]=Plur	Person[abs]=3	Person[erg]=3
+VERB	Case=Cau	Definite=Def	Number=Sing
+AUX	Mood=Cnd	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=1
+AUX	Mood=Cnd	Number[abs]=Sing	Person[abs]=3
+AUX	Aspect=Prog	Case=Abs	Definite=Def	Mood=Ind	Number=Plur	Number[abs]=Plur	Person[abs]=3
+AUX	Mood=Pot	Number[abs]=Sing	Number[erg]=Plur	Person[abs]=2	Person[erg]=1
+AUX	Mood=Sub	Number[abs]=Plur	Number[erg]=Plur	Person[abs]=3	Person[erg]=1
+ADJ	Case=All	Definite=Ind
+ADJ	Case=Ins	Definite=Def	Number=Plur
+NOUN	Case=Gen	Definite=Ind
+PROPN	Case=Loc	Definite=Def	Number=Plur
+VERB	Case=Ine	Definite=Def	Number=Sing	VerbForm=Part
+AUX	Gender=Fem	Mood=Ind	Number[abs]=Sing	Person[abs]=1	Polite=Infm
+NOUN	Animacy=Inan	Case=Ins	Definite=Def	Number=Plur
+VERB	Aspect=Prog	Gender=Fem	Mood=Cnd	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=1	Polite=Infm
+NOUN	Animacy=Inan	Case=Dat	Definite=Ind
+NOUN	Animacy=Anim	Case=Ine	Definite=Ind
+NOUN	Definite=Def	Number=Sing
+AUX	Case=Loc	Mood=Ind	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=3
+AUX	Mood=Ind	Number[abs]=Sing	Number[dat]=Plur	Number[erg]=Sing	Person[abs]=3	Person[dat]=3	Person[erg]=1
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Number[dat]=Sing	Number[erg]=Plur	Person[abs]=3	Person[dat]=3	Person[erg]=1
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Number[dat]=Sing	Person[abs]=3	Person[dat]=3
+AUX	Mood=Ind	Number[abs]=Plur	Number[dat]=Sing	Number[erg]=Sing	Person[abs]=3	Person[dat]=3	Person[erg]=3
+PRON	Case=Loc	Definite=Ind
+AUX	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=1
+AUX	Mood=Pot	Number[abs]=Sing	Number[erg]=Plur	Person[abs]=3	Person[erg]=3
+ADJ	Case=Erg	Definite=Def	Degree=Sup	Number=Sing
+ADJ	Case=Ben	Definite=Def	Number=Sing
+AUX	Mood=Ind	Number[abs]=Plur	Number[dat]=Sing	Number[erg]=Sing	Person[abs]=3	Person[dat]=1	Person[erg]=3
+AUX	Aspect=Imp	VerbForm=Inf
+PROPN	Case=Abs	Definite=Ind	Number=Sing
+NOUN	Animacy=Inan	Case=Cau	Definite=Def	Number=Plur
+DET	Case=Com	Definite=Def	Number=Plur
+AUX	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Person[abs]=2
+DET	Case=All	Definite=Def	Number=Sing
+NOUN	Case=Loc	Definite=Def	Number=Plur
+AUX	Mood=Cnd	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=3
+ADJ	Case=Par	Definite=Ind	Degree=Sup
+AUX	Mood=Cnd	Number[abs]=Sing	Number[dat]=Sing	Number[erg]=Sing	Person[abs]=3	Person[dat]=3	Person[erg]=3
+AUX	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Number[dat]=Plur	Person[abs]=3	Person[dat]=3
+DET	Case=Com	Definite=Ind
+VERB	Case=Abs	Definite=Ind	VerbForm=Part
+AUX	Mood=Ind	Number[abs]=Plur	Number[dat]=Sing	Person[abs]=3	Person[dat]=2
+AUX	Case=Abs
+PRON	Case=Abs	Definite=Def	Number=Plur	Person=1
+AUX	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Person[abs]=1
+AUX	Mood=Pot	Number[abs]=Plur	Number[dat]=Sing	Number[erg]=Sing	Person[abs]=3	Person[dat]=3	Person[erg]=3
+ADJ	Case=Ess	Definite=Ind
+ADJ	Case=Abs	Definite=Def	Degree=Abs	Number=Sing
+AUX	Case=Cau	Definite=Def	Number=Sing
+AUX	Mood=Ind	Number[abs]=Sing	Number[dat]=Sing	Person[abs]=3	Person[dat]=2
+AUX	Mood=Ind	Number[abs]=Sing	Number[dat]=Sing	Number[erg]=Sing	Person[abs]=3	Person[dat]=3	Person[erg]=1
+AUX	Mood=Ind	Number[abs]=Sing	Number[dat]=Plur	Person[abs]=3	Person[dat]=1
+ADV	Degree=Abs
+VERB	Case=Dat	Definite=Def	Number=Plur	VerbForm=Part
+AUX	Mood=Imp	Number[abs]=Sing	Person[abs]=2
+AUX	Mood=Ind	Number[abs]=Sing	Person[abs]=2
+AUX	Case=Abl
+AUX	Mood=Cnd	Number[abs]=Plur	Number[erg]=Plur	Person[abs]=3	Person[erg]=1
+AUX	Mood=Ind	Number[abs]=Sing	Number[dat]=Plur	Number[erg]=Plur	Person[abs]=3	Person[dat]=1	Person[erg]=3
+ADV	Case=Abs	Definite=Ind
+AUX	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=2
+NOUN	Animacy=Inan	Case=Com	Definite=Ind
+PRON	Case=Gen	Definite=Def	Number=Plur	Person=1
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Number[erg]=Plur	Person[abs]=3	Person[erg]=1	Polarity=Pos
+VERB	Aspect=Prog	Case=Abs	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Sing	Person[abs]=3
+AUX	Aspect=Prog	Mood=Ind	Number[abs]=Plur	Number[erg]=Sing	Person[abs]=3	Person[erg]=3
+AUX	Mood=Sub	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=3
+AUX	Case=Abs	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=1
+AUX	Aspect=Prog	Gender=Masc	Mood=Ind	Number[abs]=Sing	Person[abs]=3	Polite=Infm
+VERB	Aspect=Prog	Gender=Masc	Mood=Ind	Number[abs]=Plur	Number[erg]=Sing	Person[abs]=3	Person[erg]=2	Polite=Infm
+AUX	Case=Par	Definite=Ind	VerbForm=Part
+VERB	Case=Erg	Definite=Def	Number=Sing	VerbForm=Part
+ADJ	Case=Ben	Definite=Ind
+NOUN	Animacy=Anim	Case=Com	Definite=Def	Number=Plur
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Number[erg]=Plur	Person[abs]=3	Person[erg]=3	Polarity=Pos
+AUX	Mood=Ind	Number[abs]=Sing	Number[dat]=Sing	Number[erg]=Plur	Person[abs]=3	Person[dat]=1	Person[erg]=3
+NOUN	Animacy=Inan	Case=All	Definite=Def	Degree=Cmp	Number=Sing
+NOUN	Animacy=Anim	Case=All	Definite=Ind
+AUX	Mood=Cnd	Number[abs]=Plur	Person[abs]=3
+ADJ	Case=Erg	Definite=Ind
+AUX	Mood=Ind	Number[abs]=Sing	Number[dat]=Sing	Person[abs]=3	Person[dat]=1
+VERB	Aspect=Prog	Mood=Cnd	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=3	Polarity=Pos
+PRON	Case=Dat	Definite=Def	Number=Plur	Person=1
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Number[dat]=Plur	Person[abs]=3	Person[dat]=1
+AUX	Mood=Ind	Number[abs]=Sing	Number[dat]=Plur	Number[erg]=Sing	Person[abs]=3	Person[dat]=1	Person[erg]=2
+ADJ	Case=All	Definite=Def	Number=Plur
+ADJ	Case=Ins	Definite=Def	Number=Sing
+ADJ	Case=Com	Definite=Def	Number=Sing
+NOUN	Case=Abl	Definite=Def	Number=Plur
+AUX	Mood=Ind	Number[abs]=Sing	Person[abs]=2	Polite[abs]=Infm
+NOUN	Animacy=Anim	Case=Com	Definite=Def	Number=Sing
+AUX	Aspect=Prog	Mood=Ind	Number[abs]=Plur	Person[abs]=2
+AUX	Case=Abs	Definite=Def	Mood=Ind	Number=Plur	Number[abs]=Plur	Number[erg]=Plur	Person[abs]=3	Person[erg]=3
+VERB	Aspect=Prog	Case=Abs	Definite=Def	Mood=Ind	Number=Plur	Number[abs]=Sing	Number[erg]=Plur	Person[abs]=3	Person[erg]=3
+NOUN	Animacy=Anim	Case=Ben	Definite=Def	Number=Plur
+VERB	Aspect=Prog	Case=Abs	Definite=Def	Mood=Ind	Number=Plur	Number[abs]=Plur	Number[erg]=Plur	Person[abs]=3	Person[erg]=3
+AUX	Mood=Ind	Number[abs]=Plur	Number[erg]=Sing	Person[abs]=1	Person[erg]=3
+PRON	Case=Com	Definite=Ind
+VERB	Case=Abs	Definite=Def	Number=Plur
+ADJ	Case=Abs	Definite=Def	Degree=Cmp	Number=Plur
+AUX	Case=Loc	Mood=Ind	Number[abs]=Sing	Person[abs]=3
+AUX	Aspect=Prog	Mood=Ind	Number[abs]=Plur	Person[abs]=1
+DET	Case=Abl	Definite=Def	Number=Plur
+AUX	Mood=Ind	Number[abs]=Sing	Number[dat]=Plur	Number[erg]=Plur	Person[abs]=3	Person[dat]=3	Person[erg]=1
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Number[dat]=Sing	Person[abs]=3	Person[dat]=1
+VERB	Aspect=Prog	Gender=Masc	Mood=Ind	Number[abs]=Plur	Number[erg]=Sing	Person[abs]=3	Person[erg]=3	Polite=Infm
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=2
+AUX	Case=Erg	Definite=Def	Mood=Ind	Number=Plur	Number[abs]=Sing	Number[dat]=Sing	Number[erg]=Plur	Person[abs]=3	Person[dat]=3	Person[erg]=3
+PRON	Case=Gen	Definite=Ind
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Number[dat]=Sing	Number[erg]=Sing	Person[abs]=3	Person[dat]=3	Person[erg]=1
+PROPN	Case=Ess	Definite=Def	Number=Sing
+NOUN	Animacy=Inan	Case=Ins	Definite=Def	Number=Sing
+AUX	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Number[dat]=Sing	Person[abs]=3	Person[dat]=2
+PROPN	Case=Ine	Definite=Def	Number=Plur
+ADJ	Case=Abs	Definite=Def	Degree=Abs	Number=Plur
+AUX	Case=Abs	Definite=Def	Mood=Ind	Number=Plur	Number[abs]=Plur	Number[erg]=Plur	Person[abs]=1	Person[erg]=3
+AUX	Mood=Pot	Number[abs]=Sing	Number[erg]=Plur	Person[abs]=3	Person[erg]=1
+NOUN	Animacy=Anim	Case=Ins	Definite=Ind
+NOUN	Case=Ess	Definite=Ind
+ADJ	Case=Ine	Definite=Def	Degree=Sup	Number=Sing
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Plur	Number[dat]=Sing	Number[erg]=Sing	Person[abs]=3	Person[dat]=3	Person[erg]=1
+ADJ	Case=Com	Definite=Def	Degree=Sup	Number=Plur
+SYM	Case=Loc	Definite=Def	Number=Sing
+NOUN	Animacy=Inan	Case=Lat	Definite=Def	Number=Sing
+VERB	Aspect=Prog	Case=Abl	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Plur	Person[abs]=1
+NOUN	Animacy=Inan	Case=All	Definite=Ind
+AUX	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Number[erg]=Plur	Person[abs]=3	Person[erg]=2
+AUX	Gender=Fem	Mood=Ind	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=1	Polite=Infm
+VERB	Aspect=Prog	Gender=Fem	Mood=Ind	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=1	Polite=Infm
+AUX	Gender=Fem	Mood=Ind	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=3	Polite=Infm
+VERB	Aspect=Prog	Case=Abs	Definite=Def	Mood=Ind	Number=Plur	Number[abs]=Plur	Person[abs]=3
+DET	Case=Abs	Definite=Ind	Number=Plur
+AUX	Case=Dat	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Sing	Person[abs]=3
+AUX	Aspect=Prog	Mood=Ind	Number[abs]=Plur	Number[erg]=Sing	Person[abs]=1	Person[erg]=3
+AUX	Case=Ine
+DET	Definite=Ind
+NOUN	Case=Ine	Definite=Ind
+VERB	Aspect=Perf	VerbForm=Inf
+AUX	Aspect=Prog	Mood=Ind	Number[abs]=Plur	Number[erg]=Sing	Person[abs]=3	Person[erg]=1
+AUX	Mood=Ind	Number[abs]=Sing	Number[dat]=Sing	Number[erg]=Sing	Person[abs]=3	Person[dat]=2	Person[erg]=3
+VERB	Aspect=Prog	Mood=Pot	Number[abs]=Sing	Person[abs]=3	Polarity=Pos
+AUX	Mood=Ind	Number[abs]=Plur	Number[erg]=Plur	Person[abs]=1	Person[erg]=3
+AUX	Aspect=Prog	Case=Abs	Definite=Def	Mood=Ind	Number=Plur	Number[abs]=Plur	Person[abs]=1
+PRON	Case=Gen	Definite=Def	Number=Sing
+ADJ	Case=Dat	Definite=Def	Degree=Sup	Number=Sing
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Number[erg]=Plur	Person[abs]=3	Person[erg]=2
+PRON	Case=Erg	Definite=Def	Number=Sing	Person=2
+AUX	Gender[dat]=Masc	Mood=Ind	Number[abs]=Sing	Number[dat]=Sing	Person[abs]=3	Person[dat]=2	Polite[dat]=Infm
+DET	Case=Ine	Definite=Ind	Number=Plur
+NOUN	Animacy=Anim	Case=Ine	Definite=Def	Number=Plur
+AUX	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Number[erg]=Plur	Person[abs]=3	Person[erg]=1
+PROPN	Case=All	Definite=Def	Number=Plur
+AUX	Aspect=Prog	Case=Erg	Definite=Def	Mood=Ind	Number=Plur	Number[abs]=Plur	Person[abs]=3
+AUX	Gender=Masc	Mood=Ind	Number[abs]=Sing	Person[abs]=3	Polite=Infm
+NOUN	Animacy=Anim	Case=Ben	Definite=Def	Number=Sing
+VERB	Aspect=Prog	Case=Erg	Definite=Def	Mood=Ind	Number=Plur	Number[abs]=Plur	Person[abs]=1
+AUX	Mood=Ind	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=1	Person[erg]=3
+AUX	_
+ADJ	Case=Cau	Definite=Def	Number=Sing
+AUX	Gender[dat]=Masc	Mood=Ind	Number[abs]=Sing	Number[dat]=Sing	Number[erg]=Sing	Person[abs]=3	Person[dat]=2	Person[erg]=1	Polite[dat]=Infm
+PROPN	Animacy=Anim	Case=Gen	Definite=Def	Number=Sing
+VERB	Aspect=Prog	Gender=Masc	Mood=Ind	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=3	Polite=Infm
+AUX	Mood=Cnd	Number[abs]=Sing	Number[erg]=Plur	Person[abs]=3	Person[erg]=1
+AUX	Mood=Sub	Number[abs]=Plur	Number[erg]=Sing	Person[abs]=3	Person[erg]=3
+AUX	Mood=Imp	Number[abs]=Sing	Number[dat]=Sing	Number[erg]=Sing	Person[abs]=3	Person[dat]=1	Person[erg]=2
+NOUN	Animacy=Anim	Case=Ess	Definite=Ind
+PRON	Case=Ben	Definite=Ind
+NOUN	Case=Cau	Definite=Def	Number=Plur
+VERB	Case=Ess	Definite=Ind	VerbForm=Part
+AUX	Mood=Imp	Number[abs]=Sing	Number[erg]=Plur	Person[abs]=3	Person[erg]=2
+DET	Case=All	Definite=Ind
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Plur	Number[erg]=Sing	Person[abs]=3	Person[erg]=1	Polarity=Pos
+ADJ	Case=All	Definite=Def	Number=Sing
+AUX	Mood=Cnd	Number[abs]=Sing	Number[erg]=Plur	Person[abs]=3	Person[erg]=3
+AUX	Mood=Imp	Number[abs]=Sing	Number[dat]=Sing	Number[erg]=Sing	Person[abs]=3	Person[dat]=3	Person[erg]=2
+NOUN	Animacy=Anim	Case=Par	Definite=Ind
+AUX	Case=Gen	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Sing	Person[abs]=3
+VERB	Aspect=Prog	Mood=Cnd	Number[abs]=Sing	Number[erg]=Plur	Person[abs]=3	Person[erg]=1
+VERB	Aspect=Prog	Mood=Pot	Number[abs]=Sing	Number[dat]=Sing	Number[erg]=Sing	Person[abs]=3	Person[dat]=3	Person[erg]=3
+AUX	Aspect=Prog	Mood=Ind	Number[abs]=Plur	Person[abs]=3	Polarity=Pos
+NOUN	Case=Abl	Definite=Ind
+ADV	Case=Par	Definite=Ind	Degree=Sup
+VERB	Aspect=Prog	Mood=Imp	Number[abs]=Sing	Person[abs]=2	Polite[abs]=Infm
+ADJ	Case=Ben	Definite=Def	Number=Plur
+AUX	Gender[erg]=Fem	Mood=Imp	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=1	Person[erg]=2	Polite[erg]=Infm
+VERB	Aspect=Prog	Case=Ine	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Sing	Number[dat]=Sing	Person[abs]=3	Person[dat]=3
+VERB	Aspect=Prog	Case=Abs	Definite=Def	Mood=Pot	Number=Sing	Number[abs]=Sing	Person[abs]=3
+AUX	Mood=Ind	Number[abs]=Sing	Number[erg]=Plur	Person[abs]=2	Person[erg]=3
+VERB	Aspect=Prog	Gender=Fem	Mood=Ind	Number[abs]=Plur	Number[erg]=Plur	Person[abs]=3	Person[erg]=1	Polarity=Pos	Polite=Infm
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=1	Person[erg]=2
+AUX	Case=Loc	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Sing	Number[erg]=Plur	Person[abs]=3	Person[erg]=3
+AUX	Aspect=Prog	Mood=Ind	Number[abs]=Plur	Number[erg]=Plur	Person[abs]=3	Person[erg]=1
+AUX	Gender=Fem	Mood=Ind	Number[abs]=Sing	Person[abs]=3	Polite=Infm
+AUX	Mood=Ind	Number[abs]=Plur	Number[dat]=Sing	Person[abs]=3	Person[dat]=1
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Plur	Number[erg]=Sing	Person[abs]=3	Person[erg]=1
+VERB	Case=Erg	Definite=Def	Number=Plur	VerbForm=Part
+NOUN	Case=Abs	Definite=Ind	Number=Sing
+ADJ	Case=Abl	Definite=Ind
+ADV	Degree=Cmp
+AUX	Aspect=Prog	Mood=Cnd	Number[abs]=Plur	Number[erg]=Sing	Person[abs]=3	Person[erg]=3
+ADV	Case=Abs	Definite=Def	Number=Plur
+ADJ	Animacy=Inan	Case=Abs	Definite=Def	Number=Plur
+NOUN	Case=Ben	Definite=Def	Number=Plur
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Plur	Number[dat]=Sing	Person[abs]=3	Person[dat]=3
+NOUN	Case=Ine
+VERB	Aspect=Prog	Case=Abs	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=3
+PRON	Case=Gen	Definite=Def	Number=Sing	Person=2
+VERB	Aspect=Prog	Mood=Imp	Number[abs]=Sing	Person[abs]=2
+AUX	Mood=Pot	Number[abs]=Sing	Number[dat]=Sing	Number[erg]=Sing	Person[abs]=3	Person[dat]=3	Person[erg]=3
+VERB	Aspect=Prog	Case=Abs	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=2
+PRON	Case=Gen	Definite=Def	Number=Sing	Person=1
+AUX	Mood=Ind	Number[abs]=Plur	Number[erg]=Sing	Person[abs]=2	Person[erg]=3
+NOUN	Animacy=Anim	Case=Ins	Definite=Def	Number=Plur
+AUX	Mood=Ind	Number[abs]=Sing	Number[dat]=Plur	Number[erg]=Plur	Person[abs]=3	Person[dat]=1	Person[erg]=2
+ADJ	Case=Gen	Definite=Def	Degree=Sup	Number=Sing
+AUX	Case=Abs	Definite=Def	Mood=Ind	Number=Plur	Number[abs]=Sing	Number[dat]=Sing	Number[erg]=Plur	Person[abs]=3	Person[dat]=1	Person[erg]=3
+VERB	Aspect=Prog	Case=Abs	Definite=Def	Mood=Ind	Number=Plur	Number[abs]=Plur	Number[dat]=Sing	Person[abs]=3	Person[dat]=3
+VERB	Case=Abs	Definite=Def	Degree=Cmp	Number=Sing	VerbForm=Part
+AUX	Gender[erg]=Masc	Mood=Ind	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=2	Polite[erg]=Infm
+AUX	Mood=Pot	Number[abs]=Plur	Number[erg]=Plur	Person[abs]=3	Person[erg]=1
+DET	Case=Ben	Definite=Def	Number=Sing
+NOUN	Animacy=Anim	Case=Abl	Definite=Ind
+NOUN	Animacy=Inan	Case=Cau	Definite=Def	Number=Sing
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Number[dat]=Plur	Number[erg]=Plur	Person[abs]=3	Person[dat]=3	Person[erg]=1
+DET	Case=All	Definite=Def	Number=Plur
+DET	Case=All	Number=Sing
+PROPN	Case=Ins	Definite=Def	Number=Sing
+NOUN	Animacy=Inan	Case=Abs	Definite=Ind	Degree=Cmp
+NOUN	Case=Dat	Definite=Ind
+AUX	Aspect=Prog	Mood=Ind	Number[abs]=Plur	Number[erg]=Plur	Person[abs]=3	Person[erg]=3
+AUX	Mood=Cnd	Number[abs]=Plur	Number[erg]=Plur	Person[abs]=3	Person[erg]=3	Polarity=Pos
+AUX	Case=Abs	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Sing	Number[dat]=Sing	Number[erg]=Sing	Person[abs]=3	Person[dat]=1	Person[erg]=3
+AUX	Mood=Cnd	Number[abs]=Plur	Number[erg]=Sing	Person[abs]=3	Person[erg]=1
+VERB	Aspect=Prog	Gender=Masc	Mood=Ind	Number[abs]=Sing	Person[abs]=3	Polite=Infm
+NOUN	Case=All	Definite=Ind
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Person[abs]=2	Polite[abs]=Infm
+AUX	Aspect=Prog	Case=Gen	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Sing	Person[abs]=3
+AUX	Mood=Pot	Number[abs]=Plur	Number[erg]=Plur	Person[abs]=3	Person[erg]=3
+PRON	Case=Cau
+PROPN	Animacy=Inan	Case=Abs	Definite=Def	Number=Sing
+AUX	Case=Abs	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Sing	Number[dat]=Sing	Person[abs]=3	Person[dat]=3
+AUX	Mood=Cnd	Number[abs]=Plur	Number[erg]=Sing	Person[abs]=3	Person[erg]=3
+AUX	Case=Abs	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Sing	Number[dat]=Sing	Number[erg]=Sing	Person[abs]=3	Person[dat]=3	Person[erg]=3
+AUX	Mood=Ind	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=1	Person[erg]=2
+NOUN	Animacy=Inan	Case=Abs	Definite=Def	Degree=Cmp	Number=Sing
+PRON	Case=Abs	Definite=Def	Number=Sing	Person=1
+ADJ	Case=Loc	Definite=Def	Degree=Sup	Number=Sing
+ADJ	Case=Gen	Definite=Ind
+ADJ	Case=Com	Definite=Ind
+AUX	Mood=Sub	Number[abs]=Plur	Person[abs]=3
+NUM	Case=Com	Definite=Ind	NumType=Card
+AUX	Mood=Ind	Number[abs]=Sing	Number[erg]=Plur	Person[abs]=1	Person[erg]=3
+AUX	Case=Erg	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Sing	Person[abs]=3
+AUX	Case=Erg	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=3
+VERB	Mood=Ind	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=3
+VERB	Aspect=Prog	Mood=Sub	Number[abs]=Sing	Person[abs]=3
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Plur	Number[erg]=Plur	Person[abs]=3	Person[erg]=3	Polarity=Pos
+AUX	Mood=Cnd	Number[abs]=Sing	Person[abs]=1
+AUX	Mood=Ind	Number[abs]=Sing	Number[dat]=Plur	Number[erg]=Plur	Person[abs]=3	Person[dat]=2	Person[erg]=1
+AUX	Case=Abs	Definite=Def	Mood=Ind	Number=Plur	Number[abs]=Sing	Number[erg]=Plur	Person[abs]=3	Person[erg]=3
+AUX	Case=Abs	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Plur	Number[erg]=Sing	Person[abs]=3	Person[erg]=3
+NOUN	Animacy=Anim	Case=Loc	Definite=Def	Number=Sing
+AUX	Aspect=Prog	Gender=Masc	Mood=Ind	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=1	Polite=Infm
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Number[dat]=Sing	Number[erg]=Sing	Person[abs]=3	Person[dat]=2	Person[erg]=3
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Plur	Number[erg]=Sing	Person[abs]=3	Person[erg]=2
+AUX	Mood=Ind	Number[abs]=Plur	Number[dat]=Plur	Number[erg]=Sing	Person[abs]=3	Person[dat]=2	Person[erg]=1
+VERB	Aspect=Prog	Case=Dat	Definite=Def	Mood=Ind	Number=Plur	Number[abs]=Plur	Number[erg]=Plur	Person[abs]=3	Person[erg]=3
+ADJ	Case=Com	Definite=Def	Number=Plur
+NOUN	Animacy=Anim	Case=Ins	Definite=Def	Number=Sing
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=2	Polarity=Pos
+ADJ	Case=Abs	Definite=Ind	Degree=Abs
+VERB	Aspect=Prog	Case=Ine	Definite=Def	Mood=Sub	Number=Sing	Number[abs]=Sing	Number[dat]=Sing	Person[abs]=3	Person[dat]=3
+AUX	Aspect=Prog	Gender=Fem	Mood=Ind	Number[abs]=Sing	Person[abs]=3	Polite=Infm
+AUX	Case=Abs	Definite=Ind	VerbForm=Part
+AUX	Aspect=Prog	Mood=Pot	Number[abs]=Sing	Person[abs]=3
+PRON	Case=Ine	Definite=Def	Number=Plur	Person=1
+AUX	Mood=Imp	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=1	Person[erg]=2
+NOUN	Case=Ine	Definite=Ind	Degree=Cmp
+AUX	Mood=Ind	Number[abs]=Plur	Number[erg]=Sing	Person[abs]=3	Person[erg]=3	Polarity=Pos
+AUX	Mood=Pot	Number[abs]=Plur	Person[abs]=1
+AUX	Mood=Sub	Number[abs]=Sing	Number[dat]=Sing	Number[erg]=Sing	Person[abs]=3	Person[dat]=3	Person[erg]=3
+DET	Case=Abl	Number=Sing
+AUX	Mood=Ind	Number[abs]=Plur	Number[dat]=Sing	Number[erg]=Plur	Person[abs]=3	Person[dat]=1	Person[erg]=3
+VERB	Case=Ins	Definite=Def	Number=Plur	VerbForm=Part
+ADV	Case=All	Definite=Def	Number=Sing
+VERB	Case=Loc	Definite=Def	Number=Plur	VerbForm=Part
+VERB	Aspect=Prog	Case=Abs	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Sing	Number[dat]=Sing	Number[erg]=Sing	Person[abs]=3	Person[dat]=3	Person[erg]=3
+NOUN	Animacy=Anim	Case=Abl	Definite=Def	Number=Plur
+NOUN	Case=Ben	Definite=Def	Number=Sing
+VERB	Case=Loc	Definite=Ind	VerbForm=Part
+AUX	Mood=Ind	Number[abs]=Plur	Number[dat]=Plur	Number[erg]=Plur	Person[abs]=3	Person[dat]=3	Person[erg]=3
+DET	Case=Abl	Definite=Ind
+PRON	Case=Com
+NOUN	Animacy=Anim	Case=Com	Definite=Ind
+AUX	Case=Abs	Definite=Ind
+VERB	Aspect=Prog	Gender=Masc	Mood=Ind	Number[abs]=Plur	Person[abs]=3	Polite=Infm
+DET	Case=Gen	Definite=Ind
+VERB	Aspect=Prog	Mood=Imp	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=2
+PROPN	Animacy=Inan	Case=Com	Definite=Def	Number=Sing
+ADV	Case=Lat
+VERB	Aspect=Prog	Mood=Imp	Number[abs]=Sing	Number[dat]=Sing	Number[erg]=Sing	Person[abs]=3	Person[dat]=1	Person[erg]=2
+PRON	Case=Gen	Definite=Def	Number=Sing	Person=2	Polite=Infm
+AUX	Mood=Pot	Number[abs]=Sing	Number[erg]=Plur	Person[abs]=3	Person[erg]=2
+ADJ	Case=Cau	Definite=Def	Number=Plur
+AUX	Case=All
+VERB	Aspect=Prog	Case=Abs	Definite=Def	Mood=Ind	Number=Plur	Number[abs]=Plur	Number[dat]=Plur	Person[abs]=3	Person[dat]=3
+VERB	Aspect=Prog	Gender[dat]=Masc	Mood=Ind	Number[abs]=Sing	Number[dat]=Sing	Number[erg]=Plur	Person[abs]=3	Person[dat]=2	Person[erg]=1	Polite[dat]=Infm
+ADV	Case=Ine	Definite=Def	Number=Sing
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=2	Polite[erg]=Infm
+AUX	Mood=Ind	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=2	Person[erg]=1
+AUX	Case=Dat	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=3
+AUX	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Person[abs]=3	Polarity=Pos
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Number[dat]=Plur	Number[erg]=Sing	Person[abs]=3	Person[dat]=2	Person[erg]=1
+PRON	Case=Erg	Definite=Def	Number=Sing	Person=1
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Number[dat]=Sing	Number[erg]=Plur	Person[abs]=3	Person[dat]=3	Person[erg]=3
+AUX	Mood=Ind	Number[abs]=Plur	Number[dat]=Plur	Number[erg]=Plur	Person[abs]=3	Person[dat]=1	Person[erg]=3
+AUX	Aspect=Prog	Case=Erg	Definite=Def	Mood=Ind	Number=Plur	Number[abs]=Plur	Person[abs]=1
+AUX	Mood=Ind	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=2	Polite[erg]=Infm
+AUX	Aspect=Prog	Mood=Cnd	Number[abs]=Sing	Person[abs]=2
+AUX	Mood=Cnd	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=2
+AUX	Aspect=Prog	Mood=Ind	Number[abs]=Plur	Number[erg]=Sing	Person[abs]=3	Person[erg]=2
+VERB	Aspect=Prog	Mood=Imp	Number[abs]=Sing	Number[erg]=Plur	Person[abs]=3	Person[erg]=1
+ADJ	Animacy=Inan	Case=Dat	Definite=Def	Number=Plur
+NOUN	Case=Ine	Definite=Def	Degree=Cmp	Number=Sing
+ADV	VerbForm=Part
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Plur	Number[erg]=Plur	Person[abs]=3	Person[erg]=1	Polarity=Pos
+NOUN	Case=Gen
+ADP	Animacy=Anim	Case=Ins	Definite=Def	Number=Plur
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Plur	Person[abs]=2
+NOUN	Case=Abl
+ADP	Animacy=Inan	Definite=Ind
+NOUN	Case=Ins
+ADP	Case=Abs	Definite=Ind
+PROPN	Case=Gen
+ADP	Case=Abs	Definite=Def	Number=Sing
+ADP	Animacy=Inan	Case=Loc	Definite=Def	Number=Sing
+ADP	Animacy=Inan	Case=Ine
+ADP	Animacy=Inan	Case=Ins	Definite=Def	Number=Plur
+PRON	_
+ADP	Case=Abl	Definite=Def	Number=Sing	Person=1
+ADP	Animacy=Inan	Case=Loc	Definite=Ind
+NOUN	Case=Dat
+DET	Case=Ins
+ADP	Case=Abs	Definite=Def	Number=Plur
+VERB	Aspect=Prog	Case=Dat	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=3
+DET	Case=Gen
+ADP	Case=Abl	Definite=Def	Number=Plur
+ADP	Definite=Def	Number=Sing
+ADP	Animacy=Inan	Definite=Def	Number=Sing
+ADP	Case=Ine	Definite=Def	Number=Plur
+ADP	Animacy=Inan	Case=Ine	Definite=Def	Number=Plur
+ADP	Animacy=Inan	Case=Abl	Definite=Def	Number=Sing
+NOUN	Case=Erg
+ADP	Definite=Ind
+PROPN	Case=Gen	Definite=Def	Number=Plur
+NOUN	Case=All
+ADP	Animacy=Inan	Case=Ine	Definite=Def	Number=Sing
+ADP	Animacy=Inan	Case=Abs	Definite=Def	Number=Sing
+ADP	_
+ADP	Animacy=Inan	Case=All	Definite=Def	Number=Sing
+ADP	Animacy=Inan	Case=Loc	Definite=Def	Number=Plur
+ADP	Animacy=Inan
+ADP	Case=Ine	Definite=Def	Number=Sing
+ADP	Definite=Def	Number=Plur
+NOUN	Case=Com
+ADP	Case=All	Definite=Def	Number=Plur
+ADP	Case=Ine
+AUX	Gender=Masc	Mood=Ind	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=1	Polite=Infm
+VERB	Case=Abl	Definite=Def	Number=Plur	VerbForm=Part
+ADP	Case=Loc	Definite=Def	Number=Sing
+ADP	Case=Loc	Definite=Def	Number=Plur
+AUX	Case=Com	Definite=Def	Mood=Ind	Number=Plur	Number[abs]=Plur	Number[dat]=Sing	Number[erg]=Plur	Person[abs]=3	Person[dat]=3	Person[erg]=3
+ADP	Case=Loc	Definite=Def	Number=Plur	Person=3
+DET	Case=Com
+ADP	Animacy=Anim	Case=Loc	Definite=Def	Number=Plur
+AUX	Case=Abs	Definite=Def	Mood=Ind	Number=Plur	Number[abs]=Sing	Number[dat]=Sing	Number[erg]=Plur	Person[abs]=3	Person[dat]=3	Person[erg]=3
+AUX	Aspect=Prog	Case=Abs	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Sing	Person[abs]=3
+ADJ	Case=Dat
+ADP	Case=Abs
+AUX	Mood=Ind	Number[abs]=Plur	Number[dat]=Sing	Number[erg]=Plur	Person[abs]=3	Person[dat]=2	Person[erg]=1
+VERB	Case=Com	Definite=Def	Number=Plur	VerbForm=Part
+AUX	Aspect=Prog	Mood=Cnd	Number[abs]=Plur	Person[abs]=3
+VERB	Case=Gen	Definite=Def	Number=Sing	VerbForm=Part
+ADP	Animacy=Inan	Definite=Def	Number=Plur
+ADP	Case=Ins	Definite=Def	Number=Sing
+ADP	Case=Loc	Definite=Ind
+ADP	Animacy=Anim	Definite=Def	Number=Plur
+PROPN	Case=Abs	Definite=Ind
+AUX	Case=Abs	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Sing	Number[dat]=Sing	Number[erg]=Plur	Person[abs]=3	Person[dat]=1	Person[erg]=3
+ADP	Case=All	Definite=Def	Number=Sing
+ADV	Case=Gen	Definite=Def	Number=Sing
+DET	Case=Dat
+ADP	Case=Abl	Definite=Def	Number=Sing
+ADP	Animacy=Inan	Case=Abl
+ADP	Case=Loc
+ADP	Case=Abs	Definite=Ind	Number=Sing
+ADV	Case=Loc	Degree=Cmp
+ADP	Case=All	Definite=Ind	Number=Sing
+VERB	Case=All	Definite=Def	Number=Plur	VerbForm=Part
+VERB	Case=Abs	Definite=Def	Degree=Sup	Number=Plur	VerbForm=Part
+ADJ	Case=Loc	Definite=Def	Degree=Sup	Number=Plur
+ADP	Animacy=Inan	Case=Ins	Definite=Def	Number=Sing
+ADP	Case=Ine	Number=Sing
+VERB	Case=Gen	Definite=Def	Number=Plur	VerbForm=Part
+NOUN	Animacy=Anim	Case=Dat	Definite=Ind
+VERB	Aspect=Prog	Mood=Sub	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=3
+PROPN	Case=Ine
+ADP	Number=Sing
+NOUN	Case=Loc
+ADP	Animacy=Inan	Case=Ins
+ADJ	Case=Gen
+ADJ	Case=Abl
+ADP	Animacy=Anim	Case=Loc	Definite=Def	Number=Sing
+ADP	Animacy=Inan	Case=Loc
+ADV	Case=Erg	Definite=Def	Number=Sing
+AUX	Mood=Pot	Number[abs]=Sing	Person[abs]=1
+AUX	Case=Com	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=1
+ADP	Animacy=Anim	Case=Abs	Definite=Ind
+PROPN	Case=Dat
+PROPN	Case=Abs
+ADP	Animacy=Inan	Case=All
+DET	Case=Ins	Definite=Def	Number=Plur
+ADP	Animacy=Inan	Case=Abs
+NOUN	Animacy=Anim	Case=Ine	Definite=Def	Number=Sing
+ADJ	Case=All	Definite=Def	Degree=Sup	Number=Sing
+AUX	Case=Abl	Definite=Def	Mood=Ind	Number=Plur	Number[abs]=Sing	Number[erg]=Plur	Person[abs]=3	Person[erg]=3
+AUX	Case=Gen	Definite=Def	Number=Sing
+ADP	Case=All
+NOUN	Case=Abs
+AUX	Mood=Ind	Number[abs]=Plur	Number[erg]=Plur	Person[abs]=3	Person[erg]=2
+ADP	Case=Abl	Definite=Ind
+AUX	Mood=Cnd	Number[abs]=Plur	Number[erg]=Plur	Person[abs]=3	Person[erg]=3
+AUX	Case=Abs	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Sing	Number[dat]=Sing	Number[erg]=Plur	Person[abs]=3	Person[dat]=3	Person[erg]=3
+AUX	Case=Abs	Definite=Def	Number=Sing	VerbForm=Part
+AUX	Mood=Ind	Number[abs]=Plur	Number[dat]=Sing	Number[erg]=Plur	Person[abs]=3	Person[dat]=3	Person[erg]=1
+ADP	Case=Ine	Definite=Def	Number=Plur	Person=3
+VERB	Aspect=Prog	Case=Dat	Definite=Def	Mood=Ind	Number=Plur	Number[abs]=Plur	Person[abs]=3
+VERB	Mood=Ind	Number[abs]=Plur	Person[abs]=3
+NOUN	Animacy=Anim	Case=All	Definite=Def	Number=Sing
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Plur	Number[erg]=Plur	Person[abs]=1	Person[erg]=3
+VERB	Case=Abs	Definite=Def	Degree=Sup	Number=Sing	VerbForm=Part
+ADP	Case=Ine	Definite=Def	Degree=Sup	Number=Plur
+DET	Case=Ins	Definite=Def	Number=Sing
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Plur	Number[dat]=Sing	Person[abs]=3	Person[dat]=1
+ADP	Case=Abs	Number=Sing
+AUX	Case=Com	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Sing	Person[abs]=3
+AUX	Case=Gen	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Sing	Number[erg]=Plur	Person[abs]=3	Person[erg]=3
+ADP	Case=Loc	Definite=Def	Degree=Sup	Number=Plur
+ADP	Animacy=Anim	Case=Abs
+AUX	Case=Ine	Definite=Def	Mood=Ind	Number=Plur	Number[abs]=Plur	Person[abs]=3
+DET	Case=Ine
+ADP	Case=Abs	Definite=Def	Degree=Sup	Number=Plur
+ADJ	Case=Abs	Definite=Ind	Degree=Sup
+PROPN	Case=Erg
+VERB	Aspect=Prog	Gender=Masc	Mood=Ind	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=1	Polite=Infm
+DET	Case=All
+DET	Case=Ins	Definite=Ind
+ADP	Case=Ins	Number=Sing
+AUX	Mood=Pot	Number[abs]=Plur	Number[erg]=Sing	Person[abs]=3	Person[erg]=1
+AUX	Case=Ben	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=3
+ADP	Animacy=Anim	Case=Ins	Definite=Def	Number=Sing
+VERB	Aspect=Prog	Case=Abs	Definite=Def	Mood=Ind	Number=Plur	Number[abs]=Plur	Number[erg]=Sing	Person[abs]=3	Person[erg]=3
+AUX	Case=Abs	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Plur	Number[dat]=Sing	Number[erg]=Sing	Person[abs]=3	Person[dat]=3	Person[erg]=3
+AUX	Case=Abs	Definite=Def	Mood=Pot	Number=Sing	Number[abs]=Sing	Number[dat]=Sing	Number[erg]=Sing	Person[abs]=3	Person[dat]=3	Person[erg]=3
+ADP	Animacy=Anim	Case=Ine	Definite=Def	Number=Sing
+ADP	Case=Abl	Number=Sing
+ADJ	Case=Loc
+PROPN	Case=All
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Sing	Number[dat]=Sing	Number[erg]=Sing	Person[abs]=3	Person[dat]=3	Person[erg]=2
+ADP	Animacy=Inan	Case=Abs	Definite=Def	Number=Plur
+AUX	Case=Dat	Definite=Def	Number=Sing
+ADJ	Case=Ins
+AUX	Case=Abs	Definite=Def	Mood=Cnd	Number=Sing	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=3
+PROPN	Animacy=Anim	Case=Erg	Definite=Def	Number=Sing
+AUX	Case=Gen	Definite=Def	Mood=Ind	Number=Plur	Number[abs]=Sing	Number[erg]=Plur	Person[abs]=3	Person[erg]=3
+AUX	Case=Dat	Definite=Def	Mood=Ind	Number=Plur	Number[abs]=Plur	Number[erg]=Sing	Person[abs]=3	Person[erg]=3
+VERB	Case=Com	Definite=Def	Number=Sing
+PROPN	Case=Abl
+ADP	Animacy=Inan	Case=Abl	Definite=Def	Number=Plur
+NOUN	Case=Abs	Definite=Def	Degree=Sup	Number=Sing
+ADP	Animacy=Anim	Definite=Ind
+DET	Case=Abs	Definite=Ind	Number=Sing
+ADV	Case=Dat
+VERB	Aspect=Prog	Case=Gen	Definite=Def	Mood=Ind	Number=Plur	Number[abs]=Plur	Person[abs]=3
+ADP	Case=Ins	Definite=Def	Number=Plur
+AUX	Mood=Ind	Number[abs]=Plur	Number[dat]=Plur	Person[abs]=3	Person[dat]=3
+ADP	Animacy=Anim	Case=Abs	Definite=Def	Number=Plur
+ADP	Definite=Def	Number=Sing	Person=1
+AUX	Case=Com	Definite=Def	Number=Sing
+AUX	Mood=Ind	Number[abs]=Sing	Number[dat]=Plur	Person[abs]=3	Person[dat]=2
+ADP	Animacy=Anim	Case=Abs	Definite=Def	Number=Sing
+VERB	Aspect=Prog	Gender=Fem	Mood=Ind	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=3	Polarity=Pos	Polite=Infm
+ADJ	Case=Abl	Definite=Ind	Degree=Sup
+AUX	Case=Abs	Definite=Def	Mood=Ind	Number=Plur	Number[abs]=Sing	Number[dat]=Plur	Number[erg]=Sing	Person[abs]=3	Person[dat]=3	Person[erg]=3
+VERB	Case=Abl	Definite=Def	Number=Sing	VerbForm=Part
+ADJ	Case=Lat	Definite=Def	Number=Sing
+ADJ	Case=Com
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Plur	Number[dat]=Plur	Person[abs]=3	Person[dat]=1
+ADP	Animacy=Anim	Definite=Def	Number=Sing
+VERB	Aspect=Prog	Case=Gen	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Sing	Person[abs]=3
+AUX	Gender=Fem	Mood=Pot	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=3	Polite=Infm
+AUX	Mood=Sub	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=1	Person[erg]=2
+ADJ	Case=Ess	Definite=Ind	Degree=Sup
+DET	Case=Lat	Definite=Def	Number=Sing
+DET	Case=Abl
+NOUN	Animacy=Inan	Definite=Ind
+VERB	Case=Dat	Definite=Def	Number=Sing	VerbForm=Part
+ADP	Definite=Def	Number=Plur	Person=1
+DET	Case=Loc
+ADP	Case=Abs	Definite=Def	Number=Plur	Person=3
+PRON	Case=Erg	Definite=Def	Number=Sing
+AUX	Case=Com	Definite=Def	Mood=Ind	Number=Plur	Number[abs]=Plur	Number[erg]=Plur	Person[abs]=3	Person[erg]=3
+AUX	Case=Erg	Definite=Def	Mood=Ind	Number=Plur	Number[abs]=Plur	Person[abs]=3
+AUX	Case=Erg	Definite=Def	Mood=Ind	Number=Plur	Number[abs]=Plur	Number[erg]=Plur	Person[abs]=3	Person[erg]=3
+ADP	Animacy=Inan	Case=Ine	Definite=Ind
+ADP	Animacy=Inan	Case=All	Definite=Def	Number=Plur
+VERB	Aspect=Prog	Case=Dat	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Sing	Number[dat]=Sing	Person[abs]=3	Person[dat]=3
+NOUN	Animacy=Inan	Case=Cau
+AUX	Mood=Pot	Number[abs]=Sing	Number[dat]=Sing	Number[erg]=Plur	Person[abs]=3	Person[dat]=3	Person[erg]=3
+ADP	Animacy=Anim	Case=Ine	Definite=Def	Number=Plur
+ADP	Case=Ine	Definite=Ind
+ADJ	Definite=Def	Number=Sing
+VERB	Case=Abl
+VERB	Aspect=Prog	Case=Dat	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Sing	Person[abs]=3
+VERB	Case=Ine	Definite=Def	Number=Plur	VerbForm=Part
+AUX	Case=Ins	Definite=Def	Number=Sing
+NOUN	Animacy=Anim	Case=All	Definite=Def	Number=Plur
+ADJ	Case=Ine
+ADJ	Definite=Ind
+ADP	Case=All	Definite=Ind
+ADP	Definite=Ind	Number=Plur
+ADP	Case=Loc	Number=Sing
+ADJ	Case=Dat	Definite=Def	Degree=Sup	Number=Plur
+AUX	Gender[erg]=Fem	Mood=Ind	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=2	Polite[erg]=Infm
+ADJ	Animacy=Inan	Case=Erg	Definite=Def	Number=Sing
+AUX	Case=Com	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=2
+VERB	Case=All	Definite=Ind	VerbForm=Part
+DET	Case=Cau	Definite=Def	Number=Plur
+AUX	Aspect=Prog	Case=Abs	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Sing	Number[erg]=Plur	Person[abs]=3	Person[erg]=1
+ADP	Case=Abs	Definite=Def	Number=Plur	Person=2
+VERB	Aspect=Prog	Case=Ins	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Sing	Number[dat]=Sing	Person[abs]=3	Person[dat]=3
+ADP	Case=Abl
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Plur	Number[dat]=Sing	Number[erg]=Plur	Person[abs]=3	Person[dat]=3	Person[erg]=3
+VERB	Aspect=Prog	Case=Ins	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=2
+PROPN	Animacy=Anim	Case=Abs	Definite=Def	Number=Sing
+VERB	Aspect=Prog	Case=Erg	Definite=Def	Mood=Ind	Number=Plur	Number[abs]=Plur	Person[abs]=3
+ADP	Animacy=Anim
+ADJ	Case=Gen	Definite=Def	Degree=Cmp	Number=Sing
+AUX	Mood=Ind	Number[abs]=Sing	Number[dat]=Sing	Number[erg]=Sing	Person[abs]=3	Person[dat]=2	Person[erg]=1
+ADP	Animacy=Anim	Case=Ine
+NOUN	Animacy=Anim	Case=Abl	Definite=Def	Number=Sing
+AUX	Mood=Ind	Number[abs]=Sing	Number[dat]=Sing	Number[erg]=Plur	Person[abs]=3	Person[dat]=2	Person[erg]=3
+DET	Case=Abs
+PART	_
+AUX	Case=Abs	Definite=Def	Mood=Pot	Number=Plur	Number[abs]=Plur	Number[erg]=Plur	Person[abs]=3	Person[erg]=3
+VERB	Case=Loc	Definite=Def	Number=Sing	VerbForm=Part
+ADJ	Case=Abs	Number=Plur
+VERB	Aspect=Prog	Case=Erg	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=3
+VERB	Aspect=Prog	Mood=Sub	Number[abs]=Plur	Person[abs]=3
+AUX	Mood=Ind	Number[abs]=Sing	Number[dat]=Plur	Number[erg]=Sing	Person[abs]=3	Person[dat]=2	Person[erg]=3
+AUX	Case=Abs	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Plur	Person[abs]=1
+ADP	Case=All	Number=Sing
+AUX	Mood=Ind	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=2	Person[erg]=3
+AUX	Case=Erg	Definite=Def	Number=Sing
+AUX	Case=Gen	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Sing	Number[erg]=Sing	Person[abs]=3	Person[erg]=3
+AUX	Mood=Ind	Number[abs]=Sing	Number[dat]=Sing	Person[abs]=2	Person[dat]=1
+ADP	Case=Loc	Definite=Def	Number=Sing	Person=2
+VERB	Aspect=Prog	Case=Ins	Definite=Def	Number=Plur
+AUX	Gender=Fem	Mood=Ind	Number[abs]=Sing	Number[dat]=Plur	Number[erg]=Sing	Person[abs]=3	Person[dat]=3	Person[erg]=3	Polite=Infm
+DET	Case=Loc	Definite=Ind	Number=Plur
+AUX	Mood=Sub	Number[abs]=Sing	Number[erg]=Plur	Person[abs]=1	Person[erg]=3
+ADV	Case=Gen
+PROPN	Case=Com
+PRON	Case=Dat
+ADP	Case=Ine	Definite=Def	Number=Sing	Person=2
+PRON	Case=Abs	Definite=Def	Number=Plur	Person=3
+ADP	Animacy=Inan	Case=Abs	Definite=Ind
+ADP	Case=Gen	Definite=Def	Number=Sing
+AUX	Aspect=Prog	Mood=Cnd	Number[abs]=Sing	Number[erg]=Plur	Person[abs]=3	Person[erg]=3
+ADP	Animacy=Anim	Case=All	Definite=Def	Number=Plur
+VERB	Aspect=Prog	Case=Abs	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Plur	Person[abs]=3
+VERB	Aspect=Prog	Mood=Ind	Number[abs]=Plur	Number[erg]=Plur	Person[abs]=3	Person[erg]=2
+VERB	Aspect=Prog	Case=Gen	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Sing	Number[dat]=Sing	Person[abs]=3	Person[dat]=3
+AUX	Case=Cau	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Sing	Number[dat]=Sing	Person[abs]=3	Person[dat]=3
+AUX	Case=Cau	Definite=Def	Mood=Ind	Number=Sing	Number[abs]=Plur	Number[erg]=Sing	Person[abs]=1	Person[erg]=3
+ADJ	Animacy=Inan	Case=Ine	Definite=Ind
+SYM	Case=Abs	Definite=Def	Number=Plur

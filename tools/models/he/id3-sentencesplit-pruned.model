@@ -1,0 +1,367 @@
+320
+c:.
+cl1:_
+cl2:_
+cl3:ד
+cl4:ם
+cr0:_
+cr1:_
+cr2:_
+cr3:_
+upper:false
+prevpo:0
+prevep:0
+prevcp:0
+prevu:1
+prevcap:0
+prevpc:0
+nextpo:0
+nextep:0
+nextcp:0
+nextu:1
+nextcap:0
+nextpc:0
+c:"
+cl3:מ
+cl4:ג
+cr0:ב
+cl1:ש
+cl2:ו
+cl3:נ
+cl4:ה
+cl3:_
+cl4:_
+c:,
+cl1:נ
+cl2:ס
+cl3:ו
+cl4:ע
+prevcp:1
+cl2:ר
+cl3:א
+cl4:ל
+cl1:פ
+cl3:ל
+cl4:ק
+nextcp:1
+cl2:מ
+cl4:כ
+cr0:ל
+prevep:1
+nextep:1
+cl3:כ
+cl4:ך
+c::
+cl1:י
+cl2:א
+cl4:ת
+cl3:ח
+cl4:ד
+cl3:י
+cl4:ן
+cr0:ת
+cr1:ה
+cr2:י
+cr3:ה
+prevpo:1
+prevu:0
+prevpc:1
+cl2:ז
+c:;
+cr0:ה
+cl1:ו
+cl4:ף
+cl1:ס
+cl2:י
+cl2:פ
+cl3:ג
+cl2:ל
+c:-
+cl3:ת
+cr0:נ
+cr1:י
+cr2:צ
+cr3:ב
+cl3:ה
+cl4:ב
+cr0:ס
+cr1:ו
+cr2:ב
+cr3:א
+cl1:ב
+cl3:ר
+cl4:ו
+cr0:,
+cl1:א
+cl4:"
+cl1:ל
+cl1:ח
+cl2:ב
+cl4:י
+cr0:כ
+cr1:נ
+cr2:ס
+cr3:ת
+cl2:ה
+cl2:צ
+cl3:ע
+cl3:צ
+cl2:ע
+cl3:ז
+cl3:0
+cl4:0
+cl2:נ
+cl1:ה
+cl4:ש
+cr0:ף
+nextpo:1
+nextu:0
+cl3:ש
+cl2:ק
+cl2:ד
+cl4:ס
+cl1:ג
+cl1:ע
+cl3:פ
+cl1:ז
+cl4:ח
+cr0:ח
+cl1:מ
+cl4:ר
+cr1:,
+cl1:צ
+cl3:"
+cr0:ר
+cl1:ר
+cr0:ש
+cr1:ע
+cr2:ת
+cr3:י
+cr1:א
+cr2:נ
+cr3:ו
+cl3:ב
+cl1:ק
+cr1:ר
+cr2:ם
+cl1:ד
+cr0:י
+cr1:ד
+nextpc:1
+cr0:א
+cl2:ח
+cl1:ת
+cl3:ק
+cr0:ם
+cl2:ט
+cl3:ט
+cl1:כ
+cr2:ח
+cl2:ש
+cr0:.
+cr1:ך
+c:(
+cr0:"
+cl4:(
+c:)
+cl2:0
+cr0:ע
+cr1:מ
+cr2:ו
+cr3:צ
+cr1:ת
+cr0:)
+cl4:)
+cl3:ם
+cl2:ת
+cr1:ש
+c:?
+cr0:פ
+cl2:כ
+cr0:ק
+cr2:ט
+cr3:ש
+cl1:ט
+cr0:ו
+cl3:ס
+cr2:א
+cr3:מ
+cr2:ל
+cr3:ח
+cr1:פ
+cr3:ד
+cl4:?
+cr1:ל
+cr2:כ
+cl4:א
+cr0:מ
+cr3:ר
+c:!
+cl4:!
+cr1:.
+cl3:!
+cr2:ר
+cr2:ד
+cr1:)
+cr2:,
+cl2:"
+cr0:צ
+cr3:נ
+cr0:ד
+cr1:ס
+cr2:ך
+cl2:ג
+cr3:"
+cl1:-
+cr2:ש
+cr3:ק
+cr2:"
+cr3:;
+cr0:;
+cl1:"
+cl3:ך
+cr0:ז
+cr3:.
+cl2:-
+cr3:,
+cr0:ץ
+cr2:ק
+cr2:ה
+cl3:ן
+cr3:כ
+cl1:0
+cr2:ע
+cr1:ט
+cl4:ט
+cr3:ם
+cl4:ץ
+cr2:פ
+cr3:ע
+cr1:ק
+cr2:-
+cr3:ס
+cr2:.
+cr1:ז
+cr3:)
+cr2:)
+cl3:(
+cl4:.
+cl2:(
+cl3:.
+cl1:(
+cl2:.
+cr0:?
+cr0::
+cr0:ט
+cr3:ל
+cr2:מ
+cl4:ז
+cl3:ץ
+cl3:?
+cr0:ג
+cl4:צ
+cr3:פ
+cr1:ג
+cr1:-
+cr1:ב
+cr1:ם
+nextpc:4
+cr1:"
+cl1:.
+cr3:ט
+cr2:ן
+cl4:פ
+cr3:ן
+cr1:ח
+cr3:-
+cl3:ף
+cr1:צ
+cr1:ף
+cr2:ף
+cr2:ג
+cr0:0
+cr1:0
+cr1:כ
+cl4:נ
+cr0:ך
+cr2:0
+cr3:0
+cr3::
+cr1:ן
+c:%
+cr2:%
+cl4:%
+cl3:%
+cl4:מ
+cl3:-
+nextpc:2
+cl1:ף
+cl4:,
+cl1:ם
+cr1:%
+cr3:ך
+cr2:ז
+cr0:ן
+cr3:ז
+prevpc:2
+cl1:,
+cr3:ג
+nextpc:3
+cr2::
+cr3:ץ
+cl2:ך
+cr2:ץ
+cr3:!
+cr1:;
+cr2:;
+cl1:ן
+cr1::
+cl2:ן
+cl3:)
+cl2:ם
+2
+SPLIT
+NULL
+42
+1 2 34
+6 3 -2
+49 4 14
+3 5 11
+22 6 -2
+185 -2 7
+16 -1 8
+51 -1 9
+43 -1 10
+173 -1 -2
+249 -2 12
+212 13 -1
+2 -2 -1
+149 15 17
+3 16 -1
+32 -1 -2
+121 18 20
+31 -2 19
+55 -2 -1
+249 21 22
+2 -2 -1
+31 23 -1
+32 24 29
+20 25 28
+45 26 -1
+38 27 -1
+50 -1 -1
+17 -2 -1
+50 30 32
+95 -1 -1
+292 -1 -2
+44 -2 33
+99 -2 -1
+177 35 38
+6 36 -2
+12 -1 37
+3 -2 -1
+165 39 -2
+17 40 -1
+95 41 -2
+6 42 -2
+2 -1 -2

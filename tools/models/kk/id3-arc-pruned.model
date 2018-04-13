@@ -1,0 +1,682 @@
+510
+ff_0:</s>
+ff_1:PROPN_Case=Nom|Gender=Fem
+ff_2:np
+ff_3:</s>
+ff_4:VERB_Mood=Pot|VerbForm=Part
+ff_5:VERB
+ff_6:</s>
+ff_7:NULL
+ff_8:</s>
+ff_9:NULL
+ff_10:</s>
+ff_11:NULL
+ff_12:</s>
+ff_13:NULL
+ff_14:</s>
+ff_15:NULL
+ff_16:</s>
+ff_17:NULL
+ff_18:</s>
+ff_19:NULL
+ff_20:</s>
+ff_21:NULL
+ff_1:PROPN_Case=Dat|Gender=Masc
+ff_4:VERB_Tense=Past|VerbForm=Part
+ff_11:VERB_Tense=Past|VerbForm=Part
+ff_13:VERB_Tense=Past|VerbForm=Part
+ff_1:VERB_Tense=Past|VerbForm=Part
+ff_2:v
+ff_4:NOUN_Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+ff_5:NOUN
+ff_7:PROPN_Case=Dat|Gender=Masc
+ff_9:PROPN_Case=Dat|Gender=Masc
+ff_1:NOUN_Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+ff_2:n
+ff_7:VERB_Tense=Past|VerbForm=Part
+ff_9:VERB_Tense=Past|VerbForm=Part
+ff_1:PRON_Number[psor]=Plur,Sing|Person[psor]=3|PronType=Ref
+ff_2:prn
+ff_4:NOUN_Case=Ins|Number=Plur
+ff_1:ADJ__
+ff_2:adj
+ff_1:NOUN_Case=Ins|Number=Plur
+ff_4:VERB_Case=Loc|Tense=Past|VerbForm=Ger
+ff_7:PRON_Number[psor]=Plur,Sing|Person[psor]=3|PronType=Ref
+ff_9:ADJ__
+ff_15:ADJ__
+ff_17:PRON_Number[psor]=Plur,Sing|Person[psor]=3|PronType=Ref
+ff_1:ADJ_Case=Loc
+ff_1:VERB_Case=Loc|Tense=Past|VerbForm=Ger
+ff_7:NOUN_Case=Ins|Number=Plur
+ff_9:PUNCT__
+ff_15:ADJ_Case=Loc
+ff_17:ADJ_Case=Loc
+ff_1:PUNCT__
+ff_2:sent
+ff_2:lquot
+ff_4:ADJ__
+ff_5:ADJ
+ff_0:бала
+ff_1:NOUN__
+ff_4:NOUN_Case=Gen
+ff_7:ADP__
+ff_9:ADP__
+ff_11:NOUN_Case=Gen
+ff_13:NOUN_Case=Gen
+ff_1:ADP__
+ff_2:post
+ff_3:бала
+ff_4:NOUN__
+ff_1:NOUN_Case=Gen
+ff_4:ADJ_Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+ff_6:бала
+ff_7:NOUN__
+ff_8:бала
+ff_9:NOUN__
+ff_11:PUNCT__
+ff_13:PUNCT__
+ff_19:ADJ_Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+ff_20:,
+ff_21:PUNCT__
+ff_1:ADJ_Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+ff_7:NOUN_Case=Gen
+ff_9:NOUN_Case=Gen
+ff_4:VERB_Aspect=Perf|VerbForm=Conv
+ff_7:PUNCT__
+ff_11:ADV__
+ff_13:ADV__
+ff_15:ADJ_Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+ff_16:,
+ff_17:PUNCT__
+ff_1:PART__
+ff_2:mod_ass
+ff_2:rquot
+ff_0:,
+ff_2:cm
+ff_2:guio
+ff_1:VERB_Aspect=Perf|VerbForm=Conv
+ff_7:ADJ__
+ff_1:NOUN_Case=Ins|Number[psor]=Plur,Sing|Person[psor]=3
+ff_7:ADV__
+ff_9:ADV__
+ff_1:ADV__
+ff_2:postadv
+ff_4:NOUN_Case=Ins|Number[psor]=Plur,Sing|Person[psor]=3
+ff_1:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ff_2:cop
+ff_0:.
+ff_1:NOUN_Case=Nom
+ff_4:NOUN_Case=Dat|Number[psor]=Plur,Sing|Person[psor]=3
+ff_11:NOUN_Case=Dat|Number[psor]=Plur,Sing|Person[psor]=3
+ff_13:NOUN_Case=Nom
+ff_18:,
+ff_19:PUNCT__
+ff_1:NOUN_Case=Dat|Number[psor]=Plur,Sing|Person[psor]=3
+ff_4:VERB_Aspect=Perf|VerbForm=Conv|Voice=Pass
+ff_7:NOUN_Case=Nom
+ff_9:NOUN_Case=Nom
+ff_1:VERB_Aspect=Perf|VerbForm=Conv|Voice=Pass
+ff_4:NOUN_Case=Gen|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3
+ff_7:NOUN_Case=Dat|Number[psor]=Plur,Sing|Person[psor]=3
+ff_11:NOUN_Case=Gen|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3
+ff_13:NOUN_Case=Gen|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3
+ff_14:,
+ff_15:PUNCT__
+ff_4:VERB_Polarity=Neg|Tense=Past|VerbForm=Part
+ff_11:VERB_Polarity=Neg|Tense=Past|VerbForm=Part
+ff_13:VERB_Polarity=Neg|Tense=Past|VerbForm=Part
+ff_1:VERB_Polarity=Neg|Tense=Past|VerbForm=Part
+ff_4:NOUN_Case=Dat
+ff_7:NOUN_Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+ff_9:NOUN_Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+ff_11:NOUN_Case=Dat
+ff_13:AUX_Aspect=Imp|VerbForm=Part
+ff_19:AUX_Aspect=Imp|VerbForm=Part
+ff_21:NOUN_Case=Dat
+ff_1:NOUN_Case=Dat
+ff_4:NOUN_Case=Nom
+ff_7:VERB_Polarity=Neg|Tense=Past|VerbForm=Part
+ff_9:VERB_Polarity=Neg|Tense=Past|VerbForm=Part
+ff_7:NOUN_Case=Dat
+ff_9:AUX_Aspect=Imp|VerbForm=Part
+ff_15:AUX_Aspect=Imp|VerbForm=Part
+ff_17:NOUN_Case=Dat
+ff_1:AUX_Aspect=Imp|VerbForm=Part
+ff_1:NOUN_Case=Gen|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3
+ff_4:NOUN_Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3
+ff_7:VERB_Aspect=Perf|VerbForm=Conv|Voice=Pass
+ff_15:NOUN_Case=Gen
+ff_17:NOUN_Case=Gen
+ff_1:NOUN_Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3
+ff_7:NOUN_Case=Gen|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3
+ff_9:NOUN_Case=Gen|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3
+ff_2:adv
+ff_1:PRON_Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3|PronType=Ref
+ff_4:VERB_Case=Dat|Number[psor]=Plur,Sing|Person[psor]=3|Tense=Past|VerbForm=Ger
+ff_11:NOUN_Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3
+ff_13:VERB_Case=Dat|Number[psor]=Plur,Sing|Person[psor]=3|Tense=Past|VerbForm=Ger
+ff_19:ADV__
+ff_21:ADV__
+ff_1:VERB_Case=Dat|Number[psor]=Plur,Sing|Person[psor]=3|Tense=Past|VerbForm=Ger
+ff_7:PRON_Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3|PronType=Ref
+ff_9:PRON_Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3|PronType=Ref
+ff_4:PROPN_Case=Nom|Gender=Fem
+ff_5:PROPN
+ff_7:NOUN_Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3
+ff_9:VERB_Case=Dat|Number[psor]=Plur,Sing|Person[psor]=3|Tense=Past|VerbForm=Ger
+ff_15:ADV__
+ff_17:ADV__
+ff_4:VERB_Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin
+ff_1:X__
+ff_2:x
+ff_4:NOUN_Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3
+ff_1:NOUN_Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3
+ff_4:VERB_Mood=Cnd|Number=Sing|Person=3|VerbForm=Conv
+ff_1:VERB_Mood=Cnd|Number=Sing|Person=3|VerbForm=Conv
+ff_4:VERB_Aspect=Imp|VerbForm=Part
+ff_7:NOUN_Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3
+ff_9:VERB_Mood=Cnd|Number=Sing|Person=3|VerbForm=Conv
+ff_1:CCONJ__
+ff_2:cnjcoo
+ff_1:NOUN_Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3
+ff_11:CCONJ__
+ff_12:,
+ff_19:CCONJ__
+ff_7:NOUN_Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3
+ff_9:NOUN_Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3
+ff_7:CCONJ__
+ff_8:,
+ff_15:CCONJ__
+ff_1:PRON_Case=Nom|Number=Sing|Person=3|PronType=Prs
+ff_4:VERB_Aspect=Imp|VerbForm=Cov
+ff_1:PROPN_Case=Nom
+ff_7:PART__
+ff_17:PART__
+ff_2:mod_emo
+ff_4:PROPN_Case=Nom
+ff_1:VERB_Aspect=Imp|VerbForm=Cov
+ff_11:VERB_Mood=Cnd|Number=Sing|Person=3|VerbForm=Conv
+ff_12:.
+ff_15:PROPN_Case=Nom
+ff_19:PRON_Case=Nom|Number=Sing|Person=3|PronType=Prs
+ff_21:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ff_1:AUX_Mood=Imp|Number=Sing|Person=2|Polarity=Neg|VerbForm=Fin
+ff_2:vaux
+ff_7:VERB_Aspect=Imp|VerbForm=Cov
+ff_9:VERB_Aspect=Imp|VerbForm=Cov
+ff_4:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin|Voice=Pass
+ff_15:AUX_Mood=Cnd|Number=Sing|Person=1|VerbForm=Conv
+ff_17:AUX_Mood=Cnd|Number=Sing|Person=1|VerbForm=Conv
+ff_1:AUX_Mood=Cnd|Number=Sing|Person=1|VerbForm=Conv
+ff_4:NOUN_Case=Nom|Number[psor]=Sing|Person[psor]=1
+ff_18:бала
+ff_19:NOUN__
+ff_1:NOUN_Case=Nom|Number[psor]=Sing|Person[psor]=1
+ff_1:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin|Voice=Pass
+ff_11:VERB_Aspect=Perf|VerbForm=Conv
+ff_14:бала
+ff_15:NOUN__
+ff_19:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ff_21:PROPN_Case=Nom|Gender=Fem
+ff_7:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin|Voice=Pass
+ff_9:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin|Voice=Pass
+ff_17:NOUN_Case=Nom
+ff_1:NUM_Case=Gen|Number[psor]=Plur,Sing|NumType=Coll|Person[psor]=3
+ff_2:num
+ff_7:NOUN_Case=Ins|Number[psor]=Plur,Sing|Person[psor]=3
+ff_9:NUM_Case=Gen|Number[psor]=Plur,Sing|NumType=Coll|Person[psor]=3
+ff_15:NUM_Case=Gen|Number[psor]=Plur,Sing|NumType=Coll|Person[psor]=3
+ff_17:NOUN_Case=Ins|Number[psor]=Plur,Sing|Person[psor]=3
+ff_1:DET_PronType=Ind
+ff_2:det
+ff_19:NOUN_Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3
+ff_7:DET_PronType=Ind
+ff_9:DET_PronType=Ind
+ff_1:AUX_Mood=Pot|VerbForm=Part
+ff_1:VERB_Aspect=Perf|VerbForm=Conv|Voice=Coop
+ff_4:VERB_Tense=Past|VerbForm=Part|Voice=Pass
+ff_1:VERB_Tense=Past|VerbForm=Part|Voice=Pass
+ff_7:VERB_Aspect=Perf|VerbForm=Conv|Voice=Coop
+ff_9:VERB_Aspect=Perf|VerbForm=Conv|Voice=Coop
+ff_1:NUM_NumType=Card
+ff_7:VERB_Tense=Past|VerbForm=Part|Voice=Pass
+ff_9:NUM_NumType=Card
+ff_15:NUM_NumType=Card
+ff_17:VERB_Tense=Past|VerbForm=Part|Voice=Pass
+ff_19:NOUN_Case=Nom
+ff_21:ADP__
+ff_1:NUM_NumType=Ord
+ff_9:NUM_NumType=Ord
+ff_15:DET_PronType=Ind
+ff_17:DET_PronType=Ind
+ff_4:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin
+ff_11:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin
+ff_13:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin
+ff_15:NOUN_Case=Nom
+ff_17:ADP__
+ff_19:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin
+ff_21:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin
+ff_4:NUM_Case=Gen|Number[psor]=Plur,Sing|NumType=Coll|Person[psor]=3
+ff_5:NUM
+ff_6:,
+ff_15:ADP__
+ff_7:NUM_Case=Gen|Number[psor]=Plur,Sing|NumType=Coll|Person[psor]=3
+ff_17:NUM_Case=Gen|Number[psor]=Plur,Sing|NumType=Coll|Person[psor]=3
+ff_1:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin
+ff_7:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin
+ff_9:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin
+ff_15:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin
+ff_17:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin
+ff_15:NOUN_Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+ff_1:PROPN_Case=Gen
+ff_11:NOUN_Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+ff_13:ADJ__
+ff_19:AUX_Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Aor|VerbForm=Fin
+ff_7:PROPN_Case=Gen
+ff_9:PROPN_Case=Gen
+ff_1:AUX_Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Aor|VerbForm=Fin
+ff_1:NOUN_Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3
+ff_13:VERB_Mood=Opt|Number=Sing|Person=3|VerbForm=Fin
+ff_19:NOUN_Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+ff_7:NOUN_Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3
+ff_9:NOUN_Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3
+ff_9:VERB_Mood=Opt|Number=Sing|Person=3|VerbForm=Fin
+ff_4:NOUN_Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3
+ff_9:NOUN_Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3
+ff_4:VERB_Mood=Opt|Number=Sing|Person=3|VerbForm=Fin
+ff_1:PRON_Case=Nom|PronType=Int
+ff_1:VERB_Mood=Opt|Number=Sing|Person=3|VerbForm=Fin
+ff_15:PRON_Case=Nom|PronType=Int
+ff_17:PROPN_Case=Nom|Gender=Fem
+ff_7:NUM_NumType=Card
+ff_11:NOUN_Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3
+ff_21:NOUN_Case=Nom
+ff_1:NUM_Case=Nom|Number[psor]=Plur,Sing|NumType=Coll|Person[psor]=3
+ff_7:NUM_Case=Nom|Number[psor]=Plur,Sing|NumType=Coll|Person[psor]=3
+ff_17:NUM_Case=Nom|Number[psor]=Plur,Sing|NumType=Coll|Person[psor]=3
+ff_8:.
+ff_14:.
+ff_1:NOUN_Case=Loc
+ff_1:NOUN_Case=Abl
+ff_11:ADJ__
+ff_7:NOUN_Case=Abl
+ff_9:NOUN_Case=Abl
+ff_11:NOUN_Case=Loc
+ff_1:VERB_Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+ff_11:NOUN_Case=Nom
+ff_21:ADJ__
+ff_7:VERB_Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+ff_9:VERB_Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+ff_4:VERB_Case=Dat|VerbForm=Ger
+ff_11:VERB_Case=Dat|VerbForm=Ger
+ff_13:AUX_Mood=Cnd|Number=Sing|Person=3|VerbForm=Conv
+ff_19:AUX_Mood=Cnd|Number=Sing|Person=3|VerbForm=Conv
+ff_21:VERB_Case=Dat|VerbForm=Ger
+ff_1:VERB_Case=Dat|VerbForm=Ger
+ff_9:X__
+ff_10:,
+ff_15:X__
+ff_17:VERB_Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+ff_1:VERB_Aspect=Imp|VerbForm=Part
+ff_7:VERB_Case=Dat|VerbForm=Ger
+ff_9:AUX_Mood=Cnd|Number=Sing|Person=3|VerbForm=Conv
+ff_15:AUX_Mood=Cnd|Number=Sing|Person=3|VerbForm=Conv
+ff_17:VERB_Case=Dat|VerbForm=Ger
+ff_1:AUX_Mood=Cnd|Number=Sing|Person=3|VerbForm=Conv
+ff_4:AUX_Mood=Cnd|Number=Sing|Person=3|VerbForm=Conv
+ff_5:AUX
+ff_4:VERB_Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+ff_1:DET_PronType=Dem
+ff_4:NOUN_Case=Nom|Number=Plur
+ff_1:NOUN_Case=Nom|Number=Plur
+ff_7:DET_PronType=Dem
+ff_9:DET_PronType=Dem
+ff_1:PROPN_Case=Gen|Gender=Fem
+ff_7:PROPN_Case=Gen|Gender=Fem
+ff_9:PROPN_Case=Gen|Gender=Fem
+ff_11:NOUN_Case=Nom|Number=Plur
+ff_7:NOUN_Case=Nom|Number=Plur
+ff_15:NOUN_Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3
+ff_1:AUX_Mood=Cnd|Number=Sing|Person=3|Polarity=Neg|VerbForm=Conv
+ff_1:PRON_Case=Gen|Number=Sing|Person=3|PronType=Prs
+ff_7:PRON_Case=Gen|Number=Sing|Person=3|PronType=Prs
+ff_9:PRON_Case=Gen|Number=Sing|Person=3|PronType=Prs
+ff_4:NOUN_Case=Ins
+ff_1:NOUN_Case=Ins
+ff_4:NOUN_Case=Dat|Number=Plur
+ff_1:NOUN_Case=Dat|Number=Plur
+ff_1:PRON_Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|PronType=Ref
+ff_11:NOUN__
+ff_13:PRON_Case=Nom|PronType=Dem
+ff_7:PRON_Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|PronType=Ref
+ff_9:PRON_Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|PronType=Ref
+ff_4:PRON_Case=Nom|PronType=Dem
+ff_5:PRON
+ff_4:VERB_Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+ff_11:VERB_Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+ff_13:VERB_Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+ff_4:VERB_Case=Dat|Polarity=Neg|Tense=Fut|VerbForm=Part
+ff_11:PROPN_Case=Gen|Gender=Fem
+ff_13:VERB_Case=Dat|Polarity=Neg|Tense=Fut|VerbForm=Part
+ff_19:VERB_Case=Dat|Polarity=Neg|Tense=Fut|VerbForm=Part
+ff_21:PROPN_Case=Gen|Gender=Fem
+ff_1:PRON_Case=Dat|PronType=Neg
+ff_1:VERB_Case=Dat|Polarity=Neg|Tense=Fut|VerbForm=Part
+ff_9:PRON_Case=Dat|PronType=Neg
+ff_15:PRON_Case=Dat|PronType=Neg
+ff_17:NOUN_Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3
+ff_1:VERB_Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+ff_9:VERB_Case=Dat|Polarity=Neg|Tense=Fut|VerbForm=Part
+ff_15:VERB_Case=Dat|Polarity=Neg|Tense=Fut|VerbForm=Part
+ff_17:PROPN_Case=Gen|Gender=Fem
+ff_7:VERB_Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+ff_9:VERB_Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+ff_1:PRON_Case=Nom|PronType=Dem
+ff_17:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ff_1:ADJ_Case=Nom
+ff_7:ADJ_Case=Gen
+ff_9:ADJ_Case=Gen
+ff_4:ADJ_Case=Gen
+ff_11:ADJ_Case=Nom
+ff_13:ADJ_Case=Nom
+ff_1:ADJ_Case=Gen
+ff_4:ADJ_Case=Nom
+ff_7:ADJ_Case=Nom
+ff_9:ADJ_Case=Nom
+ff_15:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ff_4:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ff_1:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ff_17:ADJ__
+ff_17:NOUN_Case=Abl
+ff_7:AUX_Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ff_4:SCONJ__
+ff_5:SCONJ
+ff_1:SCONJ__
+ff_2:cnjadv
+ff_7:X__
+ff_1:VERB_Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin
+ff_15:SCONJ__
+ff_16:бала
+ff_1:AUX_Mood=Imp|Number=Sing|Person=2|VerbForm=Fin
+ff_17:VERB_Aspect=Imp|VerbForm=Cov
+ff_4:VERB_Aspect=Perf|Polarity=Neg|VerbForm=Conv
+ff_1:VERB_Aspect=Perf|Polarity=Neg|VerbForm=Conv
+ff_17:X__
+ff_11:VERB_Aspect=Perf|Polarity=Neg|VerbForm=Conv
+ff_19:ADJ__
+ff_7:AUX_Aspect=Perf|VerbForm=Conv
+ff_9:AUX_Aspect=Perf|VerbForm=Conv
+ff_1:AUX_Aspect=Perf|VerbForm=Conv
+ff_7:PROPN_Case=Nom|Gender=Fem
+ff_7:PRON_Case=Nom|PronType=Int
+ff_17:PRON_Case=Nom|PronType=Int
+ff_1:PRON_Case=Dat|Number=Sing|Person=3|PronType=Prs
+ff_4:VERB_Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin
+ff_4:VERB_Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|Polarity=Neg|VerbForm=Ger
+ff_1:PROPN_Case=Dat|Gender=Fem
+ff_1:VERB_Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|Polarity=Neg|VerbForm=Ger
+ff_15:PROPN_Case=Dat|Gender=Fem
+ff_17:PROPN_Case=Dat|Gender=Fem
+ff_7:VERB_Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|Polarity=Neg|VerbForm=Ger
+ff_15:PRON_Number[psor]=Plur,Sing|Person[psor]=3|PronType=Ref
+ff_2:mod
+ff_15:PART__
+ff_13:CCONJ__
+ff_7:NOUN_Case=Ins
+ff_9:NOUN_Case=Ins
+ff_9:CCONJ__
+ff_4:NUM_NumType=Ord
+ff_11:NUM_NumType=Ord
+ff_19:NOUN_Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3
+ff_21:NOUN_Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3
+ff_7:PROPN_Case=Nom
+ff_9:PROPN_Case=Nom
+ff_7:NUM_NumType=Ord
+ff_9:NOUN_Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3
+ff_15:NUM_NumType=Ord
+ff_17:NUM_NumType=Ord
+ff_2:cnjsub
+ff_17:NUM_NumType=Card
+ff_4:PROPN_Case=Gen|Gender=Masc
+ff_13:ADP__
+ff_19:ADP__
+ff_21:NOUN_Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+ff_7:PROPN_Case=Gen|Gender=Masc
+ff_9:PROPN_Case=Gen|Gender=Masc
+ff_1:PROPN_Case=Gen|Gender=Masc
+ff_17:NOUN_Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+ff_9:PROPN_Case=Nom|Gender=Fem
+ff_2:lpar
+ff_2:rpar
+ff_11:PROPN_Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3
+ff_13:PROPN_Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3
+ff_7:PROPN_Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3
+ff_9:PROPN_Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3
+ff_1:PROPN_Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3
+ff_9:PROPN_Case=Nom|Gender=Masc
+ff_15:PROPN_Case=Nom|Gender=Masc
+ff_17:PROPN_Case=Nom
+ff_1:PROPN_Case=Nom|Gender=Masc
+ff_17:PROPN_Case=Nom|Gender=Masc
+ff_4:PROPN_Case=Nom|Gender=Masc
+ff_21:NOUN_Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3
+ff_17:NOUN_Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3
+ff_15:PROPN_Case=Nom|Gender=Fem
+ff_9:NOUN_Case=Loc
+ff_11:PROPN_Case=Gen
+ff_13:NOUN_Case=Loc
+ff_15:NOUN_Case=Loc
+ff_17:PROPN_Case=Gen
+ff_19:NOUN_Case=Loc
+ff_21:PROPN_Case=Gen
+ff_4:NOUN_Case=Loc
+ff_17:SCONJ__
+ff_4:VERB_Case=Abl|VerbForm=Ger|Voice=Pass
+ff_1:VERB_Case=Abl|VerbForm=Ger|Voice=Pass
+ff_7:NOUN_Case=Loc
+ff_1:NOUN_Case=Acc
+ff_11:SCONJ__
+ff_7:SCONJ__
+ff_11:PROPN_Case=Nom|Gender=Fem
+ff_13:NOUN_Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3
+ff_19:NOUN_Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3
+ff_21:NOUN_Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3
+ff_11:NOUN_Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3
+ff_15:NOUN_Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3
+ff_17:NOUN_Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3
+ff_19:NOUN_Case=Dat|Number[psor]=Plur,Sing|Person[psor]=3
+ff_21:NOUN_Case=Dat|Number[psor]=Plur,Sing|Person[psor]=3
+ff_4:NOUN_Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3
+ff_13:NOUN_Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3
+ff_7:PROPN_Case=Nom|Gender=Masc
+ff_4:NOUN_Case=Nom|Gender=Masc
+ff_7:NOUN_Case=Nom|Gender=Masc
+ff_9:NOUN_Case=Nom|Gender=Masc
+ff_1:NOUN_Case=Nom|Gender=Masc
+ff_17:CCONJ__
+ff_1:VERB_Mood=Pot|Tense=Past|VerbForm=Part
+ff_4:VERB_Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Pass
+ff_7:VERB_Mood=Pot|Tense=Past|VerbForm=Part
+ff_17:VERB_Mood=Pot|Tense=Past|VerbForm=Part
+ff_9:AUX_Case=Dat|VerbForm=Ger
+ff_1:AUX_Case=Dat|VerbForm=Ger
+ff_17:AUX_Case=Abl|VerbForm=Ger
+ff_1:AUX_Case=Abl|VerbForm=Ger
+ff_1:NOUN_Case=Nom|Gender=Fem
+ff_11:VERB_Aspect=Imp|VerbForm=Part
+ff_21:VERB_Aspect=Imp|VerbForm=Part
+ff_9:NOUN_Case=Dat
+ff_7:VERB_Aspect=Imp|VerbForm=Part
+ff_17:VERB_Aspect=Imp|VerbForm=Part
+27
+nsubj
+obl
+acl:relcl
+nmod
+amod
+advcl
+punct
+case
+nmod:poss
+ccomp
+discourse
+advmod
+cop
+conj
+obj
+dep
+cc
+vocative
+aux
+det
+nummod
+xcomp
+parataxis
+csubj
+acl
+flat:name
+appos
+142
+54 -7 2
+30 3 54
+28 4 12
+8 5 6
+12 -13 -3
+388 -23 7
+76 -25 8
+82 -1 9
+12 10 -3
+16 11 -6
+69 -6 -3
+8 13 32
+66 -8 14
+40 -5 15
+225 16 19
+248 -5 17
+241 -21 18
+137 -1 -9
+231 -20 20
+102 -12 21
+34 22 29
+137 23 24
+108 -1 -26
+492 -26 25
+108 26 27
+29 -5 -9
+12 28 -9
+29 -9 -4
+3 -9 30
+38 31 -17
+37 -4 -9
+34 33 46
+137 34 35
+9 -2 -23
+85 36 37
+173 -27 -14
+69 38 39
+173 -2 -1
+62 -4 40
+29 41 42
+33 -27 -14
+448 -14 43
+249 44 -9
+70 -9 45
+33 -9 -4
+40 47 49
+45 -5 48
+100 -5 -3
+12 50 53
+192 -9 51
+116 -1 52
+410 -1 -27
+20 -5 -9
+34 55 88
+6 56 80
+108 57 67
+8 58 62
+1 59 61
+84 -15 60
+387 -15 -1
+169 -15 -15
+16 63 64
+237 -6 -1
+24 -1 65
+45 -22 66
+63 -2 -14
+181 -15 68
+51 69 70
+9 -4 -6
+33 71 74
+84 -22 72
+5 -2 73
+45 -2 -1
+1 75 -14
+70 -9 76
+477 -15 77
+207 -1 78
+278 -1 79
+505 -1 -2
+57 81 86
+9 82 -23
+33 83 84
+62 -2 -1
+108 -1 85
+116 -1 -2
+7 87 -9
+353 -1 -26
+28 89 109
+12 90 105
+51 91 97
+15 92 96
+9 93 95
+5 -6 94
+6 -10 -23
+255 -6 -14
+175 -6 -23
+8 98 101
+252 -14 99
+236 -6 100
+497 -6 -13
+6 102 103
+7 -6 -14
+9 -3 104
+15 -24 -6
+9 106 108
+8 107 -10
+6 -22 -24
+7 -6 -13
+3 110 115
+6 111 -26
+9 112 -18
+2 -1 113
+169 -1 114
+334 -1 -2
+106 -13 116
+170 117 118
+164 -26 -16
+8 119 135
+91 -11 120
+38 121 127
+169 122 123
+287 -15 -2
+286 -22 124
+358 -2 125
+37 -12 126
+174 -12 -1
+179 -17 128
+191 -19 129
+102 130 131
+174 -12 -12
+40 132 133
+174 -6 -12
+24 -8 134
+41 -2 -17
+9 136 141
+40 137 140
+6 138 139
+12 -6 -10
+17 -27 -14
+169 -17 -1
+7 142 -14
+15 -23 -14

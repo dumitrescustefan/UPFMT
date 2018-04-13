@@ -1,0 +1,369 @@
+303
+c:e
+cl2:_
+cl3:c
+cl4:r
+cr0:a
+cr1:t
+cr2:i
+upper:true
+prevpo:0
+prevep:0
+prevcp:0
+prevu:0
+prevcap:0
+prevpc:0
+nextpo:0
+nextep:0
+nextcp:0
+nextu:0
+nextcap:1
+nextpc:0
+cl2:t
+cl3:i
+cl4:v
+cr0:_
+cr1:_
+cr2:_
+c:'
+cl3:_
+cl4:n
+cr0:e
+cr1:s
+cr2:t
+upper:false
+prevcap:1
+nextcap:0
+cl3:n
+cl4:'
+cr0:s
+cl2:b
+cr0:t
+nextcp:1
+cl4:d
+cr1:v
+cr2:o
+cl4:_
+prevcp:1
+cl4:s
+cr0:r
+cl2:v
+cl4:c
+cl2:o
+cr0:i
+cr1:l
+nextep:1
+nextpc:1
+cl2:i
+cl3:q
+cl4:u
+cr0:.
+c:.
+cl2:q
+cl3:u
+cl4:e
+prevep:1
+prevpc:1
+cl2:ê
+cl3:t
+cl4:t
+cr0:n
+cr1:u
+cr1:p
+cl2:a
+cl3:b
+cl4:l
+cl3:é
+cr2:u
+cl2:n
+cr0:l
+cl2:d
+cr0:u
+cl2:r
+cl3:a
+cr1:m
+cr2:e
+cl2:e
+cl3:r
+cl4:m
+c:,
+cl3:o
+cr0:c
+cr1:i
+cl4:p
+cr1:d
+cr2:a
+cl2:u
+cl4:é
+cr0:o
+cr1:e
+cl2:l
+cl3:'
+cl4:o
+cr2:r
+cl3:v
+cr0:,
+cl3:l
+cr1:f
+cr2:f
+cr1:c
+cr2:c
+cr0:p
+cr1:x
+cl3:d
+cr0:x
+cl2:'
+cl3:e
+cl4:x
+cr2:l
+c::
+cl2:s
+cr1:,
+cl2:é
+cl4:i
+cr1:r
+nextu:1
+c:0
+prevu:1
+cl2:x
+cl3:p
+cr2:é
+cl4:j
+cl3:s
+cr1::
+cl3:x
+cr2:d
+cl2:g
+c:-
+cr0:à
+cr1:-
+cr2:v
+cl3:-
+cl4:à
+cr0:v
+cr2:s
+cr1:n
+cr1:a
+cl2:c
+cr2:,
+cr1:é
+cr0:h
+cr1:y
+cr2:p
+cl2:h
+cl3:è
+cr0:m
+cr2:n
+cl2:m
+cr0:d
+cr0:0
+cl4:0
+cr1:b
+cr1:o
+cr0:z
+cr1:.
+cl3:m
+cl4:b
+cl3:k
+cl4:a
+cl4:h
+cr2:b
+cr2:è
+c:B
+cr2:h
+cl2:j
+cl4:g
+cl4:z
+cr2:.
+cr1:j
+cl2:p
+cr0:f
+cl3:f
+cl4:f
+cl2:f
+cl3:î
+cl3:g
+cr2:g
+cr1:0
+cr2:0
+cr2:?
+cl3:0
+cr1:?
+cl2:0
+cr0:?
+c:?
+cr0:;
+c:;
+cr2:m
+cl3:ê
+cl2:è
+cr0:é
+cr2:ô
+cr2:q
+cl3:ô
+nextpo:1
+prevpo:1
+cl3:h
+cl2:î
+cr1:q
+c:(
+cr2:-
+cl3:(
+cr0:-
+cl2:(
+cl4:-
+cr2:/
+cl2:-
+cr1:/
+cr0:/
+c:/
+cl4:/
+cl3:/
+cr2:)
+cl2:/
+cr1:)
+cr0:)
+c:)
+cl4:(
+cl4:)
+cl3:)
+cr0:ê
+cl2:z
+cr2:j
+cr0:q
+cr2:x
+cr0:y
+cl4:y
+cr1:h
+cr1:g
+cl2:â
+cl2:y
+cr2:z
+cr0:b
+cl4:k
+cl2:ç
+cl3:â
+cl4:w
+cr1:%
+cr0:%
+c:%
+c:«
+cl3:«
+c:»
+cl4:%
+cl3:y
+cl3:û
+cl2:û
+cr2::
+cr0::
+c:[
+cr1:]
+cl4:[
+cr0:]
+c:]
+cl3:[
+cl2:[
+cl4:]
+cr1:ù
+cr1:;
+cr2:ç
+cl4:»
+cr0:g
+c:"
+cl3:"
+cl4:"
+cr1:'
+cl2:"
+cr0:"
+cr1:ê
+cl3:»
+cr2:ê
+cl4:.
+cl2:«
+cl4:í
+cl3:á
+cr0:j
+cr1:ç
+cl2:ô
+cl4:­
+cr1:º
+cl3:­
+cr0:º
+cl3:j
+cl2:à
+cr1:à
+cr0:â
+cr0:ç
+cl2:w
+cr1:"
+cr1:»
+cr2:;
+cl3:.
+cl2:k
+cr2:y
+cl4:,
+4
+NULL
+SP_LEFT
+SP_RIGHT
+sp_left_right
+59
+1 2 13
+37 3 4
+209 -1 -2
+219 -2 5
+273 -2 6
+159 7 8
+16 -1 -1
+145 9 11
+78 10 -1
+42 -3 -1
+236 12 -1
+7 -3 -1
+24 14 23
+125 15 16
+226 -2 -1
+2 17 -2
+159 -2 18
+88 -2 19
+225 -2 20
+29 -2 21
+105 -2 22
+116 -2 -1
+27 24 28
+30 25 27
+8 26 -1
+14 -3 -1
+86 -1 -3
+125 29 36
+226 -2 30
+219 -2 31
+213 32 33
+191 -2 -1
+260 -2 34
+5 -3 35
+128 -2 -1
+45 37 40
+171 -1 38
+6 -1 39
+104 -1 -3
+189 41 44
+25 -2 42
+54 43 -4
+136 -4 -2
+26 45 51
+128 46 47
+2 -1 -4
+158 48 49
+25 -1 -3
+91 -1 50
+70 -4 -2
+110 -4 52
+175 -2 53
+136 54 58
+146 -4 55
+145 56 57
+32 -1 -4
+77 -4 -1
+30 -2 59
+2 -2 -4

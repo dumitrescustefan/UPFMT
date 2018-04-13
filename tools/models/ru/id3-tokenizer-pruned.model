@@ -1,0 +1,567 @@
+474
+c:,
+cl2:я
+cl3:м
+cl4:и
+cr0:_
+cr1:_
+cr2:_
+upper:false
+prevpo:0
+prevep:0
+prevcp:0
+prevu:0
+prevcap:0
+prevpc:0
+nextpo:0
+nextep:0
+nextcp:0
+nextu:0
+nextcap:0
+nextpc:0
+cl2:н
+cl3:и
+cl4:я
+c:.
+cl2:с
+cl3:т
+nextcap:1
+cl3:е
+cl4:н
+cl2:г
+cl3:р
+cl4:е
+c::
+cl2:_
+cl3:_
+cl4:0
+nextep:1
+nextcp:1
+nextu:1
+cl2:0
+cl3:0
+prevep:1
+prevcp:1
+prevu:1
+nextpc:1
+cl2:р
+cl3:а
+cl4:г
+cl2:о
+upper:true
+cl3:д
+cl4:у
+cl2:т
+cl3:к
+cl2:ч
+cl4:й
+cl3:ы
+prevpo:1
+cl2:к
+cl3:о
+cl2:л
+prevcap:1
+cl4:т
+cl2:ь
+cl3:с
+cl4:а
+cl2:е
+cl3:л
+cl3:н
+cl4:м
+cl2:д
+cl4:в
+cl3:в
+cl2:а
+cl3:б
+c:`
+cl4:_
+cr0:`
+cr1:ц
+cr2:е
+cl4:`
+cr0:ц
+cr1:е
+cr2:н
+c:;
+cl2:#
+cr0:&
+cr1:#
+cr2:0
+cr0:.
+cl4:;
+cr1:б
+cr2:о
+cr0:б
+cr1:о
+c:(
+cr0:о
+cr1:п
+c:)
+cl4:ы
+cl4:р
+cr0:п
+cr1:р
+cl3:я
+cl4:х
+cl3:х
+cl4:)
+cl3:г
+cr0:)
+cr1:,
+cl4:(
+cr0:,
+cl3:(
+cr0:;
+cr1:а
+cr2:л
+cr0:а
+cr1:л
+cr2:ь
+nextpo:1
+cr0:л
+cr2:с
+cl4:с
+cl3:ш
+cl2:и
+cl2:б
+cr1:в
+prevpc:1
+cr0:в
+cl2:ц
+cr0:с
+cl2:в
+cl4:ч
+cl4:о
+cr2:р
+cl4:к
+cl4:з
+cl4:ю
+cr2:в
+cr2:т
+cl2:ё
+cl2:у
+cl4:ь
+cl2:щ
+cr0:c
+cr1:a
+cr2:i
+cl2:g
+cl3:u
+cl4:a
+cl2:i
+cl3:w
+cl2:y
+cl2:o
+cl3:v
+cl4:á
+cr0:г
+cr1:у
+cr2:а
+cl3:п
+cl2:ю
+cl3:у
+cl4:ц
+cr1:с
+cl3:ь
+cl4:д
+cl2:з
+cl4:ф
+cl4:л
+cr0:0
+cl4:б
+cr2:и
+cl2:м
+cr2:з
+cr0:у
+cr1:з
+cr2:г
+cl3:й
+cr1:0
+cr0:(
+cl2:ф
+cr1:н
+cl4:щ
+cl2:ы
+cr1:)
+cl4:,
+cr0:н
+cr2:б
+cl3:ю
+cr2:м
+cl2:х
+cr0:к
+cr1:ь
+cr2:я
+cl2:s
+cl3:a
+cl4:t
+cr2:ю
+cl2:п
+cr1:м
+cr0:м
+cr2:ж
+cr1:к
+cl3:ц
+cr2:,
+cl2:(
+cl3:,
+cl2:й
+cl2:ж
+cl4:ж
+cl2:ш
+cr1:ж
+cr2:щ
+cl2:e
+cl3:r
+cl4:y
+cl2:l
+cl3:t
+cl4:d
+cr0:р
+cr2:к
+cl4:r
+cl2:n
+cl3:e
+cr0:т
+cl3:n
+cl4:g
+cl2:v
+cl4:x
+cr1:`
+cr1:.
+cl3:;
+cr1:ч
+cr0:ч
+cl3:ж
+cl4:.
+cl3::
+cr0:я
+cr2:ы
+cr1:т
+cl3:з
+cr1:д
+cl3:ё
+cr2:д
+cl2:-
+cr2:)
+cr0:и
+cr0:д
+cr0:з
+cl2:r
+cl4:b
+cl3:i
+cl4:s
+cr1:и
+cl3:.
+prevpc:3
+cl3:ф
+cl4:l
+cl4:h
+cr0:x
+cl2:x
+cl4:\
+cr0:f
+cl4:f
+cl2:u
+cr0:p
+cl4:p
+cl4:ш
+cr2:х
+cl4:o
+cl4:э
+cr0:х
+cl3:k
+cr1:j
+cr2:o
+cr0:j
+cr1:o
+cr1:g
+cr2:e
+cr0:g
+cr1:e
+cr2:t
+cr2:n
+cr1:г
+cr1:я
+cr2:у
+cl4:п
+cl3:ч
+cr2:п
+cl3:щ
+cr2:ш
+cr2:.
+cr2:й
+cr0:ф
+cl3:p
+cl3:э
+cr2:ё
+cr1:ё
+cr0:ж
+cl4:i
+cr0:э
+cr1:х
+cr1:ы
+cr2:ц
+cr1:t
+cr2:r
+cr0:t
+cr1:r
+cr2:a
+cl4:%
+cr1:i
+cr2:m
+cr1:ю
+cr0:ю
+cr1:ш
+cr0:ш
+cl2:a
+cl3:l
+cl2:э
+cr1:b
+cr0:b
+cr2:l
+cr1:d
+cr0:d
+cr1:s
+cr2:p
+cr0:s
+cr1:p
+cr1:й
+cl3:m
+cr2:k
+cr1:u
+cr0:u
+cr1:n
+cl3:-
+cl4:-
+cr0:外
+cr1:国
+cl4:人
+cl3:人
+cr2:ö
+cr1:ö
+cr0:r
+cr2:f
+cl4:e
+cr0:a
+cl3:o
+cl4:n
+cl3:g
+cr2:э
+cr1:э
+cl3:%
+cr0:e
+cl3:)
+cl2:)
+cl2:,
+cl2:.
+cl2:z
+cl3:z
+cl4:z
+cr1:ф
+c:?
+cl2:c
+cl4:m
+cl3:c
+cl3:x
+cr0:k
+cl3:s
+cr0:奏
+cl4:抄
+cl3:抄
+cr2:-
+cr2:w
+cr0:o
+cl2:m
+cl3:d
+cl3:f
+nextpc:3
+cl3:`
+cl2:`
+cr1:c
+cr2:c
+cr0:!
+c:!
+cl4:!
+cl3:!
+cr2:u
+cl4:w
+cl4:u
+cl2:d
+cr2:ч
+cl4:°
+cl2:b
+cr1:h
+cr2:d
+cr0:h
+cl4:ψ
+cr1:l
+cr1:m
+cr0:m
+nextpc:2
+cr2:g
+cl3:h
+cl4:ё
+cr0::
+cl3:y
+cr0:-
+cr1:-
+cr0:е
+cr2:s
+cl2:w
+cl2::
+cl4:j
+cr2:h
+cr0:i
+cr2:y
+cr1:x
+cl2:ห
+cl3:ี
+cl4:บ
+cr2:v
+cl3:j
+cl2:t
+cr1:!
+cl3:/
+cl2:/
+cl2:j
+cl2:p
+cl4:−
+cl3:́
+cl2:́
+cr1:ә
+cl2:ә
+cl3:һ
+cr2:ó
+cr1:ó
+cl4:c
+cr0:φ
+cl4:φ
+cl4:θ
+prevpc:2
+cr2:ф
+cl4:q
+cl2:h
+cr0:l
+cr1:v
+cr0:v
+cr2:x
+cr0:n
+cr1::
+cr2::
+cl2:f
+cr0:w
+cl2:ї
+cl2:k
+cr0:щ
+cr1:w
+cr1:щ
+cr1:f
+cr1:ō
+cl3:q
+cl4:ǐ
+cl4:k
+cr0:$
+cl2:$
+cr2:ң
+cr1:(
+cr2:`
+cr1:;
+cl4:v
+cr1:y
+cl2:;
+cl2:š
+cl4:š
+4
+SP_LEFT
+NULL
+SP_RIGHT
+sp_left_right
+86
+5 2 56
+86 -2 3
+34 4 20
+24 5 18
+19 6 9
+39 7 -2
+13 8 -2
+14 -1 -2
+8 -1 10
+35 11 -1
+11 12 -1
+29 -1 13
+13 14 -1
+18 15 -1
+348 -1 16
+66 17 -2
+16 -1 -2
+77 -2 19
+76 -2 -1
+236 21 22
+24 -2 -1
+24 23 -1
+19 24 -1
+166 25 27
+18 26 -2
+13 -1 -2
+18 28 52
+12 29 50
+16 30 41
+17 31 38
+10 -1 -1
+25 -1 33
+46 -1 34
+52 -1 35
+4 -1 36
+30 -1 37
+218 -1 -2
+138 -2 39
+63 40 -1
+47 -2 -1
+66 -1 42
+45 -2 43
+72 -2 44
+48 -2 45
+149 -2 46
+21 47 48
+22 -1 -2
+36 49 -1
+15 -1 -2
+16 51 -2
+17 -2 -1
+20 53 -2
+206 -2 54
+57 55 -1
+12 -1 -2
+99 -1 57
+36 -2 58
+78 59 61
+77 -2 60
+230 -2 -1
+7 62 77
+109 63 67
+77 -2 64
+9 65 -2
+70 -2 66
+76 -2 -1
+24 68 70
+231 69 -2
+77 -2 -1
+112 71 73
+34 72 -1
+85 -1 -2
+114 74 75
+1 -1 -2
+90 -2 76
+383 -2 -3
+90 78 79
+10 -1 -2
+180 -2 80
+185 81 83
+112 -2 82
+383 -2 -3
+24 -2 84
+111 -4 85
+379 86 -3
+8 -4 -3

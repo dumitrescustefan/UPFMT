@@ -1,0 +1,451 @@
+DET	Case=Dat,Gen	Definite=Def	Number=Sing	PronType=Art
+PROPN	_
+PRON	Case=Dat	Number=Sing	Person=3	PronType=Prs	Strength=Weak
+VERB	Mood=Ind	Number=Sing	Person=3	Tense=Pqp	VerbForm=Fin
+NOUN	Case=Acc,Nom	Definite=Def	Gender=Fem	Number=Sing
+DET	Case=Acc,Nom	Gender=Fem	Number=Sing	Person=3	Position=Postnom	PronType=Dem
+ADP	AdpType=Prep	Case=Acc
+NUM	Case=Acc,Nom	Definite=Def	Gender=Masc	Number=Sing	NumForm=Word	NumType=Ord
+NOUN	Definite=Ind	Gender=Masc	Number=Sing
+ADV	PronType=Int,Rel
+PRON	Case=Acc	Gender=Fem	Number=Sing	Person=3	PronType=Prs	Strength=Weak
+PUNCT	_
+VERB	Mood=Ind	Number=Sing	Person=3	Tense=Imp	VerbForm=Fin
+CCONJ	Polarity=Pos
+PRON	Case=Acc,Nom	Person=3	PronType=Int,Rel
+NOUN	Case=Dat,Gen	Definite=Def	Gender=Fem	Number=Sing
+NOUN	Definite=Ind	Gender=Fem	Number=Plur
+ADJ	Definite=Ind	Degree=Pos	Number=Plur
+NOUN	Case=Acc,Nom	Definite=Ind	Gender=Fem	Number=Sing
+PART	Mood=Sub	Variant=Short
+VERB	Mood=Sub	Person=3	Tense=Pres	VerbForm=Fin
+NOUN	Case=Acc,Nom	Definite=Def	Gender=Masc	Number=Sing
+DET	Number[psor]=Sing	Person=3	Poss=Yes	PronType=Prs
+PRON	Case=Acc	Person=3	PronType=Prs	Reflex=Yes	Strength=Weak
+AUX	Tense=Pres	VerbForm=Inf
+VERB	Gender=Masc	Number=Sing	VerbForm=Part
+ADV	_
+ADV	Degree=Pos
+PART	Polarity=Neg
+VERB	Mood=Ind	Number=Sing	Person=2	Tense=Imp	VerbForm=Fin
+PART	Mood=Sub
+PRON	Case=Acc	Gender=Masc	Number=Sing	Person=3	PronType=Prs	Strength=Weak	Variant=Short
+VERB	Mood=Ind	Number=Sing	Person=2	Tense=Pres	VerbForm=Fin
+PRON	Case=Acc,Nom	Gender=Masc	Number=Sing	Person=3	PronType=Ind
+DET	Case=Acc,Nom	Person=3	Position=Prenom	PronType=Ind
+PRON	Case=Acc,Nom	Gender=Fem	Number=Plur	Person=3	PronType=Dem
+ADJ	Definite=Ind	Degree=Pos	Gender=Fem	Number=Plur
+NOUN	Case=Acc,Nom	Definite=Def	Gender=Fem	Number=Plur
+AUX	Mood=Ind	Number=Plur	Person=3	Tense=Imp	VerbForm=Fin
+DET	Case=Acc,Nom	Gender=Fem	Number=Plur	PronType=Dem
+DET	Gender=Fem	Number=Plur	Poss=Yes	PronType=Prs
+NOUN	Case=Dat,Gen	Definite=Def	Gender=Masc	Number=Sing
+VERB	Mood=Ind	Number=Plur	Person=3	Tense=Imp	VerbForm=Fin
+ADJ	Definite=Ind	Degree=Pos	Gender=Masc	Number=Sing
+PRON	Case=Acc	Number=Sing	Person=2	PronType=Prs	Strength=Weak
+SCONJ	Polarity=Pos
+AUX	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin
+ADJ	Case=Acc,Nom	Definite=Ind	Degree=Pos	Gender=Fem	Number=Sing
+PRON	Case=Acc,Nom	Gender=Fem	Number=Plur	Person=3	PronType=Ind
+DET	Case=Acc,Nom	Gender=Fem	Number=Sing	PronType=Ind
+PRON	Case=Acc,Nom	Gender=Fem	Number=Sing	Person=3	PronType=Prs	Strength=Strong
+AUX	Mood=Ind	Number=Sing	Person=3	Tense=Pqp	VerbForm=Fin
+AUX	Person=3
+VERB	Tense=Pres	VerbForm=Inf
+PRON	Case=Acc,Nom	Number=Sing	Person=3	PronType=Ind
+DET	Case=Acc,Nom	Gender=Fem	Number=Plur	Person=3	PronType=Int,Rel
+PRON	Case=Acc,Nom	Gender=Masc	Number=Sing	Person=3	PronType=Prs	Strength=Strong
+DET	Case=Acc,Nom	Gender=Fem	Number=Sing	Person=3	PronType=Dem
+AUX	Mood=Ind	Number=Sing	Person=3	Tense=Imp	VerbForm=Fin
+DET	Case=Acc,Nom	Gender=Masc	Number=Sing	PronType=Ind
+DET	Gender=Masc	Number=Sing	Poss=Yes	PronType=Prs
+ADJ	Degree=Pos
+NOUN	Case=Acc,Nom	Definite=Def	Gender=Masc	Number=Plur
+VERB	Mood=Ind	Number=Plur	Person=3	Tense=Pqp	VerbForm=Fin
+VERB	VerbForm=Ger
+DET	Gender=Fem	Number=Sing	Poss=Yes	PronType=Prs
+DET	Case=Dat,Gen	Gender=Masc	Number=Sing	PronType=Ind
+VERB	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Fin
+DET	Gender=Masc	Number=Sing	Number[psor]=Sing	Person=3	Poss=Yes	PronType=Prs
+PART	PartType=Inf
+PRON	Case=Dat	Person=3	PronType=Prs	Reflex=Yes	Strength=Weak	Variant=Short
+DET	Case=Acc,Nom	Person=3	Position=Prenom	PronType=Int,Rel
+DET	Case=Acc,Nom	Gender=Masc	Number=Plur	Person=3	Position=Prenom	PronType=Dem
+NOUN	Definite=Ind	Gender=Masc	Number=Plur
+PRON	Case=Dat	Number=Sing	Person=2	PronType=Prs	Strength=Weak	Variant=Short
+NUM	Number=Plur	NumForm=Word	NumType=Card
+PRON	Case=Acc	Gender=Masc	Number=Sing	Person=3	PronType=Prs	Strength=Weak
+DET	Case=Acc,Nom	Gender=Masc	Number=Plur	Person=3	PronType=Ind
+DET	Case=Dat,Gen	Gender=Fem	Number=Sing	PronType=Ind
+NOUN	Case=Dat,Gen	Definite=Ind	Gender=Fem	Number=Sing
+VERB	Gender=Fem	Number=Plur	VerbForm=Part
+ADV	PronType=Neg
+ADP	AdpType=Prep	Case=Acc	Variant=Short
+ADJ	Case=Acc,Nom	Definite=Ind	Degree=Sup	Gender=Fem	Number=Sing
+DET	Case=Acc,Nom	Gender=Masc	Number=Sing	Person=3	Position=Postnom	PronType=Dem
+AUX	Number=Sing	Person=2
+DET	Case=Acc,Nom	Gender=Masc	Number=Sing	PronType=Dem
+NUM	Gender=Fem	Number=Plur	NumForm=Word	NumType=Card
+DET	Case=Acc,Nom	Gender=Masc	Number=Sing	Person=3	Position=Prenom	PronType=Dem
+DET	Case=Acc,Nom	Gender=Fem	Number=Plur	Person=3	PronType=Ind
+VERB	Gender=Fem	Number=Sing	VerbForm=Part
+PRON	Case=Acc,Nom	Gender=Masc	Number=Plur	Person=3	PronType=Prs	Strength=Strong
+ADJ	Definite=Ind	Degree=Pos	Gender=Fem
+ADJ	Case=Dat,Gen	Definite=Ind	Degree=Pos	Gender=Fem	Number=Sing
+PRON	Case=Acc,Nom	Gender=Fem	Number=Sing	Person=3	PronType=Dem
+DET	Case=Acc,Nom	Gender=Masc	Number=Sing	Person=3	PronType=Ind
+PRON	Case=Acc,Nom	Number=Sing	Person=3	PronType=Neg
+PRON	Case=Acc,Nom	Gender=Fem	Number=Sing	Person=3	PronType=Ind
+DET	Gender=Masc	Number=Sing	Person=3	PronType=Emp
+VERB	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin
+DET	Case=Dat,Gen	Number=Plur	PronType=Dem
+AUX	Mood=Sub	Person=3	Tense=Pres	VerbForm=Fin
+NUM	NumForm=Word	NumType=Ord
+ADP	AdpType=Prep	Case=Gen
+NOUN	Case=Dat,Gen	Definite=Def	Gender=Masc	Number=Plur
+PUNCT	AdpType=Prep
+VERB	Gender=Masc	Number=Plur	VerbForm=Part
+PRON	Case=Dat	Number=Sing	Person=3	PronType=Prs	Strength=Weak	Variant=Short
+PRON	Case=Dat	Person=3	PronType=Prs	Reflex=Yes	Strength=Weak
+NOUN	Case=Dat,Gen	Definite=Def	Gender=Fem	Number=Plur
+PRON	Case=Acc,Nom	Gender=Masc	Number=Plur	Person=3	PronType=Ind
+DET	Gender=Masc	Number=Sing	Person=3	PronType=Ind
+PRON	Case=Acc,Nom	Gender=Masc	Number=Sing	Person=3	PronType=Dem
+ADJ	Definite=Ind	Degree=Pos	Gender=Masc	Number=Plur
+PRON	Case=Acc	Person=3	PronType=Prs	Reflex=Yes	Strength=Strong
+DET	Case=Acc,Nom	Gender=Fem	Number=Plur	Person=3	Position=Prenom	PronType=Dem
+DET	Case=Acc,Nom	Gender=Fem	Number=Sing	Person=3	PronType=Ind
+DET	Case=Acc,Nom	Number=Sing	Person=3	Position=Prenom	PronType=Ind
+NUM	Case=Acc,Nom	Definite=Ind	Gender=Fem	Number=Sing	NumForm=Word	NumType=Card
+DET	Case=Dat,Gen	Number=Plur	Person=3	PronType=Ind
+DET	Case=Dat,Gen	Number=Plur	Person=3	Position=Prenom	PronType=Dem
+DET	Case=Acc,Nom	Gender=Masc	Number=Plur	Person=3	Position=Prenom	PronType=Ind
+DET	Case=Acc,Nom	Gender=Fem	Number=Plur	Person=3	Position=Prenom	PronType=Ind
+DET	Case=Dat,Gen	Gender=Fem	Number=Sing	Person=3	Position=Prenom	PronType=Int,Rel
+AUX	Gender=Masc	Number=Sing	VerbForm=Part
+VERB	Variant=Short	VerbForm=Ger
+PRON	Case=Acc	Gender=Masc	Number=Plur	Person=3	PronType=Prs	Strength=Weak	Variant=Short
+PRON	Case=Acc	Gender=Fem	Number=Plur	Person=3	PronType=Prs	Strength=Weak
+DET	Case=Acc,Nom	Gender=Masc	Number=Sing	Person=3	Position=Prenom	PronType=Ind
+NUM	Gender=Masc	Number=Sing	NumForm=Word	NumType=Ord
+AUX	Number=Sing	Person=3
+NUM	Case=Acc,Nom	Definite=Def	Gender=Fem	Number=Sing	NumForm=Word	NumType=Ord
+ADJ	Case=Acc,Nom	Definite=Def	Degree=Pos	Gender=Fem	Number=Sing
+PRON	Case=Dat,Gen	Gender=Masc	Number=Sing	Person=3	PronType=Prs	Strength=Strong
+VERB	Mood=Ind	Number=Plur	Person=3	Tense=Past	VerbForm=Fin
+DET	Case=Acc,Nom	Gender=Fem	Number=Sing	Person=3	Position=Prenom	PronType=Dem
+VERB	Mood=Ind	Person=1	Tense=Imp	VerbForm=Fin
+PRON	Case=Acc,Nom	Number=Sing	Person=2	PronType=Prs	Strength=Strong
+AUX	Person=1
+PRON	Case=Dat,Gen	Number=Sing	Person=2	PronType=Prs	Strength=Strong
+PRON	Case=Acc	Number=Sing	Person=2	PronType=Prs	Strength=Strong
+DET	Case=Acc,Nom	Gender=Masc	Number=Plur	PronType=Dem
+PRON	Case=Nom	Number=Sing	Person=1	PronType=Prs	Strength=Strong
+AUX	Mood=Ind	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin
+DET	Case=Acc,Nom	Gender=Fem	Number=Sing	Number[psor]=Sing	Person=1	Poss=Yes	PronType=Prs
+PART	Polarity=Neg	Variant=Short
+PRON	Case=Dat	Number=Sing	Person=1	PronType=Prs	Strength=Weak
+VERB	Mood=Ind	Person=3	Tense=Pres	VerbForm=Fin
+DET	Gender=Masc	Number=Sing	Person=3	Position=Prenom	PronType=Ind
+NUM	Case=Acc,Nom	Gender=Masc	Number=Plur	NumType=Card	PronType=Tot
+VERB	Mood=Ind	Person=1	Tense=Pqp	VerbForm=Fin
+VERB	Mood=Ind	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin
+PRON	Case=Acc	Person=3	PronType=Prs	Reflex=Yes	Strength=Weak	Variant=Short
+AUX	Number=Plur	Person=3
+NUM	Gender=Fem	Number=Sing	NumForm=Word	NumType=Ord
+PROPN	Case=Dat,Gen	Definite=Def	Gender=Fem	Number=Sing
+SCONJ	Polarity=Pos	Variant=Short
+PRON	Case=Acc,Nom	Number=Plur	Person=1	PronType=Prs	Strength=Strong
+VERB	Mood=Ind	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin
+DET	Case=Acc,Nom	Gender=Fem	Number=Sing	Person=3	Position=Prenom	PronType=Ind
+PRON	Case=Acc	Number=Sing	Person=2	PronType=Prs	Strength=Weak	Variant=Short
+VERB	Mood=Ind	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin
+PART	Tense=Fut
+VERB	Mood=Imp	Number=Sing	Person=2	VerbForm=Fin
+PRON	Case=Acc	Number=Sing	Person=1	PronType=Prs	Strength=Strong
+PRON	Case=Dat	Number=Sing	Person=2	PronType=Prs	Strength=Weak
+PRON	Case=Acc	Gender=Fem	Number=Plur	Person=3	PronType=Prs	Strength=Weak	Variant=Short
+DET	Gender=Fem	Number=Plur	Person=3	PronType=Ind
+DET	Person=3	PronType=Ind
+VERB	Mood=Ind	Number=Plur	Person=2	Tense=Pres	VerbForm=Fin
+PRON	Case=Acc	Number=Plur	Person=2	PronType=Prs	Strength=Weak
+NOUN	Case=Voc	Definite=Def	Gender=Masc	Number=Sing
+PRON	Case=Acc,Nom	Gender=Masc	Number=Plur	Person=3	PronType=Dem
+ADJ	Case=Acc,Nom	Definite=Def	Degree=Pos	Gender=Masc	Number=Sing
+DET	Case=Dat,Gen	Gender=Fem	Number=Sing	Number[psor]=Sing	Person=3	Poss=Yes	PronType=Prs
+DET	Case=Acc,Nom	Gender=Fem	Number=Sing	Person=3	PronType=Emp
+PRON	Case=Acc,Nom	Person=3	PronType=Ind
+DET	Case=Dat,Gen	Gender=Masc	Number=Sing	PronType=Dem
+NUM	Definite=Ind	NumForm=Word	NumType=Ord
+PRON	Case=Dat,Gen	Number=Plur	Person=3	PronType=Dem
+AUX	Mood=Ind	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin
+DET	Gender=Masc	Number=Sing	Number[psor]=Sing	Person=1	Poss=Yes	PronType=Prs
+DET	Case=Dat,Gen	Definite=Def	Gender=Fem	Number=Plur	PronType=Art	Variant=Short
+DET	Case=Acc,Nom	Gender=Masc	Number=Sing	Person=3	PronType=Int,Rel
+DET	Gender=Masc	Number=Plur	Poss=Yes	PronType=Prs
+DET	Number[psor]=Plur	Person=3	Poss=Yes	PronType=Prs
+NUM	Gender=Masc	Number=Plur	NumForm=Word	NumType=Card
+PRON	Case=Dat,Gen	Gender=Masc	Number=Sing	Person=3	PronType=Ind
+NOUN	Definite=Ind	Gender=Masc
+DET	Gender=Masc	Number=Sing	Number[psor]=Sing	Person=2	Poss=Yes	PronType=Prs
+AUX	Mood=Ind	Number=Sing	Person=2	Tense=Imp	VerbForm=Fin
+NUM	Case=Acc,Nom	Gender=Masc	Number=Sing	NumForm=Word	NumType=Card
+DET	Case=Acc,Nom	Gender=Fem	Number=Plur	Person=3	Position=Postnom	PronType=Dem
+DET	Case=Acc,Nom	Gender=Fem	Number=Sing	PronType=Dem
+NUM	Definite=Ind	Gender=Fem	Number=Plur	NumForm=Word	NumType=Card
+PRON	Case=Acc,Nom	Gender=Fem	Number=Plur	Person=3	PronType=Int,Rel
+PRON	Case=Acc,Nom	Gender=Fem	Number=Plur	Person=3	PronType=Prs	Strength=Strong
+PRON	Number[psor]=Sing	Person=3	Poss=Yes	PronType=Prs
+DET	Case=Dat,Gen	Number=Plur	PronType=Ind
+DET	Case=Acc,Nom	Number=Sing	Person=3	PronType=Ind
+NUM	Number=Plur	NumForm=Digit	NumType=Card
+NUM	Case=Acc,Nom	Definite=Def	Gender=Masc	Number=Plur	NumForm=Word	NumType=Ord
+INTJ	_
+PRON	Case=Acc	Number=Plur	Person=1	PronType=Prs	Strength=Weak
+VERB	Mood=Ind	Number=Sing	Person=3	Tense=Pres	Variant=Short	VerbForm=Fin
+AUX	Mood=Ind	Number=Sing	Person=3	Tense=Pres	Variant=Short	VerbForm=Fin
+PRON	Case=Acc	Number=Sing	Person=1	PronType=Prs	Strength=Weak
+DET	Case=Acc,Nom	Gender=Fem	Number=Sing	Number[psor]=Sing	Person=2	Poss=Yes	PronType=Prs
+ADJ	Case=Dat,Gen	Definite=Def	Degree=Pos	Gender=Fem	Number=Sing
+PRON	Case=Dat,Gen	Gender=Fem	Number=Sing	Person=3	PronType=Int,Rel
+PRON	Case=Dat	Number=Sing	Person=1	PronType=Prs	Strength=Weak	Variant=Short
+PRON	Case=Acc	Number=Sing	Person=1	PronType=Prs	Strength=Weak	Variant=Short
+AUX	Mood=Ind	Number=Sing	Person=2	Tense=Pres	VerbForm=Fin
+PRON	Case=Dat,Gen	Number=Plur	Person=3	PronType=Ind
+DET	Case=Acc,Nom	Gender=Masc	Number=Plur	Person=3	Position=Postnom	PronType=Dem
+PRON	Case=Acc	Gender=Fem	Number=Sing	Person=3	PronType=Prs	Strength=Weak	Variant=Short
+ADJ	Definite=Ind	Degree=Pos	Gender=Masc
+AUX	Mood=Sub	Number=Sing	Person=2	Tense=Pres	VerbForm=Fin
+DET	Case=Dat,Gen	Gender=Masc	Number=Sing	Person=3	Position=Prenom	PronType=Ind
+VERB	Mood=Ind	Number=Sing	Person=2	Tense=Pqp	VerbForm=Fin
+PRON	Case=Dat,Gen	Gender=Masc	Number=Plur	Person=3	PronType=Dem
+AUX	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Fin
+NOUN	Case=Voc	Definite=Ind	Gender=Masc	Number=Sing
+PRON	Case=Acc	Number=Plur	Person=2	PronType=Prs	Strength=Weak	Variant=Short
+PRON	Case=Acc,Nom	Gender=Masc	Number=Sing	Person=3	PronType=Ind	Variant=Short
+ADJ	Case=Acc,Nom	Definite=Def	Degree=Pos	Gender=Fem	Number=Plur
+VERB	Mood=Imp	Number=Plur	Person=2	VerbForm=Fin
+CCONJ	Polarity=Pos	Variant=Short
+AUX	Number=Plur	Person=2
+ADJ	Case=Dat,Gen	Definite=Def	Degree=Pos	Gender=Fem	Number=Plur
+PRON	Case=Dat	Number=Plur	Person=2	PronType=Prs	Strength=Weak
+DET	Case=Acc,Nom	Gender=Masc	Number=Plur	Person=3	PronType=Dem
+PRON	Case=Dat	Number=Sing	Person=2	PronType=Prs	Strength=Strong
+DET	Case=Dat,Gen	Definite=Def	Gender=Masc	Number=Sing	PronType=Art	Variant=Short
+AUX	VerbForm=Ger
+NUM	Case=Acc,Nom	Definite=Def	Gender=Fem	Number=Plur	NumForm=Word	NumType=Card
+DET	Case=Dat,Gen	Gender=Fem	Number=Sing	Person=3	Position=Prenom	PronType=Dem
+PRON	Case=Dat	Number=Plur	Person=3	PronType=Prs	Strength=Weak	Variant=Short
+PRON	Case=Dat	Number=Plur	Person=3	PronType=Prs	Strength=Weak
+AUX	Mood=Ind	Number=Plur	Person=3	Tense=Pqp	VerbForm=Fin
+PRON	Person=3	PronType=Ind
+NOUN	Definite=Ind	Gender=Fem
+VERB	Mood=Ind	Number=Plur	Person=2	Tense=Imp	VerbForm=Fin
+NOUN	Case=Acc,Nom	Definite=Def	Gender=Fem	Number=Sing	Variant=Short
+NUM	Case=Dat,Gen	Definite=Def	Gender=Fem	Number=Sing	NumForm=Word	NumType=Ord
+ADV	Degree=Sup
+NUM	Case=Acc,Nom	Definite=Def	Gender=Fem	Number=Plur	NumForm=Word	NumType=Ord
+ADV	PronType=Int,Rel	Variant=Short
+VERB	Mood=Ind	Number=Sing	Person=2	Tense=Pres	Variant=Short	VerbForm=Fin
+NOUN	Case=Acc,Nom	Definite=Def	Gender=Masc	Number=Sing	Variant=Short
+PRON	Case=Dat	Number=Sing	Person=1	PronType=Prs	Strength=Strong
+DET	Case=Dat,Gen	Definite=Def	Gender=Masc	Number=Plur	PronType=Art	Variant=Short
+PRON	Case=Dat,Gen	Number=Sing	Person=3	PronType=Ind
+DET	Case=Acc,Nom	Gender=Fem	Number=Plur	Person=3	PronType=Dem
+DET	Case=Dat,Gen	Gender=Fem	Number=Plur	Person=3	PronType=Dem
+VERB	Mood=Ind	Number=Sing	Person=1	Tense=Pres	Variant=Short	VerbForm=Fin
+PRON	Case=Acc	Gender=Masc	Number=Plur	Person=3	PronType=Prs	Strength=Weak
+ADV	Degree=Pos	Variant=Short
+PRON	Gender=Fem	Number=Plur	Number[psor]=Sing	Person=2	Poss=Yes	PronType=Prs
+NOUN	Abbr=Yes
+DET	Case=Dat,Gen	Gender=Masc	Number=Sing	Person=3	Position=Prenom	PronType=Int,Rel
+NOUN	_
+DET	Case=Dat,Gen	Gender=Masc	Number=Sing	Person=3	Position=Prenom	PronType=Dem
+ADP	AdpType=Prep	Case=Dat
+PRON	Case=Dat,Gen	Gender=Fem	Number=Sing	Person=3	PronType=Dem
+NUM	Case=Acc,Nom	Definite=Ind	Gender=Fem	Number=Plur	NumForm=Word	NumType=Card
+SYM	AdpType=Prep
+NUM	Case=Acc,Nom	Gender=Fem	Number=Plur	NumType=Card	PronType=Tot
+PROPN	Case=Dat,Gen	Definite=Def	Gender=Masc	Number=Plur
+NUM	Case=Acc,Nom	Definite=Ind	Gender=Fem	Number=Plur	NumForm=Word
+PRON	Case=Dat	Number=Plur	Person=1	PronType=Prs	Strength=Weak
+PRON	Person=2	PronType=Prs	Strength=Strong
+PRON	Case=Dat	Number=Plur	Person=2	PronType=Prs	Strength=Weak	Variant=Short
+SYM	_
+X	_
+X	Abbr=Yes
+ADJ	Case=Dat,Gen	Definite=Def	Degree=Pos	Gender=Masc	Number=Sing
+PRON	Case=Dat,Gen	Number=Plur	Person=3	PronType=Int,Rel
+DET	Gender=Masc	Number=Plur	Number[psor]=Sing	Person=3	Poss=Yes	PronType=Prs
+DET	Case=Dat,Gen	Gender=Fem	Number=Sing	Number[psor]=Plur	Person=1	Poss=Yes	PronType=Prs
+PRON	Case=Acc,Nom	Gender=Fem	Number=Sing	Number[psor]=Sing	Person=3	Poss=Yes	PronType=Prs
+PROPN	Case=Dat,Gen	Definite=Def	Gender=Masc	Number=Sing
+ADV	Abbr=Yes
+PROPN	Case=Acc,Nom	Definite=Def	Gender=Masc	Number=Sing
+DET	Case=Acc,Nom	Gender=Fem	Number=Sing	Number[psor]=Plur	Person=1	Poss=Yes	PronType=Prs
+NUM	Case=Dat,Gen	Definite=Def	Gender=Masc	Number=Sing	NumForm=Word	NumType=Ord
+AUX	Mood=Ind	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin
+PRON	Case=Dat,Gen	Gender=Masc	Number=Sing	Person=3	PronType=Dem
+PRON	Case=Dat,Gen	Gender=Masc	Number=Sing	Person=3	PronType=Int,Rel
+ADJ	Case=Dat,Gen	Definite=Def	Degree=Pos	Number=Plur
+DET	Case=Dat,Gen	Number=Plur	Person=3	Position=Prenom	PronType=Int,Rel
+NUM	Number=Sing	NumForm=Roman	NumType=Ord
+NOUN	Case=Voc	Definite=Def	Gender=Fem	Number=Sing
+DET	Gender=Fem	Number=Plur	Number[psor]=Sing	Person=3	Poss=Yes	PronType=Prs
+ADJ	Case=Dat,Gen	Definite=Ind	Degree=Cmp	Gender=Fem	Number=Sing
+AUX	Mood=Ind	Number=Plur	Person=2	Tense=Pres	VerbForm=Fin
+DET	Gender=Masc	Number=Sing	Number[psor]=Plur	Person=1	Poss=Yes	PronType=Prs
+PRON	Case=Acc	Number=Plur	Person=1	PronType=Prs	Strength=Weak	Variant=Short
+DET	Case=Dat,Gen	Number=Plur	Person=3	Position=Prenom	PronType=Ind
+PRON	Case=Dat	Number=Plur	Person=1	PronType=Prs	Strength=Weak	Variant=Short
+DET	Gender=Masc	Number=Plur	Number[psor]=Sing	Person=1	Poss=Yes	PronType=Prs
+AUX	Mood=Ind	Number=Plur	Person=3	Tense=Past	VerbForm=Fin
+NUM	Case=Dat,Gen	Definite=Def	Gender=Masc	Number=Plur	NumForm=Word	NumType=Ord
+ADJ	Case=Acc,Nom	Definite=Def	Degree=Pos	Gender=Masc	Number=Plur
+PRON	Abbr=Yes	Case=Acc,Nom	Number=Sing
+PROPN	Foreign=Yes
+NOUN	Definite=Ind	Foreign=Yes	Gender=Masc	Number=Sing
+ADJ	Definite=Ind	Degree=Pos	Foreign=Yes	Gender=Masc	Number=Sing
+ADJ	Definite=Ind	Degree=Cmp	Gender=Fem	Number=Plur
+DET	Definite=Def	Gender=Fem	Number=Sing	PronType=Art	Variant=Short
+NUM	Definite=Ind	Gender=Masc	Number=Sing	NumForm=Word	NumType=Ord
+ADJ	Definite=Ind	Degree=Pos	Foreign=Yes	Gender=Fem
+DET	Case=Acc,Nom	Gender=Fem	Number=Sing	Number[psor]=Sing	Person=3	Poss=Yes	PronType=Prs
+DET	Definite=Def	Gender=Masc	Number=Sing	PronType=Art	Variant=Short
+DET	Case=Acc,Nom	Definite=Def	Gender=Masc	Number=Sing	PronType=Art	Variant=Short
+ADJ	Case=Acc,Nom	Definite=Ind	Degree=Cmp	Gender=Fem	Number=Sing
+DET	Gender=Fem	Number=Plur	Number[psor]=Plur	Person=1	Poss=Yes	PronType=Prs
+DET	Case=Acc,Nom	Gender=Masc	Number=Plur	Person=3	PronType=Int,Rel
+X	Foreign=Yes
+NUM	Definite=Ind	Gender=Masc	Number=Sing	NumForm=Word	NumType=Card
+PRON	Case=Dat,Gen	Gender=Fem	Number=Sing	Person=3	PronType=Prs	Strength=Strong
+DET	Case=Dat,Gen	Gender=Fem	Number=Sing	Person=3	Position=Prenom	PronType=Ind
+NOUN	Foreign=Yes
+DET	Gender=Fem	Number=Plur	Number[psor]=Sing	Person=1	Poss=Yes	PronType=Prs
+DET	Gender=Fem	Number=Plur	Number[psor]=Plur	Person=2	Poss=Yes	PronType=Prs
+ADJ	Case=Dat,Gen	Definite=Def	Degree=Pos	Gender=Masc	Number=Plur
+DET	Gender=Masc	Number=Plur	Person=3	PronType=Ind
+ADJ	Definite=Ind	Degree=Cmp	Gender=Masc	Number=Sing
+NOUN	Case=Acc,Nom	Definite=Ind	Gender=Masc	Number=Sing
+DET	Case=Dat,Gen	Gender=Masc	Number=Plur	Person=3	PronType=Dem
+DET	Gender=Masc	Number=Plur	Person=3	PronType=Emp
+DET	Case=Acc,Nom	Gender=Masc	Number=Sing	Person=3	Position=Prenom	PronType=Neg
+DET	Case=Acc,Nom	Gender=Fem	Number=Sing	Person=3	Position=Prenom	PronType=Neg
+PRON	Case=Acc,Nom	Gender=Fem	Number=Sing	Person=3	PronType=Neg
+DET	Case=Dat,Gen	Gender=Fem	Number=Sing	PronType=Dem
+NUM	Case=Dat,Gen	Definite=Def	Gender=Fem	Number=Plur	NumForm=Word	NumType=Ord
+PRON	Case=Dat,Gen	Number=Plur	Person=3	PronType=Prs	Strength=Strong
+DET	Case=Dat,Gen	Gender=Masc	Number=Sing	Person=3	Position=Prenom	PronType=Neg
+DET	Case=Dat,Gen	Gender=Fem	Number=Sing	Person=3	PronType=Ind
+PRON	Case=Dat,Gen	Gender=Fem	Number=Sing	Person=3	PronType=Ind
+NUM	Case=Acc,Nom	Definite=Def	Gender=Masc	Number=Sing	NumForm=Word	NumType=Card
+DET	Gender=Fem	Number=Plur	Person=3	PronType=Emp
+NOUN	Definite=Ind
+DET	Gender=Masc	Number=Sing	Person=1	PronType=Emp
+PRON	Abbr=Yes
+PRON	Case=Acc,Nom	Gender=Fem	Number=Sing	Number[psor]=Sing	Person=1	Poss=Yes	PronType=Prs
+PRON	Number[psor]=Plur	Person=3	Poss=Yes	PronType=Prs
+AUX	Number=Sing	Person=1
+DET	Case=Dat,Gen	Gender=Fem	Number=Sing	Person=3	PronType=Emp
+NUM	_
+DET	Case=Dat,Gen	Gender=Fem	Number=Sing	Number[psor]=Sing	Person=1	Poss=Yes	PronType=Prs
+DET	Case=Acc,Nom	Gender=Masc	Number=Sing	Person=3	PronType=Dem
+AUX	Mood=Ind	Number=Plur	Person=3	Tense=Pres	Variant=Short	VerbForm=Fin
+PRON	Gender=Fem	Number=Plur	Number[psor]=Sing	Person=1	Poss=Yes	PronType=Prs
+VERB	Mood=Ind	Number=Sing	Person=1	Tense=Past	VerbForm=Fin
+AUX	Number=Sing	Person=3	Variant=Short
+AUX	Number=Plur	Person=2	Variant=Short
+PRON	Case=Acc,Nom	Number=Plur	Person=2	PronType=Prs	Strength=Strong
+DET	Gender=Masc	Number=Sing	Number[psor]=Plur	Person=2	Poss=Yes	PronType=Prs
+VERB	Mood=Ind	Number=Sing	Person=3	Tense=Past	Variant=Short	VerbForm=Fin
+NOUN	Definite=Ind	Gender=Masc	Number=Sing	Variant=Short
+PRON	Gender=Masc	Number=Sing	Number[psor]=Plur	Person=1	Poss=Yes	PronType=Prs
+DET	Number[psor]=Sing	Person=2	Poss=Yes	PronType=Prs
+DET	Gender=Masc	Number=Plur	Number[psor]=Plur	Person=1	Poss=Yes	PronType=Prs
+ADJ	Definite=Ind	Degree=Pos	Gender=Fem	Number=Plur	Variant=Short
+VERB	Mood=Ind	Number=Plur	Person=3	Tense=Imp	Variant=Short	VerbForm=Fin
+AUX	Number=Plur	Person=3	Variant=Short
+DET	Case=Acc,Nom	Gender=Masc	Number=Sing	Number[psor]=Sing	Person=1	Poss=Yes	PronType=Prs
+VERB	Mood=Ind	Person=3	Tense=Pres	Variant=Short	VerbForm=Fin
+DET	Gender=Masc	Number=Plur	Number[psor]=Plur	Person=2	Poss=Yes	PronType=Prs
+PRON	Case=Dat,Gen	Number=Sing	Person=3	PronType=Int,Rel
+PROPN	Case=Acc,Nom	Definite=Def	Gender=Masc	Number=Plur
+PRON	Gender=Fem	Number=Sing	Person=3	PronType=Prs	Strength=Strong
+PRON	Gender=Masc	Number=Sing	Person=3	PronType=Prs	Strength=Strong
+AUX	Number=Plur	Person=1
+VERB	Tense=Pres	Variant=Short	VerbForm=Inf
+AUX	Number=Sing	Person=2	Variant=Short
+PRON	Case=Acc,Nom	Gender=Fem	Number=Sing	Number[psor]=Plur	Person=1	Poss=Yes	PronType=Prs
+PRON	Case=Acc,Nom	Gender=Masc	Number=Plur	Person=3	PronType=Dem	Variant=Short
+VERB	Mood=Ind	Number=Plur	Person=1	Tense=Past	VerbForm=Fin
+PRON	Case=Nom	Number=Sing	Person=2	PronType=Prs	Strength=Strong
+PRON	Case=Acc,Nom	Gender=Fem	Number=Sing	Person=3	PronType=Prs	Strength=Strong	Variant=Short
+PRON	Gender=Masc	Number=Plur	Number[psor]=Sing	Person=3	Poss=Yes	PronType=Prs
+VERB	Mood=Sub	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin
+AUX	Mood=Ind	Person=1	Tense=Imp	VerbForm=Fin
+ADV	Degree=Pos	Polarity=Neg
+PRON	Case=Acc,Nom	Gender=Masc	Number=Sing	Person=3	PronType=Prs	Strength=Strong	Variant=Short
+AUX	Person=3	Variant=Short
+DET	Gender=Fem	Number=Plur	Number[psor]=Sing	Person=2	Poss=Yes	PronType=Prs
+VERB	Gender=Masc	Number=Sing	Variant=Short	VerbForm=Part
+DET	Case=Acc,Nom	Gender=Fem	Number=Sing	Person=3	PronType=Int,Rel
+PROPN	Case=Dat,Gen	Definite=Ind	Gender=Fem	Number=Sing
+VERB	Mood=Sub	Person=3	Tense=Pres	Variant=Short	VerbForm=Fin
+PRON	Gender=Masc	Number=Sing	Number[psor]=Sing	Person=2	Poss=Yes	PronType=Prs
+AUX	Number=Sing	Person=1	Variant=Short
+PRON	Case=Acc,Nom	Gender=Fem	Number=Sing	Number[psor]=Sing	Person=2	Poss=Yes	PronType=Prs
+AUX	Mood=Sub	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin
+NUM	Case=Dat,Gen	Definite=Ind	Gender=Fem	Number=Sing	NumForm=Word	NumType=Ord
+PRON	Gender=Fem	Number=Plur	Number[psor]=Sing	Person=3	Poss=Yes	PronType=Prs
+DET	Case=Acc,Nom	Gender=Fem	Number=Sing	Number[psor]=Plur	Person=2	Poss=Yes	PronType=Prs
+PROPN	Definite=Ind	Gender=Masc	Number=Sing
+PRON	Case=Acc,Nom	Gender=Fem	Number=Sing	Number[psor]=Plur	Person=2	Poss=Yes	PronType=Prs
+NOUN	Definite=Ind	Gender=Fem	Number=Sing
+NUM	Case=Dat,Gen	Gender=Fem	Number=Plur	NumType=Card	PronType=Tot
+NUM	Case=Acc,Nom	Definite=Ind	Gender=Fem	Number=Sing	NumForm=Word	NumType=Ord
+ADV	Polarity=Neg
+ADJ	Case=Acc,Nom	Definite=Def	Degree=Pos	Foreign=Yes	Gender=Fem	Number=Sing
+ADP	AdpType=Prep	Case=Acc	Foreign=Yes
+VERB	Mood=Ind	Number=Plur	Person=1	Tense=Pres	Variant=Short	VerbForm=Fin
+AUX	Person=1	Variant=Short
+AUX	Mood=Imp	Number=Sing	Person=2	VerbForm=Fin
+ADP	AdpType=Prep
+NOUN	Definite=Def	Gender=Masc	Number=Sing
+PRON	Case=Dat	Number=Plur	Person=1	PronType=Prs	Strength=Strong
+NUM	Definite=Ind	Gender=Fem	Number=Plur	NumForm=Word	NumType=Ord
+VERB	Mood=Sub	Number=Sing	Person=2	Tense=Pres	VerbForm=Fin
+ADJ	Case=Dat,Gen	Definite=Def	Degree=Cmp	Gender=Masc	Number=Plur
+PROPN	Case=Acc,Nom	Definite=Ind	Gender=Fem	Number=Sing
+NUM	Case=Dat,Gen	Definite=Ind	Gender=Fem	Number=Sing	NumForm=Word	NumType=Card
+NOUN	Abbr=Yes	Case=Dat,Gen	Definite=Def	Gender=Fem	Number=Sing
+ADJ	Abbr=Yes
+DET	Gender=Masc	Number=Plur	Number[psor]=Sing	Person=2	Poss=Yes	PronType=Prs
+NOUN	Abbr=Yes	Case=Acc,Nom	Definite=Def	Gender=Fem	Number=Sing
+DET	Foreign=Yes	Gender=Masc	Number=Sing	Poss=Yes	PronType=Prs
+NOUN	Abbr=Yes	Case=Acc,Nom	Definite=Def	Gender=Masc	Number=Sing
+PRON	Case=Acc,Nom	Gender=Masc	Number=Plur	Person=3	PronType=Int,Rel
+NOUN	Abbr=Yes	Case=Dat,Gen	Definite=Def	Gender=Masc	Number=Sing
+VERB	Foreign=Yes	Tense=Pres	VerbForm=Inf
+NUM	Foreign=Yes	Number=Sing	NumForm=Roman	NumType=Ord
+NOUN	Definite=Ind	Foreign=Yes	Gender=Masc
+DET	Case=Dat,Gen	Number=Plur	Person=3	Position=Postnom	PronType=Dem
+DET	Case=Dat,Gen	Gender=Fem	Number=Sing	Person=3	PronType=Dem
+VERB	Mood=Ind	Person=1	Tense=Imp	Variant=Short	VerbForm=Fin
+AUX	Mood=Sub	Number=Plur	Person=2	Tense=Pres	VerbForm=Fin
+PRON	Gender=Masc	Number=Plur	Number[psor]=Plur	Person=1	Poss=Yes	PronType=Prs
+VERB	Mood=Ind	Number=Sing	Person=3	Tense=Pqp	Variant=Short	VerbForm=Fin
+VERB	Mood=Ind	Number=Plur	Person=3	Tense=Past	Variant=Short	VerbForm=Fin
+VERB	Mood=Ind	Number=Plur	Person=1	Tense=Pqp	VerbForm=Fin
+PRON	Number=Plur	Person=3	PronType=Prs	Strength=Strong
+NOUN	Case=Acc,Nom	Definite=Def	Foreign=Yes	Gender=Fem	Number=Sing
+VERB	Mood=Ind	Number=Plur	Person=3	Tense=Pqp	Variant=Short	VerbForm=Fin
+PRON	Gender=Masc	Number=Sing	Number[psor]=Sing	Person=3	Poss=Yes	PronType=Prs
+AUX	Mood=Sub	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin
+ADV	Degree=Cmp
+VERB	Mood=Ind	Number=Sing	Person=3	Tense=Imp	Variant=Short	VerbForm=Fin
+NUM	Case=Acc,Nom	Definite=Ind	Gender=Fem	Number=Sing	NumForm=Word
+DET	Gender=Fem	Number=Plur	PronType=Ind	Variant=Short
+ADJ	Definite=Ind	Degree=Sup	Gender=Fem	Number=Plur
+DET	Case=Acc,Nom	Definite=Def	Gender=Fem	Number=Plur	PronType=Art	Variant=Short
+PROPN	Case=Acc,Nom	Definite=Def	Gender=Fem	Number=Sing
+NUM	NumType=Card

@@ -1,0 +1,9898 @@
+2007
+ff_0:</s>
+ff_1:<UNK>_
+ff_2:|
+ff_3:|
+ff_4:|
+ff_5:|
+ff_6:|
+ff_7:|
+ff_8:|
+ff_9:|
+ff_10:NONE
+ff_11:</s>
+ff_12:<UNK>_
+ff_13:|
+ff_14:|
+ff_15:|
+ff_16:|
+ff_17:|
+ff_18:|
+ff_19:|
+ff_20:|
+ff_21:NONE
+ff_22:<OOV>
+ff_23:DET
+ff_24:n
+ff_25:o
+ff_26:k
+ff_27:r
+ff_28:o
+ff_29:k
+ff_30:r
+ff_31:e
+ff_32:F-UPPER-SSTART
+ff_33:<OOV>
+ff_34:NOUN
+ff_35:r
+ff_36:e
+ff_37:f
+ff_38:l
+ff_39:o
+ff_40:n
+ff_41:a
+ff_42:r
+ff_43:ALL_LOWER
+ff_44:<OOV>
+ff_45:ADP
+ff_46:p
+ff_47:å
+ff_48:|
+ff_49:|
+ff_50:|
+ff_51:|
+ff_52:p
+ff_53:å
+ff_54:ALL_LOWER
+ff_11:<OOV>
+ff_12:DET
+ff_13:n
+ff_14:o
+ff_15:k
+ff_16:r
+ff_17:o
+ff_18:k
+ff_19:r
+ff_20:e
+ff_21:F-UPPER-SSTART
+ff_23:NOUN
+ff_24:r
+ff_25:e
+ff_26:f
+ff_27:l
+ff_29:n
+ff_30:a
+ff_31:r
+ff_32:ALL_LOWER
+ff_34:ADP
+ff_35:p
+ff_36:å
+ff_37:|
+ff_38:|
+ff_39:|
+ff_40:|
+ff_41:p
+ff_42:å
+ff_45:NOUN
+ff_46:v
+ff_47:e
+ff_48:g
+ff_49:e
+ff_50:e
+ff_51:g
+ff_52:e
+ff_53:n
+ff_0:<OOV>
+ff_1:DET
+ff_2:n
+ff_3:o
+ff_4:k
+ff_5:r
+ff_6:o
+ff_7:k
+ff_8:r
+ff_9:e
+ff_10:F-UPPER-SSTART
+ff_12:NOUN
+ff_13:r
+ff_14:e
+ff_15:f
+ff_16:l
+ff_18:n
+ff_19:a
+ff_20:r
+ff_21:ALL_LOWER
+ff_23:ADP
+ff_24:p
+ff_25:å
+ff_26:|
+ff_27:|
+ff_28:|
+ff_29:|
+ff_30:p
+ff_31:å
+ff_35:v
+ff_37:g
+ff_38:e
+ff_39:e
+ff_40:g
+ff_41:e
+ff_42:n
+ff_45:PUNCT
+ff_46:,
+ff_47:|
+ff_52:|
+ff_53:,
+ff_1:NOUN
+ff_2:r
+ff_3:e
+ff_4:f
+ff_5:l
+ff_7:n
+ff_8:a
+ff_9:r
+ff_10:ALL_LOWER
+ff_12:ADP
+ff_13:p
+ff_14:å
+ff_19:p
+ff_20:å
+ff_24:v
+ff_26:g
+ff_27:e
+ff_28:e
+ff_29:g
+ff_30:e
+ff_31:n
+ff_34:PUNCT
+ff_35:,
+ff_36:|
+ff_41:|
+ff_42:,
+ff_46:o
+ff_47:m
+ff_52:o
+ff_53:m
+ff_1:ADP
+ff_2:p
+ff_3:å
+ff_8:p
+ff_9:å
+ff_13:v
+ff_15:g
+ff_16:e
+ff_17:e
+ff_18:g
+ff_19:e
+ff_20:n
+ff_23:PUNCT
+ff_24:,
+ff_25:|
+ff_30:|
+ff_31:,
+ff_35:o
+ff_36:m
+ff_41:o
+ff_42:m
+ff_47:a
+ff_48:u
+ff_49:l
+ff_50:u
+ff_51:l
+ff_52:u
+ff_53:s
+ff_54:F-UPPER
+ff_2:v
+ff_4:g
+ff_5:e
+ff_6:e
+ff_7:g
+ff_8:e
+ff_9:n
+ff_12:PUNCT
+ff_13:,
+ff_20:,
+ff_24:o
+ff_25:m
+ff_30:o
+ff_31:m
+ff_36:a
+ff_37:u
+ff_39:u
+ff_40:l
+ff_41:u
+ff_42:s
+ff_43:F-UPPER
+ff_45:CCONJ
+ff_47:g
+ff_53:g
+ff_1:PUNCT
+ff_2:,
+ff_9:,
+ff_13:o
+ff_14:m
+ff_19:o
+ff_20:m
+ff_25:a
+ff_26:u
+ff_28:u
+ff_29:l
+ff_30:u
+ff_31:s
+ff_32:F-UPPER
+ff_34:CCONJ
+ff_36:g
+ff_42:g
+ff_46:"
+ff_53:"
+ff_2:o
+ff_3:m
+ff_8:o
+ff_9:m
+ff_14:a
+ff_15:u
+ff_17:u
+ff_18:l
+ff_19:u
+ff_20:s
+ff_21:F-UPPER
+ff_23:CCONJ
+ff_25:g
+ff_31:g
+ff_35:"
+ff_42:"
+ff_46:w
+ff_47:o
+ff_48:r
+ff_50:i
+ff_51:e
+ff_52:w
+ff_3:a
+ff_4:u
+ff_6:u
+ff_7:l
+ff_8:u
+ff_9:s
+ff_10:F-UPPER
+ff_12:CCONJ
+ff_14:g
+ff_20:g
+ff_24:"
+ff_31:"
+ff_35:w
+ff_36:o
+ff_37:r
+ff_39:i
+ff_40:e
+ff_41:w
+ff_1:CCONJ
+ff_3:g
+ff_9:g
+ff_13:"
+ff_20:"
+ff_24:w
+ff_26:r
+ff_28:i
+ff_29:e
+ff_30:w
+ff_44:</s>
+ff_45:<UNK>_
+ff_46:|
+ff_53:|
+ff_54:NONE
+ff_2:"
+ff_9:"
+ff_13:w
+ff_15:r
+ff_17:i
+ff_18:e
+ff_19:w
+ff_33:</s>
+ff_34:<UNK>_
+ff_35:|
+ff_42:|
+ff_43:NONE
+ff_23:PRON
+ff_24:e
+ff_34:VERB
+ff_40:v
+ff_12:PRON
+ff_13:e
+ff_23:VERB
+ff_29:v
+ff_46:b
+ff_47:i
+ff_48:b
+ff_50:t
+ff_51:i
+ff_52:m
+ff_53:e
+ff_1:PRON
+ff_2:e
+ff_12:VERB
+ff_18:v
+ff_35:b
+ff_36:i
+ff_37:b
+ff_39:t
+ff_40:i
+ff_41:m
+ff_42:e
+ff_46:i
+ff_53:i
+ff_1:VERB
+ff_4:r
+ff_7:v
+ff_24:b
+ff_25:i
+ff_26:b
+ff_28:t
+ff_29:i
+ff_30:m
+ff_35:i
+ff_42:i
+ff_46:g
+ff_52:å
+ff_53:r
+ff_13:b
+ff_14:i
+ff_15:b
+ff_17:t
+ff_18:i
+ff_19:m
+ff_24:i
+ff_31:i
+ff_35:g
+ff_41:å
+ff_2:b
+ff_3:i
+ff_4:b
+ff_6:t
+ff_7:i
+ff_8:m
+ff_13:i
+ff_20:i
+ff_24:g
+ff_30:å
+ff_2:i
+ff_9:i
+ff_13:g
+ff_19:å
+ff_45:PROPN
+ff_46:m
+ff_48:s
+ff_49:j
+ff_51:s
+ff_53:t
+ff_2:g
+ff_8:å
+ff_34:PROPN
+ff_35:m
+ff_37:s
+ff_38:j
+ff_40:s
+ff_42:t
+ff_46:.
+ff_53:.
+ff_23:PROPN
+ff_24:m
+ff_26:s
+ff_27:j
+ff_29:s
+ff_31:t
+ff_35:.
+ff_42:.
+ff_12:PROPN
+ff_13:m
+ff_15:s
+ff_16:j
+ff_18:s
+ff_20:t
+ff_24:.
+ff_31:.
+ff_24:d
+ff_26:t
+ff_29:d
+ff_34:AUX
+ff_45:ADJ
+ff_48:l
+ff_49:d
+ff_50:l
+ff_51:d
+ff_52:i
+ff_13:d
+ff_15:t
+ff_18:d
+ff_23:AUX
+ff_34:ADJ
+ff_37:l
+ff_38:d
+ff_39:l
+ff_40:d
+ff_41:i
+ff_46:t
+ff_47:r
+ff_48:i
+ff_49:v
+ff_2:d
+ff_4:t
+ff_7:d
+ff_9:t
+ff_12:AUX
+ff_23:ADJ
+ff_26:l
+ff_27:d
+ff_28:l
+ff_30:i
+ff_35:t
+ff_36:r
+ff_37:i
+ff_38:v
+ff_1:AUX
+ff_12:ADJ
+ff_15:l
+ff_16:d
+ff_17:l
+ff_19:i
+ff_24:t
+ff_25:r
+ff_26:i
+ff_27:v
+ff_1:ADJ
+ff_4:l
+ff_5:d
+ff_6:l
+ff_8:i
+ff_13:t
+ff_14:r
+ff_15:i
+ff_16:v
+ff_45:PRON
+ff_52:v
+ff_2:t
+ff_3:r
+ff_4:i
+ff_5:v
+ff_34:PRON
+ff_41:v
+ff_45:VERB
+ff_46:f
+ff_48:k
+ff_49:k
+ff_50:f
+ff_52:k
+ff_53:k
+ff_30:v
+ff_35:f
+ff_37:k
+ff_38:k
+ff_39:f
+ff_41:k
+ff_42:k
+ff_45:ADV
+ff_49:å
+ff_50:o
+ff_52:s
+ff_19:v
+ff_24:f
+ff_27:k
+ff_28:f
+ff_30:k
+ff_31:k
+ff_34:ADV
+ff_38:å
+ff_41:s
+ff_48:d
+ff_53:d
+ff_8:v
+ff_13:f
+ff_16:k
+ff_17:f
+ff_19:k
+ff_20:k
+ff_23:ADV
+ff_27:å
+ff_30:s
+ff_37:d
+ff_42:d
+ff_46:k
+ff_50:k
+ff_51:a
+ff_2:f
+ff_5:k
+ff_6:f
+ff_7:e
+ff_8:k
+ff_9:k
+ff_12:ADV
+ff_16:å
+ff_19:s
+ff_26:d
+ff_31:d
+ff_35:k
+ff_39:k
+ff_40:a
+ff_46:e
+ff_47:t
+ff_48:t
+ff_51:r
+ff_1:ADV
+ff_4:s
+ff_5:å
+ff_8:s
+ff_15:d
+ff_20:d
+ff_24:k
+ff_28:k
+ff_29:a
+ff_35:e
+ff_36:t
+ff_37:t
+ff_40:r
+ff_4:d
+ff_9:d
+ff_13:k
+ff_17:k
+ff_18:a
+ff_25:t
+ff_29:r
+ff_2:k
+ff_6:k
+ff_7:a
+ff_14:t
+ff_18:r
+ff_26:n
+ff_29:m
+ff_39:g
+ff_40:o
+ff_41:d
+ff_48:n
+ff_51:v
+ff_15:n
+ff_18:m
+ff_28:g
+ff_29:o
+ff_30:d
+ff_37:n
+ff_47:j
+ff_48:e
+ff_50:j
+ff_52:l
+ff_53:l
+ff_2:m
+ff_4:n
+ff_7:m
+ff_17:g
+ff_18:o
+ff_19:d
+ff_36:j
+ff_37:e
+ff_39:j
+ff_41:l
+ff_42:l
+ff_46:a
+ff_50:a
+ff_52:n
+ff_6:g
+ff_7:o
+ff_8:d
+ff_25:j
+ff_26:e
+ff_28:j
+ff_30:l
+ff_31:l
+ff_35:a
+ff_39:a
+ff_41:n
+ff_46:h
+ff_52:d
+ff_14:j
+ff_15:e
+ff_17:j
+ff_19:l
+ff_20:l
+ff_24:a
+ff_28:a
+ff_30:n
+ff_35:h
+ff_3:j
+ff_4:e
+ff_6:j
+ff_8:l
+ff_9:l
+ff_13:a
+ff_17:a
+ff_19:n
+ff_24:h
+ff_47:v
+ff_49:r
+ff_2:a
+ff_6:a
+ff_7:r
+ff_8:n
+ff_13:h
+ff_36:v
+ff_38:r
+ff_49:o
+ff_2:h
+ff_25:v
+ff_38:o
+ff_14:v
+ff_27:o
+ff_3:v
+ff_16:o
+ff_5:o
+ff_46:s
+ff_52:a
+ff_35:s
+ff_24:s
+ff_47:ø
+ff_48:y
+ff_50:y
+ff_13:s
+ff_36:ø
+ff_37:y
+ff_39:y
+ff_2:s
+ff_7:s
+ff_25:ø
+ff_26:y
+ff_28:y
+ff_45:SCONJ
+ff_49:a
+ff_14:ø
+ff_15:y
+ff_17:y
+ff_34:SCONJ
+ff_38:a
+ff_3:ø
+ff_4:y
+ff_6:y
+ff_23:SCONJ
+ff_27:a
+ff_46:l
+ff_12:SCONJ
+ff_16:a
+ff_35:l
+ff_1:SCONJ
+ff_5:a
+ff_24:l
+ff_45:DET
+ff_49:t
+ff_50:m
+ff_52:t
+ff_13:l
+ff_34:DET
+ff_38:t
+ff_39:m
+ff_41:t
+ff_46:n
+ff_47:y
+ff_51:n
+ff_52:y
+ff_2:l
+ff_27:t
+ff_28:m
+ff_30:t
+ff_35:n
+ff_36:y
+ff_41:y
+ff_16:t
+ff_17:m
+ff_19:t
+ff_25:y
+ff_30:y
+ff_5:t
+ff_6:m
+ff_8:t
+ff_14:y
+ff_19:y
+ff_3:y
+ff_8:y
+ff_47:p
+ff_49:n
+ff_36:p
+ff_38:n
+ff_45:PART
+ff_46:å
+ff_25:p
+ff_27:n
+ff_34:PART
+ff_35:å
+ff_14:p
+ff_16:n
+ff_23:PART
+ff_24:å
+ff_51:k
+ff_3:p
+ff_5:n
+ff_12:PART
+ff_13:å
+ff_40:k
+ff_53:o
+ff_1:PART
+ff_2:å
+ff_42:o
+ff_48:m
+ff_31:o
+ff_37:m
+ff_1:PROPN
+ff_20:o
+ff_26:m
+ff_45:AUX
+ff_51:h
+ff_9:o
+ff_15:m
+ff_40:h
+ff_49:s
+ff_4:m
+ff_29:h
+ff_38:s
+ff_46:u
+ff_48:v
+ff_49:i
+ff_53:a
+ff_18:h
+ff_27:s
+ff_35:u
+ff_37:v
+ff_38:i
+ff_42:a
+ff_51:m
+ff_7:h
+ff_16:s
+ff_24:u
+ff_26:v
+ff_27:i
+ff_31:a
+ff_40:m
+ff_5:s
+ff_13:u
+ff_15:v
+ff_16:i
+ff_20:a
+ff_50:g
+ff_51:å
+ff_2:u
+ff_3:t
+ff_4:v
+ff_5:i
+ff_6:i
+ff_9:a
+ff_40:å
+ff_49:g
+ff_52:g
+ff_29:å
+ff_38:g
+ff_41:g
+ff_46:r
+ff_47:u
+ff_50:n
+ff_18:å
+ff_27:g
+ff_30:g
+ff_36:u
+ff_39:n
+ff_7:å
+ff_16:g
+ff_19:g
+ff_25:u
+ff_28:n
+ff_47:n
+ff_52:r
+ff_5:g
+ff_8:g
+ff_14:u
+ff_17:n
+ff_36:n
+ff_41:r
+ff_50:r
+ff_3:u
+ff_6:n
+ff_25:n
+ff_39:r
+ff_14:n
+ff_28:r
+ff_3:n
+ff_17:r
+ff_50:å
+ff_6:r
+ff_39:å
+ff_53:v
+ff_28:å
+ff_42:v
+ff_54:ALL_CAPS
+ff_17:å
+ff_31:v
+ff_43:ALL_CAPS
+ff_6:å
+ff_20:v
+ff_32:ALL_CAPS
+ff_9:v
+ff_21:ALL_CAPS
+ff_10:ALL_CAPS
+ff_50:s
+ff_51:t
+ff_39:s
+ff_40:t
+ff_51:o
+ff_52:f
+ff_28:s
+ff_29:t
+ff_41:f
+ff_17:s
+ff_18:t
+ff_30:f
+ff_6:s
+ff_7:t
+ff_19:f
+ff_48:c
+ff_49:.
+ff_52:c
+ff_8:f
+ff_37:c
+ff_38:.
+ff_41:c
+ff_53:c
+ff_26:c
+ff_27:.
+ff_30:c
+ff_42:c
+ff_15:c
+ff_16:.
+ff_19:c
+ff_20:.
+ff_31:c
+ff_46:;
+ff_53:;
+ff_35:;
+ff_42:;
+ff_24:;
+ff_31:;
+ff_13:;
+ff_20:;
+ff_46:d
+ff_2:;
+ff_9:;
+ff_35:d
+ff_49:u
+ff_38:u
+ff_27:u
+ff_46:?
+ff_53:?
+ff_16:u
+ff_35:?
+ff_42:?
+ff_5:u
+ff_24:?
+ff_31:?
+ff_26:a
+ff_15:a
+ff_4:a
+ff_51:f
+ff_40:f
+ff_29:f
+ff_18:f
+ff_7:f
+ff_50:v
+ff_39:v
+ff_28:v
+ff_17:v
+ff_6:v
+ff_48:å
+ff_52:j
+ff_37:å
+ff_41:j
+ff_26:å
+ff_30:j
+ff_15:å
+ff_19:j
+ff_4:å
+ff_8:j
+ff_47:l
+ff_49:b
+ff_50:b
+ff_36:l
+ff_38:b
+ff_39:b
+ff_25:l
+ff_27:b
+ff_28:b
+ff_46:-
+ff_53:-
+ff_14:l
+ff_16:b
+ff_17:b
+ff_35:-
+ff_42:-
+ff_3:l
+ff_5:b
+ff_6:b
+ff_24:-
+ff_31:-
+ff_4:c
+ff_5:.
+ff_8:c
+ff_9:.
+ff_13:-
+ff_20:-
+ff_2:-
+ff_9:-
+ff_47:k
+ff_36:k
+ff_25:k
+ff_14:k
+ff_48:a
+ff_37:a
+ff_51:ø
+ff_40:ø
+ff_29:ø
+ff_18:ø
+ff_7:ø
+ff_46:(
+ff_53:(
+ff_35:(
+ff_42:(
+ff_24:(
+ff_31:(
+ff_46:)
+ff_53:)
+ff_13:(
+ff_20:(
+ff_35:)
+ff_42:)
+ff_2:(
+ff_9:(
+ff_24:)
+ff_31:)
+ff_13:)
+ff_20:)
+ff_2:)
+ff_9:)
+ff_47:æ
+ff_51:æ
+ff_36:æ
+ff_40:æ
+ff_25:æ
+ff_29:æ
+ff_14:æ
+ff_18:æ
+ff_3:æ
+ff_7:æ
+ff_3:k
+ff_5:j
+ff_49:f
+ff_38:f
+ff_27:f
+ff_16:f
+ff_5:f
+ff_45:INTJ
+ff_52:h
+ff_34:INTJ
+ff_41:h
+ff_23:INTJ
+ff_30:h
+ff_12:INTJ
+ff_19:h
+ff_1:INTJ
+ff_8:h
+ff_51:u
+ff_40:u
+ff_29:u
+ff_18:u
+ff_7:u
+ff_53:'
+ff_42:'
+ff_31:'
+ff_20:'
+ff_9:'
+ff_48:o
+ff_49:p
+ff_37:o
+ff_38:p
+ff_26:o
+ff_27:p
+ff_15:o
+ff_16:p
+ff_4:o
+ff_5:p
+ff_48:p
+ff_37:p
+ff_26:p
+ff_15:p
+ff_4:p
+ff_50:d
+ff_51:j
+ff_53:p
+ff_39:d
+ff_40:j
+ff_42:p
+ff_28:d
+ff_29:j
+ff_31:p
+ff_17:d
+ff_18:j
+ff_20:p
+ff_6:d
+ff_7:j
+ff_9:p
+ff_51:b
+ff_40:b
+ff_29:b
+ff_18:b
+ff_7:b
+ff_47:.
+ff_48:.
+ff_51:.
+ff_52:.
+ff_36:.
+ff_37:.
+ff_40:.
+ff_41:.
+ff_25:.
+ff_26:.
+ff_29:.
+ff_30:.
+ff_13:.
+ff_14:.
+ff_15:.
+ff_18:.
+ff_19:.
+ff_2:.
+ff_3:.
+ff_4:.
+ff_7:.
+ff_8:.
+ff_51:p
+ff_40:p
+ff_46::
+ff_53::
+ff_29:p
+ff_35::
+ff_42::
+ff_18:p
+ff_24::
+ff_31::
+ff_51:y
+ff_40:y
+ff_29:y
+ff_18:y
+ff_7:y
+ff_49:m
+ff_38:m
+ff_27:m
+ff_16:m
+ff_5:m
+ff_50:æ
+ff_39:æ
+ff_28:æ
+ff_17:æ
+ff_6:æ
+ff_50:ø
+ff_39:ø
+ff_28:ø
+ff_17:ø
+ff_6:ø
+ff_49:h
+ff_38:h
+ff_27:h
+ff_16:h
+ff_5:h
+ff_46:j
+ff_35:j
+ff_24:j
+ff_13:j
+ff_2:j
+ff_46:0
+ff_47:0
+ff_48:-
+ff_35:0
+ff_36:0
+ff_37:-
+ff_24:0
+ff_25:0
+ff_26:-
+ff_13:0
+ff_14:0
+ff_15:-
+ff_2:0
+ff_3:0
+ff_4:-
+ff_47:b
+ff_53:y
+ff_36:b
+ff_42:y
+ff_25:b
+ff_31:y
+ff_14:b
+ff_20:y
+ff_3:b
+ff_9:y
+ff_49:y
+ff_38:y
+ff_27:y
+ff_16:y
+ff_5:y
+ff_53:u
+ff_42:u
+ff_31:u
+ff_20:u
+ff_9:u
+ff_34:NUM
+ff_42:0
+ff_23:NUM
+ff_31:0
+ff_12:NUM
+ff_20:0
+ff_1:NUM
+ff_9:0
+ff_13::
+ff_20::
+ff_2::
+ff_9::
+ff_20:c
+ff_48:ø
+ff_37:ø
+ff_26:ø
+ff_15:ø
+ff_4:ø
+ff_45:NUM
+ff_52:0
+ff_53:0
+ff_41:0
+ff_30:0
+ff_19:0
+ff_8:0
+ff_46:!
+ff_53:!
+ff_35:!
+ff_42:!
+ff_24:!
+ff_31:!
+ff_13:!
+ff_20:!
+ff_47:h
+ff_49:-
+ff_36:h
+ff_38:-
+ff_25:h
+ff_27:-
+ff_14:h
+ff_16:-
+ff_53:æ
+ff_42:æ
+ff_31:æ
+ff_20:æ
+ff_9:æ
+ff_50:p
+ff_39:p
+ff_28:p
+ff_17:p
+ff_6:p
+ff_48:æ
+ff_37:æ
+ff_26:æ
+ff_15:æ
+ff_4:æ
+ff_47:d
+ff_36:d
+ff_50:h
+ff_25:d
+ff_39:h
+ff_14:d
+ff_28:h
+ff_3:d
+ff_17:h
+ff_6:h
+ff_45:X
+ff_48:f
+ff_34:X
+ff_23:X
+ff_12:X
+ff_1:X
+ff_47:x
+ff_36:x
+ff_25:x
+ff_50:c
+ff_14:x
+ff_39:c
+ff_3:x
+ff_28:c
+ff_17:c
+ff_6:c
+ff_2:!
+ff_9:!
+ff_48:j
+ff_49:ø
+ff_37:j
+ff_38:ø
+ff_26:j
+ff_27:ø
+ff_15:j
+ff_16:ø
+ff_4:j
+ff_5:ø
+ff_49:x
+ff_38:x
+ff_27:x
+ff_16:x
+ff_46:é
+ff_51:é
+ff_35:é
+ff_40:é
+ff_24:é
+ff_29:é
+ff_13:é
+ff_18:é
+ff_2:é
+ff_7:é
+ff_51:c
+ff_40:c
+ff_53:h
+ff_29:c
+ff_42:h
+ff_18:c
+ff_31:h
+ff_7:c
+ff_20:h
+ff_9:h
+ff_52:æ
+ff_41:æ
+ff_30:æ
+ff_19:æ
+ff_8:æ
+ff_13:?
+ff_20:?
+ff_48:w
+ff_37:w
+ff_26:w
+ff_3:h
+ff_15:w
+ff_4:w
+ff_52:ø
+ff_41:ø
+ff_30:ø
+ff_19:ø
+ff_47:s
+ff_36:s
+ff_25:s
+ff_14:s
+ff_3:s
+ff_45:SYM
+ff_46:/
+ff_53:/
+ff_34:SYM
+ff_35:/
+ff_42:/
+ff_23:SYM
+ff_24:/
+ff_31:/
+ff_12:SYM
+ff_13:/
+ff_20:/
+ff_1:SYM
+ff_2:/
+ff_9:/
+ff_7:p
+ff_35:ø
+ff_24:ø
+ff_13:ø
+ff_2:ø
+ff_8:ø
+ff_2:?
+ff_9:?
+ff_24:y
+ff_13:y
+ff_2:y
+ff_46:y
+ff_35:y
+ff_46:c
+ff_35:c
+ff_24:c
+ff_13:c
+ff_2:c
+ff_53:f
+ff_42:f
+ff_31:f
+ff_20:f
+ff_9:f
+ff_48:h
+ff_37:h
+ff_26:h
+ff_15:h
+ff_52:b
+ff_41:b
+ff_30:b
+ff_19:b
+ff_8:b
+ff_5:-
+ff_48:x
+ff_53:x
+ff_37:x
+ff_42:x
+ff_26:x
+ff_31:x
+ff_15:x
+ff_20:x
+ff_4:x
+ff_9:x
+ff_46:ø
+ff_47:q
+ff_36:q
+ff_25:q
+ff_14:q
+ff_49:c
+ff_38:c
+ff_27:c
+ff_16:c
+ff_5:c
+ff_47:f
+ff_36:f
+ff_25:f
+ff_14:f
+ff_3:f
+ff_4:h
+ff_53:b
+ff_42:b
+ff_31:b
+ff_20:b
+ff_49:æ
+ff_38:æ
+ff_27:æ
+ff_16:æ
+ff_52:ô
+ff_41:ô
+ff_30:ô
+ff_19:ô
+ff_8:ô
+ff_2:w
+ff_47:ö
+ff_36:ö
+ff_25:ö
+ff_14:ö
+ff_3:ö
+ff_46:z
+ff_35:z
+ff_24:z
+ff_13:z
+ff_2:z
+ff_48:ö
+ff_51:ö
+ff_37:ö
+ff_40:ö
+ff_26:ö
+ff_29:ö
+ff_50:ö
+ff_15:ö
+ff_18:ö
+ff_39:ö
+ff_4:ö
+ff_7:ö
+ff_28:ö
+ff_17:ö
+ff_6:ö
+ff_46:“
+ff_53:“
+ff_35:“
+ff_42:“
+ff_47:c
+ff_24:“
+ff_31:“
+ff_36:c
+ff_49:w
+ff_53:w
+ff_13:“
+ff_20:“
+ff_25:c
+ff_38:w
+ff_42:w
+ff_46:”
+ff_53:”
+ff_2:“
+ff_9:“
+ff_14:c
+ff_27:w
+ff_31:w
+ff_35:”
+ff_42:”
+ff_3:c
+ff_9:c
+ff_16:w
+ff_20:w
+ff_24:”
+ff_31:”
+ff_5:w
+ff_9:w
+ff_13:”
+ff_20:”
+ff_2:”
+ff_9:”
+ff_29:-
+ff_18:-
+ff_7:-
+ff_51:w
+ff_40:w
+ff_29:w
+ff_18:w
+ff_7:w
+ff_48:é
+ff_53:é
+ff_37:é
+ff_42:é
+ff_26:é
+ff_31:é
+ff_15:é
+ff_20:é
+ff_4:é
+ff_9:é
+ff_47:,
+ff_48:0
+ff_51:0
+ff_52:,
+ff_36:,
+ff_37:0
+ff_40:0
+ff_41:,
+ff_25:,
+ff_26:0
+ff_29:0
+ff_30:,
+ff_14:,
+ff_15:0
+ff_18:0
+ff_19:,
+ff_3:,
+ff_4:0
+ff_7:0
+ff_8:,
+ff_31:ø
+ff_20:ø
+ff_9:ø
+ff_9:b
+ff_50:ê
+ff_39:ê
+ff_28:ê
+ff_17:ê
+ff_6:ê
+ff_47:ê
+ff_36:ê
+ff_25:ê
+ff_14:ê
+ff_3:ê
+ff_48:ê
+ff_37:ê
+ff_26:ê
+ff_15:ê
+ff_4:ê
+ff_52:'
+ff_41:'
+ff_30:'
+ff_19:'
+ff_8:'
+ff_3:q
+ff_46:q
+ff_51:q
+ff_35:q
+ff_40:q
+ff_24:q
+ff_29:q
+ff_13:q
+ff_18:q
+ff_2:q
+ff_7:q
+ff_49:0
+ff_38:0
+ff_27:0
+ff_16:0
+ff_5:0
+ff_50:0
+ff_39:0
+ff_28:0
+ff_17:0
+ff_6:0
+ff_53:j
+ff_42:j
+ff_31:j
+ff_20:j
+ff_9:j
+ff_24:[
+ff_31:[
+ff_13:[
+ff_20:[
+ff_2:[
+ff_9:[
+ff_46:]
+ff_53:]
+ff_35:]
+ff_42:]
+ff_24:]
+ff_31:]
+ff_46:æ
+ff_35:æ
+ff_24:æ
+ff_13:æ
+ff_2:æ
+ff_50:-
+ff_39:-
+ff_28:-
+ff_17:-
+ff_6:-
+ff_53:ø
+ff_42:ø
+ff_50:z
+ff_39:z
+ff_28:z
+ff_17:z
+ff_6:z
+ff_51:,
+ff_40:,
+ff_29:,
+ff_18:,
+ff_7:,
+ff_50:.
+ff_39:.
+ff_28:.
+ff_17:.
+ff_6:.
+ff_52:z
+ff_41:z
+ff_30:z
+ff_19:z
+ff_8:z
+ff_49:ò
+ff_51:ò
+ff_38:ò
+ff_40:ò
+ff_27:ò
+ff_29:ò
+ff_16:ò
+ff_18:ò
+ff_5:ò
+ff_7:ò
+ff_46:«
+ff_53:«
+ff_35:«
+ff_42:«
+ff_24:«
+ff_31:«
+ff_46:»
+ff_53:»
+ff_13:«
+ff_20:«
+ff_35:»
+ff_42:»
+ff_2:«
+ff_9:«
+ff_24:»
+ff_31:»
+ff_13:»
+ff_20:»
+ff_2:»
+ff_9:»
+ff_26:z
+ff_15:z
+ff_4:z
+ff_48:z
+ff_37:z
+ff_38:z
+ff_42:z
+ff_27:z
+ff_31:z
+ff_16:z
+ff_20:z
+ff_5:z
+ff_9:z
+ff_49:z
+ff_52:é
+ff_41:é
+ff_30:é
+ff_19:é
+ff_8:é
+ff_46:ò
+ff_52:ò
+ff_35:ò
+ff_41:ò
+ff_24:ò
+ff_30:ò
+ff_13:ò
+ff_19:ò
+ff_2:ò
+ff_8:ò
+ff_53:z
+ff_50:w
+ff_39:w
+ff_28:w
+ff_17:w
+ff_6:w
+ff_47:'
+ff_36:'
+ff_25:'
+ff_14:'
+ff_3:'
+ff_50:x
+ff_39:x
+ff_28:x
+ff_17:x
+ff_6:x
+ff_26:q
+ff_15:q
+ff_49:q
+ff_38:q
+ff_27:q
+ff_16:q
+ff_5:q
+ff_47:è
+ff_52:è
+ff_36:è
+ff_41:è
+ff_25:è
+ff_30:è
+ff_14:è
+ff_19:è
+ff_3:è
+ff_8:è
+ff_49:é
+ff_38:é
+ff_27:é
+ff_16:é
+ff_5:é
+ff_52:-
+ff_41:-
+ff_30:-
+ff_19:-
+ff_8:-
+ff_48:,
+ff_37:,
+ff_26:,
+ff_15:,
+ff_4:,
+ff_49:ä
+ff_38:ä
+ff_27:ä
+ff_16:ä
+ff_5:ä
+ff_40:ü
+ff_29:ü
+ff_18:ü
+ff_7:ü
+ff_5:æ
+ff_5:x
+ff_40:z
+ff_29:z
+ff_18:z
+ff_7:z
+ff_47:é
+ff_36:é
+ff_25:é
+ff_14:é
+ff_3:é
+ff_47:ü
+ff_36:ü
+ff_25:ü
+ff_14:ü
+ff_51:-
+ff_40:-
+ff_51:x
+ff_40:x
+ff_29:x
+ff_18:x
+ff_7:x
+ff_46:'
+ff_35:'
+ff_24:'
+ff_13:'
+ff_2:'
+ff_8:w
+ff_52:ê
+ff_41:ê
+ff_30:ê
+ff_19:ê
+ff_8:ê
+ff_47:-
+ff_36:-
+ff_25:-
+ff_14:-
+ff_3:-
+ff_48:ò
+ff_37:ò
+ff_26:ò
+ff_15:ò
+ff_48:'
+ff_51:'
+ff_37:'
+ff_40:'
+ff_26:'
+ff_29:'
+ff_15:'
+ff_18:'
+ff_4:'
+ff_7:'
+ff_50:'
+ff_39:'
+ff_28:'
+ff_17:'
+ff_6:'
+ff_46:[
+ff_53:[
+ff_35:[
+ff_42:[
+ff_13:]
+ff_20:]
+ff_2:]
+ff_9:]
+ff_48:q
+ff_37:q
+ff_4:q
+ff_49:'
+ff_38:'
+ff_27:'
+ff_16:'
+ff_5:'
+ff_48:ü
+ff_37:ü
+ff_26:ü
+ff_15:ü
+ff_3:ü
+ff_47:ò
+ff_36:ò
+ff_25:ò
+ff_14:ò
+ff_3:ò
+ff_46:x
+ff_52:x
+ff_35:x
+ff_41:x
+ff_24:x
+ff_30:x
+ff_13:x
+ff_19:x
+ff_2:x
+ff_8:x
+ff_48:ï
+ff_37:ï
+ff_26:ï
+ff_15:ï
+ff_4:ï
+ff_53:q
+ff_42:q
+ff_31:q
+ff_20:q
+ff_9:q
+ff_47:ó
+ff_52:ó
+ff_36:ó
+ff_41:ó
+ff_25:ó
+ff_30:ó
+ff_14:ó
+ff_19:ó
+ff_3:ó
+ff_8:ó
+ff_53:ö
+ff_42:ö
+ff_31:ö
+ff_20:ö
+ff_9:ö
+ff_49:ü
+ff_51:z
+ff_38:ü
+ff_27:ü
+ff_16:ü
+ff_5:ü
+ff_51:è
+ff_40:è
+ff_29:è
+ff_18:è
+ff_7:è
+ff_50:é
+ff_39:é
+ff_28:é
+ff_17:é
+ff_6:é
+ff_47:w
+ff_36:w
+ff_25:w
+ff_14:w
+ff_3:w
+ff_47:»
+ff_36:»
+ff_25:»
+ff_14:»
+ff_3:»
+ff_53:ü
+ff_42:ü
+ff_31:ü
+ff_20:ü
+ff_9:ü
+ff_47:z
+ff_36:z
+ff_25:z
+ff_14:z
+ff_3:z
+ff_47:ä
+ff_36:ä
+ff_25:ä
+ff_14:ä
+ff_3:ä
+ff_47:/
+ff_52:/
+ff_36:/
+ff_41:/
+ff_25:/
+ff_30:/
+ff_14:/
+ff_19:/
+ff_3:/
+ff_8:/
+ff_35:©
+ff_39:©
+ff_24:©
+ff_28:©
+ff_13:©
+ff_17:©
+ff_48::
+ff_51::
+ff_37::
+ff_40::
+ff_26::
+ff_29::
+ff_15::
+ff_18::
+ff_4::
+ff_7::
+ff_53:è
+ff_42:è
+ff_31:è
+ff_20:è
+ff_9:è
+ff_46:&
+ff_53:&
+ff_35:&
+ff_42:&
+ff_24:&
+ff_31:&
+ff_13:&
+ff_20:&
+ff_2:&
+ff_9:&
+ff_46:è
+ff_35:è
+ff_24:è
+ff_13:è
+ff_2:è
+ff_4:ü
+ff_35:%
+ff_42:%
+ff_24:%
+ff_31:%
+ff_13:%
+ff_20:%
+ff_2:%
+ff_9:%
+ff_25:`
+ff_29:`
+ff_14:`
+ff_18:`
+ff_3:`
+ff_7:`
+ff_50:q
+ff_39:q
+ff_28:q
+ff_17:q
+ff_6:q
+ff_46:©
+ff_53:©
+ff_42:©
+ff_31:©
+ff_20:©
+ff_48:/
+ff_37:/
+ff_26:/
+ff_15:/
+ff_4:/
+ff_51:/
+ff_40:/
+ff_29:/
+ff_51:ê
+ff_40:ê
+ff_29:ê
+ff_18:ê
+ff_7:ê
+ff_48:ä
+ff_37:ä
+ff_26:ä
+ff_15:ä
+ff_46:§
+ff_53:§
+ff_35:§
+ff_42:§
+ff_24:§
+ff_31:§
+ff_13:§
+ff_20:§
+ff_2:§
+ff_9:§
+ff_24:*
+ff_31:*
+ff_13:*
+ff_20:*
+ff_2:*
+ff_9:*
+ff_52:ë
+ff_41:ë
+ff_30:ë
+ff_19:ë
+ff_8:ë
+ff_52:ö
+ff_41:ö
+ff_30:ö
+ff_19:ö
+ff_8:ö
+ff_50:ä
+ff_39:ä
+ff_28:ä
+ff_17:ä
+ff_6:ä
+ff_51:ä
+ff_40:ä
+ff_29:ä
+ff_18:ä
+ff_7:ä
+ff_46:ä
+ff_52:ä
+ff_35:ä
+ff_41:ä
+ff_24:ä
+ff_30:ä
+ff_13:ä
+ff_19:ä
+ff_2:ä
+ff_8:ä
+ff_46:–
+ff_53:–
+ff_35:–
+ff_42:–
+ff_24:–
+ff_31:–
+ff_13:–
+ff_20:–
+ff_2:–
+ff_9:–
+ff_50:–
+ff_39:–
+ff_28:–
+ff_17:–
+ff_6:–
+ff_49:è
+ff_38:è
+ff_27:è
+ff_16:è
+ff_5:è
+ff_50:è
+ff_39:è
+ff_28:è
+ff_17:è
+ff_6:è
+ff_48:´
+ff_52:´
+ff_37:´
+ff_41:´
+ff_26:´
+ff_30:´
+ff_15:´
+ff_19:´
+ff_4:´
+ff_8:´
+ff_46:*
+ff_53:*
+ff_35:*
+ff_42:*
+ff_49:´
+ff_38:´
+ff_27:´
+ff_16:´
+ff_46:ó
+ff_35:ó
+ff_24:ó
+ff_13:ó
+ff_2:ó
+155
+Number=Plur|PronType=Ind
+Definite=Ind|Gender=Masc|Number=Plur
+_
+Definite=Def|Gender=Masc|Number=Sing
+Gender=Masc
+Definite=Ind|Number=Plur
+Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs
+Mood=Ind|Tense=Past|VerbForm=Fin
+Definite=Ind|Gender=Masc|Number=Sing
+Gender=Neut|Number=Sing|Person=3|PronType=Prs
+Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing
+Animacy=Hum|Case=Nom|Number=Plur|Person=1|PronType=Prs
+Definite=Ind|Degree=Pos|Number=Sing
+Definite=Ind|Gender=Fem|Number=Sing
+Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs
+Definite=Def|Degree=Pos|Number=Sing
+Definite=Def|Gender=Neut|Number=Sing
+Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs
+Definite=Ind|Gender=Neut|Number=Sing
+Mood=Ind|Tense=Pres|VerbForm=Fin
+VerbForm=Inf
+PronType=Rel
+VerbForm=Part
+Animacy=Hum|Case=Acc|Number=Sing|Person=1|PronType=Prs
+Degree=Pos|Number=Plur
+Number=Plur|PronType=Dem
+Definite=Ind|Gender=Neut|Number=Plur
+Abbr=Yes
+Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing
+Degree=Cmp
+Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+PronType=Int
+Definite=Def|Gender=Masc|Number=Plur
+Gender=Neut|Number=Sing|PronType=Dem
+Definite=Def|Gender=Fem|Number=Plur
+Definite=Def|Gender=Neut|Number=Plur
+Case=Acc|Number=Sing|PronType=Prs
+Gender=Fem|Number=Sing|PronType=Dem
+Definite=Def|Gender=Fem|Number=Sing
+Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs
+Polarity=Neg
+Gender=Masc|Number=Sing|PronType=Art
+Animacy=Hum|Number=Sing|PronType=Art,Prs
+Gender=Neut|Number=Sing|PronType=Art
+Case=Gen
+Animacy=Hum|Case=Nom|Number=Plur|Person=3|PronType=Prs
+Definite=Ind|Gender=Neut|Number=Sing|VerbForm=Part
+Definite=Ind|Number=Sing|VerbForm=Part
+Definite=Ind|Gender=Fem|Number=Plur
+Definite=Ind|Gender=Masc|Number=Sing|PronType=Dem
+Number=Plur|Polarity=Neg|PronType=Neg
+Animacy=Hum|Case=Acc|Number=Plur|Person=3|PronType=Prs
+Animacy=Hum|Case=Acc|Number=Plur|Person=2|PronType=Prs
+Animacy=Hum|Case=Nom|Number=Plur|Person=2|PronType=Prs
+Gender=Fem|Number=Sing|PronType=Art
+Case=Gen|Definite=Def|Gender=Neut|Number=Sing
+Case=Gen|Definite=Ind|Gender=Neut|Number=Sing
+Definite=Ind|Gender=Neut|Number=Sing|PronType=Dem
+NumType=Card
+Gender=Masc|Number=Sing|PronType=Dem
+Number=Plur|PronType=Tot
+Definite=Ind|Degree=Sup
+Number=Plur|NumType=Card
+Definite=Def|PronType=Prs
+Case=Gen|Definite=Def|Gender=Fem|Number=Sing
+Mood=Imp|VerbForm=Fin
+Gender=Neut|Number=Sing|PronType=Ind
+Definite=Def|PronType=Dem
+Case=Gen|Gender=Masc
+Number=Plur|VerbForm=Part
+Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+Number=Sing|PronType=Tot
+Number=Plur|Person=3|PronType=Prs
+Case=Gen|Definite=Ind|Gender=Masc|Number=Sing
+Animacy=Hum|Number=Plur|PronType=Rcp
+Definite=Def|Degree=Sup
+Gender=Masc|Number=Sing|NumType=Card
+PronType=Prs
+Gender=Masc|Number=Sing|PronType=Ind
+Gender=Neut|Number=Sing|Person=3|PronType=Ind,Prs
+Definite=Ind|Degree=Pos
+Number=Plur|Poss=Yes|PronType=Prs
+Gender=Masc|Number=Sing|PronType=Tot
+Gender=Neut|Number=Sing|PronType=Tot
+Number=Plur
+Definite=Ind|Gender=Masc|Number=Sing|PronType=Prs
+Case=Gen|Definite=Def|Gender=Masc|Number=Sing
+Gender=Fem,Masc|Number=Sing|Person=3|PronType=Prs
+Abbr=Yes|PronType=Prs
+Abbr=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin
+Gender=Neut
+Animacy=Hum|Case=Acc|Number=Plur|Person=1|PronType=Prs
+Definite=Ind|Gender=Neut|Number=Sing|PronType=Prs
+Definite=Ind|Gender=Fem|Number=Sing|PronType=Dem
+Gender=Fem
+Degree=Pos
+Definite=Def|Number=Sing|NumType=Card
+Animacy=Hum|Case=Nom|Number=Sing|Person=2|PronType=Prs
+Animacy=Hum|Case=Acc|Number=Sing|Person=2|PronType=Prs
+Definite=Def|NumType=Card
+Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+Gender=Fem|Number=Sing|PronType=Tot
+Number=Plur|Person=3|PronType=Prs,Tot
+Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+Gender=Fem|Number=Sing|Polarity=Neg|PronType=Neg
+Gender=Fem|Number=Sing|NumType=Card
+Definite=Def|Number=Sing|VerbForm=Part
+Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
+Animacy=Hum|PronType=Int
+Case=Gen|Definite=Def|Gender=Neut|Number=Plur
+Number=Plur|PronType=Prs
+Case=Gen|Gender=Masc|Number=Sing|PronType=Dem
+Number=Plur|Person=3|Polarity=Neg|PronType=Neg,Prs
+Gender=Masc|Number=Sing|Person=3|PronType=Ind,Prs
+Definite=Def|Number=Sing|PronType=Dem
+Gender=Masc|Number=Sing|Polarity=Neg|PronType=Neg
+Definite=Ind|Gender=Fem|Number=Sing|PronType=Prs
+Gender=Masc|Number=Sing|Person=3|Polarity=Neg|PronType=Neg,Prs
+Abbr=Yes|Case=Gen
+Case=Gen|Definite=Ind|Gender=Neut|Number=Plur
+Case=Gen|Number=Plur|PronType=Dem
+Definite=Def
+Number=Sing|Polarity=Neg|PronType=Neg
+Case=Gen|Definite=Ind|Gender=Masc|Number=Plur
+Abbr=Yes|Definite=Def,Ind|Gender=Neut|Number=Plur,Sing
+Gender=Neut|Number=Sing|PronType=Prs
+Number=Plur|Person=3|PronType=Ind,Prs
+Case=Gen|Definite=Def|Degree=Pos|Number=Sing
+Gender=Fem|Number=Sing|PronType=Ind
+Case=Gen|Definite=Ind|Degree=Pos|Number=Sing
+Animacy=Hum|Case=Nom|Person=1|PronType=Prs
+Case=Gen|Definite=Def|Gender=Masc|Number=Plur
+Gender=Neut|Number=Sing|NumType=Card
+Gender=Fem|Number=Sing|Person=3|PronType=Art,Prs
+Definite=Def|Number=Plur
+Abbr=Yes|Gender=Masc
+Definite=Ind|Gender=Fem|Number=Sing|VerbForm=Part
+Case=Gen|Definite=Ind|Gender=Fem|Number=Sing
+Case=Gen|Degree=Pos|Number=Plur
+Degree=Sup
+Definite=Ind|Degree=Pos|Gender=Neut
+Definite=Ind|Gender=Masc
+Animacy=Hum|Case=Nom|Gender=Masc|Person=3|PronType=Prs
+Case=Gen|Gender=Neut|Number=Sing|PronType=Dem
+Gender=Neut|Person=3|PronType=Prs
+Case=Gen|Gender=Fem
+Case=Gen|Gender=Neut
+Definite=Def|VerbForm=Part
+PronType=Dem
+Case=Gen|Definite=Ind|Gender=Fem|Number=Plur
+Definite=Ind|Degree=Pos|Number=Sing|VerbForm=Part
+Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part
+Case=Gen|Definite=Def|Gender=Fem|Number=Plur
+Definite=Ind|Number=Plur|VerbForm=Part
+NumType=Card|PronType=Dem
+7733
+67 2 3915
+154 3 551
+155 4 115
+231 5 44
+149 6 7
+111 -3 -3
+926 -4 8
+151 9 18
+432 10 11
+44 -95 -95
+621 12 13
+6 -4 -95
+201 14 15
+44 -4 -5
+199 16 -5
+79 17 -5
+97 -5 -4
+804 19 22
+25 20 21
+26 -91 -4
+305 -4 -5
+745 23 25
+76 -5 -5
+68 -5 -4
+144 26 35
+789 -4 -4
+908 -5 28
+196 -5 29
+563 -5 30
+333 31 32
+45 -5 -4
+527 -5 33
+104 -5 34
+366 -5 -4
+283 36 40
+4 37 38
+34 -4 -9
+362 39 -5
+5 -4 -9
+47 -5 41
+350 42 -4
+486 -9 43
+25 -4 -4
+118 45 46
+15 -19 -9
+811 47 50
+1059 48 -4
+907 -19 49
+42 -19 -27
+390 51 57
+152 52 55
+151 -19 -19
+15 -4 -27
+12 -4 -19
+446 56 -4
+151 -27 -4
+804 58 64
+404 59 61
+151 -9 60
+402 -9 -4
+387 62 63
+1 -5 -4
+1087 -9 -4
+488 65 67
+536 66 -4
+70 -4 -5
+554 68 77
+604 69 71
+388 -9 70
+5 -19 -3
+630 72 73
+50 -19 -27
+105 74 75
+156 -19 -4
+1239 76 -4
+1 -5 -4
+1571 78 82
+161 79 80
+4 -14 -3
+829 81 -4
+5 -27 -9
+141 83 91
+1221 -14 84
+311 -19 85
+1065 -19 86
+350 87 89
+45 88 -39
+57 -19 -4
+886 90 -4
+6 -4 -39
+779 92 95
+209 -39 93
+588 -19 94
+647 -3 -4
+1071 96 98
+172 -9 97
+247 -19 -4
+1267 99 100
+151 -5 -4
+1333 101 102
+107 -3 -4
+976 103 104
+45 -4 -3
+75 105 110
+445 106 108
+647 -9 107
+1178 -9 -4
+939 109 -4
+99 -9 -4
+316 111 113
+35 -9 112
+403 -9 -4
+627 114 -4
+132 -9 -4
+391 116 186
+231 117 139
+214 118 120
+225 -95 119
+36 -95 -17
+94 121 133
+338 -91 122
+789 123 125
+1103 -17 124
+72 -17 -91
+908 -91 126
+932 -91 127
+311 128 129
+60 -17 -91
+149 130 131
+29 -91 -17
+102 132 -17
+16 -17 -91
+338 134 135
+26 -17 -91
+370 136 137
+17 -91 -19
+149 138 -17
+283 -17 -91
+284 140 148
+830 141 -17
+449 142 145
+448 143 -17
+25 -9 144
+5 -19 -27
+115 146 -9
+5 -19 147
+26 -17 -9
+33 -17 -17
+339 150 153
+115 -17 151
+28 -95 152
+54 -17 -91
+708 154 156
+406 -19 155
+69 -19 -17
+789 157 160
+149 -91 158
+28 159 -17
+49 -91 -17
+28 161 -17
+161 162 -17
+42 -17 -4
+883 164 165
+29 -9 -17
+738 -14 166
+1019 167 168
+237 -27 -17
+403 169 171
+29 -14 170
+633 -4 -17
+325 -19 172
+1030 -19 173
+563 174 175
+45 -17 -9
+985 176 177
+6 -17 -9
+396 178 181
+454 179 -17
+29 -17 180
+45 -9 -19
+295 182 -17
+1285 183 184
+30 -17 -19
+588 185 -17
+29 -19 -17
+74 187 428
+214 188 198
+829 189 192
+388 190 -9
+92 -9 191
+5 -14 -5
+801 193 194
+35 -95 -49
+75 195 196
+35 -9 -19
+225 -9 197
+383 -19 -5
+1030 199 201
+65 200 -9
+42 -9 -49
+447 202 218
+883 -5 203
+72 -49 204
+176 205 206
+6 -9 -14
+829 207 211
+589 -49 -49
+50 -2 209
+16 -19 -27
+708 -9 -49
+404 212 215
+364 -49 213
+604 -2 214
+99 -27 -49
+869 -27 216
+548 217 -49
+45 -49 -9
+65 219 280
+604 220 226
+404 -2 221
+95 -49 -49
+60 223 -19
+5 -2 -49
+672 225 -49
+30 -49 -2
+364 227 229
+26 -2 228
+588 -2 -49
+152 230 234
+27 -49 231
+26 232 233
+95 -2 -49
+263 -27 -2
+789 235 245
+683 236 238
+1092 -49 237
+107 -19 -27
+647 -2 239
+88 240 241
+35 -95 -19
+574 242 243
+50 -27 -2
+349 -2 244
+139 -2 -49
+536 -2 246
+1010 247 250
+811 -49 248
+72 -2 249
+4 -27 -19
+684 251 254
+71 -2 252
+25 -19 253
+115 -2 -49
+1340 -27 255
+1571 256 257
+4 -9 -3
+427 258 261
+526 -2 259
+696 260 -49
+488 -49 -9
+736 262 265
+468 263 264
+5 -2 -27
+86 -27 -49
+225 266 268
+90 -9 267
+110 -9 -49
+694 269 271
+85 270 -49
+26 -49 -27
+392 272 276
+487 273 274
+27 -49 -19
+339 -27 275
+587 -27 -49
+118 -9 277
+1092 -9 278
+1143 279 -49
+4 -9 -49
+1134 281 296
+387 282 284
+379 -49 283
+1082 -49 -2
+553 -2 285
+630 -2 286
+604 287 289
+99 -49 288
+140 -27 -2
+330 -49 -49
+59 291 -2
+4 -49 -27
+627 293 295
+4 -2 294
+5 -49 -27
+38 -2 -49
+830 297 347
+707 -19 298
+347 299 305
+399 -19 300
+16 -14 301
+113 302 -19
+95 303 304
+26 -49 -19
+69 -49 -9
+1178 306 308
+141 -27 307
+87 -27 -19
+152 309 312
+49 310 -2
+6 311 -19
+1 -49 -9
+488 -49 313
+336 -9 314
+553 -49 -49
+59 -19 316
+647 317 318
+45 -19 -27
+97 -27 -49
+604 320 321
+115 -9 -19
+151 322 324
+68 -49 323
+241 -27 -2
+534 325 326
+16 -2 -9
+829 327 339
+546 328 329
+148 -49 -9
+158 330 334
+429 -49 331
+432 -49 332
+48 -49 333
+194 -49 -9
+432 335 337
+5 -9 336
+37 -49 -14
+683 338 -49
+16 -27 -14
+402 -14 340
+532 -9 341
+1176 342 343
+42 -19 -9
+388 344 346
+49 -9 345
+68 -19 -49
+89 -27 -49
+788 348 353
+404 349 350
+5 -14 -2
+284 351 352
+55 -2 -9
+139 -49 -19
+284 354 361
+390 -49 355
+312 -2 356
+72 357 358
+17 -49 -2
+362 -49 359
+329 -49 360
+403 -49 -9
+30 362 363
+663 -2 -49
+604 364 371
+404 365 366
+12 -9 -2
+668 367 369
+45 368 -9
+16 -27 -19
+226 -2 370
+54 -2 -49
+69 372 383
+145 373 374
+141 -3 -6
+404 375 377
+29 -2 376
+110 -9 -49
+311 378 379
+6 -9 -14
+68 -49 380
+514 -2 -2
+72 -2 -49
+88 -49 -2
+35 384 387
+1 385 386
+28 -3 -95
+26 -5 -9
+883 388 390
+50 -27 389
+6 -19 -27
+1020 391 397
+225 392 394
+115 -9 393
+1 -49 -2
+1010 -19 395
+407 -49 -49
+45 -19 -49
+404 398 408
+789 399 403
+188 400 401
+15 -49 -27
+4 -19 402
+57 -19 -2
+519 -9 404
+356 -9 405
+1019 406 407
+5 -9 -19
+61 -19 -49
+132 409 414
+57 -9 410
+240 -49 -49
+54 -49 -27
+95 -9 413
+97 -9 -49
+440 415 418
+93 -2 416
+336 -9 417
+75 -49 -9
+553 419 421
+26 420 -49
+15 -6 -2
+573 422 423
+16 -19 -2
+64 -2 424
+226 -2 425
+309 -2 426
+313 427 -49
+79 -49 -49
+230 429 449
+402 -57 430
+637 -3 -3
+433 432 434
+35 -132 433
+702 -74 -3
+16 -69 -138
+72 436 440
+604 437 438
+45 -132 -9
+152 -153 439
+15 -5 -74
+151 441 442
+26 -3 -74
+75 443 447
+488 444 445
+37 -19 -27
+689 446 -85
+30 -57 -9
+49 -146 448
+1 -147 -5
+75 450 538
+921 -3 451
+118 452 456
+353 453 454
+25 -19 -14
+615 -3 455
+69 -9 -3
+909 457 469
+309 -19 458
+513 459 460
+17 -27 -19
+1145 -27 -27
+485 -19 462
+90 -19 463
+199 464 466
+144 -19 465
+123 -19 -27
+321 467 -27
+65 468 -27
+468 -27 -19
+1059 470 476
+352 471 472
+84 -19 -27
+823 -27 473
+932 474 -19
+6 -19 475
+144 -19 -27
+562 477 485
+781 478 479
+444 -9 -19
+445 480 481
+135 -14 -19
+427 -19 482
+16 483 -27
+76 -27 484
+194 -27 -19
+830 486 498
+338 487 490
+225 488 489
+45 -19 -27
+37 -19 -9
+635 -27 491
+141 -27 492
+135 493 495
+79 494 -27
+87 -27 -19
+634 496 497
+589 -27 -19
+292 -27 -19
+388 499 503
+69 -14 500
+227 -36 501
+68 -27 502
+6 -9 -19
+283 504 514
+69 505 508
+399 -19 506
+414 -19 507
+64 -14 -27
+572 509 510
+30 -27 -19
+26 -9 511
+399 -19 512
+80 513 -9
+487 -9 -19
+390 515 520
+225 -14 516
+58 -19 517
+186 518 519
+15 -14 -19
+27 -14 -9
+353 521 523
+6 -33 522
+30 -14 -19
+1019 524 528
+404 525 527
+65 526 -19
+48 -19 -27
+15 -28 -9
+535 529 531
+311 -19 530
+520 -27 -9
+1403 532 533
+4 -3 -19
+581 534 535
+145 -19 -9
+1372 -3 536
+131 537 -9
+4 -14 -9
+117 -28 539
+94 540 543
+207 541 542
+59 -9 -19
+136 -95 -5
+378 -5 544
+375 545 547
+79 546 -19
+12 -5 -3
+562 -19 548
+273 549 550
+12 -17 -36
+191 -5 -9
+756 552 889
+819 553 554
+504 -28 -19
+774 555 557
+474 -39 556
+829 -39 -36
+284 558 586
+782 559 571
+781 560 562
+446 561 -39
+16 -33 -33
+1926 -14 563
+1005 564 565
+45 -39 -36
+878 566 569
+422 -14 567
+88 568 -39
+16 -14 -39
+210 570 -39
+1 -14 -39
+883 -39 -39
+390 573 574
+35 -36 -39
+72 575 577
+433 -95 576
+571 -36 -39
+231 -95 578
+435 -3 579
+627 -39 580
+324 581 583
+79 -39 582
+30 -39 -36
+519 584 585
+49 -39 -36
+176 -39 -36
+231 587 615
+44 588 609
+1569 589 590
+27 -27 -9
+15 591 596
+798 -36 592
+535 -36 593
+89 594 595
+29 -39 -36
+372 -36 -39
+564 597 600
+72 598 599
+103 -95 -36
+6 -14 -39
+287 601 603
+356 602 -39
+26 -95 -19
+184 604 605
+105 -95 -39
+612 606 607
+76 -39 -36
+455 -95 -95
+1 -36 -95
+204 -5 610
+686 611 612
+4 -39 -36
+378 -95 613
+143 614 -95
+419 -95 -39
+463 616 639
+95 617 618
+404 -33 -36
+232 619 622
+50 620 621
+26 -33 -19
+47 -14 -36
+46 623 625
+36 -9 624
+117 -19 -39
+789 -14 626
+449 -36 627
+156 -39 628
+72 -39 -39
+461 -36 630
+708 -36 631
+204 632 633
+48 -39 -36
+670 634 635
+59 -39 -36
+398 636 637
+28 -39 -36
+201 -36 638
+537 -36 -39
+404 640 642
+31 641 -36
+61 -39 -33
+340 643 657
+285 644 647
+338 645 -36
+412 -27 646
+15 -27 -19
+29 -39 648
+604 649 650
+98 -36 -39
+563 651 652
+15 -3 -36
+661 653 654
+50 -39 -36
+144 655 656
+17 -39 -19
+110 -27 -19
+564 658 678
+604 659 664
+115 -9 660
+745 -9 661
+637 -39 662
+615 663 -36
+225 -39 -36
+29 665 666
+433 -39 -36
+1310 -36 667
+588 668 670
+547 -36 669
+88 -36 -39
+205 671 672
+72 -36 -39
+536 673 675
+4 -36 674
+15 -9 -39
+1034 -36 676
+821 677 -39
+26 -36 -39
+117 -19 679
+338 680 694
+229 -39 681
+25 682 683
+50 -9 -36
+403 684 687
+151 685 686
+1 -36 -36
+90 -36 -39
+265 -39 688
+651 689 690
+16 -36 -39
+35 -39 691
+357 692 -36
+489 -36 693
+45 -39 -36
+1192 695 697
+743 696 -36
+16 -39 -36
+27 698 712
+486 699 700
+17 -27 -36
+1003 -9 701
+782 -36 702
+152 703 705
+402 -36 704
+16 -39 -39
+771 -36 706
+591 707 709
+144 -39 708
+1 -36 -3
+570 710 711
+429 -36 -39
+344 -27 -39
+214 713 721
+434 -39 -39
+12 715 719
+789 -95 716
+87 -5 717
+661 718 -39
+45 -95 -39
+624 -36 720
+417 -36 -39
+536 722 741
+489 723 724
+105 -9 -39
+685 725 726
+402 -27 -39
+605 727 728
+445 -36 -39
+435 -39 729
+829 -95 730
+882 731 732
+112 -9 -36
+25 -39 733
+364 -39 734
+68 735 737
+5 -36 736
+43 -36 -39
+88 738 739
+79 -36 -39
+146 740 -36
+31 -4 -36
+335 742 759
+605 -36 743
+572 744 746
+30 -33 745
+151 -36 -39
+59 747 748
+85 -9 -39
+268 749 750
+16 -39 -3
+112 -39 751
+31 -36 -36
+141 753 754
+57 -36 -39
+547 -39 755
+89 756 758
+228 -36 757
+17 -39 -36
+428 -39 -36
+57 760 772
+560 761 763
+297 762 -39
+31 -36 -9
+347 764 766
+399 -19 765
+16 -14 -9
+641 767 768
+89 -4 -39
+61 -36 -36
+5 770 -39
+26 -27 -36
+545 -39 -36
+246 773 776
+427 774 775
+28 -19 -39
+6 -9 -39
+152 777 803
+615 -39 778
+121 -36 779
+489 780 784
+339 -39 781
+142 782 -36
+16 -36 783
+49 -39 -36
+629 -39 -39
+135 786 -36
+336 -36 787
+69 -36 -39
+330 -36 789
+449 -36 790
+542 -36 791
+31 -33 792
+261 -9 793
+204 794 795
+5 -36 -39
+308 -36 796
+150 797 798
+26 -39 -36
+196 799 800
+16 -36 -39
+782 801 -39
+69 -39 802
+85 -39 -36
+878 804 810
+547 805 808
+435 -3 806
+1 -19 807
+6 -17 -36
+35 -3 809
+394 -14 -39
+534 811 818
+1028 -39 -39
+15 -19 -5
+71 -9 814
+1145 815 816
+6 -39 -36
+1136 817 -39
+65 -36 -39
+150 819 825
+68 -36 820
+788 821 822
+17 -36 -19
+225 823 824
+28 -39 -36
+96 -36 -39
+692 -39 -39
+259 827 -36
+16 -39 -36
+1010 829 832
+211 -36 830
+93 -39 831
+15 -39 -9
+1178 833 834
+17 -9 -36
+483 835 839
+71 -36 836
+79 837 838
+15 -39 -9
+46 -36 -39
+285 840 844
+637 -39 841
+146 -39 842
+31 843 -36
+6 -36 -27
+513 845 852
+76 846 848
+6 -9 847
+26 -9 -39
+792 -36 849
+115 -36 850
+615 -36 851
+327 -36 -39
+115 853 857
+435 -36 854
+37 855 856
+50 -36 -9
+87 -36 -39
+488 -27 858
+801 859 861
+16 -39 860
+54 -39 -36
+683 862 863
+211 -36 -39
+615 864 866
+754 -39 865
+145 -39 -36
+336 867 871
+474 -36 868
+273 869 870
+30 -39 -36
+173 -36 -39
+512 -36 872
+598 -36 873
+936 -36 874
+486 875 878
+489 876 877
+45 -36 -39
+31 -36 -39
+435 879 880
+29 -39 -36
+880 881 883
+45 882 -36
+41 -36 -39
+76 884 -39
+603 885 886
+151 -39 -36
+49 887 -39
+26 -39 888
+6 -36 -39
+74 890 1312
+73 891 1202
+153 892 979
+789 893 972
+781 894 901
+553 895 900
+316 896 897
+16 -49 -2
+309 898 -2
+69 -2 899
+4 -9 -49
+1 -9 -49
+661 -49 -49
+70 -49 903
+85 904 906
+150 -2 905
+68 -2 -49
+635 -49 907
+44 -2 -5
+17 909 945
+297 -9 910
+185 -49 911
+646 912 915
+35 -2 913
+37 -49 914
+28 -49 -9
+907 916 917
+357 -49 -2
+788 -2 918
+94 919 941
+100 920 921
+28 -49 -2
+334 -2 922
+540 -2 923
+867 -2 924
+165 -49 925
+674 -2 926
+79 927 940
+88 -2 928
+190 -2 929
+367 930 931
+26 -49 -2
+25 -2 932
+331 -2 933
+359 -2 934
+366 935 937
+26 -2 936
+45 -49 -2
+793 -2 938
+87 939 -49
+26 -2 -49
+27 -2 -49
+49 -49 942
+408 -49 943
+43 944 -2
+406 -49 -2
+85 946 949
+722 947 -49
+26 -9 948
+43 -2 -49
+27 -2 950
+408 -2 951
+907 952 953
+486 -2 -49
+432 954 959
+208 -2 955
+76 -49 956
+137 -2 957
+128 -2 958
+241 -2 -49
+335 -2 960
+1078 -2 961
+90 962 964
+5 963 -49
+65 -2 -49
+464 -2 965
+628 -2 966
+1094 -2 967
+611 968 970
+173 969 -49
+42 -49 -2
+25 971 -49
+1 -2 -49
+284 973 976
+448 -2 974
+142 -2 975
+59 -2 -9
+204 -9 977
+637 978 -2
+76 -9 -2
+214 980 996
+55 981 990
+75 982 986
+172 983 984
+4 -3 -2
+165 -2 985
+28 -2 -9
+547 -9 987
+92 988 -5
+28 -9 989
+12 -2 -5
+221 991 993
+284 -19 992
+423 -19 -9
+439 994 -9
+35 -9 995
+1 -2 -5
+311 997 1011
+829 998 1003
+28 999 1002
+84 -19 -19
+399 -19 1001
+445 -19 -27
+464 -27 -19
+907 1004 1005
+98 -49 -2
+116 -9 1006
+447 1007 1008
+71 -2 -9
+204 -9 1009
+186 1010 -2
+69 -2 -9
+65 1012 1049
+339 1013 1016
+152 1014 1015
+59 -4 -9
+673 -27 -2
+118 1017 1018
+115 -27 -9
+107 1019 1026
+441 -2 1020
+151 1021 1022
+4 -19 -49
+58 -9 1023
+4 1024 -2
+170 -9 1025
+55 -2 -9
+320 1027 1032
+152 -9 1028
+156 1029 -2
+95 -9 1030
+143 1031 -9
+149 -9 -2
+1823 -3 1033
+901 1034 1036
+54 -33 1035
+100 -49 -2
+306 1037 1041
+95 1038 1040
+87 -2 1039
+29 -2 -9
+185 -9 -2
+837 -9 1042
+488 1043 1044
+4 -2 -27
+462 1045 1047
+171 -27 1046
+422 -27 -2
+741 1048 -2
+57 -27 -2
+152 1050 1065
+339 1051 1053
+692 1052 -9
+85 -9 -4
+589 -2 -2
+189 -2 -9
+277 1056 1058
+45 -27 1057
+110 -19 -9
+830 -2 1059
+402 -2 1060
+547 -2 1061
+111 -2 1062
+694 -2 1063
+27 -2 1064
+47 -19 -9
+57 1066 1072
+413 -19 1067
+309 -9 1068
+111 -9 1069
+30 -9 1070
+85 1071 -2
+670 -2 -9
+231 1073 1081
+72 1074 1075
+26 -2 -5
+204 1076 1077
+15 -2 -5
+284 -9 1078
+49 1079 -2
+17 1080 -9
+450 -9 -2
+1134 1082 1083
+932 -27 -2
+990 1084 1085
+336 -2 -9
+975 1086 1090
+534 -2 1087
+604 1088 1089
+115 -9 -2
+29 -2 -9
+118 1091 1092
+37 -19 -9
+441 1093 1105
+320 -9 1094
+762 -2 1095
+148 1096 1097
+64 -9 -2
+239 1098 1099
+42 -2 -9
+501 -9 1100
+99 -9 1101
+533 -9 1102
+135 1103 1104
+6 -9 -2
+17 -9 -2
+734 -2 -2
+604 -2 1107
+144 1108 1115
+586 -2 1109
+29 -2 1110
+427 -2 1111
+619 1112 1113
+48 -9 -2
+219 -2 1114
+256 -2 -9
+87 -19 -2
+228 1117 1122
+123 1118 1120
+1 1119 -2
+37 -14 -27
+411 1121 -2
+137 -27 -2
+728 1123 1128
+16 1124 1127
+604 -2 1125
+404 -2 1126
+91 -2 -9
+26 -49 -2
+69 1129 1139
+610 1130 1131
+6 -2 -3
+1147 1132 1133
+42 -9 -27
+796 -27 1134
+917 -19 1135
+434 1136 1137
+16 -9 -2
+903 1138 -2
+1 -9 -2
+15 1140 1159
+684 1141 1142
+26 -9 -2
+283 1143 1147
+345 -2 1144
+225 1145 -9
+1 1146 -2
+76 -9 -2
+562 -5 1148
+284 1149 1152
+1 1150 1151
+30 -9 -5
+92 -9 -2
+813 -9 1153
+1059 1154 1155
+26 -9 -2
+191 -9 1156
+1095 -9 1157
+305 1158 -2
+30 -9 -2
+1020 1160 1161
+388 -2 -9
+430 1162 1166
+404 -9 1163
+4 -9 1164
+92 -9 1165
+313 -9 -2
+272 1167 1168
+495 -49 -2
+649 1169 1171
+175 -9 1170
+95 -9 -2
+149 1172 1174
+745 -2 1173
+139 -2 -9
+851 -19 1175
+754 1176 1177
+29 -2 -19
+1077 -9 1178
+61 1179 1181
+158 -9 1180
+48 -9 -2
+977 1182 1184
+26 -9 1183
+30 -9 -2
+450 1185 1189
+364 -9 1186
+451 -9 1187
+283 1188 -2
+45 -2 -9
+1014 1190 1191
+42 -2 -9
+259 1192 1196
+641 -9 1193
+55 -2 1194
+404 -9 1195
+37 -9 -2
+1029 -9 1197
+1098 -9 1198
+335 1199 1200
+186 -9 -2
+899 1201 -2
+16 -2 -9
+365 1203 1231
+1134 1204 1205
+548 -27 -27
+116 1206 1209
+153 -3 1207
+149 -9 1208
+45 -27 -19
+441 1210 1214
+95 1211 1212
+16 -27 -19
+615 1213 -27
+46 -27 -19
+15 1215 1221
+28 -27 1216
+624 -14 1217
+642 1218 1219
+50 -14 -19
+667 1220 -19
+45 -19 -14
+173 -19 1222
+399 1223 1224
+37 -19 -19
+462 1225 1226
+102 -27 -19
+175 1227 1228
+105 -27 -19
+193 -19 1229
+359 1230 -27
+30 -27 -19
+488 1232 1233
+15 -3 -14
+75 1234 1292
+830 1235 1251
+789 1236 1241
+43 -27 1237
+103 -27 1238
+87 1239 1240
+76 -27 -19
+54 -27 -19
+693 1242 1246
+637 -19 -19
+6 -9 1244
+17 -27 1245
+45 -19 -3
+991 -19 1247
+1342 -27 1248
+402 1249 -9
+27 -9 -9
+5 -9 -19
+554 1252 1256
+1263 -19 1253
+26 -14 1254
+239 -14 1255
+89 -3 -9
+311 1257 1259
+84 -19 -19
+107 -9 -19
+390 -9 1260
+117 -28 1261
+1059 1262 1267
+116 -49 1263
+165 -19 1264
+16 -19 1265
+171 -19 1266
+102 -19 -27
+693 1268 1274
+883 1269 1270
+15 -19 -9
+57 -19 1271
+45 1272 1273
+42 -19 -27
+5 -49 -19
+204 -9 -9
+364 1276 1277
+28 -49 -3
+847 -28 1278
+615 1279 1283
+691 1280 1281
+16 -2 -3
+5 -19 1282
+16 -19 -9
+30 1284 1286
+57 -19 1285
+28 -2 -9
+909 1287 1288
+206 -9 -2
+331 -14 1289
+546 -14 1290
+47 -27 1291
+118 -27 -9
+554 1293 1295
+68 -95 1294
+28 -19 -14
+214 1296 1303
+846 -95 1297
+4 1298 1302
+285 -5 1299
+446 -5 1300
+311 1301 -9
+12 -95 -5
+54 -9 -5
+311 -19 1304
+17 1305 1309
+547 -19 1306
+637 1307 -9
+26 -19 1308
+12 -27 -9
+55 1310 1311
+85 -95 -19
+4 -5 -9
+605 1313 1691
+32 1314 1477
+536 1315 1385
+562 1316 1364
+150 1317 1320
+661 -33 1318
+708 -33 1319
+53 -33 -35
+781 1321 1324
+45 -33 -33
+96 -35 -33
+104 -33 -35
+27 -35 -35
+149 -33 -35
+403 1327 1330
+69 1328 1329
+1 -33 -35
+89 -35 -33
+487 1331 1334
+648 -33 1332
+456 -33 1333
+424 -33 -35
+932 1335 1337
+17 -33 1336
+42 -33 -35
+107 -35 1338
+329 1339 1342
+143 1340 -33
+345 -33 1341
+47 -33 -35
+369 -33 1343
+1148 1344 1345
+305 -35 -33
+630 -35 1346
+448 -35 1347
+907 1348 1349
+135 -35 -33
+545 -33 1350
+764 -33 1351
+428 -35 1352
+589 1353 1355
+28 1354 -33
+1 -33 -35
+610 1356 1357
+69 -35 -33
+450 1358 1360
+49 1359 -33
+137 -33 -35
+546 1361 1363
+432 -33 1362
+93 -33 -35
+25 -33 -35
+909 1365 1369
+80 1366 1368
+93 -9 1367
+198 -9 -14
+36 -14 -33
+1287 -9 1370
+521 1371 1373
+71 -9 1372
+126 -2 -33
+646 1374 1377
+603 1375 -33
+16 -9 1376
+37 -33 -135
+1197 1378 1379
+335 -9 -33
+1146 1380 1381
+387 -36 -33
+209 1382 1383
+110 -36 -33
+284 1384 -33
+43 -36 -33
+285 1386 1445
+1019 1387 1402
+388 -33 1388
+647 -33 1389
+878 -35 -35
+433 -35 1391
+151 -35 1392
+185 -35 1393
+455 -35 1394
+135 1395 1398
+223 -33 1396
+87 1397 -35
+17 -33 -35
+221 -35 1399
+712 -35 1400
+255 1401 -33
+76 -33 -35
+1209 1403 1404
+57 -9 -14
+789 1405 1416
+387 -33 1406
+708 -35 1407
+603 1408 1409
+49 -2 -33
+175 -35 1410
+5 -33 1411
+634 -33 1412
+320 -33 1413
+589 -33 1414
+69 1415 -35
+48 -35 -33
+562 1417 1420
+149 -33 1418
+50 -35 -35
+92 -35 -33
+684 1421 1429
+71 -33 1422
+637 1423 1426
+6 1424 -27
+5 -35 1425
+28 -33 -19
+75 -35 1427
+76 -33 1428
+1 -35 -36
+231 1430 1433
+434 -95 1431
+405 1432 -35
+128 -33 -35
+604 -33 1434
+1057 -135 1435
+283 1436 1440
+165 1437 1439
+144 1438 -35
+6 -36 -33
+109 -36 -35
+238 -33 1441
+588 1442 1444
+53 -33 1443
+186 -33 -35
+227 -33 -35
+214 1446 1452
+547 1447 1448
+604 -5 -33
+68 -5 1449
+387 1450 1451
+72 -95 -5
+38 -3 -95
+990 -9 1453
+75 1454 1475
+830 1455 1458
+57 -19 1456
+17 1457 -27
+6 -19 -27
+554 1459 1460
+6 -19 -27
+637 1461 1465
+72 1462 1464
+45 -19 1463
+4 -27 -5
+429 -3 -14
+338 1466 1467
+4 -14 -9
+1082 -35 1468
+29 -9 1469
+90 1470 1471
+16 -19 -9
+166 -27 1472
+867 -27 1473
+283 -35 1474
+482 -35 -14
+247 -5 1476
+45 -95 -33
+339 1478 1545
+250 1479 1533
+781 1480 1493
+338 1481 1489
+176 1482 1485
+50 -9 -9
+156 1484 -2
+450 -2 -9
+440 1486 1488
+50 -2 1487
+5 -27 -19
+346 -9 -2
+163 1490 1491
+5 -9 -14
+341 1492 -14
+5 -14 -9
+378 1494 1495
+75 -14 -5
+176 1496 1500
+347 1497 -14
+199 -14 1498
+297 -9 1499
+1 -9 -14
+1101 -9 1501
+15 1502 1511
+627 1503 1504
+637 -9 -14
+328 -5 1505
+1183 -3 1506
+420 -9 1507
+923 -9 1508
+1082 -9 1509
+95 1510 -14
+5 -14 -9
+846 -14 -14
+399 1513 1517
+192 -9 1514
+244 -9 1515
+813 -9 1516
+881 -2 -14
+430 1518 1520
+141 -9 1519
+164 -9 -14
+888 1521 1524
+165 1522 -14
+57 -14 1523
+69 -14 -9
+838 -9 1525
+729 1526 1527
+16 -27 -14
+1024 1528 1529
+5 -14 -9
+686 1530 1531
+40 -9 -14
+452 1532 -14
+668 -9 -14
+75 1534 1542
+155 1535 1539
+141 1536 1537
+49 -3 -27
+453 -27 1538
+167 -27 -19
+527 1540 1541
+5 -2 -3
+183 -19 -9
+230 -5 -5
+1 -9 -69
+26 -9 -5
+285 1546 1598
+230 1547 1556
+590 -5 1548
+80 1549 1555
+76 -9 1550
+17 1551 1554
+97 -9 1552
+157 -9 1553
+169 -6 -87
+60 -5 -9
+88 -9 -87
+829 1557 1563
+115 1558 1562
+586 -9 1559
+15 1560 -2
+128 -9 1561
+542 -2 -2
+5 -14 -19
+155 1564 1567
+684 -2 1565
+17 -19 1566
+196 -19 -27
+684 1568 1582
+95 1569 1570
+5 -27 -19
+413 1571 1572
+61 -27 -19
+801 -27 -27
+104 -27 -19
+637 1575 1576
+17 -9 -19
+60 1577 1578
+65 -27 -19
+88 -19 1579
+168 -19 1580
+105 -19 1581
+109 -19 -27
+29 1583 1587
+57 -19 1584
+49 -27 -27
+16 -27 -19
+162 -2 -27
+75 1588 1596
+520 1589 1590
+441 -9 -19
+446 -19 1591
+696 1592 1593
+16 -3 -9
+308 -19 1594
+399 1595 -9
+26 -19 -9
+378 1597 -9
+37 -9 -5
+434 1599 1617
+65 1600 1606
+171 -27 -27
+103 -27 -19
+107 1603 1604
+50 -19 -27
+481 1605 -27
+95 -9 -27
+520 1607 1615
+347 -19 1608
+536 1609 -9
+558 -27 1610
+175 -27 1611
+463 -27 1612
+837 -27 1613
+1104 -27 1614
+71 -27 -19
+155 -14 1616
+15 -3 -9
+75 1618 1677
+488 1619 1631
+370 1620 1622
+76 -14 1621
+16 -9 -19
+65 1623 1627
+64 1624 1626
+618 -27 1625
+45 -19 -2
+426 -19 -27
+398 -27 1628
+362 1629 1630
+70 -19 -27
+36 -27 -19
+520 1632 1646
+909 1633 1637
+15 -19 1634
+61 -27 1635
+199 -27 1636
+69 -27 -19
+338 1638 1639
+226 -14 -9
+147 -3 1640
+990 1641 1644
+1192 -9 1642
+5 -27 1643
+6 -19 -3
+100 -9 1645
+387 -28 -14
+1134 1647 1649
+155 1648 -9
+5 -6 -27
+938 1650 1652
+102 1651 -19
+6 -91 -27
+72 1653 1654
+25 -124 -3
+338 1655 1660
+155 1656 1657
+5 -27 -14
+163 1658 -9
+157 -9 1659
+5 -14 -74
+153 -9 -9
+35 -57 -3
+152 -2 1663
+1178 1664 1665
+84 -9 -19
+254 1666 1670
+187 -3 1667
+283 1668 1669
+46 -9 -19
+150 -19 -9
+994 1671 1672
+5 -9 -19
+251 -3 1673
+399 1674 -9
+6 -9 1675
+79 -9 1676
+43 -9 -3
+214 1678 1684
+155 1679 1680
+684 -9 -95
+72 -95 1681
+338 -9 1682
+25 -28 1683
+534 -3 -5
+801 1685 1686
+230 -119 -125
+546 -28 1687
+536 1688 1689
+142 -2 -9
+781 -9 1690
+99 -5 -19
+75 1692 3620
+65 1693 2149
+427 1694 1731
+95 1695 1705
+137 1696 1699
+230 -56 1697
+921 -3 1698
+31 -91 -19
+105 1700 1701
+29 -14 -9
+1021 1702 1703
+347 -9 -19
+323 -14 1704
+921 -3 -19
+76 1706 1715
+641 -27 1707
+912 -27 1708
+391 1709 1710
+26 -9 -14
+151 1711 1712
+60 -9 -14
+43 1713 -19
+6 1714 -9
+72 -9 -19
+234 1716 1718
+283 -3 1717
+26 -19 -120
+560 1719 1720
+25 -39 -27
+296 1721 1722
+35 -56 -27
+32 -14 1723
+64 1724 1725
+128 -19 -27
+696 1726 1728
+697 -9 1727
+161 -9 -27
+60 1729 1730
+45 -14 -19
+58 -14 -9
+912 1732 1756
+200 -27 -27
+95 1734 -27
+29 1735 -9
+26 -39 -3
+230 1737 1742
+6 1738 1739
+35 -56 -27
+35 1740 1741
+31 -150 -124
+57 -91 -120
+264 1743 1744
+141 -9 -14
+806 -19 1745
+99 1746 1749
+102 1747 1748
+85 -19 -27
+79 -9 -14
+69 1750 1752
+156 -14 1751
+72 -14 -27
+705 1753 1755
+6 -19 1754
+26 -2 -27
+247 -2 -27
+921 -3 1757
+404 1758 1763
+32 1759 -9
+433 1760 1761
+92 -2 -27
+90 1762 -2
+5 -14 -9
+520 1764 1793
+563 1765 1770
+433 1766 1767
+1 -9 -19
+545 1768 1769
+636 -27 -19
+584 -19 -27
+909 1771 1774
+57 -27 1772
+31 -27 1773
+90 -27 -19
+206 1775 1777
+107 -19 1776
+1 -19 -27
+1192 1778 1779
+441 -27 -19
+637 1780 1783
+73 -9 1781
+49 -14 1782
+55 -9 -14
+72 1784 1785
+73 -9 -14
+536 -9 1786
+365 1787 1790
+43 -27 1788
+50 -14 1789
+5 -14 -27
+106 -9 1791
+669 1792 -14
+4 -9 -14
+73 1794 1840
+441 1795 1820
+29 -27 -27
+30 1797 1801
+486 -19 1798
+637 -27 1799
+43 -27 1800
+806 -27 -9
+28 1802 1804
+689 1803 -19
+4 -27 -110
+275 -19 1805
+311 -19 1806
+758 1807 1809
+50 1808 -19
+26 -9 -27
+395 1810 1812
+257 1811 -27
+27 -14 -9
+392 1813 1817
+830 -27 1814
+546 -19 1815
+61 -19 1816
+64 -19 -27
+1288 -19 1818
+219 1819 -27
+43 -19 -27
+534 1821 1823
+35 -65 1822
+92 -27 -9
+207 -3 1824
+612 -27 1825
+683 -27 1826
+76 1827 1832
+59 1828 1829
+6 -27 -14
+5 1830 -19
+79 -19 -19
+43 -19 -27
+4 1833 1835
+17 -27 1834
+152 -27 -9
+6 1836 1837
+69 -19 -19
+1019 -27 1838
+57 1839 -9
+45 -19 -27
+365 1841 1856
+554 -27 -27
+321 -19 1843
+27 -19 1844
+4 1845 -27
+182 -27 1846
+1 -19 1847
+28 -27 -19
+391 -9 1849
+61 -27 1850
+137 -27 1851
+58 1852 1853
+6 -27 -19
+97 -27 1854
+239 1855 -19
+392 -19 -19
+394 1857 1864
+443 1858 1860
+406 1859 -19
+37 -27 -14
+26 -19 1861
+229 -19 1862
+28 -19 1863
+78 -56 -9
+200 1865 1884
+441 1866 1872
+137 1867 1871
+342 1868 1869
+26 -39 -19
+26 -14 1870
+42 -14 -9
+319 -14 -9
+691 -9 -9
+79 -14 -27
+49 1875 1878
+143 1876 1877
+71 -19 -27
+6 -9 -14
+156 1879 1881
+50 -39 1880
+64 -9 -14
+321 1882 -19
+669 1883 -9
+31 -9 -19
+536 1885 1924
+155 1886 1888
+61 -19 1887
+88 -19 -27
+490 -19 1889
+834 1890 1891
+57 -9 -14
+32 1892 1900
+283 1893 1895
+441 1894 -9
+17 -27 -3
+26 -27 1896
+85 -14 1897
+225 -14 1898
+4 -9 1899
+92 -9 -14
+446 1901 1904
+35 -120 1902
+4 -19 1903
+45 -27 -36
+388 1905 1906
+35 -2 -36
+878 1907 1909
+80 1908 -27
+97 -27 -9
+391 1910 1917
+541 1911 1912
+50 -9 -19
+26 -9 1913
+488 -9 -9
+17 -3 -9
+69 -9 1916
+504 -9 -14
+488 -19 1918
+504 1919 1920
+4 -3 -19
+898 1921 1923
+76 -19 1922
+25 -19 -9
+1 -28 -9
+504 1925 1935
+390 -9 -9
+141 -9 1927
+25 -9 -14
+110 1929 1930
+30 -9 -27
+139 -19 1931
+357 1932 1933
+27 -9 -14
+91 -14 1934
+668 -14 -9
+1020 1936 1937
+155 -9 -19
+787 1938 1953
+441 1939 1950
+118 -27 -27
+332 -49 1941
+110 -27 1942
+4 -9 -19
+1145 -19 1944
+41 -2 1945
+446 1946 1947
+79 -14 -27
+396 -14 1948
+264 -19 1949
+397 -19 -27
+171 -19 1951
+49 -14 1952
+1 -19 -9
+205 1954 1957
+140 1955 1956
+59 -27 -19
+48 -19 -27
+32 1958 2011
+938 1959 1964
+340 -27 1960
+691 -19 1961
+137 -27 1962
+239 -27 1963
+347 -27 -19
+708 1965 1968
+583 1966 1967
+5 -14 -9
+430 -19 -27
+432 1969 1976
+107 -19 1970
+576 1971 1972
+37 -19 -14
+156 1973 1974
+4 -27 -19
+641 1975 -27
+42 -27 -9
+591 1977 1978
+48 -14 -9
+564 1979 1987
+336 -14 1980
+553 1981 1982
+59 -2 -9
+284 -9 1983
+516 1984 1985
+5 -9 -19
+637 -19 1986
+226 -19 -27
+387 -9 1988
+390 1989 1990
+61 -19 -9
+446 1991 1993
+109 1992 -9
+6 -27 -19
+983 -3 1994
+647 -27 1995
+28 1996 1997
+50 -27 -9
+604 1998 2000
+782 -27 1999
+613 -14 -9
+637 2001 2005
+132 2002 2004
+30 -19 2003
+5 -27 -9
+110 -27 -14
+338 -19 2006
+434 2007 2008
+4 -19 -9
+451 2009 2010
+50 -14 -9
+684 -9 -14
+57 2012 2017
+241 2013 2014
+26 -9 -19
+1083 2015 2016
+26 -39 -14
+17 -3 -27
+488 2018 2022
+591 2019 2020
+207 -9 -27
+31 -14 2021
+4 -2 -9
+441 2023 2105
+63 2024 2028
+80 2025 2027
+318 -9 2026
+372 -9 -19
+37 -3 -9
+500 2029 2036
+387 2030 2031
+50 -27 -36
+143 2032 -19
+172 2033 2035
+4 -14 2034
+28 -27 -19
+275 -9 -27
+347 2037 2050
+230 -9 -9
+31 -150 -19
+93 2040 2042
+64 -14 2041
+25 -3 -27
+375 2043 2044
+47 -9 -14
+118 2045 2046
+26 -14 -27
+161 -27 2047
+152 2048 2049
+49 -19 -9
+135 -19 -9
+26 2051 2060
+547 2052 2053
+68 -27 -19
+115 2054 2055
+6 -85 -9
+563 2056 2057
+576 -27 -9
+307 -9 2058
+641 2059 -14
+31 -14 -27
+339 2061 2067
+391 2062 2064
+560 -14 2063
+49 -19 -27
+489 -9 2065
+64 2066 -27
+4 -9 -19
+353 2068 2069
+68 -19 -9
+229 2070 2072
+230 2071 -9
+85 -9 -27
+588 -9 2073
+413 2074 2081
+140 -19 2075
+669 2076 2077
+31 -14 -19
+434 -9 2078
+571 2079 2080
+6 -9 -14
+166 -14 -27
+1083 2082 2085
+225 2083 2084
+5 -27 -19
+637 -9 -14
+576 2086 2096
+69 2087 2090
+150 -19 2088
+79 2089 -9
+25 -9 -27
+4 2091 2093
+803 2092 -14
+1 -19 -27
+59 -27 2094
+53 -27 2095
+61 -27 -19
+398 -19 2097
+545 2098 2101
+64 2099 -27
+230 -9 2100
+206 -27 -19
+118 2102 2104
+39 -27 2103
+5 -19 -9
+559 -9 -27
+1134 2106 2110
+35 2107 2109
+5 -124 2108
+6 -120 -3
+413 -2 -27
+1127 -14 2111
+391 2112 2119
+1178 -9 2113
+93 2114 2115
+256 -27 -19
+285 -14 2116
+432 2117 2118
+30 -19 -14
+319 -14 -27
+130 2120 2123
+118 2121 2122
+5 -27 -3
+4 -56 -9
+207 -19 2124
+1067 -19 2125
+683 -9 2126
+26 2127 2133
+172 -19 2128
+182 -14 2129
+45 2130 2131
+31 -27 -9
+29 -19 2132
+106 -14 -27
+166 -9 -9
+475 -19 2135
+351 -19 2136
+430 -27 2137
+883 -27 2138
+121 2139 2140
+17 -19 -27
+483 2141 2142
+43 -27 -19
+103 -27 2143
+371 -19 2144
+432 2145 2147
+60 -9 2146
+118 -9 -19
+637 2148 -9
+4 -19 -9
+399 2150 2349
+57 2151 2164
+921 -3 2152
+35 2153 2156
+230 2154 2155
+528 -91 -57
+107 -14 -19
+594 2157 2158
+97 -91 -19
+1129 2159 2160
+5 -3 -19
+4 2161 -19
+404 -9 2162
+226 2163 -19
+17 -9 -19
+441 2165 2252
+427 2166 2178
+199 2167 2175
+435 -14 2168
+149 -14 2169
+225 -9 2170
+184 2171 2172
+73 -27 -19
+171 -19 2173
+50 2174 -27
+64 -27 -9
+212 -57 2176
+366 -14 2177
+504 -3 -19
+200 2179 2181
+576 -19 2180
+58 -19 -9
+446 2182 2187
+435 -14 2183
+404 2184 2185
+46 -9 -3
+239 -14 2186
+226 -19 -19
+95 2188 2190
+5 -14 2189
+69 -14 -19
+285 2191 2199
+149 2192 2193
+31 -19 -14
+364 2194 2195
+31 -27 -14
+591 2196 2197
+5 -9 -14
+782 2198 -19
+50 -19 -9
+504 2200 2204
+507 -3 2201
+32 2202 -9
+85 -9 2203
+195 -9 -14
+404 -9 2205
+673 2206 2211
+241 2207 2209
+547 -19 2208
+5 -36 -27
+588 -19 2210
+25 -19 -9
+297 2212 2227
+601 -19 2213
+35 -9 -9
+520 -19 2215
+450 -19 2216
+413 2217 2220
+59 -19 2218
+77 -19 2219
+118 -19 -9
+32 2221 2223
+6 -14 2222
+25 -9 -19
+456 2224 2225
+4 -19 -14
+1 -14 2226
+141 -14 -9
+440 2228 2230
+50 -19 -19
+241 -3 -19
+683 2231 2237
+49 2232 -9
+336 2233 2235
+444 2234 -14
+1 -9 -19
+26 -9 2236
+73 -9 -19
+544 2238 2239
+4 -14 -9
+36 -19 -19
+174 -3 2241
+69 2242 2243
+4 -19 -9
+219 2244 2245
+375 -19 -9
+396 2246 2248
+1 -9 2247
+30 -9 -19
+121 -9 2249
+237 2250 -19
+43 -9 2251
+335 -9 -19
+563 2253 2259
+488 -27 2254
+31 -9 -9
+17 -27 2256
+146 -14 -19
+26 2258 -9
+5 -39 -14
+504 2260 2264
+921 -3 2261
+434 2262 -9
+230 -9 2263
+6 -14 -3
+404 2265 2266
+31 -2 -9
+35 2267 2269
+285 -56 2268
+59 -65 -9
+228 2270 2275
+29 -14 2271
+111 -3 2272
+241 2273 2274
+6 -27 -3
+206 -14 -19
+551 2276 2296
+257 2277 2278
+32 -17 -9
+339 2279 2280
+5 -14 -9
+388 -27 -27
+16 -14 -9
+715 2283 2285
+4 -19 2284
+6 -3 -39
+461 2286 2287
+43 -27 -9
+489 -27 2288
+190 -9 2289
+509 2290 2291
+37 -19 -9
+318 -27 2292
+6 2293 2294
+45 -19 -9
+450 -19 2295
+454 -19 -27
+435 2297 2302
+520 2298 2299
+135 -19 -14
+285 -14 2300
+45 -9 2301
+5 -14 -27
+32 2303 2317
+387 2304 2305
+5 -27 -19
+284 2306 2307
+43 -19 -9
+938 2308 2310
+5 2309 -19
+46 -9 -27
+335 -9 2311
+142 2312 2315
+151 2313 2314
+92 -19 -9
+34 -14 -9
+219 -19 2316
+17 -19 -14
+444 2318 2320
+76 -14 2319
+5 -56 -27
+1068 2321 2322
+6 -28 -14
+829 2323 2325
+184 2324 -9
+6 -19 -9
+391 2326 2329
+42 2327 2328
+1 -14 -19
+64 -27 -9
+990 -14 2330
+76 2331 2339
+229 2332 2333
+26 -19 -9
+339 2334 2336
+184 2335 -9
+5 -19 -27
+425 -27 2337
+320 2338 -19
+43 -19 -19
+406 -27 2340
+250 2341 2342
+4 -19 -27
+118 2343 2345
+73 -19 2344
+45 -9 -14
+137 -9 2346
+157 -19 2347
+413 -9 2348
+550 -9 -19
+230 2350 2481
+35 2351 2376
+685 2352 2355
+285 2353 2354
+128 -74 -56
+15 -28 -124
+73 2356 2359
+221 2357 -65
+135 -65 2358
+16 -110 -65
+637 2360 2365
+176 -5 2361
+16 2362 2363
+1 -28 -95
+127 -95 2364
+229 -9 -91
+1134 2366 2368
+118 -120 2367
+6 -124 -120
+336 2369 2371
+42 2370 -19
+4 -57 -150
+15 2372 2373
+26 -120 -45
+504 -9 2374
+436 2375 -74
+6 -9 -138
+738 2377 2388
+113 2378 -19
+637 2379 2383
+266 -27 2380
+800 2381 2382
+16 -19 -27
+58 -27 -19
+93 -19 2384
+118 2385 2387
+156 -19 2386
+5 -19 -27
+104 -19 -27
+416 2389 2400
+73 2390 2391
+39 -110 -65
+685 2392 2393
+117 -28 -56
+432 2394 2395
+16 -124 -74
+518 2396 2397
+4 -74 -3
+311 -14 2398
+646 2399 -9
+6 -138 -5
+602 2401 2417
+144 2402 2416
+285 2403 2406
+402 -74 2404
+31 -3 2405
+27 -9 -56
+72 2407 2408
+6 -57 -19
+26 2409 2410
+79 -74 -9
+462 -57 2411
+103 2412 2413
+168 -9 -57
+564 2414 2415
+6 -57 -74
+150 -74 -9
+60 -65 -9
+311 2418 2423
+604 -14 2419
+149 2420 2422
+222 -14 2421
+691 -27 -19
+69 -19 -3
+536 2424 2431
+68 2425 2427
+6 -19 2426
+16 -3 -9
+151 2428 2430
+6 -9 2429
+31 -74 -120
+251 -5 -9
+435 2432 2433
+488 -14 -9
+888 -9 -9
+16 -3 2435
+6 -9 -74
+683 2437 2439
+44 2438 -56
+73 -85 -9
+404 2440 2441
+29 -9 -65
+829 -9 2442
+156 2443 2460
+201 2444 2447
+6 2445 2446
+26 -6 -19
+115 -27 -3
+4 2448 2450
+292 -3 2449
+31 -3 -9
+152 2451 2453
+5 -27 2452
+27 -49 -3
+745 2454 2456
+89 -19 2455
+263 -27 -9
+684 -27 2457
+279 -9 2458
+392 -19 2459
+5 -19 -9
+49 2461 2463
+101 -19 2462
+110 -19 -9
+407 2464 2466
+79 2465 -9
+15 -2 -27
+262 2467 2468
+31 -27 -3
+347 2469 2471
+429 2470 -9
+6 -9 -19
+17 2472 2480
+144 2473 2477
+634 -9 2474
+31 -9 2475
+259 -9 2476
+104 -9 -19
+76 2478 2479
+37 -27 -19
+42 -9 -27
+61 -9 -19
+401 -28 2482
+404 2483 2496
+31 2484 2487
+26 -2 2485
+28 -9 2486
+16 -2 -27
+250 -9 2488
+387 2489 2490
+64 -27 -19
+363 2491 2493
+6 2492 -33
+4 -9 -9
+921 -3 2494
+29 -14 2495
+671 -27 -9
+176 2497 2582
+57 -9 -9
+107 2499 2501
+520 -14 2500
+32 -9 -39
+347 2502 2518
+277 2503 2505
+28 2504 -9
+5 -3 -9
+30 2506 2509
+80 -9 2507
+32 -14 2508
+4 -14 -9
+731 2510 2513
+207 2511 2512
+6 -9 -14
+152 -14 -9
+637 2514 -9
+49 2515 -9
+5 -9 2516
+76 -14 2517
+388 -14 -9
+27 -27 2519
+815 -27 2520
+207 2521 2522
+6 -9 -14
+152 2523 -9
+76 2524 -9
+5 -27 -14
+441 2526 2540
+111 2527 2528
+4 -3 -27
+200 -9 2529
+95 -14 2530
+151 2531 2533
+32 -14 2532
+5 -9 -19
+371 -14 2534
+777 -14 2535
+364 2536 2537
+49 -14 -9
+542 2538 2539
+45 -14 -9
+138 -14 -9
+536 2541 2546
+651 -9 2542
+429 -9 2543
+391 -14 2544
+32 -14 2545
+4 -14 -19
+395 2547 2551
+27 -19 2548
+76 -27 2549
+526 -27 2550
+32 -27 -9
+560 2552 2564
+696 -27 2553
+824 -14 2554
+98 2555 2558
+101 2556 -19
+43 -27 2557
+17 -9 -14
+69 2559 2560
+29 -9 -19
+27 -19 2561
+350 2562 2563
+55 -27 -9
+185 -27 -9
+432 2565 2566
+1 -27 -19
+448 2567 2568
+105 -3 -9
+313 -9 2569
+1030 2570 2571
+5 -3 -14
+504 2572 2574
+55 -9 2573
+6 -14 -3
+637 2575 2577
+376 -14 2576
+16 -14 -19
+59 2578 2579
+28 -14 -9
+829 -9 2580
+489 2581 -19
+105 -19 -9
+57 2583 2654
+347 2584 2600
+773 2585 2588
+16 2586 2587
+26 -3 -14
+4 -19 -9
+1066 -19 2589
+72 2590 2591
+152 -14 -9
+229 -9 2592
+1021 -9 2593
+434 2594 2596
+259 2595 -14
+6 -9 -14
+84 2597 -14
+78 -14 2598
+32 2599 -14
+255 -14 -9
+367 2601 2606
+412 2602 2603
+26 -19 -27
+731 2604 2605
+912 -9 -14
+211 -9 -14
+912 2607 2615
+357 2608 2609
+41 -19 -9
+490 -9 2610
+583 -9 2611
+433 -9 2612
+26 2613 2614
+1 -14 -9
+150 -9 -14
+322 2616 2620
+446 -14 2617
+115 -14 2618
+87 -14 2619
+31 -14 -9
+363 2621 2622
+86 -36 -27
+273 2623 2626
+151 -19 2624
+118 2625 -14
+5 -14 -19
+632 -19 -19
+403 2628 2629
+5 -9 -14
+527 2630 2631
+42 -19 -14
+453 -14 -19
+429 2633 2635
+29 -14 2634
+130 -9 -19
+432 2636 2639
+237 2637 2638
+31 -14 -27
+4 -9 -19
+519 2640 2641
+61 -27 -14
+1072 2642 2643
+89 -9 -14
+550 2644 2645
+31 -14 -27
+390 2646 2647
+5 -14 -19
+277 -19 2648
+190 2649 2650
+17 -19 -14
+336 -19 2651
+345 2652 2653
+79 -9 -19
+196 -19 -9
+921 -3 2655
+1134 2656 2676
+534 2657 2661
+336 -2 2658
+455 -27 2659
+391 -28 2660
+104 -28 -3
+117 2662 2663
+16 -3 -28
+15 2664 2665
+73 -19 -9
+95 2666 2667
+16 -28 -36
+305 -9 2668
+435 2669 2671
+387 -49 2670
+16 -27 -27
+1234 -14 2672
+196 2673 2674
+17 -27 -19
+111 -9 2675
+515 -49 -27
+365 2677 2713
+338 -9 2678
+829 2679 2690
+683 2680 2681
+15 -19 -9
+320 -19 2682
+79 2683 -27
+442 -19 2684
+68 -19 2685
+779 -19 2686
+49 2687 -27
+620 -27 -27
+45 -19 2689
+15 -27 -19
+68 2691 2696
+85 2692 2693
+59 -19 -27
+103 2694 2695
+86 -9 -19
+512 -19 -14
+1030 2697 2698
+54 -19 -9
+447 2699 2701
+84 -14 2700
+157 -19 -27
+501 -19 2702
+142 2703 2707
+259 -19 2704
+85 -27 -27
+16 2706 -27
+198 -27 -19
+221 -19 -19
+387 2709 2710
+27 -19 -27
+152 -27 -19
+123 -27 2712
+717 -27 -19
+504 2714 2757
+390 2715 2720
+604 -14 -14
+76 2717 -14
+37 -14 -9
+152 -14 2719
+76 -14 -3
+490 2721 2726
+990 -19 2722
+225 2723 -9
+142 2724 2725
+39 -9 -19
+99 -19 -9
+604 2727 2729
+630 -9 -9
+156 -3 -9
+1244 -3 2730
+615 2731 2734
+432 2732 2733
+108 -19 -14
+17 -9 -9
+285 2735 2737
+755 -19 2736
+46 -3 -9
+1082 -14 2738
+534 2739 2745
+297 -9 2740
+536 -9 2741
+144 -14 2742
+553 2743 2744
+350 -9 -14
+32 -9 -9
+683 2746 2747
+338 -9 -14
+702 2748 2749
+79 -14 -9
+533 2750 2752
+152 -14 2751
+26 -14 -9
+32 2753 2756
+72 -14 2754
+339 2755 -9
+15 -9 -14
+207 -3 -9
+441 2758 2948
+200 2759 2773
+454 -9 -9
+162 -14 2761
+654 -14 2762
+602 2763 -9
+26 -14 2764
+27 -14 -9
+175 2766 2769
+95 -9 2767
+49 2768 -19
+109 -19 -9
+320 2770 2771
+60 -9 -14
+40 -14 2772
+109 -14 -9
+95 2774 2787
+199 -14 2775
+429 2776 2777
+242 -14 -19
+917 2778 2780
+684 -14 2779
+32 -14 -9
+6 -3 2781
+829 2782 2783
+50 -9 -14
+536 2784 2786
+45 -14 2785
+32 -9 -19
+16 -27 -19
+520 2788 2806
+72 -9 2789
+909 2790 2791
+28 -14 -19
+536 2792 2794
+142 2793 -19
+42 -19 -9
+434 -19 2795
+535 2796 2797
+31 -9 -14
+637 2798 2799
+5 -9 -14
+398 -14 -14
+6 -27 -9
+403 2802 2803
+25 -14 -9
+189 -9 2804
+228 -9 2805
+388 -9 -14
+148 2807 2808
+17 -27 -14
+762 2809 2835
+186 2810 2811
+1 -14 -27
+804 -19 2812
+42 -9 2813
+353 -9 -9
+1020 2815 2816
+50 -9 -19
+272 2817 2819
+6 -27 2818
+32 -9 -27
+435 2820 2821
+279 -19 -9
+615 -9 2822
+683 2823 2824
+43 -9 -14
+89 -27 2825
+295 -27 2826
+447 2827 2829
+84 -14 2828
+50 -27 -14
+142 -19 2830
+6 2831 -19
+237 -19 2832
+173 2833 2834
+5 -19 -14
+182 -19 -14
+755 2836 2843
+834 -14 2837
+815 2838 2839
+59 -19 -9
+54 2840 2842
+106 -9 2841
+61 -9 -19
+917 -3 -9
+32 2844 2875
+711 -19 2845
+152 2846 2850
+69 2847 2848
+130 -3 -14
+463 -14 2849
+43 -9 -19
+29 -14 2851
+938 2852 2853
+16 -14 -19
+829 2854 2855
+26 -19 -14
+830 -14 2856
+364 -14 2857
+789 2858 2859
+237 -14 -14
+781 -14 2860
+338 2861 2864
+591 2862 2863
+99 -9 -14
+28 -19 -9
+285 2865 2866
+27 -14 -19
+6 2867 2870
+582 2868 2869
+328 -9 -14
+554 -14 -9
+529 -14 2871
+368 2872 2873
+31 -14 -19
+544 -19 2874
+27 -19 -9
+391 2876 2893
+27 -14 2877
+834 -14 2878
+435 2879 2880
+311 -19 -14
+489 2881 2887
+72 2882 2883
+17 -27 -19
+285 2884 2885
+115 -19 -9
+534 -9 2886
+137 -19 -14
+536 2888 2889
+118 -14 -9
+535 -9 -9
+206 2891 2892
+829 -19 -9
+100 -19 -9
+815 2894 2896
+206 -14 2895
+16 -9 -19
+590 2897 2898
+26 -9 -14
+339 -9 2899
+534 -9 2900
+118 2901 2908
+387 -9 -9
+518 -19 2903
+366 2904 2905
+35 -19 -9
+336 -9 2906
+141 2907 -14
+49 -19 -14
+268 2909 2921
+206 -9 -9
+558 -9 2911
+42 -3 2912
+392 2913 2914
+146 -19 -9
+73 -19 2915
+155 -19 2916
+165 -19 2917
+511 -19 2918
+142 2919 -9
+109 -19 2920
+28 -19 -9
+488 2922 2924
+4 -14 -14
+5 -27 -3
+250 2925 2929
+318 2926 2927
+5 -14 -27
+17 2928 -19
+79 -19 -9
+683 2930 2931
+829 -9 -19
+390 2932 2933
+43 -14 -19
+1011 -27 2934
+49 2935 2944
+553 2936 2937
+5 -14 -19
+112 2938 2942
+536 2939 2940
+27 -14 -19
+17 -19 2941
+92 -19 -9
+204 -14 2943
+240 -14 -9
+166 -9 -9
+28 -9 -19
+195 -19 2947
+528 -19 -9
+490 2949 3012
+488 2950 2953
+339 -9 2951
+448 -27 -27
+666 -19 -27
+830 2954 2960
+434 2955 2956
+586 -19 -27
+152 -27 2957
+185 2958 2959
+715 -19 -27
+985 -27 -19
+229 2961 2970
+26 -19 2962
+204 -19 2963
+244 -19 2964
+260 -19 2965
+197 2966 2967
+42 -19 -9
+440 2968 -9
+45 -9 2969
+69 -9 -19
+339 2971 2975
+379 -27 2972
+352 -19 2973
+376 2974 -9
+5 -19 -9
+434 2976 2978
+435 -9 2977
+26 -3 -27
+27 2979 2983
+692 -14 -14
+285 -9 2981
+80 -14 2982
+26 -14 -9
+73 2984 2985
+58 -19 -14
+338 2986 2989
+184 2987 2988
+6 -3 -9
+15 -27 -14
+591 2990 2991
+44 -14 -9
+221 2992 2995
+767 -19 2993
+548 -19 2994
+29 -9 -27
+435 2996 2997
+6 -9 -14
+135 2998 3005
+92 -9 2999
+259 3000 3001
+31 -14 -27
+15 3002 3003
+85 -19 -9
+612 -27 3004
+37 -27 -19
+446 -27 3006
+285 3007 3011
+368 -9 3008
+85 -19 3009
+31 3010 -27
+4 -27 -19
+68 -9 -19
+250 3013 3050
+222 3014 3016
+71 -27 3015
+54 -19 -3
+563 -14 3017
+435 3018 3019
+93 -19 -9
+206 3020 3023
+830 3021 3022
+15 -19 -27
+131 -19 -9
+446 -19 3024
+789 -19 -19
+808 -27 3026
+228 3027 3034
+694 3028 3029
+54 -19 -27
+95 -27 3030
+616 -27 3031
+468 3032 3033
+16 -19 -27
+204 -27 -19
+246 -19 3035
+34 3036 -9
+234 3037 3038
+29 -19 -27
+519 -27 3039
+410 -27 3040
+596 3041 3042
+1 -19 -27
+635 -19 3043
+135 3044 3046
+103 -27 3045
+335 -27 -19
+76 3047 -27
+169 -27 3048
+318 3049 -19
+42 -19 -27
+353 3051 3077
+685 3052 3057
+259 3053 3054
+87 -39 -27
+105 3055 3056
+5 -27 -39
+110 -3 -19
+782 -9 3058
+31 3059 3063
+196 3060 3061
+15 -36 -19
+529 -19 3062
+26 -19 -9
+489 3064 3066
+103 3065 -49
+15 -39 -36
+30 -14 3067
+563 -9 3068
+486 -9 -9
+199 3070 3073
+1002 3071 3072
+6 -3 -9
+50 -36 -39
+402 -3 3074
+468 3075 3076
+69 -3 -39
+53 -39 -9
+155 3078 3132
+206 3079 3093
+149 3080 3082
+26 -14 3081
+17 -27 -9
+829 -9 3083
+804 -9 3084
+228 -3 3085
+335 3086 3087
+6 -27 -19
+338 3088 3090
+280 -3 3089
+5 -9 -5
+72 -3 3091
+30 -19 3092
+91 -19 -9
+888 3094 3097
+95 -19 -19
+324 3096 -19
+31 -27 -19
+693 3098 3100
+266 -27 3099
+534 -27 -19
+31 3101 3106
+283 3102 3103
+190 -19 -27
+17 3104 -9
+45 -19 3105
+15 -19 -27
+789 3107 3111
+433 -27 3108
+15 3109 3110
+25 -3 -27
+35 -27 -19
+153 3112 3114
+225 -19 3113
+39 -19 -27
+73 3115 3118
+145 3116 -9
+50 -9 3117
+6 -19 -27
+1263 3119 3121
+92 3120 -14
+16 -27 -19
+364 -14 3122
+379 -14 3123
+150 3124 3126
+49 -19 3125
+16 -14 -27
+682 -14 3127
+70 -19 3128
+27 -19 3129
+448 3130 3131
+68 -9 -19
+42 -19 -9
+73 3133 3203
+1267 -3 3134
+520 3135 3142
+72 -9 3136
+547 3137 3138
+186 -9 -14
+829 -9 3139
+15 -3 3140
+43 -27 3141
+49 -19 -27
+30 3143 3158
+465 -9 -9
+1072 3145 3146
+15 -14 -19
+553 -9 3147
+549 3148 3149
+116 -9 -27
+59 3150 3151
+182 -27 -9
+116 -19 3152
+486 3153 3154
+85 -9 -19
+341 3155 3156
+55 -19 -9
+169 -19 3157
+551 -19 -9
+554 3159 3161
+26 -19 3160
+32 -33 -9
+76 3162 3177
+370 -19 -19
+141 -9 3164
+26 -19 -27
+524 3166 3168
+112 -19 3167
+26 -9 -27
+391 3169 3171
+6 -27 3170
+42 -19 -27
+547 3172 3176
+111 -19 3173
+375 -19 3174
+449 -27 3175
+28 -27 -19
+880 -27 -19
+637 3178 3181
+634 3179 3180
+4 -3 -19
+532 -19 -9
+547 3182 3187
+207 -19 3183
+336 -27 3184
+535 -27 3185
+132 3186 -9
+115 -9 -9
+509 3188 3190
+175 3189 -9
+16 -27 -3
+284 -9 3191
+105 3192 3193
+69 -9 -27
+830 3194 3201
+15 -19 3195
+184 -27 3196
+97 -19 3197
+118 -19 3198
+135 3199 -27
+16 -27 3200
+99 -27 -19
+5 -27 3202
+35 -3 -19
+830 3204 3225
+815 3205 3210
+144 3206 3208
+59 3207 -27
+26 -9 -19
+16 -19 3209
+156 -27 -19
+829 3211 3214
+31 -91 3212
+520 -14 3213
+93 -3 -9
+435 -14 3215
+152 3216 3219
+175 3217 3218
+32 -14 -19
+87 -14 -9
+333 3220 3221
+15 -9 -27
+430 3222 3223
+45 -19 -9
+532 3224 -14
+31 -27 -14
+938 3226 3241
+804 3227 3228
+48 -9 -14
+519 3229 3230
+45 -9 -3
+98 3231 3232
+15 -27 -14
+514 3233 3234
+16 -27 -14
+1007 -27 3235
+428 3236 3238
+16 3237 -19
+15 -19 -27
+62 -27 3239
+568 -27 3240
+668 -27 -19
+32 3242 3381
+284 3243 3255
+685 3244 3246
+42 -14 3245
+45 -19 -27
+489 3247 3249
+16 3248 -19
+45 -14 -3
+762 3250 3251
+55 -19 -9
+379 3252 3254
+49 -19 3253
+15 -9 -14
+425 -19 -9
+896 3256 3259
+80 -14 3257
+153 -14 -14
+326 -14 -19
+535 3260 3263
+27 3261 3262
+15 -19 -27
+489 -14 -9
+536 3264 3275
+338 3265 3268
+428 3266 -14
+6 3267 -9
+87 -9 -14
+149 3269 3270
+48 -3 -3
+685 -9 -9
+115 3272 3274
+5 -3 3273
+16 -19 -9
+60 -3 -9
+708 3276 3282
+121 -14 3277
+55 3278 3279
+15 -19 -27
+17 3280 3281
+196 -27 -19
+61 -9 -27
+615 3283 3291
+685 -19 3284
+28 3285 3286
+16 -27 -91
+69 3287 3289
+55 -91 3288
+6 -14 -2
+54 -9 3290
+72 -9 -14
+804 3292 3298
+564 3293 3295
+221 -27 -27
+69 -19 -27
+27 -19 3296
+80 -14 3297
+5 -3 -19
+147 3299 3304
+564 3300 3301
+637 -14 -3
+141 3302 3303
+6 -9 -3
+4 -9 -14
+29 3305 3310
+442 -3 3306
+72 -9 3307
+157 3308 -14
+15 -3 3309
+92 -3 -14
+432 3311 3324
+685 3312 3314
+142 -27 3313
+103 -27 -19
+50 3315 3316
+45 -19 -3
+152 3317 3319
+15 -19 3318
+42 -14 -27
+487 3320 3321
+35 -9 -19
+93 -3 3322
+158 3323 -9
+89 -9 -14
+604 3325 3333
+175 -9 3326
+225 -9 -9
+6 3328 3329
+472 -14 -3
+111 -14 3330
+98 -14 -9
+782 -19 3332
+15 -19 -9
+684 3334 3335
+332 -19 -9
+782 3336 3338
+152 -14 3337
+149 -3 -9
+339 3339 3343
+363 -3 3340
+519 -14 3341
+116 -14 3342
+4 -19 -9
+327 -3 3344
+907 3345 3347
+917 3346 -14
+6 -27 -3
+564 3348 3358
+175 3349 3351
+85 3350 -19
+96 -19 -27
+71 -14 3352
+153 3353 3354
+6 -14 -3
+135 3355 3356
+26 -19 -9
+255 -9 3357
+15 -9 -19
+1082 -19 3359
+692 3360 3362
+17 3361 -9
+25 -27 -19
+488 -9 3363
+547 3364 3367
+135 -9 -9
+4 -19 3366
+15 -14 -27
+226 3368 3369
+31 -19 -19
+648 3370 3372
+43 -19 3371
+16 -9 -27
+433 -19 3373
+374 3374 3376
+135 -27 3375
+27 -19 -14
+285 3377 3378
+15 -14 -19
+110 -19 3379
+352 -19 3380
+603 -19 -14
+834 3382 3388
+563 3383 3384
+34 -19 -9
+589 3385 3386
+107 -27 -9
+225 3387 -14
+646 -14 -14
+534 3389 3412
+591 3390 3392
+53 -9 -9
+225 -19 -9
+536 3393 3396
+31 3394 -9
+6 -27 3395
+15 -9 -19
+489 3397 3399
+143 -9 3398
+16 -14 -28
+685 3400 3401
+403 -27 -9
+318 3402 3403
+341 -27 -9
+121 -9 3404
+71 3405 3406
+5 -27 -9
+156 3407 3410
+434 -14 3408
+520 3409 -19
+26 -19 -14
+285 -9 3411
+29 -9 -19
+489 3413 3437
+72 3414 3417
+553 3415 -19
+4 -27 3416
+95 -27 -19
+1019 3418 3419
+48 -19 -27
+590 3420 3424
+285 3421 -14
+49 -19 3422
+144 -27 3423
+93 -27 -19
+388 3425 3429
+68 -9 3426
+45 3427 3428
+76 -14 -19
+97 -14 -27
+636 -14 -14
+78 -19 -9
+402 3432 3433
+76 -14 -9
+282 -9 3434
+191 -19 3435
+403 -19 3436
+433 -19 -14
+520 3438 3480
+909 3439 3444
+224 3440 3442
+26 -3 3441
+85 -14 -19
+542 3443 -19
+143 -19 -27
+285 3445 3451
+434 3446 3447
+102 -27 -19
+888 3448 -14
+31 3449 -9
+4 -14 3450
+161 -27 -19
+535 3452 3453
+31 -9 -14
+1192 3454 3456
+358 -27 3455
+402 -27 -19
+1030 3457 3460
+266 -19 -19
+79 -27 -19
+15 -27 -19
+563 3461 3468
+283 3462 3464
+684 -19 3463
+15 -3 -14
+442 3465 3466
+17 -9 -19
+225 3467 -27
+5 -27 -19
+311 3469 3470
+45 -19 -27
+888 -9 3471
+202 3472 3473
+68 -27 -19
+591 3474 3475
+6 -27 -19
+693 -9 3476
+364 -14 -14
+5 -14 3478
+92 -14 3479
+26 -14 -9
+228 3481 3496
+206 3482 3487
+815 3483 3486
+53 -19 3484
+971 3485 -14
+49 -19 -14
+5 -9 -19
+391 3488 3489
+28 -9 -14
+195 -27 3490
+237 3491 3493
+6 -27 3492
+50 -19 -9
+122 -9 3494
+824 3495 -19
+345 -27 -19
+31 3497 3510
+488 3498 3499
+170 -9 -14
+118 3500 3502
+815 3501 -14
+49 -9 -28
+1067 3503 3505
+16 3504 -19
+42 -36 -27
+535 -19 3506
+165 3507 3509
+4 -9 3508
+5 -27 -14
+59 -14 -9
+285 3511 3533
+685 3512 3517
+804 3513 3516
+115 3514 3515
+15 -19 -27
+461 -27 -9
+77 -9 -19
+592 3518 3523
+1019 -9 3519
+158 -19 -19
+87 -9 3521
+77 -2 3522
+99 -19 -27
+207 3524 3525
+16 -9 -19
+488 -27 3526
+121 3527 3529
+6 -19 3528
+16 -27 -9
+98 3530 3531
+15 -3 -19
+338 -27 3532
+815 -27 -14
+403 3534 3542
+391 3535 3540
+313 3536 3537
+26 -19 -9
+139 -14 -14
+462 3539 -14
+363 -14 -19
+536 -9 3541
+49 -19 -27
+1092 3543 3544
+432 -14 -9
+907 3545 3550
+883 -9 -9
+5 -14 3547
+41 -27 -19
+152 -19 3549
+340 -19 -9
+435 3551 3556
+592 3552 3553
+633 -14 -9
+311 -19 3554
+391 -9 3555
+107 -9 -27
+1021 3557 3567
+158 3558 3562
+603 -19 3559
+770 -19 3560
+295 3561 -9
+5 -19 -9
+221 -27 3563
+71 3564 3565
+6 -19 -27
+349 -27 3566
+68 -27 -9
+206 3568 3575
+414 -14 3569
+909 3570 3573
+112 -19 3571
+15 -9 3572
+45 -27 -19
+1070 -27 3574
+130 -9 -19
+909 -9 3576
+118 3577 3584
+90 -19 3578
+1263 -14 3579
+770 3580 3581
+5 -3 -27
+179 3582 -9
+17 3583 -3
+15 -3 -9
+1072 3585 3586
+30 -19 -9
+546 3587 3588
+184 -9 -9
+391 3589 3599
+878 -9 3590
+137 3591 3593
+76 3592 -9
+16 -14 -19
+788 3594 3595
+196 -9 -27
+69 -9 3596
+332 -27 3597
+241 -27 3598
+61 -14 -19
+726 -19 -19
+332 3601 3602
+16 -19 -36
+97 -9 3603
+143 -3 -27
+563 3605 3607
+645 3606 -9
+16 -19 -27
+254 3608 3610
+85 3609 -19
+5 -3 -27
+424 3611 3612
+207 -19 -27
+599 -9 3613
+229 -19 3614
+432 -19 3615
+387 -19 3616
+76 -19 3617
+97 -19 3618
+585 -19 3619
+100 -19 -9
+117 3621 3634
+230 -28 -28
+192 -28 -125
+592 -19 3624
+1104 -3 3625
+446 -9 3626
+26 -5 3627
+179 3628 3629
+16 -28 -9
+57 -9 3630
+659 -9 3631
+357 3632 -28
+105 3633 -28
+214 -28 -9
+214 3635 3698
+488 3636 3637
+1 -19 -119
+73 3638 3643
+68 -5 -5
+187 3640 3641
+35 -9 -14
+100 -9 3642
+149 -95 -5
+353 3644 3645
+43 -9 -95
+435 3646 3658
+490 -5 3647
+547 3648 3649
+26 -5 -95
+336 -95 3650
+447 3651 3652
+155 -95 -5
+432 -95 3653
+29 -95 3654
+201 3655 3657
+285 -5 3656
+71 -5 -95
+150 -9 -5
+685 3659 3664
+230 3660 3662
+185 -5 -5
+1 -56 -147
+124 3663 -95
+1 -95 -5
+829 3665 3666
+49 -5 -9
+504 3667 3670
+32 -95 3668
+35 -9 3669
+4 -28 -136
+447 3671 3675
+364 -95 3672
+31 -28 3673
+17 -5 3674
+433 -95 -5
+250 -95 3676
+31 3677 3679
+484 -95 3678
+486 -9 -5
+433 3680 3681
+26 -9 -95
+1192 3682 3683
+100 -5 -95
+434 3684 3685
+32 -9 -5
+637 3686 3689
+32 3687 3688
+29 -9 -95
+35 -119 -5
+436 3690 3691
+4 -95 -5
+755 3692 3693
+211 -5 -95
+338 -95 3694
+228 3695 3697
+43 -95 3696
+38 -95 -5
+788 -95 -5
+33 3699 3815
+488 3700 3704
+490 -27 3701
+563 -19 3702
+85 -19 3703
+31 -9 -119
+1010 3705 3711
+401 -28 3706
+447 -28 3707
+318 -14 3708
+1178 -9 3709
+151 -9 3710
+86 -3 -19
+230 3712 3732
+35 3713 3718
+118 -119 3714
+73 -65 3715
+285 -56 3716
+25 -5 3717
+39 -120 -69
+329 3719 3720
+69 -65 -119
+229 3721 3725
+738 3722 3724
+42 3723 -19
+50 -27 -19
+26 -19 -5
+190 3726 3727
+37 -3 -19
+801 3728 3729
+28 -27 -5
+554 -5 3730
+42 -3 3731
+29 -3 -9
+31 3733 3746
+404 -2 3734
+563 3735 3736
+93 -14 -27
+335 3737 3738
+150 -9 -27
+118 3739 3740
+30 -28 -14
+285 3741 3742
+42 -9 -19
+132 -19 3743
+93 3744 -5
+26 -19 3745
+28 -9 -5
+404 -9 -9
+118 -5 -9
+921 -3 3749
+155 3750 3758
+149 -19 3751
+637 -5 3752
+257 3753 3754
+26 -27 -5
+163 -5 3755
+25 -27 3756
+30 -14 3757
+37 -5 -9
+407 3759 3762
+43 3760 3761
+27 -14 -4
+158 -19 -27
+32 3763 3777
+152 3764 3767
+34 3765 -19
+182 3766 -14
+68 -14 -27
+486 -19 3768
+76 3769 3771
+71 -9 3770
+72 -9 -14
+85 3772 3773
+43 -19 -9
+121 -14 3774
+435 -14 3775
+896 3776 -9
+604 -9 -14
+536 3778 3784
+27 -14 3779
+25 3780 3781
+43 -28 -14
+878 3782 3783
+34 -19 -14
+338 -142 -9
+816 -5 3785
+84 3786 3787
+206 -19 -27
+563 3788 3789
+88 -39 -9
+504 3790 3792
+68 -19 3791
+534 -14 -9
+46 3793 3794
+132 -5 -9
+206 3795 3796
+225 -19 -14
+447 -9 3797
+829 3798 3799
+228 -19 -9
+782 -9 3800
+867 -9 3801
+339 3802 3806
+490 -9 3803
+534 -9 3804
+49 3805 -19
+34 -14 -19
+487 -14 3807
+558 -9 3808
+50 3809 3813
+25 -27 3810
+43 -9 3811
+69 -9 3812
+72 -9 -19
+26 -27 3814
+86 -27 -19
+230 3816 3836
+229 3817 3818
+118 -119 -5
+285 3819 3822
+31 -5 3820
+42 3821 -147
+28 -147 -56
+80 3823 3829
+388 3824 3827
+6 -119 3825
+16 -28 3826
+90 -28 -9
+182 3828 -5
+26 -3 -119
+306 3830 3832
+29 -5 3831
+1 -14 -19
+92 3833 3835
+29 -5 3834
+69 -65 -119
+204 -69 -119
+231 3837 -28
+883 3838 3840
+31 -28 3839
+6 -4 -19
+401 3841 3842
+121 -136 -28
+490 3843 3848
+488 3844 3845
+57 -19 -27
+73 3846 -9
+15 -19 3847
+1 -27 -5
+403 3849 3856
+789 3850 3851
+25 -28 -91
+423 3852 3853
+1 -14 -19
+79 3854 3855
+32 -95 -9
+5 -39 -95
+118 3857 3865
+150 -5 3858
+30 -28 3859
+432 3860 3862
+16 3861 -27
+1 -19 -28
+125 -28 3863
+135 3864 -5
+26 -5 -95
+29 3866 3867
+367 -14 -5
+32 3868 3878
+17 3869 3876
+15 -9 -9
+128 -14 3871
+28 -27 3872
+1 -33 -95
+6 3874 3875
+58 -9 -5
+99 -9 -14
+27 -9 3877
+28 -19 -95
+615 3879 3880
+152 -3 -5
+816 -5 3881
+155 3882 3886
+829 -5 -5
+745 -14 -9
+26 -9 3885
+47 -4 -5
+1244 3887 3888
+16 -3 -95
+536 3889 3893
+661 3890 3891
+70 -9 -5
+27 -14 3892
+65 -5 -9
+435 3894 3895
+28 -95 -5
+6 3896 3904
+218 -5 3897
+921 -19 -19
+459 -9 3899
+423 3900 3901
+26 -9 -14
+683 3902 3903
+16 -19 -9
+69 -9 -19
+26 3905 3907
+725 -14 3906
+15 -5 -27
+531 3908 3909
+43 -3 -27
+31 3910 3911
+15 -14 -95
+77 -95 3912
+79 3913 -19
+240 -19 3914
+25 -19 -9
+431 3916 6455
+32 3917 4859
+31 3918 3980
+563 3919 3932
+57 3920 3924
+363 -25 3921
+17 -16 3922
+163 3923 -25
+40 -25 -16
+338 3925 3930
+95 3926 3927
+367 -25 -16
+366 3928 -25
+43 -25 -25
+37 -25 -16
+535 -47 3931
+5 -3 -11
+603 3933 3936
+221 -25 3934
+93 -30 3935
+757 -13 -16
+966 3937 3944
+57 3938 3939
+363 -25 -16
+441 3940 3943
+565 -16 3941
+110 -16 3942
+85 -16 -25
+44 -25 -16
+534 3945 3949
+434 3946 3947
+213 -16 -25
+388 3948 -30
+4 -25 -16
+604 3950 3953
+17 3951 -25
+5 3952 -16
+218 -16 -25
+909 3954 3956
+135 -25 3955
+35 -16 -25
+829 3957 3961
+620 3958 3959
+46 -13 -16
+45 3960 -11
+1 -25 -25
+753 3962 3964
+129 3963 -25
+6 -16 -30
+938 3965 3966
+6 -25 -16
+284 3967 3969
+28 3968 -30
+35 -25 -16
+1067 -25 3970
+204 3971 3973
+17 -16 3972
+4 -30 -25
+68 3974 3975
+283 -25 -30
+150 3976 -30
+227 -25 3977
+1082 3978 -30
+135 -30 3979
+4 -30 -13
+412 3981 4133
+363 3982 4022
+685 3983 3997
+390 3984 3989
+284 3985 3986
+36 -70 -25
+804 3987 -76
+486 3988 -76
+87 -25 -25
+547 3990 3992
+183 3991 -70
+27 -70 -25
+1072 -25 -25
+438 3994 3995
+5 -70 -25
+392 3996 -25
+5 -70 -25
+564 -25 -25
+72 3999 4009
+730 4000 4001
+25 -70 -23
+57 4002 -11
+446 -25 4003
+116 -25 4004
+525 -25 4005
+26 -25 4006
+88 -25 4007
+565 4008 -23
+5 -25 -23
+631 4010 4011
+339 -25 -70
+153 4012 4013
+49 -70 -25
+554 4014 -25
+50 -70 -25
+311 -70 4016
+308 4017 4020
+142 -25 4018
+5 -16 4019
+27 -11 -96
+84 4021 -25
+5 -70 -25
+685 4023 4059
+390 4024 4031
+486 4025 4026
+447 -76 -16
+284 -16 4027
+649 -76 -76
+227 -16 4029
+1070 4030 -76
+27 -76 -16
+57 4032 4051
+547 -16 -16
+17 4034 -70
+29 -16 4035
+371 -16 4036
+367 4037 -107
+26 -107 -16
+85 4039 4040
+93 -107 -11
+419 4041 4043
+5 4042 -16
+35 -70 -25
+330 4044 4045
+208 -16 -107
+88 -107 4046
+193 4047 4048
+129 -107 -16
+486 4049 4050
+151 -107 -16
+162 -107 -16
+29 -96 4052
+113 4053 -16
+132 -11 4054
+30 4055 4057
+17 -13 4056
+5 -70 -11
+414 4058 -25
+27 -25 -70
+57 4060 4107
+564 4061 4097
+72 4062 4088
+730 4063 4064
+25 -107 -23
+416 4065 4069
+87 -23 -23
+5 -16 -13
+6 4068 -16
+126 -11 -23
+17 4070 4086
+335 4071 4072
+92 -107 -23
+381 4073 4074
+25 -16 -23
+620 -23 4075
+546 4076 4077
+35 -23 -16
+781 4078 4079
+37 -16 -23
+137 4080 4083
+336 -16 4081
+49 -23 4082
+26 -23 -16
+68 -23 4084
+215 -23 4085
+316 -23 -16
+110 4087 -25
+5 -16 -23
+878 -16 -16
+364 -16 4090
+284 -16 4091
+225 -16 4092
+754 -16 4093
+509 -16 4094
+374 -16 4095
+423 4096 -107
+96 -107 -16
+396 -25 4098
+605 4099 4103
+583 -107 4100
+284 4101 4102
+35 -107 -16
+71 -107 -16
+61 4104 4105
+5 -25 -16
+30 4106 -16
+35 -16 -11
+113 4108 4129
+564 4109 4116
+417 -47 4110
+255 4111 4112
+17 -25 -13
+475 4113 4114
+5 -11 -25
+72 4115 -25
+71 -11 -23
+30 4117 4119
+54 -13 4118
+161 -13 -11
+668 -96 4120
+537 4121 4122
+43 -11 -47
+426 4123 4125
+17 -16 -16
+367 -25 -16
+171 -25 -25
+152 4127 4128
+107 -16 -25
+315 -47 -25
+79 4130 4132
+4 -16 4131
+17 -3 -25
+578 -107 -16
+564 4134 4423
+72 4135 4367
+604 4136 4356
+708 4137 4170
+43 4138 4143
+35 4139 4142
+92 4140 4141
+17 -23 -25
+115 -23 -25
+54 -25 -11
+57 4144 4147
+399 -11 -11
+49 -11 -23
+40 -11 -13
+971 4148 4150
+103 4149 -13
+63 -25 -23
+219 4151 4152
+27 -11 -23
+447 4153 4157
+103 -13 4154
+239 4155 -25
+680 4156 -11
+6 -13 -25
+441 4158 4161
+49 4159 -11
+6 4160 -13
+38 -13 -11
+319 -11 4162
+200 -11 4163
+419 4164 4165
+35 -16 -11
+44 4166 -16
+172 -11 4167
+223 4168 -25
+163 -25 4169
+102 -25 -11
+149 4171 4185
+519 4172 4176
+322 4173 4175
+1 -11 4174
+35 -25 -16
+892 -16 -13
+333 -23 -23
+112 -13 -11
+87 4179 4180
+4 -13 -11
+186 -13 4181
+27 -23 4182
+85 -23 4183
+322 -23 4184
+96 -23 -25
+446 4186 4206
+69 -23 4187
+223 4188 4191
+142 -23 4189
+493 4190 -25
+28 -11 -16
+182 4192 4193
+95 -23 -25
+395 4194 4195
+61 -11 -25
+497 -25 4196
+419 -13 4197
+97 4198 4199
+35 -11 -25
+141 4200 4201
+6 -13 -25
+57 -11 4202
+42 -11 4203
+92 -11 4204
+35 -13 4205
+49 -11 -13
+364 4207 4218
+42 4208 4209
+6 -13 -25
+172 4210 4211
+37 -13 -23
+211 -13 4212
+71 4213 4216
+79 4214 4215
+55 -25 -13
+123 -25 -11
+57 4217 -11
+537 -11 -13
+70 4219 4232
+661 -13 -13
+128 4221 4223
+43 -25 4222
+6 -11 -16
+429 4224 4225
+176 -13 -11
+87 -11 4226
+36 -25 4227
+47 -11 -13
+1219 4229 4230
+85 -16 -25
+546 -13 4231
+38 -13 -23
+754 -23 -23
+755 -23 4234
+43 4235 4236
+116 -13 -25
+25 4237 4238
+42 -16 -13
+49 4239 -13
+15 4240 -11
+4 -11 -13
+226 4242 4247
+661 4243 4245
+37 -13 4244
+143 -16 -11
+4 -11 4246
+28 -13 -23
+546 4248 4250
+403 4249 -23
+46 -11 -16
+603 4251 4255
+259 4252 -23
+17 4253 4254
+6 -13 -25
+77 -11 -23
+667 4256 4260
+16 -23 4257
+513 4258 4259
+17 -23 -25
+347 -11 -25
+784 4261 4269
+142 4262 4263
+127 -23 -13
+704 -23 4264
+447 -25 4265
+17 4266 -23
+387 -23 4267
+144 -25 4268
+69 -25 -23
+683 4270 4279
+27 4271 4273
+49 -13 4272
+99 -13 -11
+175 4274 4275
+4 -16 -11
+367 -25 4276
+717 -25 4277
+150 -13 4278
+329 -13 -23
+116 4280 4286
+297 4281 4283
+97 -13 4282
+132 -13 -11
+1 -23 4284
+165 -25 4285
+76 -25 -13
+690 4287 4290
+237 -11 4288
+406 -16 4289
+183 -16 -23
+35 4291 4320
+413 4292 4295
+26 -13 4293
+429 -11 4294
+454 -11 -23
+420 -13 4296
+768 4297 4298
+16 -25 -13
+148 4299 4302
+78 -16 4300
+4 -13 4301
+46 -23 -13
+477 4303 4306
+6 4304 4305
+5 -13 -25
+16 -23 -16
+539 4307 4309
+125 -13 4308
+17 -23 -13
+753 4310 4311
+103 -23 -13
+802 4312 4314
+16 4313 -23
+28 -23 -13
+1313 -13 4315
+602 4316 4317
+194 -25 -23
+350 4318 4319
+5 -23 -25
+476 -25 -23
+87 4321 4326
+268 4322 4323
+99 -11 -13
+618 -13 4324
+25 -11 4325
+410 -11 -23
+965 -25 4327
+315 -13 4328
+49 4329 4342
+165 4330 4332
+17 -13 4331
+5 -11 -25
+608 4333 4334
+130 -11 -13
+273 -13 4335
+362 4336 4338
+28 4337 -11
+34 -13 -23
+585 -13 4339
+124 -11 4340
+218 -11 4341
+384 -11 -23
+766 4343 4344
+16 -13 -23
+137 4345 4348
+65 -23 4346
+71 -23 4347
+89 -23 -11
+736 4349 4350
+16 -11 -25
+313 4351 4353
+16 -23 4352
+28 -23 -11
+99 -25 4354
+148 -25 4355
+580 -25 -23
+69 4357 4358
+149 -25 -70
+383 -16 4359
+440 -25 -25
+462 4361 4362
+26 -70 -16
+175 4363 4364
+47 -25 -70
+442 4365 -25
+708 -25 4366
+46 -25 -70
+26 4368 4377
+908 4369 4370
+4 -11 -47
+129 4371 4373
+128 -16 4372
+57 -16 -25
+71 -107 4374
+538 -16 4375
+793 4376 -25
+17 -16 -25
+486 4378 4384
+28 4379 4382
+309 4380 4381
+6 -13 -11
+1 -13 -16
+604 4383 -70
+35 -107 -25
+432 4385 4390
+615 -47 4386
+426 -70 -70
+92 -107 4388
+6 -47 -16
+336 -25 -70
+116 -47 4391
+95 4392 4395
+49 -16 -16
+6 4394 -25
+17 -70 -107
+550 4396 4397
+59 -25 -70
+627 -70 4398
+932 -70 4399
+184 -25 4400
+689 -25 -25
+404 4402 -70
+49 -25 -70
+274 4404 4405
+71 -16 -70
+448 4406 4407
+46 -16 -70
+237 4408 4410
+649 4409 -70
+5 -25 -70
+124 -70 4411
+518 4412 4413
+1 -16 -70
+445 4414 4416
+103 -16 4415
+107 -70 -25
+29 -70 4417
+83 -70 4418
+200 4419 4421
+132 4420 -25
+25 -25 -70
+312 4422 -25
+16 -70 -25
+30 4424 4485
+387 4425 4448
+35 4426 4438
+43 4427 4430
+505 -13 4428
+307 -11 4429
+39 -13 -25
+354 -11 4431
+480 -11 4432
+522 -11 4433
+752 -11 4434
+275 4435 4436
+46 -11 -13
+41 -11 4437
+264 -11 -13
+317 -11 -11
+333 -11 4440
+137 -13 -25
+144 4442 4444
+315 -13 4443
+5 -13 -11
+345 4445 -11
+259 4446 -11
+5 -11 4447
+46 -11 -13
+336 4449 4455
+35 4450 4453
+211 -11 4451
+46 -13 4452
+324 -13 -25
+1 -13 4454
+96 -13 -11
+707 -25 4456
+35 4457 4471
+95 4458 4460
+518 4459 -16
+88 -70 -107
+383 4461 4464
+128 4462 4463
+46 -107 -13
+57 -16 -25
+556 4465 4466
+16 -13 -25
+589 -70 4467
+163 -70 4468
+208 -70 4469
+135 4470 -25
+27 -70 -25
+76 4472 4475
+237 4473 -70
+16 -25 4474
+42 -11 -70
+441 -11 -11
+140 4477 4478
+6 -13 -70
+161 -47 -25
+215 4480 4481
+637 -11 -25
+306 -11 4482
+604 4483 4484
+6 -11 -16
+57 -11 -70
+685 4486 4625
+390 4487 4513
+283 4488 4500
+486 4489 4499
+1134 -25 4490
+329 4491 4495
+57 4492 4493
+6 -13 -25
+522 4494 -16
+5 -16 -13
+825 4496 4498
+176 -16 4497
+1 -16 -11
+493 -11 -16
+112 -25 -76
+284 4501 4505
+637 4502 -70
+95 -25 4503
+622 -25 4504
+308 -25 -16
+225 -25 4506
+227 4507 4508
+26 -25 -70
+649 4509 4510
+15 -107 -70
+434 -70 4511
+811 -70 4512
+243 -25 -76
+403 4514 4545
+339 4515 4524
+35 4516 4523
+309 -11 -11
+272 -25 -11
+636 4519 4520
+131 -13 -11
+59 4521 4522
+42 -13 -11
+43 -25 -13
+274 -13 -11
+29 -96 4525
+602 -16 4526
+76 4527 4529
+55 4528 -11
+72 -25 -70
+428 4530 4533
+53 4531 4532
+6 -107 -11
+61 -25 -16
+285 4534 4536
+103 -25 4535
+64 -25 -13
+228 4537 4538
+16 -70 -85
+547 4539 4540
+36 -25 -70
+107 4541 4544
+43 4542 4543
+1 -70 -25
+46 -25 -16
+167 -16 -25
+547 4546 4568
+152 4547 4564
+214 4548 4549
+1 -16 -107
+95 4550 4553
+48 -70 -70
+128 -107 4552
+50 -70 -107
+151 4554 4556
+204 -25 4555
+128 -70 -70
+205 -25 4557
+332 4558 4559
+128 -25 -70
+28 4560 4561
+6 -25 -70
+59 4562 4563
+199 -25 -70
+1268 -25 -70
+149 -47 4565
+571 4566 4567
+26 -16 -70
+770 -70 -25
+285 4569 4574
+26 4570 4571
+128 -25 -25
+97 -25 4572
+1003 4573 -13
+800 -13 -11
+228 4575 4586
+305 -25 4576
+446 4577 4580
+137 4578 -107
+15 -16 4579
+16 -107 -70
+80 4581 4582
+95 -107 -70
+1177 -70 4583
+441 4584 4585
+6 -107 -25
+142 -70 -25
+563 4587 4589
+64 -47 4588
+6 -11 -47
+648 -70 4590
+413 4591 4592
+57 -11 -25
+1082 -25 -25
+35 -16 -70
+689 -70 4595
+1059 4596 4597
+16 -25 -70
+776 4598 4600
+6 -107 4599
+16 -29 -25
+589 4601 4604
+72 4602 -16
+211 4603 -25
+28 -70 -16
+434 4605 4606
+15 -16 -47
+153 -16 4607
+428 4608 4612
+35 4609 4611
+65 4610 -70
+6 -16 -25
+156 -16 -25
+152 4613 4623
+471 -16 4614
+798 -70 4615
+12 -70 4616
+318 4617 4619
+17 -25 4618
+4 -25 -70
+257 4620 4621
+17 -25 -70
+237 4622 -25
+16 -70 -25
+1 4624 -25
+17 -16 -25
+152 4626 4669
+782 4627 4629
+69 -96 4628
+17 -11 -25
+615 4630 4635
+1099 -16 -16
+35 -16 -25
+42 4633 4634
+6 -25 -16
+156 -25 -16
+387 4636 4642
+199 4637 4638
+16 -13 -25
+429 4639 4640
+80 -13 -25
+213 -11 4641
+257 -11 -13
+896 4643 4648
+57 4644 -16
+6 4645 4647
+5 4646 -11
+125 -11 -13
+102 -11 -16
+605 4649 4657
+35 4650 4654
+129 4651 4652
+59 -107 -16
+71 -13 4653
+126 -16 -25
+55 4655 -70
+64 -70 4656
+80 -25 -70
+43 -25 4658
+112 -25 4659
+329 4660 4661
+58 -16 -25
+683 -16 4662
+95 -25 -25
+87 -25 -16
+246 -16 4665
+228 4666 4667
+272 -16 -25
+28 4668 -16
+16 -25 -16
+43 4670 4703
+563 4671 4674
+118 -11 4672
+406 -47 4673
+35 -25 -48
+364 4675 4680
+35 4676 -11
+626 4677 4678
+6 -47 -16
+105 4679 -25
+5 -16 -25
+605 4681 4685
+334 -70 4682
+624 4683 4684
+29 -25 -70
+196 -70 -25
+394 -25 -25
+273 -25 4687
+42 4688 -16
+121 -16 -25
+307 4690 4693
+107 4691 -25
+72 -25 4692
+17 -16 -11
+57 4694 4696
+17 -16 4695
+47 -70 -25
+416 -47 4697
+426 4698 4700
+637 4699 -25
+273 -47 -25
+326 4701 -25
+215 4702 -25
+1 -13 -25
+128 4704 4726
+35 4705 4715
+426 4706 4707
+319 -47 -16
+129 4708 4709
+218 -25 -16
+383 4710 4712
+59 -47 4711
+107 -25 -16
+226 4713 4714
+6 -47 -16
+165 -16 -25
+378 -16 4716
+364 -11 4717
+137 4718 4721
+115 -11 4719
+69 -47 4720
+16 -25 -16
+336 4722 4723
+17 -16 -70
+333 4724 -25
+50 4725 -25
+16 -11 -47
+782 4727 4748
+95 4728 4731
+200 -16 4729
+427 -25 -25
+112 -25 -16
+57 4732 4733
+65 -25 -16
+214 -16 4734
+246 4735 4737
+297 -25 4736
+47 -25 -16
+689 4738 4741
+272 -16 4739
+90 -47 4740
+176 -47 -25
+450 4742 4746
+359 -25 -25
+621 4744 -25
+225 -25 4745
+49 -16 -25
+804 4747 -25
+46 -47 -25
+285 4749 4756
+804 4750 4751
+35 -25 -25
+362 4752 4753
+5 -11 -16
+441 4754 4755
+1 -47 -25
+204 -11 -47
+489 4757 4787
+44 4758 -16
+247 4759 4761
+58 -25 4760
+61 -25 -16
+327 4762 4764
+144 -25 4763
+47 -25 -16
+95 4765 4768
+367 -25 4766
+78 -25 4767
+27 -25 -16
+115 4769 4774
+273 -25 4770
+35 4771 4773
+69 -25 4772
+170 -25 -16
+28 -16 -25
+668 -25 -25
+17 -16 -25
+251 -16 4777
+90 4778 4779
+284 -16 -25
+1017 -16 4780
+712 4781 4782
+4 -25 -16
+1074 4783 4784
+135 -25 -16
+77 4785 -25
+15 -16 4786
+46 -16 -25
+605 4788 4803
+227 4789 4791
+35 -25 4790
+102 -70 -47
+26 4792 4794
+140 4793 -70
+6 -25 -16
+404 4795 4797
+528 4796 -70
+16 -25 -16
+190 -70 4798
+200 4799 4800
+112 -70 -25
+371 4801 4802
+15 -16 -25
+105 -16 -25
+562 4804 4807
+225 4805 4806
+221 -11 -11
+37 -16 -25
+563 4808 4812
+118 -11 4809
+69 -11 4810
+71 -47 4811
+6 -47 -25
+648 -25 -25
+16 4814 -11
+6 -25 -13
+76 4816 4824
+804 -47 4817
+604 4818 4819
+5 -13 -16
+143 4820 4823
+158 4821 -25
+17 4822 -25
+26 -25 -11
+6 -11 -47
+246 4825 4827
+35 -16 4826
+5 -25 -13
+71 4828 4837
+284 4829 4832
+103 4830 4831
+17 -25 -16
+176 -13 -11
+347 -16 4833
+44 4834 -16
+92 4835 4836
+48 -25 -16
+62 -16 -25
+387 4838 4840
+49 -13 4839
+27 -16 -25
+429 4841 4844
+115 4842 4843
+6 -11 -3
+129 -47 -25
+772 -16 4845
+450 4846 4850
+256 -16 4847
+41 -16 4848
+92 -16 4849
+525 -16 -25
+57 4851 4852
+65 -25 -16
+719 -16 4853
+389 4854 4856
+182 -25 4855
+37 -25 -16
+636 4857 -25
+534 -16 4858
+110 -16 -25
+391 4860 5511
+504 4861 4924
+488 4862 4884
+595 -13 4863
+1071 -13 4864
+570 4865 4866
+55 -13 -47
+436 -13 4867
+65 4868 4869
+37 -11 -13
+620 -13 4870
+645 4871 4877
+42 -13 4872
+59 -11 4873
+917 -13 4874
+49 -11 4875
+35 -13 4876
+46 -11 -11
+102 -13 4878
+525 -11 -11
+42 -11 -13
+664 4881 4882
+6 -13 -11
+411 -13 4883
+773 -13 -11
+339 4885 4892
+637 4886 4888
+144 4887 -13
+137 -13 -11
+447 4889 4890
+39 -13 -11
+111 -48 4891
+403 -11 -47
+285 4893 4894
+668 -47 -62
+232 4895 4899
+50 4896 4898
+5 -11 4897
+6 -62 -13
+89 -48 -11
+1067 4900 4904
+575 -11 4901
+5 -48 4902
+135 4903 -47
+64 -47 -48
+990 4905 4908
+789 4906 4907
+4 -48 -47
+88 -48 -11
+390 4909 4910
+95 -13 -11
+938 -11 4911
+1340 4912 4913
+45 -140 -11
+1031 4914 4917
+6 4915 4916
+5 -3 -140
+39 -62 -13
+30 -11 4918
+70 -11 4919
+705 4920 4921
+112 -11 -62
+497 4922 -62
+43 -140 4923
+90 -48 -62
+76 4925 5164
+31 4926 4981
+285 4927 4963
+535 4928 4929
+27 -11 -48
+200 4930 4931
+55 -48 -47
+609 -11 4932
+620 -47 4933
+869 -48 4934
+486 -48 4935
+197 -47 4936
+363 -47 4937
+833 -47 4938
+429 4939 4943
+409 -47 -47
+318 4941 4942
+414 -47 -48
+95 -48 -47
+662 -47 4944
+621 -47 4945
+743 -48 4946
+791 -48 -48
+423 4948 4949
+171 -48 -47
+55 4950 -48
+262 -47 4951
+123 -47 4952
+669 4953 4957
+93 -48 4954
+297 -48 4955
+803 -48 4956
+309 -48 -47
+645 4958 4961
+77 -48 4959
+26 -48 4960
+80 -47 -47
+88 -47 4962
+1228 -47 -48
+938 4964 4970
+430 -47 -47
+140 -48 -47
+135 4967 4968
+6 -11 -47
+345 4969 -48
+5 -47 -11
+590 4971 4972
+411 -11 -47
+1067 4973 4976
+6 4974 4975
+5 -48 -11
+28 -47 -48
+990 4977 4978
+28 -47 -48
+194 4979 -11
+49 -11 -11
+6 -13 -47
+430 4982 5047
+346 4983 5001
+150 4984 4987
+89 4985 -47
+6 -47 4986
+55 -48 -13
+4 4988 4989
+283 -11 -48
+175 4990 4993
+645 4991 -48
+55 4992 -48
+104 -48 -47
+259 -47 4994
+410 -47 4995
+446 -48 4996
+5 -47 -47
+86 -48 4998
+318 -48 4999
+97 5000 -47
+43 -47 -48
+426 5002 5008
+637 -47 5003
+556 -47 5004
+661 -47 5005
+90 5006 5007
+85 -11 -47
+138 -47 -11
+71 5009 5011
+338 5010 -11
+4 -11 -13
+605 5012 5020
+116 -48 5013
+151 5014 5015
+669 -11 -13
+65 5016 5017
+50 -47 -13
+104 -13 5018
+406 -11 5019
+99 -11 -47
+829 5021 5026
+42 -13 5022
+407 5023 5024
+4 -13 -48
+385 -48 5025
+37 -47 -47
+204 5027 5028
+42 -13 -47
+84 5029 5031
+186 -11 5030
+37 -11 -48
+107 5032 5033
+5 -47 -11
+200 5034 5035
+526 -11 -48
+782 -47 5036
+587 -11 5037
+434 5038 5039
+103 -48 -11
+285 -47 -47
+79 -47 5041
+85 -11 5042
+37 -47 -48
+564 -47 5044
+99 -47 5045
+461 -47 5046
+513 -47 -48
+170 5048 5063
+399 5049 5058
+782 5050 5051
+25 -11 -47
+429 -47 5052
+185 -47 5053
+135 5054 5055
+84 -47 -48
+374 -48 5056
+495 -48 5057
+669 -48 -47
+605 -11 -11
+562 -13 5060
+69 -47 5061
+552 5062 -11
+37 -11 -47
+604 -11 5064
+225 5065 5069
+150 -47 5066
+338 5067 5068
+77 -48 -47
+102 -47 -11
+829 5070 5091
+69 5071 5078
+333 -47 -47
+111 5073 -48
+25 -11 -47
+148 -48 5075
+255 5076 -47
+5 -47 5077
+42 -19 -48
+336 5079 5082
+142 -48 5080
+200 5081 -13
+43 -13 -48
+151 5083 5089
+285 5084 5088
+584 -47 5085
+5 -48 5086
+15 -48 5087
+17 -47 -48
+1 -11 -13
+27 -47 5090
+77 -48 -11
+321 5092 5098
+204 -13 5093
+80 5094 5095
+1072 -47 -11
+50 -11 5096
+6 -11 -11
+26 -11 -47
+648 5099 5104
+16 -11 5100
+107 -48 5101
+194 -48 5102
+5 5103 -47
+46 -47 -48
+615 -11 5105
+403 5106 5113
+536 5107 5108
+1 -13 -47
+257 5109 5112
+85 5110 5111
+79 -11 -47
+16 -48 -13
+204 -13 -11
+519 -11 5114
+554 -47 5115
+707 5116 5118
+284 -11 5117
+422 -11 -13
+564 -47 5119
+571 5120 5122
+27 5121 -47
+15 -47 -48
+534 5123 5127
+184 5124 5125
+87 -48 -13
+27 -48 5126
+55 -11 -13
+702 5128 5129
+92 -11 -48
+932 5130 5131
+50 -47 -48
+525 5132 5134
+43 -11 5133
+163 -11 -47
+605 5135 5137
+708 -11 5136
+57 -11 -13
+335 5138 5141
+487 5139 -11
+85 5140 -47
+42 -47 -48
+60 5142 5143
+429 -13 -11
+596 5144 5146
+87 5145 -11
+55 -47 -13
+277 5147 5148
+37 -13 -48
+413 5149 5151
+339 5150 -11
+69 -11 -47
+324 5152 5153
+4 -47 -48
+314 -47 5154
+135 5155 5156
+41 -11 -48
+402 5157 5158
+53 -11 -48
+834 -48 5159
+6 5160 -11
+90 -48 5161
+79 -11 5162
+446 -48 5163
+62 -48 -11
+31 5165 5260
+285 5166 5223
+535 5167 5172
+27 -11 5168
+137 5169 5170
+194 -47 -11
+79 -48 5171
+5 -11 -13
+413 5173 5179
+169 -47 -47
+4 -48 -11
+333 5176 5178
+6 5177 -47
+17 -11 -47
+93 -11 -47
+57 5180 5182
+305 -48 -48
+17 -48 -13
+383 5183 5186
+50 -47 -47
+459 5185 -47
+16 -48 -47
+447 5187 5190
+428 -47 5188
+518 5189 -48
+37 -48 -13
+462 5191 5193
+50 -48 5192
+89 -47 -11
+273 5194 5196
+69 5195 -47
+6 -11 -13
+481 5197 5198
+6 -47 -13
+27 5199 5200
+395 -48 -47
+1130 -47 5201
+1074 5202 5203
+26 -13 -47
+823 -13 5204
+1190 -47 5205
+607 5206 5207
+59 -48 -47
+199 -48 5208
+93 -47 5209
+357 5210 5212
+223 -47 -47
+50 -47 -48
+708 -47 5213
+690 5214 5216
+130 -47 -47
+1 -47 -48
+419 -47 5217
+158 5218 -48
+175 5219 5220
+92 -48 -47
+1010 5221 5222
+630 -48 -47
+150 -47 -48
+590 5224 5232
+753 5225 5227
+309 -13 5226
+6 -47 -11
+645 5228 5231
+45 5229 -13
+35 -48 5230
+86 -48 -47
+140 -13 -47
+535 5233 5236
+35 -13 5234
+430 -13 5235
+103 -13 -11
+938 5237 5246
+488 -47 -47
+275 -47 5239
+309 -11 5240
+200 -48 5241
+92 -48 5242
+123 -48 5243
+103 -48 -47
+50 -11 5245
+6 -48 -47
+1067 5247 5249
+79 -11 5248
+16 -48 -47
+990 5250 5251
+111 -11 -47
+71 5252 5254
+5 -48 5253
+16 -47 -11
+176 5255 5257
+475 -11 -11
+465 -48 -11
+458 -13 5258
+979 5259 -11
+4 -13 -11
+35 5261 5346
+399 5262 5280
+297 5263 5268
+554 -11 -11
+869 -47 5265
+375 5266 -11
+6 -11 5267
+26 -11 -47
+668 5269 5271
+46 -47 5270
+42 -25 -13
+826 5272 5273
+6 -48 -70
+285 5274 5275
+825 -13 -11
+162 -47 5276
+493 -47 5277
+47 -47 5278
+546 5279 -11
+37 -11 -47
+57 5281 5287
+58 -11 5282
+591 5283 5285
+176 -48 5284
+25 -11 -13
+28 -48 5286
+126 -11 -13
+789 5288 5292
+268 5289 5290
+130 -48 -11
+69 -13 5291
+184 -141 -11
+403 5293 5304
+43 -13 -13
+462 -11 -25
+225 -47 5296
+683 5297 5301
+275 -11 5298
+47 -11 5299
+499 -11 5300
+659 -11 -13
+285 -11 5302
+49 5303 -11
+80 -48 -13
+346 5305 5306
+49 -47 -48
+489 5307 5316
+804 -11 -11
+447 -47 -13
+16 5310 5315
+580 5311 5313
+15 -47 5312
+36 -13 -48
+152 -11 5314
+40 -11 -48
+1 -47 -11
+745 5317 5325
+284 -11 5318
+163 -47 5319
+894 5320 5321
+1 -47 -48
+60 -48 5322
+635 -11 5323
+112 -13 5324
+285 -13 -11
+311 5326 5327
+42 -13 -13
+546 5328 5330
+17 5329 -11
+59 -11 -13
+327 5331 5335
+112 -11 5332
+125 -47 5333
+604 -11 5334
+804 -11 -13
+319 5336 5338
+141 -48 5337
+152 -47 -11
+153 -11 -11
+493 -13 5340
+692 -13 5341
+590 5342 5343
+15 -13 -11
+445 5344 5345
+5 -11 -13
+205 -13 -11
+829 5347 5368
+285 5348 5355
+683 5349 5351
+110 -48 5350
+170 -48 -47
+170 -48 5352
+26 5353 5354
+39 -47 -11
+199 -47 -13
+150 -11 -11
+65 -11 -47
+489 5358 5360
+26 -48 5359
+27 -13 -47
+536 5361 5364
+332 -13 5362
+481 5363 -11
+16 -13 -11
+142 5365 5366
+45 -13 -11
+156 5367 -11
+87 -11 -13
+774 5369 5377
+804 -11 5370
+175 5371 5373
+69 -13 5372
+28 -13 -47
+434 5374 5376
+116 -11 5375
+15 -48 -47
+315 -11 -48
+335 5378 5387
+345 5379 5381
+142 5380 -48
+5 -47 -70
+447 5382 5383
+259 -48 -11
+169 -13 5384
+209 -48 5385
+43 -11 5386
+88 -11 -47
+536 5388 5412
+591 5389 5396
+546 5390 5391
+41 -48 -47
+683 5392 -11
+170 5393 5394
+50 -48 -47
+511 -47 5395
+60 -3 -11
+338 5397 5403
+626 -13 5398
+685 5399 5401
+49 -48 -48
+64 -48 -47
+121 5402 -11
+4 -48 -47
+782 5404 5407
+71 -47 -47
+467 -11 5406
+753 -11 -47
+932 -11 -11
+900 -13 5409
+804 -13 5410
+881 5411 -11
+16 -11 -13
+156 5413 5453
+591 5414 5424
+1019 5415 5416
+770 -47 -48
+488 5417 5419
+97 -48 5418
+45 -11 -47
+254 5420 5421
+15 -47 -48
+689 5422 5423
+4 -11 -48
+173 -48 -11
+200 5425 5430
+564 -11 5426
+196 -13 5427
+100 -13 5428
+457 -11 5429
+49 -48 -11
+152 5431 5436
+45 5432 -11
+339 -11 5433
+28 -11 5434
+5 5435 -47
+17 -48 -47
+64 5437 5440
+241 5438 5439
+5 -48 -13
+320 -13 -11
+535 5441 5442
+17 -13 -11
+360 5443 5445
+515 -13 5444
+142 -13 -11
+440 5446 5449
+457 -13 5447
+806 5448 -11
+5 -13 -47
+66 -47 5450
+456 5451 -11
+141 -11 -11
+161 -47 -11
+605 5454 5469
+387 5455 5456
+87 -48 -47
+339 -11 5457
+487 5458 5459
+15 -48 -29
+42 5460 5463
+6 5461 -11
+107 5462 -47
+25 -47 -11
+233 5464 5466
+702 5465 -13
+6 -47 -11
+217 -13 5467
+55 5468 -13
+61 -13 -11
+914 5470 5473
+430 5471 -11
+429 -47 5472
+50 -48 -11
+91 5474 5478
+143 -11 -11
+154 -13 5476
+54 -47 5477
+69 -47 -11
+489 5479 5486
+446 5480 5482
+6 -47 5481
+36 -13 -48
+519 5483 5484
+4 -47 -48
+45 5485 -13
+174 -152 -11
+534 5487 5491
+129 5488 5490
+4 -13 5489
+17 -25 -48
+59 -11 -11
+834 5492 5493
+37 -48 -13
+73 5494 5496
+217 5495 -13
+15 -13 -11
+546 5497 5498
+321 -47 -11
+647 5499 5500
+150 -11 -47
+498 5501 5503
+137 -11 -11
+6 -47 -13
+1286 5504 5505
+5 -13 -11
+417 5506 5508
+543 5507 -11
+49 -13 -11
+194 5509 -11
+593 5510 -11
+16 -13 -11
+756 5512 5882
+412 5513 5540
+57 5514 5529
+363 5515 5517
+28 -25 5516
+228 -25 -70
+605 -16 -16
+89 -11 -16
+116 5520 5521
+36 -11 -16
+685 5522 5526
+935 -16 5523
+39 -13 5524
+50 5525 -107
+176 -48 -107
+44 5527 -16
+390 -16 5528
+218 -16 -107
+118 5530 5531
+130 -13 -11
+413 5532 5533
+327 -70 -47
+5 5534 5535
+17 -48 -47
+200 5536 5538
+49 5537 -48
+35 -107 -11
+1022 -47 5539
+35 -11 -70
+118 5541 5548
+135 -13 5542
+595 -13 5543
+333 5544 5547
+156 5545 5546
+15 -108 -13
+123 -13 -11
+86 -13 -11
+76 5549 5679
+200 5550 5556
+199 5551 5552
+63 -11 -48
+572 5553 -47
+192 5554 5555
+6 -13 -70
+86 -70 -48
+429 5557 5571
+199 -47 -47
+661 5559 -47
+16 -47 -48
+170 5561 5563
+259 -70 5562
+6 -47 -48
+683 5564 5566
+26 -13 5565
+16 -70 -48
+375 -47 5567
+16 -48 5568
+128 -47 5569
+64 -47 5570
+121 -47 -48
+305 5572 5577
+829 -11 5573
+141 5574 5575
+6 -70 -11
+64 -47 5576
+142 -25 -48
+427 5578 5580
+601 -48 5579
+696 -47 -25
+428 5581 5585
+103 5582 5583
+30 -11 -48
+55 5584 -47
+70 -25 -70
+788 5586 5595
+683 5587 5589
+669 5588 -70
+5 -47 -11
+324 5590 5591
+6 -47 -48
+762 5592 5593
+6 -48 -25
+5 -13 5594
+65 -13 -70
+332 5596 5598
+72 5597 -70
+49 -25 -11
+40 5599 5601
+318 5600 -48
+1 -13 -70
+758 5602 5604
+87 -48 5603
+152 -13 -70
+29 5605 5607
+59 -47 5606
+70 -13 -48
+104 5608 5610
+72 -70 5609
+102 -13 -48
+470 5611 5613
+62 -47 5612
+91 -47 -48
+801 -48 5614
+1145 5615 5616
+5 -48 -47
+345 5617 5621
+72 5618 5619
+28 -48 -70
+240 5620 -47
+31 -47 -70
+757 5622 5627
+30 5623 5624
+59 -70 -47
+175 5625 5626
+37 -48 -47
+610 -47 -70
+487 5628 5629
+441 -48 -70
+1074 -47 5630
+730 5631 5633
+53 -48 5632
+89 -48 -70
+516 5634 5636
+85 -70 5635
+71 -70 -47
+773 -48 5637
+445 5638 5642
+143 5639 5641
+132 -48 5640
+366 -48 -70
+26 -48 -47
+283 5643 5648
+596 -70 5644
+79 5645 5647
+889 5646 -48
+5 -48 -47
+31 -48 -47
+519 5649 5650
+430 -47 -70
+572 -48 5651
+582 5652 5653
+16 -70 -47
+89 -70 5654
+141 5655 5656
+430 -70 -48
+87 5657 5659
+112 -47 5658
+96 -47 -48
+72 -70 5660
+567 5661 5662
+79 -70 -47
+69 -48 5663
+634 5664 5665
+206 -70 -48
+92 5666 5667
+4 -47 -70
+447 -48 5668
+645 5669 5676
+204 -47 5670
+448 5671 5673
+111 5672 -47
+6 -48 -70
+422 -48 5674
+27 -48 5675
+212 -48 -70
+16 -70 5677
+564 -70 5678
+107 -70 -48
+668 5680 5686
+339 -108 5681
+17 -47 -47
+4 -13 -47
+43 -70 5684
+137 -47 5685
+104 -47 -48
+176 5687 5701
+35 5688 5696
+398 -16 5689
+225 5690 5691
+152 -13 -48
+115 -48 5692
+461 5693 5694
+30 -13 -48
+123 -48 5695
+188 -48 -13
+194 -13 5697
+467 -47 5698
+103 5699 5700
+31 -11 -70
+27 -11 -48
+829 5702 5708
+35 5703 5707
+161 -11 5704
+272 5705 5706
+4 -70 -13
+80 -13 -25
+31 -11 -48
+627 5709 5727
+605 5710 5717
+413 -11 5711
+132 5712 5716
+636 5713 5714
+16 -13 -25
+5 5715 -11
+1 -70 -13
+99 -13 -25
+708 -11 5718
+327 -13 5719
+152 5720 5723
+111 5721 5722
+16 -70 -48
+131 -70 -47
+35 -11 5724
+591 5725 5726
+5 -70 -47
+317 -70 -48
+383 5728 5739
+27 5729 5732
+297 5730 5731
+4 -16 -148
+36 -70 -48
+680 5733 5734
+16 -48 -70
+131 5735 5736
+6 -70 -13
+104 5737 5738
+6 -11 -47
+90 -48 -47
+427 5740 5750
+69 5741 5742
+49 -107 -11
+1010 5743 5744
+31 -11 -48
+175 5745 5747
+6 -47 5746
+17 -13 -47
+27 -48 5748
+42 -47 -47
+91 -48 -47
+43 5751 5772
+35 5752 5767
+384 5753 5757
+825 5754 5755
+6 -25 -47
+225 -48 5756
+26 -48 -70
+593 5758 5760
+5 -47 5759
+6 -25 -107
+437 -25 5761
+161 -25 5762
+486 5763 5764
+42 -25 -70
+127 5765 5766
+1 -13 -25
+30 -13 -70
+16 -47 5768
+137 5769 5770
+26 -16 -70
+72 5771 -48
+6 -11 -70
+17 5773 5827
+413 5774 5778
+830 5775 5776
+29 -13 -11
+489 5777 -47
+35 -11 -70
+753 -48 -48
+141 -25 5780
+45 5781 5783
+754 -47 5782
+15 -11 -13
+72 -47 -70
+69 5785 5794
+28 5786 5789
+35 5787 5788
+1 -148 -25
+40 -13 -11
+144 5790 5791
+16 -11 -47
+35 5792 5793
+57 -48 -47
+49 -70 -48
+279 5795 5798
+547 5796 5797
+28 -47 -48
+42 -48 -13
+80 5799 5814
+634 5800 5802
+659 -47 5801
+16 -25 -70
+71 5803 5804
+49 -13 -11
+144 5805 5806
+26 -11 -70
+620 5807 5808
+45 -70 -47
+152 5809 5810
+15 -13 -70
+487 5811 5812
+50 -13 -48
+58 -70 5813
+98 -70 -48
+116 5815 5817
+16 -13 5816
+42 -11 -25
+37 5818 5820
+87 -25 5819
+30 -48 -70
+419 5821 5822
+86 -48 -70
+447 5823 5824
+42 -48 -70
+68 -70 5825
+121 -70 5826
+406 -70 -48
+129 5828 5834
+226 5829 5831
+39 -107 5830
+6 -16 -13
+1 -151 5832
+80 5833 -48
+50 -47 -48
+510 -48 -48
+6 5836 -47
+28 -11 -25
+432 5838 5841
+604 -48 5839
+64 -25 5840
+65 -11 -13
+228 5842 5843
+4 -11 -13
+832 5844 5846
+6 -70 5845
+29 -13 -154
+279 5847 5849
+30 -70 5848
+45 -107 -48
+97 5850 5852
+572 -48 5851
+29 -25 -70
+424 5853 5855
+454 5854 -70
+6 -25 -47
+661 5856 5857
+163 -48 -70
+429 5858 5860
+441 5859 -47
+30 -48 -70
+140 5861 5862
+35 -47 -70
+572 5863 5864
+210 -70 -48
+296 -48 5865
+218 -47 5866
+234 5867 5868
+64 -70 -48
+745 -70 5869
+680 -70 5870
+259 -48 5871
+528 -47 5872
+440 5873 5875
+399 -47 5874
+29 -47 -48
+333 -47 5876
+244 5877 5880
+70 -48 5878
+6 -70 5879
+72 -70 -47
+637 -70 5881
+36 -70 -48
+74 5883 5890
+69 5884 5886
+283 -13 5885
+1250 -13 -30
+435 -11 5887
+838 -47 5888
+818 5889 -13
+154 -3 -13
+118 5891 5909
+1101 -85 5892
+122 5893 5899
+335 5894 5896
+4 -16 5895
+41 -25 -13
+31 5897 -25
+35 5898 -25
+16 -13 -16
+932 -28 5900
+401 -28 5901
+1169 5902 5903
+6 -3 -11
+921 -3 5904
+335 -3 5905
+124 5906 5907
+420 -29 -13
+546 5908 -13
+5 -25 -13
+250 5910 6133
+35 5911 5983
+399 5912 5919
+57 -11 5913
+523 5914 5915
+6 -11 -13
+46 5916 5918
+582 -13 5917
+197 -13 -11
+746 -11 -13
+57 5920 5923
+500 -11 5921
+15 -3 5922
+65 -11 -13
+327 5924 5928
+965 -11 5925
+131 5926 -13
+637 -11 5927
+104 -11 -13
+605 -13 5929
+307 5930 5931
+39 -13 -11
+521 5932 5933
+965 -11 -13
+1340 5934 5936
+695 -11 5935
+539 -11 -13
+1177 5937 5938
+95 -13 -11
+36 -13 5939
+17 -13 -13
+275 5941 5944
+4 5942 5943
+69 -11 -13
+145 -13 -11
+647 -11 5945
+283 5946 5956
+487 -11 5947
+636 -11 5948
+125 5949 5950
+38 -13 -11
+161 -11 5951
+95 -11 5952
+100 -11 5953
+200 5954 -13
+16 5955 -13
+184 -13 -11
+825 -13 5957
+211 5958 5959
+16 -11 -13
+430 5960 5961
+209 -13 -11
+171 -11 5962
+152 -13 5963
+125 -13 5964
+98 -11 5965
+426 -11 5966
+45 5967 5971
+417 5968 5969
+16 -11 -13
+338 5970 -13
+46 -11 -13
+41 -13 -11
+429 -11 5973
+357 5974 5975
+54 -11 -13
+523 -13 5976
+105 -13 5977
+130 5978 5982
+154 5979 -13
+237 -13 5980
+111 5981 -11
+4 -11 -13
+47 -13 -11
+232 5984 6000
+176 -13 5985
+1072 -13 5986
+154 5987 5992
+63 -13 5988
+90 -13 5989
+572 5990 -11
+15 -13 5991
+61 -13 -11
+321 5993 5994
+90 -13 -11
+101 -11 5995
+772 -11 5996
+86 -11 5997
+445 5998 5999
+330 -13 -11
+806 -11 -13
+76 6001 6046
+321 -11 -11
+240 6003 -11
+37 -11 -13
+965 -11 6005
+322 -13 6006
+69 6007 6011
+149 -11 6008
+109 6009 6010
+5 -13 -11
+115 -11 -13
+229 -13 6012
+279 6013 6015
+225 -11 6014
+399 -11 -13
+798 6016 6017
+36 -11 -13
+414 -11 6018
+440 6019 6024
+103 -13 6020
+64 -11 6021
+349 -11 6022
+404 6023 -13
+88 -13 -11
+769 -13 6025
+804 6026 6030
+410 -13 6027
+4 -13 6028
+93 6029 -11
+71 -11 -13
+175 6031 6043
+199 -11 6032
+320 -13 6033
+268 -11 6034
+410 -11 6035
+635 -13 6036
+519 -11 6037
+17 6038 -13
+255 -11 6039
+143 6040 -11
+535 -11 6041
+87 -11 6042
+262 -11 -13
+679 6044 6045
+25 -11 -13
+722 -13 -11
+156 6047 6091
+399 6048 6053
+411 -13 6049
+154 -11 6050
+6 6051 6052
+28 -13 -11
+45 -13 -11
+266 -11 6054
+111 -11 6055
+200 6056 6058
+175 -13 -13
+45 -13 -11
+426 6059 6060
+433 -13 -11
+620 -11 6061
+605 -13 6062
+975 -11 6063
+188 -13 6064
+424 -11 6065
+297 6066 6067
+332 -11 -13
+113 6068 -11
+105 6069 6070
+110 -11 -13
+501 -13 6071
+28 6072 6073
+57 -11 -13
+144 -11 6074
+71 -11 -11
+227 -11 -13
+388 -13 6077
+610 -13 6078
+890 -13 6079
+333 -11 6080
+486 -13 6081
+50 6082 -11
+46 -13 6083
+514 6084 6085
+768 -11 -13
+63 6086 6087
+69 -11 -13
+309 6088 -11
+151 6089 6090
+99 -11 -13
+87 -13 -11
+493 6092 6100
+316 -13 6093
+791 -13 6094
+154 6095 6096
+139 -13 -11
+254 -13 6097
+541 -13 6098
+645 6099 -11
+15 -11 -13
+605 -13 6101
+840 -13 6102
+953 6103 6104
+16 -11 -3
+427 -11 6105
+432 -11 6106
+43 -11 6107
+412 -11 6108
+745 6109 6115
+572 -11 -11
+104 6111 6112
+26 -11 -13
+141 -13 6113
+737 6114 -11
+86 -11 -11
+27 6116 6120
+41 -13 6117
+320 6118 6119
+89 -11 -13
+72 -13 -11
+668 6121 6122
+26 -11 -13
+148 6123 6125
+495 -13 6124
+141 -13 -11
+61 6126 6128
+331 -11 -11
+92 -13 -11
+28 6129 6130
+589 -13 -11
+380 6131 6132
+42 -13 -11
+1107 -13 -11
+504 6134 6241
+355 -11 6135
+35 6136 6187
+399 6137 6145
+57 6138 6139
+75 -11 -3
+427 6140 6141
+6 -11 -13
+755 -13 -13
+237 -13 -11
+208 6144 -13
+5 -11 -13
+327 6146 6147
+749 -11 -13
+347 6148 6149
+171 -13 -13
+812 6150 6151
+522 -13 -11
+307 6152 6153
+126 -13 -11
+200 6154 6155
+215 -11 -13
+95 6156 6157
+243 -13 -11
+212 -13 6158
+27 6159 6160
+577 -13 -11
+467 -13 6161
+907 -11 6162
+823 -11 6163
+916 6164 6165
+208 -13 -11
+161 -13 6166
+381 -13 -13
+388 6168 6171
+6 -13 6169
+130 6170 -11
+29 -11 -13
+219 -11 6172
+578 6173 6175
+39 -13 6174
+25 -13 -11
+461 6176 6177
+357 -13 -11
+285 -11 6178
+695 6179 6180
+36 -13 -11
+45 6181 6185
+26 6182 -13
+906 -11 6183
+77 -11 6184
+423 -11 -13
+69 -11 6186
+115 -11 -13
+490 6188 6240
+80 6189 6226
+405 -11 6190
+339 6191 6222
+413 -11 6192
+64 6193 6195
+429 -11 6194
+137 -11 -13
+17 6196 6212
+342 -11 6197
+200 -13 6198
+428 -11 6199
+453 -13 -13
+515 -13 6201
+366 -13 6202
+542 -13 6203
+115 -11 6204
+407 -13 6205
+204 -13 6206
+534 -13 6207
+702 -13 6208
+69 6209 6210
+137 -11 -13
+434 -13 6211
+667 -13 -11
+324 6213 6214
+90 -11 -13
+900 -13 6215
+635 6216 6217
+26 -11 -13
+200 6218 6219
+76 -11 -11
+225 6220 -11
+6 6221 -11
+4 -11 -13
+59 -11 6223
+1 -11 6224
+30 -11 6225
+98 -11 -13
+480 6227 6229
+126 -11 6228
+49 -11 -13
+144 6230 6233
+223 6231 6232
+68 -11 -13
+166 -13 -11
+890 -13 6234
+176 6235 6237
+273 -11 -11
+125 -13 -11
+475 6238 -11
+40 -13 6239
+42 -13 -11
+149 -13 -3
+154 6242 6309
+155 6243 6288
+668 6244 6246
+69 -29 -29
+76 -48 -13
+707 6247 6257
+311 -13 -13
+80 6249 6254
+135 6250 6251
+87 -13 -29
+142 6252 -13
+268 -13 6253
+111 -13 -29
+329 6255 -29
+5 -29 6256
+41 -29 -13
+35 6258 6269
+595 -29 -29
+448 -29 6260
+49 6261 6267
+125 6262 6263
+37 -16 -13
+451 -29 6264
+1 -29 6265
+691 -13 6266
+46 -13 -48
+6 6268 -48
+26 -48 -29
+745 6270 6271
+41 -29 -13
+487 6272 6274
+398 -13 -13
+45 -13 -48
+588 -29 6275
+241 6276 6277
+318 -29 -48
+441 -13 6278
+217 6279 6281
+50 6280 -13
+4 -13 -48
+132 6282 6286
+80 -48 -48
+554 6284 6285
+5 -48 -13
+278 -13 -48
+182 6287 -48
+69 -13 -13
+230 6289 6306
+560 -13 6290
+37 -11 -11
+42 6292 -16
+43 -25 -11
+745 6294 6295
+15 -28 -139
+128 6296 6297
+16 -25 -139
+532 6298 6299
+17 -13 -25
+475 6300 6302
+6 -13 6301
+28 -11 -128
+26 -128 6303
+200 6304 6305
+6 -11 -13
+162 -13 -11
+520 -3 6307
+28 -3 6308
+86 -81 -13
+520 6310 6387
+545 6311 6317
+446 6312 6313
+5 -13 -11
+474 -47 6314
+413 6315 -48
+6 -13 6316
+25 -47 -48
+1067 6318 6329
+909 6319 6323
+533 6320 6322
+49 6321 -11
+17 -13 -48
+35 -11 -47
+25 6324 6325
+31 -11 -13
+737 -13 6326
+449 -47 6327
+137 6328 -48
+5 -48 -47
+72 6330 6332
+272 6331 -48
+104 -48 -47
+488 6333 6336
+194 6334 6335
+15 -13 -47
+1095 -47 -48
+320 6337 6344
+932 -13 -13
+17 -47 -48
+31 -48 6340
+39 -47 6341
+105 -11 6342
+151 -11 6343
+593 -11 -13
+536 6345 6353
+149 -48 6346
+434 6347 6348
+100 -13 -48
+932 -48 6349
+836 6350 6352
+35 -13 6351
+16 -11 -25
+145 -48 -13
+340 6354 6355
+112 -47 -48
+103 6356 6358
+321 -11 6357
+15 -3 -13
+623 6359 6360
+205 -47 -48
+990 6361 6364
+59 -47 6362
+79 -11 6363
+57 -11 -48
+341 6365 6368
+199 -48 -48
+35 -13 -47
+151 -11 -48
+556 -48 6369
+829 6370 6371
+432 -47 -48
+97 6372 6376
+104 -11 6373
+667 -48 6374
+152 -47 6375
+87 -47 -13
+636 6377 6380
+144 6378 6379
+59 -11 -13
+111 -47 -48
+661 -48 6381
+655 6382 6383
+6 -11 -48
+153 -11 6384
+162 -11 6385
+100 6386 -13
+26 -13 -11
+230 6388 6416
+757 6389 6390
+27 -130 -13
+35 6391 6400
+413 -13 -13
+321 6393 6394
+47 -13 -11
+412 -16 6395
+454 6396 6398
+6 6397 -16
+26 -25 -13
+820 6399 -13
+26 -13 -25
+536 6401 6403
+31 -16 6402
+27 -11 -13
+26 6404 6405
+57 -25 -13
+403 -13 6406
+1263 -13 6407
+615 6408 6409
+103 -11 -13
+470 -13 6410
+648 -3 6411
+64 6412 6413
+6 -11 -13
+387 6414 -11
+80 6415 -11
+570 -11 -13
+71 6417 6428
+591 -13 6418
+35 6419 6422
+321 -11 6420
+268 -11 6421
+505 -11 -13
+627 -13 6423
+260 -25 6424
+392 6425 6426
+17 -13 -11
+31 -13 6427
+57 -13 -11
+726 6429 6430
+25 -13 -11
+1115 6431 6434
+547 6432 6433
+36 -3 -13
+57 -16 -11
+353 6435 6437
+31 -13 6436
+15 -108 -137
+401 -28 6438
+571 6439 6444
+161 6440 6441
+59 -3 -11
+122 -16 6442
+123 -3 6443
+672 -3 -13
+1241 -3 6445
+1095 -48 6446
+1432 -16 6447
+350 6448 6450
+84 -11 6449
+122 -11 -13
+921 -3 6451
+981 -3 6452
+340 -25 6453
+714 -25 6454
+1314 -25 -13
+304 6456 6648
+402 6457 6550
+403 6458 6460
+1597 6459 -10
+16 -10 -145
+353 6461 6543
+144 6462 6476
+47 -46 6463
+382 6464 -52
+800 -46 6465
+770 6466 6467
+16 -52 -46
+186 6468 6475
+49 -46 6469
+559 -46 6470
+59 -52 6471
+143 6472 -52
+347 -52 6473
+50 6474 -52
+346 -52 -46
+422 -46 -52
+321 6477 6511
+112 6478 6490
+347 -52 6479
+716 -10 6480
+454 -52 6481
+833 6482 6483
+4 -46 -52
+97 6484 6486
+200 -52 6485
+45 -46 -52
+103 6487 6489
+673 -52 6488
+36 -52 -46
+494 -46 -46
+722 -52 6491
+440 6492 6493
+88 -46 -52
+277 6494 6495
+41 -46 -52
+194 -52 6496
+104 -46 6497
+239 -52 6498
+16 -52 6499
+329 -46 6500
+833 -52 6501
+832 6502 6503
+63 -46 -52
+101 -52 6504
+146 -52 6505
+739 -52 6506
+1060 -52 6507
+509 6508 6509
+5 -52 -46
+237 -46 -46
+327 -52 -46
+465 6512 6523
+17 6513 6519
+99 6514 6515
+92 -46 -52
+451 6516 6517
+15 -52 -46
+85 -52 6518
+297 -52 -46
+6 6520 -52
+598 -52 6521
+142 6522 -46
+58 -46 -52
+76 6524 6528
+79 -46 6525
+17 6526 6527
+167 -52 -46
+88 -46 -52
+223 -46 -46
+278 -52 6530
+460 6531 6532
+4 -52 -46
+497 -52 6533
+375 6534 -46
+475 -52 -46
+267 6536 6537
+42 -46 -52
+1128 -52 6538
+259 6539 6541
+35 -52 6540
+469 -52 -46
+1285 6542 -46
+46 -52 -46
+788 -98 6544
+553 -88 6545
+117 6546 6547
+32 -54 -89
+32 6548 6549
+69 -73 -10
+27 -53 -99
+390 6551 6552
+26 -22 -37
+117 6553 6575
+154 6554 6558
+336 6555 6556
+5 -46 -134
+45 -7 6557
+4 -7 -131
+615 6559 6573
+723 -101 -101
+144 -104 6561
+319 6562 6565
+158 -104 6563
+130 -104 6564
+239 -104 -101
+277 6566 6569
+295 6567 6568
+5 -104 -101
+26 -101 -143
+882 6570 6572
+76 6571 -101
+613 -101 -104
+973 -104 -101
+999 6574 -12
+61 -92 -12
+615 6576 6616
+32 -104 6577
+144 6578 6579
+398 -31 -71
+321 6580 6606
+722 -71 6581
+4 6582 6583
+64 -71 -31
+440 6584 6585
+208 -31 -71
+319 6586 6593
+427 -31 6587
+296 -31 6588
+200 -31 6589
+443 6590 6591
+41 -71 -31
+92 6592 -71
+50 -31 -71
+278 6594 6596
+54 -71 -71
+164 -31 -71
+157 -71 6597
+560 6598 6600
+50 -31 -31
+79 -31 -71
+450 6601 6603
+40 -71 6602
+26 -71 -31
+515 6604 6605
+50 -31 -71
+1128 -71 -31
+332 6607 6613
+111 -31 6608
+167 -71 6609
+79 -71 6610
+345 6611 6612
+97 -31 -71
+35 -71 -31
+689 6614 -31
+45 6615 -71
+76 -71 -31
+155 6617 6639
+285 -43 6618
+30 6619 6632
+25 6620 -92
+132 -114 6621
+48 -114 6622
+5 6623 6626
+423 6624 6625
+104 -127 -114
+91 -114 -127
+318 -127 -127
+101 -127 6628
+144 -127 6629
+319 -127 6630
+165 -127 6631
+670 -127 -114
+150 6633 -109
+80 6634 6636
+97 -118 6635
+241 -118 -113
+50 6637 6638
+274 -118 -113
+4 -118 -113
+563 6640 6641
+25 -80 -92
+534 6642 6643
+28 -75 -32
+250 6644 6645
+69 -24 -123
+32 6646 -10
+26 -73 6647
+116 -73 -103
+24 6649 6929
+305 6650 6662
+155 6651 6652
+118 -42 -86
+391 6653 6656
+31 -126 6654
+117 -126 6655
+1046 -126 -44
+117 -55 6657
+151 -93 6658
+32 -111 6659
+150 -117 6660
+1 -102 6661
+6 -83 -44
+553 6663 6796
+402 6664 6747
+743 6665 6670
+85 6666 6668
+317 6667 -38
+166 -60 -38
+749 -38 6669
+55 -60 -60
+749 6671 6676
+35 6672 6674
+124 6673 -38
+32 -38 -60
+88 -38 6675
+218 -38 -60
+93 6677 6684
+161 6678 6681
+123 -38 6679
+200 6680 -60
+59 -60 -38
+176 6682 -60
+92 -60 6683
+6 -38 -15
+129 6685 6686
+69 -60 -78
+69 6687 6746
+911 -38 6688
+230 -112 6689
+1070 6690 6692
+416 6691 -60
+44 -38 -60
+201 -60 6693
+624 -60 -60
+175 -38 6695
+65 -38 6696
+237 -38 6697
+58 -38 6698
+66 -38 -60
+608 6700 6702
+36 -60 6701
+560 -60 -38
+901 6703 6704
+46 -60 -38
+459 6705 6707
+35 -38 6706
+60 -38 -60
+460 -38 6708
+616 6709 6712
+636 -38 6710
+125 6711 -60
+1 -60 -38
+501 -38 6713
+41 6714 6720
+329 6715 -38
+66 -38 6716
+87 -38 6717
+101 -38 6718
+102 -38 6719
+423 -38 -60
+636 6721 6722
+105 -38 -60
+483 -38 6723
+107 6724 6728
+234 -60 6725
+89 -60 6726
+384 -60 6727
+656 -60 -38
+297 6729 6730
+4 -60 -38
+131 6731 6733
+382 6732 -60
+32 -60 -38
+742 6734 6736
+12 -38 6735
+125 -38 -60
+935 6737 6738
+784 -60 -38
+66 -38 6739
+174 -38 6740
+307 -38 6741
+622 -38 6742
+382 6743 -60
+218 6744 6745
+266 -60 -38
+644 -38 -60
+5 -15 -82
+603 6748 6762
+155 6749 6750
+45 -50 -50
+363 -94 6751
+912 6752 6755
+144 -94 6753
+367 -58 -58
+123 -94 -58
+234 6756 6758
+46 -94 -94
+36 -94 -58
+317 -94 6759
+538 6760 -58
+88 -94 6761
+329 -94 -58
+32 -82 6763
+155 6764 6767
+116 6765 6766
+5 -60 -60
+615 -60 -15
+399 6768 6770
+274 -15 6769
+36 -40 -18
+176 6771 6772
+35 -18 -15
+614 6773 6774
+309 -40 -82
+762 -40 -40
+476 -82 6776
+135 -82 -40
+362 -40 6778
+324 6779 6781
+125 -18 6780
+16 -18 -40
+309 6782 6784
+37 6783 -18
+5 -82 -40
+16 6785 6793
+4 6786 6788
+523 -40 6787
+126 -15 -18
+45 6789 -78
+360 -40 6790
+262 -15 6791
+259 -15 6792
+46 -15 -82
+412 -40 6794
+141 -40 6795
+170 -40 -15
+403 6797 6804
+69 6798 6801
+42 -144 6799
+961 6800 -34
+107 -126 -34
+536 -84 6802
+615 -34 6803
+118 -34 -18
+404 6805 6811
+412 6806 6809
+560 -115 6807
+399 6808 -26
+57 -115 -26
+576 6810 -26
+100 -115 -26
+32 6812 6825
+228 6813 6816
+71 -64 6814
+581 6815 -61
+39 -72 -61
+31 6817 6819
+283 6818 -1
+28 -68 -82
+225 6820 6821
+151 -68 -149
+25 -68 6822
+782 6823 6824
+26 -68 -61
+118 -78 -26
+25 6826 6852
+155 6827 6835
+593 6828 6833
+135 -1 -1
+17 6830 -79
+103 -79 6831
+1 6832 -1
+254 -1 -79
+686 6834 -79
+99 -79 -1
+726 6836 -129
+35 6837 6843
+327 -129 6838
+455 -129 6839
+523 6840 6841
+1 -67 -129
+59 -79 6842
+188 -79 -67
+86 6844 6846
+43 -129 6845
+91 -1 -67
+785 -129 6847
+620 6848 6849
+199 -67 -67
+680 6850 -67
+92 6851 -67
+89 -67 -79
+118 6853 6879
+30 -32 6854
+432 6855 6868
+578 6856 6857
+17 -102 -102
+749 6858 6859
+93 -83 -102
+612 -83 6860
+437 -83 6861
+345 -83 -83
+42 -83 -102
+417 -83 6864
+420 -102 6865
+429 -102 6866
+125 -102 6867
+135 -102 -83
+74 6869 6877
+436 -40 6870
+176 -15 6871
+362 -15 -15
+762 6873 6874
+47 -15 -40
+327 6875 6876
+161 -15 -40
+161 -40 -15
+352 -78 6878
+179 -78 -40
+637 6880 6889
+448 6881 6888
+228 6882 -34
+445 -60 6883
+57 -38 6884
+272 -60 6885
+128 -60 6886
+362 -60 6887
+139 -60 -38
+40 -68 -78
+534 6890 6902
+31 -84 6891
+505 -102 6892
+42 -83 6893
+86 -83 -83
+451 -102 6895
+80 -83 6896
+416 -83 6897
+78 -102 6898
+373 -102 6899
+362 6900 6901
+49 -102 -83
+408 -102 -83
+154 6903 6918
+28 -121 6904
+812 -51 6905
+427 6906 6908
+37 6907 -116
+313 -51 -116
+129 -116 6909
+784 -51 6910
+130 6911 6912
+165 -51 -116
+622 6913 6914
+5 -116 -51
+78 -51 -51
+428 -116 6916
+757 -116 6917
+80 -116 -51
+116 -18 6919
+402 6920 6928
+762 6921 6922
+350 -82 -40
+175 6923 6925
+399 -18 6924
+16 -40 -15
+645 6926 6927
+835 -15 -18
+92 -18 -82
+72 -105 -78
+310 6930 7531
+74 6931 6957
+311 6932 6937
+225 -8 6933
+75 -20 -20
+77 6935 -20
+4 -66 -20
+130 -20 -66
+1030 6938 6940
+225 -8 6939
+616 -8 -20
+33 -20 -20
+693 -66 6942
+1263 -66 6943
+402 6944 6945
+40 -20 -66
+1218 6946 6948
+35 6947 -66
+125 -66 -20
+868 -66 -20
+1774 -8 6950
+430 -66 6951
+718 -21 6952
+1605 -8 6953
+206 6954 6955
+26 -8 -20
+870 6956 -20
+28 -8 -20
+718 6958 6960
+391 6959 -21
+48 -21 -21
+430 6961 6996
+622 6962 6964
+611 6963 -23
+345 -21 -23
+391 6965 6969
+504 6966 6967
+339 -23 -21
+175 6968 -23
+43 -23 -47
+497 6970 6982
+756 6971 6978
+674 -23 6972
+71 -23 6973
+604 6974 6976
+228 -21 6975
+16 -23 -21
+68 -23 6977
+70 -23 -21
+520 -23 6979
+519 -23 6980
+730 6981 -21
+6 -23 -21
+65 6983 6995
+449 6984 6985
+87 -23 -21
+482 -23 6986
+29 6987 6989
+46 -21 -21
+97 -23 -21
+748 6990 6992
+49 6991 -21
+46 -21 -23
+130 6993 -21
+69 6994 -21
+37 -23 -21
+350 -48 -21
+440 6997 7028
+626 6998 7003
+321 -23 -23
+425 7000 7001
+17 -23 -21
+1019 7002 -23
+26 -21 -23
+683 7004 7010
+391 7005 7007
+101 -21 7006
+15 -20 -23
+142 -21 -21
+363 7009 -21
+5 -21 -23
+103 7011 7019
+912 -21 -21
+32 -8 -23
+832 -23 7014
+590 7015 7016
+28 -21 -23
+368 -23 7017
+149 7018 -21
+26 -23 -21
+137 7020 7022
+49 7021 -21
+16 -8 -23
+199 7023 7025
+17 7024 -21
+15 -20 -23
+522 7026 -21
+32 -21 7027
+35 -21 -20
+154 7029 7060
+353 7030 7032
+390 7031 -8
+15 -66 -66
+12 7033 7039
+69 7034 -20
+27 -20 7035
+636 7036 7038
+49 7037 -20
+46 -66 -66
+42 -23 -66
+228 7040 7048
+266 -66 7041
+388 7042 7043
+15 -66 -20
+85 -20 -20
+26 -20 7045
+240 -20 7046
+343 7047 -8
+5 -20 -8
+401 -90 7049
+404 -66 7050
+230 7051 7052
+830 -8 -20
+232 7053 7054
+6 -20 -66
+391 7055 7057
+364 -8 7056
+343 -66 -20
+986 -66 7058
+334 7059 -20
+139 -66 -20
+32 7061 7163
+285 7062 7070
+489 -23 7063
+335 -23 7064
+449 7065 7066
+31 -21 -23
+434 7067 7069
+674 -23 7068
+58 -23 -21
+585 -20 -21
+564 7071 7091
+404 -8 7072
+547 -8 7073
+615 7074 7077
+553 7075 7076
+63 -21 -8
+89 -23 -21
+339 7078 7079
+16 -23 -21
+1001 -23 7080
+268 7081 7087
+89 -8 -8
+836 -21 7083
+553 7084 7086
+5 7085 -8
+130 -8 -21
+315 -21 -8
+329 7088 7090
+318 -21 7089
+71 -21 -8
+144 -21 -8
+685 7092 7132
+29 7093 7095
+149 -23 7094
+44 -8 -21
+143 7096 7130
+339 -21 7097
+1067 -21 7098
+536 7099 7100
+4 -23 -21
+683 7101 7119
+907 7102 7103
+329 -8 -21
+308 -8 7104
+424 -21 7105
+327 -21 7106
+583 -21 7107
+662 -21 7108
+407 7109 7110
+128 -21 -8
+105 -8 7111
+442 -21 7112
+72 -8 -8
+54 -21 -8
+227 7115 7116
+16 -21 -8
+257 7117 7118
+403 -21 -8
+580 -21 -8
+411 7120 7123
+80 7121 -8
+26 -21 7122
+28 -21 -8
+171 7124 7125
+49 -8 -8
+419 7126 7128
+35 7127 -8
+4 -8 -21
+138 -21 7129
+938 -21 -8
+974 7131 -8
+12 -21 -8
+227 7133 7138
+637 -8 7134
+308 7135 7136
+44 -8 -21
+71 -21 7137
+55 -23 -21
+563 7139 7145
+27 -21 7140
+332 -21 7141
+15 -21 7142
+76 -23 7143
+135 -21 7144
+62 -21 -23
+432 7146 7150
+284 -8 7147
+234 7148 7149
+6 -8 -23
+48 -23 -21
+474 7151 7153
+143 7152 -23
+135 -23 -21
+29 7154 7158
+49 7155 7157
+15 -21 7156
+42 -21 -23
+60 -23 -21
+861 -66 7159
+12 7160 7161
+37 -66 -21
+88 7162 -21
+37 -23 -21
+756 7164 7328
+143 7165 7306
+504 7166 7173
+225 7167 7168
+149 -23 -8
+668 -21 7169
+339 -21 7170
+42 7171 -8
+76 -21 7172
+5 -8 -23
+666 7174 7176
+408 7175 -8
+29 -8 -20
+332 7177 7186
+239 -8 7178
+454 -8 7179
+388 -8 7180
+190 -23 7181
+556 7182 7184
+6 -8 7183
+16 -21 -23
+458 -23 7185
+869 -23 -21
+308 7187 7191
+45 7188 7190
+556 7189 -8
+6 -21 -8
+6 -21 -8
+118 7192 7202
+591 7193 7195
+539 -66 7194
+467 -21 -8
+182 7196 7197
+43 -21 -8
+417 7198 7200
+4 7199 -21
+35 -8 -66
+259 7201 -21
+80 -66 -21
+31 7203 7217
+285 -21 7204
+888 -8 7205
+453 -21 -21
+80 -21 -23
+195 -23 7208
+342 -8 7209
+324 -21 7210
+620 -21 7211
+295 -21 7212
+4 -8 7213
+79 -8 7214
+208 -8 7215
+124 7216 -21
+199 -21 -8
+896 7218 7223
+283 -8 7219
+62 -21 -21
+6 -8 -21
+447 7222 -21
+42 -21 -8
+202 7224 7229
+76 7225 7228
+6 -8 -8
+26 -21 7227
+49 -8 -21
+358 -23 -8
+247 7230 7236
+182 7231 7232
+35 -23 -8
+109 7233 7234
+30 -8 -21
+72 -21 7235
+652 -21 -8
+364 -21 7237
+103 7238 7253
+518 -23 7239
+661 7240 7242
+44 7241 -8
+329 -8 -21
+426 -8 -8
+137 7244 7245
+605 -23 -21
+376 7246 7247
+350 -8 -23
+212 -23 7248
+316 -21 7249
+769 -21 7250
+602 -21 7251
+48 -21 7252
+138 -21 -8
+126 7254 7256
+141 -23 7255
+53 -8 -21
+176 7257 7258
+109 -23 -8
+486 7259 7261
+16 7260 -23
+26 -21 -21
+729 -23 7262
+686 -21 7263
+528 7264 7267
+50 7265 -23
+412 7266 -8
+5 -21 -23
+824 7268 7272
+591 -8 7269
+200 -8 7270
+194 -21 7271
+60 -21 -23
+740 7273 7274
+89 -8 -23
+340 -21 7275
+456 -21 7276
+402 7277 7281
+199 7278 7279
+27 -8 -23
+6 7280 -21
+60 -21 -8
+225 7282 7283
+59 -23 -8
+111 7284 7285
+57 -8 -23
+541 7286 7288
+35 -21 7287
+49 -8 -23
+27 7289 7290
+68 -23 -8
+342 -8 7291
+823 -21 7292
+149 7293 7295
+284 7294 -21
+6 -21 -8
+173 -21 7296
+183 -8 -8
+197 -21 7298
+423 -21 7299
+465 7300 7302
+130 -21 7301
+16 -21 -8
+47 -21 7303
+108 -21 7304
+878 7305 -8
+4 -21 -8
+75 7307 7324
+321 -21 7308
+515 7309 7312
+27 -23 7310
+16 7311 -21
+69 -21 -8
+870 -8 -8
+113 7314 7323
+674 7315 7317
+141 -21 7316
+37 -8 -23
+487 7318 7320
+728 7319 -8
+16 -21 -23
+280 -21 7321
+47 7322 -8
+6 -8 -21
+1011 -21 -8
+118 7325 7327
+46 7326 -66
+37 -8 -66
+535 -21 -8
+225 7329 7352
+149 7330 7331
+432 -23 -8
+683 7332 7341
+504 7333 7334
+1 -66 -21
+486 7335 7336
+6 -8 -8
+129 7337 7340
+165 -23 7338
+17 -8 7339
+44 -23 -8
+167 -8 -23
+534 -20 7342
+75 -8 -8
+661 7344 7346
+504 -21 7345
+4 -66 -23
+31 -23 7347
+504 7348 -8
+72 -8 7349
+6 -20 -21
+486 -8 7351
+45 -66 -8
+490 7353 7368
+15 7354 7361
+489 7355 7359
+637 -8 -8
+79 7357 -66
+254 -20 -8
+188 -20 -8
+830 -8 7360
+68 -20 -66
+68 -20 7362
+435 -20 7363
+447 7364 7365
+536 -8 -20
+338 7366 -8
+309 7367 -8
+1 -66 -20
+206 7369 7374
+75 7370 7371
+1157 -66 -8
+12 7372 -66
+50 7373 -8
+26 -66 -8
+118 7375 7400
+365 7376 7377
+387 -66 -8
+435 7378 7380
+53 7379 -20
+420 -66 -20
+401 -90 7381
+726 -8 7382
+340 7383 7384
+717 -20 -20
+228 7385 7387
+1597 7386 -20
+16 -8 -8
+15 7388 7393
+202 -66 -66
+47 -66 -21
+124 -21 7391
+255 7392 -66
+122 -66 -20
+647 -21 -21
+692 -20 7395
+308 7396 7398
+92 -21 7397
+5 -8 -20
+4 7399 -21
+107 -66 -21
+536 7401 7423
+504 7402 7417
+308 7403 7406
+107 -20 -20
+6 7405 -20
+28 -20 -8
+539 7407 7408
+113 -8 -20
+5 7409 7414
+143 7410 -20
+218 -20 7411
+86 -20 7412
+613 -20 7413
+44 -21 -20
+172 -21 -21
+196 -21 -20
+193 -20 -21
+804 -8 7418
+12 -66 7419
+6 7420 7422
+516 -23 7421
+144 -23 -8
+17 -23 -23
+685 7424 7431
+391 7425 7430
+234 7426 7427
+49 -23 -20
+402 -20 7428
+12 -66 7429
+789 -66 -23
+726 -8 -21
+152 7432 7438
+228 7433 7434
+71 -23 -8
+311 -20 7435
+283 7436 7437
+103 -21 -8
+122 -21 -23
+804 7439 7450
+605 7440 7442
+563 -8 7441
+230 -66 -20
+435 -8 7443
+285 7444 7446
+113 7445 -20
+308 -20 -23
+204 -8 -8
+135 -8 7448
+391 -23 7449
+87 -23 -21
+75 7451 7517
+563 7452 7453
+31 -23 -8
+266 7454 7469
+5 7455 7461
+285 7456 7459
+43 7457 7458
+27 -23 -66
+129 -66 -20
+339 7460 -66
+71 -23 -20
+250 7462 7463
+196 -66 -20
+130 7464 7465
+31 -23 -8
+553 7466 7467
+16 -20 -66
+815 -20 7468
+27 -20 -23
+388 -23 7470
+338 7471 7476
+151 -20 7472
+412 -20 7473
+6 7474 7475
+103 -23 -8
+15 -66 -23
+1067 7477 7480
+391 -23 7478
+605 -20 7479
+5 -66 -23
+938 7481 7482
+391 -23 -20
+788 -23 7483
+390 7484 7485
+85 -21 -8
+73 7486 7488
+30 -20 7487
+401 -20 -8
+754 -20 -20
+534 7490 7492
+6 7491 -23
+37 -8 -20
+29 -21 7493
+564 7494 7496
+35 -8 7495
+5 -23 -20
+829 7497 7501
+285 7498 7500
+15 7499 -8
+31 -23 -66
+31 -21 -20
+489 7502 7503
+149 -20 -23
+1002 7504 7505
+5 -8 -23
+174 7506 7508
+85 7507 -20
+112 -23 -20
+463 7509 7511
+113 -20 7510
+69 -8 -20
+461 7512 7514
+60 -8 7513
+228 -8 -20
+949 -66 7515
+986 -66 7516
+1122 -66 -20
+336 -20 7518
+888 7519 7522
+520 7520 7521
+42 -23 -66
+130 -66 -20
+433 7523 7525
+432 -20 7524
+35 -66 -8
+878 7526 7527
+43 -8 -20
+204 -23 7528
+465 7529 7530
+46 -20 -66
+185 -20 -66
+415 7532 7571
+32 7533 7547
+31 7534 7535
+26 -23 -21
+718 -21 7536
+430 7537 7538
+72 -21 -23
+440 7539 7540
+259 -23 -21
+69 -23 7541
+605 7542 -8
+831 7543 7545
+17 -8 7544
+46 -21 -8
+88 7546 -8
+199 -21 -8
+149 7548 7552
+225 -8 7549
+69 7550 7551
+31 -21 -66
+118 -20 -23
+756 7553 7561
+117 -21 7554
+241 -23 7555
+223 -21 -21
+17 -8 -23
+436 -23 7558
+743 7559 7560
+1 -8 -23
+192 -8 -21
+353 7562 7566
+118 7563 -8
+444 7564 -21
+46 7565 -66
+6 -21 -20
+486 7567 7570
+117 -21 7568
+74 -20 7569
+27 -8 -23
+339 -23 -20
+1132 7572 7634
+553 7573 7578
+305 7574 7575
+151 -97 -100
+433 -63 7576
+511 -77 -77
+15 -133 -106
+1044 7579 7581
+366 7580 -59
+37 -59 -59
+179 7582 7610
+213 -63 -63
+317 -63 -59
+497 7585 7588
+462 -59 7586
+254 -59 7587
+1 -59 -63
+273 7589 7591
+4 7590 -63
+40 -59 -59
+255 7592 7594
+645 -63 7593
+315 -63 -59
+843 -59 7595
+410 7596 7597
+1 -63 -59
+45 7598 7605
+405 -59 7599
+485 -59 7600
+341 7601 7603
+15 7602 -59
+316 -59 -63
+96 7604 -63
+6 -59 -63
+1 7606 -63
+42 -63 7607
+35 -59 7608
+107 -59 7609
+56 -63 -59
+1043 7611 7623
+161 -63 7612
+78 -63 7613
+259 -63 7614
+199 -59 7615
+451 -63 7616
+16 -63 7617
+63 7618 -59
+254 -59 7619
+76 -63 7620
+17 -63 7621
+200 -63 7622
+468 -63 -59
+1232 -106 7624
+1842 -59 7625
+72 -133 7626
+305 7627 7630
+32 -63 7628
+85 7629 -77
+5 -63 -106
+552 7631 -63
+471 -155 7632
+392 7633 -63
+175 -63 -59
+389 7635 7638
+535 -41 7636
+230 7637 -3
+365 -3 -45
+230 7639 7699
+386 7640 -3
+35 7641 7666
+439 7642 7644
+42 -45 7643
+97 -45 -3
+562 -45 7645
+79 -3 7646
+43 -45 7647
+201 -3 7648
+880 -3 7649
+688 -3 7650
+443 7651 7652
+29 -45 -3
+176 7653 7655
+384 -3 7654
+326 -3 -45
+142 7656 7658
+196 7657 -3
+15 -3 -45
+28 7659 7660
+72 -45 -3
+285 7661 7665
+48 -3 7662
+273 7663 7664
+16 -3 -45
+146 -3 -45
+204 -3 -45
+416 7667 7673
+46 -3 7668
+494 -3 7669
+89 7670 7671
+73 -45 -3
+174 -3 7672
+282 -3 -45
+547 7674 7677
+154 -45 7675
+27 -45 7676
+247 -45 -3
+1563 7678 7680
+247 -45 -45
+59 -45 -3
+127 -3 -3
+43 -3 7682
+42 -3 -45
+251 7684 7685
+72 -3 -45
+309 7686 7688
+6 7687 -45
+44 -3 -45
+214 7689 7695
+370 7690 7691
+1299 -3 -45
+274 -45 7692
+739 7693 -3
+132 -3 7694
+66 -3 -45
+232 7696 7698
+146 -45 7697
+319 -45 -3
+153 -45 -3
+847 7700 7701
+386 -3 -28
+502 7702 7716
+401 -28 7703
+299 7704 7707
+118 7705 7706
+25 -3 -28
+27 -28 -3
+848 -28 7708
+854 7709 7710
+45 -3 -28
+474 7711 7712
+6 -122 -3
+1267 7713 7714
+15 -3 -28
+433 7715 -3
+125 -21 -3
+995 7717 7718
+75 -3 -45
+869 7719 7723
+285 7720 7721
+5 -3 -45
+658 7722 -3
+17 -3 -3
+1042 7724 7726
+35 7725 -3
+50 -28 -3
+685 7727 7729
+284 7728 -3
+35 -45 -3
+1041 7730 7731
+44 -28 -3
+1021 7732 -3
+73 7733 -3
+5 -3 -28

@@ -1,0 +1,1762 @@
+PART	_
+AUX	Mood=Ind	Tense=Past	VerbForm=Fin	Voice=Pass
+NOUN	Case=Par	Number=Sing	Style=Coll
+VERB	Mood=Imp	Number=Sing	Person=2	VerbForm=Fin	Voice=Act
+ADV	PronType=Dem
+PRON	Case=Nom	Number=Sing	PronType=Dem
+VERB	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+NOUN	Case=Ill	Number=Sing	Style=Coll
+PRON	Case=Nom	Number=Plur	Person=1	PronType=Prs
+VERB	Mood=Ind	Style=Coll	Tense=Past	VerbForm=Fin	Voice=Pass
+ADV	Style=Coll
+CCONJ	_
+NOUN	Case=Par	Number=Sing
+VERB	Number=Sing	Person=3	Polarity=Neg	VerbForm=Fin	Voice=Act
+PRON	Case=Nom	Number=Plur	PronType=Dem	Style=Coll
+VERB	Case=Nom	Number=Plur	PartForm=Past	Style=Coll	VerbForm=Part	Voice=Act
+VERB	Case=Lat	InfForm=1	VerbForm=Inf	Voice=Act
+PART	Style=Coll
+ADJ	Case=Ine	Number=Sing	Style=Coll
+VERB	Mood=Ind	Number=Sing	Person=3	Style=Coll	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Case=Ill	InfForm=3	VerbForm=Inf	Voice=Act
+SCONJ	_
+DET	Case=Par	PronType=Ind	Style=Coll
+DET	Case=Par	Number=Sing	PronType=Ind
+VERB	Connegative=Yes	Mood=Ind	Style=Coll	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Gen	Number=Sing	PronType=Ind
+ADP	Style=Coll
+VERB	Connegative=Yes	Mood=Ind	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Case=Lat	InfForm=1	Style=Coll	VerbForm=Inf	Voice=Act
+SCONJ	Style=Coll
+ADJ	Case=Par	Number=Sing	Style=Coll
+DET	Case=Par	Number=Plur	PronType=Dem	Style=Coll
+ADJ	Case=Par	Number=Plur	Style=Coll
+NOUN	Case=Par	Number=Plur	Style=Coll
+PUNCT	_
+NUM	Case=Nom	Number=Sing	NumType=Card	Style=Coll
+NOUN	Case=Nom	Number=Sing
+PRON	Case=Nom	Number=Sing	PronType=Rel
+PROPN	Case=Ine	Number=Sing	Style=Coll
+VERB	Case=Nom	Number=Sing	PartForm=Past	Style=Coll	VerbForm=Part	Voice=Act
+AUX	Mood=Ind	Style=Coll	Tense=Past	VerbForm=Fin	Voice=Pass
+ADV	_
+ADV	PronType=Dem	Style=Coll
+PRON	Case=Ill	Number=Sing	PronType=Dem	Style=Coll
+_	_
+PRON	Case=Nom	Number=Sing	PronType=Ind	Style=Coll
+VERB	Connegative=Yes	Mood=Cnd	Style=Coll	VerbForm=Fin	Voice=Act
+VERB	Mood=Imp	Number=Sing	Person=2	Style=Coll	VerbForm=Fin	Voice=Act
+NOUN	Case=Ela	Number=Sing	Style=Coll
+NOUN	Case=Gen	Number=Sing	Style=Coll
+NOUN	Case=Nom	Number=Plur
+VERB	Mood=Ind	Number=Plur	Person=3	Style=Coll	Tense=Pres	VerbForm=Fin	Voice=Act
+PROPN	Case=Nom	Number=Sing
+ADJ	Case=Tra	Number=Sing	Style=Coll
+NOUN	Case=Tra	Number=Sing
+VERB	Mood=Ind	Number=Plur	Person=1	Style=Coll	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Par	Number=Sing	PronType=Dem
+VERB	Mood=Cnd	Number=Plur	Person=1	Style=Coll	VerbForm=Fin	Voice=Act
+ADJ	Case=Par	Number=Sing	NumType=Ord
+DET	Case=Nom	PronType=Ind	Style=Coll
+PRON	Case=Nom	PronType=Ind
+NOUN	Case=Ade	Number=Sing	Style=Coll
+PRON	Case=Nom	Clitic=Kin	Number=Sing	Person=1	PronType=Prs	Style=Coll
+VERB	Mood=Ind	Number=Sing	Person=1	Style=Coll	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Case=Ine	InfForm=3	VerbForm=Inf	Voice=Act
+VERB	Mood=Ind	Number=Sing	Person=2	Tense=Pres	VerbForm=Fin	Voice=Act
+ADJ	_
+NOUN	Case=Gen	Number=Sing	Number[psor]=Sing	Person[psor]=2	Style=Coll
+DET	Case=Ela	Number=Sing	PronType=Dem	Style=Coll
+DET	Case=Ade	Number=Sing	PronType=Dem	Style=Coll
+PRON	Case=Nom	Number=Sing	Person=1	PronType=Prs	Style=Coll
+VERB	Mood=Ind	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+NOUN	Case=Par	Number=Plur
+VERB	Case=Ine	InfForm=3	Style=Coll	VerbForm=Inf	Voice=Act
+NOUN	Case=Ine	Number=Sing	Style=Coll
+ADJ	Case=Tra	Number=Sing	NumType=Ord	Style=Coll
+NOUN	Case=Tra	Number=Sing	Style=Coll
+VERB	Mood=Ind	Number=Sing	Person=3	Style=Coll	Tense=Past	VerbForm=Fin	Voice=Act
+PRON	Case=All	Number=Sing	Person=1	PronType=Prs	Style=Coll
+DET	Case=Par	Number=Sing	PronType=Dem	Style=Coll
+PRON	Case=Nom	Number=Sing	PronType=Dem	Style=Coll
+AUX	Mood=Ind	Number=Sing	Person=3	Style=Coll	Tense=Past	VerbForm=Fin	Voice=Act
+NOUN	Case=Nom	Number=Sing	Style=Coll
+NOUN	Case=Ess	Number=Sing	Style=Coll
+VERB	Case=Lat	Clitic=Kin	InfForm=1	Style=Coll	VerbForm=Inf	Voice=Act
+PRON	Case=Ade	Number=Sing	Person=1	PronType=Prs	Style=Coll
+VERB	Mood=Ind	Style=Coll	Tense=Pres	VerbForm=Fin	Voice=Pass
+VERB	Case=Ill	InfForm=3	Style=Coll	VerbForm=Inf	Voice=Act
+PRON	Case=Gen	Number=Sing	PronType=Dem
+VERB	Mood=Imp	Number=Sing	Person=2	Polarity=Neg	VerbForm=Fin	Voice=Act
+NOUN	Case=Ine	Number=Plur
+NOUN	Case=Gen	Number=Sing
+ADP	_
+DET	Case=Par	Number=Plur	PronType=Ind
+ADJ	Case=Par	Number=Plur
+VERB	Case=Nom	Number=Sing	PartForm=Pres	VerbForm=Part	Voice=Act
+DET	Case=Nom	Number=Sing	PronType=Dem
+AUX	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+ADJ	Case=Nom	Degree=Sup	Number=Sing
+VERB	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+VERB	Case=Nom	Number=Sing	PartForm=Past	VerbForm=Part	Voice=Pass
+ADJ	Case=Ins	Number=Plur
+NOUN	Case=Ins	Number=Plur
+VERB	Mood=Ind	Number=Sing	Person=1	Tense=Past	VerbForm=Fin	Voice=Act
+PRON	Case=Gen	Number=Sing	Person=3	PronType=Prs
+VERB	Case=Gen	Number=Sing	PartForm=Pres	VerbForm=Part	Voice=Act
+VERB	Case=Gen	Number=Sing	PartForm=Past	VerbForm=Part	Voice=Act
+VERB	Case=Par	Number=Sing	PartForm=Past	Person[psor]=3	VerbForm=Part	Voice=Pass
+PRON	Case=Nom	Number=Sing	Person=3	PronType=Prs
+VERB	Case=Ess	Number=Plur	PartForm=Pres	Person[psor]=3	VerbForm=Part	Voice=Act
+VERB	Person[psor]=3	VerbForm=Inf	Voice=Act
+ADJ	Case=Ade	Number=Sing	NumType=Ord	Style=Coll
+NOUN	Case=Ade	Number=Sing
+PRON	Case=Nom	Number=Plur	PronType=Dem
+PRON	Case=Ine	Clitic=Han	Number=Sing	PronType=Dem	Style=Coll
+ADV	PronType=Ind	Style=Coll
+VERB	Case=Nom	Number=Sing	PartForm=Past	VerbForm=Part	Voice=Act
+DET	Case=Ine	Number=Sing	PronType=Dem	Style=Coll
+PRON	Case=Nom	Number=Sing	Person=2	PronType=Prs
+VERB	Case=Abe	InfForm=3	Style=Coll	VerbForm=Inf	Voice=Act
+VERB	Clitic=Han	Number=Sing	Person=3	Polarity=Neg	Style=Coll	VerbForm=Fin	Voice=Act
+NOUN	Case=Abe	Number=Sing	Style=Coll
+NOUN	Case=Gen	Number=Plur	Style=Arch
+PROPN	Case=Gen	Number=Sing
+NUM	NumType=Card
+DET	Case=Par	Number=Sing	PronType=Dem
+PRON	Case=All	Number=Plur	PronType=Ind
+ADJ	Case=Par	Number=Sing
+PRON	Case=Nom	Number=Plur	PronType=Rel
+VERB	Mood=Ind	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+ADJ	Case=Nom	Number=Sing
+VERB	Case=Ins	InfForm=2	VerbForm=Inf	Voice=Act
+VERB	Case=Par	Number=Plur	PartForm=Pres	VerbForm=Part	Voice=Act
+NOUN	Case=Ill	Number=Sing
+AUX	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+ADJ	Case=Gen	Number=Sing
+PRON	Case=Ine	Number=Sing	PronType=Dem
+DET	Case=Par	PronType=Ind
+AUX	Case=Nom	Number=Sing	PartForm=Past	VerbForm=Part	Voice=Act
+DET	Case=Ess	Number=Sing	PronType=Dem
+NOUN	Case=Ess	Number=Sing
+VERB	Mood=Ind	Tense=Past	VerbForm=Fin	Voice=Pass
+PRON	Case=Ill	Number=Sing	PronType=Dem
+NOUN	Case=Ade	Number=Plur	Style=Coll
+VERB	Connegative=Yes	Mood=Ind	Number=Sing	Style=Coll	Tense=Past	VerbForm=Fin	Voice=Act
+VERB	Mood=Ind	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+DET	Case=Gen	Number=Sing	Person=3	PronType=Prs
+NOUN	Case=Gen	Number=Sing	Person[psor]=3
+NOUN	Case=Gen	Number=Plur	Number[psor]=Plur	Person[psor]=1
+NOUN	Case=Nom	Number=Sing	Number[psor]=Sing	Person[psor]=1
+NUM	Case=Nom	Number=Sing	NumType=Card
+NOUN	Case=Gen	Number=Sing	Number[psor]=Sing	Person[psor]=1
+VERB	Clitic=Ko	Mood=Ind	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+DET	Case=Gen	Number=Sing	Person=2	PronType=Prs
+NOUN	Case=Ill	Number=Sing	Number[psor]=Sing	Person[psor]=2
+VERB	Mood=Ind	Number=Plur	Person=1	Tense=Past	VerbForm=Fin	Voice=Act
+ADJ	Case=Ill	Number=Plur
+NOUN	Case=Ill	Number=Plur	Number[psor]=Plur	Person[psor]=1
+NOUN	Case=Ill	Number=Sing	Person[psor]=3
+NOUN	Case=Par	Number=Sing	Person[psor]=3
+VERB	Mood=Ind	Number=Sing	Person=2	Tense=Past	VerbForm=Fin	Voice=Act
+NOUN	Case=Tra	Number=Sing	Number[psor]=Plur	Person[psor]=1
+NOUN	Case=Gen	Number=Sing	Person[psor]=3	Style=Coll
+DET	Case=Gen	Number=Sing	Person=1	PronType=Prs	Style=Coll
+ADJ	Case=Nom	Number=Sing	Number[psor]=Sing	Person[psor]=1	Style=Coll
+NOUN	Case=Tra	Number=Sing	Number[psor]=Sing	Person[psor]=2	Style=Coll
+DET	Case=Gen	Number=Sing	Person=1	PronType=Prs
+PRON	Case=Nom	Clitic=Ko	Number=Sing	PronType=Dem
+DET	Case=Gen	Number=Plur	Person=2	PronType=Prs
+NOUN	Case=Nom	Number=Sing	Number[psor]=Plur	Person[psor]=2
+ADJ	Case=Nom	Number=Plur
+NOUN	Case=Nom	Number=Plur	Number[psor]=Sing	Person[psor]=2
+NOUN	Case=Abl	Number=Sing
+NOUN	Case=Com	Person[psor]=3
+ADJ	Case=Com
+DET	Case=Com	PronType=Dem
+NOUN	Case=Com	Number[psor]=Sing	Person[psor]=1
+VERB	Case=Ine	InfForm=2	Number[psor]=Sing	Person[psor]=1	VerbForm=Inf	Voice=Act
+AUX	Case=Nom	Number=Sing	PartForm=Pres	VerbForm=Part	Voice=Pass
+VERB	Case=Tra	InfForm=1	Person[psor]=3	VerbForm=Inf	Voice=Act
+ADJ	Case=Par	Degree=Cmp	Number=Sing
+VERB	Case=Par	Number=Sing	PartForm=Pres	VerbForm=Part	Voice=Pass
+AUX	Clitic=Ko	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Gen	Number=Sing	Person=2	PronType=Prs
+VERB	Case=Nom	Number=Sing	Number[psor]=Sing	PartForm=Agt	Person[psor]=2	VerbForm=Part
+ADJ	Case=Nom	Number=Sing	Number[psor]=Sing	Person[psor]=1
+AUX	Mood=Ind	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+ADJ	Case=Par	Number=Plur	Number[psor]=Sing	Person[psor]=1
+NOUN	Case=Ela	Number=Sing
+ADV	Person[psor]=3
+ADV	Number[psor]=Sing	Person[psor]=1
+VERB	Number=Sing	Person=1	Polarity=Neg	VerbForm=Fin	Voice=Act
+VERB	Connegative=Yes	Mood=Ind	Number=Sing	Tense=Past	VerbForm=Fin	Voice=Act
+PRON	Case=Par	Number=Sing	Person=3	PronType=Prs
+ADJ	Case=Gen	Degree=Cmp	Number=Sing	Person[psor]=3
+ADJ	Case=Ess	Number=Sing
+ADV	Degree=Sup	Person[psor]=3
+VERB	Clitic=Ka	Number=Sing	Person=3	Polarity=Neg	VerbForm=Fin	Voice=Act
+PRON	Case=Ade	Number=Sing	Person=3	PronType=Prs	Style=Coll
+PRON	Case=Ade	Number=Sing	Person[psor]=3	Reflex=Yes
+DET	Case=Par	PronType=Int
+DET	Case=Ine	PronType=Int
+NOUN	Case=Ine	Number=Sing
+VERB	Mood=Cnd	Number=Sing	Person=2	VerbForm=Fin	Voice=Act
+DET	Case=Par	Number=Sing	PronType=Int
+PRON	Case=Par	Number=Plur	PronType=Ind	Style=Coll
+PRON	Case=Par	Number=Plur	PronType=Dem	Style=Coll
+PRON	Case=Nom	Number=Sing	PronType=Rel	Style=Coll
+PRON	Case=Ela	Number=Sing	PronType=Dem
+ADJ	Case=Ela	Number=Sing
+PRON	Case=Par	PronType=Ind
+VERB	Mood=Ind	Number=Plur	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+PRON	Case=Par	Number=Plur	Person[psor]=3	PronType=Rcp
+PRON	Case=Nom	Number=Plur	Person=3	PronType=Prs
+PRON	Case=Gen	Number=Sing	Person[psor]=3	PronType=Rcp
+NOUN	Case=Ill	Number=Plur
+PRON	Case=Ine	Number=Plur	PronType=Rel
+VERB	Case=Gen	Number=Sing	PartForm=Pres	Person[psor]=3	VerbForm=Part	Voice=Act
+PRON	Case=Nom	Number=Sing	PronType=Ind
+PRON	Case=Ela	Number=Plur	Person[psor]=3	PronType=Rcp
+DET	Case=Ade	Number=Sing	PronType=Ind
+PRON	Case=Ela	Number=Sing	Person[psor]=3	Reflex=Yes
+VERB	Connegative=Yes	Mood=Pot	VerbForm=Fin	Voice=Act
+VERB	Mood=Cnd	Number=Sing	Person=1	VerbForm=Fin	Voice=Act
+VERB	Mood=Pot	Number=Sing	Person=1	VerbForm=Fin	Voice=Act
+VERB	Connegative=Yes	Mood=Cnd	VerbForm=Fin	Voice=Act
+VERB	Connegative=Yes	Mood=Ind	Tense=Pres	VerbForm=Fin	Voice=Pass
+VERB	Connegative=Yes	Mood=Cnd	VerbForm=Fin	Voice=Pass
+VERB	Connegative=Yes	Mood=Pot	VerbForm=Fin	Voice=Pass
+VERB	Mood=Cnd	Number=Sing	Person=3	VerbForm=Fin	Voice=Act
+VERB	Mood=Pot	Number=Sing	Person=3	VerbForm=Fin	Voice=Act
+VERB	Mood=Ind	Number=Plur	Person=1	Style=Coll	Tense=Past	VerbForm=Fin	Voice=Act
+DET	Case=Ill	Clitic=Ka,S	PronType=Int
+PRON	Case=Nom	Number=Plur	Person=2	PronType=Prs	Style=Coll
+VERB	Mood=Ind	Number=Plur	Person=2	Style=Coll	Tense=Past	VerbForm=Fin	Voice=Act
+ADJ	Case=Par	Number=Sing	PronType=Dem	Style=Coll
+NOUN	Case=Nom	Number=Plur	Style=Coll
+NOUN	Case=Ade	Number=Plur
+ADJ	Case=Nom	Number=Plur	Style=Coll
+VERB	Mood=Ind	Number=Plur	Person=3	Style=Coll	Tense=Past	VerbForm=Fin	Voice=Act
+PRON	Case=Par	PronType=Int
+NOUN	Case=Ine	Number=Plur	Style=Coll
+VERB	Number=Plur	Person=2	Polarity=Neg	VerbForm=Fin	Voice=Act
+VERB	Number=Plur	Person=1	Polarity=Neg	VerbForm=Fin	Voice=Act
+VERB	Connegative=Yes	Mood=Ind	Number=Plur	Tense=Past	VerbForm=Fin	Voice=Act
+VERB	Connegative=Yes	Mood=Ind	Tense=Past	VerbForm=Fin	Voice=Pass
+VERB	Case=Nom	Number=Plur	PartForm=Past	VerbForm=Part	Voice=Act
+VERB	Number=Plur	Person=3	Polarity=Neg	VerbForm=Fin	Voice=Act
+VERB	Number=Sing	Person=2	Polarity=Neg	VerbForm=Fin	Voice=Act
+VERB	Mood=Imp	Number=Plur	Person=2	Polarity=Neg	VerbForm=Fin	Voice=Act
+VERB	Connegative=Yes	Mood=Imp	VerbForm=Fin	Voice=Act
+VERB	Mood=Imp	Number=Plur	Person=3	Polarity=Neg	VerbForm=Fin	Voice=Act
+VERB	Mood=Imp	Number=Plur	Person=1	Polarity=Neg	VerbForm=Fin	Voice=Act
+VERB	Mood=Imp	Number=Sing	Person=3	Polarity=Neg	VerbForm=Fin	Voice=Act
+VERB	Connegative=Yes	Mood=Imp	VerbForm=Fin	Voice=Pass
+VERB	Mood=Ind	Number=Sing	Person=1	Style=Coll	Tense=Past	VerbForm=Fin	Voice=Act
+DET	Case=Nom	PronType=Ind
+VERB	Case=Ill	Number=Sing	PartForm=Pres	VerbForm=Part	Voice=Pass
+ADJ	Case=Ill	Number=Sing	NumType=Ord
+DET	Case=Gen	Clitic=Kin	Number=Plur	PronType=Dem
+NOUN	Case=Gen	Number=Plur
+PROPN	Case=Ine	Number=Sing
+DET	Case=Nom	Number=Sing	PronType=Dem	Style=Coll
+DET	Case=Nom	Number=Sing	PronType=Int
+VERB	Mood=Opt	Number=Sing	Person=2	VerbForm=Fin	Voice=Act
+AUX	Mood=Opt	Number=Sing	Person=2	VerbForm=Fin	Voice=Act
+VERB	Mood=Cnd	Number=Sing	Person=3	Style=Coll	VerbForm=Fin	Voice=Act
+AUX	Clitic=Ko	Mood=Cnd	Number=Sing	Person=3	Style=Coll	VerbForm=Fin	Voice=Act
+ADJ	Case=Nom	Degree=Cmp	Number=Sing
+PRON	Case=Nom	Number=Sing	Person=2	PronType=Prs	Style=Coll
+VERB	Mood=Cnd	Number=Sing	Person=2	Style=Coll	VerbForm=Fin	Voice=Act
+VERB	Mood=Cnd	Number=Sing	Person=1	Style=Coll	VerbForm=Fin	Voice=Act
+DET	PronType=Ind
+ADV	Degree=Cmp
+VERB	Mood=Cnd	Style=Coll	VerbForm=Fin	Voice=Pass
+VERB	Clitic=Ko	Mood=Cnd	Number=Sing	Person=3	Style=Coll	VerbForm=Fin	Voice=Act
+ADV	PronType=Int	Style=Coll
+VERB	Connegative=Yes	Mood=Cnd	Style=Coll	VerbForm=Fin	Voice=Pass
+VERB	Clitic=Han,Ko	Mood=Ind	Number=Sing	Person=3	Style=Coll	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Connegative=Yes	Mood=Pot	Style=Coll	VerbForm=Fin	Voice=Act
+AUX	Case=Ill	InfForm=3	VerbForm=Inf	Voice=Act
+DET	Case=Nom	Number=Sing	PronType=Ind
+NOUN	Case=All	Number=Plur
+PRON	Case=Nom	Clitic=Kin	Number=Sing	PronType=Dem
+VERB	Mood=Pot	Number=Sing	Person=3	Style=Coll	VerbForm=Fin	Voice=Act
+ADJ	Case=Tra	Number=Sing
+VERB	Mood=Imp	VerbForm=Fin	Voice=Pass
+VERB	Case=Ins	InfForm=3	VerbForm=Inf	Voice=Pass
+AUX	Case=Ill	InfForm=3	Style=Coll	VerbForm=Inf	Voice=Act
+ADV	PronType=Int
+INTJ	_
+PRON	Case=Gen	Number=Sing	Person=1	PronType=Prs	Style=Coll
+DET	Case=Ill	PronType=Int	Style=Coll
+PRON	Case=Abl	Number=Sing	PronType=Dem	Style=Coll
+VERB	Mood=Imp	Number=Plur	Person=2	Style=Coll	VerbForm=Fin	Voice=Act
+VERB	Case=Nom	Number=Sing	PartForm=Past	Style=Coll	VerbForm=Part	Voice=Pass
+VERB	Clitic=Ka	Number=Sing	Person=1	Polarity=Neg	VerbForm=Fin	Voice=Act
+DET	Case=Gen	Number=Sing	PronType=Dem
+VERB	Clitic=Han	Number=Sing	Person=3	Polarity=Neg	VerbForm=Fin	Voice=Act
+PRON	Case=Par	Number=Sing	Person[psor]=3	Reflex=Yes	Style=Coll
+X	_
+PRON	Case=Par	Number=Sing	PronType=Dem	Style=Coll
+PRON	Case=Ela	Clitic=Kaan	Number=Sing	PronType=Dem
+VERB	Clitic=Han	Mood=Imp	Number=Sing	Person=2	Polarity=Neg	VerbForm=Fin	Voice=Act
+PROPN	Case=Nom	Clitic=Kin	Number=Sing
+PRON	Case=Nom	Number=Sing	Person=1	PronType=Prs
+VERB	Clitic=Kin	Mood=Ind	Number=Sing	Person=1	Style=Coll	Tense=Past	VerbForm=Fin	Voice=Act
+NOUN	Case=All	Clitic=Kin	Number=Sing	Style=Coll
+DET	Case=Ade	Number=Sing	PronType=Ind	Style=Coll
+VERB	Clitic=Kin	Mood=Ind	Number=Sing	Person=3	Style=Coll	Tense=Past	VerbForm=Fin	Voice=Act
+VERB	Number=Sing	Person=1	Polarity=Neg	Style=Coll	VerbForm=Fin	Voice=Act
+PRON	Case=Nom	Clitic=Kaan	Number=Sing	Person=1	PronType=Prs	Style=Coll
+PRON	Case=Nom	Clitic=Kaan	Number=Sing	PronType=Ind	Style=Coll
+DET	Case=Par	Clitic=Kaan	Number=Sing	PronType=Dem	Style=Coll
+NOUN	Case=Ade	Clitic=Han	Number=Plur	Style=Coll
+NOUN	Case=Ine	Clitic=Han	Number=Sing	Style=Coll
+DET	Case=Nom	Number=Plur	PronType=Dem
+VERB	Clitic=Ko	Mood=Ind	Number=Sing	Person=3	Style=Coll	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Ade	Number=Plur	Person=2	PronType=Prs	Style=Coll
+AUX	Case=Nom	Number=Sing	PartForm=Past	Style=Coll	VerbForm=Part	Voice=Act
+VERB	Clitic=Ko	Mood=Ind	Number=Sing	Person=1	Style=Coll	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Clitic=Ko	Mood=Ind	Number=Sing	Person=2	Style=Coll	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Nom	Clitic=Han,Ko	Number=Sing	PronType=Int
+VERB	Clitic=Ko,S	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Clitic=Han,Pa	Number=Sing	Person=3	Polarity=Neg	VerbForm=Fin	Voice=Act
+AUX	Connegative=Yes	Mood=Ind	Tense=Pres	VerbForm=Fin	Voice=Act
+NOUN	Case=Ade	Clitic=Kin,Ko	Number=Sing
+NOUN	Case=Ade	Clitic=Kaan,Ko	Number=Sing
+PRON	Case=Par	Clitic=Kaan,Ko	Number=Sing	PronType=Dem
+VERB	Clitic=Kaan	Mood=Ind	Number=Sing	Person=2	Tense=Past	VerbForm=Fin	Voice=Act
+VERB	Clitic=Kaan,Ko	Mood=Ind	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Case=Nom	Clitic=Kaan	Number=Sing	PartForm=Past	VerbForm=Part	Voice=Act
+VERB	Clitic=Pa	Number=Sing	Person=3	Polarity=Neg	VerbForm=Fin	Voice=Act
+PRON	Case=Ade	Number=Plur	Person=1	PronType=Prs
+VERB	Case=Nom	Clitic=Kaan	Number=Sing	PartForm=Past	VerbForm=Part	Voice=Pass
+VERB	Clitic=Han	Mood=Imp	Number=Sing	Person=2	VerbForm=Fin	Voice=Act
+AUX	Clitic=Pa,S	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+AUX	Clitic=Pa	Mood=Ind	Number=Sing	Person=2	Tense=Pres	VerbForm=Fin	Voice=Act
+PROPN	Case=Nom	Clitic=Han	Number=Sing
+NOUN	Case=Nom	Clitic=Han	Number=Sing
+PRON	Case=Nom	Clitic=Pa	Number=Sing	PronType=Dem
+ADV	Clitic=Ko
+VERB	Clitic=Han,Ko	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Clitic=Ka	Mood=Imp	Number=Sing	Person=2	Polarity=Neg	VerbForm=Fin	Voice=Act
+VERB	Case=Ill	Clitic=Ko	InfForm=3	VerbForm=Inf	Voice=Act
+PRON	Case=Ela	Clitic=Pa	Number=Sing	PronType=Dem
+AUX	Clitic=Kin	Mood=Ind	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Mood=Ind	Tense=Pres	VerbForm=Fin	Voice=Pass
+NOUN	Case=Ela	Number=Plur
+VERB	Case=Ela	Number=Plur	PartForm=Past	VerbForm=Part	Voice=Pass
+NOUN	Case=Ela	Clitic=Ko	Number=Plur
+VERB	Case=Nom	Clitic=Ko	Number=Sing	PartForm=Past	Style=Coll	VerbForm=Part	Voice=Act
+ADJ	Case=Ade	Number=Sing	NumType=Ord
+NOUN	Case=Ade	Clitic=Ko	Number=Sing
+PRON	Case=Nom	Number=Sing	PronType=Int
+ADP	Clitic=Han
+NOUN	Case=Ela	Clitic=Han	Number=Plur
+PROPN	Case=Ill	Number=Sing
+PRON	Case=Ela	Clitic=Han	Number=Sing	PronType=Dem
+PROPN	Case=Ill	Clitic=Kin	Number=Sing
+NUM	Case=Gen	Clitic=Kin	Number=Sing	NumType=Card
+NOUN	Case=Ela	Clitic=Ko	Number=Sing
+PRON	Case=Par	Number=Plur	PronType=Dem
+DET	Case=Ill	Clitic=Ko	Number=Sing	PronType=Int
+ADJ	Case=Gen	Clitic=Kin	Number=Sing
+DET	Case=Nom	Clitic=Kaan	Number=Sing	PronType=Dem
+DET	Case=Gen	Clitic=Han	Number=Sing	Person=1	PronType=Prs
+ADJ	Case=Ela	Clitic=Ko	Number=Plur
+NOUN	Case=Par	Clitic=Ko	Number=Sing
+PRON	Case=Ela	Number=Plur	Person=1	PronType=Prs
+VERB	Case=Ine	Number=Plur	PartForm=Pres	VerbForm=Part	Voice=Act
+NOUN	Case=Ine	Clitic=Ko	Number=Plur
+PRON	Case=All	Number=Plur	Person=1	PronType=Prs
+ADJ	Case=Ine	Number=Plur
+VERB	Case=Gen	Number=Sing	PartForm=Past	VerbForm=Part	Voice=Pass
+NOUN	Case=Nom	Clitic=Ko	Number=Sing
+NOUN	Case=Par	Number=Sing	Number[psor]=Plur	Person[psor]=1
+NOUN	Case=Ess	Number=Plur
+ADJ	Case=Gen	Number=Plur
+NOUN	Case=Par	Clitic=Kin	Number=Sing
+NOUN	Case=Par	Clitic=Kaan	Number=Sing
+PROPN	Abbr=Yes	Case=Par	Number=Sing
+PROPN	Case=Par	Number=Sing
+VERB	Case=Par	Number=Sing	PartForm=Pres	VerbForm=Part	Voice=Act
+VERB	Case=Lat	Clitic=Ko	InfForm=1	VerbForm=Inf	Voice=Act
+VERB	Clitic=Ko	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Case=Ine	InfForm=2	VerbForm=Inf	Voice=Pass
+VERB	Clitic=Ko	Number=Sing	Person=3	Polarity=Neg	VerbForm=Fin	Voice=Act
+VERB	Clitic=Pa	Mood=Imp	Number=Plur	Person=2	VerbForm=Fin	Voice=Act
+NOUN	Case=Nom	Number=Plur	Number[psor]=Plur	Person[psor]=2
+VERB	Case=Ela	Number=Sing	PartForm=Pres	VerbForm=Part	Voice=Act
+PRON	Case=Ade	Degree=Sup	Number=Plur	PronType=Ind
+AUX	Clitic=Pa	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+ADV	PronType=Ind
+VERB	Clitic=Pa	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+VERB	Clitic=Ko	Mood=Cnd	Number=Sing	Person=1	VerbForm=Fin	Voice=Act
+PRON	Case=Abl	PronType=Int
+ADJ	Case=Abl	Clitic=Ko	Number=Sing
+ADJ	Case=Abl	Number=Sing
+ADJ	Case=Nom	Clitic=Kin	Number=Plur
+NOUN	Case=Par	Clitic=Kaan	Number=Plur
+VERB	Clitic=Kaan	Connegative=Yes	Mood=Ind	Tense=Pres	VerbForm=Fin	Voice=Act
+NUM	Case=Par	Number=Sing	NumType=Card
+VERB	Number=Plur	Person=3	Polarity=Neg	Style=Coll	VerbForm=Fin	Voice=Act
+ADV	Clitic=Pa	PronType=Int
+ADV	Clitic=Han	PronType=Int
+CCONJ	Style=Coll
+AUX	Clitic=Pa	Number=Sing	Person=3	Polarity=Neg	Style=Coll	VerbForm=Fin	Voice=Act
+PRON	Case=Par	Number=Sing	PronType=Ind
+AUX	Clitic=Pa	Number=Sing	Person=3	Polarity=Neg	VerbForm=Fin	Voice=Act
+AUX	Connegative=Yes	Mood=Cnd	VerbForm=Fin	Voice=Act
+VERB	Clitic=Ko	Number=Sing	Person=2	Polarity=Neg	Style=Coll	VerbForm=Fin	Voice=Act
+PRON	Case=Par	Number=Sing	Person=1	PronType=Prs	Style=Coll
+PRON	Case=Par	PronType=Int	Style=Coll
+VERB	Mood=Ind	Number=Sing	Person=2	Style=Coll	Tense=Pres	VerbForm=Fin	Voice=Act
+PROPN	Case=Ela	Number=Sing
+VERB	Clitic=Ko	Mood=Ind	Number=Plur	Person=2	Style=Coll	Tense=Pres	VerbForm=Fin	Voice=Act
+AUX	Clitic=Ko	Mood=Ind	Number=Sing	Person=3	Style=Coll	Tense=Pres	VerbForm=Fin	Voice=Act
+ADJ	Case=Par	Degree=Sup	Number=Plur
+NOUN	Case=Gen	Clitic=Kin	Number=Sing
+DET	Case=Ela	Number=Sing	PronType=Ind
+NOUN	Case=Ela	Number=Sing	Person[psor]=3
+PUNCT	PunctSide=Ini
+PUNCT	PunctSide=Fin
+DET	Case=Nom	Degree=Sup	Number=Plur	PronType=Ind
+PRON	Case=Gen	Number=Sing	Person[psor]=3	Reflex=Yes
+VERB	Case=Tra	Number=Sing	PartForm=Past	VerbForm=Part	Voice=Act
+VERB	Case=Nom	Number=Sing	PartForm=Pres	VerbForm=Part	Voice=Pass
+NOUN	Case=Ela	Clitic=Kin	Number=Sing
+DET	Case=Ela	Number=Sing	PronType=Dem
+PRON	Case=Ade	Number=Sing	Person=1	PronType=Prs
+PROPN	Case=Ine	Clitic=Kin	Number=Sing
+VERB	Case=Ill	Number=Plur	PartForm=Agt	VerbForm=Part
+AUX	Clitic=Kaan	Connegative=Yes	Mood=Ind	Number=Sing	Tense=Past	VerbForm=Fin	Voice=Act
+NOUN	Case=Nom	Number=Sing	Person[psor]=3
+VERB	Case=Ess	Number=Sing	PartForm=Past	VerbForm=Part	Voice=Pass
+PROPN	Case=Ine	Number=Plur
+NOUN	Case=All	Number=Sing
+ADJ	Case=Ill	Number=Sing
+NOUN	Case=Tra	Number=Sing	Person[psor]=3
+DET	Case=Ade	Number=Plur	PronType=Ind
+DET	Case=Nom	Clitic=Kin	Degree=Cmp	Number=Sing	PronType=Ind
+PRON	Case=Par	Number=Sing	PronType=Rel
+PRON	Case=Nom	Number=Plur	PronType=Ind
+VERB	Clitic=Ko	Mood=Cnd	Number=Sing	Person=3	VerbForm=Fin	Voice=Act
+PROPN	Case=Ade	Number=Sing
+PROPN	Case=Abl	Number=Sing
+NOUN	Case=Nom	Clitic=Kin	Number=Plur
+ADJ	Case=Ela	Clitic=Kin	Number=Sing
+PRON	Case=Ill	Number=Plur	PronType=Rel
+PRON	Case=Gen	Number=Plur	Person=3	PronType=Prs
+NOUN	Case=Nom	Number=Plur	Person[psor]=3
+ADJ	Case=Ela	Number=Plur
+VERB	Case=Nom	Number=Sing	PartForm=Agt	VerbForm=Part
+PRON	Case=All	Number=Sing	Person=2	PronType=Prs
+DET	Case=Gen	Number=Sing	PronType=Ind
+PROPN	Case=Nom	Number=Sing	Number[psor]=Sing	Person[psor]=1
+NOUN	Case=Par	Number=Sing	Person[psor]=3	Style=Coll
+ADJ	Case=Par	Number=Plur	PronType=Ind
+DET	Case=Ine	Number=Sing	PronType=Ind
+ADV	Clitic=Kin
+VERB	Case=Ade	Number=Plur	PartForm=Past	VerbForm=Part	Voice=Pass
+ADJ	Case=Ine	Number=Sing
+PART	Abbr=Yes
+NOUN	Case=Par	Number=Plur	Number[psor]=Plur	Person[psor]=1
+ADJ	Case=Ade	Number=Sing
+NOUN	Case=Abl	Number=Sing	Person[psor]=3
+VERB	Case=Par	Number=Sing	PartForm=Neg	VerbForm=Part
+PROPN	Case=Nom	Number=Plur
+PRON	Case=Nom	Number=Sing	Reflex=Yes
+DET	Case=Gen	Number=Plur	PronType=Ind
+VERB	Case=Gen	Number=Plur	PartForm=Past	VerbForm=Part	Voice=Act
+NOUN	Case=Ela	Number=Sing	Number[psor]=Sing	Person[psor]=1
+VERB	Case=Par	Number=Sing	PartForm=Agt	VerbForm=Part
+VERB	Case=Nom	Clitic=Kin	Number=Sing	PartForm=Past	VerbForm=Part	Voice=Pass
+VERB	Case=Tra	Number=Sing	PartForm=Pres	VerbForm=Part	Voice=Pass
+VERB	Case=Gen	Number=Sing	PartForm=Pres	VerbForm=Part	Voice=Pass
+VERB	Case=Gen	Number=Plur	PartForm=Pres	VerbForm=Part	Voice=Act
+ADJ	Case=Nom	Number=Sing	NumType=Ord
+VERB	Case=Ade	InfForm=3	VerbForm=Inf	Voice=Act
+NOUN	Case=Ade	Number=Sing	Person[psor]=3
+AUX	Case=Lat	InfForm=1	VerbForm=Inf	Voice=Act
+ADV	Clitic=Kin	PronType=Ind
+PRON	Case=Ine	Number=Sing	PronType=Rel
+NOUN	Case=Nom	Clitic=Kaan	Number=Sing
+NOUN	Case=Par	Number=Plur	Number[psor]=Sing	Person[psor]=1
+NOUN	Case=Gen	Clitic=Kin	Number=Plur
+PRON	Case=All	Number=Sing	PronType=Ind
+PRON	Case=Ela	Number=Sing	PronType=Rel
+VERB	Case=Gen	Number=Sing	Number[psor]=Sing	PartForm=Agt	Person[psor]=1	VerbForm=Part
+PROPN	Abbr=Yes	Case=Gen	Number=Sing
+VERB	Case=Ela	Number=Sing	PartForm=Agt	Person[psor]=3	VerbForm=Part
+VERB	Case=Gen	Number=Sing	PartForm=Agt	Person[psor]=3	VerbForm=Part
+VERB	Case=Ill	Number=Sing	PartForm=Agt	VerbForm=Part
+DET	Case=Abl	Number=Sing	PronType=Ind
+VERB	Mood=Ind	Number=Plur	Person=2	Tense=Past	VerbForm=Fin	Voice=Act
+VERB	Case=Gen	Number=Sing	Number[psor]=Plur	PartForm=Pres	Person[psor]=2	VerbForm=Part	Voice=Act
+ADV	PronType=Rel
+ADJ	Case=Ade	Number=Plur
+PRON	Case=Ela	Number=Sing	PronType=Ind
+VERB	Case=Ine	InfForm=2	Person[psor]=3	VerbForm=Inf	Voice=Act
+NOUN	Case=Abl	Number=Plur
+NOUN	Case=Ade	Clitic=Kin	Number=Sing
+NOUN	Case=Tra	Clitic=Kin	Number=Plur
+ADV	Clitic=Kin	PronType=Dem
+NOUN	Case=Gen	Number=Sing	Number[psor]=Sing	Person[psor]=2
+ADJ	Case=Gen	Number=Plur	PronType=Ind
+PROPN	Case=All	Number=Sing
+NOUN	Case=Tra	Number=Plur
+NUM	Case=Gen	Number=Sing	NumType=Card
+VERB	Case=Gen	Number=Sing	PartForm=Neg	VerbForm=Part
+ADJ	Case=Nom	Number=Sing	Style=Coll
+X	Foreign=Yes
+ADP	Person[psor]=3
+PART	Clitic=Pa
+VERB	Case=Nom	Number=Plur	PartForm=Past	VerbForm=Part	Voice=Pass
+DET	Case=Ine	Number=Plur	PronType=Ind
+AUX	Mood=Ind	Number=Sing	Person=2	Tense=Past	VerbForm=Fin	Voice=Act
+ADJ	Case=All	Number=Plur
+DET	Case=Gen	Clitic=Kin	Number=Sing	PronType=Dem
+VERB	Case=Nom	Number=Plur	PartForm=Pres	VerbForm=Part	Voice=Act
+ADV	Degree=Sup
+AUX	Clitic=Pa,S	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+AUX	Number=Sing	Person=3	Polarity=Neg	VerbForm=Fin	Voice=Act
+NOUN	Case=Par	Degree=Cmp	Number=Sing
+NOUN	Case=Tra	Degree=Cmp	Number=Sing
+NOUN	Case=Ill	Degree=Cmp	Number=Sing
+NOUN	Case=Ine	Degree=Cmp	Number=Sing
+NOUN	Case=Par	Degree=Sup	Number=Sing
+DET	Case=Ela	Number=Plur	PronType=Ind
+NOUN	Case=Nom	Degree=Sup	Number=Sing
+NOUN	Case=Ess	Degree=Sup	Number=Sing
+VERB	Case=Ess	Degree=Cmp	Number=Sing	PartForm=Pres	VerbForm=Part	Voice=Act
+AUX	Clitic=Han,Ko	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+NOUN	Case=Ine	Number=Sing	Person[psor]=3
+DET	Case=Nom	Number=Plur	PronType=Int
+VERB	Case=Ade	Number=Plur	PartForm=Past	VerbForm=Part	Voice=Act
+AUX	Case=Gen	Number=Sing	PartForm=Pres	Person[psor]=3	VerbForm=Part	Voice=Act
+PRON	Case=Ade	Number=Sing	PronType=Dem
+VERB	Case=Gen	Number=Plur	PartForm=Past	VerbForm=Part	Voice=Pass
+PRON	Case=All	Number=Plur	PronType=Dem
+PROPN	Case=Gen	Number=Plur
+NOUN	Case=Ade	Number=Sing	Number[psor]=Sing	Person[psor]=2
+NOUN	Case=All	Number=Plur	Person[psor]=3
+PRON	Case=Par	Number=Sing	Person[psor]=3	Reflex=Yes
+ADJ	Case=Par	Number=Plur	NumType=Ord
+PRON	Case=Par	Number=Sing	Person=1	PronType=Prs
+PRON	Case=Par	Number=Plur	Person=3	PronType=Prs
+VERB	Case=Ine	InfForm=2	VerbForm=Inf	Voice=Act
+DET	Case=Ade	Number=Sing	PronType=Dem
+NOUN	Case=Ela	Number=Plur	Person[psor]=3
+NOUN	Case=Ill	Number=Sing	Number[psor]=Sing	Person[psor]=1
+ADJ	Case=Par	Degree=Sup	Number=Sing
+NOUN	Abbr=Yes	Case=Nom	Number=Sing
+VERB	Case=Ine	InfForm=2	Number[psor]=Sing	Person[psor]=2	VerbForm=Inf	Voice=Act
+ADJ	Case=Ess	Number=Sing	NumType=Ord
+PRON	Case=Ill	Number=Sing	PronType=Rel
+VERB	Clitic=Ko	Mood=Pot	Number=Sing	Person=3	VerbForm=Fin	Voice=Act
+PRON	Case=All	Number=Sing	PronType=Rel
+VERB	Case=Gen	Number=Sing	Number[psor]=Sing	PartForm=Past	Person[psor]=1	VerbForm=Part	Voice=Act
+VERB	Case=Tra	Number=Sing	PartForm=Neg	VerbForm=Part
+PRON	Case=Abl	Number=Sing	PronType=Dem
+PRON	Case=Ine	Number=Plur	PronType=Dem
+VERB	Mood=Cnd	VerbForm=Fin	Voice=Pass
+NOUN	Case=Nom	Clitic=Han	Number=Plur
+NUM	Case=Ela	Number=Sing	NumType=Card
+NOUN	Case=Nom	Clitic=Kin	Number=Sing
+VERB	Case=Par	Number=Plur	PartForm=Past	VerbForm=Part	Voice=Act
+DET	Case=All	Number=Sing	PronType=Ind
+DET	Case=Gen	Number=Sing	PronType=Rel
+VERB	Clitic=Ko	Mood=Ind	Number=Sing	Person=2	Tense=Pres	VerbForm=Fin	Voice=Act
+NOUN	Case=Nom	Number=Sing	Number[psor]=Sing	Person[psor]=2
+ADV	Number[psor]=Sing	Person[psor]=2
+DET	Case=Ill	Number=Plur	PronType=Dem	Style=Coll
+ADJ	Case=Ill	Number=Plur	Style=Coll
+PRON	Case=Ill	Number=Plur	PronType=Dem
+PRON	Case=Abl	Number=Plur	PronType=Ind
+VERB	Case=Par	Number=Sing	PartForm=Past	VerbForm=Part	Voice=Pass
+DET	Case=Gen	Number=Plur	PronType=Dem
+NUM	Case=Ill	Number=Sing	NumType=Card
+NOUN	Case=Par	Number=Plur	Person[psor]=3
+NOUN	Case=Ill	Number=Plur	Person[psor]=3
+VERB	Case=Tra	InfForm=1	Number[psor]=Sing	Person[psor]=1	VerbForm=Inf	Voice=Act
+DET	Case=Ine	Number=Sing	PronType=Dem
+PRON	Case=Ela	PronType=Rel
+NUM	Case=Ade	Number=Sing	NumType=Card
+PRON	Case=Gen	Number=Plur	PronType=Ind
+PRON	Case=Ill	Number=Sing	PronType=Ind
+DET	Case=Nom	Clitic=Kin	Number=Plur	PronType=Ind
+VERB	Clitic=Kin	Mood=Ind	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+DET	Case=Nom	Degree=Cmp	Number=Sing	PronType=Ind
+VERB	Mood=Imp	Number=Plur	Person=2	VerbForm=Fin	Voice=Act
+VERB	Clitic=Ko	Mood=Ind	Number=Plur	Person=2	Tense=Pres	VerbForm=Fin	Voice=Act
+DET	Case=Ine	Number=Plur	PronType=Dem
+PRON	Case=All	Number=Sing	PronType=Int
+ADV	Degree=Sup	PronType=Ind
+VERB	Clitic=Han	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+PROPN	Abbr=Yes	Case=Ill	Number=Sing
+VERB	Case=Ill	Number=Sing	PartForm=Past	VerbForm=Part	Voice=Pass
+VERB	Case=Par	Number=Plur	PartForm=Past	VerbForm=Part	Voice=Pass
+ADJ	Case=Tra	Number=Plur
+VERB	Case=Ess	Number=Sing	PartForm=Pres	VerbForm=Part	Voice=Pass
+DET	Case=Ill	Number=Sing	PronType=Ind
+ADJ	Case=All	Number=Sing
+ADV	Person[psor]=3	Style=Coll
+PRON	Case=Ela	Number=Sing	Person=2	PronType=Prs
+VERB	Clitic=Ko	Mood=Ind	Number=Sing	Person=2	Tense=Past	VerbForm=Fin	Voice=Act
+VERB	Case=Tra	InfForm=1	Number[psor]=Sing	Person[psor]=2	VerbForm=Inf	Voice=Act
+PRON	Case=Acc	Number=Sing	Person=1	PronType=Prs
+NUM	Case=Ine	Number=Sing	NumType=Card
+VERB	Clitic=Kin	Mood=Ind	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Case=Gen	Number=Sing	PartForm=Past	Person[psor]=3	VerbForm=Part	Voice=Act
+PROPN	Case=Ade	Number=Plur
+ADV	Number[psor]=Plur	Person[psor]=1
+PRON	Case=Ine	PronType=Rel
+NOUN	Case=Abl	Clitic=Kin	Number=Sing
+ADJ	Case=Abl	Number=Plur
+DET	Case=Abl	Number=Plur	PronType=Ind
+AUX	Clitic=Kaan	Mood=Ind	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Case=Ela	Number=Plur	PartForm=Agt	VerbForm=Part
+PRON	Case=Ine	Clitic=Kin	Number=Sing	PronType=Dem
+DET	Case=Ess	PronType=Ind
+VERB	Case=Gen	Number=Plur	PartForm=Agt	VerbForm=Part
+DET	Case=Nom	Number=Plur	PronType=Dem	Style=Coll
+DET	Case=Ill	Number=Sing	PronType=Dem
+PRON	Case=Nom	Clitic=Kaan	Number=Sing	PronType=Dem
+DET	Case=Ela	Number=Plur	PronType=Dem
+VERB	Case=Ine	Number=Plur	PartForm=Past	VerbForm=Part	Voice=Pass
+ADJ	Case=All	Degree=Cmp	Number=Plur
+ADJ	Case=Par	Clitic=Kin	Number=Plur
+ADJ	Case=Nom	Clitic=Kaan	Number=Sing
+NOUN	Case=Nom	Number=Sing	Number[psor]=Plur	Person[psor]=1
+ADJ	Case=Nom	Clitic=Kin	Number=Sing
+DET	Case=Gen	Clitic=Kaan	Number=Sing	PronType=Dem
+VERB	Mood=Pot	VerbForm=Fin	Voice=Pass
+VERB	Case=All	Number=Sing	PartForm=Past	VerbForm=Part	Voice=Act
+ADJ	Case=Ess	Degree=Cmp	Number=Sing
+NOUN	Case=Ine	Clitic=Kin	Number=Sing
+NOUN	Case=Abl	Number=Plur	Person[psor]=3
+AUX	Mood=Ind	Number=Sing	Person=2	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Clitic=Ko	Number=Sing	Person=3	Polarity=Neg	Style=Coll	VerbForm=Fin	Voice=Act
+ADJ	Case=Nom	Number=Plur	PronType=Dem	Style=Coll
+DET	Case=Ins	Number=Plur	PronType=Ind
+ADJ	Case=Nom	Number=Plur	PronType=Dem
+AUX	Mood=Ind	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+DET	Case=Gen	Number=Plur	Person=1	PronType=Prs
+NOUN	Case=All	Number=Sing	Number[psor]=Plur	Person[psor]=1
+DET	Case=Ill	Number=Plur	PronType=Dem
+DET	Case=Ill	Number=Plur	PronType=Ind
+DET	Case=Nom	Number=Plur	PronType=Ind
+PRON	Case=Nom	Number=Sing	Person[psor]=3	Reflex=Yes
+PRON	Case=Nom	Clitic=Kin	Number=Sing	Person=1	PronType=Prs
+PRON	Case=All	Number=Sing	Person=1	PronType=Prs
+DET	Case=Gen	Number=Plur	Person=3	PronType=Prs
+NOUN	Case=Ine	Number=Sing	Number[psor]=Plur	Person[psor]=1
+PRON	Case=Ela	Number=Plur	PronType=Dem
+VERB	Mood=Pot	Number=Plur	Person=3	VerbForm=Fin	Voice=Act
+PRON	Case=Gen	Number=Sing	PronType=Rel
+NOUN	Case=Ine	Number=Plur	Number[psor]=Sing	Person[psor]=1
+PRON	Case=Nom	Clitic=Han	Number=Sing	PronType=Dem
+VERB	Clitic=Ko	Mood=Ind	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Case=Ine	Number=Plur	PartForm=Pres	VerbForm=Part	Voice=Pass
+VERB	Mood=Cnd	Number=Plur	Person=3	VerbForm=Fin	Voice=Act
+PRON	Case=Gen	Number=Plur	Person=1	PronType=Prs
+VERB	Case=Ess	Number=Plur	Number[psor]=Plur	PartForm=Pres	Person[psor]=1	VerbForm=Part	Voice=Act
+AUX	Case=Ess	Number=Plur	Number[psor]=Sing	PartForm=Pres	Person[psor]=2	VerbForm=Part	Voice=Act
+VERB	Clitic=Kin	Mood=Ind	Number=Sing	Person=1	Tense=Past	VerbForm=Fin	Voice=Act
+VERB	Case=Ess	Number=Plur	Number[psor]=Sing	PartForm=Pres	Person[psor]=1	VerbForm=Part	Voice=Act
+PRON	Case=Acc	Number=Sing	Person=3	PronType=Prs
+NOUN	Case=Ill	Number=Plur	Number[psor]=Sing	Person[psor]=1
+VERB	Case=Tra	Number=Sing	PartForm=Past	VerbForm=Part	Voice=Pass
+VERB	Case=Ill	Number=Plur	PartForm=Pres	VerbForm=Part	Voice=Act
+VERB	Clitic=Kin	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+PRON	Case=Ill	Number=Sing	Person=3	PronType=Prs
+PRON	Case=Par	Number=Plur	Person=1	PronType=Prs
+ADV	Degree=Cmp	PronType=Ind
+ADJ	Case=Ela	Degree=Cmp	Number=Plur
+VERB	Case=Ess	Number=Plur	PartForm=Pres	VerbForm=Part	Voice=Act
+ADJ	Case=Ess	Number=Plur
+ADJ	Case=Gen	Number=Sing	NumType=Ord
+PRON	Case=All	Number=Plur	Person=3	PronType=Prs
+VERB	Case=Par	Number=Plur	PartForm=Neg	VerbForm=Part
+ADJ	Case=Ade	Degree=Cmp	Number=Plur
+ADJ	Case=Nom	Degree=Cmp	Number=Plur
+PRON	Case=Nom	Clitic=Han	Number=Sing	Person=2	PronType=Prs
+PART	Clitic=Kin
+PRON	Case=All	Number=Sing	Person=3	PronType=Prs
+VERB	Case=Ill	Number=Sing	PartForm=Neg	VerbForm=Part
+PROPN	Abbr=Yes	Case=Nom	Number=Sing
+VERB	Case=Ela	InfForm=3	VerbForm=Inf	Voice=Act
+DET	Case=Par	Number=Plur	PronType=Dem
+PRON	Case=All	Number=Sing	PronType=Dem
+PRON	Case=Par	Number=Plur	Person=2	PronType=Prs
+PRON	Case=Par	Number=Sing	Person=2	PronType=Prs
+VERB	Clitic=Ko	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+DET	Case=Ess	Number=Sing	PronType=Ind
+ADJ	Case=Tra	Degree=Sup	Number=Sing
+PRON	Case=Abl	Number=Plur	Person=1	PronType=Prs
+ADJ	Case=Gen	Number=Sing	PronType=Dem
+NUM	_
+ADJ	Case=Ela	Number=Sing	NumType=Ord	Style=Coll
+PRON	Case=Acc	Number=Sing	Person=2	PronType=Prs
+NOUN	Case=Gen	Number=Plur	Number[psor]=Sing	Person[psor]=1
+PRON	Case=Gen	Number=Sing	Person=1	PronType=Prs
+VERB	Case=Ine	Number=Sing	PartForm=Pres	VerbForm=Part	Voice=Act
+DET	Case=Ade	PronType=Int
+PRON	Case=Ade	PronType=Int
+PRON	Case=Ill	Number=Sing	Person[psor]=3	Reflex=Yes
+AUX	Case=Gen	Number=Sing	PartForm=Pres	VerbForm=Part	Voice=Act
+VERB	Case=Par	Number=Sing	PartForm=Past	VerbForm=Part	Voice=Act
+NOUN	Case=All	Number=Sing	Number[psor]=Sing	Person[psor]=1
+ADJ	Case=Ess	Degree=Sup	Number=Sing
+PRON	Case=Ade	Number=Plur	PronType=Rel
+PRON	Case=Par	Number=Plur	PronType=Rel
+PROPN	Case=Ill	Number=Plur
+PRON	Case=All	Number=Plur	Person=2	PronType=Prs
+VERB	Case=Par	Number=Plur	PartForm=Pres	VerbForm=Part	Voice=Pass
+NUM	Case=All	Number=Sing	NumType=Card
+NOUN	Case=Ade	Number=Plur	Number[psor]=Sing	Person[psor]=1
+PRON	Case=Ela	Number=Plur	PronType=Rel
+NOUN	Case=All	Number=Plur	Number[psor]=Sing	Person[psor]=1
+NOUN	Case=All	Number=Sing	Person[psor]=3
+VERB	Case=Abe	InfForm=3	VerbForm=Inf	Voice=Act
+DET	Case=All	Number=Sing	PronType=Dem
+PRON	Case=Nom	Clitic=Han	Number=Sing	PronType=Int
+ADJ	Case=Ela	Degree=Sup	Number=Plur
+NOUN	Case=Ela	Number=Plur	Number[psor]=Sing	Person[psor]=1
+VERB	Case=Ess	Number=Sing	PartForm=Neg	VerbForm=Part
+PRON	Case=All	Number=Sing	Person[psor]=3	Reflex=Yes
+ADJ	Case=Par	Degree=Cmp	Number=Plur
+ADJ	Case=Ela	Clitic=Kaan	Number=Sing
+AUX	Case=Nom	Number=Plur	PartForm=Past	VerbForm=Part	Voice=Act
+VERB	Clitic=Han	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+NOUN	Case=Par	Number=Sing	Number[psor]=Sing	Person[psor]=1
+VERB	Case=Lat	Clitic=Kaan	InfForm=1	VerbForm=Inf	Voice=Act
+PRON	Case=Ill	Number=Plur	Person[psor]=3	PronType=Rcp
+NOUN	Abbr=Yes	Case=Ela	Number=Sing
+NOUN	Abbr=Yes	Case=Gen	Number=Sing
+VERB	Clitic=Ka	Number=Plur	Person=3	Polarity=Neg	VerbForm=Fin	Voice=Act
+PRON	Case=Gen	Number=Plur	Person[psor]=3	PronType=Rcp
+NOUN	Case=Abe	Number=Plur
+ADJ	Case=Ade	Number=Plur	PronType=Ind
+VERB	Case=Tra	Number=Sing	PartForm=Pres	Person[psor]=3	VerbForm=Part	Voice=Pass
+NOUN	Abbr=Yes	Case=Par	Number=Sing
+NOUN	Case=All	Clitic=Kin	Number=Sing
+AUX	Mood=Cnd	Number=Sing	Person=1	VerbForm=Fin	Voice=Act
+VERB	Clitic=Kin	Person[psor]=3	VerbForm=Inf	Voice=Act
+VERB	Clitic=Kaan	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+VERB	Case=Ins	InfForm=3	Number[psor]=Sing	Person[psor]=1	VerbForm=Inf	Voice=Act
+ADJ	NumType=Ord
+NOUN	Case=Ade	Number=Plur	Person[psor]=3
+PROPN	Case=Gen	Number=Sing	Style=Coll
+PRON	Case=Nom	Clitic=S	Number=Sing	PronType=Int
+AUX	Clitic=Kin	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Case=Abl	Number=Sing	PartForm=Pres	VerbForm=Part	Voice=Act
+VERB	Clitic=Han,Ko	Mood=Ind	Number=Sing	Person=2	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Par	Number=Sing	Number[psor]=Sing	Person[psor]=1	Reflex=Yes
+PRON	Case=Par	Number=Sing	Number[psor]=Sing	Person[psor]=2	Reflex=Yes
+AUX	Case=Tra	InfForm=1	Person[psor]=3	VerbForm=Inf	Voice=Act
+SYM	_
+ADJ	Case=Par	Number=Sing	PronType=Dem
+VERB	Case=All	Number=Sing	PartForm=Pres	VerbForm=Part	Voice=Act
+PART	Clitic=Kaan
+AUX	Mood=Cnd	Number=Sing	Person=3	VerbForm=Fin	Voice=Act
+NOUN	Case=Ess	Number=Sing	Person[psor]=3
+PRON	Case=Ela	Number=Sing	Person=1	PronType=Prs
+ADV	Clitic=Kin	Person[psor]=3
+PRON	Case=Gen	Number=Plur	Person=2	PronType=Prs
+AUX	Mood=Ind	Number=Plur	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+PRON	Case=Par	Clitic=Kin	Number=Sing	PronType=Dem
+PRON	Case=Ade	Number=Plur	Person=3	PronType=Prs
+VERB	Clitic=Han	Mood=Cnd	Number=Sing	Person=3	VerbForm=Fin	Voice=Act
+ADJ	Case=Gen	Degree=Cmp	Number=Sing
+AUX	Mood=Cnd	Number=Plur	Person=3	VerbForm=Fin	Voice=Act
+ADP	Number[psor]=Sing	Person[psor]=2
+PROPN	Abbr=Yes	Case=Ine	Number=Sing
+VERB	Case=Ela	Number=Plur	PartForm=Pres	VerbForm=Part	Voice=Act
+VERB	Case=Gen	Number=Sing	Number[psor]=Sing	PartForm=Pres	Person[psor]=1	VerbForm=Part	Voice=Act
+ADJ	Case=Par	Number=Sing	PronType=Ind
+VERB	Case=Nom	Number=Plur	PartForm=Agt	VerbForm=Part
+DET	Case=Gen	Number=Plur	PronType=Rel
+PRON	Case=Gen	Number=Sing	PronType=Int
+VERB	Case=Lat	Clitic=Pa	InfForm=1	VerbForm=Inf	Voice=Act
+DET	Case=Ade	Degree=Sup	Number=Plur	PronType=Ind
+PRON	Case=Ill	PronType=Rel
+PRON	Case=Ela	PronType=Int
+VERB	Clitic=Ko	Number=Plur	Person=3	Polarity=Neg	VerbForm=Fin	Voice=Act
+ADJ	Case=Par	Degree=Sup	Number=Sing	Person[psor]=3
+PRON	Case=Gen	Number=Sing	Person[psor]=3	PronType=Ind
+ADJ	Case=Gen	Degree=Sup	Number=Sing
+AUX	Mood=Ind	Number=Sing	Person=1	Tense=Past	VerbForm=Fin	Voice=Act
+PROPN	Abbr=Yes	Case=Ela	Number=Sing
+ADJ	Case=Ess	Number=Sing	PronType=Ind
+PROPN	Case=Ess	Number=Sing
+AUX	Case=Ins	InfForm=2	VerbForm=Inf	Voice=Act
+VERB	Mood=Ind	Number=Plur	Person=2	Tense=Pres	VerbForm=Fin	Voice=Act
+ADJ	Case=Nom	Degree=Sup	Number=Plur
+PRON	Case=Par	PronType=Rel
+VERB	Case=Abe	InfForm=3	Number[psor]=Sing	Person[psor]=1	VerbForm=Inf	Voice=Act
+VERB	Case=Ela	Number=Plur	PartForm=Past	VerbForm=Part	Voice=Act
+PRON	Case=Ade	Number=Sing	PronType=Rel
+VERB	Case=Ela	Number=Sing	PartForm=Past	VerbForm=Part	Voice=Act
+PRON	Case=Gen	PronType=Rel
+VERB	Case=Abl	Number=Plur	PartForm=Pres	VerbForm=Part	Voice=Act
+VERB	Mood=Cnd	Number=Plur	Person=2	VerbForm=Fin	Voice=Act
+VERB	Case=Abl	Number=Plur	PartForm=Past	VerbForm=Part	Voice=Act
+VERB	Case=Gen	Number=Plur	PartForm=Pres	VerbForm=Part	Voice=Pass
+NUM	Case=Gen	Number=Plur	NumType=Card
+VERB	Case=Ade	Number=Plur	PartForm=Pres	VerbForm=Part	Voice=Act
+VERB	Case=Ill	Number=Plur	PartForm=Pres	VerbForm=Part	Voice=Pass
+VERB	Case=Nom	Number=Plur	PartForm=Pres	VerbForm=Part	Voice=Pass
+ADJ	Case=Tra	Degree=Cmp	Number=Sing
+DET	Case=Ess	Clitic=Kin	Number=Sing	PronType=Dem
+VERB	Case=Gen	Number=Sing	PartForm=Agt	VerbForm=Part
+VERB	Case=Nom	Number=Sing	PartForm=Neg	VerbForm=Part
+VERB	Case=Nom	Number=Plur	PartForm=Neg	VerbForm=Part
+VERB	Case=Ela	Number=Plur	PartForm=Neg	VerbForm=Part
+VERB	Case=Ine	Number=Plur	PartForm=Neg	VerbForm=Part
+ADJ	Case=Ill	Degree=Cmp	Number=Plur
+VERB	Case=Ine	Number=Sing	PartForm=Past	VerbForm=Part	Voice=Act
+VERB	Case=Par	Number=Plur	Number[psor]=Plur	PartForm=Agt	Person[psor]=1	VerbForm=Part
+VERB	Case=Par	Number=Plur	PartForm=Agt	Person[psor]=3	VerbForm=Part
+NOUN	Case=Ine	Number=Plur	Number[psor]=Plur	Person[psor]=1
+PRON	Case=Ela	Number=Plur	Person=3	PronType=Prs
+VERB	Case=Par	Number=Plur	PartForm=Agt	VerbForm=Part
+VERB	Case=Ine	Number=Plur	PartForm=Agt	VerbForm=Part
+VERB	Case=Ine	Number=Sing	PartForm=Agt	VerbForm=Part
+VERB	Case=All	Number=Sing	PartForm=Past	VerbForm=Part	Voice=Pass
+AUX	Clitic=Kin	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+VERB	Case=Ade	Number=Sing	PartForm=Agt	VerbForm=Part
+VERB	Case=Ine	Number=Sing	PartForm=Past	VerbForm=Part	Voice=Pass
+VERB	Case=All	Number=Plur	PartForm=Past	VerbForm=Part	Voice=Act
+NUM	Case=Abl	Number=Sing	NumType=Card
+VERB	Case=All	Number=Sing	PartForm=Pres	VerbForm=Part	Voice=Pass
+VERB	Case=Par	Number=Sing	PartForm=Agt	Person[psor]=3	VerbForm=Part
+ADJ	Case=Nom	Clitic=Kin	Degree=Sup	Number=Plur
+VERB	Case=Tra	Number=Plur	PartForm=Pres	VerbForm=Part	Voice=Pass
+VERB	Case=Tra	Number=Sing	Number[psor]=Sing	PartForm=Pres	Person[psor]=1	VerbForm=Part	Voice=Pass
+VERB	Case=Tra	Number=Sing	PartForm=Pres	VerbForm=Part	Voice=Act
+VERB	Case=Ess	Number=Sing	PartForm=Pres	Person[psor]=3	VerbForm=Part	Voice=Pass
+DET	Case=Par	Clitic=Kin	Number=Plur	PronType=Ind
+VERB	Case=Ela	Number=Sing	PartForm=Past	VerbForm=Part	Voice=Pass
+PRON	Case=Acc	Number=Plur	Person=1	PronType=Prs
+VERB	Case=Tra	Number=Sing	PartForm=Pres	Style=Coll	VerbForm=Part	Voice=Act
+PRON	Case=Abl	Number=Sing	PronType=Ind
+VERB	Case=Ess	Number=Sing	PartForm=Past	VerbForm=Part	Voice=Act
+NOUN	Abbr=Yes	Case=Ade	Number=Sing
+AUX	Case=Gen	Number=Sing	PartForm=Past	VerbForm=Part	Voice=Act
+NUM	Case=Par	Number=Plur	NumType=Card
+VERB	Case=Gen	Number=Sing	Number[psor]=Sing	PartForm=Pres	Person[psor]=2	VerbForm=Part	Voice=Act
+PRON	Case=Gen	Number=Plur	PronType=Rel
+DET	Case=Gen	PronType=Ind
+ADJ	Case=Ill	Number=Sing	PronType=Dem
+PRON	Case=Ine	PronType=Ind
+VERB	Case=Gen	Number=Sing	Number[psor]=Plur	PartForm=Past	Person[psor]=2	VerbForm=Part	Voice=Act
+NOUN	Case=Ine	Number=Sing	Number[psor]=Plur	Person[psor]=2
+VERB	Case=Ill	Number=Plur	PartForm=Past	VerbForm=Part	Voice=Pass
+NOUN	Case=Ill	Clitic=Kaan	Number=Plur
+NOUN	Case=Gen	Number=Plur	Person[psor]=3
+VERB	Case=Ela	Number=Sing	PartForm=Agt	VerbForm=Part
+VERB	Case=Tra	Number=Sing	PartForm=Agt	VerbForm=Part
+NOUN	Case=Ela	Clitic=Kin	Number=Plur
+VERB	Clitic=Ko	Mood=Ind	Tense=Pres	VerbForm=Fin	Voice=Pass
+VERB	Case=Par	Number=Sing	Number[psor]=Plur	PartForm=Past	Person[psor]=1	VerbForm=Part	Voice=Pass
+AUX	Case=Par	Number=Sing	PartForm=Past	Person[psor]=3	VerbForm=Part	Voice=Pass
+AUX	Case=Ine	InfForm=2	VerbForm=Inf	Voice=Act
+AUX	Case=Ine	InfForm=2	Number[psor]=Sing	Person[psor]=1	VerbForm=Inf	Voice=Act
+PRON	Case=Ela	Number=Sing	Person=3	PronType=Prs
+VERB	Case=Ine	InfForm=2	Number[psor]=Plur	Person[psor]=2	VerbForm=Inf	Voice=Act
+NOUN	Case=Ill	Number=Sing	Number[psor]=Plur	Person[psor]=2
+AUX	Clitic=Ko	Mood=Cnd	Number=Sing	Person=3	VerbForm=Fin	Voice=Act
+VERB	Case=Ine	Clitic=Kaan	InfForm=2	VerbForm=Inf	Voice=Act
+NUM	Case=Nom	Clitic=Kin	Number=Sing	NumType=Card
+VERB	Case=Par	Number=Sing	Number[psor]=Sing	PartForm=Past	Person[psor]=1	VerbForm=Part	Voice=Pass
+PROPN	Case=All	Number=Plur
+DET	Case=Nom	Number=Sing	PronType=Rel
+PRON	Case=Gen	Number=Plur	PronType=Dem
+VERB	Case=Ess	Number=Sing	PartForm=Pres	VerbForm=Part	Voice=Act
+AUX	Mood=Ind	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Case=Tra	InfForm=1	Number[psor]=Plur	Person[psor]=1	VerbForm=Inf	Voice=Act
+NOUN	Case=Ess	Clitic=Kin	Number=Sing
+DET	Case=Nom	Number=Sing	PronType=Ind	Style=Coll
+NOUN	Case=Nom	Clitic=Kin	Number=Sing	Number[psor]=Plur	Person[psor]=1
+NOUN	Case=Tra	Clitic=Kin	Number=Sing
+PRON	Case=Ill	Number=Plur	Person=3	PronType=Prs
+ADJ	Case=Nom	Number=Plur	NumType=Ord
+AUX	Clitic=Kin	Mood=Ind	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+NUM	Case=Tra	Number=Sing	NumType=Card
+DET	Case=Par	Number=Plur	Person=1	PronType=Prs
+ADJ	Case=Ela	Degree=Sup	Number=Sing
+DET	Case=Ess	Number=Plur	PronType=Dem
+ADJ	Case=Ine	Degree=Cmp	Number=Sing
+ADJ	Case=Ill	Degree=Cmp	Number=Sing
+VERB	Clitic=Ko	Mood=Ind	Tense=Past	VerbForm=Fin	Voice=Pass
+NOUN	Abbr=Yes	Case=Ine	Number=Sing
+VERB	Clitic=Kin	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+ADJ	Case=Nom	Number=Sing	PronType=Int
+PRON	Case=Ela	Clitic=Han	Number=Sing	PronType=Dem	Style=Coll
+AUX	Connegative=Yes	Mood=Ind	Style=Coll	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Par	PronType=Ind	Style=Coll
+DET	Case=Gen	Number=Plur	Person=1	PronType=Prs	Style=Coll
+DET	Case=Ine	Number=Plur	PronType=Dem	Style=Coll
+ADJ	Case=Ine	Number=Plur	Style=Coll
+PRON	Case=Nom	Number=Sing	Reflex=Yes	Style=Coll
+DET	Case=Ill	Number=Sing	PronType=Dem	Style=Coll
+DET	Case=Ess	Number=Sing	PronType=Dem	Style=Coll
+ADJ	Case=Par	Number=Plur	PronType=Int
+DET	Case=Ade	Number=Plur	PronType=Dem
+PRON	Case=Ill	PronType=Ind
+DET	Case=All	Number=Plur	PronType=Dem
+NUM	Case=All	Number=Plur	NumType=Card
+PROPN	Case=Ill	Number=Sing	Style=Coll
+NUM	Case=Gen	Number=Sing	NumType=Card	Style=Coll
+DET	Case=Gen	Number=Plur	PronType=Ind	Style=Coll
+ADJ	Case=Nom	Number=Sing	PronType=Dem	Style=Coll
+DET	Case=Par	Clitic=Ko	Number=Sing	PronType=Ind
+NOUN	Case=Ine	Number=Sing	Number[psor]=Sing	Person[psor]=1
+DET	Case=Gen	PronType=Int
+PRON	Case=Abl	Number=Sing	PronType=Rel
+ADJ	Case=Gen	Degree=Cmp	Number=Plur
+ADJ	Case=Ill	Degree=Sup	Number=Sing
+NOUN	Case=Nom	Number=Plur	Number[psor]=Plur	Person[psor]=1
+VERB	Case=Ine	Number=Sing	PartForm=Agt	Person[psor]=3	VerbForm=Part
+ADJ	Case=Ill	Number=Sing	PronType=Ind
+ADJ	Case=Ade	Degree=Cmp	Number=Sing
+PRON	Case=Ade	PronType=Ind
+NOUN	Case=Gen	Number=Sing	Number[psor]=Plur	Person[psor]=1
+ADJ	Case=All	Number=Sing	PronType=Ind
+PRON	Case=Gen	Degree=Cmp	Number=Sing	PronType=Ind
+PROPN	Abbr=Yes	Case=All	Number=Sing
+ADJ	Case=Par	Clitic=Kaan	Number=Sing
+AUX	Case=Ine	InfForm=2	Person[psor]=3	VerbForm=Inf	Voice=Act
+DET	Case=Ill	PronType=Ind
+PRON	Case=Abl	Number=Plur	Person=3	PronType=Prs
+PRON	Case=Gen	PronType=Int
+PRON	Case=Ade	Number=Sing	Person=3	PronType=Prs
+DET	Case=Com	PronType=Ind
+PRON	Case=Ill	Number=Sing	Person=1	PronType=Prs
+NUM	Case=Abl	Number=Plur	NumType=Card
+NOUN	Case=All	Number=Sing	Number[psor]=Sing	Person[psor]=2
+PRON	Case=Abl	Number=Sing	Person=3	PronType=Prs
+PRON	Case=Ela	Number=Plur	PronType=Ind
+PROPN	Case=Tra	Number=Sing
+AUX	Case=Ela	InfForm=3	VerbForm=Inf	Voice=Act
+PROPN	Case=Par	Number=Sing	Style=Coll
+ADJ	Case=Tra	Number=Sing	NumType=Ord
+NOUN	Case=Ine	Number=Plur	Person[psor]=3
+PROPN	Case=Abl	Clitic=Kin	Number=Sing
+ADJ	Case=Nom	Number=Sing	Person[psor]=3
+ADJ	Case=Gen	Degree=Sup	Number=Sing	Number[psor]=Sing	Person[psor]=1
+PRON	Case=Par	Number=Plur	PronType=Ind
+NOUN	Case=Par	Clitic=Kin	Number=Plur
+DET	Case=Ela	Number=Plur	Person=1	PronType=Prs
+ADJ	Case=Nom	Number=Plur	Number[psor]=Sing	Person[psor]=1
+ADJ	Case=Gen	Clitic=Kin	Number=Plur
+ADJ	Case=Tra	Number=Sing	Number[psor]=Sing	Person[psor]=2
+VERB	Clitic=Kin	Mood=Cnd	Number=Sing	Person=3	VerbForm=Fin	Voice=Act
+ADJ	Case=Ill	Number=Sing	Person[psor]=3
+ADJ	Case=Gen	Number=Plur	Person[psor]=3
+ADJ	Case=Gen	Degree=Sup	Number=Plur
+VERB	Case=All	Number=Plur	PartForm=Pres	VerbForm=Part	Voice=Act
+AUX	Connegative=Yes	Mood=Ind	Number=Plur	Tense=Past	VerbForm=Fin	Voice=Act
+AUX	Mood=Ind	Number=Plur	Person=1	Tense=Past	VerbForm=Fin	Voice=Act
+NOUN	Case=Ill	Clitic=Kin	Number=Plur
+AUX	Clitic=Ko	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+VERB	Case=Ess	Number=Sing	PartForm=Agt	VerbForm=Part
+PRON	Case=All	Number=Plur	Person[psor]=3	PronType=Rcp
+PRON	Case=Nom	Clitic=Ko	Number=Plur	Person=1	PronType=Prs
+AUX	Clitic=Ko	Mood=Ind	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+DET	Case=Ade	Clitic=Kin	Number=Sing	PronType=Dem
+ADJ	Case=Ine	Degree=Sup	Number=Sing
+ADJ	Case=All	Degree=Cmp	Number=Sing
+NUM	Case=Nom	Clitic=Kaan	Number=Sing	NumType=Card
+VERB	Case=Abl	Number=Sing	PartForm=Neg	VerbForm=Part
+AUX	Mood=Pot	Number=Plur	Person=3	VerbForm=Fin	Voice=Act
+ADJ	Case=Par	Number=Plur	Person[psor]=3
+ADJ	Case=Nom	Number=Sing	PronType=Dem
+ADJ	Case=Par	Number=Sing	PronType=Rel
+PRON	Case=Gen	Number=Sing	Number[psor]=Sing	Person[psor]=1	Reflex=Yes
+NOUN	Case=Nom	Number=Plur	Number[psor]=Sing	Person[psor]=1
+ADJ	Case=Nom	Number=Sing	Number[psor]=Plur	Person[psor]=1
+ADJ	Case=Gen	Number=Sing	Number[psor]=Plur	Person[psor]=2
+VERB	Case=All	Number=Sing	PartForm=Neg	VerbForm=Part
+ADJ	Case=Par	Number=Plur	PronType=Dem
+NOUN	Case=Ill	Clitic=Kin	Number=Sing
+PRON	Case=Gen	Clitic=Han	Number=Sing	PronType=Dem
+ADJ	Case=Ela	Number=Sing	PronType=Dem
+ADJ	Case=All	Clitic=Kin	Number=Sing	PronType=Dem
+ADJ	Case=Ine	Number=Plur	PronType=Rel
+PROPN	Case=Par	Number=Sing	Person[psor]=3
+ADJ	Case=Nom	Clitic=Kin	Degree=Cmp	Number=Sing
+ADP	Degree=Cmp
+PRON	Case=Ade	Number=Sing	Person=2	PronType=Prs
+AUX	Case=Nom	Clitic=Kaan	Number=Sing	PartForm=Past	VerbForm=Part	Voice=Act
+DET	Case=Par	Degree=Cmp	Number=Plur	PronType=Ind
+NOUN	Case=Par	Clitic=Kaan	Number=Sing	Number[psor]=Sing	Person[psor]=1
+ADJ	Case=All	Clitic=Kaan	Number=Plur
+PRON	Case=All	Clitic=Kin	Number=Sing	Person=1	PronType=Prs
+ADJ	Case=Ela	Clitic=Kin	Degree=Cmp	Number=Sing
+ADJ	Case=Abl	Degree=Cmp	Number=Sing
+ADJ	Case=Par	Degree=Cmp	Number=Plur	Person[psor]=3
+ADJ	Case=All	Degree=Cmp	Number=Plur	Person[psor]=3
+VERB	Clitic=Kaan	Mood=Ind	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+ADJ	Case=Gen	Degree=Sup	Number=Sing	Person[psor]=3
+PRON	Case=Gen	Clitic=Kaan	Number=Sing	PronType=Dem
+PRON	Case=Ine	Number=Sing	PronType=Ind
+NUM	Case=Nom	Number=Plur	NumType=Card
+AUX	Connegative=Yes	Mood=Ind	Number=Sing	Tense=Past	VerbForm=Fin	Voice=Act
+PRON	Case=Ine	Number=Sing	Person=1	PronType=Prs
+NOUN	Case=All	Clitic=Kaan	Number=Sing
+PROPN	Abbr=Yes	Case=Ade	Number=Sing
+ADJ	Case=Ine	Degree=Sup	Number=Plur
+DET	Case=Nom	Degree=Cmp	Number=Plur	PronType=Ind
+ADV	Clitic=Kin	Degree=Cmp
+ADJ	Case=Ade	Degree=Sup	Number=Plur
+PRON	Case=Ade	Number=Plur	PronType=Dem
+ADJ	Case=Nom	Number=Sing	PronType=Ind
+NOUN	Case=All	Number=Sing	Number[psor]=Plur	Person[psor]=2
+PRON	Case=Ade	Number=Sing	Person=2	PronType=Prs	Style=Coll
+VERB	Case=Ess	Number=Plur	PartForm=Past	VerbForm=Part	Voice=Act
+PRON	Case=Ill	PronType=Int
+PRON	Case=Ela	Number=Plur	Number[psor]=Plur	Person[psor]=2	PronType=Rcp
+ADP	Clitic=Kin
+DET	Case=Ine	Clitic=Kin	Number=Sing	PronType=Dem
+VERB	Clitic=Han	Mood=Ind	Tense=Past	VerbForm=Fin	Voice=Pass
+ADV	Clitic=Kaan
+DET	Case=Nom	Number=Sing	Reflex=Yes
+PRON	Case=Ade	Number=Plur	Person=1	PronType=Prs	Style=Coll
+ADJ	Case=Gen	Number=Sing	Style=Coll
+PRON	Case=Gen	Number=Plur	Person=1	PronType=Prs	Style=Coll
+VERB	Clitic=Kin	Mood=Ind	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Nom	Clitic=Ko,S	Number=Sing	Person=2	PronType=Prs
+PRON	Case=Ade	Number=Plur	PronType=Ind
+DET	Case=All	Number=Plur	PronType=Ind
+NOUN	Case=Nom	Clitic=Kin	Number=Plur	Person[psor]=3
+VERB	Case=Com	PartForm=Pres	VerbForm=Part	Voice=Act
+DET	Case=Ill	PronType=Int
+PRON	Case=Nom	Clitic=Kin	Number=Sing	Reflex=Yes
+NOUN	Case=Ade	Number=Sing	Number[psor]=Sing	Person[psor]=1
+ADJ	Case=All	Degree=Sup	Number=Plur
+VERB	Clitic=Kaan	Mood=Ind	Number=Plur	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+VERB	Case=Nom	Clitic=Kin	Number=Sing	PartForm=Past	VerbForm=Part	Voice=Act
+VERB	Case=Gen	Number=Sing	PartForm=Pres	Style=Coll	VerbForm=Part	Voice=Act
+ADJ	Case=Ins	Degree=Cmp	Number=Plur
+VERB	Number[psor]=Sing	Person[psor]=1	VerbForm=Inf	Voice=Act
+ADP	Number[psor]=Sing	Person[psor]=1
+ADP	Number[psor]=Plur	Person[psor]=1
+VERB	Case=All	Number=Plur	PartForm=Past	VerbForm=Part	Voice=Pass
+ADJ	Case=Ela	Degree=Cmp	Number=Sing
+ADJ	Case=Gen	Number=Sing	PronType=Ind
+NOUN	Case=Abe	Number=Sing
+VERB	Case=Ill	Number=Sing	PartForm=Past	VerbForm=Part	Voice=Act
+VERB	Case=Ill	Number=Sing	PartForm=Pres	VerbForm=Part	Voice=Act
+ADJ	Case=Ine	Number=Sing	NumType=Ord
+DET	Case=Nom	Clitic=Kin	Number=Sing	PronType=Ind
+PRON	Case=Ade	Number=Plur	Person=2	PronType=Prs
+VERB	Clitic=Kaan	Mood=Ind	Number=Sing	Person=1	Tense=Past	VerbForm=Fin	Voice=Act
+VERB	Clitic=Pa,S	Number=Sing	Person=3	Polarity=Neg	VerbForm=Fin	Voice=Act
+PRON	Case=Nom	Number=Sing	PronType=Int	Style=Coll
+ADJ	Case=Nom	Number=Sing	NumType=Ord	Style=Coll
+DET	Case=Ela	Number=Plur	PronType=Dem	Style=Coll
+NOUN	Case=Ela	Number=Plur	Style=Coll
+PRON	Case=Ela	PronType=Rel	Style=Coll
+PRON	Case=Ela	Number=Sing	Person=2	PronType=Prs	Style=Coll
+ADJ	Case=Gen	Number=Plur	PronType=Dem	Style=Coll
+PRON	Case=Nom	Number=Sing	Person=3	PronType=Prs	Style=Coll
+PRON	Case=Ela	Number=Sing	Person=3	PronType=Prs	Style=Coll
+AUX	Mood=Cnd	Number=Sing	Person=3	Style=Coll	VerbForm=Fin	Voice=Act
+DET	Case=Nom	Number=Sing	Person=1	PronType=Prs
+DET	Case=Nom	Number=Sing	Person=2	PronType=Prs
+PRON	Case=Nom	Clitic=Kin	Number=Plur	PronType=Ind
+DET	Case=Ade	Number=Plur	Person=1	PronType=Prs
+DET	Case=Nom	Number=Plur	Person=1	PronType=Prs
+PRON	Case=Ill	Number=Sing	Person=3	PronType=Prs	Style=Coll
+PRON	Case=Gen	Number=Sing	PronType=Dem	Style=Coll
+VERB	Case=Abl	Number=Sing	PartForm=Past	VerbForm=Part	Voice=Act
+PRON	Case=Nom	Number=Plur	Person=2	PronType=Prs
+AUX	Mood=Ind	Number=Plur	Person=2	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Case=Nom	Clitic=Kaan	Number=Sing	PartForm=Past	Style=Coll	VerbForm=Part	Voice=Act
+NUM	Case=Par	Number=Sing	NumType=Card	Style=Coll
+DET	Case=Gen	Number=Sing	Person=2	PronType=Prs	Style=Coll
+DET	Case=Nom	Clitic=Kin	Number=Sing	PronType=Dem
+PRON	Case=Gen	Clitic=Kin	Number=Sing	Person[psor]=3	Reflex=Yes
+DET	Case=Gen	Number=Sing	Person[psor]=3	Reflex=Yes
+PRON	Case=All	Number=Sing	Reflex=Yes
+PRON	Case=Ela	Number=Sing	Reflex=Yes
+VERB	Clitic=Kin	Mood=Ind	Tense=Past	VerbForm=Fin	Voice=Pass
+PRON	Case=Par	Number=Sing	Reflex=Yes
+DET	Case=Gen	Number=Plur	Person[psor]=3	PronType=Rcp
+PRON	Case=Ela	Number=Sing	Person[psor]=3	PronType=Rcp
+DET	Case=Gen	Number=Sing	Person[psor]=3	PronType=Rcp
+PRON	Case=Par	Number=Sing	Person[psor]=3	PronType=Rcp
+PRON	Case=Ela	Number=Plur	Person=2	PronType=Prs
+PRON	Case=Tra	PronType=Int
+VERB	Mood=Imp	Number=Sing	Person=3	VerbForm=Fin	Voice=Act
+DET	Case=Ess	Number=Sing	PronType=Rel
+PRON	Case=Par	Number=Sing	PronType=Ind	Style=Coll
+ADJ	Case=Ade	Number=Plur	PronType=Dem	Style=Coll
+AUX	Mood=Ind	Number=Sing	Person=3	Style=Coll	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Ade	PronType=Rel
+ADV	Clitic=Ka	PronType=Rel	Style=Coll
+PRON	Case=Par	Number=Sing	PronType=Int
+PRON	Case=Nom	Number=Plur	PronType=Int
+NUM	Case=Ill	Number=Sing	NumType=Card	Style=Coll
+PRON	Case=All	Clitic=Kin	Number=Sing	Person=3	PronType=Prs	Style=Coll
+DET	Case=Par	PronType=Rel
+PRON	Case=Ine	Number=Plur	PronType=Dem	Style=Coll
+DET	Case=Ine	Number=Sing	PronType=Ind	Style=Coll
+ADJ	Case=All	Number=Sing	PronType=Dem
+NOUN	Case=Ine	Clitic=Kaan	Number=Sing
+ADJ	Case=Ade	Degree=Sup	Number=Sing
+VERB	Mood=Imp	Number=Sing	Person=3	Style=Coll	VerbForm=Fin	Voice=Act
+NOUN	Case=Ill	Number=Sing	Number[psor]=Plur	Person[psor]=1
+DET	Case=Ill	Number=Sing	PronType=Ind	Style=Coll
+PRON	Case=Ine	PronType=Rel	Style=Coll
+ADJ	Case=Gen	Number=Sing	PronType=Rel
+ADJ	Case=Nom	Number=Plur	PronType=Rel
+ADJ	Case=Nom	Number=Sing	PronType=Rel
+ADJ	Case=Tra	Number=Sing	PronType=Dem
+ADJ	Case=Tra	Number=Sing	PronType=Rel
+VERB	Case=Nom	Clitic=Kaan	Number=Plur	PartForm=Past	VerbForm=Part	Voice=Act
+PRON	Case=Ade	Clitic=Kin	Number=Plur	Person=1	PronType=Prs
+PRON	Case=Nom	Degree=Sup	Number=Plur	PronType=Ind
+PRON	Case=Ill	Number=Plur	PronType=Ind
+PRON	Case=Ade	Number=Sing	PronType=Ind
+DET	Case=Gen	Number=Sing	PronType=Dem	Style=Coll
+VERB	Case=Gen	Number=Plur	PartForm=Agt	Person[psor]=3	VerbForm=Part
+DET	Case=Ine	PronType=Ind
+PRON	Case=All	Number=Sing	Person=2	PronType=Prs	Style=Coll
+DET	Case=Par	Number=Sing	PronType=Ind	Style=Coll
+ADJ	Case=Ine	Number=Plur	PronType=Dem	Style=Coll
+PRON	Case=Acc	Number=Sing	Person=1	PronType=Prs	Style=Coll
+PRON	PronType=Ind
+NOUN	Case=Ela	Number=Sing	Number[psor]=Plur	Person[psor]=1
+PRON	Case=Par	Clitic=Han	PronType=Int
+PRON	Case=Abl	Number=Plur	Person[psor]=3	PronType=Rcp
+DET	Case=Par	Clitic=Kaan	Number=Sing	PronType=Ind
+VERB	Case=Abe	Clitic=Kaan	InfForm=3	VerbForm=Inf	Voice=Act
+PRON	Case=Par	Clitic=Kaan	Number=Sing	PronType=Ind
+AUX	Mood=Ind	Tense=Pres	VerbForm=Fin	Voice=Pass
+PRON	Case=Nom	Clitic=Han	Number=Plur	Person=2	PronType=Prs
+ADJ	Case=Ill	Number=Plur	PronType=Ind
+PRON	Case=Acc	Number=Sing	PronType=Ind
+PRON	Case=Par	Clitic=Kin	Degree=Cmp	Number=Plur	PronType=Ind
+DET	Case=Ade	Degree=Cmp	Number=Sing	PronType=Ind
+DET	Case=Gen	Degree=Cmp	Number=Sing	PronType=Ind
+PROPN	Case=Nom	Clitic=Kin	Number=Sing	Style=Coll
+DET	Case=Par	Number=Plur	PronType=Ind	Style=Coll
+PRON	Case=All	Clitic=Kin	Number=Sing	Person[psor]=3	Reflex=Yes
+NOUN	Case=Ela	Number=Sing	Number[psor]=Sing	Person[psor]=2
+PRON	Case=Abl	Number=Sing	Person[psor]=3	Reflex=Yes
+PRON	Case=Ade	Clitic=Kin	Number=Sing	Person[psor]=3	Reflex=Yes
+PRON	Case=Ade	Clitic=Kin	Number=Sing	Person=3	PronType=Prs
+ADJ	Case=Ade	Clitic=Kin	Degree=Sup	Number=Plur
+NUM	Case=Ins	Number=Plur	NumType=Card
+NUM	Case=Com	NumType=Card
+PRON	Case=Nom	Number=Plur	Person=1	PronType=Prs	Style=Coll
+VERB	Clitic=Kin	Mood=Ind	Number=Plur	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+PRON	Case=Nom	Clitic=Kin	Number=Plur	PronType=Dem
+ADJ	Case=Ela	Number=Sing	NumType=Ord
+ADJ	Case=Abl	Degree=Sup	Number=Sing
+NUM	Case=Nom	Number=Sing	Number[psor]=Sing	NumType=Card	Person[psor]=1
+PART	Clitic=Ko
+VERB	Case=Lat	Clitic=Kin	InfForm=1	VerbForm=Inf	Voice=Act
+NOUN	Case=Ess	Clitic=Ko	Number=Sing
+VERB	Clitic=Ko	Mood=Ind	Style=Coll	Tense=Pres	VerbForm=Fin	Voice=Pass
+VERB	Clitic=Han	Mood=Ind	Number=Sing	Person=2	Tense=Past	VerbForm=Fin	Voice=Act
+PROPN	Case=Abl	Clitic=Ko	Number=Sing
+NOUN	Case=Ade	Number=Sing	Person[psor]=3	Style=Coll
+AUX	Clitic=Ko	Mood=Ind	Number=Sing	Person=1	Tense=Past	VerbForm=Fin	Voice=Act
+VERB	Clitic=Han	Mood=Ind	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Ine	Number=Plur	Person=3	PronType=Prs
+DET	Case=Ela	PronType=Int
+PRON	Case=Ade	Clitic=Han	Number=Sing	Person=1	PronType=Prs	Style=Coll
+ADV	Clitic=Kin	PronType=Ind	Style=Coll
+AUX	Mood=Ind	Number=Sing	Person=2	Style=Coll	Tense=Pres	VerbForm=Fin	Voice=Act
+PART	Clitic=Han	Style=Coll
+ADJ	Case=Ess	Number=Sing	Style=Coll
+VERB	Clitic=Ka	Number=Plur	Person=1	Polarity=Neg	VerbForm=Fin	Voice=Act
+PRON	Case=Ine	Clitic=Kin	Number=Sing	PronType=Ind
+NOUN	Case=Gen	Clitic=Kaan	Number=Plur
+VERB	Clitic=Han	Mood=Imp	Number=Plur	Person=2	VerbForm=Fin	Voice=Act
+VERB	Clitic=S	Mood=Imp	Number=Sing	Person=2	VerbForm=Fin	Voice=Act
+ADV	Clitic=Han	PronType=Dem
+PRON	Case=Abl	Number=Plur	Person=2	PronType=Prs	Style=Coll
+PRON	Case=Ade	Number=Sing	PronType=Dem	Style=Coll
+AUX	Connegative=Yes	Mood=Ind	Number=Sing	Style=Coll	Tense=Past	VerbForm=Fin	Voice=Act
+NOUN	Case=Ade	Clitic=Kaan	Number=Sing
+VERB	Clitic=Ko	Mood=Ind	Number=Plur	Person=2	Style=Coll	Tense=Past	VerbForm=Fin	Voice=Act
+ADV	Clitic=Pa	PronType=Dem
+ADJ	Case=Par	Clitic=Kin	Number=Sing
+VERB	Clitic=Ko,S	Number=Sing	Person=1	Polarity=Neg	VerbForm=Fin	Voice=Act
+PRON	Case=Ade	Clitic=Kin	Number=Sing	Person=1	PronType=Prs
+PRON	Case=Ill	Clitic=Ko	Number=Sing	PronType=Dem
+PRON	Case=Nom	Clitic=Pa	Number=Sing	Person=2	PronType=Prs
+DET	Case=Par	Clitic=Han	PronType=Int
+VERB	Clitic=Han	Mood=Ind	Tense=Pres	VerbForm=Fin	Voice=Pass
+AUX	Clitic=Han	Mood=Ind	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Clitic=Han	Mood=Ind	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Case=Ill	Number=Sing	PartForm=Agt	Person[psor]=3	VerbForm=Part
+VERB	Clitic=Han	Mood=Ind	Number=Sing	Person=2	Tense=Pres	VerbForm=Fin	Voice=Act
+NOUN	Case=Gen	Clitic=Kin	Number=Sing	Number[psor]=Sing	Person[psor]=2
+PROPN	Abbr=Yes	Case=Abl	Number=Sing
+DET	Case=Gen	Clitic=Kin	Number=Sing	Person=1	PronType=Prs
+AUX	Clitic=Han	Mood=Ind	Tense=Pres	VerbForm=Fin	Voice=Pass
+VERB	Clitic=Han	Mood=Imp	Number=Plur	Person=2	Polarity=Neg	VerbForm=Fin	Voice=Act
+VERB	Clitic=Han	Mood=Imp	Number=Sing	Person=2	Style=Coll	VerbForm=Fin	Voice=Act
+VERB	Clitic=Han,Ko	Mood=Cnd	Number=Sing	Person=3	Style=Coll	VerbForm=Fin	Voice=Act
+VERB	Clitic=Han,Ko	Mood=Cnd	Number=Sing	Person=3	VerbForm=Fin	Voice=Act
+ADV	Clitic=Han,Ko	PronType=Int
+PRON	Case=Nom	Clitic=Pa	Number=Sing	Person=1	PronType=Prs
+VERB	Clitic=Pa,S	Mood=Ind	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+NOUN	Case=Gen	Clitic=Pa	Number=Sing
+VERB	Clitic=Han,Ko	Number=Sing	Person=3	Polarity=Neg	VerbForm=Fin	Voice=Act
+ADJ	Case=Gen	Clitic=Kin	Number=Sing	NumType=Ord
+PRON	Case=Ine	Clitic=Pa	Number=Sing	PronType=Dem
+VERB	Clitic=Pa	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+ADJ	Case=Par	Clitic=Kin	Number=Sing	NumType=Ord
+AUX	Clitic=Pa	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Clitic=Pa,S	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+AUX	Clitic=Pa	Mood=Ind	Number=Sing	Person=1	Tense=Past	VerbForm=Fin	Voice=Act
+VERB	Clitic=Pa	Mood=Cnd	Number=Plur	Person=1	VerbForm=Fin	Voice=Act
+VERB	Clitic=Pa	Mood=Ind	Number=Sing	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Clitic=Pa,S	Mood=Imp	Number=Sing	Person=2	VerbForm=Fin	Voice=Act
+ADV	Number[psor]=Plur	Person[psor]=2
+VERB	Clitic=Pa	Mood=Ind	Tense=Pres	VerbForm=Fin	Voice=Pass
+DET	Case=Tra	Number=Sing	PronType=Dem
+VERB	Clitic=Pa	Mood=Imp	Number=Sing	Person=2	VerbForm=Fin	Voice=Act
+VERB	Clitic=Ko,S	Mood=Ind	Number=Sing	Person=2	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Clitic=Han	Number=Sing	Person=1	Polarity=Neg	VerbForm=Fin	Voice=Act
+VERB	Clitic=Pa,S	Number=Sing	Person=1	Polarity=Neg	VerbForm=Fin	Voice=Act
+PART	Clitic=Pa,S
+PRON	Case=Nom	Clitic=Pa,S	Number=Sing	PronType=Dem
+VERB	Clitic=Ko,S	Mood=Ind	Tense=Past	VerbForm=Fin	Voice=Pass
+PART	Clitic=Ko,S
+PRON	Case=Par	Clitic=S	PronType=Int
+VERB	Clitic=Ko,S	Number=Sing	Person=3	Polarity=Neg	VerbForm=Fin	Voice=Act
+VERB	Clitic=Ko,S	Mood=Ind	Number=Sing	Person=3	Style=Coll	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Case=Lat	Clitic=Kaan	InfForm=1	Style=Coll	VerbForm=Inf	Voice=Act
+VERB	Clitic=Ko,S	Mood=Ind	Number=Sing	Person=2	Tense=Past	VerbForm=Fin	Voice=Act
+VERB	Clitic=Ko,S	Mood=Ind	Number=Plur	Person=2	Tense=Past	VerbForm=Fin	Voice=Act
+NOUN	Case=Gen	Clitic=Ko,S	Number=Sing	Number[psor]=Sing	Person[psor]=2	Style=Coll
+PRON	Case=Nom	Clitic=Ko,S	Number=Sing	Person=1	PronType=Prs
+NOUN	Case=Gen	Clitic=Ko,S	Number=Sing
+VERB	Clitic=Ko,S	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+ADV	Clitic=S	PronType=Int
+DET	Case=Nom	Clitic=S	Number=Sing	PronType=Int
+VERB	Case=Nom	Clitic=Kaan	Number=Sing	PartForm=Past	Style=Coll	VerbForm=Part	Voice=Pass
+DET	Case=Par	Clitic=S	PronType=Int
+ADV	Clitic=Ka,S	PronType=Int	Style=Coll
+ADJ	Case=Nom	Number=Sing	PronType=Int	Style=Coll
+ADJ	Case=Par	Number=Sing	PronType=Int
+PRON	Case=All	Number=Plur	Person=1	PronType=Prs	Style=Coll
+VERB	Clitic=S	Mood=Imp	Number=Plur	Person=2	VerbForm=Fin	Voice=Act
+VERB	Clitic=S	Mood=Imp	Number=Plur	Person=2	Polarity=Neg	VerbForm=Fin	Voice=Act
+VERB	Clitic=Pa,S	Mood=Imp	Number=Sing	Person=2	Style=Coll	VerbForm=Fin	Voice=Act
+VERB	Clitic=Pa,S	Mood=Ind	Tense=Pres	VerbForm=Fin	Voice=Pass
+VERB	Clitic=S	Mood=Ind	Style=Coll	Tense=Pres	VerbForm=Fin	Voice=Pass
+NOUN	Case=Gen	Clitic=Kin	Number=Sing	Number[psor]=Sing	Person[psor]=1
+VERB	Clitic=Kin	Mood=Ind	Style=Coll	Tense=Pres	VerbForm=Fin	Voice=Pass
+VERB	Clitic=Ko	Number=Sing	Person=1	Polarity=Neg	VerbForm=Fin	Voice=Act
+VERB	Clitic=Kin	Connegative=Yes	Mood=Ind	Tense=Pres	VerbForm=Fin	Voice=Act
+DET	Case=Ine	Clitic=Kin	Number=Plur	PronType=Ind
+DET	Case=Ill	Number=Sing	Person[psor]=3	Reflex=Yes
+VERB	Clitic=Kin	Mood=Ind	Number=Sing	Person=2	Tense=Pres	VerbForm=Fin	Voice=Act
+NOUN	Case=Ine	Clitic=Kin	Number=Plur
+PRON	Case=Ill	Clitic=Kin	Number=Sing	PronType=Dem
+PROPN	Case=Ela	Number=Plur
+VERB	Case=Ill	Number=Plur	PartForm=Past	VerbForm=Part	Voice=Act
+VERB	Clitic=Ko	Mood=Ind	Number=Sing	Person=1	Tense=Past	VerbForm=Fin	Voice=Act
+AUX	Connegative=Yes	Mood=Pot	VerbForm=Fin	Voice=Act
+PRON	Case=Ine	Number=Sing	PronType=Dem	Style=Coll
+PART	Clitic=S
+ADJ	Case=Par	Clitic=S	Number=Sing	PronType=Int
+PART	Clitic=S	Style=Coll
+PRON	Case=Ine	Number=Plur	PronType=Ind
+AUX	Clitic=Ka	Number=Sing	Person=3	Polarity=Neg	VerbForm=Fin	Voice=Act
+NOUN	Case=Tra	Number=Sing	Number[psor]=Sing	Person[psor]=1
+PRON	Case=Nom	Clitic=Kin	Number=Sing	Person=2	PronType=Prs
+VERB	Clitic=Han	Mood=Ind	Number=Sing	Person=1	Tense=Past	VerbForm=Fin	Voice=Act
+ADV	Clitic=Pa
+VERB	Case=Nom	Number=Sing	Number[psor]=Sing	PartForm=Agt	Person[psor]=1	VerbForm=Part
+NOUN	Case=Ess	Number=Sing	Number[psor]=Sing	Person[psor]=1
+ADJ	Case=Nom	Number=Plur	PronType=Ind
+AUX	Case=Lat	Clitic=Pa	InfForm=1	VerbForm=Inf	Voice=Act
+NOUN	Case=Nom	Number=Sing	Number[psor]=Sing	Person[psor]=2	Style=Coll
+PRON	Case=Ade	Clitic=Kin	Number=Sing	Person=2	PronType=Prs
+NOUN	Case=Ela	Number=Plur	Number[psor]=Plur	Person[psor]=1
+PRON	Case=Acc	Number=Plur	Person=2	PronType=Prs
+PRON	Case=Nom	Clitic=Pa,S	Number=Sing	Person=3	PronType=Prs
+VERB	Clitic=Han	Mood=Ind	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Nom	Clitic=Han	Number=Plur	Person=1	PronType=Prs
+PRON	Case=Acc	Number=Sing	PronType=Int
+PROPN	Case=Ela	Clitic=Ko	Number=Sing
+PROPN	Case=Ela	Number=Sing	Style=Coll
+VERB	Clitic=Kaan	Connegative=Yes	Mood=Ind	Number=Sing	Tense=Past	VerbForm=Fin	Voice=Act
+ADV	Clitic=Kaan	PronType=Ind
+ADJ	Case=Ess	Degree=Cmp	Number=Plur
+PRON	Case=Abl	Number=Sing	Person=1	PronType=Prs
+ADJ	Case=Ade	Clitic=Kin	Number=Plur
+VERB	Case=Ess	Number=Sing	PartForm=Past	Style=Coll	VerbForm=Part	Voice=Pass
+PRON	Case=Par	Degree=Cmp	Number=Plur	PronType=Ind
+AUX	Case=Ine	InfForm=3	VerbForm=Inf	Voice=Act
+AUX	Connegative=Yes	Mood=Ind	Tense=Pres	VerbForm=Fin	Voice=Pass
+VERB	Case=Nom	Clitic=Han	Number=Sing	PartForm=Pres	VerbForm=Part	Voice=Pass
+ADJ	Case=Par	Clitic=Kin	Degree=Cmp	Number=Plur
+ADV	Clitic=Han
+DET	Case=Ess	Clitic=Kaan	Number=Sing	PronType=Dem
+DET	Case=Ela	PronType=Ind
+ADJ	Case=Par	Clitic=Kaan	Number=Sing	NumType=Ord
+PRON	Case=Acc	Clitic=Kin	Number=Sing	Person=2	PronType=Prs
+AUX	Mood=Cnd	Number=Sing	Person=2	VerbForm=Fin	Voice=Act
+PRON	Case=Acc	Number=Sing	Person=2	PronType=Prs	Style=Coll
+DET	Case=Ela	Degree=Cmp	Number=Sing	PronType=Ind
+PRON	Case=Acc	Number=Plur	Person=3	PronType=Prs
+PROPN	Case=Gen	Clitic=Kaan	Number=Sing
+VERB	Mood=Imp	Number=Plur	Person=3	VerbForm=Fin	Voice=Act
+PRON	Case=Gen	Number=Sing	Person=2	PronType=Prs	Style=Coll
+VERB	Case=Par	Number=Sing	Number[psor]=Sing	PartForm=Past	Person[psor]=2	VerbForm=Part	Voice=Pass
+ADJ	Case=Gen	Number=Plur	NumType=Ord
+AUX	Clitic=Kaan	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+DET	Case=Abl	Number=Sing	PronType=Dem
+AUX	Clitic=Ko	Mood=Ind	Number=Sing	Person=2	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Ine	Number=Sing	Person=3	PronType=Prs
+AUX	Mood=Imp	Number=Sing	Person=2	VerbForm=Fin	Voice=Act
+NOUN	Case=Ine	Number=Sing	Number[psor]=Sing	Person[psor]=2
+NUM	Case=Par	Clitic=Kaan	Number=Sing	NumType=Card
+AUX	Connegative=Yes	Mood=Cnd	VerbForm=Fin	Voice=Pass
+AUX	Mood=Imp	Number=Plur	Person=2	VerbForm=Fin	Voice=Act
+NOUN	Case=Abl	Number=Sing	Number[psor]=Sing	Person[psor]=1
+DET	Case=Abl	Number=Plur	PronType=Dem
+DET	Case=Gen	Clitic=Han	PronType=Int
+ADJ	Case=Ess	Clitic=Kin	Number=Sing
+NUM	Case=Ess	Number=Sing	NumType=Card
+PRON	Case=Ess	Number=Sing	Person=2	PronType=Prs
+PRON	Case=Gen	Number=Sing	Number[psor]=Plur	Person[psor]=1	PronType=Rcp
+VERB	Case=Ess	Number=Plur	PartForm=Past	VerbForm=Part	Voice=Pass
+NUM	Case=Ess	Number=Plur	NumType=Card
+PRON	Case=Nom	Clitic=Han	PronType=Ind
+NOUN	Case=Nom	Clitic=Kin	Number=Sing	Style=Coll
+PRON	Case=Nom	Clitic=Han	Number=Sing	Person=3	PronType=Prs
+NOUN	Case=Abl	Number=Plur	Number[psor]=Sing	Person[psor]=1
+VERB	Clitic=Ka	Number=Sing	Person=2	Polarity=Neg	VerbForm=Fin	Voice=Act
+PRON	Case=Ela	Number=Sing	Person=1	PronType=Prs	Style=Coll
+PRON	Case=Par	Number=Plur	Number[psor]=Plur	Person[psor]=1	PronType=Rcp
+VERB	Case=Ill	Number=Plur	PartForm=Agt	Person[psor]=3	VerbForm=Part
+VERB	Clitic=Ko	Mood=Ind	Number=Plur	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+NOUN	Case=Par	Number=Plur	Number[psor]=Plur	Person[psor]=2
+PRON	Case=Gen	Clitic=Kin	Number=Plur	PronType=Ind
+AUX	Clitic=Ko	Mood=Ind	Number=Sing	Person=3	Style=Coll	Tense=Past	VerbForm=Fin	Voice=Act
+ADJ	Case=Nom	Degree=Cmp	Number=Sing	Style=Coll
+ADJ	Case=Nom	Number=Sing	PronType=Ind	Style=Coll
+VERB	Clitic=Kin	Mood=Ind	Number=Sing	Person=1	Style=Coll	Tense=Pres	VerbForm=Fin	Voice=Act
+ADV	Clitic=Kin	Degree=Cmp	Style=Coll
+PRON	Case=Par	Clitic=Han	Number=Sing	PronType=Dem
+ADJ	Case=Par	Clitic=Kin	Number=Sing	Style=Coll
+PRON	Case=Ela	Number=Sing	PronType=Dem	Style=Coll
+DET	Case=Nom	Clitic=Kin	Degree=Cmp	Number=Sing	PronType=Ind	Style=Coll
+NOUN	Case=Ine	Clitic=Han	Number=Plur
+VERB	Clitic=Ko	Mood=Cnd	Number=Sing	Person=2	VerbForm=Fin	Voice=Act
+NOUN	Case=Nom	Clitic=Kin	Number=Plur	Style=Coll
+PRON	Case=Abl	Number=Plur	Person=2	PronType=Prs
+PRON	Case=Par	Number=Sing	Number[psor]=Sing	Person[psor]=1	Reflex=Yes	Style=Coll
+PRON	Case=Gen	Degree=Sup	Number=Plur	PronType=Ind
+VERB	Clitic=Han	Number=Sing	Person=2	Polarity=Neg	VerbForm=Fin	Voice=Act
+VERB	Case=Nom	Clitic=Han	Number=Sing	PartForm=Past	VerbForm=Part	Voice=Act
+PRON	Case=Par	Clitic=Kin	Number=Sing	PronType=Ind
+VERB	Mood=Imp	Number=Plur	Person=1	VerbForm=Fin	Voice=Act
+DET	Case=All	Number=Plur	Person=2	PronType=Prs
+NOUN	Case=All	Number=Plur	Number[psor]=Plur	Person[psor]=2
+PRON	Case=Nom	Clitic=Han	Number=Sing	PronType=Dem	Style=Coll
+DET	Case=Nom	Number=Plur	Person=2	PronType=Prs
+PRON	Case=Nom	Clitic=Kin	Number=Plur	Person=3	PronType=Prs
+PRON	Case=Ade	Clitic=Kin	Number=Sing	PronType=Dem
+PRON	Case=Nom	Clitic=Kin	Number=Sing	Person=3	PronType=Prs
+ADJ	Case=Par	Number=Plur	PronType=Rel
+AUX	Mood=Pot	Number=Plur	Person=1	VerbForm=Fin	Voice=Act
+DET	Case=Nom	Clitic=Kin	Number=Sing	PronType=Dem	Style=Coll
+VERB	Clitic=Ko	Mood=Ind	Number=Sing	Person=3	Style=Coll	Tense=Past	VerbForm=Fin	Voice=Act
+VERB	Clitic=Kin	Mood=Ind	Number=Sing	Person=3	Style=Coll	Tense=Pres	VerbForm=Fin	Voice=Act
+ADJ	Style=Coll
+AUX	Clitic=Kaan	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+PROPN	Case=Nom	Clitic=Kaan	Number=Sing	Style=Coll
+VERB	Clitic=S	Mood=Imp	Number=Sing	Person=2	Style=Coll	VerbForm=Fin	Voice=Act
+NOUN	Case=Tra	Clitic=Kaan	Number=Sing	Style=Coll
+NOUN	Case=Ine	Clitic=Kaan	Number=Plur
+VERB	Clitic=Kaan	Mood=Ind	Number=Sing	Person=2	Tense=Pres	VerbForm=Fin	Voice=Act
+ADJ	Case=Gen	Number=Sing	PronType=Dem	Style=Coll
+NOUN	Case=Par	Number=Sing	Number[psor]=Sing	Person[psor]=2
+AUX	Clitic=Han	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Nom	Clitic=Kin	Number=Sing	PronType=Ind
+PROPN	Case=Abl	Number=Sing	Style=Coll
+NOUN	Abbr=Yes	Case=Com	Person[psor]=3
+VERB	Case=Ade	Number=Sing	PartForm=Pres	VerbForm=Part	Voice=Act
+NOUN	Abbr=Yes	Case=Ill	Number=Sing
+PRON	Case=Ade	Clitic=Kin	Number=Sing	Number[psor]=Sing	Person[psor]=2	Reflex=Yes
+VERB	Clitic=Kaan	Mood=Cnd	VerbForm=Fin	Voice=Pass
+PRON	Case=Nom	Clitic=Ko	Number=Sing	PronType=Ind
+PRON	Case=Nom	Clitic=Kaan	Number=Sing	PronType=Ind
+NOUN	Case=Par	Number=Plur	Number[psor]=Sing	Person[psor]=2
+PROPN	Case=Par	Number=Plur
+PROPN	Abbr=Yes	Case=Nom	Number=Plur
+DET	Case=All	Number=Plur	Person=1	PronType=Prs
+PRON	Case=Tra	PronType=Ind
+DET	Case=Nom	Clitic=Han	Number=Sing	PronType=Ind
+ADJ	Case=Gen	Number=Sing	PronType=Int
+VERB	Clitic=Ko	Mood=Cnd	Number=Plur	Person=3	VerbForm=Fin	Voice=Act
+VERB	Case=Tra	Number=Sing	PartForm=Pres	Style=Coll	VerbForm=Part	Voice=Pass
+DET	Case=Gen	Clitic=Kaan	Number=Plur	PronType=Ind
+PRON	Case=Gen	Number=Sing	Person=3	PronType=Prs	Style=Coll
+NOUN	Case=Par	Clitic=Han	Number=Plur
+NOUN	Case=Ill	Clitic=Kaan	Number=Sing
+PRON	Case=All	Number=Sing	Number[psor]=Sing	Person[psor]=1	Reflex=Yes
+AUX	Clitic=Kin	Mood=Cnd	Number=Sing	Person=3	VerbForm=Fin	Voice=Act
+ADJ	Case=Abl	Number=Sing	NumType=Ord
+VERB	Clitic=Kin	Mood=Cnd	VerbForm=Fin	Voice=Pass
+AUX	Number=Plur	Person=3	Polarity=Neg	VerbForm=Fin	Voice=Act
+ADJ	Case=Par	Number=Sing	PronType=Ind	Style=Coll
+NOUN	Case=Par	Clitic=Han	Number=Sing
+DET	Case=Tra	Number=Sing	PronType=Ind
+ADJ	Case=Par	Degree=Sup	Number=Sing	Number[psor]=Plur	Person[psor]=1
+ADV	Clitic=Han	PronType=Ind
+PART	Clitic=Han
+ADV	Clitic=Ka	PronType=Int
+PRON	Case=Ess	Number=Sing	PronType=Ind
+ADV	PronType=Rel	Style=Coll
+PRON	Case=Par	Number=Sing	Person=2	PronType=Prs	Style=Coll
+NUM	Case=Ine	Number=Plur	NumType=Card
+NOUN	Case=Gen	Clitic=Kaan	Number=Sing
+VERB	Case=Nom	Number=Plur	PartForm=Agt	Person[psor]=3	VerbForm=Part
+PRON	Case=Gen	Number=Sing	Number[psor]=Plur	Person[psor]=1	PronType=Ind
+ADJ	Case=Ela	Number=Plur	PronType=Dem
+ADJ	Case=Nom	Clitic=Kaan	Degree=Sup	Number=Sing
+NOUN	Case=Ill	Clitic=Kaan	Number=Plur	Number[psor]=Sing	Person[psor]=1
+INTJ	Style=Coll
+ADJ	Case=Gen	Degree=Sup	Number=Sing	Style=Coll
+VERB	Mood=Pot	Number=Sing	Person=2	VerbForm=Fin	Voice=Act
+ADV	Number[psor]=Sing	Person[psor]=1	Style=Coll
+NOUN	Case=Gen	Number=Sing	Number[psor]=Plur	Person[psor]=2
+AUX	Clitic=Kaan	Connegative=Yes	Mood=Ind	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Clitic=Kin	Mood=Cnd	Number=Sing	Person=3	Style=Coll	VerbForm=Fin	Voice=Act
+VERB	Case=Tra	Number=Plur	PartForm=Neg	VerbForm=Part
+AUX	Case=Tra	InfForm=1	Number[psor]=Sing	Person[psor]=2	VerbForm=Inf	Voice=Act
+VERB	Clitic=Pa	Mood=Ind	Number=Sing	Person=2	Tense=Pres	VerbForm=Fin	Voice=Act
+AUX	Clitic=Kin	Mood=Imp	Number=Sing	Person=3	VerbForm=Fin	Voice=Act
+VERB	Clitic=Pa	Mood=Ind	Tense=Past	VerbForm=Fin	Voice=Pass
+PRON	Case=Tra	Number=Sing	PronType=Ind
+ADJ	Case=Tra	Clitic=Kin	Number=Sing
+PRON	Case=Ill	Number=Plur	Person=1	PronType=Prs
+ADJ	Case=Par	Clitic=Han	Number=Sing
+VERB	Clitic=Pa	Mood=Ind	Number=Sing	Person=1	Tense=Past	VerbForm=Fin	Voice=Act
+VERB	Case=Ine	Number=Plur	PartForm=Pres	Person[psor]=3	VerbForm=Part	Voice=Pass
+NOUN	Case=All	Clitic=Han	Number=Sing
+PRON	Case=Nom	Clitic=Pa	Number=Sing	PronType=Int
+VERB	Mood=Cnd	Number=Plur	Person=1	VerbForm=Fin	Voice=Act
+VERB	Case=All	Number=Plur	PartForm=Neg	VerbForm=Part
+AUX	Clitic=Ko	Mood=Ind	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+AUX	Case=Nom	Number=Sing	PartForm=Past	VerbForm=Part	Voice=Pass
+DET	Case=Gen	Clitic=Ko	Number=Sing	PronType=Dem
+AUX	Clitic=Ko	Mood=Ind	Number=Sing	Person=2	Style=Coll	Tense=Pres	VerbForm=Fin	Voice=Act
+ADJ	Case=Tra	Number=Plur	PronType=Dem
+VERB	Clitic=Kaan	Connegative=Yes	Mood=Cnd	VerbForm=Fin	Voice=Act
+VERB	Case=Tra	Number=Plur	PartForm=Past	VerbForm=Part	Voice=Pass
+VERB	Case=Nom	Number=Sing	PartForm=Pres	Style=Coll	VerbForm=Part	Voice=Pass
+PRON	Case=Ade	Number=Sing	PronType=Int
+PRON	Case=Ela	Number=Sing	Number[psor]=Sing	Person[psor]=2	Reflex=Yes
+ADJ	Case=Ess	Number=Sing	PronType=Int
+DET	Case=Ess	Number=Plur	PronType=Ind
+VERB	Clitic=Kaan	Connegative=Yes	Mood=Ind	Tense=Pres	VerbForm=Fin	Voice=Pass
+PRON	Case=All	Number=Plur	PronType=Rel
+PRON	Case=Abl	Number=Sing	PronType=Int
+AUX	Clitic=Kin	Mood=Ind	Number=Sing	Person=1	Tense=Past	VerbForm=Fin	Voice=Act
+PRON	Case=Abl	PronType=Rel
+PRON	Case=Ine	PronType=Int
+ADJ	Case=All	Number=Plur	Person[psor]=3
+PRON	Case=All	Clitic=Kin	Number=Plur	PronType=Ind
+VERB	Clitic=Ko	Number=Sing	Person=2	Polarity=Neg	VerbForm=Fin	Voice=Act
+PRON	Case=Ill	Number=Sing	Person=2	PronType=Prs
+PROPN	Abbr=Yes	Case=Gen	Number=Sing	Style=Coll
+PROPN	Case=Gen	Clitic=Kin	Number=Sing
+PROPN	Case=Gen	Number=Sing	Person[psor]=3
+PRON	Case=Ill	Clitic=Kin	Number=Sing	PronType=Ind
+AUX	Case=Gen	Number=Sing	Number[psor]=Sing	PartForm=Pres	Person[psor]=1	VerbForm=Part	Voice=Act
+NOUN	Case=All	Number=Plur	Number[psor]=Plur	Person[psor]=1
+PRON	Case=Ins	Number=Plur	PronType=Ind
+VERB	Clitic=Ko	Mood=Ind	Number=Plur	Person=1	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Clitic=Ko	Mood=Ind	Number=Plur	Person=2	Tense=Past	VerbForm=Fin	Voice=Act
+AUX	Number=Sing	Person=1	Polarity=Neg	VerbForm=Fin	Voice=Act
+PROPN	Case=Nom	Number=Sing	Style=Coll
+PRON	Case=Par	Clitic=Pa	PronType=Int
+DET	Case=Par	Number=Plur	PronType=Int
+NOUN	Case=Par	Clitic=Ko	Number=Sing	Style=Coll
+PRON	Case=Par	Clitic=Kin	Number=Sing	Person=2	PronType=Prs
+PROPN	Case=Abl	Number=Plur
+ADJ	Case=Nom	Clitic=Kin	Degree=Sup	Number=Sing
+VERB	Case=Ade	Number=Sing	PartForm=Past	VerbForm=Part	Voice=Pass
+ADJ	Case=All	Degree=Sup	Number=Sing
+PROPN	Case=Ade	Clitic=Kin	Number=Sing
+AUX	Clitic=Ko	Mood=Cnd	Number=Plur	Person=3	VerbForm=Fin	Voice=Act
+ADJ	Case=Ess	Number=Plur	NumType=Ord
+NOUN	Case=Ess	Number=Plur	Person[psor]=3
+DET	Case=Ess	PronType=Int
+NUM	Case=Tra	Number=Sing	NumType=Card	Style=Coll
+VERB	Mood=Imp	Number=Sing	Person=2	Polarity=Neg	Style=Coll	VerbForm=Fin	Voice=Act
+ADJ	Case=Nom	Number=Plur	PronType=Int
+VERB	Clitic=Pa	Mood=Imp	Number=Sing	Person=2	Style=Coll	VerbForm=Fin	Voice=Act
+VERB	Case=Ela	Number=Plur	Number[psor]=Sing	PartForm=Agt	Person[psor]=1	VerbForm=Part
+VERB	Case=Ade	Number=Plur	PartForm=Pres	VerbForm=Part	Voice=Pass
+DET	Case=Ade	Number=Sing	PronType=Int
+PRON	Case=All	PronType=Int
+ADJ	Case=Abe	Degree=Cmp	Number=Plur
+DET	Case=Abe	Number=Plur	PronType=Ind
+DET	Case=Gen	Degree=Sup	Number=Plur	PronType=Ind
+NOUN	Case=Com	Number[psor]=Sing	Person[psor]=2
+NOUN	Case=Com	Number[psor]=Plur	Person[psor]=1
+NOUN	Case=All	Number=Sing	Style=Coll
+VERB	Clitic=Ko	Mood=Cnd	Number=Plur	Person=2	VerbForm=Fin	Voice=Act
+ADJ	Case=Par	Degree=Sup	Number=Sing	Number[psor]=Sing	Person[psor]=2
+VERB	Clitic=Ko	Mood=Cnd	Number=Sing	Person=2	Style=Coll	VerbForm=Fin	Voice=Act
+AUX	Clitic=Ko	Mood=Cnd	Number=Sing	Person=1	VerbForm=Fin	Voice=Act
+PRON	Case=Gen	Number=Sing	Number[psor]=Plur	Person[psor]=2	Reflex=Yes
+VERB	Case=Nom	Number=Plur	Number[psor]=Sing	PartForm=Agt	Person[psor]=1	VerbForm=Part
+NOUN	Case=Ill	Number=Plur	Number[psor]=Plur	Person[psor]=2
+ADJ	Case=Tra	Degree=Cmp	Number=Plur
+ADJ	Case=Par	Clitic=Kin	Degree=Cmp	Number=Sing
+AUX	Mood=Imp	Number=Sing	Person=3	VerbForm=Fin	Voice=Act
+AUX	Mood=Imp	Number=Plur	Person=3	VerbForm=Fin	Voice=Act
+ADJ	Case=Par	Number=Plur	PronType=Dem	Style=Coll
+ADV	Degree=Cmp	Style=Coll
+ADV	Clitic=Kaan	Style=Coll
+PROPN	Case=Nom	Number=Sing	Person[psor]=3
+ADJ	Case=Nom	Number=Sing	Number[psor]=Sing	Person[psor]=2
+ADJ	Case=Par	Number=Sing	Number[psor]=Sing	Person[psor]=1
+VERB	Case=Nom	Number=Sing	PartForm=Agt	Person[psor]=3	VerbForm=Part
+DET	Case=Nom	Clitic=Kin	Number=Plur	PronType=Dem
+VERB	Case=Abe	InfForm=3	Person[psor]=3	VerbForm=Inf	Voice=Act
+VERB	Case=Tra	InfForm=1	Number[psor]=Plur	Person[psor]=2	VerbForm=Inf	Voice=Act
+NOUN	Case=Abl	Number=Sing	Number[psor]=Plur	Person[psor]=1
+VERB	Case=All	Number=Plur	PartForm=Agt	Person[psor]=3	VerbForm=Part
+PRON	Case=Gen	Clitic=Kin	Number=Sing	PronType=Ind
+ADJ	Case=Ine	Clitic=Kin	Degree=Cmp	Number=Sing
+VERB	Case=Par	Number=Plur	Number[psor]=Sing	PartForm=Agt	Person[psor]=1	VerbForm=Part
+PROPN	Case=Ine	Clitic=Han	Number=Sing
+DET	Case=Abl	PronType=Int
+AUX	Clitic=Pa,S	Mood=Ind	Tense=Pres	VerbForm=Fin	Voice=Pass
+DET	Case=Ade	Clitic=S	PronType=Int
+NOUN	Case=Ine	Number=Plur	Number[psor]=Sing	Person[psor]=2
+ADJ	Case=Ine	Number=Sing	PronType=Ind
+VERB	Case=Ela	Number=Plur	PartForm=Agt	Person[psor]=3	VerbForm=Part
+PRON	Case=Ela	Number=Sing	Number[psor]=Plur	Person[psor]=1	Reflex=Yes
+DET	Case=Ill	Clitic=Kin	Number=Sing	PronType=Dem
+VERB	Case=Ine	Number=Plur	PartForm=Agt	Person[psor]=3	VerbForm=Part
+PROPN	Case=Ela	Clitic=Kaan	Number=Sing
+PRON	Case=Ela	Clitic=Kin	Number=Sing	PronType=Dem
+VERB	Clitic=Han	Number=Sing	Person=1	Polarity=Neg	Style=Coll	VerbForm=Fin	Voice=Act
+ADV	Clitic=Kaan	PronType=Dem
+PRON	Case=Abl	Clitic=Han	PronType=Int
+ADJ	Case=Gen	Degree=Cmp	Number=Plur	Person[psor]=3
+PRON	Case=Tra	Number=Sing	PronType=Rel
+PRON	Case=Ess	Number=Sing	Reflex=Yes	Style=Coll
+NOUN	Case=Gen	Clitic=Han	Number=Sing
+VERB	Case=Par	Clitic=Han	Number=Sing	PartForm=Past	VerbForm=Part	Voice=Pass
+PROPN	Case=Gen	Number=Sing	Number[psor]=Plur	Person[psor]=1
+PRON	Case=Ela	Clitic=Kin	Number=Plur	Person=1	PronType=Prs
+PRON	Case=Ill	Number=Plur	Number[psor]=Plur	Person[psor]=1	PronType=Rcp
+PRON	Case=Ela	Clitic=Kaan	Number=Sing	Number[psor]=Sing	Person[psor]=1	Reflex=Yes
+PROPN	Case=Ade	Clitic=Han	Number=Sing
+VERB	Clitic=Ka	Number=Plur	Person=2	Polarity=Neg	VerbForm=Fin	Voice=Act
+DET	Case=Ine	Clitic=Kin	Number=Plur	PronType=Dem
+DET	Case=Ela	Clitic=Kin	Number=Plur	PronType=Dem
+PRON	Case=All	Clitic=Kin	Number=Sing	Reflex=Yes
+PRON	Case=Gen	Clitic=Han	Number=Sing	Person=1	PronType=Prs
+PRON	Case=Gen	Clitic=Kin	Number=Sing	Person=1	PronType=Prs
+VERB	Case=Ine	Clitic=Kin	InfForm=2	Person[psor]=3	VerbForm=Inf	Voice=Act
+AUX	Mood=Ind	Number=Plur	Person=2	Style=Coll	Tense=Pres	VerbForm=Fin	Voice=Act
+ADJ	Case=Ade	Number=Sing	PronType=Ind
+PROPN	Case=Ade	Clitic=Ko	Number=Sing
+PRON	Case=Nom	Clitic=Han	Number=Sing	Person=1	PronType=Prs
+VERB	Case=Ade	Number=Sing	PartForm=Pres	VerbForm=Part	Voice=Pass
+ADJ	Case=Ill	Clitic=Kin	Number=Plur	Style=Coll
+VERB	Case=Nom	Number=Plur	Number[psor]=Plur	PartForm=Agt	Person[psor]=1	VerbForm=Part
+ADJ	Case=All	Number=Sing	NumType=Ord
+PROPN	Case=All	Clitic=Kin	Number=Sing
+ADV	Clitic=Kin	Style=Coll
+NOUN	Case=Ine	Clitic=Han	Number=Sing
+ADP	Number[psor]=Plur	Person[psor]=2
+NOUN	Case=Ess	Number=Sing	Number[psor]=Plur	Person[psor]=1
+VERB	Case=Nom	Clitic=Kin	Number=Plur	PartForm=Past	VerbForm=Part	Voice=Act
+NOUN	Case=Gen	Number=Plur	Style=Coll
+NOUN	Case=Ill	Number=Plur	Style=Coll
+VERB	Number=Sing	Person=3	Polarity=Neg	Style=Coll	VerbForm=Fin	Voice=Act
+DET	Case=Gen	Number=Sing	PronType=Ind	Style=Coll
+PROPN	Abbr=Yes	Case=Ine	Number=Sing	Style=Coll
+ADJ	Case=Ess	Number=Sing	PronType=Dem	Style=Coll
+ADJ	Case=Ine	Number=Sing	PronType=Dem	Style=Coll
+ADV	Clitic=Han,Ka	PronType=Int	Style=Coll
+DET	Case=Gen	Clitic=Kin	Number=Plur	Person=1	PronType=Prs
+VERB	Case=Par	Number=Sing	PartForm=Past	Style=Coll	VerbForm=Part	Voice=Act
+VERB	Case=Par	Number=Sing	Number[psor]=Sing	PartForm=Agt	Person[psor]=2	VerbForm=Part
+PRON	Case=Ade	Number=Plur	PronType=Dem	Style=Coll
+ADJ	Case=Abl	Degree=Cmp	Number=Plur
+PRON	Case=All	Clitic=Kin	Number=Plur	Person=1	PronType=Prs
+ADJ	Case=Ill	Clitic=Kin	Number=Sing
+NOUN	Case=Gen	Clitic=Kin	Number=Sing	Person[psor]=3
+NOUN	Case=Ade	Number=Sing	Number[psor]=Plur	Person[psor]=1
+NOUN	Case=Par	Number=Plur	Person[psor]=3	Style=Coll
+PROPN	Case=Par	Clitic=Kin	Number=Sing
+VERB	Case=Ins	InfForm=2	Style=Coll	VerbForm=Inf	Voice=Act
+VERB	Case=Nom	Clitic=Kin	Number=Sing	PartForm=Past	Style=Coll	VerbForm=Part	Voice=Act
+NOUN	Case=Ade	Number=Plur	Number[psor]=Sing	Person[psor]=2
+PRON	Case=Nom	Number=Sing	Person[psor]=3	PronType=Rcp
+PRON	Case=Par	Number=Plur	Number[psor]=Plur	Person[psor]=2	PronType=Rcp
+PROPN	Case=Gen	Number=Plur	Person[psor]=3
+VERB	Case=Ela	Number=Sing	PartForm=Neg	VerbForm=Part
+VERB	Case=Gen	Clitic=Kaan	Number=Sing	PartForm=Pres	VerbForm=Part	Voice=Act
+PROPN	Case=Nom	Number=Sing	Number[psor]=Sing	Person[psor]=2	Style=Coll
+PROPN	Case=Ade	Number=Sing	Style=Coll
+DET	Case=Gen	Number=Sing	Person=3	PronType=Prs	Style=Coll
+NOUN	Case=Ela	Number=Sing	Person[psor]=3	Style=Coll
+DET	Case=All	Number=Sing	PronType=Dem	Style=Coll
+PROPN	Case=Gen	Number=Plur	Style=Coll
+ADJ	Case=Tra	Number=Sing	PronType=Dem	Style=Coll
+PRON	Case=Abl	Number=Plur	PronType=Dem	Style=Coll
+NOUN	Case=Nom	Clitic=Han	Number=Sing	Person[psor]=3
+VERB	Clitic=Ko	Number=Plur	Person=2	Polarity=Neg	VerbForm=Fin	Voice=Act
+PRON	Case=Nom	Clitic=Kin	Number=Plur	Person=2	PronType=Prs
+ADJ	Case=Ill	Number=Sing	NumType=Ord	Style=Coll
+VERB	Number=Sing	Person=2	Polarity=Neg	Style=Coll	VerbForm=Fin	Voice=Act
+PRON	Case=Nom	Clitic=Pa,S	Number=Sing	Person=1	PronType=Prs	Style=Coll
+PRON	Case=Ade	Number=Sing	Person[psor]=3	Reflex=Yes	Style=Coll
+PRON	Case=All	Number=Sing	PronType=Dem	Style=Coll
+NOUN	Case=Ill	Clitic=Han	Number=Sing	Style=Coll
+PROPN	Case=Gen	Number=Plur	Style=Arch
+VERB	Case=Abl	Number=Sing	PartForm=Past	VerbForm=Part	Voice=Pass
+PRON	Case=Abl	Clitic=Kin	Number=Sing	Person=1	PronType=Prs
+ADJ	Case=All	Number=Sing	Style=Coll
+PRON	Case=Tra	PronType=Rel
+DET	Case=Par	Degree=Cmp	Number=Sing	PronType=Ind
+ADV	Number[psor]=Sing	Person[psor]=2	Style=Coll
+VERB	Clitic=Han,Ko	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+VERB	Case=Ine	InfForm=2	Number[psor]=Plur	Person[psor]=1	VerbForm=Inf	Voice=Act
+PRON	Case=Abl	Number=Sing	Person=2	PronType=Prs
+AUX	Case=Nom	Number=Sing	PartForm=Pres	VerbForm=Part	Voice=Act
+AUX	Mood=Imp	Number=Plur	Person=1	VerbForm=Fin	Voice=Act
+DET	Case=Par	Clitic=Kin	Number=Plur	PronType=Dem
+ADV	Clitic=Ko,S
+ADV	Clitic=Han	Style=Coll
+ADJ	Case=Ade	Number=Sing	PronType=Dem
+PRON	Case=Nom	Clitic=Kin	Number=Sing	Reflex=Yes	Style=Coll
+ADV	Clitic=Ko	Style=Coll
+NOUN	Case=Nom	Number=Sing	Person[psor]=3	Style=Coll
+NUM	Case=Ela	Number=Sing	NumType=Card	Style=Coll
+VERB	Case=Ade	Clitic=Kin	Number=Plur	PartForm=Pres	VerbForm=Part	Voice=Act
+VERB	Case=Par	Number=Sing	Number[psor]=Sing	PartForm=Agt	Person[psor]=1	VerbForm=Part
+PRON	Case=Gen	Degree=Cmp	Number=Plur	PronType=Ind
+VERB	Case=Ill	Number=Plur	PartForm=Neg	VerbForm=Part
+NUM	Case=Ade	Number=Plur	NumType=Card
+ADJ	Case=Ill	Degree=Sup	Number=Plur	Person[psor]=3
+VERB	Clitic=Kaan	Mood=Cnd	Number=Sing	Person=3	VerbForm=Fin	Voice=Act
+AUX	Mood=Pot	Number=Sing	Person=3	VerbForm=Fin	Voice=Act
+VERB	Clitic=Pa	Number=Plur	Person=3	Polarity=Neg	VerbForm=Fin	Voice=Act
+PRON	Case=Nom	Clitic=Kaan	Number=Plur	PronType=Ind
+PRON	Case=Nom	Number=Plur	Person=3	PronType=Prs	Style=Coll
+VERB	Mood=Pot	Number=Sing	Person=1	Style=Coll	VerbForm=Fin	Voice=Act
+NOUN	Case=Abl	Number=Sing	Style=Coll
+VERB	Mood=Pot	Number=Plur	Person=1	VerbForm=Fin	Voice=Act
+PROPN	Case=Ine	Clitic=Kin	Number=Plur
+ADV	Clitic=Kin	PronType=Dem	Style=Coll
+PRON	Case=Par	Clitic=Han	PronType=Int	Style=Coll
+VERB	Clitic=Pa	Mood=Ind	Number=Sing	Person=3	Style=Coll	Tense=Pres	VerbForm=Fin	Voice=Act
+ADJ	Case=Nom	Number=Plur	Person[psor]=3
+ADJ	Case=Nom	Clitic=Kaan	Number=Plur
+PROPN	Case=Nom	Number=Sing	Number[psor]=Sing	Person[psor]=2
+ADJ	Case=Ins	Degree=Sup	Number=Plur
+PRON	Case=Ade	Number=Sing	Number[psor]=Sing	Person[psor]=2	Reflex=Yes	Style=Coll
+NOUN	Case=Par	Clitic=Kaan	Number=Sing	Person[psor]=3	Style=Coll
+PRON	Case=Ine	Clitic=Han	PronType=Int
+PRON	Case=Nom	Clitic=Kaan	Number=Sing	Person=2	PronType=Prs
+PRON	Case=Acc	Clitic=Kin	Number=Plur	Person=1	PronType=Prs
+ADJ	Case=Tra	Number=Sing	Person[psor]=3
+VERB	Clitic=Kaan	Mood=Cnd	Number=Plur	Person=3	VerbForm=Fin	Voice=Act
+VERB	Case=Ill	Clitic=Kaan	InfForm=3	VerbForm=Inf	Voice=Act
+PRON	Case=Nom	Clitic=Kaan	Number=Sing	Person=1	PronType=Prs
+PRON	Case=Ela	PronType=Ind
+PROPN	Case=Nom	Clitic=Kaan	Number=Sing
+DET	Case=Gen	Number=Sing	PronType=Int
+PRON	Case=Ela	PronType=Ind	Style=Coll
+DET	Case=Ade	PronType=Ind
+PRON	Case=Par	Clitic=Kaan	Number=Sing	PronType=Dem
+VERB	Clitic=Kaan	Mood=Ind	Number=Sing	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+ADV	Clitic=Ko	PronType=Dem
+VERB	Case=Gen	Clitic=Kaan	Number=Sing	PartForm=Past	VerbForm=Part	Voice=Act
+VERB	Clitic=Kin	Mood=Imp	Number=Sing	Person=2	VerbForm=Fin	Voice=Act
+PRON	Case=Ill	Number=Sing	Number[psor]=Plur	Person[psor]=1	Reflex=Yes
+PRON	Case=Nom	Number=Sing	Number[psor]=Sing	Person[psor]=2	Reflex=Yes
+AUX	Mood=Cnd	Number=Plur	Person=2	VerbForm=Fin	Voice=Act
+PRON	Case=All	Number=Plur	Number[psor]=Plur	Person[psor]=2	PronType=Rcp
+VERB	Mood=Cnd	Number=Plur	Person=3	Style=Coll	VerbForm=Fin	Voice=Act
+PRON	Case=Ela	Clitic=Han	PronType=Int
+VERB	Case=Ine	InfForm=2	Number[psor]=Sing	Person[psor]=2	Style=Coll	VerbForm=Inf	Voice=Act
+ADJ	Case=Ill	Number=Sing	PronType=Int
+PRON	Case=All	Clitic=Kin	Number=Sing	Person=1	PronType=Prs	Style=Coll
+PRON	Case=Ill	Number=Plur	PronType=Dem	Style=Coll
+NOUN	Case=All	Number=Plur	Style=Coll
+VERB	Mood=Ind	Number=Plur	Person=2	Style=Coll	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Case=Gen	Number=Sing	Number[psor]=Sing	PartForm=Agt	Person[psor]=2	VerbForm=Part
+VERB	Mood=Pot	Number=Plur	Person=2	VerbForm=Fin	Voice=Act
+AUX	Clitic=Han	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+PRON	Case=Ill	PronType=Int	Style=Coll
+VERB	Clitic=S	Mood=Imp	Number=Sing	Person=2	Polarity=Neg	VerbForm=Fin	Voice=Act
+VERB	Clitic=Pa,S	Mood=Imp	Number=Plur	Person=2	VerbForm=Fin	Voice=Act
+VERB	Clitic=Kin	Mood=Imp	Number=Plur	Person=2	VerbForm=Fin	Voice=Act
+VERB	Clitic=Kaan	Connegative=Yes	Mood=Imp	VerbForm=Fin	Voice=Act
+ADV	Clitic=Han,Ka	PronType=Int
+DET	Case=Gen	Number=Plur	PronType=Int
+ADJ	Case=Ine	Number=Sing	PronType=Int
+PRON	Case=Par	Number=Plur	Person=2	PronType=Prs	Style=Coll
+PRON	Case=Abl	Clitic=Ko,S	Number=Sing	PronType=Ind
+ADJ	Case=Nom	Clitic=Ko	Number=Sing
+DET	Case=Par	Clitic=Kin	Number=Sing	PronType=Ind
+DET	Case=All	PronType=Int
+ADV	Clitic=Ka,S	PronType=Int
+ADP	Number[psor]=Sing	Person[psor]=2	Style=Coll
+VERB	Mood=Ind	Number=Sing	Person=2	Style=Coll	Tense=Past	VerbForm=Fin	Voice=Act
+PRON	Case=Par	Clitic=Ko	Number=Sing	PronType=Dem
+PRON	Case=Nom	Clitic=Ko	Number=Sing	Person=2	PronType=Prs
+PRON	Case=Nom	Clitic=Ko	Number=Plur	Person=2	PronType=Prs
+VERB	Clitic=Kin	Mood=Cnd	Number=Sing	Person=1	VerbForm=Fin	Voice=Act
+PRON	Case=Nom	Clitic=Ko	Number=Plur	Person=2	PronType=Prs	Style=Coll
+VERB	Number=Plur	Person=2	Polarity=Neg	Style=Coll	VerbForm=Fin	Voice=Act
+ADJ	Case=Ess	Clitic=Ko	Number=Sing
+NOUN	Case=Nom	Clitic=Ko	Number=Plur
+NOUN	Case=Par	Clitic=Ko	Number=Plur
+ADV	Clitic=Ko	PronType=Int
+PRON	Case=Nom	Clitic=Ko	Number=Sing	PronType=Int
+PRON	Case=Nom	Clitic=Ko	PronType=Ind
+VERB	Clitic=Ko	Mood=Cnd	Number=Plur	Person=1	VerbForm=Fin	Voice=Act
+AUX	Clitic=Kin	Connegative=Yes	Mood=Ind	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Clitic=Han,Ko	Number=Sing	Person=1	Polarity=Neg	VerbForm=Fin	Voice=Act
+VERB	Clitic=Han,Ko	Number=Plur	Person=3	Polarity=Neg	VerbForm=Fin	Voice=Act
+VERB	Clitic=Kin	Connegative=Yes	Mood=Ind	Style=Coll	Tense=Pres	VerbForm=Fin	Voice=Act
+PRON	Case=Ade	Clitic=Kaan	Number=Sing	Person=2	PronType=Prs	Style=Coll
+VERB	Clitic=Ko,S	Mood=Ind	Number=Plur	Person=2	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Clitic=Ko	Mood=Cnd	VerbForm=Fin	Voice=Pass
+AUX	Clitic=Han,Ko	Mood=Ind	Number=Sing	Person=3	Style=Coll	Tense=Pres	VerbForm=Fin	Voice=Act
+AUX	Clitic=Ko,S	Mood=Ind	Number=Sing	Person=3	Tense=Past	VerbForm=Fin	Voice=Act
+ADV	Clitic=Han,Ko	PronType=Dem
+VERB	Clitic=Kaan	Mood=Ind	Number=Plur	Person=3	Tense=Pres	VerbForm=Fin	Voice=Act
+VERB	Clitic=Pa	Mood=Cnd	Number=Sing	Person=3	Style=Coll	VerbForm=Fin	Voice=Act
+NOUN	Case=Ade	Clitic=Kin	Number=Plur
+PRON	Case=Nom	Clitic=Ko	Number=Sing	Person=1	PronType=Prs
+VERB	Clitic=Han,Ko	Mood=Ind	Style=Coll	Tense=Pres	VerbForm=Fin	Voice=Pass
+VERB	Case=Par	Number=Sing	PartForm=Past	Style=Coll	VerbForm=Part	Voice=Pass
+AUX	Clitic=Kin	Mood=Ind	Number=Sing	Person=2	Tense=Pres	VerbForm=Fin	Voice=Act
+NOUN	Case=Par	Number=Sing	Number[psor]=Sing	Person[psor]=2	Style=Coll
+ADJ	Case=Ade	Degree=Cmp	Number=Plur	Style=Coll
+ADJ	Case=Par	Degree=Cmp	Number=Sing	Style=Coll
+PROPN	Case=Gen	Clitic=Han	Number=Sing
+DET	Case=Gen	Number=Plur	Person=2	PronType=Prs	Style=Coll
+PROPN	Case=Ela	Clitic=Kin	Number=Sing	Style=Coll
+ADV	Clitic=Han	Degree=Cmp
+VERB	Case=Par	Clitic=Kin	Number=Sing	PartForm=Past	Person[psor]=3	VerbForm=Part	Voice=Pass
