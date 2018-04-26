@@ -1,7 +1,3 @@
-# To change this license header, choose License Headers in Project Properties.
-# To change this template file, choose Tools | Templates
-# and open the template in the editor.
-
 import dynet as dy
 import numpy as np
 import os
@@ -11,37 +7,39 @@ import sys
 
 class Dataset:
     # dynet embeddings
-    lookup_word = None
-    lookup_xpos = None
-    lookup_upos = None
-
-    word2vec = {}
-    xpos2vec = {}
-    upos2vec = {}
-    word_embeddings_size = 0
-    morph_embeddings_size = 0
-    xpos2int = {}
-    attrs2int = {}  # deocamdata nu folosim asa ceva
-    upos2int = {}
-
-    word2int = {}
-    label2int = {}
-    labels = None
-    num_train_examples = 0
-    num_train_sequences = 0
-    num_dev_examples = 0
-    num_dev_sequences = 0
-    num_embeddings = 0
-    input_size = 0
-    output_size = 0
-    aux_size = 0
-    train_file = None
-    dev_file = None
-    file_train = None
-    file_dev = None
-    drop_prob = 0.33
 
     def __init__(self, train_file, dev_file, word_embeddings_file, embeddings_size, use_morph):
+    # dynet embeddings
+        self.lookup_word = None
+        self.lookup_xpos = None
+        self.lookup_upos = None
+
+        self.word2vec = {}
+        self.xpos2vec = {}
+        self.upos2vec = {}
+        self.word_embeddings_size = 0
+        self.morph_embeddings_size = 0
+        self.xpos2int = {}
+        self.attrs2int = {}  # deocamdata nu folosim asa ceva
+        self.upos2int = {}
+
+        self.word2int = {}
+        self.label2int = {}
+        self.labels = None
+        self.num_train_examples = 0
+        self.num_train_sequences = 0
+        self.num_dev_examples = 0
+        self.num_dev_sequences = 0
+        self.num_embeddings = 0
+        self.input_size = 0
+        self.output_size = 0
+        self.aux_size = 0
+        self.train_file = None
+        self.dev_file = None
+        self.file_train = None
+        self.file_dev = None
+        self.drop_prob = 0.33
+
         self.embeddings_size = embeddings_size
         self.train_file = train_file
         self.dev_file = dev_file

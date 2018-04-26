@@ -9,7 +9,7 @@ import os.path
 
 import dynet_config
 
-dynet_config.set(mem=2048, autobatch=False)
+dynet_config.set(mem=1024, autobatch=False)
 dynet_config.set_gpu()
 
 import dynet as dy

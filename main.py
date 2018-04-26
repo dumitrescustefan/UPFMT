@@ -23,30 +23,50 @@ print("Entrypoint in docker container:")
 print(sys.argv[1:])
 input=""
 output=""
-language=""
+language="en" #default language
 params={}
 
-# read parameters
+# read input 
+for i in range(1,len(sys.argv)-1):
+    param = sys.argv[i]
+    if param == "--input":
+        input = sys.argv[i+1]
+    if param == "--output":
+        output = sys.argv[i+1]
+
 for param in sys.argv[1:]:    
+    if "=" not in param:
+        continue;    
     parts = param.split("=")
     if len(parts)!=2:
         print("Error parsing parameter: "+param)
         sys.exit(10)
-    if parts[0]=="--input":
-        input = parts[1]
-        continue
-    if parts[0]=="--output":
-        output = parts[1]
-        continue
     if "--param:" in parts[0]: #--param:language=en
         params[parts[0].split(":")[1]] = parts[1]        
         if "language" in params:
             language = params["language"]
-    
+
+if input.strip()=="":
+    print("ERROR: Please provide an input folder!")
+    sys.exit(1)
+if output.strip()=="":
+    print("ERROR: Please provide an output folder!")
+    sys.exit(2)
+if input==output:
+    print("ERROR: Input folder must not be the same as the output folder!")
+    sys.exit(3)
+            
 print("Docker input folder: "+input)
 print("Docker output folder: "+output)
+# check output folders exist
+if not os.path.exists(output):
+    os.makedirs(output)
+    print("\t folder does not exist, creating it..")
+    if not os.path.exists(output):
+        print("\t folder creation failed! ["+output+"] does not exist")
+        sys.exit(11)        
 print("Language parameter:  "+language)
-print("Other parameters: "+str(params))
+print("Parameter dictionary: "+str(params))
 root_folder = os.path.dirname(os.path.realpath(__file__))
 print("Local path is: "+root_folder)
 print("_"*80)
@@ -57,7 +77,7 @@ input_files_xmi = [os.path.join(input,f) for f in listdir(input) if isfile(os.pa
 input_files_txt = [os.path.join(input,f) for f in listdir(input) if isfile(os.path.join(input, f)) and ".txt" in f]
 if len(input_files_xmi) + len(input_files_txt) == 0:
     print(" No input .xmi or .txt files found!")
-    sys.exit(0)
+    sys.exit(4)
 
 
 # 1. convert xmi to txt
@@ -94,16 +114,15 @@ for input_file in input_files:
     process = subprocess.Popen(command, shell=True, stdout=subprocess.PIPE)
     process.wait()    
     
-    copyfile(root_folder+"/temporary.conll", output+"/temporary.conll")
-    
     # run all other tools
     test(root_folder+"/models/"+language, root_folder+"/temporary.conll", output_file)
     
     # convert conllu to xmi
-    if os.path.isfile(output_file.replace(".conllu",".xmi")): # cleanup of existing .xmi file is necessary so groovy script dosen't fail
-        print("\t\t Removing existing file : "+output_file.replace(".conllu",".xmi"))
-        os.remove(output_file.replace(".conllu",".xmi")) 
+    if os.path.isfile(os.path.join(output,"TypeSystem.xml")):
         os.remove(os.path.join(output,"TypeSystem.xml"))
+    if os.path.isfile(output_file.replace(".conllu",".xmi")): # cleanup of existing .xmi file is necessary so groovy script dosen't fail (its overwrite defaults to false)
+        print("\t\t Removing existing file : "+output_file.replace(".conllu",".xmi")) 
+        os.remove(output_file.replace(".conllu",".xmi")) 
         
     #args[0] <- input path
     #args[1] <- input conllu file
@@ -114,3 +133,4 @@ for input_file in input_files:
     process = subprocess.Popen(command, shell=True, stdout=subprocess.PIPE)
     process.wait()
     
+print("DONE.")
