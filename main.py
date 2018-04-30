@@ -5,6 +5,9 @@ from os.path import isfile, join, split
 import subprocess
 from shutil import copyfile
 from parser.neural_parser import test
+import lxml.html
+import codecs
+import re
 
 #python2 main.py --input=/work/_d/in --output=/work/_d/out --param:language=ro
 
@@ -14,10 +17,58 @@ def convert_xmi2txt (xmi_file, txt_file):
         contents = fr.readlines()       
     for line in contents:
         if "sofaString=" in line:
-            text = line[line.index("sofaString=")+12:line.rfind("\" />")]                
-    with open(txt_file,'w') as fr:
+            text = line[line.index("sofaString=")+12:]
+            i1 = text.find("\" />")
+            i2 = text.find("\"/>")
+            if i1!=-1 and i2!=-1:
+                i = min(i1,i2)
+            if i1!=-1 and i2==-1:
+                i = i1
+            if i1==-1 and i2!=-1:
+                i = i2
+            if i1==-1 and i1==-1:
+                i = len(text) # this should not happen            
+            text = text[:i].strip()
+    
+    if text.endswith("\"/>"):
+        text = text[:-3]
+    if text.endswith("\" />"):
+        text = text[:-4]        
+     
+    # clean up text ...
+    text = lxml.html.fromstring(text).text
+    text = re.sub(' +',' ',text)
+    
+    #with open(txt_file,'w') as fr:
+    with codecs.open(txt_file,'w',encoding='utf8') as fr:
         fr.write(text)
 
+def mem_protection (input_file, output_file):
+    contents = []   
+    output = []
+    max = 150
+    with codecs.open(input_file,'r',encoding='utf8') as fr:
+            contents = fr.readlines()         
+        
+    counter = 0
+    for line in contents:
+        l = line.strip()
+        if l=="":
+            counter = 0 
+            output.append("\n")
+        else:
+            counter+=1
+            index = l.find("\t")
+            if counter > max:
+                counter = 1
+                output.append("\n")
+            output.append(str(counter)+l[index:]+"\n")
+    
+    output.append("\n")      
+    with codecs.open(output_file,'w',encoding='utf8') as fr:
+        for l in output:
+            fr.write(l)
+        
 
 print("Entrypoint in docker container:")
 print(sys.argv[1:])
@@ -109,13 +160,22 @@ for input_file in input_files:
         
     #tokenization --> parsing
     #    print "Usage: main.py <language code> <input raw text> <output conll>"  
-    command="java -Xmx2g -jar "+root_folder+"/tools/UDTokenizer.jar "+root_folder+"/tools/models/"+language+" "+input_file+" "+root_folder+"/temporary.conll"
+    command="java -Xmx1g -jar "+root_folder+"/tools/UDTokenizer.jar "+root_folder+"/tools/models/"+language+" "+input_file+" "+root_folder+"/temporary.conllu"
     print("\n\t\t Running tokenizer : "+command)
     process = subprocess.Popen(command, shell=True, stdout=subprocess.PIPE)
     process.wait()    
     
+    # debug intermediary step
+    copyfile(root_folder+"/temporary.conllu", os.path.join(output,"temporary.conllu"))
+    
+    # mem protection, force line split
+    mem_protection(root_folder+"/temporary.conllu", root_folder+"/temporary-mem.conllu")
+    
+    # debug intermediary step
+    copyfile(root_folder+"/temporary-mem.conllu", os.path.join(output,"temporary-mem.conllu"))    
+    
     # run all other tools
-    test(root_folder+"/models/"+language, root_folder+"/temporary.conll", output_file)
+    test(root_folder+"/models/"+language, root_folder+"/temporary-mem.conllu", output_file)
     
     # convert conllu to xmi
     if os.path.isfile(os.path.join(output,"TypeSystem.xml")):
