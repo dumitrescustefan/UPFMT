@@ -117,6 +117,11 @@ if not os.path.exists(output):
         print("\t folder creation failed! ["+output+"] does not exist")
         sys.exit(11)        
 print("Language parameter:  "+language)
+# check that language model exists
+if not os.path.exists(os.path.join(os.sep, "UPFMT","models",language)):
+    print("\t ERROR, model for language ["+language+"] does not exist, exiting...")
+    sys.exit(12)        
+
 print("Parameter dictionary: "+str(params))
 root_folder = os.path.dirname(os.path.realpath(__file__))
 print("Local path is: "+root_folder)
