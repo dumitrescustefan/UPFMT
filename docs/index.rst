@@ -1,3 +1,6 @@
+Welcome to UPFMT's documentation!
+=================================
+
 # UPFMT
 Unified Processing Framework for raw Multilingual Text
 
@@ -81,3 +84,4 @@ The ``-train`` command has three parameters: train file (in conllu format), dev 
 At run-time, the same model path will need to be given.
 
 Any language can be used as a corpus to build a new model as long as the corpus is in conllu format and we have created a train-dev pair. Not having a dev file will also work (wont't break the training), but stopping the training will be done by evaluation the parsing performance over the train set, a "trick" that will most likely lead to overfitting the training data and implicit worse performance results on new examples; so, we highly recommend having a dev corpus set aside when training.
+
