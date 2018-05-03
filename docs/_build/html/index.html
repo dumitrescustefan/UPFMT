@@ -1,0 +1,178 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>UPFMT &#8212; UPFMT  documentation</title>
+    <link rel="stylesheet" href="_static/alabaster.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <script type="text/javascript" src="_static/documentation_options.js"></script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+   
+  <link rel="stylesheet" href="_static/custom.css" type="text/css" />
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head><body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <div class="section" id="upfmt">
+<h1>UPFMT<a class="headerlink" href="#upfmt" title="Permalink to this headline">¶</a></h1>
+<p>Unified Processing Framework for raw Multilingual Text</p>
+<p>UPFMT is a lightweight and easy to use tool for converting raw text into
+Universal Dependencies (aka CONLLU format) that support all major
+languages from the UD corpus (<a class="reference external" href="http://universaldependencies.org/">http://universaldependencies.org/</a>)</p>
+<p>Those in a hurry to get started should first go through the
+Prerequisites section and then directly to the QuickStart guide.
+However, building and tuning your own system will take time and effort -
+we provide full technical details as-well as a guide to train our system
+on your own data.</p>
+<div class="section" id="prerequisites">
+<h2>Prerequisites<a class="headerlink" href="#prerequisites" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>Python 2.7</li>
+<li>JAVA &gt; 1.8</li>
+<li>DyNET (<a class="reference external" href="https://github.com/clab/dynet">https://github.com/clab/dynet</a>)</li>
+<li>Pretrained models (included) or data from the UD corpus
+(<a class="reference external" href="http://universaldependencies.org/">http://universaldependencies.org/</a>)</li>
+</ul>
+<p>Python 2.7 is included in major Linux distributions and is easy to
+install for Windows or OSX-based systems. If your OS does not include
+Python 2.7, check <a class="reference external" href="https://wiki.python.org/moin/BeginnersGuide/Download">https://wiki.python.org/moin/BeginnersGuide/Download</a>
+for installation instructions. Also, JAVA/OpenJDK should be easily
+installable via major package manegement systems such as <code class="docutils literal notranslate"><span class="pre">yum</span></code> and
+<code class="docutils literal notranslate"><span class="pre">apt</span></code> or by downloading the binary distribution from Oracle
+(<a class="reference external" href="https://www.oracle.com/java/index.html">https://www.oracle.com/java/index.html</a>)</p>
+<p>Pretrained models are already included in the standard repository and
+dynet install will be covered in the quick-start quide.</p>
+</div>
+<div class="section" id="quick-start-guide">
+<h2>Quick start guide<a class="headerlink" href="#quick-start-guide" title="Permalink to this headline">¶</a></h2>
+<p>First, make sure <code class="docutils literal notranslate"><span class="pre">pip</span></code> is installed with your Python 2.7 distribution.
+If not: for Debian/Ubuntu</p>
+<div class="code sh highlight-default notranslate"><div class="highlight"><pre><span></span>$ sudo apt-get install python-pip
+</pre></div>
+</div>
+<p>or for Redhat/CentOS</p>
+<div class="code sh highlight-default notranslate"><div class="highlight"><pre><span></span>$ yum install python-pip
+</pre></div>
+</div>
+<p>Next, install DyNET:</p>
+<div class="code sh highlight-default notranslate"><div class="highlight"><pre><span></span>$ pip install git+https://github.com/clab/dynet#egg=dynet
+</pre></div>
+</div>
+<p>Next, get UPFMT by downloading the ZIP arhcive or by cloning this REPO
+using GIT:</p>
+<div class="code sh highlight-default notranslate"><div class="highlight"><pre><span></span>$ cd ~
+$ git clone https://github.com/dumitrescustefan/UPFMT.git
+</pre></div>
+</div>
+<p>You can now do a dry run of the system to see if everything is set up
+correctly. In the folder where you cloned or downloaded and extracted
+this repo, type:</p>
+<div class="code sh highlight-default notranslate"><div class="highlight"><pre><span></span>$ cd UPFMT
+$ mkdir test; mkdir test/in mkdir test/out
+$ echo &quot;This is a simple test.&quot; &gt; test/in/input.txt
+$ python2 main.py --input=test/in --output=test/out --param:language=en
+</pre></div>
+</div>
+<p>If everything worked fine, after the last command you should have a file
+with your results in the <code class="docutils literal notranslate"><span class="pre">test/out</span></code> folder:</p>
+<div class="code sh highlight-default notranslate"><div class="highlight"><pre><span></span>$ cat test/out/input.conllu
+1   This    this    PRON    DT  Number=Sing|PronType=Dem    0   -   _   _
+2   is  be  AUX VBZ Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin   0   -   _   _
+3   a   a   DET DT  Definite=Ind|PronType=Art   0   -   _   _
+4   simple  simple  ADJ JJ  Degree=Pos  0   -   _   _
+5   test    test    NOUN    NN  Number=Sing 0   -   _   SpaceAfter=No
+6   .   .   PUNCT   .   _   0   -   _   _
+</pre></div>
+</div>
+<div class="section" id="advanced">
+<h3>Advanced<a class="headerlink" href="#advanced" title="Permalink to this headline">¶</a></h3>
+<p>The instructions above cover the one-liner installation of DyNET. It is
+sufficient if you only want to run the software and not train your own
+models. However, good speedups both in runtime and training time are
+obtained by building your own DyNET from source. As such, we recommend
+you follow the instructions at <a class="reference external" href="https://github.com/clab/dynet">https://github.com/clab/dynet</a> and build
+DyNET with support for Intel’s Math Kernel Lib.</p>
+</div>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="#">Table Of Contents</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">UPFMT</a><ul>
+<li><a class="reference internal" href="#prerequisites">Prerequisites</a></li>
+<li><a class="reference internal" href="#quick-start-guide">Quick start guide</a><ul>
+<li><a class="reference internal" href="#advanced">Advanced</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="#">Documentation overview</a><ul>
+  </ul></li>
+</ul>
+</div>
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="_sources/index.rst.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div>
+<div id="searchbox" style="display: none" role="search">
+  <h3>Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" />
+      <input type="submit" value="Go" />
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+    </div>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &copy;2018, Dumitrescu Stefan.
+      
+      |
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 1.7.4</a>
+      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.10</a>
+      
+      |
+      <a href="_sources/index.rst.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>
