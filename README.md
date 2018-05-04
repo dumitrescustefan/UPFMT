@@ -1,3 +1,5 @@
+[![Documentation Status](http://readthedocs.org/projects/upfmt/badge/?version=latest)](http://upfmt.readthedocs.io/en/latest/?badge=latest)
+  
 # UPFMT
 Unified Processing Framework for raw Multilingual Text
 
